@@ -22,7 +22,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 <hr/>
 
-<img align="right" alt="GIF"   width="50%" src="https://i.imgur.com/AfhCiQ7.gif"   />
+<img align="right" alt="GIF"   width="45%" src="https://i.imgur.com/AfhCiQ7.gif"   />
 
 
 
@@ -46,7 +46,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://github.com/ReactiveX/rxjs/blob/master/docs_app/assets/Rx_Logo_S.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
