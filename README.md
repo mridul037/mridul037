@@ -43,8 +43,8 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 - 📫 How to reach me: mridulshukla037@gmail.com;
 
  
-
-<img align="left" width="400" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br/>
+<img align="left" width="420" height="280" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 
