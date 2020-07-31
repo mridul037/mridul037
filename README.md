@@ -43,8 +43,6 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 - 💬Ask me about react, Angular and nodejs
 
-- I’m looking for help with Data Structures and Algorithms 😭;
-
 - 📫 How to reach me: mridulshukla037@gmail.com;
 
  
