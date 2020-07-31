@@ -7,6 +7,7 @@ Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India,Freelancer,complet
 
 
 **Talking about Personal Stuffs:**
+    
     -  👨🏽‍💻I’m currently working on Node.js,React.js,Angular,MySql
    
     -  I am currently learning IPFS,peer2peer,Flutter,Data engineering.
