@@ -9,10 +9,10 @@ jobs:
    stuff:
     runs-on:ubuntu-latest
     steps:
-      -uses:actions/checkout@v2
+      -uses: actions/checkout@v2
       
-      -name:let magic happen
-       user:actions/setup-node@v1
+      -name: let magic happen
+       user: actions/setup-node@v1
        with:
           node-version:12.15.0
 
