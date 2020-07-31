@@ -2,6 +2,6 @@ Hey,👋🏽 I'm Mridul
 
 Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India,Freelancer,completed masters of computer application from HBTU-kanpur
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/fxMKdhTnzNw/0.jpg)](http://www.youtube.com/watch?v=fxMKdhTnzNw)
-
-<img src="https://www.pixel4k.com/wp-content/uploads/2018/11/ultra-instinct-goku-4k_1541975219.jpg" width="700" height="400">
+![alt-text](https://i.imgur.com/AfhCiQ7.gif)
+![alt-text](https://media1.tenor.com/images/e25b5bd1a515ecb16ed979d17122ed2f/tenor.gif)
+<img src="https://www.pixel4k.com/wp-content/uploads/2018/11/ultra-instinct-goku-4k_1541975219.jpg" width="600" height="400">
