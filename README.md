@@ -1,4 +1,4 @@
-Hey,👋🏽 I'm Mridul
+### Hey,👋🏽 I'm Mridul
 <hr/>
 
 Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India, Freelancer, completed masters of computer application from HBTU-kanpur,
@@ -24,11 +24,11 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 
 
-**Talking about Personal Stuffs:**
+   **Talking about Personal Stuffs:**
     
-    -👨🏽‍💻I’m currently working on **Node.js,React.js,Angular,MySql**
+    -👨🏽‍💻I’m currently working on Node.js,React.js,Angular,MySql**
    
-    -I am currently learning **IPFS,peer2peer,Flutter,Data engineering**.
+    - I am currently learning **IPFS(peer2peer),docker,Flutter,kafka**.
     
     -👯I’m looking to collaborate on **anything free and open source**.
     
