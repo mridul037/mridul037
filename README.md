@@ -44,7 +44,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
  
 <br/>
-<img align="left" width="420" height="280" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="left" width="370" height="230" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 
