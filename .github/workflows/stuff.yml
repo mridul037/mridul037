@@ -1,0 +1,34 @@
+name: Generate README every 1 hour
+
+on: 
+  schedule:
+     -cron:"0 * * * *"
+  workflow_dispatch:
+
+jobs:
+   stuff:
+    runs-on:ubuntu-latest
+    steps:
+      -uses:actions/checkout@v2
+      
+      -name:let magic happen
+       user:actions/setup-node@v1
+       with:
+          node-version:12.15.0
+
+       - run:npm
+       - run:node .   
+         env:
+           client_id:${{ secrets.client_id }}
+
+        -name: Add to git repo
+        run: |
+           git add .
+           git config --global user.name "mridul037"
+           git config --global user.email "mridulshukla037@gmail.com"
+           git commit -m "[Magic] Automated Readme update"
+        
+        - name: Push
+           uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
