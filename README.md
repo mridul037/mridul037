@@ -15,7 +15,7 @@ Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India,Freelancer,complet
 </a>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/AfhCiQ7.gif"   />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 
 **Talking about Personal Stuffs:**
@@ -46,5 +46,5 @@ Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India,Freelancer,complet
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![alt-text](https://media1.tenor.com/images/e25b5bd1a515ecb16ed979d17122ed2f/tenor.gif)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <img src="https://www.pixel4k.com/wp-content/uploads/2018/11/ultra-instinct-goku-4k_1541975219.jpg" width="600" height="400">
