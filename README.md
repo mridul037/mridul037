@@ -2,23 +2,35 @@ Hey,👋🏽 I'm Mridul
 <hr/>
 Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India,Freelancer,completed masters of computer application from HBTU-kanpur
 
-<hr/>
-<img align="right" alt="GIF" src="https://i.imgur.com/AfhCiQ7.gif" />
+
+
+<a href="https://www.linkedin.com/in/mridul-shukla-899123174/">
+  <img align="left" alt="mriduls LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/mridul37shukla/">
+  <img align="left" alt="mriduls Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.facebook.com/mridul.shukla.524/">
+  <img align="left" alt="mriduls facebook" width="22px" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" />
+</a>
+
+<img align="right" alt="GIF" src="https://i.imgur.com/AfhCiQ7.gif"   />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
     
-    -  👨🏽‍💻I’m currently working on Node.js,React.js,Angular,MySql
+    -👨🏽‍💻I’m currently working on **Node.js,React.js,Angular,MySql**
    
-    -  I am currently learning IPFS,peer2peer,Flutter,Data engineering.
+    -I am currently learning **IPFS,peer2peer,Flutter,Data engineering**.
     
-    -  👯I’m looking to collaborate data engineering,flutter.
+    -👯I’m looking to collaborate on **anything free and open source**.
     
-    -  💬Ask me about react, Angular and nodejs
+    -💬Ask me about react, Angular and nodejs
     
-    -  🤔 I’m looking for help with Data Structures and Algorithms 😭;
+    -🤔 I’m looking for help with Data Structures and Algorithms 😭;
     
-    -  📫 How to reach me: mridulshukla037@gmail.com;
+    -📫 How to reach me: mridulshukla037@gmail.com;
 
 **Languages and Tools:**  
 
