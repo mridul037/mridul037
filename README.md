@@ -1,7 +1,10 @@
 Hey,👋🏽 I'm Mridul
 <hr/>
-Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India,Freelancer,completed masters of computer application from HBTU-kanpur
 
+Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India, Freelancer, completed masters of computer application from HBTU-kanpur,
+I have done some internship's onsite and remote. Beside's programming, I enjoy eating food, practicing yoga and watching anime.
+
+<br/>
 
 
 <a href="https://www.linkedin.com/in/mridul-shukla-899123174/">
@@ -13,6 +16,9 @@ Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India,Freelancer,complet
 <a href="https://www.facebook.com/mridul.shukla.524/">
   <img align="left" alt="mriduls facebook" width="22px" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" />
 </a>
+
+
+<hr/>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/AfhCiQ7.gif"   />
 
