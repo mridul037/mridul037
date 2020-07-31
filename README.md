@@ -46,9 +46,11 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
- <img  align="right" width="40" height="170" src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> 
-  
-  **Languages and Tools:**  
+ <img  align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> 
+ 
+  <h6 align="center">
+  **Languages and Tools:** 
+  </h6>
 <code><p align="right"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/ReactiveX/rxjs/blob/master/docs_app/assets/Rx_Logo_S.png"></code>
