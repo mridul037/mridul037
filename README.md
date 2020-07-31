@@ -42,20 +42,19 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 - 📫 How to reach me: mridulshukla037@gmail.com;
 
-
+ 
 
 
 <img align="left" width="400" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
  <img  align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> 
 
-<code><div> </code>
-  <h6 align="center">
-  **Languages and Tools:** 
-  </h6>
-<code><p ></code>
+ **Languages and Tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/ReactiveX/rxjs/blob/master/docs_app/assets/Rx_Logo_S.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -63,6 +62,8 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><p></code>
-<code></div> </code>
+
+
+ 
+
 
