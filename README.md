@@ -1,4 +1,6 @@
-### Hey,👋🏽 I'm Mridul
+### Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Mridul
+<h3 align="center">A passionate developer from India</h3>
+
 <hr/>
 
 Hi, I'm Mridul Shukla, a Full Stack Developer 🚀 from India, Freelancer, completed masters of computer application from HBTU-kanpur,
@@ -24,19 +26,22 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 
 
-   **Talking about Personal Stuffs:**
-    
-    -👨🏽‍💻I’m currently working on Node.js,React.js,Angular,MySql**
-   
-    - I am currently learning **IPFS(peer2peer),docker,Flutter,kafka**.
-    
-    -👯I’m looking to collaborate on **anything free and open source**.
-    
-    -💬Ask me about react, Angular and nodejs
-    
-    -🤔 I’m looking for help with Data Structures and Algorithms 😭;
-    
-    -📫 How to reach me: mridulshukla037@gmail.com;
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on **Node.js,React.js,Angular,MySql**
+
+- 🌱 I am currently learning **IPFS(peer2peer),docker,Flutter,Data Science**. 
+
+- 👯 I’m looking to collaborate on **anything free and open source**.
+
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+
+- 💬Ask me about react, Angular and nodejs
+
+- I’m looking for help with Data Structures and Algorithms 😭;
+
+- 📫 How to reach me: mridulshukla037@gmail.com;
+
 
 **Languages and Tools:**  
 
