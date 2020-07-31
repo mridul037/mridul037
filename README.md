@@ -22,13 +22,13 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 <hr/>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/AfhCiQ7.gif"   />
+<img align="right" alt="GIF"   width="50%" src="https://i.imgur.com/AfhCiQ7.gif"   />
 
 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on **Node.js,React.js,Angular,MySql**
+- 👨🏽‍💻 I’m currently working on **Node.js,React.js,Angular,MySql,Rxjs**
 
 - 🌱 I am currently learning **IPFS(peer2peer),docker,Flutter,Data Science**. 
 
@@ -57,4 +57,6 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
+<p align="left">
+  
+  </p>
