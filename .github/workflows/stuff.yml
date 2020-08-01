@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 12.15.0
 
-      - run: npm
+      - run: yarn
       - run: node .   
         env:
             client_id:${{ secrets.client_id }}
