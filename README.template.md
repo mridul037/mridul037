@@ -69,23 +69,23 @@ Quote of the hour:
   - {val1}
      <hr/>
       - {des1}
-      <hr/>
+     
   - {val2}
       <hr/>
       - {des2}
-      <hr/>
+      
   - {val3}
        <hr/>
       - {des3}
-      <hr/>
+      
   - {val4}
         <hr/>
       - {des4}
-        <hr/>
+       
   - {val5}
        <hr/>
        - {des5}
-       <hr/>
+      
 
 
 
