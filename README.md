@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People under pressure don’t work better; they just work faster.
+The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 
-~ Tom DeMarco
+~ Danny Hillis
 <pre>
 
 </pre>
