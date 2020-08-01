@@ -70,27 +70,27 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
   - {val1}
      <hr/>
      
-      - {des1}
+      - *{des1}*
      
   - {val2}
       <hr/>
       
-      - {des2}
+      - *{des2}*
       
   - {val3}
       <hr/>
       
-      - {des3}
+      - *{des3}*
       
   - {val4}
       <hr/>
       
-      - {des4}
+      - *{des4}*
        
   - {val5}
       <hr/>
        
-       - {des5}
+       - *{des5}*
       
 
 
