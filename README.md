@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
-~ Marijn Haverbeke
+~ Charles Babbage
 <pre>
 
 </pre>
