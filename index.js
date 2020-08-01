@@ -23,19 +23,19 @@ app.get("/", async (req, res) => {
     await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
   ).json();
 
-  const {data} = await fetch(
+  const {da} = await fetch(
     `http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=${Key}`
   ).json();
   
-  const {total:val1}=data.article[0].title;
-  const {total:val2}=data.article[1].title;
-  const {total:val3}=data.article[2].title;
-  const {total:val4}=data.article[3].title;
-  const {total:val5}=data.article[4].title;
+  const {total:val1}=da.article[0].title;
+  const {total:val2}=da.article[1].title;
+  const {total:val3}=da.article[2].title;
+  const {total:val4}=da.article[3].title;
+  const {total:val5}=da.article[4].title;
   
 
 
-  console.log(data);
+  
   return res.send("data has come");
 });
 
