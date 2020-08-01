@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 
-~ Danny Hillis
+~ John Gall (author)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The computer is not just an advanced calculator or camera or paintbrush; rather,
 
 </pre>
 **Daily News**
-  - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
+  - Startups Weekly: Qualtrics IPO to be even more exciting this time around
      <hr/>
      
-      - *TikTok’s U.S. General Manager Vanessa Pappas has posted a video message to the platform that appears to be a response to reports from Friday that President Trump is working on an effective “ban” of the app in the U.S., a plan he shared with reporters from the…*
+      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
      
+  - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
+      <hr/>
+      
+      - *TikTok’s U.S. General Manager Vanessa Pappas has posted a video message to the platform that appears to be a response to reports from Friday that President Trump is working on an effective “ban” of the app in the U.S., a plan he shared with reporters from the…*
+      
   - What brands need to do if they want to break up with Facebook
       <hr/>
       
@@ -81,16 +86,11 @@ The computer is not just an advanced calculator or camera or paintbrush; rather,
       <hr/>
       
       - *This week, we're focused on rounding up the news from the U.S. antitrust investigation into Apple, as it pertains to apps, the App Store and developers.*
-      
+       
   - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
       <hr/>
-      
-      - *Welcome back to Tech at Work, where we look at labor, diversity and inclusion. Given the amount of activity in this space, we’re going to ramp this up from bi-weekly to weekly. This week, we’re looking at the latest action from a group of Amazon warehouse wor…*
        
-  - ByteDance and Microsoft offer deal to allow TikTok to remain in the U.S., per report
-      <hr/>
-       
-       - *China’s ByteDance has agreed to divest its TikTok operations in the US, according to a report in Reuters. Under the deal, Microsoft would take over stewardship of the data of U.S.-based users. The deal allows another company besides Microsoft to operate TikTo…*
+       - *Welcome back to Tech at Work, where we look at labor, diversity and inclusion. Given the amount of activity in this space, we’re going to ramp this up from bi-weekly to weekly. This week, we’re looking at the latest action from a group of Amazon warehouse wor…*
       
 
 
