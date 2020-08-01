@@ -53,3 +53,4 @@ const readme=readmeTemplate
 
 
 
+main();
