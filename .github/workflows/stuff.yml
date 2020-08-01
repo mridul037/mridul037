@@ -19,7 +19,7 @@ jobs:
       - run: yarn
       - run: node .   
         env:
-            client_id:${{ secrets.client_id }}
+            
 
       - name: Add to git repo
         run: |
