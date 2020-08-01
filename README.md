@@ -22,9 +22,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 </pre>
 Quote of the hour:
 
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+In man-machine symbiosis, it is man who must adjust: The machines can't.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,13 +67,21 @@ False scheduling to match the patron's desired date is much more common in our d
 </pre>
 **Daily News**
   - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
-      -TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
+  
+      - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
+      
   - What brands need to do if they want to break up with Facebook
-      -What brands need to do if they want to break up with Facebook
+  
+      - What brands need to do if they want to break up with Facebook
+      
   - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
-      -This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
+  
+      - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
+      
   - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
-      -Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
+  
+      - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
+      
   - ByteDance and Microsoft offer deal to allow TikTok to remain in the U.S., per report
 
 
