@@ -68,22 +68,27 @@ Quote of the hour:
 **Daily News**
   - {val1}
      <hr/>
+     
       - {des1}
      
   - {val2}
       <hr/>
+      
       - {des2}
       
   - {val3}
-       <hr/>
+      <hr/>
+      
       - {des3}
       
   - {val4}
-        <hr/>
+      <hr/>
+      
       - {des4}
        
   - {val5}
-       <hr/>
+      <hr/>
+       
        - {des5}
       
 
