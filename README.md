@@ -20,6 +20,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 <pre>
 
 </pre>
+
 **Quote of the hour:**
 
 Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
