@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 12.15.0
 
-      - run: npm start
+      - run: npm i
       - run: node .   
         
             
