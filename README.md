@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+Never memorize something that you can look up.
 
-~ John Gall (author)
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A complex system that works is invariably found to have evolved from a simple sy
 
 </pre>
 **Daily News**
-  - Startups Weekly: Qualtrics IPO to be even more exciting this time around
+  - Gillmor Gang: 3 Weeks Ago
      <hr/>
      
-      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
+      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
      
+  - Startups Weekly: Qualtrics IPO to be even more exciting this time around
+      <hr/>
+      
+      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
+      
   - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
       <hr/>
       
@@ -81,16 +86,11 @@ A complex system that works is invariably found to have evolved from a simple sy
       <hr/>
       
       - *With more than 90 major advertisers and counting announcing plans to dump Facebook, a significant question lingers: Where will brands go next for their digital marketing needs?*
-      
+       
   - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
       <hr/>
-      
-      - *This week, we're focused on rounding up the news from the U.S. antitrust investigation into Apple, as it pertains to apps, the App Store and developers.*
        
-  - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
-      <hr/>
-       
-       - *Welcome back to Tech at Work, where we look at labor, diversity and inclusion. Given the amount of activity in this space, we’re going to ramp this up from bi-weekly to weekly. This week, we’re looking at the latest action from a group of Amazon warehouse wor…*
+       - *This week, we're focused on rounding up the news from the U.S. antitrust investigation into Apple, as it pertains to apps, the App Store and developers.*
       
 
 
