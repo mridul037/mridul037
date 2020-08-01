@@ -44,12 +44,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 - 💬Ask me about react, Angular and nodejs
 
 - 📫 How to reach me: mridulshukla037@gmail.com;
-<br/>
- Quote of the hour:
 
- {qoth}
-
- ~ {qoth_author}
  
 <br/>
 <img align="right" width="40%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
