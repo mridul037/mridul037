@@ -27,11 +27,11 @@ const readmeTemplate = (
     await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601")
   ).json();
   // console.log(da);
-  const {total:val1}=da.articles[0].title;
-  const {total:val2}=da.articles[1].title;
-  const {total:val3}=da.articles[2].title;
-  const {total:val4}=da.articles[3].title;
-  const {total:val5}=da.articles[4].title;
+  const val1=da.articles[0].title;
+  const val2=da.articles[1].title;
+  const val3=da.articles[2].title;
+  const val4=da.articles[3].title;
+  const val5=da.articles[4].title;
   
 
 
