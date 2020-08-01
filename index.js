@@ -24,14 +24,14 @@ app.get("/", async (req, res) => {
   ).json();
 
   const {da} = await fetch(
-    `http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=${Key}`
+    `http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601`
   ).json();
   
-  const {total:val1}=da.article[0].title;
-  const {total:val2}=da.article[1].title;
-  const {total:val3}=da.article[2].title;
-  const {total:val4}=da.article[3].title;
-  const {total:val5}=da.article[4].title;
+  const {total:val1}=da.articles[0].title;
+  const {total:val2}=da.articles[1].title;
+  const {total:val3}=da.articles[2].title;
+  const {total:val4}=da.articles[3].title;
+  const {total:val5}=da.articles[4].title;
   
 
 
