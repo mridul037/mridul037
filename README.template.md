@@ -67,23 +67,24 @@ Quote of the hour:
 </pre>
 **Daily News**
   - {val1}
-  
+     <hr/>
       - {des1}
       
   - {val2}
-  
+      <hr/>
       - {des2}
       
   - {val3}
-  
+       <hr/>
       - {des3}
       
   - {val4}
-  
+        <hr/>
       - {des4}
       
   - {val5}
-
+       <hr/>
+       - {des5}
 
 
 
