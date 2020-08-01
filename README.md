@@ -69,29 +69,29 @@ Story in a game is like a story in a porn movie. It's expected to be there, but 
 **Daily News**
   - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
      <hr/>
-     
+       <p>
       - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
-     
+       </p>
   - What brands need to do if they want to break up with Facebook
       <hr/>
-      
+        <p>
       - What brands need to do if they want to break up with Facebook
-      
+        </p>
   - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
       <hr/>
-      
+         <p>
       - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
-      
+          </p>
   - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
       <hr/>
-      
+        <p>
       - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
-       
+       </p>
   - ByteDance and Microsoft offer deal to allow TikTok to remain in the U.S., per report
       <hr/>
-       
+       <p>
        - ByteDance and Microsoft offer deal to allow TikTok to remain in the U.S., per report
-      
+       </p>
 
 
 
