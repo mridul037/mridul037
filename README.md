@@ -22,9 +22,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 </pre>
 Quote of the hour:
 
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 
-~ Steve Jobs
+~ George Boole
 <pre>
 
 </pre>
@@ -66,11 +66,11 @@ It is hard to think that a $2 billion company with 4,300-plus people couldn't co
 
 </pre>
 **Daily News**
-  - undefined
-  - undefined
-  - undefined
-  - undefined
-  - undefined
+  - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
+  - What brands need to do if they want to break up with Facebook
+  - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
+  - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
+  - ByteDance and Microsoft offer deal to allow TikTok to remain in the U.S., per report
 
 
 
