@@ -22,9 +22,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 </pre>
 Quote of the hour:
 
-The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
-~ George Boole
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,9 +67,13 @@ The design of the following treatise is to investigate the fundamental laws of t
 </pre>
 **Daily News**
   - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
+      -TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
   - What brands need to do if they want to break up with Facebook
+      -What brands need to do if they want to break up with Facebook
   - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
+      -This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
   - Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
+      -Tech at Work: Amazon caravan protest, Genderify's algorithmic bias and using 'BIPOC'
   - ByteDance and Microsoft offer deal to allow TikTok to remain in the U.S., per report
 
 
