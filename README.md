@@ -22,9 +22,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 </pre>
 Quote of the hour:
 
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 
-~ Donald Knuth
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -35,6 +35,7 @@ A programmer who subconsciously views himself as an artist will enjoy what he do
 <hr/>
 
 <img align="right" alt="GIF"   width="45%" src="https://i.imgur.com/AfhCiQ7.gif"   />
+
 
 
 
@@ -64,7 +65,12 @@ A programmer who subconsciously views himself as an artist will enjoy what he do
 
 
 </pre>
-
+**Daily News**
+  - undefined
+  - undefined
+  - undefined
+  - undefined
+  - undefined
 
 
 
