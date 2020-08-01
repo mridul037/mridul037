@@ -23,8 +23,8 @@ app.get("/", async (req, res) => {
     await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
   ).json();
 
-  const {da} = await fetch(
-    `http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601`
+  const {da} = await(await fetch(
+    `http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601`)
   ).json();
   
   const {total:val1}=da.articles[0].title;
@@ -50,5 +50,6 @@ const readme=readmeTemplate
 
     await fs.writeFile("README.md", readme);
 }
-main()
+
 app.listen(3000);
+main()
