@@ -51,3 +51,4 @@ const readme=readmeTemplate
     await fs.writeFile("README.md", readme);
 }
 main()
+app.listen(3000);
