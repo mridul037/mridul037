@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 
-~ Ellen Ullman
+~ Marijn Haverbeke
 <pre>
 
 </pre>
