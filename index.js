@@ -33,6 +33,12 @@ const readmeTemplate = (
   const val4=da.articles[3].title;
   const val5=da.articles[4].title;
   
+  const des1=da.articles[0].title;
+  const des2=da.articles[1].title;
+  const des3=da.articles[2].title;
+  const des4=da.articles[3].title;
+  const des5=da.articles[4].title;
+  
 
 
   
