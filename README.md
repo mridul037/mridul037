@@ -22,9 +22,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 </pre>
 Quote of the hour:
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 
-~ Tom Cargill
+~ Donald Knuth
 <pre>
 
 </pre>
