@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Never memorize something that you can look up.
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 
-~ Albert Einstein
+~ Ellen Ullman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Never memorize something that you can look up.
 
 </pre>
 **Daily News**
-  - Gillmor Gang: 3 Weeks Ago
+  - As threats to the company mount, TikTok pushes back
      <hr/>
      
-      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
+      - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
      
+  - The Exchange: Unicorn IPOs, tech earnings and my favorite VC round from the week
+      <hr/>
+      
+      - *The TechCrunch Exchange newsletter just launched. Soon only a partial version will hit the site, so sign up to get the full download. Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. It’s broadly ba…*
+      
+  - Gillmor Gang: 3 Weeks Ago
+      <hr/>
+      
+      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
+      
   - Startups Weekly: Qualtrics IPO to be even more exciting this time around
       <hr/>
       
       - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
-      
+       
   - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
       <hr/>
-      
-      - *TikTok’s U.S. General Manager Vanessa Pappas has posted a video message to the platform that appears to be a response to reports from Friday that President Trump is working on an effective “ban” of the app in the U.S., a plan he shared with reporters from the…*
-      
-  - What brands need to do if they want to break up with Facebook
-      <hr/>
-      
-      - *With more than 90 major advertisers and counting announcing plans to dump Facebook, a significant question lingers: Where will brands go next for their digital marketing needs?*
        
-  - This Week in Apps: A guide to the US antitrust case against Apple, Microsoft in talks to buy TikTok
-      <hr/>
-       
-       - *This week, we're focused on rounding up the news from the U.S. antitrust investigation into Apple, as it pertains to apps, the App Store and developers.*
+       - *TikTok’s U.S. General Manager Vanessa Pappas has posted a video message to the platform that appears to be a response to reports from Friday that President Trump is working on an effective “ban” of the app in the U.S., a plan he shared with reporters from the…*
       
 
 
