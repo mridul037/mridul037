@@ -64,12 +64,7 @@ Quote of the hour:
 
 
 </pre>
-**news**
-   -{val1}
-   -{val2}
-   -{val3}
-   -{val4}
-   -{val5}
+
 
 
 
