@@ -38,6 +38,7 @@ Quote of the hour:
 
 
 
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on **Node.js,React.js,Angular,MySql,Rxjs**
@@ -64,7 +65,12 @@ Quote of the hour:
 
 
 </pre>
-
+**Daily News**
+  - {val1}
+  - {val2}
+  - {val3}
+  - {val4}
+  - {val5}
 
 
 
