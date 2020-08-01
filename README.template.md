@@ -59,12 +59,18 @@ Quote of the hour:
 <img align="left" width="55%"  src="https://github-readme-stats.vercel.app/api?username=mridul037&show_icons=true&hide_border=true" alt="mridul" /> </p>
 <br/>
 <br/>
+
+<pre>
+
+
+</pre>
 **news**
    -{val1}
    -{val2}
    -{val3}
    -{val4}
    -{val5}
+
 
 
 
