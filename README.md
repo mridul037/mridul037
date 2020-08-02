@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 
-~ Paul Graham (programmer)
+~ Philip Greenspun
 <pre>
 
 </pre>
