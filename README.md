@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's not so important what you work on, so long as you're not wasting your time.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Paul Graham (programmer)
+~ Ted Nelson
 <pre>
 
 </pre>
