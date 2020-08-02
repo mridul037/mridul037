@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of computing is insight, not numbers.
+The best way to know that you have found the last bug is never to find the first bug.
 
-~ Richard Hamming
+~ Harlan Mills
 <pre>
 
 </pre>
