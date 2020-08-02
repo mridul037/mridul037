@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ David Parnas
+~ Ward Cunningham
 <pre>
 
 </pre>
