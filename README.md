@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+People should be able to speak and breathe programs just like they talk now.
 
-~ Richard Hamming
+~ Jaron Lanier
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
 
 </pre>
 **Daily News**
-  - AI is struggling to adjust to 2020
+  - It looks like Sequoia has hired a second partner in Europe: Revolut product lead George Robson
      <hr/>
      
-      - *Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.*
+      - *Silicon Valley venture capital firm Sequoia Capital recently set up shop in Europe after hiring Luciana Lixandru away from Accel’s London office. Now, according to a tweet by Revolut product lead George Robson, the VC has recruited a second European partner. …*
      
+  - AI is struggling to adjust to 2020
+      <hr/>
+      
+      - *Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.*
+      
   - Future Fields is tackling cultured meat's biggest problem
       <hr/>
       
@@ -81,16 +86,11 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
       <hr/>
       
       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
-      
+       
   - Watch SpaceX's Crew Dragon splash down in the Atlantic Ocean live as astronauts return to Earth
       <hr/>
-      
-      - *SpaceX and NASA are getting ready to complete their most important joint mission to date – Crew Dragon Demo-2, which is the culmination of the partners’ work on their Commercial Crew program designed to certify a SpaceX spacecraft for regular human spacefligh…*
        
-  - Astronauts successfully depart the ISS aboard SpaceX Dragon, starting their trip home
-      <hr/>
-       
-       - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
+       - *SpaceX and NASA are getting ready to complete their most important joint mission to date – Crew Dragon Demo-2, which is the culmination of the partners’ work on their Commercial Crew program designed to certify a SpaceX spacecraft for regular human spacefligh…*
       
 
 
