@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming increases goes as a power of program size.
+It's not so important what you work on, so long as you're not wasting your time.
 
-~ Fred Brooks
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Programming increases goes as a power of program size.
 
 </pre>
 **Daily News**
-  - The Station: ADA turns 30, Panasonic's new battery tech and delivery (data) woes
+  - Future Fields is tackling cultured meat's biggest problem
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      - *One possible solution to cellular agriculture’s biggest problem — how to develop a cheap, humane, growth material for cultured meat — may have come from a conversation in line at a Tim Hortons in Alberta. The husband and wife duo of Matt and Jalene Anderson-B…*
      
+  - The Station: ADA turns 30, Panasonic's new battery tech and delivery (data) woes
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      
   - Watch SpaceX's Crew Dragon splash down in the Atlantic Ocean live as astronauts return to Earth
       <hr/>
       
@@ -81,16 +86,11 @@ Programming increases goes as a power of program size.
       <hr/>
       
       - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
-      
+       
   - As threats to the company mount, TikTok pushes back
       <hr/>
-      
-      - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
        
-  - The Exchange: Unicorn IPOs, tech earnings and my favorite VC round from the week
-      <hr/>
-       
-       - *The TechCrunch Exchange newsletter just launched. Soon only a partial version will hit the site, so sign up to get the full download. Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. It’s broadly ba…*
+       - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
       
 
 
