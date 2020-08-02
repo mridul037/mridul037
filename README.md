@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Simplicity does not precede complexity, but follows it.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Alan Perlis
+~ Kent Beck
 <pre>
 
 </pre>
