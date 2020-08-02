@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+When in doubt, use brute force.
 
-~ Fred Brooks
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 
 </pre>
 **Daily News**
-  - Astronauts successfully depart the ISS aboard SpaceX Dragon, starting their trip home
+  - Watch SpaceX's Crew Dragon splash down in the Atlantic Ocean live as astronauts return to Earth
      <hr/>
      
-      - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
+      - *SpaceX and NASA are getting ready to complete their most important joint mission to date – Crew Dragon Demo-2, which is the culmination of the partners’ work on their Commercial Crew program designed to certify a SpaceX spacecraft for regular human spacefligh…*
      
+  - Astronauts successfully depart the ISS aboard SpaceX Dragon, starting their trip home
+      <hr/>
+      
+      - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
+      
   - As threats to the company mount, TikTok pushes back
       <hr/>
       
@@ -81,16 +86,11 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
       <hr/>
       
       - *The TechCrunch Exchange newsletter just launched. Soon only a partial version will hit the site, so sign up to get the full download. Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. It’s broadly ba…*
-      
+       
   - Gillmor Gang: 3 Weeks Ago
       <hr/>
-      
-      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
        
-  - Startups Weekly: Qualtrics IPO to be even more exciting this time around
-      <hr/>
-       
-       - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
+       - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
       
 
 
