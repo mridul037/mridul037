@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 
-~ Jaron Lanier
+~ Stewart Brand
 <pre>
 
 </pre>
