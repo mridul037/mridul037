@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+The purpose of computing is insight, not numbers.
 
-~ Philip Greenspun
+~ Richard Hamming
 <pre>
 
 </pre>
