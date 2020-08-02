@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+Programming increases goes as a power of program size.
 
-~ Ken Thompson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When in doubt, use brute force.
 
 </pre>
 **Daily News**
-  - Watch SpaceX's Crew Dragon splash down in the Atlantic Ocean live as astronauts return to Earth
+  - The Station: ADA turns 30, Panasonic's new battery tech and delivery (data) woes
      <hr/>
      
-      - *SpaceX and NASA are getting ready to complete their most important joint mission to date – Crew Dragon Demo-2, which is the culmination of the partners’ work on their Commercial Crew program designed to certify a SpaceX spacecraft for regular human spacefligh…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
      
+  - Watch SpaceX's Crew Dragon splash down in the Atlantic Ocean live as astronauts return to Earth
+      <hr/>
+      
+      - *SpaceX and NASA are getting ready to complete their most important joint mission to date – Crew Dragon Demo-2, which is the culmination of the partners’ work on their Commercial Crew program designed to certify a SpaceX spacecraft for regular human spacefligh…*
+      
   - Astronauts successfully depart the ISS aboard SpaceX Dragon, starting their trip home
       <hr/>
       
@@ -81,16 +86,11 @@ When in doubt, use brute force.
       <hr/>
       
       - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
-      
+       
   - The Exchange: Unicorn IPOs, tech earnings and my favorite VC round from the week
       <hr/>
-      
-      - *The TechCrunch Exchange newsletter just launched. Soon only a partial version will hit the site, so sign up to get the full download. Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. It’s broadly ba…*
        
-  - Gillmor Gang: 3 Weeks Ago
-      <hr/>
-       
-       - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
+       - *The TechCrunch Exchange newsletter just launched. Soon only a partial version will hit the site, so sign up to get the full download. Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. It’s broadly ba…*
       
 
 
