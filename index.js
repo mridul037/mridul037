@@ -27,7 +27,7 @@ const readmeTemplate = (
   
   const getTitleDesc = async () => {
     const { articles } = await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601").then((res) => res.json());
-    val.push(articles[0].title)
+  
   return articles;
 };
  
