@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 
-~ Stewart Brand
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Once a new technology starts rolling, if you’re not part of the steamroller, y
 
 </pre>
 **Daily News**
-  - It looks like Sequoia has hired a second partner in Europe: Revolut product lead George Robson
+  - SpaceX and NASA successfully return Crew Dragon spacecraft to Earth with astronauts on board
      <hr/>
      
-      - *Silicon Valley venture capital firm Sequoia Capital recently set up shop in Europe after hiring Luciana Lixandru away from Accel’s London office. Now, according to a tweet by Revolut product lead George Robson, the VC has recruited a second European partner. …*
+      - *SpaceX and NASA have made history once again, successfully completing the crucial final phase of their Demo-2 mission for the Crew Dragon spacecraft, SpaceX’s first spacecraft made for human flight. This marks the end of this last demonstration mission, which…*
      
+  - It looks like Sequoia has hired a second partner in Europe: Revolut product lead George Robson
+      <hr/>
+      
+      - *Silicon Valley venture capital firm Sequoia Capital recently set up shop in Europe after hiring Luciana Lixandru away from Accel’s London office. Now, according to a tweet by Revolut product lead George Robson, the VC has recruited a second European partner. …*
+      
   - AI is struggling to adjust to 2020
       <hr/>
       
@@ -81,16 +86,11 @@ Once a new technology starts rolling, if you’re not part of the steamroller, y
       <hr/>
       
       - *One possible solution to cellular agriculture’s biggest problem — how to develop a cheap, humane, growth material for cultured meat — may have come from a conversation in line at a Tim Hortons in Alberta. The husband and wife duo of Matt and Jalene Anderson-B…*
-      
+       
   - The Station: ADA turns 30, Panasonic's new battery tech and delivery (data) woes
       <hr/>
-      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
        
-  - Watch SpaceX's Crew Dragon splash down in the Atlantic Ocean live as astronauts return to Earth
-      <hr/>
-       
-       - *SpaceX and NASA are getting ready to complete their most important joint mission to date – Crew Dragon Demo-2, which is the culmination of the partners’ work on their Commercial Crew program designed to certify a SpaceX spacecraft for regular human spacefligh…*
+       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
       
 
 
