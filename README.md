@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+It's not so important what you work on, so long as you're not wasting your time.
 
-~ Ward Cunningham
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
