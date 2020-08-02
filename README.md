@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
-~ Fred Brooks
+~ Terry Winograd
 <pre>
 
 </pre>
