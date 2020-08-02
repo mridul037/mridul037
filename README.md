@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ Charles Babbage
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbag
 
 </pre>
 **Daily News**
-  - As threats to the company mount, TikTok pushes back
+  - Astronauts successfully depart the ISS aboard SpaceX Dragon, starting their trip home
      <hr/>
      
-      - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
+      - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
      
+  - As threats to the company mount, TikTok pushes back
+      <hr/>
+      
+      - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
+      
   - The Exchange: Unicorn IPOs, tech earnings and my favorite VC round from the week
       <hr/>
       
@@ -81,16 +86,11 @@ On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbag
       <hr/>
       
       - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
-      
+       
   - Startups Weekly: Qualtrics IPO to be even more exciting this time around
       <hr/>
-      
-      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
        
-  - TikTok says it's "not planning on going anywhere" in response to pending U.S. ban
-      <hr/>
-       
-       - *TikTok’s U.S. General Manager Vanessa Pappas has posted a video message to the platform that appears to be a response to reports from Friday that President Trump is working on an effective “ban” of the app in the U.S., a plan he shared with reporters from the…*
+       - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
       
 
 
