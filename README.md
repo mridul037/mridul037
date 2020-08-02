@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Codes are a puzzle. A game, just like any other game.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Alan Turing
+~ John von Neumann
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Codes are a puzzle. A game, just like any other game.
 
 </pre>
 **Daily News**
-  - {val1}
+  - Astronauts successfully depart the ISS aboard SpaceX Dragon, starting their trip home
      <hr/>
      
-      - *{des1}*
+      - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
      
-  - {val2}
+  - As threats to the company mount, TikTok pushes back
       <hr/>
       
-      - *{des2}*
+      - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
       
-  - {val3}
+  - The Exchange: Unicorn IPOs, tech earnings and my favorite VC round from the week
       <hr/>
       
-      - *{des3}*
+      - *The TechCrunch Exchange newsletter just launched. Soon only a partial version will hit the site, so sign up to get the full download. Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. It’s broadly ba…*
       
-  - {val4}
+  - Gillmor Gang: 3 Weeks Ago
       <hr/>
       
-      - *{des4}*
+      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Saturday, July 11, 2020. For more, subscribe free to the Gillmor Gang Newsletter. Produced and directed by Tina Chase Gillmor @tinag…*
        
-  - {val5}
+  - Startups Weekly: Qualtrics IPO to be even more exciting this time around
       <hr/>
        
-       - *{des5}*
+       - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7am PT). Subscribe here. German software giant SAP bought experience management platform Qualtrics for $8 billion days before the unicorn’s …*
       
 
 
