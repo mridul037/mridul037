@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's not so important what you work on, so long as you're not wasting your time.
+I think you should always bear in mind that entropy is not on your side.
 
-~ Paul Graham (programmer)
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It's not so important what you work on, so long as you're not wasting your time.
 
 </pre>
 **Daily News**
-  - Future Fields is tackling cultured meat's biggest problem
+  - AI is struggling to adjust to 2020
      <hr/>
      
-      - *One possible solution to cellular agriculture’s biggest problem — how to develop a cheap, humane, growth material for cultured meat — may have come from a conversation in line at a Tim Hortons in Alberta. The husband and wife duo of Matt and Jalene Anderson-B…*
+      - *Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.*
      
+  - Future Fields is tackling cultured meat's biggest problem
+      <hr/>
+      
+      - *One possible solution to cellular agriculture’s biggest problem — how to develop a cheap, humane, growth material for cultured meat — may have come from a conversation in line at a Tim Hortons in Alberta. The husband and wife duo of Matt and Jalene Anderson-B…*
+      
   - The Station: ADA turns 30, Panasonic's new battery tech and delivery (data) woes
       <hr/>
       
@@ -81,16 +86,11 @@ It's not so important what you work on, so long as you're not wasting your time.
       <hr/>
       
       - *SpaceX and NASA are getting ready to complete their most important joint mission to date – Crew Dragon Demo-2, which is the culmination of the partners’ work on their Commercial Crew program designed to certify a SpaceX spacecraft for regular human spacefligh…*
-      
+       
   - Astronauts successfully depart the ISS aboard SpaceX Dragon, starting their trip home
       <hr/>
-      
-      - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
        
-  - As threats to the company mount, TikTok pushes back
-      <hr/>
-       
-       - *As TikTok’s existential rollercoaster ride continues to rattle on, the company is trying to sway regulators and the public with a flood of dollars and arguments wrapped in free enterprise and free speech to ensure that its parent company Bytedance can retain …*
+       - *NASA astronauts Bob Behnken and Doug Hurley have successfully undocked from the International Space Station, which is the first crucial stage of their return to Earth. Next, they’ll travel on a coast phase that will take them on a descent course back through …*
       
 
 
