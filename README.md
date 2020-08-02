@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 
-~ Terry Winograd
+~ L. Peter Deutsch
 <pre>
 
 </pre>
