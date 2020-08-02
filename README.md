@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 
-~ Bjarne Stroustrup
+~ David Parnas
 <pre>
 
 </pre>
