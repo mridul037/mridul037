@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+Really care about the tools you use because they are what make you your best.
 
-~ Alan Kay
+~ Addy Osmani
 <pre>
 
 </pre>
