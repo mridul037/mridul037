@@ -49,6 +49,7 @@ const readmeTemplate = (
   .replace("{des3}",des[2])
   .replace("{des4}",des[3])
   .replace("{des5}",des[4])
+    await fs.writeFile("README.md", readme);
 })()
 
 
