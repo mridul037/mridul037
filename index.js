@@ -23,40 +23,42 @@ const readmeTemplate = (
     await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
   ).json();
 
-  const da = await(
-    await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601")
-  ).json();
-  // console.log(da);
-  const val1=da.articles[0].title;
-  const val2=da.articles[1].title;
-  const val3=da.articles[2].title;
-  const val4=da.articles[3].title;
-  const val5=da.articles[4].title;
   
-  const des1=da.articles[0].description;
-  const des2=da.articles[1].description;
-  const des3=da.articles[2].description;
-  const des4=da.articles[3].description;
-  const des5=da.articles[4].description;
   
+  const getTitleDesc = async () => {
+    const { articles } = await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601").then((res) => res.json());
+    val.push(articles[0].title)
+  return articles;
+};
+ 
+(async ()=> {
+  const val=[]
+  const e = await getTitleDesc()
+  e.forEach(element => {
+    val.push(element.title);
+    des.push(element.description)
+  })
+  readme=readmeTemplate
+  .replace("{val1}",val[0])
+  .replace("{val2}",val[1])
+  .replace("{val3}",val[2])
+  .replace("{val4}",val[3])
+  .replace("{val5}",val[4])
+  .replace("{des1}",des[0])
+  .replace("{des2}",des[1])
+  .replace("{des3}",des[2])
+  .replace("{des4}",des[3])
+  .replace("{des5}",des[4])
+})()
+
+
 
 
   
-  
-
 const readme=readmeTemplate
     .replace("{qoth}", qoth)
     .replace("{qoth_author}", qoth_author)
-    .replace("{val1}",val1)
-    .replace("{val2}",val2)
-    .replace("{val3}",val3)
-    .replace("{val4}",val4)
-    .replace("{val5}",val5)
-    .replace("{des1}",des1)
-    .replace("{des2}",des2)
-    .replace("{des3}",des3)
-    .replace("{des4}",des4)
-    .replace("{des5}",des5)
+   
     
 
     await fs.writeFile("README.md", readme);
