@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+Typing is no substitute for thinking.
 
-~ Joseph Yoder (computer scientist)
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Sadly, architecture has been undervalued for so long that many engineers regard 
 
 </pre>
 **Daily News**
-  - Is the 2020 SPAC boom an echo of the 2017 ICO craze?
+  - “Made in America” is on (government) life support, and the prognosis isn’t good
      <hr/>
      
-      - *I wanted to write an essay about Microsoft and TikTok today, because I was effectively a full-time reporter covering the software giant when it hired Satya Nadella in 2014. But, everyone else has already done that and, frankly, there’s a more pressing financi…*
+      - *Intel and Boeing, two of the pillars of American industry. Intel makes some of the most impressive chips in the world and has for decades, driving high-performance computing to its limits while supporting a company with a market cap today of $200 billion and …*
      
-  - A few words for DHS agents who have no intention of becoming immigration whistleblowers
+  - Amid pandemic, returning to offices remains an open question for tech leaders
       <hr/>
       
-      - *Not that YOU would use these resources, but it might be fun to look at them in a hypothetical, “haha what if I were to expose gross injustices?” kind of way.*
+      - *As COVID-19 infections surge in parts of the U.S., many workplaces remain empty or are operating with skeleton crews. Most agree that the decision to return to the office should involve a combination of business, government and medical officials and scientist…*
       
-  - Snapchat to take on TikTok with a new music-powered featuring rolling out this fall
+  - Lordstown Motors becomes latest EV automaker to use a SPAC to go public
       <hr/>
       
-      - *Snapchat is taking aim at TikTok. The company announced today it will begin testing a new feature that lets Snapchat users set their Snaps to music, similar to TikTok’s app. The feature may allow Snapchat to capitalize on the fracturing of the TikTok audience…*
+      - *Lordstown Motors, the one-year-old Ohio electric automaker that revealed a pickup truck prototype in June, has reached a deal to merge with special-purpose acquisition company DiamondPeak Holdings Corp, with a market value of $1.6 billion. The agreement marks…*
       
-  - Boston Dynamics CEO Rob Playter is coming to Disrupt 2020 to talk robotics and automation
+  - Virgin Orbit to fly 11 satellites for NASA on second orbital launch demo later this year
       <hr/>
       
-      - *Back in January, Robert Playter became the CEO of Boston Dynamics. It was a momentous occasion, marking the company’s first new CEO since its founding in the early 1990s when the company was founded by Marc Raibert. The move came during what was already a tra…*
+      - *Virgin Orbit’s first attempt at an orbital launch demo may not have gone entirely to plan (the LauncherOne rocket released as planned but its flight was cut short just after that), but it has booked a payload for its next try – 11 science satellites selected …*
        
-  - Founded by a lifelong house-flipper, Inspectify is a marketplace for home inspections and repairs
+  - Is the 2020 SPAC boom an echo of the 2017 ICO craze?
       <hr/>
        
-       - *Josh Jensen bought his first house in Peoria, Ill., when he was twenty three. He sold the house to pay for a business school and over the course of his tech career — first as a mechanical engineer and then as an executive for startup companies — Jensen and hi…*
+       - *I wanted to write an essay about Microsoft and TikTok today, because I was effectively a full-time reporter covering the software giant when it hired Satya Nadella in 2014. But, everyone else has already done that and, frankly, there’s a more pressing financi…*
       
 
 
