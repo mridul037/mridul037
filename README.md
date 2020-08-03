@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programs must be written for people to read, and only incidentally for machines to execute.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Hal Abelson
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Programs must be written for people to read, and only incidentally for machines 
 
 </pre>
 **Daily News**
-  - Extra Crunch Live: Join fintech legend Max Levchin for a live Q&A on August 6 at 4pm ET/1pm PT
+  - What Microsoft should demand in exchange for its “payment” to the U.S. government for TikTok
      <hr/>
      
-      - *We’ve got a great Extra Crunch Live chat coming up on Thursday, August 4, that you won’t want to miss. The one and only Max Levchin, is Silicon Valley icon and entrepreneur extraordinaire, is joining us to talk all things tech and fintech. You might know him …*
+      - *In one of the crazier news stories (and in 2020, that is saying something), President Donald Trump said today during a media availability that in order for the U.S. government to sign off on a potential Microsoft/TikTok deal, “a very substantial portion of th…*
      
+  - Extra Crunch Live: Join fintech legend Max Levchin for a live Q&A on August 6 at 4pm ET/1pm PT
+      <hr/>
+      
+      - *We’ve got a great Extra Crunch Live chat coming up on Thursday, August 4, that you won’t want to miss. The one and only Max Levchin, is Silicon Valley icon and entrepreneur extraordinaire, is joining us to talk all things tech and fintech. You might know him …*
+      
   - Announcing Sight Tech Global, an event on the future of AI and accessibility for people who are blind or visually impaired
       <hr/>
       
@@ -81,16 +86,11 @@ Programs must be written for people to read, and only incidentally for machines 
       <hr/>
       
       - *Today the President appeared to bless the budding Microsoft-TikTok deal, continuing his evolution on a possible transaction. After stating last Friday that he’d rather see TikTok banned than sold to a US-based company, Trump changed his tune over the weekend.…*
-      
+       
   - After Shopify's huge quarter, BigCommerce raises its IPO price range
       <hr/>
-      
-      - *When BigCommerce, the Texas-based Shopify competitor, first announced an IPO price range, the numbers looked a little light. With a range of just $18 to $20 per share, it appeared that the firm was targeting a valuation of around $1.18 billion to $1.31 billio…*
        
-  - SaaS securitization will disrupt VC’s biggest returns this coming decade
-      <hr/>
-       
-       - *SaaS investing has been on fire the past decade and the returns have been gushing in, with IPOs like Datadog, direct listings like Slack and acquisitions like Qualtrics (which is now being spun back out) creating billions of wealth and VC returns. Dozens more…*
+       - *When BigCommerce, the Texas-based Shopify competitor, first announced an IPO price range, the numbers looked a little light. With a range of just $18 to $20 per share, it appeared that the firm was targeting a valuation of around $1.18 billion to $1.31 billio…*
       
 
 
