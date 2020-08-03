@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 
-~ Henry Petroski
+~ Donald Knuth
 <pre>
 
 </pre>
