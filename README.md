@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Ken Thompson
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One of my most productive days was throwing away 1,000 lines of code.
 
 </pre>
 **Daily News**
-  - Google to invest $450M in smart home security solutions provider ADT
+  - Chinese internet users brand ByteDance CEO a ‘traitor’ as TikTok seeks US buyer
      <hr/>
      
-      - *Google is investing $450 million in ADT to acquire a 6.6% stake in the Florida-headquartered firm that provides security and smart home solutions, the two said today. As part of the long-term investment, the two companies will work on next generation smart ho…*
+      - *ByteDance is not backing down from its ambitions to become a global technology powerhouse, even as TikTok loses its largest market India and faces insurmountable challenges in the US. But some in China are blasting the Beijing-based company as too accommodati…*
      
+  - Virgin Galactic debuts design of future Mach 3 high-speed aircraft, signs deal with Rolls-Royce
+      <hr/>
+      
+      - *Virgin Galactic is making strides towards its goal of creating high-speed commercial aircraft that operates a little closer to Earth than its existing passenger spacecraft. The company revealed the initial design of the commercial passenger airplane it’s crea…*
+      
+  - Metro Bank is acquiring peer-to-peer lender RateSetter for up to £12M
+      <hr/>
+      
+      - *Incumbent banks acquiring fintechs is nothing new, and amidst the coronavirus crisis, we can likely expect to see that trend continue. The latest such move comes from publicly-listed Metro Bank which today has announced its intention to purchase peer-to-peer …*
+      
+  - Google to invest $450M in smart home security solutions provider ADT
+      <hr/>
+      
+      - *Google is investing $450 million in ADT to acquire a 6.6% stake in the Florida-headquartered firm that provides security and smart home solutions, the two said today. As part of the long-term investment, the two companies will work on next generation smart ho…*
+       
   - Pompeo says U.S. may take action against TikTok and other Chinese tech companies "shortly"
       <hr/>
-      
-      - *Days after President Donald Trump announced he could use an executive order to ban TikTok from the United States, Secretary of State Michael Pompeo said the administration is “closing in on a solution and I think you’ll see the president’s announcement shortl…*
-      
-  - Microsoft pursuing TikTok purchase with September 15th deadline, may invite U.S. investors to participate
-      <hr/>
-      
-      - *Microsoft has posted a statement today on its corporate blog that says it will continue discussions on a potential TikTok purchase in the U.S.. As a part of the statement, it says that it may invite other “American investors” to participate on a minority basi…*
-      
-  - SpaceX and NASA successfully return Crew Dragon spacecraft to Earth with astronauts on board
-      <hr/>
-      
-      - *SpaceX and NASA have made history once again, successfully completing the crucial final phase of their Demo-2 mission for the Crew Dragon spacecraft, SpaceX’s first spacecraft made for human flight. This marks the end of this last demonstration mission, which…*
        
-  - It looks like Sequoia has hired a second partner in Europe: Revolut product lead George Robson
-      <hr/>
-       
-       - *Silicon Valley venture capital firm Sequoia Capital recently set up shop in Europe after hiring Luciana Lixandru away from Accel’s London office. Now, according to a tweet by Revolut product lead George Robson, the VC has recruited a second European partner. …*
+       - *Days after President Donald Trump announced he could use an executive order to ban TikTok from the United States, Secretary of State Michael Pompeo said the administration is “closing in on a solution and I think you’ll see the president’s announcement shortl…*
       
 
 
