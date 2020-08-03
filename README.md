@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Richard Hamming
+~ Friedrich Bauer
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Typing is no substitute for thinking.
 
 </pre>
 **Daily News**
-  - “Made in America” is on (government) life support, and the prognosis isn’t good
+  - The essential revenue software stack
      <hr/>
      
-      - *Intel and Boeing, two of the pillars of American industry. Intel makes some of the most impressive chips in the world and has for decades, driving high-performance computing to its limits while supporting a company with a market cap today of $200 billion and …*
+      - *Remote-virtual-digital work is going to be a key part of the playbook forever, and the essential revenue software stack is the best way to set up your teams for success.*
      
-  - Amid pandemic, returning to offices remains an open question for tech leaders
+  - Check out our August webinar series for Digital Startup Alley exhibitors
       <hr/>
       
-      - *As COVID-19 infections surge in parts of the U.S., many workplaces remain empty or are operating with skeleton crews. Most agree that the decision to return to the office should involve a combination of business, government and medical officials and scientist…*
+      - *There’s no better way to expose your early-stage startup to global opportunities — we’re talking thousands of potential investors, customers, tech journalists and other mighty influencers — than by exhibiting in Digital Startup Alley at Disrupt 2020. The Alle…*
       
-  - Lordstown Motors becomes latest EV automaker to use a SPAC to go public
+  - Google signs up six more partners for its digital banking platform coming to Google Pay
       <hr/>
       
-      - *Lordstown Motors, the one-year-old Ohio electric automaker that revealed a pickup truck prototype in June, has reached a deal to merge with special-purpose acquisition company DiamondPeak Holdings Corp, with a market value of $1.6 billion. The agreement marks…*
+      - *Google is expanding its plans to offer digital banking services in the U.S. The company announced today it’s partnering with half a dozen more banks to offer digital checking and savings accounts to Google Pay users in the U.S., starting sometime next year. T…*
       
-  - Virgin Orbit to fly 11 satellites for NASA on second orbital launch demo later this year
+  - Reminder: Annual Extra Crunch members can save 20% on Disrupt passes
       <hr/>
       
-      - *Virgin Orbit’s first attempt at an orbital launch demo may not have gone entirely to plan (the LauncherOne rocket released as planned but its flight was cut short just after that), but it has booked a payload for its next try – 11 science satellites selected …*
+      - *Calling all Extra Crunch annual and two-year members! Did you know that as a part of your membership plan, you can get a 20% discount on a Disrupt 2020 pass? Disrupt is our largest and most ambitious event of the year. While it’s typically held in San Francis…*
        
-  - Is the 2020 SPAC boom an echo of the 2017 ICO craze?
+  - “Made in America” is on (government) life support, and the prognosis isn’t good
       <hr/>
        
-       - *I wanted to write an essay about Microsoft and TikTok today, because I was effectively a full-time reporter covering the software giant when it hired Satya Nadella in 2014. But, everyone else has already done that and, frankly, there’s a more pressing financi…*
+       - *Intel and Boeing, two of the pillars of American industry. Intel makes some of the most impressive chips in the world and has for decades, driving high-performance computing to its limits while supporting a company with a market cap today of $200 billion and …*
       
 
 
