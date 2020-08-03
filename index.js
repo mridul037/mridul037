@@ -26,7 +26,7 @@ const readmeTemplate = (
   
   
  
-    const { articles } =await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=`${Key}`").then((res) => res.json());
+    const { articles } =await fetch("http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=077fe507985744818b3f405349c79601").then((res) => res.json());
   
   
 
