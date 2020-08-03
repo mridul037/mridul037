@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+Everybody should learn to program a computer, because it teaches you how to think.
 
-~ Alan Kay
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Most software today is very much like an Egyptian pyramid with millions of brick
 
 </pre>
 **Daily News**
-  - OneKey wants to make it easier to work without a desktop by integrating apps into mobile keyboards
+  - Mobile banking startup Varo is becoming a real bank
      <hr/>
      
-      - *“The app that you use the most on your phone and you don’t realize it is your keyboard,” says Christophe Barre the co-founder and chief executive of OneKey. A member of Y Combinator’s most recent cohort, OneKey has a plan to make work easier on mobile devices…*
+      - *Mobile banking startup Varo is becoming its own bank. The company announced on Friday it has been granted a national bank charter from the Office of the Comptroller of the Currency (OCC) and secured regulatory approvals from the FDIC and Federal Reserve to op…*
      
+  - When building a startup, think like a buyer
+      <hr/>
+      
+      - *Every CEO is in sales. Pitching investors, selling to customers, recruiting all-stars, courting acquirers: it’s all sales*
+      
+  - Equity Monday: Could Satya and TikTok make Bytedance investors happy enough to dance?
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
+  - OneKey wants to make it easier to work without a desktop by integrating apps into mobile keyboards
+      <hr/>
+      
+      - *“The app that you use the most on your phone and you don’t realize it is your keyboard,” says Christophe Barre the co-founder and chief executive of OneKey. A member of Y Combinator’s most recent cohort, OneKey has a plan to make work easier on mobile devices…*
+       
   - YC-backed Artifact looks to make podcasts more personal
       <hr/>
-      
-      - *Historically, podcasts have been focused on appealing to as many listeners as possible. But Artifact, a new YC-backed company launching today, has a different idea. It all started when cofounder and CEO Ross Chanin lost his grandfather. He found himself wishi…*
-      
-  - Y Combinator's Kuleana is making an animal-free substitute for raw tuna
-      <hr/>
-      
-      - *Companies like Impossible Foods and Beyond Meat that are making vegetable-based meat substitutes have captured the imagination and wallets of consumers, but so far, there’s been no real corollary for the seafood industry. Now, a startup coming from Y Combinat…*
-      
-  - Facebook fights order to globally block accounts linked to Brazilian election meddling
-      <hr/>
-      
-      - *Facebook has branded a legal order to globally block a number of Brazilian accounts linked to the spread of political disinformation targeting the country’s 2018 election as “extreme”, claiming it poses a threat to freedom of expression outside the country. T…*
        
-  - Adobe's plans for an online content attribution standard could have big implications for misinformation
-      <hr/>
-       
-       - *Adobe’s work on technical solution to combat online misinformation at scale, still in its early stages, is taking some big steps toward its lofty goal of becoming an industry standard. The project was first announced last November, and now the team is out wit…*
+       - *Historically, podcasts have been focused on appealing to as many listeners as possible. But Artifact, a new YC-backed company launching today, has a different idea. It all started when cofounder and CEO Ross Chanin lost his grandfather. He found himself wishi…*
       
 
 
