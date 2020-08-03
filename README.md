@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Dealing with failure is easy: Work hard to improve.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
 ~ Alan Perlis
 <pre>
