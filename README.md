@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+Dealing with failure is easy: Work hard to improve.
 
-~ Poul Anderson
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I have yet to see any problem, however complicated, which when looked at in the 
 
 </pre>
 **Daily News**
-  - SpaceX and NASA successfully return Crew Dragon spacecraft to Earth with astronauts on board
+  - Microsoft pursuing TikTok purchase with September 15th deadline, may invite U.S. investors to participate
      <hr/>
      
-      - *SpaceX and NASA have made history once again, successfully completing the crucial final phase of their Demo-2 mission for the Crew Dragon spacecraft, SpaceX’s first spacecraft made for human flight. This marks the end of this last demonstration mission, which…*
+      - *Microsoft has posted a statement today on its corporate blog that says it will continue discussions on a potential TikTok purchase in the U.S.. As a part of the statement, it says that it may invite other “American investors” to participate on a minority basi…*
      
+  - SpaceX and NASA successfully return Crew Dragon spacecraft to Earth with astronauts on board
+      <hr/>
+      
+      - *SpaceX and NASA have made history once again, successfully completing the crucial final phase of their Demo-2 mission for the Crew Dragon spacecraft, SpaceX’s first spacecraft made for human flight. This marks the end of this last demonstration mission, which…*
+      
   - It looks like Sequoia has hired a second partner in Europe: Revolut product lead George Robson
       <hr/>
       
@@ -81,16 +86,11 @@ I have yet to see any problem, however complicated, which when looked at in the 
       <hr/>
       
       - *Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.*
-      
+       
   - Future Fields is tackling cultured meat's biggest problem
       <hr/>
-      
-      - *One possible solution to cellular agriculture’s biggest problem — how to develop a cheap, humane, growth material for cultured meat — may have come from a conversation in line at a Tim Hortons in Alberta. The husband and wife duo of Matt and Jalene Anderson-B…*
        
-  - The Station: ADA turns 30, Panasonic's new battery tech and delivery (data) woes
-      <hr/>
-       
-       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+       - *One possible solution to cellular agriculture’s biggest problem — how to develop a cheap, humane, growth material for cultured meat — may have come from a conversation in line at a Tim Hortons in Alberta. The husband and wife duo of Matt and Jalene Anderson-B…*
       
 
 
