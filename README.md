@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
 
-~ Richard Hamming
+~ Buckminster Fuller
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Typing is no substitute for thinking.
 
 </pre>
 **Daily News**
-  - Microsoft pursuing TikTok purchase with September 15th deadline, may invite U.S. investors to participate
+  - Pompeo says U.S. may take action against TikTok and other Chinese tech companies "shortly"
      <hr/>
      
-      - *Microsoft has posted a statement today on its corporate blog that says it will continue discussions on a potential TikTok purchase in the U.S.. As a part of the statement, it says that it may invite other “American investors” to participate on a minority basi…*
+      - *Days after President Donald Trump announced he could use an executive order to ban TikTok from the United States, Secretary of State Michael Pompeo said the administration is “closing in on a solution and I think you’ll see the president’s announcement shortl…*
      
+  - Microsoft pursuing TikTok purchase with September 15th deadline, may invite U.S. investors to participate
+      <hr/>
+      
+      - *Microsoft has posted a statement today on its corporate blog that says it will continue discussions on a potential TikTok purchase in the U.S.. As a part of the statement, it says that it may invite other “American investors” to participate on a minority basi…*
+      
   - SpaceX and NASA successfully return Crew Dragon spacecraft to Earth with astronauts on board
       <hr/>
       
@@ -81,16 +86,11 @@ Typing is no substitute for thinking.
       <hr/>
       
       - *Silicon Valley venture capital firm Sequoia Capital recently set up shop in Europe after hiring Luciana Lixandru away from Accel’s London office. Now, according to a tweet by Revolut product lead George Robson, the VC has recruited a second European partner. …*
-      
+       
   - AI is struggling to adjust to 2020
       <hr/>
-      
-      - *Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.*
        
-  - Future Fields is tackling cultured meat's biggest problem
-      <hr/>
-       
-       - *One possible solution to cellular agriculture’s biggest problem — how to develop a cheap, humane, growth material for cultured meat — may have come from a conversation in line at a Tim Hortons in Alberta. The husband and wife duo of Matt and Jalene Anderson-B…*
+       - *Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.*
       
 
 
