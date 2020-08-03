@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Everybody should learn to program a computer, because it teaches you how to think.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ Steve Jobs
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Everybody should learn to program a computer, because it teaches you how to thin
 
 </pre>
 **Daily News**
-  - Mobile banking startup Varo is becoming a real bank
+  - Is the 2020 SPAC boom an echo of the 2017 ICO craze?
      <hr/>
      
-      - *Mobile banking startup Varo is becoming its own bank. The company announced on Friday it has been granted a national bank charter from the Office of the Comptroller of the Currency (OCC) and secured regulatory approvals from the FDIC and Federal Reserve to op…*
+      - *I wanted to write an essay about Microsoft and TikTok today, because I was effectively a full-time reporter covering the software giant when it hired Satya Nadella in 2014. But, everyone else has already done that and, frankly, there’s a more pressing financi…*
      
-  - When building a startup, think like a buyer
+  - A few words for DHS agents who have no intention of becoming immigration whistleblowers
       <hr/>
       
-      - *Every CEO is in sales. Pitching investors, selling to customers, recruiting all-stars, courting acquirers: it’s all sales*
+      - *Not that YOU would use these resources, but it might be fun to look at them in a hypothetical, “haha what if I were to expose gross injustices?” kind of way.*
       
-  - Equity Monday: Could Satya and TikTok make Bytedance investors happy enough to dance?
+  - Snapchat to take on TikTok with a new music-powered featuring rolling out this fall
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Snapchat is taking aim at TikTok. The company announced today it will begin testing a new feature that lets Snapchat users set their Snaps to music, similar to TikTok’s app. The feature may allow Snapchat to capitalize on the fracturing of the TikTok audience…*
       
-  - OneKey wants to make it easier to work without a desktop by integrating apps into mobile keyboards
+  - Boston Dynamics CEO Rob Playter is coming to Disrupt 2020 to talk robotics and automation
       <hr/>
       
-      - *“The app that you use the most on your phone and you don’t realize it is your keyboard,” says Christophe Barre the co-founder and chief executive of OneKey. A member of Y Combinator’s most recent cohort, OneKey has a plan to make work easier on mobile devices…*
+      - *Back in January, Robert Playter became the CEO of Boston Dynamics. It was a momentous occasion, marking the company’s first new CEO since its founding in the early 1990s when the company was founded by Marc Raibert. The move came during what was already a tra…*
        
-  - YC-backed Artifact looks to make podcasts more personal
+  - Founded by a lifelong house-flipper, Inspectify is a marketplace for home inspections and repairs
       <hr/>
        
-       - *Historically, podcasts have been focused on appealing to as many listeners as possible. But Artifact, a new YC-backed company launching today, has a different idea. It all started when cofounder and CEO Ross Chanin lost his grandfather. He found himself wishi…*
+       - *Josh Jensen bought his first house in Peoria, Ill., when he was twenty three. He sold the house to pay for a business school and over the course of his tech career — first as a mechanical engineer and then as an executive for startup companies — Jensen and hi…*
       
 
 
