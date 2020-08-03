@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 
-~ Quarry worker's creed
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We who cut mere stones must always be envisioning cathedrals.
 
 </pre>
 **Daily News**
-  - Facebook fights order to globally block accounts linked to Brazilian election meddling
+  - OneKey wants to make it easier to work without a desktop by integrating apps into mobile keyboards
      <hr/>
      
-      - *Facebook has branded a legal order to globally block a number of Brazilian accounts linked to the spread of political disinformation targeting the country’s 2018 election as “extreme”, claiming it poses a threat to freedom of expression outside the country. T…*
+      - *“The app that you use the most on your phone and you don’t realize it is your keyboard,” says Christophe Barre the co-founder and chief executive of OneKey. A member of Y Combinator’s most recent cohort, OneKey has a plan to make work easier on mobile devices…*
      
+  - YC-backed Artifact looks to make podcasts more personal
+      <hr/>
+      
+      - *Historically, podcasts have been focused on appealing to as many listeners as possible. But Artifact, a new YC-backed company launching today, has a different idea. It all started when cofounder and CEO Ross Chanin lost his grandfather. He found himself wishi…*
+      
+  - Y Combinator's Kuleana is making an animal-free substitute for raw tuna
+      <hr/>
+      
+      - *Companies like Impossible Foods and Beyond Meat that are making vegetable-based meat substitutes have captured the imagination and wallets of consumers, but so far, there’s been no real corollary for the seafood industry. Now, a startup coming from Y Combinat…*
+      
+  - Facebook fights order to globally block accounts linked to Brazilian election meddling
+      <hr/>
+      
+      - *Facebook has branded a legal order to globally block a number of Brazilian accounts linked to the spread of political disinformation targeting the country’s 2018 election as “extreme”, claiming it poses a threat to freedom of expression outside the country. T…*
+       
   - Adobe's plans for an online content attribution standard could have big implications for misinformation
       <hr/>
-      
-      - *Adobe’s work on technical solution to combat online misinformation at scale, still in its early stages, is taking some big steps toward its lofty goal of becoming an industry standard. The project was first announced last November, and now the team is out wit…*
-      
-  - Chinese internet users brand ByteDance CEO a ‘traitor’ as TikTok seeks US buyer
-      <hr/>
-      
-      - *ByteDance is not backing down from its ambitions to become a global technology powerhouse, even as TikTok loses its largest market India and faces insurmountable challenges in the US. But some in China are blasting the Beijing-based company as too accommodati…*
-      
-  - Virgin Galactic debuts design of future Mach 3 high-speed aircraft, signs deal with Rolls-Royce
-      <hr/>
-      
-      - *Virgin Galactic is making strides towards its goal of creating high-speed commercial aircraft that operates a little closer to Earth than its existing passenger spacecraft. The company revealed the initial design of the commercial passenger airplane it’s crea…*
        
-  - Metro Bank is acquiring peer-to-peer lender RateSetter for up to £12M
-      <hr/>
-       
-       - *Incumbent banks acquiring fintechs is nothing new, and amidst the coronavirus crisis, we can likely expect to see that trend continue. The latest such move comes from publicly-listed Metro Bank which today has announced its intention to purchase peer-to-peer …*
+       - *Adobe’s work on technical solution to combat online misinformation at scale, still in its early stages, is taking some big steps toward its lofty goal of becoming an industry standard. The project was first announced last November, and now the team is out wit…*
       
 
 
