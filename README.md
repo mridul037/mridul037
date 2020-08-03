@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 
 ~ Alan Perlis
 <pre>
