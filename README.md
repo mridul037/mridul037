@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+One of my most productive days was throwing away 1,000 lines of code.
 
-~ Vannevar Bush
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Two centuries ago Leibnitz invented a calculating machine which embodied most of
 
 </pre>
 **Daily News**
-  - Pompeo says U.S. may take action against TikTok and other Chinese tech companies "shortly"
+  - Google to invest $450M in smart home security solutions provider ADT
      <hr/>
      
-      - *Days after President Donald Trump announced he could use an executive order to ban TikTok from the United States, Secretary of State Michael Pompeo said the administration is “closing in on a solution and I think you’ll see the president’s announcement shortl…*
+      - *Google is investing $450 million in ADT to acquire a 6.6% stake in the Florida-headquartered firm that provides security and smart home solutions, the two said today. As part of the long-term investment, the two companies will work on next generation smart ho…*
      
+  - Pompeo says U.S. may take action against TikTok and other Chinese tech companies "shortly"
+      <hr/>
+      
+      - *Days after President Donald Trump announced he could use an executive order to ban TikTok from the United States, Secretary of State Michael Pompeo said the administration is “closing in on a solution and I think you’ll see the president’s announcement shortl…*
+      
   - Microsoft pursuing TikTok purchase with September 15th deadline, may invite U.S. investors to participate
       <hr/>
       
@@ -81,16 +86,11 @@ Two centuries ago Leibnitz invented a calculating machine which embodied most of
       <hr/>
       
       - *SpaceX and NASA have made history once again, successfully completing the crucial final phase of their Demo-2 mission for the Crew Dragon spacecraft, SpaceX’s first spacecraft made for human flight. This marks the end of this last demonstration mission, which…*
-      
+       
   - It looks like Sequoia has hired a second partner in Europe: Revolut product lead George Robson
       <hr/>
-      
-      - *Silicon Valley venture capital firm Sequoia Capital recently set up shop in Europe after hiring Luciana Lixandru away from Accel’s London office. Now, according to a tweet by Revolut product lead George Robson, the VC has recruited a second European partner. …*
        
-  - AI is struggling to adjust to 2020
-      <hr/>
-       
-       - *Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.*
+       - *Silicon Valley venture capital firm Sequoia Capital recently set up shop in Europe after hiring Luciana Lixandru away from Accel’s London office. Now, according to a tweet by Revolut product lead George Robson, the VC has recruited a second European partner. …*
       
 
 
