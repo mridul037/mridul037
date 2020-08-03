@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+Programs must be written for people to read, and only incidentally for machines to execute.
 
-~ Linus Torvalds
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Really, I'm not out to destroy Microsoft. That will just be a completely uninten
 
 </pre>
 **Daily News**
-  - Trump calls TikTok a hot brand, demands a chunk of its sale price
+  - Extra Crunch Live: Join fintech legend Max Levchin for a live Q&A on August 6 at 4pm ET/1pm PT
      <hr/>
      
-      - *Today the President appeared to bless the budding Microsoft-TikTok deal, continuing his evolution on a possible transaction. After stating last Friday that he’d rather see TikTok banned than sold to a US-based company, Trump changed his tune over the weekend.…*
+      - *We’ve got a great Extra Crunch Live chat coming up on Thursday, August 4, that you won’t want to miss. The one and only Max Levchin, is Silicon Valley icon and entrepreneur extraordinaire, is joining us to talk all things tech and fintech. You might know him …*
      
+  - Announcing Sight Tech Global, an event on the future of AI and accessibility for people who are blind or visually impaired
+      <hr/>
+      
+      - *Few challenges have excited technologists more than building tools to help people who are blind or visually impaired. It was Silicon Valley legend Ray Kurzweil, for example, who in 1976 launched the first commercially available text-to-speech reading device. …*
+      
+  - Trump calls TikTok a hot brand, demands a chunk of its sale price
+      <hr/>
+      
+      - *Today the President appeared to bless the budding Microsoft-TikTok deal, continuing his evolution on a possible transaction. After stating last Friday that he’d rather see TikTok banned than sold to a US-based company, Trump changed his tune over the weekend.…*
+      
   - After Shopify's huge quarter, BigCommerce raises its IPO price range
       <hr/>
       
       - *When BigCommerce, the Texas-based Shopify competitor, first announced an IPO price range, the numbers looked a little light. With a range of just $18 to $20 per share, it appeared that the firm was targeting a valuation of around $1.18 billion to $1.31 billio…*
-      
+       
   - SaaS securitization will disrupt VC’s biggest returns this coming decade
       <hr/>
-      
-      - *SaaS investing has been on fire the past decade and the returns have been gushing in, with IPOs like Datadog, direct listings like Slack and acquisitions like Qualtrics (which is now being spun back out) creating billions of wealth and VC returns. Dozens more…*
-      
-  - The essential revenue software stack
-      <hr/>
-      
-      - *Remote-virtual-digital work is going to be a key part of the playbook forever, and the essential revenue software stack is the best way to set up your teams for success.*
        
-  - Check out our August webinar series for Digital Startup Alley exhibitors
-      <hr/>
-       
-       - *There’s no better way to expose your early-stage startup to global opportunities — we’re talking thousands of potential investors, customers, tech journalists and other mighty influencers — than by exhibiting in Digital Startup Alley at Disrupt 2020. The Alle…*
+       - *SaaS investing has been on fire the past decade and the returns have been gushing in, with IPOs like Datadog, direct listings like Slack and acquisitions like Qualtrics (which is now being spun back out) creating billions of wealth and VC returns. Dozens more…*
       
 
 
