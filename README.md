@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 
-~ Friedrich Bauer
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Software engineering is the part of computer science which is too difficult for 
 
 </pre>
 **Daily News**
-  - The essential revenue software stack
+  - Trump calls TikTok a hot brand, demands a chunk of its sale price
      <hr/>
      
-      - *Remote-virtual-digital work is going to be a key part of the playbook forever, and the essential revenue software stack is the best way to set up your teams for success.*
+      - *Today the President appeared to bless the budding Microsoft-TikTok deal, continuing his evolution on a possible transaction. After stating last Friday that he’d rather see TikTok banned than sold to a US-based company, Trump changed his tune over the weekend.…*
      
+  - After Shopify's huge quarter, BigCommerce raises its IPO price range
+      <hr/>
+      
+      - *When BigCommerce, the Texas-based Shopify competitor, first announced an IPO price range, the numbers looked a little light. With a range of just $18 to $20 per share, it appeared that the firm was targeting a valuation of around $1.18 billion to $1.31 billio…*
+      
+  - SaaS securitization will disrupt VC’s biggest returns this coming decade
+      <hr/>
+      
+      - *SaaS investing has been on fire the past decade and the returns have been gushing in, with IPOs like Datadog, direct listings like Slack and acquisitions like Qualtrics (which is now being spun back out) creating billions of wealth and VC returns. Dozens more…*
+      
+  - The essential revenue software stack
+      <hr/>
+      
+      - *Remote-virtual-digital work is going to be a key part of the playbook forever, and the essential revenue software stack is the best way to set up your teams for success.*
+       
   - Check out our August webinar series for Digital Startup Alley exhibitors
       <hr/>
-      
-      - *There’s no better way to expose your early-stage startup to global opportunities — we’re talking thousands of potential investors, customers, tech journalists and other mighty influencers — than by exhibiting in Digital Startup Alley at Disrupt 2020. The Alle…*
-      
-  - Google signs up six more partners for its digital banking platform coming to Google Pay
-      <hr/>
-      
-      - *Google is expanding its plans to offer digital banking services in the U.S. The company announced today it’s partnering with half a dozen more banks to offer digital checking and savings accounts to Google Pay users in the U.S., starting sometime next year. T…*
-      
-  - Reminder: Annual Extra Crunch members can save 20% on Disrupt passes
-      <hr/>
-      
-      - *Calling all Extra Crunch annual and two-year members! Did you know that as a part of your membership plan, you can get a 20% discount on a Disrupt 2020 pass? Disrupt is our largest and most ambitious event of the year. While it’s typically held in San Francis…*
        
-  - “Made in America” is on (government) life support, and the prognosis isn’t good
-      <hr/>
-       
-       - *Intel and Boeing, two of the pillars of American industry. Intel makes some of the most impressive chips in the world and has for decades, driving high-performance computing to its limits while supporting a company with a market cap today of $200 billion and …*
+       - *There’s no better way to expose your early-stage startup to global opportunities — we’re talking thousands of potential investors, customers, tech journalists and other mighty influencers — than by exhibiting in Digital Startup Alley at Disrupt 2020. The Alle…*
       
 
 
