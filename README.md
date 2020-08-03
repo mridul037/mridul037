@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+You can’t trust code that you did not totally create yourself.
 
-~ Gary Kildall
+~ Ken Thompson
 <pre>
 
 </pre>
