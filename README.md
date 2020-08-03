@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Douglas Crockford
+~ Quarry worker's creed
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In JavaScript, there is a beautiful, elegant, highly expressive language that is
 
 </pre>
 **Daily News**
-  - Chinese internet users brand ByteDance CEO a ‘traitor’ as TikTok seeks US buyer
+  - Facebook fights order to globally block accounts linked to Brazilian election meddling
      <hr/>
      
-      - *ByteDance is not backing down from its ambitions to become a global technology powerhouse, even as TikTok loses its largest market India and faces insurmountable challenges in the US. But some in China are blasting the Beijing-based company as too accommodati…*
+      - *Facebook has branded a legal order to globally block a number of Brazilian accounts linked to the spread of political disinformation targeting the country’s 2018 election as “extreme”, claiming it poses a threat to freedom of expression outside the country. T…*
      
+  - Adobe's plans for an online content attribution standard could have big implications for misinformation
+      <hr/>
+      
+      - *Adobe’s work on technical solution to combat online misinformation at scale, still in its early stages, is taking some big steps toward its lofty goal of becoming an industry standard. The project was first announced last November, and now the team is out wit…*
+      
+  - Chinese internet users brand ByteDance CEO a ‘traitor’ as TikTok seeks US buyer
+      <hr/>
+      
+      - *ByteDance is not backing down from its ambitions to become a global technology powerhouse, even as TikTok loses its largest market India and faces insurmountable challenges in the US. But some in China are blasting the Beijing-based company as too accommodati…*
+      
   - Virgin Galactic debuts design of future Mach 3 high-speed aircraft, signs deal with Rolls-Royce
       <hr/>
       
       - *Virgin Galactic is making strides towards its goal of creating high-speed commercial aircraft that operates a little closer to Earth than its existing passenger spacecraft. The company revealed the initial design of the commercial passenger airplane it’s crea…*
-      
+       
   - Metro Bank is acquiring peer-to-peer lender RateSetter for up to £12M
       <hr/>
-      
-      - *Incumbent banks acquiring fintechs is nothing new, and amidst the coronavirus crisis, we can likely expect to see that trend continue. The latest such move comes from publicly-listed Metro Bank which today has announced its intention to purchase peer-to-peer …*
-      
-  - Google to invest $450M in smart home security solutions provider ADT
-      <hr/>
-      
-      - *Google is investing $450 million in ADT to acquire a 6.6% stake in the Florida-headquartered firm that provides security and smart home solutions, the two said today. As part of the long-term investment, the two companies will work on next generation smart ho…*
        
-  - Pompeo says U.S. may take action against TikTok and other Chinese tech companies "shortly"
-      <hr/>
-       
-       - *Days after President Donald Trump announced he could use an executive order to ban TikTok from the United States, Secretary of State Michael Pompeo said the administration is “closing in on a solution and I think you’ll see the president’s announcement shortl…*
+       - *Incumbent banks acquiring fintechs is nothing new, and amidst the coronavirus crisis, we can likely expect to see that trend continue. The latest such move comes from publicly-listed Metro Bank which today has announced its intention to purchase peer-to-peer …*
       
 
 
