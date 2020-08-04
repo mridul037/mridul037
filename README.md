@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 
-~ Arthur C. Clarke
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Any sufficiently advanced technology is indistinguishable from magic.
 
 </pre>
 **Daily News**
-  - Software stocks set new records despite earnings, pandemic
+  - Disney+ grows to more than 60.5M subscribers
      <hr/>
      
-      - *You might have missed it, but amidst the current political-M&A-pandemic-election-disinformation news cycle we find ourselves in this week, SaaS and cloud companies reached new public market records. Yesterday, the Bessemer-Nasdaq cloud index closed at 2,035.5…*
+      - *Disney+ had more than 60.5 million paying subscribers as of yesterday, according to The Walt Disney Company’s CEO Bob Chapek. Chapek shared the number during a call to discuss the company’s latest earnings report, which covered the company’s most recent quart…*
      
+  - Software stocks set new records despite earnings, pandemic
+      <hr/>
+      
+      - *You might have missed it, but amidst the current political-M&A-pandemic-election-disinformation news cycle we find ourselves in this week, SaaS and cloud companies reached new public market records. Yesterday, the Bessemer-Nasdaq cloud index closed at 2,035.5…*
+      
   - Parental control app Boomerang repeatedly blocked from Play Store, losing business
       <hr/>
       
@@ -81,16 +86,11 @@ Any sufficiently advanced technology is indistinguishable from magic.
       <hr/>
       
       - *After more than three decades climbing Apple’s ranks, marketing chief Phil Schiller is taking a step back at the company, being replaced by a long-time product marketing leader inside Apple. Schiller is taking on a new role as an Apple Fellow where he will co…*
-      
+       
   - More thoughts on growing podcasts
       <hr/>
-      
-      - *Plus: how to monitor and fix Facebook/Instagram ad fatigue, and using mobile app ads to drive landing page conversions.*
        
-  - Qualified raises $12M make websites smarter about sales and marketing
-      <hr/>
-       
-       - *Qualified, a startup co-founded by former Salesforce executives Kraig Swensrud and Sean Whiteley, has raised $12 million in Series A funding. Swensrud (Qualified’s CEO) said the startup is meant to solve a problem that he faced back when he was CMO at Salesfo…*
+       - *Plus: how to monitor and fix Facebook/Instagram ad fatigue, and using mobile app ads to drive landing page conversions.*
       
 
 
