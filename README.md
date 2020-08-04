@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+When there is no type hierarchy you don’t have to manage the type hierarchy.
 
-~ Daniel T. Barry
+~ Rob Pike
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The cost to repair an error goes up dramatically as project moves towards comple
 
 </pre>
 **Daily News**
-  - Vectrix is developing cloud security marketplace built for and by security pros
+  - Rocket Lab boosts Electron rocket's lift capacity by 660 lbs
      <hr/>
      
-      - *In a typical security team, engineers write one-off scripts to track a particular problem on a cloud vendor such as an unauthorized user on your GitHub account, and while engineers are capable of writing such scripts, it’s not exactly an efficient or scalable…*
+      - *Rocket Lab has managed to engineer a significant payload capacity bump into its existing Electron space launch vehicle, the company revealed today. Electron can now fly as much as 300 kg (660 lbs) to low Earth orbit (or around 440 lbs to a higher, sun synchro…*
      
+  - Microsoft, Amazon back a SoCal company making microchips specifically for voice-based apps
+      <hr/>
+      
+      - *Microsoft’s venture capital fund, M12 Ventures has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications. “We started…*
+      
+  - Rigetti raises $79M Series C for its quantum computing platform
+      <hr/>
+      
+      - *Rigetti Computing, the quantum computing startup that is challenging industry heavyweights like IBM, Microsoft and D-Wave, today announced that it has closed a $79 million Series C funding round. The round was led by Bessemer Venture Partners, with participat…*
+      
+  - Vectrix is developing cloud security marketplace built for and by security pros
+      <hr/>
+      
+      - *In a typical security team, engineers write one-off scripts to track a particular problem on a cloud vendor such as an unauthorized user on your GitHub account, and while engineers are capable of writing such scripts, it’s not exactly an efficient or scalable…*
+       
   - Autonomous vehicle reporting data is driving AV innovation right off the road
       <hr/>
-      
-      - *All AV all disengagement reports have one thing in common: their usefulness is ubiquitously criticized by those who have to submit them.*
-      
-  - Ford names Jim Farley as new CEO, Jim Hackett to retire
-      <hr/>
-      
-      - *Ford Motor CEO Jim Hackett is retiring, leaving the company three years after being tapped to transform the automaker into a leaner, more competitive and profitable company while investing in technology and shifting towards electrification, automation and con…*
-      
-  - Get your early bird pass to Disrupt 2020 — only 4 days left
-      <hr/>
-      
-      - *You have just four days left to access the complete Disrupt 2020 experience for best possible price. You can save up to $300 with early bird pricing, but that’s a fleeting opportunity. Get it in gear and buy the Disrupt pass of your choice before the deadline…*
        
-  - Google-Fitbit deal to be scrutinized in Europe over data competition concerns
-      <hr/>
-       
-       - *In a set-back for Google’s plan to acquire health wearable company Fitbit, the European Commission has announced it’s opening an investigation to dig into a range of competition concerns being attached to the proposal from multiple quarters. This means the de…*
+       - *All AV all disengagement reports have one thing in common: their usefulness is ubiquitously criticized by those who have to submit them.*
       
 
 
