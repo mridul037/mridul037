@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 
-~ Maurice Wilkes
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Since 1954, the raw speed of computers, as measured by the time it takes to do a
 
 </pre>
 **Daily News**
-  - WhatsApp pilots new feature to fight misinformation: Search the web
+  - UK commits to redesign visa streaming algorithm after challenge to 'racist' tool
      <hr/>
      
-      - *WhatsApp, one of the most popular instant messaging platforms on the planet, has rolled out a new feature in select markets that makes it easier for users to verify whether the assertions made in messages they have received on the app are true. The Facebook -…*
+      - *The UK government is suspending the use of an algorithm used to stream visa applications after concerns were raised the technology bakes in unconscious bias and racism. The tool had been the target of a legal challenge. The Joint Council for the Welfare of Im…*
      
+  - WhatsApp pilots new feature to fight misinformation: Search the web
+      <hr/>
+      
+      - *WhatsApp, one of the most popular instant messaging platforms on the planet, has rolled out a new feature in select markets that makes it easier for users to verify whether the assertions made in messages they have received on the app are true. The Facebook -…*
+      
   - Twitter warns investors of possible fine from FTC consent order probe
       <hr/>
       
@@ -81,16 +86,11 @@ Since 1954, the raw speed of computers, as measured by the time it takes to do a
       <hr/>
       
       - *TaxScouts, the U.K. tax preparation startup founded by TransferWise and MarketInvoice alumni, has raised £5 million in Series A funding for European expansion. Leading the round is Octopus Ventures, with previous investors SpeedInvest, Seedcamp and Finch Capi…*
-      
+       
   - Grab launches new consumer financial services, including micro-investments and loans
       <hr/>
-      
-      - *Grab announced today that its financial unit, which previously focused mainly on services for entrepreneurs and small businesses, is launching a slew of consumer products, including micro-investments, loans, health insurance and a pay-later program. Based in …*
        
-  - FCC invites public comment on Trump's attempt to nerf Section 230
-      <hr/>
-       
-       - *FCC Chairman Ajit Pai has decided to ask the public for its thoughts on an attempt initiated in Trump in May to water down certain protections that arguably led to the creation of the modern internet economy. The nakedly retaliatory order seems to be, legally…*
+       - *Grab announced today that its financial unit, which previously focused mainly on services for entrepreneurs and small businesses, is launching a slew of consumer products, including micro-investments, loans, health insurance and a pay-later program. Based in …*
       
 
 
