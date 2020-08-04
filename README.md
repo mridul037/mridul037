@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When there is no type hierarchy you don’t have to manage the type hierarchy.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Rob Pike
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When there is no type hierarchy you don’t have to manage the type hierarchy.
 
 </pre>
 **Daily News**
-  - Rocket Lab boosts Electron rocket's lift capacity by 660 lbs
+  - More thoughts on growing podcasts
      <hr/>
      
-      - *Rocket Lab has managed to engineer a significant payload capacity bump into its existing Electron space launch vehicle, the company revealed today. Electron can now fly as much as 300 kg (660 lbs) to low Earth orbit (or around 440 lbs to a higher, sun synchro…*
+      - *Plus: how to monitor and fix Facebook/Instagram ad fatigue, and using mobile app ads to drive landing page conversions.*
      
+  - Qualified raises $12M make websites smarter about sales and marketing
+      <hr/>
+      
+      - *Qualified, a startup co-founded by former Salesforce executives Kraig Swensrud and Sean Whiteley, has raised $12 million in Series A funding. Swensrud (Qualified’s CEO) said the startup is meant to solve a problem that he faced back when he was CMO at Salesfo…*
+      
+  - Decrypted: How a teenager hacked Twitter, Garmin's ransomware aftermath
+      <hr/>
+      
+      - *How did a 17-year-old become the most powerful person on Twitter? Plus, more on the Garmin ransomware attack..*
+      
+  - Rocket Lab boosts Electron rocket's lift capacity by 660 lbs
+      <hr/>
+      
+      - *Rocket Lab has managed to engineer a significant payload capacity bump into its existing Electron space launch vehicle, the company revealed today. Electron can now fly as much as 300 kg (660 lbs) to low Earth orbit (or around 440 lbs to a higher, sun synchro…*
+       
   - Microsoft, Amazon back a SoCal company making microchips specifically for voice-based apps
       <hr/>
-      
-      - *Microsoft’s venture capital fund, M12 Ventures has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications. “We started…*
-      
-  - Rigetti raises $79M Series C for its quantum computing platform
-      <hr/>
-      
-      - *Rigetti Computing, the quantum computing startup that is challenging industry heavyweights like IBM, Microsoft and D-Wave, today announced that it has closed a $79 million Series C funding round. The round was led by Bessemer Venture Partners, with participat…*
-      
-  - Vectrix is developing cloud security marketplace built for and by security pros
-      <hr/>
-      
-      - *In a typical security team, engineers write one-off scripts to track a particular problem on a cloud vendor such as an unauthorized user on your GitHub account, and while engineers are capable of writing such scripts, it’s not exactly an efficient or scalable…*
        
-  - Autonomous vehicle reporting data is driving AV innovation right off the road
-      <hr/>
-       
-       - *All AV all disengagement reports have one thing in common: their usefulness is ubiquitously criticized by those who have to submit them.*
+       - *Microsoft’s venture capital fund, M12 Ventures has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications. “We started…*
       
 
 
