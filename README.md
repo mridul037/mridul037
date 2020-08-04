@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ Ryan Singer
+~ Jamie Zawinski
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ So much complexity in software comes from trying to make one thing do two things
 
 </pre>
 **Daily News**
-  - Amazon's 16% bite of Deliveroo finally clears UK competition probe
+  - Facebook doubles down on work-from-office with massive NYC lease near Penn Station
      <hr/>
      
-      - *It’s official: Days after Amazon CEO Jeff Bezos was peppered with awkward questions by US lawmakers concerned about the market power of his ecommerce empire, the UK’s competition regulator has confirmed it’s happy for the tech giant to take a 16% bite out of …*
+      - *We’ve had huge debates about the future of work — are we going to be working from home, working from the office, or perhaps, working from anywhere? Work From Home is dead, long live Work From Anywhere Well, Facebook has put its wager down, and it’s work from …*
      
-  - Microsoft showcases mobile gaming accessories designed to work with Xbox cloud gaming
+  - Messenger launches a new chat plugin for business websites to reach non-Facebook customers
       <hr/>
       
-      - *Way back in the before times of October 2019, Microsoft announced that it would be expanding its Designed for Xbox stamp of approval to a line of mobile accessories. The play was pretty obvious: The company is trying to get serious about smartphone gaming thr…*
+      - *Facebook is making it easier for businesses to leverage its Messenger service on their own websites. The company in November 2017 first launched a new customer chat plugin which allowed customers to talk directly with a business on the business’s own website …*
       
-  - Yotpo raises $75M for its e-commerce marketing cloud
+  - Serialized fiction startup Radish raises $63.2M from SoftBank and Kakao
       <hr/>
       
-      - *“Marketing Cloud” has become an increasingly popular concept in the world of marketing technology — used by the likes of Salesforce, Adobe, Oracle and others to describe their digital toolsets for organizations to identify and connect with customers. Now, a s…*
+      - *Radish is announcing that it has raised $63.2 million in new funding. Breaking up book-length stories into smaller chapters that released over days or weeks is an idea that was popularized in the 19th century, and startups have been trying to revive it for at…*
       
-  - UK commits to redesign visa streaming algorithm after challenge to 'racist' tool
+  - Rippling nabs $145M at a $1.35B valuation to build out its all-in-one platform for employee data
       <hr/>
       
-      - *The UK government is suspending the use of an algorithm used to stream visa applications after concerns were raised the technology bakes in unconscious bias and racism. The tool had been the target of a legal challenge. The Joint Council for the Welfare of Im…*
+      - *Big news today in the world of enterprise IT startups. Rippling, the startup founded by Parker Conrad to take on the ambitious challenge of building a platform to manage all aspects of employee data, from payroll and benefits through to device management, has…*
        
-  - WhatsApp pilots new feature to fight misinformation: Search the web
+  - GreyNoise announces $4.8M seed investment to filter harmless security alerts
       <hr/>
        
-       - *WhatsApp, one of the most popular instant messaging platforms on the planet, has rolled out a new feature in select markets that makes it easier for users to verify whether the assertions made in messages they have received on the app are true. The Facebook -…*
+       - *Security professionals are constantly dealing with an onslaught of information as their various tools trigger alerts, some of which require their attention and some which don’t. Unfortunately, it requires addressing the alert to find that out. GreyNoise wants…*
       
 
 
