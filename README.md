@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+Once you stop learning you start dying.
 
-~ Martin Fowler
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Often designers do complicated things that improve the capacity on a particular 
 
 </pre>
 **Daily News**
-  - Disney+ grows to more than 60.5M subscribers
+  - 'Mulan' is coming to Disney+ on September 4, for an additional price of $29.99
      <hr/>
      
-      - *Disney+ had more than 60.5 million paying subscribers as of yesterday, according to The Walt Disney Company’s CEO Bob Chapek. Chapek shared the number during a call to discuss the company’s latest earnings report, which covered the company’s most recent quart…*
+      - *Those wondering whether The Walt Disney Company would eventually give up on a traditional theatrical release for “Mulan” now have their answer. Until now, Disney had repeatedly delayed “Mulan”‘s release due to theatrical closures in the U.S. and around the wo…*
      
+  - Disney+ grows to more than 60.5M subscribers
+      <hr/>
+      
+      - *Disney+ had more than 60.5 million paying subscribers as of yesterday, according to The Walt Disney Company’s CEO Bob Chapek. Chapek shared the number during a call to discuss the company’s latest earnings report, which covered the company’s most recent quart…*
+      
   - Software stocks set new records despite earnings, pandemic
       <hr/>
       
@@ -81,16 +86,11 @@ Often designers do complicated things that improve the capacity on a particular 
       <hr/>
       
       - *Apple isn’t the only one accused of kicking out competitive solutions from its App Store. Google did the same — for over a month at least — or so alleges parental control app maker Boomerang. The company’s product competes with Google’s own Family Link soluti…*
-      
+       
   - Apple's veteran marketing chief Phil Schiller moves to smaller role inside company
       <hr/>
-      
-      - *After more than three decades climbing Apple’s ranks, marketing chief Phil Schiller is taking a step back at the company, being replaced by a long-time product marketing leader inside Apple. Schiller is taking on a new role as an Apple Fellow where he will co…*
        
-  - More thoughts on growing podcasts
-      <hr/>
-       
-       - *Plus: how to monitor and fix Facebook/Instagram ad fatigue, and using mobile app ads to drive landing page conversions.*
+       - *After more than three decades climbing Apple’s ranks, marketing chief Phil Schiller is taking a step back at the company, being replaced by a long-time product marketing leader inside Apple. Schiller is taking on a new role as an Apple Fellow where he will co…*
       
 
 
