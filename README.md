@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's not so important what you work on, so long as you're not wasting your time.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Paul Graham (programmer)
+~ Brian Kernighan
 <pre>
 
 </pre>
