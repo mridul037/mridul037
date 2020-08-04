@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Daniel T. Barry
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 
 </pre>
 **Daily News**
-  - Parental control app Boomerang repeatedly blocked from Play Store, losing business
+  - Software stocks set new records despite earnings, pandemic
      <hr/>
      
-      - *Apple isn’t the only one accused of kicking out competitive solutions from its App Store. Google did the same — for over a month at least — or so alleges parental control app maker Boomerang. The company’s product competes with Google’s own Family Link soluti…*
+      - *You might have missed it, but amidst the current political-M&A-pandemic-election-disinformation news cycle we find ourselves in this week, SaaS and cloud companies reached new public market records. Yesterday, the Bessemer-Nasdaq cloud index closed at 2,035.5…*
      
+  - Parental control app Boomerang repeatedly blocked from Play Store, losing business
+      <hr/>
+      
+      - *Apple isn’t the only one accused of kicking out competitive solutions from its App Store. Google did the same — for over a month at least — or so alleges parental control app maker Boomerang. The company’s product competes with Google’s own Family Link soluti…*
+      
   - Apple's veteran marketing chief Phil Schiller moves to smaller role inside company
       <hr/>
       
@@ -81,16 +86,11 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
       <hr/>
       
       - *Plus: how to monitor and fix Facebook/Instagram ad fatigue, and using mobile app ads to drive landing page conversions.*
-      
+       
   - Qualified raises $12M make websites smarter about sales and marketing
       <hr/>
-      
-      - *Qualified, a startup co-founded by former Salesforce executives Kraig Swensrud and Sean Whiteley, has raised $12 million in Series A funding. Swensrud (Qualified’s CEO) said the startup is meant to solve a problem that he faced back when he was CMO at Salesfo…*
        
-  - Decrypted: How a teenager hacked Twitter, Garmin's ransomware aftermath
-      <hr/>
-       
-       - *How did a 17-year-old become the most powerful person on Twitter? Plus, more on the Garmin ransomware attack..*
+       - *Qualified, a startup co-founded by former Salesforce executives Kraig Swensrud and Sean Whiteley, has raised $12 million in Series A funding. Swensrud (Qualified’s CEO) said the startup is meant to solve a problem that he faced back when he was CMO at Salesfo…*
       
 
 
