@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Richard Stallman
+~ Quarry worker's creed
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of u
 
 </pre>
 **Daily News**
-  - Grab launches new consumer financial services, including micro-investments and loans
+  - Twitter warns investors of possible fine from FTC consent order probe
      <hr/>
      
-      - *Grab announced today that its financial unit, which previously focused mainly on services for entrepreneurs and small businesses, is launching a slew of consumer products, including micro-investments, loans, health insurance and a pay-later program. Based in …*
+      - *Twitter has disclosed it’s facing a potential fine of more than a hundred million dollars as a result of a probe by the Federal Trade Commission (FTC) which believes the company violated a 2011 consent order by using data provided by users for a security purp…*
      
+  - TaxScouts raises £5M Series A to expand to Europe, first stop Spain
+      <hr/>
+      
+      - *TaxScouts, the U.K. tax preparation startup founded by TransferWise and MarketInvoice alumni, has raised £5 million in Series A funding for European expansion. Leading the round is Octopus Ventures, with previous investors SpeedInvest, Seedcamp and Finch Capi…*
+      
+  - Grab launches new consumer financial services, including micro-investments and loans
+      <hr/>
+      
+      - *Grab announced today that its financial unit, which previously focused mainly on services for entrepreneurs and small businesses, is launching a slew of consumer products, including micro-investments, loans, health insurance and a pay-later program. Based in …*
+      
   - FCC invites public comment on Trump's attempt to nerf Section 230
       <hr/>
       
       - *FCC Chairman Ajit Pai has decided to ask the public for its thoughts on an attempt initiated in Trump in May to water down certain protections that arguably led to the creation of the modern internet economy. The nakedly retaliatory order seems to be, legally…*
-      
+       
   - Daily Crunch: Microsoft-TikTok acquisition inches closer to reality
       <hr/>
-      
-      - *A possible Microsoft -TikTok acquisition is causing plenty of drama, we review Google’s new budget Pixel and SpaceX’s Crew Dragon returns to Earth. Here’s your Daily Crunch for August 3, 2020. Microsoft-TikTok acquisition inches closer to reality This weekend…*
-      
-  - EventGeek relaunches as Circa to help marketers embrace virtual events
-      <hr/>
-      
-      - *EventGeek was a Y Combinator-backed startup that offered tools to help large enterprises manage the logistics of their events. So with the COVID-19 pandemic essentially eliminating large-scale conferences, at least in-person, it’s not exactly surprising that …*
        
-  - What Microsoft should demand in exchange for its “payment” to the U.S. government for TikTok
-      <hr/>
-       
-       - *In one of the crazier news stories (and in 2020, that is saying something), President Donald Trump said today during a media availability that in order for the U.S. government to sign off on a potential Microsoft/TikTok deal, “a very substantial portion of th…*
+       - *A possible Microsoft -TikTok acquisition is causing plenty of drama, we review Google’s new budget Pixel and SpaceX’s Crew Dragon returns to Earth. Here’s your Daily Crunch for August 3, 2020. Microsoft-TikTok acquisition inches closer to reality This weekend…*
       
 
 
