@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Much of the essence of building a program is in fact the debugging of the specification.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ Fred Brooks
+~ Bob Frankston
 <pre>
 
 </pre>
