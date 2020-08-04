@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+Humanity is acquiring all the right technology for all the wrong reasons.
 
-~ Albert Einstein
+~ Buckminster Fuller
 <pre>
 
 </pre>
