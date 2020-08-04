@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Bob Frankston
+~ Jim Coplien
 <pre>
 
 </pre>
@@ -68,11 +67,16 @@ computer getting it right is pretty small.
 
 </pre>
 **Daily News**
-  - FCC invites public comment on Trump's attempt to nerf Section 230
+  - Grab launches new consumer financial services, including micro-investments and loans
      <hr/>
      
-      - *FCC Chairman Ajit Pai has decided to ask the public for its thoughts on an attempt initiated in Trump in May to water down certain protections that arguably led to the creation of the modern internet economy. The nakedly retaliatory order seems to be, legally…*
+      - *Grab announced today that its financial unit, which previously focused mainly on services for entrepreneurs and small businesses, is launching a slew of consumer products, including micro-investments, loans, health insurance and a pay-later program. Based in …*
      
+  - FCC invites public comment on Trump's attempt to nerf Section 230
+      <hr/>
+      
+      - *FCC Chairman Ajit Pai has decided to ask the public for its thoughts on an attempt initiated in Trump in May to water down certain protections that arguably led to the creation of the modern internet economy. The nakedly retaliatory order seems to be, legally…*
+      
   - Daily Crunch: Microsoft-TikTok acquisition inches closer to reality
       <hr/>
       
@@ -82,16 +86,11 @@ computer getting it right is pretty small.
       <hr/>
       
       - *EventGeek was a Y Combinator-backed startup that offered tools to help large enterprises manage the logistics of their events. So with the COVID-19 pandemic essentially eliminating large-scale conferences, at least in-person, it’s not exactly surprising that …*
-      
+       
   - What Microsoft should demand in exchange for its “payment” to the U.S. government for TikTok
       <hr/>
-      
-      - *In one of the crazier news stories (and in 2020, that is saying something), President Donald Trump said today during a media availability that in order for the U.S. government to sign off on a potential Microsoft/TikTok deal, “a very substantial portion of th…*
        
-  - Extra Crunch Live: Join fintech legend Max Levchin for a live Q&A on August 6 at 4pm ET/1pm PT
-      <hr/>
-       
-       - *We’ve got a great Extra Crunch Live chat coming up on Thursday, August 4, that you won’t want to miss. The one and only Max Levchin, is Silicon Valley icon and entrepreneur extraordinaire, is joining us to talk all things tech and fintech. You might know him …*
+       - *In one of the crazier news stories (and in 2020, that is saying something), President Donald Trump said today during a media availability that in order for the U.S. government to sign off on a potential Microsoft/TikTok deal, “a very substantial portion of th…*
       
 
 
