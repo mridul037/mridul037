@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Paul Graham (programmer)
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best thing software can be is easy, but the way to do this is to get the def
 
 </pre>
 **Daily News**
-  - More thoughts on growing podcasts
+  - Parental control app Boomerang repeatedly blocked from Play Store, losing business
      <hr/>
      
-      - *Plus: how to monitor and fix Facebook/Instagram ad fatigue, and using mobile app ads to drive landing page conversions.*
+      - *Apple isn’t the only one accused of kicking out competitive solutions from its App Store. Google did the same — for over a month at least — or so alleges parental control app maker Boomerang. The company’s product competes with Google’s own Family Link soluti…*
      
+  - Apple's veteran marketing chief Phil Schiller moves to smaller role inside company
+      <hr/>
+      
+      - *After more than three decades climbing Apple’s ranks, marketing chief Phil Schiller is taking a step back at the company, being replaced by a long-time product marketing leader inside Apple. Schiller is taking on a new role as an Apple Fellow where he will co…*
+      
+  - More thoughts on growing podcasts
+      <hr/>
+      
+      - *Plus: how to monitor and fix Facebook/Instagram ad fatigue, and using mobile app ads to drive landing page conversions.*
+      
   - Qualified raises $12M make websites smarter about sales and marketing
       <hr/>
       
       - *Qualified, a startup co-founded by former Salesforce executives Kraig Swensrud and Sean Whiteley, has raised $12 million in Series A funding. Swensrud (Qualified’s CEO) said the startup is meant to solve a problem that he faced back when he was CMO at Salesfo…*
-      
+       
   - Decrypted: How a teenager hacked Twitter, Garmin's ransomware aftermath
       <hr/>
-      
-      - *How did a 17-year-old become the most powerful person on Twitter? Plus, more on the Garmin ransomware attack..*
-      
-  - Rocket Lab boosts Electron rocket's lift capacity by 660 lbs
-      <hr/>
-      
-      - *Rocket Lab has managed to engineer a significant payload capacity bump into its existing Electron space launch vehicle, the company revealed today. Electron can now fly as much as 300 kg (660 lbs) to low Earth orbit (or around 440 lbs to a higher, sun synchro…*
        
-  - Microsoft, Amazon back a SoCal company making microchips specifically for voice-based apps
-      <hr/>
-       
-       - *Microsoft’s venture capital fund, M12 Ventures has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications. “We started…*
+       - *How did a 17-year-old become the most powerful person on Twitter? Plus, more on the Garmin ransomware attack..*
       
 
 
