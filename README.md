@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Eric S. Raymond
+~ Ryan Singer
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer science education cannot make anybody an expert programmer any more tha
 
 </pre>
 **Daily News**
-  - UK commits to redesign visa streaming algorithm after challenge to 'racist' tool
+  - Amazon's 16% bite of Deliveroo finally clears UK competition probe
      <hr/>
      
-      - *The UK government is suspending the use of an algorithm used to stream visa applications after concerns were raised the technology bakes in unconscious bias and racism. The tool had been the target of a legal challenge. The Joint Council for the Welfare of Im…*
+      - *It’s official: Days after Amazon CEO Jeff Bezos was peppered with awkward questions by US lawmakers concerned about the market power of his ecommerce empire, the UK’s competition regulator has confirmed it’s happy for the tech giant to take a 16% bite out of …*
      
+  - Microsoft showcases mobile gaming accessories designed to work with Xbox cloud gaming
+      <hr/>
+      
+      - *Way back in the before times of October 2019, Microsoft announced that it would be expanding its Designed for Xbox stamp of approval to a line of mobile accessories. The play was pretty obvious: The company is trying to get serious about smartphone gaming thr…*
+      
+  - Yotpo raises $75M for its e-commerce marketing cloud
+      <hr/>
+      
+      - *“Marketing Cloud” has become an increasingly popular concept in the world of marketing technology — used by the likes of Salesforce, Adobe, Oracle and others to describe their digital toolsets for organizations to identify and connect with customers. Now, a s…*
+      
+  - UK commits to redesign visa streaming algorithm after challenge to 'racist' tool
+      <hr/>
+      
+      - *The UK government is suspending the use of an algorithm used to stream visa applications after concerns were raised the technology bakes in unconscious bias and racism. The tool had been the target of a legal challenge. The Joint Council for the Welfare of Im…*
+       
   - WhatsApp pilots new feature to fight misinformation: Search the web
       <hr/>
-      
-      - *WhatsApp, one of the most popular instant messaging platforms on the planet, has rolled out a new feature in select markets that makes it easier for users to verify whether the assertions made in messages they have received on the app are true. The Facebook -…*
-      
-  - Twitter warns investors of possible fine from FTC consent order probe
-      <hr/>
-      
-      - *Twitter has disclosed it’s facing a potential fine of more than a hundred million dollars as a result of a probe by the Federal Trade Commission (FTC) which believes the company violated a 2011 consent order by using data provided by users for a security purp…*
-      
-  - TaxScouts raises £5M Series A to expand to Europe, first stop Spain
-      <hr/>
-      
-      - *TaxScouts, the U.K. tax preparation startup founded by TransferWise and MarketInvoice alumni, has raised £5 million in Series A funding for European expansion. Leading the round is Octopus Ventures, with previous investors SpeedInvest, Seedcamp and Finch Capi…*
        
-  - Grab launches new consumer financial services, including micro-investments and loans
-      <hr/>
-       
-       - *Grab announced today that its financial unit, which previously focused mainly on services for entrepreneurs and small businesses, is launching a slew of consumer products, including micro-investments, loans, health insurance and a pay-later program. Based in …*
+       - *WhatsApp, one of the most popular instant messaging platforms on the planet, has rolled out a new feature in select markets that makes it easier for users to verify whether the assertions made in messages they have received on the app are true. The Facebook -…*
       
 
 
