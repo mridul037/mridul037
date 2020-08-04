@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+It's not so important what you work on, so long as you're not wasting your time.
 
-~ Rob Pike
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Fancy algorithms are slow when n is small, and n is usually small.
 
 </pre>
 **Daily News**
-  - Daily Crunch: Microsoft-TikTok acquisition inches closer to reality
+  - FCC invites public comment on Trump's attempt to nerf Section 230
      <hr/>
      
-      - *A possible Microsoft -TikTok acquisition is causing plenty of drama, we review Google’s new budget Pixel and SpaceX’s Crew Dragon returns to Earth. Here’s your Daily Crunch for August 3, 2020. Microsoft-TikTok acquisition inches closer to reality This weekend…*
+      - *FCC Chairman Ajit Pai has decided to ask the public for its thoughts on an attempt initiated in Trump in May to water down certain protections that arguably led to the creation of the modern internet economy. The nakedly retaliatory order seems to be, legally…*
      
+  - Daily Crunch: Microsoft-TikTok acquisition inches closer to reality
+      <hr/>
+      
+      - *A possible Microsoft -TikTok acquisition is causing plenty of drama, we review Google’s new budget Pixel and SpaceX’s Crew Dragon returns to Earth. Here’s your Daily Crunch for August 3, 2020. Microsoft-TikTok acquisition inches closer to reality This weekend…*
+      
   - EventGeek relaunches as Circa to help marketers embrace virtual events
       <hr/>
       
@@ -81,16 +86,11 @@ Fancy algorithms are slow when n is small, and n is usually small.
       <hr/>
       
       - *In one of the crazier news stories (and in 2020, that is saying something), President Donald Trump said today during a media availability that in order for the U.S. government to sign off on a potential Microsoft/TikTok deal, “a very substantial portion of th…*
-      
+       
   - Extra Crunch Live: Join fintech legend Max Levchin for a live Q&A on August 6 at 4pm ET/1pm PT
       <hr/>
-      
-      - *We’ve got a great Extra Crunch Live chat coming up on Thursday, August 4, that you won’t want to miss. The one and only Max Levchin, is Silicon Valley icon and entrepreneur extraordinaire, is joining us to talk all things tech and fintech. You might know him …*
        
-  - Announcing Sight Tech Global, an event on the future of AI and accessibility for people who are blind or visually impaired
-      <hr/>
-       
-       - *Few challenges have excited technologists more than building tools to help people who are blind or visually impaired. It was Silicon Valley legend Ray Kurzweil, for example, who in 1976 launched the first commercially available text-to-speech reading device. …*
+       - *We’ve got a great Extra Crunch Live chat coming up on Thursday, August 4, that you won’t want to miss. The one and only Max Levchin, is Silicon Valley icon and entrepreneur extraordinaire, is joining us to talk all things tech and fintech. You might know him …*
       
 
 
