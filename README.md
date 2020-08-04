@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 
-~ Brian Kernighan
+~ Bill Gates
 <pre>
 
 </pre>
