@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 
-~ Quarry worker's creed
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We who cut mere stones must always be envisioning cathedrals.
 
 </pre>
 **Daily News**
-  - Twitter warns investors of possible fine from FTC consent order probe
+  - WhatsApp pilots new feature to fight misinformation: Search the web
      <hr/>
      
-      - *Twitter has disclosed it’s facing a potential fine of more than a hundred million dollars as a result of a probe by the Federal Trade Commission (FTC) which believes the company violated a 2011 consent order by using data provided by users for a security purp…*
+      - *WhatsApp, one of the most popular instant messaging platforms on the planet, has rolled out a new feature in select markets that makes it easier for users to verify whether the assertions made in messages they have received on the app are true. The Facebook -…*
      
+  - Twitter warns investors of possible fine from FTC consent order probe
+      <hr/>
+      
+      - *Twitter has disclosed it’s facing a potential fine of more than a hundred million dollars as a result of a probe by the Federal Trade Commission (FTC) which believes the company violated a 2011 consent order by using data provided by users for a security purp…*
+      
   - TaxScouts raises £5M Series A to expand to Europe, first stop Spain
       <hr/>
       
@@ -81,16 +86,11 @@ We who cut mere stones must always be envisioning cathedrals.
       <hr/>
       
       - *Grab announced today that its financial unit, which previously focused mainly on services for entrepreneurs and small businesses, is launching a slew of consumer products, including micro-investments, loans, health insurance and a pay-later program. Based in …*
-      
+       
   - FCC invites public comment on Trump's attempt to nerf Section 230
       <hr/>
-      
-      - *FCC Chairman Ajit Pai has decided to ask the public for its thoughts on an attempt initiated in Trump in May to water down certain protections that arguably led to the creation of the modern internet economy. The nakedly retaliatory order seems to be, legally…*
        
-  - Daily Crunch: Microsoft-TikTok acquisition inches closer to reality
-      <hr/>
-       
-       - *A possible Microsoft -TikTok acquisition is causing plenty of drama, we review Google’s new budget Pixel and SpaceX’s Crew Dragon returns to Earth. Here’s your Daily Crunch for August 3, 2020. Microsoft-TikTok acquisition inches closer to reality This weekend…*
+       - *FCC Chairman Ajit Pai has decided to ask the public for its thoughts on an attempt initiated in Trump in May to water down certain protections that arguably led to the creation of the modern internet economy. The nakedly retaliatory order seems to be, legally…*
       
 
 
