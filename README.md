@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Humanity is acquiring all the right technology for all the wrong reasons.
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
 
-~ Buckminster Fuller
+~ Michael A. Jackson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Humanity is acquiring all the right technology for all the wrong reasons.
 
 </pre>
 **Daily News**
-  - 'Mulan' is coming to Disney+ on September 4, for an additional price of $29.99
+  - Anthony Levandowski sentenced to 18 months in prison, as new $4B lawsuit against Uber is filed
      <hr/>
      
-      - *Those wondering whether The Walt Disney Company would eventually give up on a traditional theatrical release for “Mulan” now have their answer. Until now, Disney had repeatedly delayed “Mulan”‘s release due to theatrical closures in the U.S. and around the wo…*
+      - *Anthony Levandowski, the former Google engineer and serial entrepreneur who was at the center of a lawsuit between Uber and Waymo, has been sentenced to 18 months on one count of stealing trade secrets.  Levandowski won’t be heading straight to prison, howeve…*
      
+  - 'Mulan' is coming to Disney+ on September 4, for an additional price of $29.99
+      <hr/>
+      
+      - *Those wondering whether The Walt Disney Company would eventually give up on a traditional theatrical release for “Mulan” now have their answer. Until now, Disney had repeatedly delayed “Mulan”‘s release due to theatrical closures in the U.S. and around the wo…*
+      
   - Disney+ grows to more than 60.5M subscribers
       <hr/>
       
@@ -81,16 +86,11 @@ Humanity is acquiring all the right technology for all the wrong reasons.
       <hr/>
       
       - *You might have missed it, but amidst the current political-M&A-pandemic-election-disinformation news cycle we find ourselves in this week, SaaS and cloud companies reached new public market records. Yesterday, the Bessemer-Nasdaq cloud index closed at 2,035.5…*
-      
+       
   - Parental control app Boomerang repeatedly blocked from Play Store, losing business
       <hr/>
-      
-      - *Apple isn’t the only one accused of kicking out competitive solutions from its App Store. Google did the same — for over a month at least — or so alleges parental control app maker Boomerang. The company’s product competes with Google’s own Family Link soluti…*
        
-  - Apple's veteran marketing chief Phil Schiller moves to smaller role inside company
-      <hr/>
-       
-       - *After more than three decades climbing Apple’s ranks, marketing chief Phil Schiller is taking a step back at the company, being replaced by a long-time product marketing leader inside Apple. Schiller is taking on a new role as an Apple Fellow where he will co…*
+       - *Apple isn’t the only one accused of kicking out competitive solutions from its App Store. Google did the same — for over a month at least — or so alleges parental control app maker Boomerang. The company’s product competes with Google’s own Family Link soluti…*
       
 
 
