@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Danny Hillis
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One of the greatest joys in computer programming is discovering a new, faster, m
 
 </pre>
 **Daily News**
-  - London-based Weezy raises seed funding for its 15-minute grocery delivery app
+  - Amazon inks cloud deal with Airtel in India
      <hr/>
      
-      - *First there was same-day delivery. Then came one-hour delivery. Now a new London startup wants to make 15 minute delivery a thing. Putting the hyper hyper-local into online grocery shopping, Weezy combines its own strategically located fulfilment centres with…*
+      - *Amazon has found a new partner to expand the reach of its cloud services business AWS in India, the world’s second largest internet market. On Wednesday, the e-commerce giant announced it has partnered with Bharti Airtel, the third-largest telecom operator in…*
      
+  - London-based Weezy raises seed funding for its 15-minute grocery delivery app
+      <hr/>
+      
+      - *First there was same-day delivery. Then came one-hour delivery. Now a new London startup wants to make 15 minute delivery a thing. Putting the hyper hyper-local into online grocery shopping, Weezy combines its own strategically located fulfilment centres with…*
+      
   - Jakarta-based Wahyoo gets $5 million Series A to help small eateries digitize their operations
       <hr/>
       
@@ -81,16 +86,11 @@ One of the greatest joys in computer programming is discovering a new, faster, m
       <hr/>
       
       - *Triller, the short video app backed by a Hollywood mogul and music celebrities, is rapidly ballooning in both user size and valuation. It’s now seeking a new funding round of $250 million that will push its valuation to over $1 billion, according to a source …*
-      
+       
   - YC-backed Statiq wants to bootstrap India’s EV charging network
       <hr/>
-      
-      - *Electric vehicles (EVs) are spreading throughout the world. While Tesla has drawn the most attention in the United States with its luxurious and cutting-edge cars, EVs are becoming a mainstay in markets far away from the environs of California. Take India for…*
        
-  - SpaceX successfully flies its Starship prototype to a height of around 500 feet
-      <hr/>
-       
-       - *SpaceX has been developing Starship, its next-generation spacecraft, at its site in Boca Chica, Texas. The company has built a number of different Starship prototypes to date, include one prior version called the Starhopper that was essentially just the botto…*
+       - *Electric vehicles (EVs) are spreading throughout the world. While Tesla has drawn the most attention in the United States with its luxurious and cutting-edge cars, EVs are becoming a mainstay in markets far away from the environs of California. Take India for…*
       
 
 
