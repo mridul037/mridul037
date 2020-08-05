@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
 
-~ Robert C. Martin
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The ratio of time spent reading versus writing is well over 10 to 1. We are cons
 
 </pre>
 **Daily News**
-  - Jakarta-based Wahyoo gets $5 million Series A to help small eateries digitize their operations
+  - London-based Weezy raises seed funding for its 15-minute grocery delivery app
      <hr/>
      
-      - *While growing up, Peter Shearer watched his mother get up every day at 2AM or 3AM to prepare for her catering business. For many people who own small food businesses in Indonesia, “everything is handled on their own, so I really, really wanted to create a sys…*
+      - *First there was same-day delivery. Then came one-hour delivery. Now a new London startup wants to make 15 minute delivery a thing. Putting the hyper hyper-local into online grocery shopping, Weezy combines its own strategically located fulfilment centres with…*
      
+  - Jakarta-based Wahyoo gets $5 million Series A to help small eateries digitize their operations
+      <hr/>
+      
+      - *While growing up, Peter Shearer watched his mother get up every day at 2AM or 3AM to prepare for her catering business. For many people who own small food businesses in Indonesia, “everything is handled on their own, so I really, really wanted to create a sys…*
+      
   - Hollywood's Triller sets its own rhythm even as it gains from TikTok troubles
       <hr/>
       
@@ -81,16 +86,11 @@ The ratio of time spent reading versus writing is well over 10 to 1. We are cons
       <hr/>
       
       - *Electric vehicles (EVs) are spreading throughout the world. While Tesla has drawn the most attention in the United States with its luxurious and cutting-edge cars, EVs are becoming a mainstay in markets far away from the environs of California. Take India for…*
-      
+       
   - SpaceX successfully flies its Starship prototype to a height of around 500 feet
       <hr/>
-      
-      - *SpaceX has been developing Starship, its next-generation spacecraft, at its site in Boca Chica, Texas. The company has built a number of different Starship prototypes to date, include one prior version called the Starhopper that was essentially just the botto…*
        
-  - Anthony Levandowski sentenced to 18 months in prison, as new $4B lawsuit against Uber is filed
-      <hr/>
-       
-       - *Anthony Levandowski, the former Google engineer and serial entrepreneur who was at the center of a lawsuit between Uber and Waymo, has been sentenced to 18 months on one count of stealing trade secrets.  Levandowski won’t be heading straight to prison, howeve…*
+       - *SpaceX has been developing Starship, its next-generation spacecraft, at its site in Boca Chica, Texas. The company has built a number of different Starship prototypes to date, include one prior version called the Starhopper that was essentially just the botto…*
       
 
 
