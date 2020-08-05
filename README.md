@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ Martin Fowler
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Often designers do complicated things that improve the capacity on a particular 
 
 </pre>
 **Daily News**
-  - SpaceX successfully flies its Starship prototype to a height of around 500 feet
+  - YC-backed Statiq wants to bootstrap India’s EV charging network
      <hr/>
      
-      - *SpaceX has been developing Starship, its next-generation spacecraft, at its site in Boca Chica, Texas. The company has built a number of different Starship prototypes to date, include one prior version called the Starhopper that was essentially just the botto…*
+      - *Electric vehicles (EVs) are spreading throughout the world. While Tesla has drawn the most attention in the United States with its luxurious and cutting-edge cars, EVs are becoming a mainstay in markets far away from the environs of California. Take India for…*
      
+  - SpaceX successfully flies its Starship prototype to a height of around 500 feet
+      <hr/>
+      
+      - *SpaceX has been developing Starship, its next-generation spacecraft, at its site in Boca Chica, Texas. The company has built a number of different Starship prototypes to date, include one prior version called the Starhopper that was essentially just the botto…*
+      
   - Anthony Levandowski sentenced to 18 months in prison, as new $4B lawsuit against Uber is filed
       <hr/>
       
@@ -81,16 +86,11 @@ Often designers do complicated things that improve the capacity on a particular 
       <hr/>
       
       - *Those wondering whether The Walt Disney Company would eventually give up on a traditional theatrical release for “Mulan” now have their answer. Until now, Disney had repeatedly delayed “Mulan”‘s release due to theatrical closures in the U.S. and around the wo…*
-      
+       
   - Disney+ grows to more than 60.5M subscribers
       <hr/>
-      
-      - *Disney+ had more than 60.5 million paying subscribers as of yesterday, according to The Walt Disney Company’s CEO Bob Chapek. Chapek shared the number during a call to discuss the company’s latest earnings report, which covered the company’s most recent quart…*
        
-  - Software stocks set new records despite earnings, pandemic
-      <hr/>
-       
-       - *You might have missed it, but amidst the current political-M&A-pandemic-election-disinformation news cycle we find ourselves in this week, SaaS and cloud companies reached new public market records. Yesterday, the Bessemer-Nasdaq cloud index closed at 2,035.5…*
+       - *Disney+ had more than 60.5 million paying subscribers as of yesterday, according to The Walt Disney Company’s CEO Bob Chapek. Chapek shared the number during a call to discuss the company’s latest earnings report, which covered the company’s most recent quart…*
       
 
 
