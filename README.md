@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Maurice Wilkes
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Since 1954, the raw speed of computers, as measured by the time it takes to do a
 
 </pre>
 **Daily News**
-  - US tech needs a pivot to survive
+  - Watch SpaceX's stunning Starship prototype 'hop' test flight and landing
      <hr/>
      
-      - *James Stranko Contributor James Stranko is a writer and independent advisor to American tech companies expanding abroad. He was on the founding team of Fuel, McKinsey’s practice serving VC firms and pre-IPO tech leaders. Daire Hickey Contributor Share on Twit…*
+      - *SpaceX achieved a big win in their Starship spacecraft development program on Tuesday evening, flying the SN5 prototype of that future vehicle to a height of around 500 feet, propelled by a single Raptor engine. The test, which took place at SpaceX’s rocket d…*
      
+  - US tech needs a pivot to survive
+      <hr/>
+      
+      - *James Stranko Contributor James Stranko is a writer and independent advisor to American tech companies expanding abroad. He was on the founding team of Fuel, McKinsey’s practice serving VC firms and pre-IPO tech leaders. Daire Hickey Contributor Share on Twit…*
+      
   - Springboard raises $31 million to expand its mentor-guided education platform to more geographies
       <hr/>
       
@@ -81,16 +86,11 @@ Since 1954, the raw speed of computers, as measured by the time it takes to do a
       <hr/>
       
       - *Electric vehicle charging network ChargePoint raised $127 million in funding in a bid to expand its platform for businesses and fleets in North America and Europe. A mix of existing investors from the oil and gas, utilities and venture industries added to the…*
-      
+       
   - Censys, a search engine for internet devices, raises $15.5M Series A
       <hr/>
-      
-      - *Internet device search engine Censys is one of the biggest search engines you’ve probably never heard of. If Google is the search engine for finding information sitting on the web, Censys is the search engine for finding internet devices, like computers, serv…*
        
-  - Amazon inks cloud deal with Airtel in India
-      <hr/>
-       
-       - *Amazon has found a new partner to expand the reach of its cloud services business AWS in India, the world’s second largest internet market. On Wednesday, the e-commerce giant announced it has partnered with Bharti Airtel, the third-largest telecom operator in…*
+       - *Internet device search engine Censys is one of the biggest search engines you’ve probably never heard of. If Google is the search engine for finding information sitting on the web, Censys is the search engine for finding internet devices, like computers, serv…*
       
 
 
