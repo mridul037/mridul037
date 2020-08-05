@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Rick Osborne
+~ Donald Knuth
 <pre>
 
 </pre>
