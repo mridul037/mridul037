@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 
-~ Danny Hillis
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Computers are the most complex objects we human beings have ever created, but in
 
 </pre>
 **Daily News**
-  - Hollywood's Triller sets its own rhythm even as it gains from TikTok troubles
+  - Jakarta-based Wahyoo gets $5 million Series A to help small eateries digitize their operations
      <hr/>
      
-      - *Triller, the short video app backed by a Hollywood mogul and music celebrities, is rapidly ballooning in both user size and valuation. It’s now seeking a new funding round of $250 million that will push its valuation to over $1 billion, according to a source …*
+      - *While growing up, Peter Shearer watched his mother get up every day at 2AM or 3AM to prepare for her catering business. For many people who own small food businesses in Indonesia, “everything is handled on their own, so I really, really wanted to create a sys…*
      
+  - Hollywood's Triller sets its own rhythm even as it gains from TikTok troubles
+      <hr/>
+      
+      - *Triller, the short video app backed by a Hollywood mogul and music celebrities, is rapidly ballooning in both user size and valuation. It’s now seeking a new funding round of $250 million that will push its valuation to over $1 billion, according to a source …*
+      
   - YC-backed Statiq wants to bootstrap India’s EV charging network
       <hr/>
       
@@ -81,16 +86,11 @@ Computers are the most complex objects we human beings have ever created, but in
       <hr/>
       
       - *SpaceX has been developing Starship, its next-generation spacecraft, at its site in Boca Chica, Texas. The company has built a number of different Starship prototypes to date, include one prior version called the Starhopper that was essentially just the botto…*
-      
+       
   - Anthony Levandowski sentenced to 18 months in prison, as new $4B lawsuit against Uber is filed
       <hr/>
-      
-      - *Anthony Levandowski, the former Google engineer and serial entrepreneur who was at the center of a lawsuit between Uber and Waymo, has been sentenced to 18 months on one count of stealing trade secrets.  Levandowski won’t be heading straight to prison, howeve…*
        
-  - 'Mulan' is coming to Disney+ on September 4, for an additional price of $29.99
-      <hr/>
-       
-       - *Those wondering whether The Walt Disney Company would eventually give up on a traditional theatrical release for “Mulan” now have their answer. Until now, Disney had repeatedly delayed “Mulan”‘s release due to theatrical closures in the U.S. and around the wo…*
+       - *Anthony Levandowski, the former Google engineer and serial entrepreneur who was at the center of a lawsuit between Uber and Waymo, has been sentenced to 18 months on one count of stealing trade secrets.  Levandowski won’t be heading straight to prison, howeve…*
       
 
 
