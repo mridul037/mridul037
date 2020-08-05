@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 
-~ Donald Knuth
+~ Alan Perlis
 <pre>
 
 </pre>
