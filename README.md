@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 
-~ Bob Frankston
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -68,30 +67,30 @@ computer getting it right is pretty small.
 
 </pre>
 **Daily News**
-  - Amazon inks cloud deal with Airtel in India
+  - US tech needs a pivot to survive
      <hr/>
      
-      - *Amazon has found a new partner to expand the reach of its cloud services business AWS in India, the world’s second largest internet market. On Wednesday, the e-commerce giant announced it has partnered with Bharti Airtel, the third-largest telecom operator in…*
+      - *James Stranko Contributor James Stranko is a writer and independent advisor to American tech companies expanding abroad. He was on the founding team of Fuel, McKinsey’s practice serving VC firms and pre-IPO tech leaders. Daire Hickey Contributor Share on Twit…*
      
-  - London-based Weezy raises seed funding for its 15-minute grocery delivery app
+  - Springboard raises $31 million to expand its mentor-guided education platform to more geographies
       <hr/>
       
-      - *First there was same-day delivery. Then came one-hour delivery. Now a new London startup wants to make 15 minute delivery a thing. Putting the hyper hyper-local into online grocery shopping, Weezy combines its own strategically located fulfilment centres with…*
+      - *Springboard, an online education platform that provides upskilling and reskilling training courses to people looking to learn in-demand roles, has raised $31 million in a new financing round as it looks to expand to more geographies. The Series B financing ro…*
       
-  - Jakarta-based Wahyoo gets $5 million Series A to help small eateries digitize their operations
+  - ChargePoint raises $127M as electric vehicle adoption grows among fleet operators
       <hr/>
       
-      - *While growing up, Peter Shearer watched his mother get up every day at 2AM or 3AM to prepare for her catering business. For many people who own small food businesses in Indonesia, “everything is handled on their own, so I really, really wanted to create a sys…*
+      - *Electric vehicle charging network ChargePoint raised $127 million in funding in a bid to expand its platform for businesses and fleets in North America and Europe. A mix of existing investors from the oil and gas, utilities and venture industries added to the…*
       
-  - Hollywood's Triller sets its own rhythm even as it gains from TikTok troubles
+  - Censys, a search engine for internet devices, raises $15.5M Series A
       <hr/>
       
-      - *Triller, the short video app backed by a Hollywood mogul and music celebrities, is rapidly ballooning in both user size and valuation. It’s now seeking a new funding round of $250 million that will push its valuation to over $1 billion, according to a source …*
+      - *Internet device search engine Censys is one of the biggest search engines you’ve probably never heard of. If Google is the search engine for finding information sitting on the web, Censys is the search engine for finding internet devices, like computers, serv…*
        
-  - YC-backed Statiq wants to bootstrap India’s EV charging network
+  - Amazon inks cloud deal with Airtel in India
       <hr/>
        
-       - *Electric vehicles (EVs) are spreading throughout the world. While Tesla has drawn the most attention in the United States with its luxurious and cutting-edge cars, EVs are becoming a mainstay in markets far away from the environs of California. Take India for…*
+       - *Amazon has found a new partner to expand the reach of its cloud services business AWS in India, the world’s second largest internet market. On Wednesday, the e-commerce giant announced it has partnered with Bharti Airtel, the third-largest telecom operator in…*
       
 
 
