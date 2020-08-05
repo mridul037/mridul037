@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 
-~ Tim Berners-Lee
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Cool URIs don't change.
 
 </pre>
 **Daily News**
-  - YC-backed Statiq wants to bootstrap India’s EV charging network
+  - Hollywood's Triller sets its own rhythm even as it gains from TikTok troubles
      <hr/>
      
-      - *Electric vehicles (EVs) are spreading throughout the world. While Tesla has drawn the most attention in the United States with its luxurious and cutting-edge cars, EVs are becoming a mainstay in markets far away from the environs of California. Take India for…*
+      - *Triller, the short video app backed by a Hollywood mogul and music celebrities, is rapidly ballooning in both user size and valuation. It’s now seeking a new funding round of $250 million that will push its valuation to over $1 billion, according to a source …*
      
+  - YC-backed Statiq wants to bootstrap India’s EV charging network
+      <hr/>
+      
+      - *Electric vehicles (EVs) are spreading throughout the world. While Tesla has drawn the most attention in the United States with its luxurious and cutting-edge cars, EVs are becoming a mainstay in markets far away from the environs of California. Take India for…*
+      
   - SpaceX successfully flies its Starship prototype to a height of around 500 feet
       <hr/>
       
@@ -81,16 +86,11 @@ Cool URIs don't change.
       <hr/>
       
       - *Anthony Levandowski, the former Google engineer and serial entrepreneur who was at the center of a lawsuit between Uber and Waymo, has been sentenced to 18 months on one count of stealing trade secrets.  Levandowski won’t be heading straight to prison, howeve…*
-      
+       
   - 'Mulan' is coming to Disney+ on September 4, for an additional price of $29.99
       <hr/>
-      
-      - *Those wondering whether The Walt Disney Company would eventually give up on a traditional theatrical release for “Mulan” now have their answer. Until now, Disney had repeatedly delayed “Mulan”‘s release due to theatrical closures in the U.S. and around the wo…*
        
-  - Disney+ grows to more than 60.5M subscribers
-      <hr/>
-       
-       - *Disney+ had more than 60.5 million paying subscribers as of yesterday, according to The Walt Disney Company’s CEO Bob Chapek. Chapek shared the number during a call to discuss the company’s latest earnings report, which covered the company’s most recent quart…*
+       - *Those wondering whether The Walt Disney Company would eventually give up on a traditional theatrical release for “Mulan” now have their answer. Until now, Disney had repeatedly delayed “Mulan”‘s release due to theatrical closures in the U.S. and around the wo…*
       
 
 
