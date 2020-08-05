@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A number of studies have shown testing not very effective at finding bugs.
+It's not so important what you work on, so long as you're not wasting your time.
 
-~ Daniel T. Barry
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A number of studies have shown testing not very effective at finding bugs.
 
 </pre>
 **Daily News**
-  - Watch SpaceX's stunning Starship prototype 'hop' test flight and landing
+  - Mozper launches digital banking service for Latin American parents and kids
      <hr/>
      
-      - *SpaceX achieved a big win in their Starship spacecraft development program on Tuesday evening, flying the SN5 prototype of that future vehicle to a height of around 500 feet, propelled by a single Raptor engine. The test, which took place at SpaceX’s rocket d…*
+      - *Mozper, a new service launching from Y Combinator’s latest cohort to provide digital banking services, takes its name from the English words for money, prosperity, and generation Z, according to co-founder Yael Israeli. A former banker at Lehman Brothers and …*
      
-  - US tech needs a pivot to survive
+  - Direct-to-consumer cat food startup Smalls raises $9M
       <hr/>
       
-      - *James Stranko Contributor James Stranko is a writer and independent advisor to American tech companies expanding abroad. He was on the founding team of Fuel, McKinsey’s practice serving VC firms and pre-IPO tech leaders. Daire Hickey Contributor Share on Twit…*
+      - *While dog owners have plenty of direct-to-consumer options if they want to order pet food online, we haven’t seen a similar wave of startups for cats. But that may be starting to change. Earlier this year, I wrote about Cat Person, a startup backed by Harry’s…*
       
-  - Springboard raises $31 million to expand its mentor-guided education platform to more geographies
+  - Kubermatic launches open source service hub to enable complex service management
       <hr/>
       
-      - *Springboard, an online education platform that provides upskilling and reskilling training courses to people looking to learn in-demand roles, has raised $31 million in a new financing round as it looks to expand to more geographies. The Series B financing ro…*
+      - *As Kubernetes and cloud native technologies proliferate, developers and IT have found a growing set of technical challenges they need to address, and new concepts and projects have popped up to deal with them. For instance, operators provide a way to package,…*
       
-  - ChargePoint raises $127M as electric vehicle adoption grows among fleet operators
+  - Genki's Covert Dock is the perfect dock for the Nintendo Switch – and other gadgets, too
       <hr/>
       
-      - *Electric vehicle charging network ChargePoint raised $127 million in funding in a bid to expand its platform for businesses and fleets in North America and Europe. A mix of existing investors from the oil and gas, utilities and venture industries added to the…*
+      - *The Nintendo Switch’s ability to quickly transition from portable to home console is definitely one of its major selling points, but Nintendo’s official dock never really made much sense with the portable nature of the Switch itself. Luckily, third-party acce…*
        
-  - Censys, a search engine for internet devices, raises $15.5M Series A
+  - Harness makes first acquisition, snagging open source CI company Drone.io
       <hr/>
        
-       - *Internet device search engine Censys is one of the biggest search engines you’ve probably never heard of. If Google is the search engine for finding information sitting on the web, Censys is the search engine for finding internet devices, like computers, serv…*
+       - *Harness has made a name for itself creating tools like continuous delivery (CD) for software engineers to give them the kind of power that has been traditionally reserved for companies with large engineering teams like Google, Facebook and Netflix. Today, the…*
       
 
 
