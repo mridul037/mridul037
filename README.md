@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+Cool URIs don't change.
 
-~ Elon Musk
+~ Tim Berners-Lee
 <pre>
 
 </pre>
