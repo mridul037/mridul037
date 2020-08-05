@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
 
-~ Michael A. Jackson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The beginning of wisdom for a programmer is to recognize the difference between 
 
 </pre>
 **Daily News**
-  - Anthony Levandowski sentenced to 18 months in prison, as new $4B lawsuit against Uber is filed
+  - SpaceX successfully flies its Starship prototype to a height of around 500 feet
      <hr/>
      
-      - *Anthony Levandowski, the former Google engineer and serial entrepreneur who was at the center of a lawsuit between Uber and Waymo, has been sentenced to 18 months on one count of stealing trade secrets.  Levandowski won’t be heading straight to prison, howeve…*
+      - *SpaceX has been developing Starship, its next-generation spacecraft, at its site in Boca Chica, Texas. The company has built a number of different Starship prototypes to date, include one prior version called the Starhopper that was essentially just the botto…*
      
+  - Anthony Levandowski sentenced to 18 months in prison, as new $4B lawsuit against Uber is filed
+      <hr/>
+      
+      - *Anthony Levandowski, the former Google engineer and serial entrepreneur who was at the center of a lawsuit between Uber and Waymo, has been sentenced to 18 months on one count of stealing trade secrets.  Levandowski won’t be heading straight to prison, howeve…*
+      
   - 'Mulan' is coming to Disney+ on September 4, for an additional price of $29.99
       <hr/>
       
@@ -81,16 +86,11 @@ The beginning of wisdom for a programmer is to recognize the difference between 
       <hr/>
       
       - *Disney+ had more than 60.5 million paying subscribers as of yesterday, according to The Walt Disney Company’s CEO Bob Chapek. Chapek shared the number during a call to discuss the company’s latest earnings report, which covered the company’s most recent quart…*
-      
+       
   - Software stocks set new records despite earnings, pandemic
       <hr/>
-      
-      - *You might have missed it, but amidst the current political-M&A-pandemic-election-disinformation news cycle we find ourselves in this week, SaaS and cloud companies reached new public market records. Yesterday, the Bessemer-Nasdaq cloud index closed at 2,035.5…*
        
-  - Parental control app Boomerang repeatedly blocked from Play Store, losing business
-      <hr/>
-       
-       - *Apple isn’t the only one accused of kicking out competitive solutions from its App Store. Google did the same — for over a month at least — or so alleges parental control app maker Boomerang. The company’s product competes with Google’s own Family Link soluti…*
+       - *You might have missed it, but amidst the current political-M&A-pandemic-election-disinformation news cycle we find ourselves in this week, SaaS and cloud companies reached new public market records. Yesterday, the Bessemer-Nasdaq cloud index closed at 2,035.5…*
       
 
 
