@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's not so important what you work on, so long as you're not wasting your time.
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 
-~ Paul Graham (programmer)
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It's not so important what you work on, so long as you're not wasting your time.
 
 </pre>
 **Daily News**
-  - Mozper launches digital banking service for Latin American parents and kids
+  - Here’s the Samsung Galaxy Z Fold 2
      <hr/>
      
-      - *Mozper, a new service launching from Y Combinator’s latest cohort to provide digital banking services, takes its name from the English words for money, prosperity, and generation Z, according to co-founder Yael Israeli. A former banker at Lehman Brothers and …*
+      - *Samsung promised five “power devices” for its virtually-only Unpacked event. We already know about the Note 20, Galaxy Watch 3, Tab S7 and Buds Live — so what’s left? We speculated based on an earlier news that the company would debuting a new foldable — the …*
      
-  - Direct-to-consumer cat food startup Smalls raises $9M
+  - Dear Sophie: Can I bypass H-1B and sponsor a grad for a green card?
       <hr/>
       
-      - *While dog owners have plenty of direct-to-consumer options if they want to order pet food online, we haven’t seen a similar wave of startups for cats. But that may be starting to change. Earlier this year, I wrote about Cat Person, a startup backed by Harry’s…*
+      - *Given the challenges of getting an H-1B through the lottery and the visa ban, can we potentially sponsor someone for a green card?*
       
-  - Kubermatic launches open source service hub to enable complex service management
+  - Extra Crunch Live: Join Wealthfront CEO Andy Rachleff August 11 at 1pm EDT / 10am PDT about the future of investing and fintech
       <hr/>
       
-      - *As Kubernetes and cloud native technologies proliferate, developers and IT have found a growing set of technical challenges they need to address, and new concepts and projects have popped up to deal with them. For instance, operators provide a way to package,…*
+      - *Wealthfront was one of the earliest and remains one of the most formidable companies in the so-called robo-advisor space — algorithmic apps that manage and optimize your savings and investments. Since its debut, the platform has skyrocketed in popularity, tak…*
       
-  - Genki's Covert Dock is the perfect dock for the Nintendo Switch – and other gadgets, too
+  - Google Play Music to shut down starting in September, will disappear by December
       <hr/>
       
-      - *The Nintendo Switch’s ability to quickly transition from portable to home console is definitely one of its major selling points, but Nintendo’s official dock never really made much sense with the portable nature of the Switch itself. Luckily, third-party acce…*
+      - *Google’s plans to wind down its Google Play Music service in favor of the company’s newer YouTube Music have been known for some time. But Google this week has given users a deadline on making the switch. The company says YouTube Music will fully replace Goog…*
        
-  - Harness makes first acquisition, snagging open source CI company Drone.io
+  - As e-commerce accelerates, fintech startups raised record $100M rounds in Q2
       <hr/>
        
-       - *Harness has made a name for itself creating tools like continuous delivery (CD) for software engineers to give them the kind of power that has been traditionally reserved for companies with large engineering teams like Google, Facebook and Netflix. Today, the…*
+       - *Reading headlines here and there, one might assume that venture capital interest in fintech startups is setting records every quarter. After all: didn’t Robinhood raise $280 million and $320 million more this year? Stripe raised $600 million just a few minute…*
       
 
 
