@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Linus Torvalds
+~ Pete Cordell
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ See, you not only have to be a good coder to create a system like Linux, you hav
 
 </pre>
 **Daily News**
-  - Here’s the Samsung Galaxy Z Fold 2
+  - Hear Cloudflare and PlanGrid's amazing journey from founding to exit at Disrupt 2020
      <hr/>
      
-      - *Samsung promised five “power devices” for its virtually-only Unpacked event. We already know about the Note 20, Galaxy Watch 3, Tab S7 and Buds Live — so what’s left? We speculated based on an earlier news that the company would debuting a new foldable — the …*
+      - *How and when should startup founders think about the “exit”? It’s the perennial question in tech entrepreneurialism, but the how’s and when’s are questions to which there are a multitude of answers. For one thing, new founders often forget that the terms of t…*
      
-  - Dear Sophie: Can I bypass H-1B and sponsor a grad for a green card?
+  - Datafold is solving the chaos of data engineering
       <hr/>
       
-      - *Given the challenges of getting an H-1B through the lottery and the visa ban, can we potentially sponsor someone for a green card?*
+      - *It seemed so simple. A small schema issue in a database was wrecking a feature in the app, increasing latency and degrading the user experience. The resident data engineer pops in a fix to amend the schema, and everything seems fine — for now. Unbeknownst to …*
       
-  - Extra Crunch Live: Join Wealthfront CEO Andy Rachleff August 11 at 1pm EDT / 10am PDT about the future of investing and fintech
+  - PandaDoc announces second Series B extension worth $30M
       <hr/>
       
-      - *Wealthfront was one of the earliest and remains one of the most formidable companies in the so-called robo-advisor space — algorithmic apps that manage and optimize your savings and investments. Since its debut, the platform has skyrocketed in popularity, tak…*
+      - *PandaDoc, the startup that provides a fully digital sales document workflow from proposal to electronic signature to collecting payment, announced a $30 million Series B extension today, making it the the second such extension the company has taken since taki…*
       
-  - Google Play Music to shut down starting in September, will disappear by December
+  - Jump bikes are now on the Lime app and heading to more cities
       <hr/>
       
-      - *Google’s plans to wind down its Google Play Music service in favor of the company’s newer YouTube Music have been known for some time. But Google this week has given users a deadline on making the switch. The company says YouTube Music will fully replace Goog…*
+      - *Three months ago, Jump’s bright red bikes and scooters had disappeared from city streets after Uber unloaded the micromobility company to Lime as part of a complex $170 million fundraising round. When the Jump bikes were finally spotted it was in a recycling …*
        
-  - As e-commerce accelerates, fintech startups raised record $100M rounds in Q2
+  - In a sign of digital health's rise, Livongo and Teladoc Health agree to $18.5 billion merger
       <hr/>
        
-       - *Reading headlines here and there, one might assume that venture capital interest in fintech startups is setting records every quarter. After all: didn’t Robinhood raise $280 million and $320 million more this year? Stripe raised $600 million just a few minute…*
+       - *In a sign of the growing importance and value of digital healthcare in the world of medicine, two of the industry’s publicly traded companies have agreed to a whopping $18.5 billion merger. The union of Teladoc Health, a provider of virtual care services, and…*
       
 
 
