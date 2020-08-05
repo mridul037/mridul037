@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
 
-~ Ellen Ullman
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
