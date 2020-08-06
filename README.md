@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 
-~ Ward Cunningham
+~ Linus Torvalds
 <pre>
 
 </pre>
