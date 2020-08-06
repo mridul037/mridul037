@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ John Warnock
+~ Dennis Ritchie
 <pre>
 
 </pre>
