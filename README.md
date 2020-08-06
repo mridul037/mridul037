@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Deleted code is debugged code.
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 
-~ Jeff Sickel
+~ Michael Hawley
 <pre>
 
 </pre>
