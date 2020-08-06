@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+Deleted code is debugged code.
 
-~ Alan Perlis
+~ Jeff Sickel
 <pre>
 
 </pre>
