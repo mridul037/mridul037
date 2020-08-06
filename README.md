@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Fred Brooks
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Because we are uncertain about our scheduling estimates, we often lack the coura
 
 </pre>
 **Daily News**
-  - Special raises $2.26M to build a subscription platform for online creators
+  - Google discontinues the Pixel 4, nine months after release
      <hr/>
      
-      - *Special is a new startup offering online video creators a way to move beyond advertising for their income. The service was created by the team behind tech consulting and development firm Triple Tree Software. Special’s co-founder and CEO Sam Lucas told me tha…*
+      - *Days after announcing the Pixel 4a, Google has quietly discontinued sales of the Pixel 4 and Pixel 4 XL. The move, noted early by the Verge, represents an extremely truncated lifecycle for a Google flagship — around half of the 18 months the company continued…*
      
+  - Special raises $2.26M to build a subscription platform for online creators
+      <hr/>
+      
+      - *Special is a new startup offering online video creators a way to move beyond advertising for their income. The service was created by the team behind tech consulting and development firm Triple Tree Software. Special’s co-founder and CEO Sam Lucas told me tha…*
+      
   - Majority of tech workers expect company solidarity with Black Lives Matter
       <hr/>
       
@@ -81,16 +86,11 @@ Because we are uncertain about our scheduling estimates, we often lack the coura
       <hr/>
       
       - *As sales teams partner with other companies, they go through a process called account mapping to find common customers and prospects. This is usually a highly manual activity tracked in spreadsheets. Crossbeam, a Philadelphia startup, has come up with a way t…*
-      
+       
   - WordPress.com launches new P2 to take on internal communication tools
       <hr/>
-      
-      - *WordPress.com, a division of Automattic, is launching a new product called P2. And this time, it’s all about improving internal communications for private groups. As a remote company, Automattic has been using P2 internally for years to communicate asynchrono…*
        
-  - TikTok announces first data center in Europe
-      <hr/>
-       
-       - *TikTok, the Chinese video sharing app that’s found itself at the center of a geopolitical power struggle which threatens to put hard limits on its global growth this year, said today it will build its first data center in Europe. The announcement of a TikTok …*
+       - *WordPress.com, a division of Automattic, is launching a new product called P2. And this time, it’s all about improving internal communications for private groups. As a remote company, Automattic has been using P2 internally for years to communicate asynchrono…*
       
 
 
