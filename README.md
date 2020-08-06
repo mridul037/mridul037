@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Unix is simple. It just takes a genius to understand its simplicity.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Dennis Ritchie
+~ Daniel T. Barry
 <pre>
 
 </pre>
