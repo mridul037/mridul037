@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 
-~ L. Peter Deutsch
+~ Mark Gibbs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When I was at what I would consider the peak of my abilities, I had extremely tr
 
 </pre>
 **Daily News**
-  - UK reported to be ditching coronavirus contacts tracing in favor of 'risk rating' app
+  - Extra Crunch Live: Join a live Q&A with Max Levchin today at 1pm PT/4pm ET
      <hr/>
      
-      - *What’s going on with the UK’s coronavirus contacts tracing app? Reports in the national press today suggest a launch of the much delayed software will happen this month but also that the app will no longer be able to automatically carry out contacts tracing. …*
+      - *Money makes the world go round, as the saying goes. But how and where we spend it are still very much up for grabs. One person who has been pondering that question and providing answers very successfully is Max Levchin, and we’re very excited to have him as o…*
      
-  - 48 hours left on early-bird savings to Buy Disrupt 2020
+  - Apple 27-inch iMac review
       <hr/>
       
-      - *You won’t find a better deal than this on Disrupt 2020 passes, but you won’t find it at all if you don’t take action within 48 short hours. The opportunity to save up to $300 dollars on your pass disappears when the early-bird deadline expires. Wake up, smell…*
+      - *At its first virtual World Wide Developers Conference back in June, Apple unveiled a huge piece of news about the future of the Mac. After years of rumors, the company finally confirmed plans to wean itself off of Intel processors in favor of its own in-house…*
       
-  - 6 VCs on the future of Michigan's startup ecosystem
+  - Hackers say 'jackpotting' flaws tricked popular ATMs into spitting out cash
       <hr/>
       
-      - *The Michigan startup scene is growing and venture capitalists see several key areas of opportunities. What follows is a survey of some of the top VCs in the state and how they see COVID-19 affecting the growth of Detroit, Ann Arbor and all of Michigan’s start…*
+      - *The bugs, now fixed, affected tens of thousands of vulnerable ATMs in the United States.*
       
-  - Mode raises $33M to supercharge its analytics platform for data scientists
+  - Robinhood's Q2 soars
       <hr/>
       
-      - *Data science is the name of the game these days for companies that want to improve their decision making by tapping the information they are already amassing in their apps and other systems. And today, a startup called Mode Analytics, which has built a platfo…*
+      - *Robinhood’s huge, two-part Series F round came partially in Q2 and partially in Q3. The app-based trading platform announced the first $280 million  in early May, valuing the company at around $8.3 billion, up from a prior price tag of around $7.6 billion. Th…*
        
-  - Sony’s excellent over-ear headphones get smarter
+  - Eight trends accelerating the age of commercial-ready quantum computing
       <hr/>
        
-       - *Sony knows how to make a great pair of headphones. The WH-1000XM3 are one of the best received pairs of over-ear models in recent years. Two years later, the company is ready to unveil their successors, which sport a number of smart connected features. In fac…*
+       - *Quantum computing will represent the most fundamental acceleration in computing power that we have ever encountered, leaving Moore's law in the dust.*
       
 
 
