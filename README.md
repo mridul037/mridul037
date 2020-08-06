@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+There's nothing more permanent than a temporary hack.
 
-~ John von Neumann
+~ Kyle Simpson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any one who considers arithmetical methods of producing random digits is, of cou
 
 </pre>
 **Daily News**
-  - Attorneys general from twenty states call on Facebook to do more to fight discrimination, disinformation and harrassment
+  - Uber picks up Autocab to push into places its own app doesn't go
      <hr/>
      
-      - *In an open letter to Facebook’s leadership posted earlier today, the attorneys general from twenty states called on the company to do more to fight intimidation, discrimination, disinformation, harassment and hate speech on the platform. “Although Facebook ha…*
+      - *Uber has bought UK based Autocab, which sells SaaS to the taxi and private hire vehicle industry, with the aim of expanding the utility of its own platform by linking users who open its app in places where it doesn’t offer trips to local providers who do. No …*
      
+  - More Chinese phones could lose US apps under Trump's Clean Network
+      <hr/>
+      
+      - *Over a third of the world’s smartphone sales come from Chinese vendors Huawei, Xiaomi and Oppo. These manufacturers have thrived not only because they offer value-for-money handsets thanks to China’s supply chains, but they also enjoy a relatively open mobile…*
+      
+  - Infermedica scores $10M Series A for its 'AI-driven' diagnosis and triage platform
+      <hr/>
+      
+      - *Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) a…*
+      
+  - Attorneys general from twenty states call on Facebook to do more to fight discrimination, disinformation and harrassment
+      <hr/>
+      
+      - *In an open letter to Facebook’s leadership posted earlier today, the attorneys general from twenty states called on the company to do more to fight intimidation, discrimination, disinformation, harassment and hate speech on the platform. “Although Facebook ha…*
+       
   - Twitter locked the Trump campaign out of its account for sharing COVID-19 misinformation
       <hr/>
-      
-      - *Twitter took action against the official Trump campaign Twitter account Wednesday, freezing @TeamTrump’s ability to tweet until it removed a video in which the president made misleading claims about the coronavirus. In the video clip, taken from a Wednesday m…*
-      
-  - Facebook just took down a Trump post for false claim that kids are immune to COVID-19
-      <hr/>
-      
-      - *Facebook took down a video President Trump posted to his account Wednesday, citing its rules against false claims about the coronavirus. The decision to remove the video signals a new direction for Facebook, which has been taking incremental steps recently to…*
-      
-  - Uber and Lyft face new lawsuit from CA Labor Commissioner
-      <hr/>
-      
-      - *Uber and Lyft are both facing another lawsuit from the office of the California Labor Commissioner alleging wage theft. Filed today, the suits argue both Uber and Lyft are misclassifying their drivers as independent contractors and aim to enforce the labor pr…*
        
-  - Unagi, the iPhone of scooters, now has a subscription service
-      <hr/>
-       
-       - *Unagi, the portable and design-forward electric scooter company that made a splash with celebs and pop stars, has launched a subscription service. The service, called Unagi All-Access, will be offered in New York City and Los Angeles. The company said it plan…*
+       - *Twitter took action against the official Trump campaign Twitter account Wednesday, freezing @TeamTrump’s ability to tweet until it removed a video in which the president made misleading claims about the coronavirus. In the video clip, taken from a Wednesday m…*
       
 
 
