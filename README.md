@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 
-~ Linus Torvalds
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
 
 </pre>
 **Daily News**
-  - TikTok announces first data center in Europe
+  - Special raises $2.26M to build a subscription platform for online creators
      <hr/>
      
-      - *TikTok, the Chinese video sharing app that’s found itself at the center of a geopolitical power struggle which threatens to put hard limits on its global growth this year, said today it will build its first data center in Europe. The announcement of a TikTok …*
+      - *Special is a new startup offering online video creators a way to move beyond advertising for their income. The service was created by the team behind tech consulting and development firm Triple Tree Software. Special’s co-founder and CEO Sam Lucas told me tha…*
      
-  - Uber picks up Autocab to push into places its own app doesn't go
+  - Majority of tech workers expect company solidarity with Black Lives Matter
       <hr/>
       
-      - *Uber has bought UK based Autocab, which sells SaaS to the taxi and private hire vehicle industry, with the aim of expanding the utility of its own platform by linking users who open its app in places where it doesn’t offer trips to local providers who do. No …*
+      - *Our survey found that 79% of tech employees expected public statements from their employer supporting #BLM.*
       
-  - More Chinese phones could lose US apps under Trump's Clean Network
+  - Crossbeam announces $25M Series B to keep growing partnerships platform
       <hr/>
       
-      - *Over a third of the world’s smartphone sales come from Chinese vendors Huawei, Xiaomi and Oppo. These manufacturers have thrived not only because they offer value-for-money handsets thanks to China’s supply chains, but they also enjoy a relatively open mobile…*
+      - *As sales teams partner with other companies, they go through a process called account mapping to find common customers and prospects. This is usually a highly manual activity tracked in spreadsheets. Crossbeam, a Philadelphia startup, has come up with a way t…*
       
-  - Infermedica scores $10M Series A for its 'AI-driven' diagnosis and triage platform
+  - WordPress.com launches new P2 to take on internal communication tools
       <hr/>
       
-      - *Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) a…*
+      - *WordPress.com, a division of Automattic, is launching a new product called P2. And this time, it’s all about improving internal communications for private groups. As a remote company, Automattic has been using P2 internally for years to communicate asynchrono…*
        
-  - Attorneys general from twenty states call on Facebook to do more to fight discrimination, disinformation and harrassment
+  - TikTok announces first data center in Europe
       <hr/>
        
-       - *In an open letter to Facebook’s leadership posted earlier today, the attorneys general from twenty states called on the company to do more to fight intimidation, discrimination, disinformation, harassment and hate speech on the platform. “Although Facebook ha…*
+       - *TikTok, the Chinese video sharing app that’s found itself at the center of a geopolitical power struggle which threatens to put hard limits on its global growth this year, said today it will build its first data center in Europe. The announcement of a TikTok …*
       
 
 
