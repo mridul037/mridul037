@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good software, like good wine, takes time.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Joel Spolsky
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Good software, like good wine, takes time.
 
 </pre>
 **Daily News**
-  - Uber picks up Autocab to push into places its own app doesn't go
+  - TikTok announces first data center in Europe
      <hr/>
      
-      - *Uber has bought UK based Autocab, which sells SaaS to the taxi and private hire vehicle industry, with the aim of expanding the utility of its own platform by linking users who open its app in places where it doesn’t offer trips to local providers who do. No …*
+      - *TikTok, the Chinese video sharing app that’s found itself at the center of a geopolitical power struggle which threatens to put hard limits on its global growth this year, said today it will build its first data center in Europe. The announcement of a TikTok …*
      
+  - Uber picks up Autocab to push into places its own app doesn't go
+      <hr/>
+      
+      - *Uber has bought UK based Autocab, which sells SaaS to the taxi and private hire vehicle industry, with the aim of expanding the utility of its own platform by linking users who open its app in places where it doesn’t offer trips to local providers who do. No …*
+      
   - More Chinese phones could lose US apps under Trump's Clean Network
       <hr/>
       
@@ -81,16 +86,11 @@ Good software, like good wine, takes time.
       <hr/>
       
       - *Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) a…*
-      
+       
   - Attorneys general from twenty states call on Facebook to do more to fight discrimination, disinformation and harrassment
       <hr/>
-      
-      - *In an open letter to Facebook’s leadership posted earlier today, the attorneys general from twenty states called on the company to do more to fight intimidation, discrimination, disinformation, harassment and hate speech on the platform. “Although Facebook ha…*
        
-  - Twitter locked the Trump campaign out of its account for sharing COVID-19 misinformation
-      <hr/>
-       
-       - *Twitter took action against the official Trump campaign Twitter account Wednesday, freezing @TeamTrump’s ability to tweet until it removed a video in which the president made misleading claims about the coronavirus. In the video clip, taken from a Wednesday m…*
+       - *In an open letter to Facebook’s leadership posted earlier today, the attorneys general from twenty states called on the company to do more to fight intimidation, discrimination, disinformation, harassment and hate speech on the platform. “Although Facebook ha…*
       
 
 
