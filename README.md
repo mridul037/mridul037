@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ Ted Nelson
+~ Kent Beck
 <pre>
 
 </pre>
