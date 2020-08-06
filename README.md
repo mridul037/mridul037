@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Albert Einstein
+~ Alan Perlis
 <pre>
 
 </pre>
