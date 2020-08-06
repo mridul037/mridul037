@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 
-~ Butler Lampson
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In handling resources, strive to avoid disaster rather than to attain an optimum
 
 </pre>
 **Daily News**
-  - Google discontinues the Pixel 4, nine months after release
+  - UK reported to be ditching coronavirus contacts tracing in favor of 'risk rating' app
      <hr/>
      
-      - *Days after announcing the Pixel 4a, Google has quietly discontinued sales of the Pixel 4 and Pixel 4 XL. The move, noted early by the Verge, represents an extremely truncated lifecycle for a Google flagship — around half of the 18 months the company continued…*
+      - *What’s going on with the UK’s coronavirus contacts tracing app? Reports in the national press today suggest a launch of the much delayed software will happen this month but also that the app will no longer be able to automatically carry out contacts tracing. …*
      
-  - Special raises $2.26M to build a subscription platform for online creators
+  - 48 hours left on early-bird savings to Buy Disrupt 2020
       <hr/>
       
-      - *Special is a new startup offering online video creators a way to move beyond advertising for their income. The service was created by the team behind tech consulting and development firm Triple Tree Software. Special’s co-founder and CEO Sam Lucas told me tha…*
+      - *You won’t find a better deal than this on Disrupt 2020 passes, but you won’t find it at all if you don’t take action within 48 short hours. The opportunity to save up to $300 dollars on your pass disappears when the early-bird deadline expires. Wake up, smell…*
       
-  - Majority of tech workers expect company solidarity with Black Lives Matter
+  - 6 VCs on the future of Michigan's startup ecosystem
       <hr/>
       
-      - *Our survey found that 79% of tech employees expected public statements from their employer supporting #BLM.*
+      - *The Michigan startup scene is growing and venture capitalists see several key areas of opportunities. What follows is a survey of some of the top VCs in the state and how they see COVID-19 affecting the growth of Detroit, Ann Arbor and all of Michigan’s start…*
       
-  - Crossbeam announces $25M Series B to keep growing partnerships platform
+  - Mode raises $33M to supercharge its analytics platform for data scientists
       <hr/>
       
-      - *As sales teams partner with other companies, they go through a process called account mapping to find common customers and prospects. This is usually a highly manual activity tracked in spreadsheets. Crossbeam, a Philadelphia startup, has come up with a way t…*
+      - *Data science is the name of the game these days for companies that want to improve their decision making by tapping the information they are already amassing in their apps and other systems. And today, a startup called Mode Analytics, which has built a platfo…*
        
-  - WordPress.com launches new P2 to take on internal communication tools
+  - Sony’s excellent over-ear headphones get smarter
       <hr/>
        
-       - *WordPress.com, a division of Automattic, is launching a new product called P2. And this time, it’s all about improving internal communications for private groups. As a remote company, Automattic has been using P2 internally for years to communicate asynchrono…*
+       - *Sony knows how to make a great pair of headphones. The WH-1000XM3 are one of the best received pairs of over-ear models in recent years. Two years later, the company is ready to unveil their successors, which sport a number of smart connected features. In fac…*
       
 
 
