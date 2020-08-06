@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There's nothing more permanent than a temporary hack.
+The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 
-~ Kyle Simpson
+~ Danny Hillis
 <pre>
 
 </pre>
