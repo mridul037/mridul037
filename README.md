@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Alan Perlis
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Educators, generals, dieticians, psychologists, and parents program. Armies, stu
 
 </pre>
 **Daily News**
-  - Hear Cloudflare and PlanGrid's amazing journey from founding to exit at Disrupt 2020
+  - Attorneys general from twenty states call on Facebook to do more to fight discrimination, disinformation and harrassment
      <hr/>
      
-      - *How and when should startup founders think about the “exit”? It’s the perennial question in tech entrepreneurialism, but the how’s and when’s are questions to which there are a multitude of answers. For one thing, new founders often forget that the terms of t…*
+      - *In an open letter to Facebook’s leadership posted earlier today, the attorneys general from twenty states called on the company to do more to fight intimidation, discrimination, disinformation, harassment and hate speech on the platform. “Although Facebook ha…*
      
-  - Datafold is solving the chaos of data engineering
+  - Twitter locked the Trump campaign out of its account for sharing COVID-19 misinformation
       <hr/>
       
-      - *It seemed so simple. A small schema issue in a database was wrecking a feature in the app, increasing latency and degrading the user experience. The resident data engineer pops in a fix to amend the schema, and everything seems fine — for now. Unbeknownst to …*
+      - *Twitter took action against the official Trump campaign Twitter account Wednesday, freezing @TeamTrump’s ability to tweet until it removed a video in which the president made misleading claims about the coronavirus. In the video clip, taken from a Wednesday m…*
       
-  - PandaDoc announces second Series B extension worth $30M
+  - Facebook just took down a Trump post for false claim that kids are immune to COVID-19
       <hr/>
       
-      - *PandaDoc, the startup that provides a fully digital sales document workflow from proposal to electronic signature to collecting payment, announced a $30 million Series B extension today, making it the the second such extension the company has taken since taki…*
+      - *Facebook took down a video President Trump posted to his account Wednesday, citing its rules against false claims about the coronavirus. The decision to remove the video signals a new direction for Facebook, which has been taking incremental steps recently to…*
       
-  - Jump bikes are now on the Lime app and heading to more cities
+  - Uber and Lyft face new lawsuit from CA Labor Commissioner
       <hr/>
       
-      - *Three months ago, Jump’s bright red bikes and scooters had disappeared from city streets after Uber unloaded the micromobility company to Lime as part of a complex $170 million fundraising round. When the Jump bikes were finally spotted it was in a recycling …*
+      - *Uber and Lyft are both facing another lawsuit from the office of the California Labor Commissioner alleging wage theft. Filed today, the suits argue both Uber and Lyft are misclassifying their drivers as independent contractors and aim to enforce the labor pr…*
        
-  - In a sign of digital health's rise, Livongo and Teladoc Health agree to $18.5 billion merger
+  - Unagi, the iPhone of scooters, now has a subscription service
       <hr/>
        
-       - *In a sign of the growing importance and value of digital healthcare in the world of medicine, two of the industry’s publicly traded companies have agreed to a whopping $18.5 billion merger. The union of Teladoc Health, a provider of virtual care services, and…*
+       - *Unagi, the portable and design-forward electric scooter company that made a splash with celebs and pop stars, has launched a subscription service. The service, called Unagi All-Access, will be offered in New York City and Los Angeles. The company said it plan…*
       
 
 
