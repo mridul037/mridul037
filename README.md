@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+As with most projects, the last two percent takes fifty percent of the time.
 
-~ Kent Beck
+~ John Warnock
 <pre>
 
 </pre>
