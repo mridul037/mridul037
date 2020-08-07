@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best minds of my generation are thinking about how to make people click ads.
+A few months writing code can save you a few hours in design.
 
-~ Jeff Hammerbacher
+~ Anonymous
 <pre>
 
 </pre>
