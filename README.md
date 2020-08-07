@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
 
-~ Bill Gates
+~ Kent Beck
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Measuring programming progress by lines of code is like measuring aircraft build
 
 </pre>
 **Daily News**
-  - How to pick the right Series A investors
+  - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
      <hr/>
      
-      - *Early-stage startup founders who are embarking on a Series A fundraising round should consider this: their relationship with the members of their board might last longer than the average American marriage. In other words, who invests in a startup matters as m…*
+      - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
      
+  - Federal judge approves ending consent decrees that prevented movie studios from owning theaters
+      <hr/>
+      
+      - *A federal judge has approved the Department of Justice’s efforts to end the Paramount Consent Decrees — 70-year-old court orders that prevented movie studios from engaging in a variety of anticompetitive behaviors, including ownership of movie theaters. U.S. …*
+      
+  - How to pick the right Series A investors
+      <hr/>
+      
+      - *Early-stage startup founders who are embarking on a Series A fundraising round should consider this: their relationship with the members of their board might last longer than the average American marriage. In other words, who invests in a startup matters as m…*
+      
   - IoT and data science will boost foodtech in the post-pandemic era
       <hr/>
       
       - *Leveraging data, hardware and biological solutions can help brick-and-mortar stores remain relevant and continue churning out cash.*
-      
+       
   - How to access 'America's Seed Fund,' the $3 billion SBIR program
       <hr/>
-      
-      - *One of the best kept secrets in the world of capital is that the federal government has billions of dollars it’s dying to give away to early stage founders and inventors — and all you have to do is ask. Well, there’s a bit more to it than that, so here’s a gu…*
-      
-  - Survey: Tell us what you think of Extra Crunch
-      <hr/>
-      
-      - *Since launching our membership product Extra Crunch 1.5 years ago, we’ve added a number of new features at the request of our community. This includes improvements to login stability, introducing the video Q&A series Extra Crunch Live, launching over a dozen …*
        
-  - mmhmm, the virtual presentation software from Phil Libin, launches its Beta 2
-      <hr/>
-       
-       - *mmhmm, the latest project from Evernote founder Phil Libin and All Turtles, has today announced the launch of the mmhmm Beta 2. The 100,000-strong waitlist of people who have requested access are getting their invite to the platform today. Also part of the be…*
+       - *One of the best kept secrets in the world of capital is that the federal government has billions of dollars it’s dying to give away to early stage founders and inventors — and all you have to do is ask. Well, there’s a bit more to it than that, so here’s a gu…*
       
 
 
