@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There's nothing more permanent than a temporary hack.
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Kyle Simpson
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There's nothing more permanent than a temporary hack.
 
 </pre>
 **Daily News**
-  - The rules of VC are being broken
+  - Here are a few ways GPT-3 can go wrong
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As ever I was joined by TechCrunch managing editor Danny Crichton and our early-stage venture capital reporter …*
+      - *Because algorithmic bias is rarely straightforward, many GPT-3 applications will act as canaries in the growing coal mine that is AI-driven applications.*
      
+  - A look inside Gmail's product development process
+      <hr/>
+      
+      - *Google has long been known as the leader in email, but it hasn’t always been that way. In 1997, AOL was the world’s largest email provider with around ten million subscribers, but other providers were making headway. Hotmail, now part of Microsoft Outlook, la…*
+      
+  - As the world stays home, edtech's Q2 venture totals rose sharply
+      <hr/>
+      
+      - *My friend and colleague Natasha Mascarenhas has been reporting on the edtech beat quite a lot in 2020. So far reading her coverage, I’ve discovered that not only is edtech less dull than I anticipated, it’s actually somewhat interesting on a regular basis. Th…*
+      
+  - The rules of VC are being broken
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As ever I was joined by TechCrunch managing editor Danny Crichton and our early-stage venture capital reporter …*
+       
   - Facebook extends coronavirus work from home policy until July 2021
       <hr/>
-      
-      - *Facebook has joined Google in saying it will allow employees to work from home until the middle of next year as a result of the coronavirus pandemic. “Based on guidance from health and government experts, as well as decisions drawn from our internal discussio…*
-      
-  - Mashroom raises £4M for its 'end-to-end' lettings and property management service
-      <hr/>
-      
-      - *Mashroom, the London proptech that offers an “end-to-end” lettings and property management service, has raised £4 million in new funding. Backing comes from existing unnamed private investors and matched funding from the U.K. taxpayer-funded Future Fund. It b…*
-      
-  - Netflix's latest effort to make inroads in India: Support for Hindi
-      <hr/>
-      
-      - *Only about 10% of India’s 1.3 billion people know English. Yet, scores of firms operating in the country offer their services only in English in the country. Netflix, one such company, said on Friday it’s aiming to break through that language barrier. The Ame…*
        
-  - Trump signs executive orders banning transactions with TikTok and WeChat
-      <hr/>
-       
-       - *President Donald Trump signed an executive order on Thursday banning transactions with ByteDance, the parent company of popular app TikTok . The White House also announced that he signed a similar order banning transactions with Tencent-owned WeChat, a messag…*
+       - *Facebook has joined Google in saying it will allow employees to work from home until the middle of next year as a result of the coronavirus pandemic. “Based on guidance from health and government experts, as well as decisions drawn from our internal discussio…*
       
 
 
