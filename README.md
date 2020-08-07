@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+The real problem with throwaway code comes when it isn't thrown away.
 
-~ David Leinweber
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
