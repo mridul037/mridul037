@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+Once you stop learning you start dying.
 
-~ Steve Jobs
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'm convinced that about half of what separates the successful entrepreneurs fro
 
 </pre>
 **Daily News**
-  - Here are a few ways GPT-3 can go wrong
+  - Last chance to save on Disrupt 2020 passes
      <hr/>
      
-      - *Because algorithmic bias is rarely straightforward, many GPT-3 applications will act as canaries in the growing coal mine that is AI-driven applications.*
+      - *It’s last call startup fans, last call. We’re not talking about International Beer Day (which is a thing and it’s today — look it up). No, we mean August 7 is your absolute last chance to save up to $300 on a pass to Disrupt 2020. Beat the clock, buy your ear…*
      
+  - Hypotenuse AI wants to take the strain out of copywriting for ecommerce
+      <hr/>
+      
+      - *Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same w…*
+      
+  - LivingPackets hopes to nurture a circular economy with its smart parcels
+      <hr/>
+      
+      - *More than ever before, people are getting life’s essentials delivered — good news for Amazon, but bad news for the environment, which must bear the consequences of the resulting waste. LivingPackets is a Berlin-based startup that aims to replace the familiar …*
+      
+  - Here are a few ways GPT-3 can go wrong
+      <hr/>
+      
+      - *Because algorithmic bias is rarely straightforward, many GPT-3 applications will act as canaries in the growing coal mine that is AI-driven applications.*
+       
   - A look inside Gmail's product development process
       <hr/>
-      
-      - *Google has long been known as the leader in email, but it hasn’t always been that way. In 1997, AOL was the world’s largest email provider with around ten million subscribers, but other providers were making headway. Hotmail, now part of Microsoft Outlook, la…*
-      
-  - As the world stays home, edtech's Q2 venture totals rose sharply
-      <hr/>
-      
-      - *My friend and colleague Natasha Mascarenhas has been reporting on the edtech beat quite a lot in 2020. So far reading her coverage, I’ve discovered that not only is edtech less dull than I anticipated, it’s actually somewhat interesting on a regular basis. Th…*
-      
-  - The rules of VC are being broken
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As ever I was joined by TechCrunch managing editor Danny Crichton and our early-stage venture capital reporter …*
        
-  - Facebook extends coronavirus work from home policy until July 2021
-      <hr/>
-       
-       - *Facebook has joined Google in saying it will allow employees to work from home until the middle of next year as a result of the coronavirus pandemic. “Based on guidance from health and government experts, as well as decisions drawn from our internal discussio…*
+       - *Google has long been known as the leader in email, but it hasn’t always been that way. In 1997, AOL was the world’s largest email provider with around ten million subscribers, but other providers were making headway. Hotmail, now part of Microsoft Outlook, la…*
       
 
 
