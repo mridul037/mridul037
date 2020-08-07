@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
-~ Ward Cunningham
+~ Alan Perlis
 <pre>
 
 </pre>
