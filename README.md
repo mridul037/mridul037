@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 
-~ Daniel T. Barry
+~ Ken Thompson
 <pre>
 
 </pre>
