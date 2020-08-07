@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+For most software, efficiency just does not matter.
 
-~ Ryan Singer
+~ Daniel T. Barry
 <pre>
 
 </pre>
