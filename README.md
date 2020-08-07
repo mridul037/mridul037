@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Andy Hertzfeld
+~ Grady Booch
 <pre>
 
 </pre>
