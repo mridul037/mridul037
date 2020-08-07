@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ Douglas Crockford
+~ Daniel T. Barry
 <pre>
 
 </pre>
