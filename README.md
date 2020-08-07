@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The real problem with throwaway code comes when it isn't thrown away.
+The best minds of my generation are thinking about how to make people click ads.
 
-~ Joseph Yoder (computer scientist)
+~ Jeff Hammerbacher
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The real problem with throwaway code comes when it isn't thrown away.
 
 </pre>
 **Daily News**
-  - Extra Crunch Live: Join a live Q&A with Max Levchin today at 1pm PT/4pm ET
+  - Facebook extends coronavirus work from home policy until July 2021
      <hr/>
      
-      - *Money makes the world go round, as the saying goes. But how and where we spend it are still very much up for grabs. One person who has been pondering that question and providing answers very successfully is Max Levchin, and we’re very excited to have him as o…*
+      - *Facebook has joined Google in saying it will allow employees to work from home until the middle of next year as a result of the coronavirus pandemic. “Based on guidance from health and government experts, as well as decisions drawn from our internal discussio…*
      
-  - Apple 27-inch iMac review
+  - Mashroom raises £4M for its 'end-to-end' lettings and property management service
       <hr/>
       
-      - *At its first virtual World Wide Developers Conference back in June, Apple unveiled a huge piece of news about the future of the Mac. After years of rumors, the company finally confirmed plans to wean itself off of Intel processors in favor of its own in-house…*
+      - *Mashroom, the London proptech that offers an “end-to-end” lettings and property management service, has raised £4 million in new funding. Backing comes from existing unnamed private investors and matched funding from the U.K. taxpayer-funded Future Fund. It b…*
       
-  - Hackers say 'jackpotting' flaws tricked popular ATMs into spitting out cash
+  - Netflix's latest effort to make inroads in India: Support for Hindi
       <hr/>
       
-      - *The bugs, now fixed, affected tens of thousands of vulnerable ATMs in the United States.*
+      - *Only about 10% of India’s 1.3 billion people know English. Yet, scores of firms operating in the country offer their services only in English in the country. Netflix, one such company, said on Friday it’s aiming to break through that language barrier. The Ame…*
       
-  - Robinhood's Q2 soars
+  - Trump signs executive orders banning transactions with TikTok and WeChat
       <hr/>
       
-      - *Robinhood’s huge, two-part Series F round came partially in Q2 and partially in Q3. The app-based trading platform announced the first $280 million  in early May, valuing the company at around $8.3 billion, up from a prior price tag of around $7.6 billion. Th…*
+      - *President Donald Trump signed an executive order on Thursday banning transactions with ByteDance, the parent company of popular app TikTok . The White House also announced that he signed a similar order banning transactions with Tencent-owned WeChat, a messag…*
        
-  - Eight trends accelerating the age of commercial-ready quantum computing
+  - Judge says Uber, Lyft preliminary injunction ruling to come in ‘a matter of days’
       <hr/>
        
-       - *Quantum computing will represent the most fundamental acceleration in computing power that we have ever encountered, leaving Moore's law in the dust.*
+       - *California Superior Court Judge Ethan P. Schulman heard arguments from Uber and Lyft, as well as lawyers representing the people of California regarding the request for a preliminary injunction that seeks to force Uber and Lyft to immediately reclassify their…*
       
 
 
