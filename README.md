@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+There's only one trick in software, and that is using a piece of software that's already been written.
 
-~ Ken Thompson
+~ Bill Gates
 <pre>
 
 </pre>
