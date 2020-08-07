@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The top 5% of programmers probably write 99% of the good software.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Paul Graham (programmer)
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The top 5% of programmers probably write 99% of the good software.
 
 </pre>
 **Daily News**
-  - Human Capital: Uber and Lyft’s ongoing battle with the law and a brief history of diversity at Snap
+  - Samsung Galaxy Tab S7+ hands-on
      <hr/>
      
-      - *Welcome back to Human Capital (formerly known as Tech at Work) that looks at all-things labor in tech. This week presented Uber and Lyft with a fresh labor lawsuit as a judge heard arguments from Uber, Lyft and lawyers on behalf of the people of California in…*
+      - *During an Unpacked event that featured the announcement of five key new devices, the Galaxy Tab S7 didn’t get a ton of love. Understandable, perhaps. It doesn’t quite have the star power of the Note line, nor does it have the novelty of a new foldable or Blue…*
      
+  - Human Capital: Uber and Lyft’s ongoing battle with the law and a brief history of diversity at Snap
+      <hr/>
+      
+      - *Welcome back to Human Capital (formerly known as Tech at Work) that looks at all-things labor in tech. This week presented Uber and Lyft with a fresh labor lawsuit as a judge heard arguments from Uber, Lyft and lawyers on behalf of the people of California in…*
+      
   - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
       <hr/>
       
@@ -81,16 +86,11 @@ The top 5% of programmers probably write 99% of the good software.
       <hr/>
       
       - *A federal judge has approved the Department of Justice’s efforts to end the Paramount Consent Decrees — 70-year-old court orders that prevented movie studios from engaging in a variety of anticompetitive behaviors, including ownership of movie theaters. U.S. …*
-      
+       
   - How to pick the right Series A investors
       <hr/>
-      
-      - *Early-stage startup founders who are embarking on a Series A fundraising round should consider this: their relationship with the members of their board might last longer than the average American marriage. In other words, who invests in a startup matters as m…*
        
-  - IoT and data science will boost foodtech in the post-pandemic era
-      <hr/>
-       
-       - *Leveraging data, hardware and biological solutions can help brick-and-mortar stores remain relevant and continue churning out cash.*
+       - *Early-stage startup founders who are embarking on a Series A fundraising round should consider this: their relationship with the members of their board might last longer than the average American marriage. In other words, who invests in a startup matters as m…*
       
 
 
