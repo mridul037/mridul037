@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Alan Perlis
+~ Ryan Singer
 <pre>
 
 </pre>
