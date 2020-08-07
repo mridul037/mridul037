@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Alan Perlis
+~ Pete Cordell
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It is better to have 100 functions operate on one data structure than to have 10
 
 </pre>
 **Daily News**
-  - Clean.io raises $5M to continue its battle against malicious adtech
+  - How to access 'America's Seed Fund,' the $3 billion SBIR program
      <hr/>
      
-      - *Clean.io, a startup that helps digital publishers protect themselves from malicious ads, recently announced that it has raised $5 million in Series A funding. The Baltimore-based company isn’t the only organization promising to fight malvertising (such as ads…*
+      - *One of the best kept secrets in the world of capital is that the federal government has billions of dollars it’s dying to give away to early stage founders and inventors — and all you have to do is ask. Well, there’s a bit more to it than that, so here’s a gu…*
      
-  - Do's and Don'ts of Working with the Press - Sign up to attend
+  - Survey: Tell us what you think of Extra Crunch
       <hr/>
       
-      - *If you’re exhibiting in Digital Startup Alley during Disrupt 2020 — or you plan to — do not miss this opportunity to sharpen your media skills. The first of our three-part interactive webinar series takes place on August 12th with, The Dos and Don’ts of Worki…*
+      - *Since launching our membership product Extra Crunch 1.5 years ago, we’ve added a number of new features at the request of our community. This includes improvements to login stability, introducing the video Q&A series Extra Crunch Live, launching over a dozen …*
       
-  - Civic tech platform Mobilize launches a census hub for the 2020 count's critical final stretch
+  - mmhmm, the virtual presentation software from Phil Libin, launches its Beta 2
       <hr/>
       
-      - *With the already narrow window of remaining time to complete a census count abruptly cut short by the Trump administration, getting every person living in the U.S. to fill out the form, already a scramble in a normal census year, is a compound challenge in 20…*
+      - *mmhmm, the latest project from Evernote founder Phil Libin and All Turtles, has today announced the launch of the mmhmm Beta 2. The 100,000-strong waitlist of people who have requested access are getting their invite to the platform today. Also part of the be…*
       
-  - Wendell Brooks has resigned as president of Intel Capital
+  - Conversational analytics are about to change customer experiences forever
       <hr/>
       
-      - *When Wendell Brooks was promoted to president of Intel Capital, the investment arm of the chip giant in 2014, he knew he had big shoes to fill. He was taking over from Arvind Sodhani, who had run the investment component for 28 years since its inception. Toda…*
+      - *Today, companies can capture intent data through conversational interfaces for proactive customer interactions and hyper-personalized experiences.*
        
-  - Hear how working from home is changing startups and investing at Disrupt 2020
+  - Sign up for the next Pitchers & Pitches competition on 8/13
       <hr/>
        
-       - *Let’s just say it has been a year. While a few ambitious startups like InVision and GitLab built their corporate cultures and talent hiring with a remote-first mentality, the reality is that the vast majority of founders never thought they would have to be so…*
+       - *Here’s a shout out to all the early-stage founders attending Disrupt 2020. Don’t forget to register for our next Pitchers & Pitches — on August 13 — and get ready to hone your 60-second pitch to a razor’s edge. If you’re not in the know, our ongoing Pitchers …*
       
 
 
