@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+The top 5% of programmers probably write 99% of the good software.
 
-~ Kent Beck
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When you find you have to add a feature to a program, and the program's code is 
 
 </pre>
 **Daily News**
-  - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
+  - Human Capital: Uber and Lyft’s ongoing battle with the law and a brief history of diversity at Snap
      <hr/>
      
-      - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
+      - *Welcome back to Human Capital (formerly known as Tech at Work) that looks at all-things labor in tech. This week presented Uber and Lyft with a fresh labor lawsuit as a judge heard arguments from Uber, Lyft and lawyers on behalf of the people of California in…*
      
+  - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
+      <hr/>
+      
+      - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
+      
   - Federal judge approves ending consent decrees that prevented movie studios from owning theaters
       <hr/>
       
@@ -81,16 +86,11 @@ When you find you have to add a feature to a program, and the program's code is 
       <hr/>
       
       - *Early-stage startup founders who are embarking on a Series A fundraising round should consider this: their relationship with the members of their board might last longer than the average American marriage. In other words, who invests in a startup matters as m…*
-      
+       
   - IoT and data science will boost foodtech in the post-pandemic era
       <hr/>
-      
-      - *Leveraging data, hardware and biological solutions can help brick-and-mortar stores remain relevant and continue churning out cash.*
        
-  - How to access 'America's Seed Fund,' the $3 billion SBIR program
-      <hr/>
-       
-       - *One of the best kept secrets in the world of capital is that the federal government has billions of dollars it’s dying to give away to early stage founders and inventors — and all you have to do is ask. Well, there’s a bit more to it than that, so here’s a gu…*
+       - *Leveraging data, hardware and biological solutions can help brick-and-mortar stores remain relevant and continue churning out cash.*
       
 
 
