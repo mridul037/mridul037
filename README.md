@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-For most software, efficiency just does not matter.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ Daniel T. Barry
+~ David Leinweber
 <pre>
 
 </pre>
