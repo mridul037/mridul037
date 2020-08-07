@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ Grady Booch
+~ Ward Cunningham
 <pre>
 
 </pre>
