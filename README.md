@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+The key to keeping software costs down is to write code that is easily modified.
 
-~ Joseph Yoder (computer scientist)
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Managing a large project is a qualitatively different problem from managing a sm
 
 </pre>
 **Daily News**
-  - Samsung Galaxy Tab S7+ hands-on
+  - Daily Crunch: Trump bans transactions with ByteDance and Tencent
      <hr/>
      
-      - *During an Unpacked event that featured the announcement of five key new devices, the Galaxy Tab S7 didn’t get a ton of love. Understandable, perhaps. It doesn’t quite have the star power of the Note line, nor does it have the novelty of a new foldable or Blue…*
+      - *Trump escalates his campaign against Chinese tech companies, Facebook extends work from home until the middle of 2021 and Netflix adds support for Hindi. Here’s your Daily Crunch for August 7, 2020. The big story: Trump signs orders banning US business with T…*
      
+  - Extra Crunch members get 20% off an annual Canva Pro plan
+      <hr/>
+      
+      - *Extra Crunch is excited to announce an update to our Partner Perk from design and publishing platform Canva. Starting today, annual and two-year members of Extra Crunch can receive 20% off an annual Canva Pro plan. You must be new to Canva to claim this offer…*
+      
+  - Samsung Galaxy Tab S7+ hands-on
+      <hr/>
+      
+      - *During an Unpacked event that featured the announcement of five key new devices, the Galaxy Tab S7 didn’t get a ton of love. Understandable, perhaps. It doesn’t quite have the star power of the Note line, nor does it have the novelty of a new foldable or Blue…*
+      
   - Human Capital: Uber and Lyft’s ongoing battle with the law and a brief history of diversity at Snap
       <hr/>
       
       - *Welcome back to Human Capital (formerly known as Tech at Work) that looks at all-things labor in tech. This week presented Uber and Lyft with a fresh labor lawsuit as a judge heard arguments from Uber, Lyft and lawyers on behalf of the people of California in…*
-      
+       
   - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
       <hr/>
-      
-      - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
-      
-  - Federal judge approves ending consent decrees that prevented movie studios from owning theaters
-      <hr/>
-      
-      - *A federal judge has approved the Department of Justice’s efforts to end the Paramount Consent Decrees — 70-year-old court orders that prevented movie studios from engaging in a variety of anticompetitive behaviors, including ownership of movie theaters. U.S. …*
        
-  - How to pick the right Series A investors
-      <hr/>
-       
-       - *Early-stage startup founders who are embarking on a Series A fundraising round should consider this: their relationship with the members of their board might last longer than the average American marriage. In other words, who invests in a startup matters as m…*
+       - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
       
 
 
