@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 
-~ Albert Einstein
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Once you stop learning you start dying.
 
 </pre>
 **Daily News**
-  - Last chance to save on Disrupt 2020 passes
+  - Clean.io raises $5M to continue its battle against malicious adtech
      <hr/>
      
-      - *It’s last call startup fans, last call. We’re not talking about International Beer Day (which is a thing and it’s today — look it up). No, we mean August 7 is your absolute last chance to save up to $300 on a pass to Disrupt 2020. Beat the clock, buy your ear…*
+      - *Clean.io, a startup that helps digital publishers protect themselves from malicious ads, recently announced that it has raised $5 million in Series A funding. The Baltimore-based company isn’t the only organization promising to fight malvertising (such as ads…*
      
-  - Hypotenuse AI wants to take the strain out of copywriting for ecommerce
+  - Do's and Don'ts of Working with the Press - Sign up to attend
       <hr/>
       
-      - *Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same w…*
+      - *If you’re exhibiting in Digital Startup Alley during Disrupt 2020 — or you plan to — do not miss this opportunity to sharpen your media skills. The first of our three-part interactive webinar series takes place on August 12th with, The Dos and Don’ts of Worki…*
       
-  - LivingPackets hopes to nurture a circular economy with its smart parcels
+  - Civic tech platform Mobilize launches a census hub for the 2020 count's critical final stretch
       <hr/>
       
-      - *More than ever before, people are getting life’s essentials delivered — good news for Amazon, but bad news for the environment, which must bear the consequences of the resulting waste. LivingPackets is a Berlin-based startup that aims to replace the familiar …*
+      - *With the already narrow window of remaining time to complete a census count abruptly cut short by the Trump administration, getting every person living in the U.S. to fill out the form, already a scramble in a normal census year, is a compound challenge in 20…*
       
-  - Here are a few ways GPT-3 can go wrong
+  - Wendell Brooks has resigned as president of Intel Capital
       <hr/>
       
-      - *Because algorithmic bias is rarely straightforward, many GPT-3 applications will act as canaries in the growing coal mine that is AI-driven applications.*
+      - *When Wendell Brooks was promoted to president of Intel Capital, the investment arm of the chip giant in 2014, he knew he had big shoes to fill. He was taking over from Arvind Sodhani, who had run the investment component for 28 years since its inception. Toda…*
        
-  - A look inside Gmail's product development process
+  - Hear how working from home is changing startups and investing at Disrupt 2020
       <hr/>
        
-       - *Google has long been known as the leader in email, but it hasn’t always been that way. In 1997, AOL was the world’s largest email provider with around ten million subscribers, but other providers were making headway. Hotmail, now part of Microsoft Outlook, la…*
+       - *Let’s just say it has been a year. While a few ambitious startups like InVision and GitLab built their corporate cultures and talent hiring with a remote-first mentality, the reality is that the vast majority of founders never thought they would have to be so…*
       
 
 
