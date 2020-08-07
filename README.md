@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 
-~ Pete Cordell
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Telling a programmer there's already a library to do X is like telling a songwri
 
 </pre>
 **Daily News**
-  - How to access 'America's Seed Fund,' the $3 billion SBIR program
+  - How to pick the right Series A investors
      <hr/>
      
-      - *One of the best kept secrets in the world of capital is that the federal government has billions of dollars it’s dying to give away to early stage founders and inventors — and all you have to do is ask. Well, there’s a bit more to it than that, so here’s a gu…*
+      - *Early-stage startup founders who are embarking on a Series A fundraising round should consider this: their relationship with the members of their board might last longer than the average American marriage. In other words, who invests in a startup matters as m…*
      
+  - IoT and data science will boost foodtech in the post-pandemic era
+      <hr/>
+      
+      - *Leveraging data, hardware and biological solutions can help brick-and-mortar stores remain relevant and continue churning out cash.*
+      
+  - How to access 'America's Seed Fund,' the $3 billion SBIR program
+      <hr/>
+      
+      - *One of the best kept secrets in the world of capital is that the federal government has billions of dollars it’s dying to give away to early stage founders and inventors — and all you have to do is ask. Well, there’s a bit more to it than that, so here’s a gu…*
+      
   - Survey: Tell us what you think of Extra Crunch
       <hr/>
       
       - *Since launching our membership product Extra Crunch 1.5 years ago, we’ve added a number of new features at the request of our community. This includes improvements to login stability, introducing the video Q&A series Extra Crunch Live, launching over a dozen …*
-      
+       
   - mmhmm, the virtual presentation software from Phil Libin, launches its Beta 2
       <hr/>
-      
-      - *mmhmm, the latest project from Evernote founder Phil Libin and All Turtles, has today announced the launch of the mmhmm Beta 2. The 100,000-strong waitlist of people who have requested access are getting their invite to the platform today. Also part of the be…*
-      
-  - Conversational analytics are about to change customer experiences forever
-      <hr/>
-      
-      - *Today, companies can capture intent data through conversational interfaces for proactive customer interactions and hyper-personalized experiences.*
        
-  - Sign up for the next Pitchers & Pitches competition on 8/13
-      <hr/>
-       
-       - *Here’s a shout out to all the early-stage founders attending Disrupt 2020. Don’t forget to register for our next Pitchers & Pitches — on August 13 — and get ready to hone your 60-second pitch to a razor’s edge. If you’re not in the know, our ongoing Pitchers …*
+       - *mmhmm, the latest project from Evernote founder Phil Libin and All Turtles, has today announced the launch of the mmhmm Beta 2. The 100,000-strong waitlist of people who have requested access are getting their invite to the platform today. Also part of the be…*
       
 
 
