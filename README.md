@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+There's nothing more permanent than a temporary hack.
 
-~ Anonymous
+~ Kyle Simpson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A few months writing code can save you a few hours in design.
 
 </pre>
 **Daily News**
-  - Facebook extends coronavirus work from home policy until July 2021
+  - The rules of VC are being broken
      <hr/>
      
-      - *Facebook has joined Google in saying it will allow employees to work from home until the middle of next year as a result of the coronavirus pandemic. “Based on guidance from health and government experts, as well as decisions drawn from our internal discussio…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As ever I was joined by TechCrunch managing editor Danny Crichton and our early-stage venture capital reporter …*
      
+  - Facebook extends coronavirus work from home policy until July 2021
+      <hr/>
+      
+      - *Facebook has joined Google in saying it will allow employees to work from home until the middle of next year as a result of the coronavirus pandemic. “Based on guidance from health and government experts, as well as decisions drawn from our internal discussio…*
+      
   - Mashroom raises £4M for its 'end-to-end' lettings and property management service
       <hr/>
       
@@ -81,16 +86,11 @@ A few months writing code can save you a few hours in design.
       <hr/>
       
       - *Only about 10% of India’s 1.3 billion people know English. Yet, scores of firms operating in the country offer their services only in English in the country. Netflix, one such company, said on Friday it’s aiming to break through that language barrier. The Ame…*
-      
+       
   - Trump signs executive orders banning transactions with TikTok and WeChat
       <hr/>
-      
-      - *President Donald Trump signed an executive order on Thursday banning transactions with ByteDance, the parent company of popular app TikTok . The White House also announced that he signed a similar order banning transactions with Tencent-owned WeChat, a messag…*
        
-  - Judge says Uber, Lyft preliminary injunction ruling to come in ‘a matter of days’
-      <hr/>
-       
-       - *California Superior Court Judge Ethan P. Schulman heard arguments from Uber and Lyft, as well as lawyers representing the people of California regarding the request for a preliminary injunction that seeks to force Uber and Lyft to immediately reclassify their…*
+       - *President Donald Trump signed an executive order on Thursday banning transactions with ByteDance, the parent company of popular app TikTok . The White House also announced that he signed a similar order banning transactions with Tencent-owned WeChat, a messag…*
       
 
 
