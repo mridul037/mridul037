@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important single aspect of software development is to be clear about what you are trying to build.
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 
-~ Bjarne Stroustrup
+~ Alan Perlis
 <pre>
 
 </pre>
