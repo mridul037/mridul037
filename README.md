@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 
-~ Gary Kildall
+~ Terry Winograd
 <pre>
 
 </pre>
