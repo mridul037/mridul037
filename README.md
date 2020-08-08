@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+The most important single aspect of software development is to be clear about what you are trying to build.
 
 ~ Bjarne Stroustrup
 <pre>
