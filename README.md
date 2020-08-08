@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn’t have everything is actually easier to program in than some that do.
+The way to arrest entropy in software is to refactor it.
 
-~ Dennis Ritchie
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
