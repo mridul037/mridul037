@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The way to arrest entropy in software is to refactor it.
+If you think it's simple, then you have misunderstood the problem.
 
-~ Joseph Yoder (computer scientist)
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
