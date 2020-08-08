@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you learn how to solve problems, you can go through life and do pretty well.
+The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
 
-~ Gary Kildall
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you learn how to solve problems, you can go through life and do pretty well.
 
 </pre>
 **Daily News**
-  - Startups Weekly: What countries want your startup?
+  - IPO mistakes, fintech results, and the Zenefits 'mafia'
      <hr/>
      
-      - *They say business needs certainty to succeed, but new tech startups are still getting funded aggressively despite the pandemic, recession, trade wars and various large disasters....*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
      
+  - Moft is back with a clever laptop sleeve that converts into a stand
+      <hr/>
+      
+      - *Moft is a clever company that makes clever products. For a while there, I was sporting their laptop stand. It was a head-turner when I used to unfold it during meetings — back when we used to do those in-person. The truth is, I ended up having to tear it off …*
+      
+  - Startups Weekly: What countries want your startup?
+      <hr/>
+      
+      - *They say business needs certainty to succeed, but new tech startups are still getting funded aggressively despite the pandemic, recession, trade wars and various large disasters....*
+      
   - Share Ventures, an LA-based studio for company creation, is MoviePass co-founder Hamet Watt's next act
       <hr/>
       
       - *Nearly eight years ago, Hamet Watt and Stacy Spikes launched MoviePass, the subscription-based movie ticketing service that captured the minds and dollars of investors and brought thousands of cinephiles a too-good-to-be-true deal for all-you-can watch movie …*
-      
+       
   - How I accidentally gatecrashed a startup's morning meeting
       <hr/>
-      
-      - *No hacking needed.*
-      
-  - Daily Crunch: Trump bans transactions with ByteDance and Tencent
-      <hr/>
-      
-      - *Trump escalates his campaign against Chinese tech companies, Facebook extends work from home until the middle of 2021 and Netflix adds support for Hindi. Here’s your Daily Crunch for August 7, 2020. The big story: Trump signs orders banning US business with T…*
        
-  - Samsung Galaxy Tab S7+ hands-on
-      <hr/>
-       
-       - *During an Unpacked event that featured the announcement of five key new devices, the Galaxy Tab S7 didn’t get a ton of love. Understandable, perhaps. It doesn’t quite have the star power of the Note line, nor does it have the novelty of a new foldable or Blue…*
+       - *No hacking needed.*
       
 
 
