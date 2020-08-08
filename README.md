@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There's nothing more permanent than a temporary hack.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Kyle Simpson
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There's nothing more permanent than a temporary hack.
 
 </pre>
 **Daily News**
-  - How I accidentally gatecrashed a startup's morning meeting
+  - Startups Weekly: What countries want your startup?
      <hr/>
      
-      - *No hacking needed.*
+      - *They say business needs certainty to succeed, but new tech startups are still getting funded aggressively despite the pandemic, recession, trade wars and various large disasters....*
      
+  - Share Ventures, an LA-based studio for company creation, is MoviePass co-founder Hamet Watt's next act
+      <hr/>
+      
+      - *Nearly eight years ago, Hamet Watt and Stacy Spikes launched MoviePass, the subscription-based movie ticketing service that captured the minds and dollars of investors and brought thousands of cinephiles a too-good-to-be-true deal for all-you-can watch movie …*
+      
+  - How I accidentally gatecrashed a startup's morning meeting
+      <hr/>
+      
+      - *No hacking needed.*
+      
   - Daily Crunch: Trump bans transactions with ByteDance and Tencent
       <hr/>
       
       - *Trump escalates his campaign against Chinese tech companies, Facebook extends work from home until the middle of 2021 and Netflix adds support for Hindi. Here’s your Daily Crunch for August 7, 2020. The big story: Trump signs orders banning US business with T…*
-      
+       
   - Samsung Galaxy Tab S7+ hands-on
       <hr/>
-      
-      - *During an Unpacked event that featured the announcement of five key new devices, the Galaxy Tab S7 didn’t get a ton of love. Understandable, perhaps. It doesn’t quite have the star power of the Note line, nor does it have the novelty of a new foldable or Blue…*
-      
-  - Human Capital: Uber and Lyft’s ongoing battle with the law and a brief history of diversity at Snap
-      <hr/>
-      
-      - *Welcome back to Human Capital (formerly known as Tech at Work) that looks at all-things labor in tech. This week presented Uber and Lyft with a fresh labor lawsuit as a judge heard arguments from Uber, Lyft and lawyers on behalf of the people of California in…*
        
-  - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
-      <hr/>
-       
-       - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
+       - *During an Unpacked event that featured the announcement of five key new devices, the Galaxy Tab S7 didn’t get a ton of love. Understandable, perhaps. It doesn’t quite have the star power of the Note line, nor does it have the novelty of a new foldable or Blue…*
       
 
 
