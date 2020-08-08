@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+There's nothing more permanent than a temporary hack.
 
-~ James Gleick
+~ Kyle Simpson
 <pre>
 
 </pre>
