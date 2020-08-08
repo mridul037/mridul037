@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Adding manpower to a late software project makes it later.
+A language that doesn’t have everything is actually easier to program in than some that do.
 
-~ Fred Brooks
+~ Dennis Ritchie
 <pre>
 
 </pre>
