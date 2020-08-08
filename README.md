@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Fred Brooks
+~ James Gleick
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If each part of the task must be separately coordinated with each other part, th
 
 </pre>
 **Daily News**
-  - Daily Crunch: Trump bans transactions with ByteDance and Tencent
+  - How I accidentally gatecrashed a startup's morning meeting
      <hr/>
      
-      - *Trump escalates his campaign against Chinese tech companies, Facebook extends work from home until the middle of 2021 and Netflix adds support for Hindi. Here’s your Daily Crunch for August 7, 2020. The big story: Trump signs orders banning US business with T…*
+      - *No hacking needed.*
      
+  - Daily Crunch: Trump bans transactions with ByteDance and Tencent
+      <hr/>
+      
+      - *Trump escalates his campaign against Chinese tech companies, Facebook extends work from home until the middle of 2021 and Netflix adds support for Hindi. Here’s your Daily Crunch for August 7, 2020. The big story: Trump signs orders banning US business with T…*
+      
   - Samsung Galaxy Tab S7+ hands-on
       <hr/>
       
@@ -81,16 +86,11 @@ If each part of the task must be separately coordinated with each other part, th
       <hr/>
       
       - *Welcome back to Human Capital (formerly known as Tech at Work) that looks at all-things labor in tech. This week presented Uber and Lyft with a fresh labor lawsuit as a judge heard arguments from Uber, Lyft and lawyers on behalf of the people of California in…*
-      
+       
   - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
       <hr/>
-      
-      - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
        
-  - Federal judge approves ending consent decrees that prevented movie studios from owning theaters
-      <hr/>
-       
-       - *A federal judge has approved the Department of Justice’s efforts to end the Paramount Consent Decrees — 70-year-old court orders that prevented movie studios from engaging in a variety of anticompetitive behaviors, including ownership of movie theaters. U.S. …*
+       - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
       
 
 
