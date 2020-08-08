@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The key to keeping software costs down is to write code that is easily modified.
+Adding manpower to a late software project makes it later.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -72,11 +72,6 @@ The key to keeping software costs down is to write code that is easily modified.
      
       - *Trump escalates his campaign against Chinese tech companies, Facebook extends work from home until the middle of 2021 and Netflix adds support for Hindi. Here’s your Daily Crunch for August 7, 2020. The big story: Trump signs orders banning US business with T…*
      
-  - Extra Crunch members get 20% off an annual Canva Pro plan
-      <hr/>
-      
-      - *Extra Crunch is excited to announce an update to our Partner Perk from design and publishing platform Canva. Starting today, annual and two-year members of Extra Crunch can receive 20% off an annual Canva Pro plan. You must be new to Canva to claim this offer…*
-      
   - Samsung Galaxy Tab S7+ hands-on
       <hr/>
       
@@ -86,11 +81,16 @@ The key to keeping software costs down is to write code that is easily modified.
       <hr/>
       
       - *Welcome back to Human Capital (formerly known as Tech at Work) that looks at all-things labor in tech. This week presented Uber and Lyft with a fresh labor lawsuit as a judge heard arguments from Uber, Lyft and lawyers on behalf of the people of California in…*
-       
+      
   - R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI
       <hr/>
+      
+      - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
        
-       - *I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups. This week: supercomputers take on COVI…*
+  - Federal judge approves ending consent decrees that prevented movie studios from owning theaters
+      <hr/>
+       
+       - *A federal judge has approved the Department of Justice’s efforts to end the Paramount Consent Decrees — 70-year-old court orders that prevented movie studios from engaging in a variety of anticompetitive behaviors, including ownership of movie theaters. U.S. …*
       
 
 
