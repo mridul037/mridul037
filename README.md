@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 
-~ Terry Winograd
+~ Stan Kelly-Bootle
 <pre>
 
 </pre>
