@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+Documentation is a love letter that you write to your future self.
 
-~ Fred Brooks
+~ Damian Conway
 <pre>
 
 </pre>
