@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+If you learn how to solve problems, you can go through life and do pretty well.
 
-~ Martin Fowler
+~ Gary Kildall
 <pre>
 
 </pre>
