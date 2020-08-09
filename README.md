@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+Object-oriented design is the roman numerals of computing.
 
-~ Wayne Ratliff
+~ Rob Pike
 <pre>
 
 </pre>
