@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+It is easier to change the specification to fit the program than vice versa.
 
-~ Terry Winograd
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The main activity of programming is not the origination of new independent progr
 
 </pre>
 **Daily News**
-  - TikTok is reportedly planning to challenge the Trump Administration ban
+  - New bidders reportedly emerge for TikTok in the US as powerful critics assail the process
      <hr/>
      
-      - *TikTok, the video-sharing app that’s moved to the center of the economic conflict between the US and China, is planning to challenge the executive order issued by President Donald Trump that would force the sale or ban the service in the United States. Accord…*
+      - *The Wall Street Journal is reporting that TikTok and Twitter have held talks about a potential merger, even as the video sharing company defends itself against President Donald Trump’s pressure to force the sale of the business or potentially ban it. As the i…*
      
+  - TikTok is reportedly planning to challenge the Trump Administration ban
+      <hr/>
+      
+      - *TikTok, the video-sharing app that’s moved to the center of the economic conflict between the US and China, is planning to challenge the executive order issued by President Donald Trump that would force the sale or ban the service in the United States. Accord…*
+      
   - Original Content podcast: 'The Umbrella Academy' returns for a messy-but-delightful second season
       <hr/>
       
@@ -81,16 +86,11 @@ The main activity of programming is not the origination of new independent progr
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
-      
+       
   - Moft is back with a clever laptop sleeve that converts into a stand
       <hr/>
-      
-      - *Moft is a clever company that makes clever products. For a while there, I was sporting their laptop stand. It was a head-turner when I used to unfold it during meetings — back when we used to do those in-person. The truth is, I ended up having to tear it off …*
        
-  - Startups Weekly: What countries want your startup?
-      <hr/>
-       
-       - *They say business needs certainty to succeed, but new tech startups are still getting funded aggressively despite the pandemic, recession, trade wars and various large disasters....*
+       - *Moft is a clever company that makes clever products. For a while there, I was sporting their laptop stand. It was a head-turner when I used to unfold it during meetings — back when we used to do those in-person. The truth is, I ended up having to tear it off …*
       
 
 
