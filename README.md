@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Arthur C. Clarke
+~ Jim Horning
 <pre>
 
 </pre>
