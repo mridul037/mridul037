@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ Fred Brooks
+~ Robert C. Martin
 <pre>
 
 </pre>
