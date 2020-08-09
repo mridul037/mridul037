@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ Tom DeMarco
+~ Bill Gates
 <pre>
 
 </pre>
