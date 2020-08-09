@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best minds of my generation are thinking about how to make people click ads.
+When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
 
-~ Jeff Hammerbacher
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The best minds of my generation are thinking about how to make people click ads.
 
 </pre>
 **Daily News**
-  - Original Content podcast: 'The Umbrella Academy' returns for a messy-but-delightful second season
+  - TikTok is reportedly planning to challenge the Trump Administration ban
      <hr/>
      
-      - *The first season of “The Umbrella Academy” had its flaws, but empathetic portrayals of its seven superhero siblings (all adults bearing the emotional scars of an upbringing under their strict adoptive father Reginald Hargreeves) more than made up for its mean…*
+      - *TikTok, the video-sharing app that’s moved to the center of the economic conflict between the US and China, is planning to challenge the executive order issued by President Donald Trump that would force the sale or ban the service in the United States. Accord…*
      
+  - Original Content podcast: 'The Umbrella Academy' returns for a messy-but-delightful second season
+      <hr/>
+      
+      - *The first season of “The Umbrella Academy” had its flaws, but empathetic portrayals of its seven superhero siblings (all adults bearing the emotional scars of an upbringing under their strict adoptive father Reginald Hargreeves) more than made up for its mean…*
+      
   - IPO mistakes, fintech results, and the Zenefits 'mafia'
       <hr/>
       
@@ -81,16 +86,11 @@ The best minds of my generation are thinking about how to make people click ads.
       <hr/>
       
       - *Moft is a clever company that makes clever products. For a while there, I was sporting their laptop stand. It was a head-turner when I used to unfold it during meetings — back when we used to do those in-person. The truth is, I ended up having to tear it off …*
-      
+       
   - Startups Weekly: What countries want your startup?
       <hr/>
-      
-      - *They say business needs certainty to succeed, but new tech startups are still getting funded aggressively despite the pandemic, recession, trade wars and various large disasters....*
        
-  - Share Ventures, an LA-based studio for company creation, is MoviePass co-founder Hamet Watt's next act
-      <hr/>
-       
-       - *Nearly eight years ago, Hamet Watt and Stacy Spikes launched MoviePass, the subscription-based movie ticketing service that captured the minds and dollars of investors and brought thousands of cinephiles a too-good-to-be-true deal for all-you-can watch movie …*
+       - *They say business needs certainty to succeed, but new tech startups are still getting funded aggressively despite the pandemic, recession, trade wars and various large disasters....*
       
 
 
