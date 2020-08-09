@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
-~ Alan Perlis
+~ Martin Fowler
 <pre>
 
 </pre>
