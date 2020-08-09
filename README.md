@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Just because you've implemented something doesn't mean you understand it.
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 
-~ Brian Cantwell Smith
+~ Jamie Zawinski
 <pre>
 
 </pre>
