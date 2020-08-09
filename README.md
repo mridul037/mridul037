@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+I think the best way to supervise is by personal example and by frequent code reviews.
 
-~ Rob Pike
+~ Charles Simonyi
 <pre>
 
 </pre>
