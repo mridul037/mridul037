@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+The best minds of my generation are thinking about how to make people click ads.
 
-~ Fred Brooks
+~ Jeff Hammerbacher
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ First, we must observe that the anomaly is not that software progress is so slow
 
 </pre>
 **Daily News**
-  - IPO mistakes, fintech results, and the Zenefits 'mafia'
+  - Original Content podcast: 'The Umbrella Academy' returns for a messy-but-delightful second season
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *The first season of “The Umbrella Academy” had its flaws, but empathetic portrayals of its seven superhero siblings (all adults bearing the emotional scars of an upbringing under their strict adoptive father Reginald Hargreeves) more than made up for its mean…*
      
+  - IPO mistakes, fintech results, and the Zenefits 'mafia'
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      
   - Moft is back with a clever laptop sleeve that converts into a stand
       <hr/>
       
@@ -81,16 +86,11 @@ First, we must observe that the anomaly is not that software progress is so slow
       <hr/>
       
       - *They say business needs certainty to succeed, but new tech startups are still getting funded aggressively despite the pandemic, recession, trade wars and various large disasters....*
-      
+       
   - Share Ventures, an LA-based studio for company creation, is MoviePass co-founder Hamet Watt's next act
       <hr/>
-      
-      - *Nearly eight years ago, Hamet Watt and Stacy Spikes launched MoviePass, the subscription-based movie ticketing service that captured the minds and dollars of investors and brought thousands of cinephiles a too-good-to-be-true deal for all-you-can watch movie …*
        
-  - How I accidentally gatecrashed a startup's morning meeting
-      <hr/>
-       
-       - *No hacking needed.*
+       - *Nearly eight years ago, Hamet Watt and Stacy Spikes launched MoviePass, the subscription-based movie ticketing service that captured the minds and dollars of investors and brought thousands of cinephiles a too-good-to-be-true deal for all-you-can watch movie …*
       
 
 
