@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good judgement comes from experience. Experience comes from bad judgement.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
-~ Jim Horning
+~ Terry Winograd
 <pre>
 
 </pre>
