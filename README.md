@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ John Gall (author)
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A complex system that works is invariably found to have evolved from a simple sy
 
 </pre>
 **Daily News**
-  - New bidders reportedly emerge for TikTok in the US as powerful critics assail the process
+  - VenoStent has a new technology to improve outcomes for dialysis patients
      <hr/>
      
-      - *The Wall Street Journal is reporting that TikTok and Twitter have held talks about a potential merger, even as the video sharing company defends itself against President Donald Trump’s pressure to force the sale of the business or potentially ban it. As the i…*
+      - *Timothy Bouré and his co-founder Geoffrey Lucks were both near broke when they moved to Dallas to join the first accelerator they entered after forming VenoStent, a company that aims to improve outcomes for dialysis patients. Failed dialysis surgeries occur i…*
      
+  - New bidders reportedly emerge for TikTok in the US as powerful critics assail the process
+      <hr/>
+      
+      - *The Wall Street Journal is reporting that TikTok and Twitter have held talks about a potential merger, even as the video sharing company defends itself against President Donald Trump’s pressure to force the sale of the business or potentially ban it. As the i…*
+      
   - TikTok is reportedly planning to challenge the Trump Administration ban
       <hr/>
       
@@ -81,16 +86,11 @@ A complex system that works is invariably found to have evolved from a simple sy
       <hr/>
       
       - *The first season of “The Umbrella Academy” had its flaws, but empathetic portrayals of its seven superhero siblings (all adults bearing the emotional scars of an upbringing under their strict adoptive father Reginald Hargreeves) more than made up for its mean…*
-      
+       
   - IPO mistakes, fintech results, and the Zenefits 'mafia'
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
        
-  - Moft is back with a clever laptop sleeve that converts into a stand
-      <hr/>
-       
-       - *Moft is a clever company that makes clever products. For a while there, I was sporting their laptop stand. It was a head-turner when I used to unfold it during meetings — back when we used to do those in-person. The truth is, I ended up having to tear it off …*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
       
 
 
