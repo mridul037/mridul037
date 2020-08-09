@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+Just because you've implemented something doesn't mean you understand it.
 
-~ Damian Conway
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
