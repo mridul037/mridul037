@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+Premature abstraction is as bad as premature optimization.
 
-~ Jeremy S. Anderson
+~ Luciano Ramalho
 <pre>
 
 </pre>
