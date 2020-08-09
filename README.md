@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 
-~ Bill Gates
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A great programmer thinks about the program on a constant basis, whether driving
 
 </pre>
 **Daily News**
-  - VenoStent has a new technology to improve outcomes for dialysis patients
+  - Apple goes to war with the gaming industry
      <hr/>
      
-      - *Timothy Bouré and his co-founder Geoffrey Lucks were both near broke when they moved to Dallas to join the first accelerator they entered after forming VenoStent, a company that aims to improve outcomes for dialysis patients. Failed dialysis surgeries occur i…*
+      - *Most gamers may not view Apple as a games company to the same degree that they see Sony with PlayStation or Microsoft with Xbox, but the iPhone-maker continues to uniformly drive the industry with decisions made in the Apple App Store. The company made the ne…*
      
+  - VenoStent has a new technology to improve outcomes for dialysis patients
+      <hr/>
+      
+      - *Timothy Bouré and his co-founder Geoffrey Lucks were both near broke when they moved to Dallas to join the first accelerator they entered after forming VenoStent, a company that aims to improve outcomes for dialysis patients. Failed dialysis surgeries occur i…*
+      
   - New bidders reportedly emerge for TikTok in the US as powerful critics assail the process
       <hr/>
       
@@ -81,16 +86,11 @@ A great programmer thinks about the program on a constant basis, whether driving
       <hr/>
       
       - *TikTok, the video-sharing app that’s moved to the center of the economic conflict between the US and China, is planning to challenge the executive order issued by President Donald Trump that would force the sale or ban the service in the United States. Accord…*
-      
+       
   - Original Content podcast: 'The Umbrella Academy' returns for a messy-but-delightful second season
       <hr/>
-      
-      - *The first season of “The Umbrella Academy” had its flaws, but empathetic portrayals of its seven superhero siblings (all adults bearing the emotional scars of an upbringing under their strict adoptive father Reginald Hargreeves) more than made up for its mean…*
        
-  - IPO mistakes, fintech results, and the Zenefits 'mafia'
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+       - *The first season of “The Umbrella Academy” had its flaws, but empathetic portrayals of its seven superhero siblings (all adults bearing the emotional scars of an upbringing under their strict adoptive father Reginald Hargreeves) more than made up for its mean…*
       
 
 
