@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
 
-~ Anonymous
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A few months writing code can save you a few hours in design.
 
 </pre>
 **Daily News**
-  - CakeResume, which wants to become Asia's largest tech talent pool, raises $900,000 seed round
+  - IFA cancels Global Markets event, but organizers say rest of show planning is in ‘full swing’
      <hr/>
      
-      - *CakeResume is a startup creating an alternative for the tech industry to job search platforms like LinkedIn. The Taipei-based company, founded in 2016, announced today that it has raised $900,000 in seed funding from Mynavi, one of the largest staffing and pu…*
+      - *Late last-month, CES’s organizers called an audible, canceling the in-person tech show for 2020. The news seemingly cause the forces behind Berlin-based IFA to double down on the messaging for their upcoming event. Ahead of the September show, IFA has been pa…*
      
+  - Minecraft: Education Edition comes to Chromebooks
+      <hr/>
+      
+      - *Microsoft today announced that Minecraft: Education Edition is now available on Chromebooks. Now, if you were hoping that this means that the standard Minecraft game is now available on Chromebooks, too, I’m afraid I’ll have to disappoint you. The Education E…*
+      
+  - CakeResume, which wants to become Asia's largest tech talent pool, raises $900,000 seed round
+      <hr/>
+      
+      - *CakeResume is a startup creating an alternative for the tech industry to job search platforms like LinkedIn. The Taipei-based company, founded in 2016, announced today that it has raised $900,000 in seed funding from Mynavi, one of the largest staffing and pu…*
+      
   - VPN booms as countries around the world mull TikTok bans
       <hr/>
       
       - *As countries around the world ban or threaten to restrict TikTok, interest in virtual private networks has spiked. The use of VPNs can let users access an online service from an encrypted tunnel and thus bypass app blocks. “We are seeing an increasing number …*
-      
+       
   - Abandoned mall department stores may become Amazon's next fulfillment center
       <hr/>
-      
-      - *One of the largest owners of shopping mall real estate in the United Stages, Simon Property Group, has been talking to Amazon about transforming its anchor department stores into Amazon distribution hubs, according to the Wall Street Journal. In the case of S…*
-      
-  - Gillmor Gang: Tic Talks
-      <hr/>
-      
-      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Sunday, August 2, 2020. For more, subscribe to the Gillmor Gang Newsletter and join the notification feed here on Telegram. Produced…*
        
-  - Apple goes to war with the gaming industry
-      <hr/>
-       
-       - *Most gamers may not view Apple as a games company to the same degree that they see Sony with PlayStation or Microsoft with Xbox, but the iPhone-maker continues to uniformly drive the industry with decisions made in the Apple App Store. The company made the ne…*
+       - *One of the largest owners of shopping mall real estate in the United Stages, Simon Property Group, has been talking to Amazon about transforming its anchor department stores into Amazon distribution hubs, according to the Wall Street Journal. In the case of S…*
       
 
 
