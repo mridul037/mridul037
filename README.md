@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+Don't worry about anything. Just do what you can and be the best you can be.
 
-~ Daniel T. Barry
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A stupid error is an algorithmically avoidable error. Mainly, you are stupid if 
 
 </pre>
 **Daily News**
-  - Three growth marketing experts share their best tools and strategies for 2020
+  - Polestar 1 Review: A hybrid grand tourer worthy of its $155,000 price
      <hr/>
      
-      - *At last month’s Early Stage virtual event, channel growth experts joined TechCrunch reporters and editors for a series of conversations covering the best tools and strategies for building startups in 2020. For this post, I’ve recapped highlights of talks with…*
+      - *The Polestar 1 is stunning inside and out. But it drives even better than it looks. This is a driver’s car. The Polestar 1 is an electric hybrid sports car, and yet it doesn’t feel like a hybrid. The power plant in the Polestar 1 is fascinating and delivers p…*
      
-  - ByteDance valuation under huge pressure as TikTok sale nears
+  - Nikola stock surges on order for 2,500 electric garbage trucks
       <hr/>
       
-      - *As it reached an estimated valuation of $100 billion this year, TikTok’s parent company ByteDance solidified its status as the most valuable startup in private markets. Its success outside China has also become a source of envy and inspiration among its local…*
+      - *Electric truck maker Nikola announced an order for 2,500 garbage trucks, which sent the startup’s stock soaring today. The order is expected to begin construction in 2023, with on-road testing scheduled for 2022. Republic Services placed the order, which is e…*
       
-  - Beware bankers talking TikTok
+  - The Station: Uber eats rides, the next micromobility trend, Levandowksi's day in court
       <hr/>
       
-      - *The next few weeks is going to be a critical time for ByteDance-owned TikTok. The company is weeks away from a ban signed by President Trump, and while the company is expected to sue the U.S. federal government this week to block it, clearly the company’s fut…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
       
-  - Creators need better community tools. Circle wants to fill the gap
+  - Unpacking Duck Creek Technologies' IPO and hoped-for $2.7B valuation
       <hr/>
       
-      - *Entrepreneurial creators have to do a lot with limited time. They need to, well, create, but then they also need to build their marketing funnels, convert users to their paid products, and manage business operations. Yet, perhaps the most important task they …*
+      - *Tech stocks retain their highs as the second quarter’s earnings season begins to fade into the rearview mirror, and there are still a number of companies looking to go public while the times are good. It looks like a smart move, as public investors are hungry…*
        
-  - Rep. Zoe Lofgren to talk privacy and policy at Disrupt 2020
+  - Mux raises $37M Series C as its API-based video-streaming service scales
       <hr/>
        
-       - *We’re excited to announce that Rep. Zoe Lofgren is coming to Disrupt 2020 this September 14-18. Lofgren, a Democrat congresswoman and California native, has served at the heart of Silicon Valley since she was first elected to the U.S. House of Representatives…*
+       - *This morning, Mux, a startup that provides API-based video-streaming tooling and analytics, announced that it has closed a $37 million Series C round of capital. Andreessen Horowitz led the round, which included participation from Accel and Cobalt. Prior to t…*
       
 
 
