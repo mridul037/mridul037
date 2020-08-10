@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software gets slower faster than hardware gets faster.
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
 
-~ Niklaus Wirth
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Software gets slower faster than hardware gets faster.
 
 </pre>
 **Daily News**
-  - Hyundai to bring three new EVs to market under spinoff brand Ioniq
+  - Trump administration announces major midband spectrum auction for 5G
      <hr/>
      
-      - *Hyundai has launched a dedicated EV brand called Ioniq with plans to bring three all-electric vehicles to market over the next four years. The Ioniq brand is part of the Korean automaker’s broader strategy to sell 1 million battery electric vehicles — and tak…*
+      - *5G is increasingly coming into focus as a set of technologies that has the potential to dramatically expand the quality, bandwidth, and range of wireless connectivity. One of the major blocks to actually rolling out these technologies though is simply spectru…*
      
-  - Apple watchOS 7 preview
+  - SpaceX takes a big hop forward in Starship development
       <hr/>
       
-      - *Of the big three Apple operating systems, watchOS arguably gets the least love. That goes double in a year that sees macOS getting its biggest overhaul in recent memory. On the whole, the Apple Watch’s software is often overlooked, as smartwatch users tend to…*
+      - *In this week's Max Q space newsletter, the biggest news was SpaceX taking a small hop for the future of humankind's deep space exploration.*
       
-  - Extra Crunch Partner Perk: Members save 20% on Canva Pro
+  - Amazon tops 1 million Prime subscribers in India; reports record seller participation in Prime Day
       <hr/>
       
-      - *We’re excited to announce an update to an existing Partner Perk from design platform Canva. Starting today, annual and two-year members of Extra Crunch can receive 20% off an annual plan for Canva Pro. Canva empowers users to create social media graphics, pre…*
+      - *Amazon has amassed at least 1 million subscribers for its Prime loyalty service in India, the e-commerce giant revealed today in a long rundown of how its platform fared during last week’s Prime Day in the world’s second largest internet market. More than a m…*
       
-  - A Faraday Future prototype hits the auction block
+  - iOS 14 redirects web links from News+ publishers directly to the Apple News app
       <hr/>
       
-      - *Faraday Future has yet to produce a production vehicle. The company burst out of nowhere in 2015 with wild claims of upsetting the electric vehicle market ruled by Tesla. That hasn’t happened yet, either. Instead, the company has fallen flat with its founder …*
+      - *Apple’s still-in-beta operating systems will automatically redirect News+ subscribers to the Apple News app when they click on links from a News+ publisher. In other words, if you click or tap on a link to a paywalled story published by a News+ partner — incl…*
        
-  - Polestar 1 Review: A hybrid grand tourer worthy of its $155,000 price
+  - Seed funding tips and tricks from Uncork Capital founder Jeff Clavier
       <hr/>
        
-       - *The Polestar 1 is stunning inside and out. But it drives even better than it looks. This is a driver’s car. The Polestar 1 is an electric hybrid sports car, and yet it doesn’t feel like a hybrid. The power plant in the Polestar 1 is fascinating and delivers p…*
+       - *Angel funding, seed investing and generally focusing on earlier stage investing is a huge business in the world of startups these days — it helps investors get in early to the most promising companies, and (because of the smaller size of the checks) allows fo…*
       
 
 
