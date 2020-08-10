@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 
-~ Richard Stallman
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
