@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
+Just because you've implemented something doesn't mean you understand it.
 
-~ Paul Graham (programmer)
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In programming the hard part isn’t solving problems, but deciding what problem
 
 </pre>
 **Daily News**
-  - Trump administration announces major midband spectrum auction for 5G
+  - SpaceX reveals plans for a Texas spaceport resort in new job ad
      <hr/>
      
-      - *5G is increasingly coming into focus as a set of technologies that has the potential to dramatically expand the quality, bandwidth, and range of wireless connectivity. One of the major blocks to actually rolling out these technologies though is simply spectru…*
+      - *SpaceX has big plans for its Boca Chica, Texas site – where it’s currently building and testing Starship, the company’s next-generation passenger and cargo spacecraft. A new job posting spotted by CNBC’s Micheal Sheetz seeks a “Resort Development Manager” to …*
      
+  - DoubleVerify says ad fraudsters are using public domain content to create fake TV apps
+      <hr/>
+      
+      - *The team at DoubleVerify, a company that helps advertisers eliminate fraud and ensure brand safety, said that it’s recently identified a new tactic used by ad fraudsters seeking to make money on internet-connected TVs. Senior Vice President of Product Managem…*
+      
+  - Trump administration announces major midband spectrum auction for 5G
+      <hr/>
+      
+      - *5G is increasingly coming into focus as a set of technologies that has the potential to dramatically expand the quality, bandwidth, and range of wireless connectivity. One of the major blocks to actually rolling out these technologies though is simply spectru…*
+      
   - SpaceX takes a big hop forward in Starship development
       <hr/>
       
       - *In this week's Max Q space newsletter, the biggest news was SpaceX taking a small hop for the future of humankind's deep space exploration.*
-      
+       
   - Amazon tops 1 million Prime subscribers in India; reports record seller participation in Prime Day
       <hr/>
-      
-      - *Amazon has amassed at least 1 million subscribers for its Prime loyalty service in India, the e-commerce giant revealed today in a long rundown of how its platform fared during last week’s Prime Day in the world’s second largest internet market. More than a m…*
-      
-  - iOS 14 redirects web links from News+ publishers directly to the Apple News app
-      <hr/>
-      
-      - *Apple’s still-in-beta operating systems will automatically redirect News+ subscribers to the Apple News app when they click on links from a News+ publisher. In other words, if you click or tap on a link to a paywalled story published by a News+ partner — incl…*
        
-  - Seed funding tips and tricks from Uncork Capital founder Jeff Clavier
-      <hr/>
-       
-       - *Angel funding, seed investing and generally focusing on earlier stage investing is a huge business in the world of startups these days — it helps investors get in early to the most promising companies, and (because of the smaller size of the checks) allows fo…*
+       - *Amazon has amassed at least 1 million subscribers for its Prime loyalty service in India, the e-commerce giant revealed today in a long rundown of how its platform fared during last week’s Prime Day in the world’s second largest internet market. More than a m…*
       
 
 
