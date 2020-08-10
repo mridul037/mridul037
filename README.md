@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The way to arrest entropy in software is to refactor it.
+When in doubt, use brute force.
 
-~ Joseph Yoder (computer scientist)
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The way to arrest entropy in software is to refactor it.
 
 </pre>
 **Daily News**
-  - VPN booms as countries around the world mull TikTok bans
+  - CakeResume, which wants to become Asia's largest tech talent pool, raises $900,000 seed round
      <hr/>
      
-      - *As countries around the world ban or threaten to restrict TikTok, interest in virtual private networks has spiked. The use of VPNs can let users access an online service from an encrypted tunnel and thus bypass app blocks. “We are seeing an increasing number …*
+      - *CakeResume is a startup creating an alternative for the tech industry to job search platforms like LinkedIn. The Taipei-based company, founded in 2016, announced today that it has raised $900,000 in seed funding from Mynavi, one of the largest staffing and pu…*
      
+  - VPN booms as countries around the world mull TikTok bans
+      <hr/>
+      
+      - *As countries around the world ban or threaten to restrict TikTok, interest in virtual private networks has spiked. The use of VPNs can let users access an online service from an encrypted tunnel and thus bypass app blocks. “We are seeing an increasing number …*
+      
   - Abandoned mall department stores may become Amazon's next fulfillment center
       <hr/>
       
@@ -81,16 +86,11 @@ The way to arrest entropy in software is to refactor it.
       <hr/>
       
       - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Sunday, August 2, 2020. For more, subscribe to the Gillmor Gang Newsletter and join the notification feed here on Telegram. Produced…*
-      
+       
   - Apple goes to war with the gaming industry
       <hr/>
-      
-      - *Most gamers may not view Apple as a games company to the same degree that they see Sony with PlayStation or Microsoft with Xbox, but the iPhone-maker continues to uniformly drive the industry with decisions made in the Apple App Store. The company made the ne…*
        
-  - VenoStent has a new technology to improve outcomes for dialysis patients
-      <hr/>
-       
-       - *Timothy Bouré and his co-founder Geoffrey Lucks were both near broke when they moved to Dallas to join the first accelerator they entered after forming VenoStent, a company that aims to improve outcomes for dialysis patients. Failed dialysis surgeries occur i…*
+       - *Most gamers may not view Apple as a games company to the same degree that they see Sony with PlayStation or Microsoft with Xbox, but the iPhone-maker continues to uniformly drive the industry with decisions made in the Apple App Store. The company made the ne…*
       
 
 
