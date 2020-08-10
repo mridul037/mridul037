@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Fred Brooks
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Human beings are not accustomed to being perfect, and few areas of human activit
 
 </pre>
 **Daily News**
-  - Apple goes to war with the gaming industry
+  - Abandoned mall department stores may become Amazon's next fulfillment center
      <hr/>
      
-      - *Most gamers may not view Apple as a games company to the same degree that they see Sony with PlayStation or Microsoft with Xbox, but the iPhone-maker continues to uniformly drive the industry with decisions made in the Apple App Store. The company made the ne…*
+      - *One of the largest owners of shopping mall real estate in the United Stages, Simon Property Group, has been talking to Amazon about transforming its anchor department stores into Amazon distribution hubs, according to the Wall Street Journal. In the case of S…*
      
+  - Gillmor Gang: Tic Talks
+      <hr/>
+      
+      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Sunday, August 2, 2020. For more, subscribe to the Gillmor Gang Newsletter and join the notification feed here on Telegram. Produced…*
+      
+  - Apple goes to war with the gaming industry
+      <hr/>
+      
+      - *Most gamers may not view Apple as a games company to the same degree that they see Sony with PlayStation or Microsoft with Xbox, but the iPhone-maker continues to uniformly drive the industry with decisions made in the Apple App Store. The company made the ne…*
+      
   - VenoStent has a new technology to improve outcomes for dialysis patients
       <hr/>
       
       - *Timothy Bouré and his co-founder Geoffrey Lucks were both near broke when they moved to Dallas to join the first accelerator they entered after forming VenoStent, a company that aims to improve outcomes for dialysis patients. Failed dialysis surgeries occur i…*
-      
+       
   - New bidders reportedly emerge for TikTok in the US as powerful critics assail the process
       <hr/>
-      
-      - *The Wall Street Journal is reporting that TikTok and Twitter have held talks about a potential merger, even as the video sharing company defends itself against President Donald Trump’s pressure to force the sale of the business or potentially ban it. As the i…*
-      
-  - TikTok is reportedly planning to challenge the Trump Administration ban
-      <hr/>
-      
-      - *TikTok, the video-sharing app that’s moved to the center of the economic conflict between the US and China, is planning to challenge the executive order issued by President Donald Trump that would force the sale or ban the service in the United States. Accord…*
        
-  - Original Content podcast: 'The Umbrella Academy' returns for a messy-but-delightful second season
-      <hr/>
-       
-       - *The first season of “The Umbrella Academy” had its flaws, but empathetic portrayals of its seven superhero siblings (all adults bearing the emotional scars of an upbringing under their strict adoptive father Reginald Hargreeves) more than made up for its mean…*
+       - *The Wall Street Journal is reporting that TikTok and Twitter have held talks about a potential merger, even as the video sharing company defends itself against President Donald Trump’s pressure to force the sale of the business or potentially ban it. As the i…*
       
 
 
