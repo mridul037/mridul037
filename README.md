@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 
-~ Marijn Haverbeke
+~ Anders Hejlsberg
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are many terrible mistakes to make in program design, so go ahead and make
 
 </pre>
 **Daily News**
-  - Reddit CEO defends allowing Trump ads ahead of presidential election
+  - Daily Crunch: Trying on Apple's watchOS 7
      <hr/>
      
-      - *Reddit is gearing up to run ads for President Donald Trump ahead of the 2020 presidential election despite concerns from employees, TechCrunch has learned. Reddit CEO Steve Huffman addressed some of these employee concerns during an all-hands meeting last wee…*
+      - *The public beta of watchOS 7 is here, Amazon may be looking to turn malls into distribution centers and Skillshare raises $66 million. This is your Daily Crunch for August 10, 2020. The big story: Trying on Apple’s watchOS 7 Brian Heater walks us through all …*
      
+  - Y Combinator President Geoff Ralston shares actionable advice for startup founders
+      <hr/>
+      
+      - *Running a startup accelerator comes with a number of occupational hazards, but “skepticism is the easiest thing to fall into when you’ve seen too many companies,” said Y Combinator President Geoff Ralston, “and it’s the thing you have to avoid the most.” Rals…*
+      
+  - Shares of Uber, Lyft drift lower after California judge says that contract drivers are employees
+      <hr/>
+      
+      - *Shares of Uber and Lyft dipped modestly after a California judge granted a preliminary injunction that TechCrunch reports could force the two American ride-hailing companies to reclassify drivers as employees in the state. Uber’s stock is off about 1.3% follo…*
+      
+  - Reddit CEO defends allowing Trump ads ahead of presidential election
+      <hr/>
+      
+      - *Reddit is gearing up to run ads for President Donald Trump ahead of the 2020 presidential election despite concerns from employees, TechCrunch has learned. Reddit CEO Steve Huffman addressed some of these employee concerns during an all-hands meeting last wee…*
+       
   - CA Judge grants preliminary injunction forcing Uber and Lyft to reclassify drivers as employees
       <hr/>
-      
-      - *California Superior Court Judge Ethan Schulman has granted a preliminary injunction forcing Uber and Lyft to reclassify its drivers as employees. This order is set to go into effect in ten days. “The Court is under no illusion that implementation of its injun…*
-      
-  - SpaceX reveals plans for a Texas spaceport resort in new job ad
-      <hr/>
-      
-      - *SpaceX has big plans for its Boca Chica, Texas site – where it’s currently building and testing Starship, the company’s next-generation passenger and cargo spacecraft. A new job posting spotted by CNBC’s Micheal Sheetz seeks a “Resort Development Manager” to …*
-      
-  - DoubleVerify says ad fraudsters are using public domain content to create fake TV apps
-      <hr/>
-      
-      - *The team at DoubleVerify, a company that helps advertisers eliminate fraud and ensure brand safety, said that it’s recently identified a new tactic used by ad fraudsters seeking to make money on internet-connected TVs. Senior Vice President of Product Managem…*
        
-  - Trump administration announces major midband spectrum auction for 5G
-      <hr/>
-       
-       - *5G is increasingly coming into focus as a set of technologies that has the potential to dramatically expand the quality, bandwidth, and range of wireless connectivity. One of the major blocks to actually rolling out these technologies though is simply spectru…*
+       - *California Superior Court Judge Ethan Schulman has granted a preliminary injunction forcing Uber and Lyft to reclassify its drivers as employees. This order is set to go into effect in ten days. “The Court is under no illusion that implementation of its injun…*
       
 
 
