@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Donald Knuth
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Science is what we understand well enough to explain to a computer. Art is every
 
 </pre>
 **Daily News**
-  - Rep. Zoe Lofgren to talk privacy and policy at Disrupt 2020
+  - Three growth marketing experts share their best tools and strategies for 2020
      <hr/>
      
-      - *We’re excited to announce that Rep. Zoe Lofgren is coming to Disrupt 2020 this September 14-18. Lofgren, a Democrat congresswoman and California native, has served at the heart of Silicon Valley since she was first elected to the U.S. House of Representatives…*
+      - *At last month’s Early Stage virtual event, channel growth experts joined TechCrunch reporters and editors for a series of conversations covering the best tools and strategies for building startups in 2020. For this post, I’ve recapped highlights of talks with…*
      
-  - U.S. gaming industry records another excellent quarter as pandemic fuels sales
+  - ByteDance valuation under huge pressure as TikTok sale nears
       <hr/>
       
-      - *The COVID-19 pandemic has utterly decimate a number of industries over the the past several months, but the U.S. gaming industry continues to benefit as people continue to be stuck at home. Yet another report from NPD highlights an excellent quarter, with spe…*
+      - *As it reached an estimated valuation of $100 billion this year, TikTok’s parent company ByteDance solidified its status as the most valuable startup in private markets. Its success outside China has also become a source of envy and inspiration among its local…*
       
-  - Watch the trailer for Netflix's new family space drama about a mission to Mars
+  - Beware bankers talking TikTok
       <hr/>
       
-      - *As deep space missions and Mars colonies continue to shift from science fiction to potential near future reality, it’s not surprising to see Hollywood think about different types of stories to tell about space exploration. Away, a new series from Netflix prem…*
+      - *The next few weeks is going to be a critical time for ByteDance-owned TikTok. The company is weeks away from a ban signed by President Trump, and while the company is expected to sue the U.S. federal government this week to block it, clearly the company’s fut…*
       
-  - With a renewed focus on creative skills, online learning company Skillshare raises $66M
+  - Creators need better community tools. Circle wants to fill the gap
       <hr/>
       
-      - *Skillshare CEO Matt Cooper said 2020 has been a year of rapid growth — even before the pandemic forced large swaths of the population to stay home and turn to online learning for entertainment and enrich. Cooper (who became CEO in 2017) told me that the compa…*
+      - *Entrepreneurial creators have to do a lot with limited time. They need to, well, create, but then they also need to build their marketing funnels, convert users to their paid products, and manage business operations. Yet, perhaps the most important task they …*
        
-  - Equity Monday: The TikTok saga rolls on as earnings season starts to wrap
+  - Rep. Zoe Lofgren to talk privacy and policy at Disrupt 2020
       <hr/>
        
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+       - *We’re excited to announce that Rep. Zoe Lofgren is coming to Disrupt 2020 this September 14-18. Lofgren, a Democrat congresswoman and California native, has served at the heart of Silicon Valley since she was first elected to the U.S. House of Representatives…*
       
 
 
