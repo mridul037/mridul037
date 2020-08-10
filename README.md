@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+Software gets slower faster than hardware gets faster.
 
-~ Alan Kay
+~ Niklaus Wirth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best way to predict the future is to invent it.
 
 </pre>
 **Daily News**
-  - A Faraday Future prototype hits the auction block
+  - Hyundai to bring three new EVs to market under spinoff brand Ioniq
      <hr/>
      
-      - *Faraday Future has yet to produce a production vehicle. The company burst out of nowhere in 2015 with wild claims of upsetting the electric vehicle market ruled by Tesla. That hasn’t happened yet, either. Instead, the company has fallen flat with its founder …*
+      - *Hyundai has launched a dedicated EV brand called Ioniq with plans to bring three all-electric vehicles to market over the next four years. The Ioniq brand is part of the Korean automaker’s broader strategy to sell 1 million battery electric vehicles — and tak…*
      
+  - Apple watchOS 7 preview
+      <hr/>
+      
+      - *Of the big three Apple operating systems, watchOS arguably gets the least love. That goes double in a year that sees macOS getting its biggest overhaul in recent memory. On the whole, the Apple Watch’s software is often overlooked, as smartwatch users tend to…*
+      
+  - Extra Crunch Partner Perk: Members save 20% on Canva Pro
+      <hr/>
+      
+      - *We’re excited to announce an update to an existing Partner Perk from design platform Canva. Starting today, annual and two-year members of Extra Crunch can receive 20% off an annual plan for Canva Pro. Canva empowers users to create social media graphics, pre…*
+      
+  - A Faraday Future prototype hits the auction block
+      <hr/>
+      
+      - *Faraday Future has yet to produce a production vehicle. The company burst out of nowhere in 2015 with wild claims of upsetting the electric vehicle market ruled by Tesla. That hasn’t happened yet, either. Instead, the company has fallen flat with its founder …*
+       
   - Polestar 1 Review: A hybrid grand tourer worthy of its $155,000 price
       <hr/>
-      
-      - *The Polestar 1 is stunning inside and out. But it drives even better than it looks. This is a driver’s car. The Polestar 1 is an electric hybrid sports car, and yet it doesn’t feel like a hybrid. The power plant in the Polestar 1 is fascinating and delivers p…*
-      
-  - Nikola stock surges on order for 2,500 electric garbage trucks
-      <hr/>
-      
-      - *Electric truck maker Nikola announced an order for 2,500 garbage trucks, which sent the startup’s stock soaring today. The order is expected to begin construction in 2023, with on-road testing scheduled for 2022. Republic Services placed the order, which is e…*
-      
-  - The Station: Uber eats rides, the next micromobility trend, Levandowksi's day in court
-      <hr/>
-      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
        
-  - Unpacking Duck Creek Technologies' IPO and hoped-for $2.7B valuation
-      <hr/>
-       
-       - *Tech stocks retain their highs as the second quarter’s earnings season begins to fade into the rearview mirror, and there are still a number of companies looking to go public while the times are good. It looks like a smart move, as public investors are hungry…*
+       - *The Polestar 1 is stunning inside and out. But it drives even better than it looks. This is a driver’s car. The Polestar 1 is an electric hybrid sports car, and yet it doesn’t feel like a hybrid. The power plant in the Polestar 1 is fascinating and delivers p…*
       
 
 
