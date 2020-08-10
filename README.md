@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Edsger W. Dijkstra
+~ Linus Torvalds
 <pre>
 
 </pre>
