@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 
-~ Edsger W. Dijkstra
+~ René Descartes
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
 </pre>
 **Daily News**
-  - Abandoned mall department stores may become Amazon's next fulfillment center
+  - VPN booms as countries around the world mull TikTok bans
      <hr/>
      
-      - *One of the largest owners of shopping mall real estate in the United Stages, Simon Property Group, has been talking to Amazon about transforming its anchor department stores into Amazon distribution hubs, according to the Wall Street Journal. In the case of S…*
+      - *As countries around the world ban or threaten to restrict TikTok, interest in virtual private networks has spiked. The use of VPNs can let users access an online service from an encrypted tunnel and thus bypass app blocks. “We are seeing an increasing number …*
      
+  - Abandoned mall department stores may become Amazon's next fulfillment center
+      <hr/>
+      
+      - *One of the largest owners of shopping mall real estate in the United Stages, Simon Property Group, has been talking to Amazon about transforming its anchor department stores into Amazon distribution hubs, according to the Wall Street Journal. In the case of S…*
+      
   - Gillmor Gang: Tic Talks
       <hr/>
       
@@ -81,16 +86,11 @@ A picture may be worth a thousand words, a formula is worth a thousand pictures.
       <hr/>
       
       - *Most gamers may not view Apple as a games company to the same degree that they see Sony with PlayStation or Microsoft with Xbox, but the iPhone-maker continues to uniformly drive the industry with decisions made in the Apple App Store. The company made the ne…*
-      
+       
   - VenoStent has a new technology to improve outcomes for dialysis patients
       <hr/>
-      
-      - *Timothy Bouré and his co-founder Geoffrey Lucks were both near broke when they moved to Dallas to join the first accelerator they entered after forming VenoStent, a company that aims to improve outcomes for dialysis patients. Failed dialysis surgeries occur i…*
        
-  - New bidders reportedly emerge for TikTok in the US as powerful critics assail the process
-      <hr/>
-       
-       - *The Wall Street Journal is reporting that TikTok and Twitter have held talks about a potential merger, even as the video sharing company defends itself against President Donald Trump’s pressure to force the sale of the business or potentially ban it. As the i…*
+       - *Timothy Bouré and his co-founder Geoffrey Lucks were both near broke when they moved to Dallas to join the first accelerator they entered after forming VenoStent, a company that aims to improve outcomes for dialysis patients. Failed dialysis surgeries occur i…*
       
 
 
