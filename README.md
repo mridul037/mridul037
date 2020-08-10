@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 
-~ Grady Booch
+~ Terry Winograd
 <pre>
 
 </pre>
