@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+The best way to predict the future is to invent it.
 
-~ Douglas Crockford
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Don't worry about anything. Just do what you can and be the best you can be.
 
 </pre>
 **Daily News**
-  - Polestar 1 Review: A hybrid grand tourer worthy of its $155,000 price
+  - A Faraday Future prototype hits the auction block
      <hr/>
      
-      - *The Polestar 1 is stunning inside and out. But it drives even better than it looks. This is a driver’s car. The Polestar 1 is an electric hybrid sports car, and yet it doesn’t feel like a hybrid. The power plant in the Polestar 1 is fascinating and delivers p…*
+      - *Faraday Future has yet to produce a production vehicle. The company burst out of nowhere in 2015 with wild claims of upsetting the electric vehicle market ruled by Tesla. That hasn’t happened yet, either. Instead, the company has fallen flat with its founder …*
      
+  - Polestar 1 Review: A hybrid grand tourer worthy of its $155,000 price
+      <hr/>
+      
+      - *The Polestar 1 is stunning inside and out. But it drives even better than it looks. This is a driver’s car. The Polestar 1 is an electric hybrid sports car, and yet it doesn’t feel like a hybrid. The power plant in the Polestar 1 is fascinating and delivers p…*
+      
   - Nikola stock surges on order for 2,500 electric garbage trucks
       <hr/>
       
@@ -81,16 +86,11 @@ Don't worry about anything. Just do what you can and be the best you can be.
       <hr/>
       
       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
-      
+       
   - Unpacking Duck Creek Technologies' IPO and hoped-for $2.7B valuation
       <hr/>
-      
-      - *Tech stocks retain their highs as the second quarter’s earnings season begins to fade into the rearview mirror, and there are still a number of companies looking to go public while the times are good. It looks like a smart move, as public investors are hungry…*
        
-  - Mux raises $37M Series C as its API-based video-streaming service scales
-      <hr/>
-       
-       - *This morning, Mux, a startup that provides API-based video-streaming tooling and analytics, announced that it has closed a $37 million Series C round of capital. Andreessen Horowitz led the round, which included participation from Accel and Cobalt. Prior to t…*
+       - *Tech stocks retain their highs as the second quarter’s earnings season begins to fade into the rearview mirror, and there are still a number of companies looking to go public while the times are good. It looks like a smart move, as public investors are hungry…*
       
 
 
