@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Fred Brooks
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The programmer, like the poet, works only slightly removed from pure thought-stu
 
 </pre>
 **Daily News**
-  - IFA cancels Global Markets event, but organizers say rest of show planning is in ‘full swing’
+  - Rep. Zoe Lofgren to talk privacy and policy at Disrupt 2020
      <hr/>
      
-      - *Late last-month, CES’s organizers called an audible, canceling the in-person tech show for 2020. The news seemingly cause the forces behind Berlin-based IFA to double down on the messaging for their upcoming event. Ahead of the September show, IFA has been pa…*
+      - *We’re excited to announce that Rep. Zoe Lofgren is coming to Disrupt 2020 this September 14-18. Lofgren, a Democrat congresswoman and California native, has served at the heart of Silicon Valley since she was first elected to the U.S. House of Representatives…*
      
-  - Minecraft: Education Edition comes to Chromebooks
+  - U.S. gaming industry records another excellent quarter as pandemic fuels sales
       <hr/>
       
-      - *Microsoft today announced that Minecraft: Education Edition is now available on Chromebooks. Now, if you were hoping that this means that the standard Minecraft game is now available on Chromebooks, too, I’m afraid I’ll have to disappoint you. The Education E…*
+      - *The COVID-19 pandemic has utterly decimate a number of industries over the the past several months, but the U.S. gaming industry continues to benefit as people continue to be stuck at home. Yet another report from NPD highlights an excellent quarter, with spe…*
       
-  - CakeResume, which wants to become Asia's largest tech talent pool, raises $900,000 seed round
+  - Watch the trailer for Netflix's new family space drama about a mission to Mars
       <hr/>
       
-      - *CakeResume is a startup creating an alternative for the tech industry to job search platforms like LinkedIn. The Taipei-based company, founded in 2016, announced today that it has raised $900,000 in seed funding from Mynavi, one of the largest staffing and pu…*
+      - *As deep space missions and Mars colonies continue to shift from science fiction to potential near future reality, it’s not surprising to see Hollywood think about different types of stories to tell about space exploration. Away, a new series from Netflix prem…*
       
-  - VPN booms as countries around the world mull TikTok bans
+  - With a renewed focus on creative skills, online learning company Skillshare raises $66M
       <hr/>
       
-      - *As countries around the world ban or threaten to restrict TikTok, interest in virtual private networks has spiked. The use of VPNs can let users access an online service from an encrypted tunnel and thus bypass app blocks. “We are seeing an increasing number …*
+      - *Skillshare CEO Matt Cooper said 2020 has been a year of rapid growth — even before the pandemic forced large swaths of the population to stay home and turn to online learning for entertainment and enrich. Cooper (who became CEO in 2017) told me that the compa…*
        
-  - Abandoned mall department stores may become Amazon's next fulfillment center
+  - Equity Monday: The TikTok saga rolls on as earnings season starts to wrap
       <hr/>
        
-       - *One of the largest owners of shopping mall real estate in the United Stages, Simon Property Group, has been talking to Amazon about transforming its anchor department stores into Amazon distribution hubs, according to the Wall Street Journal. In the case of S…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
 
 
