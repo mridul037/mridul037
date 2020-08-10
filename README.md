@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 
-~ Grady Booch
+~ Gerald Weinberg
 <pre>
 
 </pre>
