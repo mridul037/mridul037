@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
-~ Fred Brooks
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First, we must observe that the anomaly is not that software progress is so slow
 
 </pre>
 **Daily News**
-  - Daily Crunch: Trying on Apple's watchOS 7
+  - Singapore's trade finance startup Incomlend raises $20M led by Sequoia Capital India
      <hr/>
      
-      - *The public beta of watchOS 7 is here, Amazon may be looking to turn malls into distribution centers and Skillshare raises $66 million. This is your Daily Crunch for August 10, 2020. The big story: Trying on Apple’s watchOS 7 Brian Heater walks us through all …*
+      - *Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India, the India and SEA investment arm of the storie…*
      
+  - Tencent wants to merge China's esports archrivals Douyu and Huya
+      <hr/>
+      
+      - *The war between two of China’s largest esports companies may soon come to a truce at the will of their investor Tencent. Tencent, the world’s biggest games publisher, announced late Monday a proposal to consolidate Douyu and Huya, the competing livestreaming …*
+      
+  - Daily Crunch: Trying on Apple's watchOS 7
+      <hr/>
+      
+      - *The public beta of watchOS 7 is here, Amazon may be looking to turn malls into distribution centers and Skillshare raises $66 million. This is your Daily Crunch for August 10, 2020. The big story: Trying on Apple’s watchOS 7 Brian Heater walks us through all …*
+      
   - Y Combinator President Geoff Ralston shares actionable advice for startup founders
       <hr/>
       
       - *Running a startup accelerator comes with a number of occupational hazards, but “skepticism is the easiest thing to fall into when you’ve seen too many companies,” said Y Combinator President Geoff Ralston, “and it’s the thing you have to avoid the most.” Rals…*
-      
+       
   - Shares of Uber, Lyft drift lower after California judge says that contract drivers are employees
       <hr/>
-      
-      - *Shares of Uber and Lyft dipped modestly after a California judge granted a preliminary injunction that TechCrunch reports could force the two American ride-hailing companies to reclassify drivers as employees in the state. Uber’s stock is off about 1.3% follo…*
-      
-  - Reddit CEO defends allowing Trump ads ahead of presidential election
-      <hr/>
-      
-      - *Reddit is gearing up to run ads for President Donald Trump ahead of the 2020 presidential election despite concerns from employees, TechCrunch has learned. Reddit CEO Steve Huffman addressed some of these employee concerns during an all-hands meeting last wee…*
        
-  - CA Judge grants preliminary injunction forcing Uber and Lyft to reclassify drivers as employees
-      <hr/>
-       
-       - *California Superior Court Judge Ethan Schulman has granted a preliminary injunction forcing Uber and Lyft to reclassify its drivers as employees. This order is set to go into effect in ten days. “The Court is under no illusion that implementation of its injun…*
+       - *Shares of Uber and Lyft dipped modestly after a California judge granted a preliminary injunction that TechCrunch reports could force the two American ride-hailing companies to reclassify drivers as employees in the state. Uber’s stock is off about 1.3% follo…*
       
 
 
