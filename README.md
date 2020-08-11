@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Maurice Wilkes
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 
 </pre>
 **Daily News**
-  - Vitesse, a fintech providing real-time cross-border payments for businesses, scores £6.6M Series A
+  - 9 Berlin-based VCs discuss how COVID-19 has changed the landscape
      <hr/>
      
-      - *Vitesse, the London-based fintech that offers real-time cross-border payments for businesses, has raised £6.6 million in Series A funding. The round is led by Octopus Ventures, with participation from existing backers including Hoxton Ventures and various ang…*
+      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
      
+  - Court finds some fault with UK police force's use of facial recognition tech
+      <hr/>
+      
+      - *Civil rights campaigners in the UK have won a legal challenge to South Wales Police’s (SWP) use of facial recognition technology. The win on appeal is being hailed as a “world-first” victory in the fight against the use of an “oppressive surveillance tool”, a…*
+      
+  - Tencent and Universal Music to take Chinese artists global under joint label
+      <hr/>
+      
+      - *Digital entertainment titan Tencent continues to drum up its music ambitions. On Tuesday, Tencent Music Entertainment, majority-owned by Tencent with a 55.6% stake, announced establishing a new joint label with its licensing partner Universal Music Group to d…*
+      
+  - Vitesse, a fintech providing real-time cross-border payments for businesses, scores £6.6M Series A
+      <hr/>
+      
+      - *Vitesse, the London-based fintech that offers real-time cross-border payments for businesses, has raised £6.6 million in Series A funding. The round is led by Octopus Ventures, with participation from existing backers including Hoxton Ventures and various ang…*
+       
   - EU-US Privacy Shield is dead. Long live Privacy Shield
       <hr/>
-      
-      - *As the saying goes, insanity is doing the same thing over and over again and expecting different results. And so we arrive at the news, put out yesterday in the horse latitudes of summer via joint press statement, that the EU’s executive body and the US Depar…*
-      
-  - Power electronics and wireless charging startup Eggtronic raises $10M Series A
-      <hr/>
-      
-      - *Eggtronic, the Italy-founded startup developing power electronics, wireless charging and data over power technology and products, has closed around $10 million in Series A funding. Backing the company is Rinkelberg Capital — the investment fund from the found…*
-      
-  - Google rolls out virtual business card in India to take on LinkedIn
-      <hr/>
-      
-      - *Google has rolled out a new Search feature in India that enables influencers, entrepreneurs, freelancers, or anyone else who wants to be easily discovered online create a virtual visiting card in what appears to be the company’s latest attempt to bring more o…*
        
-  - Singapore's trade finance startup Incomlend raises $20M led by Sequoia Capital India
-      <hr/>
-       
-       - *Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India, the India and SEA investment arm of the storie…*
+       - *As the saying goes, insanity is doing the same thing over and over again and expecting different results. And so we arrive at the news, put out yesterday in the horse latitudes of summer via joint press statement, that the EU’s executive body and the US Depar…*
       
 
 
