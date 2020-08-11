@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Low-level programming is good for the programmer’s soul.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ John Carmack
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Low-level programming is good for the programmer’s soul.
 
 </pre>
 **Daily News**
-  - With technology to perfect product pitches in digital marketplaces Pattern raises $52 million
+  - How Moovit went from opportunity to a $900M exit in 8 years
      <hr/>
      
-      - *Pattern, a Lehi, Utah-based reseller that offers large and small brands a way to optimize their sales on marketplaces like Amazon, eBay, Walmart and Google Shopping, has raised $52 million in growth funding, the company said. The money, from Ainge Advisory an…*
+      - *Now a private investor, former Moovit president Omar Téllez offers a look inside the company's early growth strategy, its efforts to achieve product-market fit and how rapid growth in Latin America sparked its rapid ascent.*
      
-  - Argo AI co-founder and CEO Bryan Salesky joins us at TC Sessions: Mobility 2020
+  - Twitter now lets everyone limit replies to their Tweets
       <hr/>
       
-      - *This year’s TC Sessions: Mobility on October 6 & 7 will be a fantastic opportunity to find out all the latest on advancements in autonomy, micro-mobility, transportation AI and much more. Argo AI co-founder and CEO Bryan Salesky is among the best-positioned p…*
+      - *Twitter may describe itself as the town square, but that doesn’t mean you have to talk to everyone walking past your seat at the cafe. Today, to increase the amount of “meaningful conversations” that take place on Twitter, and to help people weed out abuse an…*
       
-  - Till raises $8 million to try to prevent evictions
+  - Airbnb could file to go public this month
       <hr/>
       
-      - *Till, a platform that serves as an intermediary between landlords and renters, has raised an $8 million seed round led by Route 66 Ventures with participation from MetaProp Ventures and NextGen Venture Partners. Till was founded on the premise that people are…*
+      - *According to the Wall Street Journal, Airbnb could file confidentially to go public as early as this month. The same report states that Airbnb could follow that filing with an IPO before year’s end. Morgan Stanley and Goldman are helping the former startup wi…*
       
-  - Back to school sale: Students can join Extra Crunch for $50 per year
+  - Valence, the site dedicated to increasing economic opportunity for the Black community, raises $5.25 million
       <hr/>
       
-      - *The summer is coming to an end, and fall is almost here. Which means it’s time for students to “return” to school. To help those looking to get ahead, we are offering an annual Extra Crunch membership to students for $50 off. That’s a full year of Extra Crunc…*
+      - *Valence, the Los Angeles-based online community dedicated to increasing economic opportunity for the Black community, has raised $5.25 million in financing as it looks to continue to expand its network for Black professionals in all fields. The timing for the…*
        
-  - Mozilla lays off 250
+  - Accessing social groups through referrals
       <hr/>
        
-       - *Mozilla today announced a major restructuring of its commercial arm, the Mozilla Corporation that will see about 250 employees lose their jobs and the shuttering of the organization’s operations in Taipei, Taiwan. This move comes after the organization alread…*
+       - *For higher response rates, mirror your prospect by having a person with the same job title from your own team reach out.*
       
 
 
