@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I care not only what the code says but how it looks.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Peter Roizen
+~ Tom DeMarco
 <pre>
 
 </pre>
