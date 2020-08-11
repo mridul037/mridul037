@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
 
-~ Joe Armstrong (programmer)
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The problem with object-oriented languages is they’ve got all this implicit en
 
 </pre>
 **Daily News**
-  - Digital Startup Alley exhibitors: Tune in tomorrow for free media training
+  - The next-gen Xbox will ship in November
      <hr/>
      
-      - *Tomorrow’s a big day for early-stage startup founders preparing to exhibit in Digital Startup Alley at Disrupt 2020. We’re kicking off the first of three exclusive, interactive webinars to help exhibitors make the most of their Startup Alley experience. Tune …*
+      - *The last few months have provided a steady trickle of information about the next Xbox console — or the Xbox Series X, as it’s known. We know what it looks like. We know a lot about what’s inside. We know about over a dozen titles currently being built for it.…*
      
+  - Tesla announces 5 for 1 share split, rallies 8%
+      <hr/>
+      
+      - *Today after the close of regular trading Tesla, a well-known American electric vehicle company, announced that it intends to split its shares 5 for 1. The split announcement comes after a sharp rally in the value of Tesla equity in recent quarters. The compan…*
+      
+  - Digital Startup Alley exhibitors: Tune in tomorrow for free media training
+      <hr/>
+      
+      - *Tomorrow’s a big day for early-stage startup founders preparing to exhibit in Digital Startup Alley at Disrupt 2020. We’re kicking off the first of three exclusive, interactive webinars to help exhibitors make the most of their Startup Alley experience. Tune …*
+      
   - 'Stalkerware' phone spying apps have escaped Google's ad ban
       <hr/>
       
       - *Several well-known stalkerware apps were still advertising after Google imposed its new rules.*
-      
+       
   - Zin Boats reinvents the electric speedboat in a bid to become the Tesla of the sea
       <hr/>
-      
-      - *The automotive industry is knee deep in the vast transition to electric, but one place where gas is still going strong is out on the water. Zin Boats wants to start what you might call a sea change by proving, as Tesla did before it, that an electric boat is …*
-      
-  - No pen required: The digital future of real estate closings
-      <hr/>
-      
-      - *Every other expense in my life has gone digital, but the most significant purchase I’ve ever made required hundreds of signatures and several handwritten checks delivered in person.*
        
-  - Scribd acquires presentation-sharing service SlideShare from LinkedIn
-      <hr/>
-       
-       - *SlideShare has a new owner, with LinkedIn selling the presentation-sharing service to Scribd for an undisclosed price. According to LinkedIn, Scribd will take over operation of the SlideShare business on September 24. Scribd CEO Trip Adler argued that the com…*
+       - *The automotive industry is knee deep in the vast transition to electric, but one place where gas is still going strong is out on the water. Zin Boats wants to start what you might call a sea change by proving, as Tesla did before it, that an electric boat is …*
       
 
 
