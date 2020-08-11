@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Cleaning code does NOT take time. NOT cleaning code does take time.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Robert C. Martin
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Cleaning code does NOT take time. NOT cleaning code does take time.
 
 </pre>
 **Daily News**
-  - How Moovit went from opportunity to a $900M exit in 8 years
+  - The robots occupying our sidewalks
      <hr/>
      
-      - *Now a private investor, former Moovit president Omar Téllez offers a look inside the company's early growth strategy, its efforts to achieve product-market fit and how rapid growth in Latin America sparked its rapid ascent.*
+      - *Cities and tech companies need to plan for accessibility early in the design process, include disabled people in solutions, and review the many published accessibility guidelines.*
      
+  - Emergence's Jason Green still sees plenty of opportunities for enterprise SaaS startups
+      <hr/>
+      
+      - *Jason Green, co-founder and partner at Emergence, has made some solid enterprise SaaS bets over the years, long before it was fashionable to do so. He invested early in companies like Box, ServiceMax, Yammer, SteelBrick and SuccessFactors. Just those companie…*
+      
+  - How Moovit went from opportunity to a $900M exit in 8 years
+      <hr/>
+      
+      - *Now a private investor, former Moovit president Omar Téllez offers a look inside the company's early growth strategy, its efforts to achieve product-market fit and how rapid growth in Latin America sparked its rapid ascent.*
+      
   - Twitter now lets everyone limit replies to their Tweets
       <hr/>
       
       - *Twitter may describe itself as the town square, but that doesn’t mean you have to talk to everyone walking past your seat at the cafe. Today, to increase the amount of “meaningful conversations” that take place on Twitter, and to help people weed out abuse an…*
-      
+       
   - Airbnb could file to go public this month
       <hr/>
-      
-      - *According to the Wall Street Journal, Airbnb could file confidentially to go public as early as this month. The same report states that Airbnb could follow that filing with an IPO before year’s end. Morgan Stanley and Goldman are helping the former startup wi…*
-      
-  - Valence, the site dedicated to increasing economic opportunity for the Black community, raises $5.25 million
-      <hr/>
-      
-      - *Valence, the Los Angeles-based online community dedicated to increasing economic opportunity for the Black community, has raised $5.25 million in financing as it looks to continue to expand its network for Black professionals in all fields. The timing for the…*
        
-  - Accessing social groups through referrals
-      <hr/>
-       
-       - *For higher response rates, mirror your prospect by having a person with the same job title from your own team reach out.*
+       - *According to the Wall Street Journal, Airbnb could file confidentially to go public as early as this month. The same report states that Airbnb could follow that filing with an IPO before year’s end. Morgan Stanley and Goldman are helping the former startup wi…*
       
 
 
