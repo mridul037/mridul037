@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 
-~ Albert Einstein
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ All of our exalted technological progress, civilization for that matter, is comp
 
 </pre>
 **Daily News**
-  - Google rolls out virtual business card in India to take on LinkedIn
+  - Power electronics and wireless charging startup Eggtronic raises $10M Series A
      <hr/>
      
-      - *Google has rolled out a new Search feature in India that enables influencers, entrepreneurs, freelancers, or anyone else who wants to be easily discovered online create a virtual visiting card in what appears to be the company’s latest attempt to bring more o…*
+      - *Eggtronic, the Italy-founded startup developing power electronics, wireless charging and data over power technology and products, has closed around $10 million in Series A funding. Backing the company is Rinkelberg Capital — the investment fund from the found…*
      
+  - Google rolls out virtual business card in India to take on LinkedIn
+      <hr/>
+      
+      - *Google has rolled out a new Search feature in India that enables influencers, entrepreneurs, freelancers, or anyone else who wants to be easily discovered online create a virtual visiting card in what appears to be the company’s latest attempt to bring more o…*
+      
   - Singapore's trade finance startup Incomlend raises $20M led by Sequoia Capital India
       <hr/>
       
@@ -81,16 +86,11 @@ All of our exalted technological progress, civilization for that matter, is comp
       <hr/>
       
       - *The war between two of China’s largest esports companies may soon come to a truce at the will of their investor Tencent. Tencent, the world’s biggest games publisher, announced late Monday a proposal to consolidate Douyu and Huya, the competing livestreaming …*
-      
+       
   - Daily Crunch: Trying on Apple's watchOS 7
       <hr/>
-      
-      - *The public beta of watchOS 7 is here, Amazon may be looking to turn malls into distribution centers and Skillshare raises $66 million. This is your Daily Crunch for August 10, 2020. The big story: Trying on Apple’s watchOS 7 Brian Heater walks us through all …*
        
-  - Y Combinator President Geoff Ralston shares actionable advice for startup founders
-      <hr/>
-       
-       - *Running a startup accelerator comes with a number of occupational hazards, but “skepticism is the easiest thing to fall into when you’ve seen too many companies,” said Y Combinator President Geoff Ralston, “and it’s the thing you have to avoid the most.” Rals…*
+       - *The public beta of watchOS 7 is here, Amazon may be looking to turn malls into distribution centers and Skillshare raises $66 million. This is your Daily Crunch for August 10, 2020. The big story: Trying on Apple’s watchOS 7 Brian Heater walks us through all …*
       
 
 
