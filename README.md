@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 
-~ Ken Thompson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Modern programming scares me in many respects. It confuses me to read a program 
 
 </pre>
 **Daily News**
-  - The next-gen Xbox will ship in November
+  - Daily Crunch: Android phones become earthquake detectors
      <hr/>
      
-      - *The last few months have provided a steady trickle of information about the next Xbox console — or the Xbox Series X, as it’s known. We know what it looks like. We know a lot about what’s inside. We know about over a dozen titles currently being built for it.…*
+      - *Google is using accelerometers in an interesting new way, Twitter allows everyone to limit tweet replies and Mozilla announces major layoffs. This is your Daily Crunch for August 11, 2020. The big story: Android phones become earthquake detectors Google said …*
      
+  - The next-gen Xbox will ship in November
+      <hr/>
+      
+      - *The last few months have provided a steady trickle of information about the next Xbox console — or the Xbox Series X, as it’s known. We know what it looks like. We know a lot about what’s inside. We know about over a dozen titles currently being built for it.…*
+      
   - Tesla announces 5 for 1 share split, rallies 8%
       <hr/>
       
@@ -81,16 +86,11 @@ Modern programming scares me in many respects. It confuses me to read a program 
       <hr/>
       
       - *Tomorrow’s a big day for early-stage startup founders preparing to exhibit in Digital Startup Alley at Disrupt 2020. We’re kicking off the first of three exclusive, interactive webinars to help exhibitors make the most of their Startup Alley experience. Tune …*
-      
+       
   - 'Stalkerware' phone spying apps have escaped Google's ad ban
       <hr/>
-      
-      - *Several well-known stalkerware apps were still advertising after Google imposed its new rules.*
        
-  - Zin Boats reinvents the electric speedboat in a bid to become the Tesla of the sea
-      <hr/>
-       
-       - *The automotive industry is knee deep in the vast transition to electric, but one place where gas is still going strong is out on the water. Zin Boats wants to start what you might call a sea change by proving, as Tesla did before it, that an electric boat is …*
+       - *Several well-known stalkerware apps were still advertising after Google imposed its new rules.*
       
 
 
