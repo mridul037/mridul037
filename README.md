@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Alan Perlis
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Educators, generals, dieticians, psychologists, and parents program. Armies, stu
 
 </pre>
 **Daily News**
-  - Focusing on human and climate health, S2G Ventures launches ocean fund with $100 million in commitments
+  - Parabola no-code platform raises $8M Series A as it focuses on eCommerce
      <hr/>
      
-      - *S2G Ventures, the Chicago-based investment firm focusing on startups developing technology and services for human and planetary health, is launching a new investment vehicle focused on seafood and oceanic cultivation. The firm was an investor in Beyond Meat, …*
+      - *Many workers today are still stuck doing a bushel of manual tasks, copying and pasting data into spreadsheets, sending out the same emails every morning and generally lacking any kind of automation because they lack coding skills. Parabola wants to change tha…*
      
+  - TikTok is being investigated by France's data watchdog
+      <hr/>
+      
+      - *More worries for TikTok: A European data watchdog that’s landed the biggest blow on a tech giant to date — slapping Google with a $57M fine last year (upheld in June) — now has an open investigation into the social video app du jour, TechCrunch has confirmed.…*
+      
+  - Building a fintech giant is very expensive
+      <hr/>
+      
+      - *Venture capitalists and other investors have poured capital into fintech startups around the world in recent years, including a record number of rounds worth $100 million or more in the second quarter of 2020. In Q2 2020 venture-backed fintech startups raised…*
+      
+  - Focusing on human and climate health, S2G Ventures launches ocean fund with $100 million in commitments
+      <hr/>
+      
+      - *S2G Ventures, the Chicago-based investment firm focusing on startups developing technology and services for human and planetary health, is launching a new investment vehicle focused on seafood and oceanic cultivation. The firm was an investor in Beyond Meat, …*
+       
   - Nurx has $22.5 million in new money, a path to profitability, and new treatments for migraines on the way
       <hr/>
-      
-      - *As the COVID-19 epidemic spread across the US earlier this year, Nurx, like most other digital providers of healthcare and prescription services saw a huge spike in demand. Now, with $22.5 million in new financing and a surging annual run rate that could see …*
-      
-  - Google's Lookout app for vision-impaired now scans food labels and long documents
-      <hr/>
-      
-      - *Google has updated its Lookout app, an AI toolkit for people with impaired vision, with two helpful new capabilities: scanning long documents and reading out food labels. Paper forms and similarly-shaped products at the store present a challenge for blind fol…*
-      
-  - With former Misfit founder Sonny Vu at the helm, Arevo raises $25 million for its 3D printing tech
-      <hr/>
-      
-      - *Sonny Vu, the former founder and chief executive of the wearable technology company, Misfit, has had a busy summer since he was named the new chief executive of 3D printing technology company, Arevo. Vu’s new startup brought on a new executive management team…*
        
-  - Google is turning Android Phones into seismometers
-      <hr/>
-       
-       - *Google is launching a handful of new Android features today that don’t really have a lot in common but that are all interesting in their own right. There are updates to Android Auto and Android’s emergency location service, new accessibility features thanks t…*
+       - *As the COVID-19 epidemic spread across the US earlier this year, Nurx, like most other digital providers of healthcare and prescription services saw a huge spike in demand. Now, with $22.5 million in new financing and a surging annual run rate that could see …*
       
 
 
