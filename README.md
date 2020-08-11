@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 
-~ Donald Knuth
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 
 </pre>
 **Daily News**
-  - 9 Berlin-based VCs discuss how COVID-19 has changed the landscape
+  - Dell's latest Chromebook blends enterprise security with premium specs
      <hr/>
      
-      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
+      - *The latest Dell Chromebook is designed for the at-home worker who still needs to connect to corporate systems. The Latitude 7410 Chromebook Enterprise boasts some of the best spec available on any Chromebook and comes loaded with Dell’s enterprise platform th…*
      
+  - Parsable scores $60M Series D as pandemic forces faster digitization of industrial sector
+      <hr/>
+      
+      - *It seems the pandemic has forced the business world to digitize faster, and the industrial sector is no different. Parsable, a San Francisco startup that is helping digitize industrial front line workers, announced a $60 million Series D today. Activate Capit…*
+      
+  - Atomwise's machine learning-based drug discovery service raises $123 million
+      <hr/>
+      
+      - *With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small …*
+      
+  - 9 Berlin-based VCs discuss how COVID-19 has changed the landscape
+      <hr/>
+      
+      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
+       
   - Court finds some fault with UK police force's use of facial recognition tech
       <hr/>
-      
-      - *Civil rights campaigners in the UK have won a legal challenge to South Wales Police’s (SWP) use of facial recognition technology. The win on appeal is being hailed as a “world-first” victory in the fight against the use of an “oppressive surveillance tool”, a…*
-      
-  - Tencent and Universal Music to take Chinese artists global under joint label
-      <hr/>
-      
-      - *Digital entertainment titan Tencent continues to drum up its music ambitions. On Tuesday, Tencent Music Entertainment, majority-owned by Tencent with a 55.6% stake, announced establishing a new joint label with its licensing partner Universal Music Group to d…*
-      
-  - Vitesse, a fintech providing real-time cross-border payments for businesses, scores £6.6M Series A
-      <hr/>
-      
-      - *Vitesse, the London-based fintech that offers real-time cross-border payments for businesses, has raised £6.6 million in Series A funding. The round is led by Octopus Ventures, with participation from existing backers including Hoxton Ventures and various ang…*
        
-  - EU-US Privacy Shield is dead. Long live Privacy Shield
-      <hr/>
-       
-       - *As the saying goes, insanity is doing the same thing over and over again and expecting different results. And so we arrive at the news, put out yesterday in the horse latitudes of summer via joint press statement, that the EU’s executive body and the US Depar…*
+       - *Civil rights campaigners in the UK have won a legal challenge to South Wales Police’s (SWP) use of facial recognition technology. The win on appeal is being hailed as a “world-first” victory in the fight against the use of an “oppressive surveillance tool”, a…*
       
 
 
