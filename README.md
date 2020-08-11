@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Bill Gates
+~ Pamela Zave
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Our goals are very simple. We're going to create the software that puts a comput
 
 </pre>
 **Daily News**
-  - Parabola no-code platform raises $8M Series A as it focuses on eCommerce
+  - Back to school sale: Students can join Extra Crunch for $50 per year
      <hr/>
      
-      - *Many workers today are still stuck doing a bushel of manual tasks, copying and pasting data into spreadsheets, sending out the same emails every morning and generally lacking any kind of automation because they lack coding skills. Parabola wants to change tha…*
+      - *The summer is coming to an end, and fall is almost here. Which means it’s time for students to “return” to school. To help those looking to get ahead, we are offering an annual Extra Crunch membership to students for $50 off. That’s a full year of Extra Crunc…*
      
+  - Mozilla lays off 250
+      <hr/>
+      
+      - *Mozilla today announced a major restructuring of its commercial arm, the Mozilla Corporation that will see about 250 employees lose their jobs and the shuttering of the organization’s operations in Taipei, Taiwan. This move comes after the organization alread…*
+      
+  - Join Extra Crunch Live today for a fintech extravaganza with Wealthfront’s Andy Rachleff at 1pm EDT / 10am PDT
+      <hr/>
+      
+      - *Fintech is quite possibly the hottest investment area in the venture world these days, and that is why we are so excited to have one of the world’s leading operators and investors talk more about the future of fintech, wealth management, neobanks, infrastruct…*
+      
+  - Parabola no-code platform raises $8M Series A as it focuses on eCommerce
+      <hr/>
+      
+      - *Many workers today are still stuck doing a bushel of manual tasks, copying and pasting data into spreadsheets, sending out the same emails every morning and generally lacking any kind of automation because they lack coding skills. Parabola wants to change tha…*
+       
   - TikTok is being investigated by France's data watchdog
       <hr/>
-      
-      - *More worries for TikTok: A European data watchdog that’s landed the biggest blow on a tech giant to date — slapping Google with a $57M fine last year (upheld in June) — now has an open investigation into the social video app du jour, TechCrunch has confirmed.…*
-      
-  - Building a fintech giant is very expensive
-      <hr/>
-      
-      - *Venture capitalists and other investors have poured capital into fintech startups around the world in recent years, including a record number of rounds worth $100 million or more in the second quarter of 2020. In Q2 2020 venture-backed fintech startups raised…*
-      
-  - Focusing on human and climate health, S2G Ventures launches ocean fund with $100 million in commitments
-      <hr/>
-      
-      - *S2G Ventures, the Chicago-based investment firm focusing on startups developing technology and services for human and planetary health, is launching a new investment vehicle focused on seafood and oceanic cultivation. The firm was an investor in Beyond Meat, …*
        
-  - Nurx has $22.5 million in new money, a path to profitability, and new treatments for migraines on the way
-      <hr/>
-       
-       - *As the COVID-19 epidemic spread across the US earlier this year, Nurx, like most other digital providers of healthcare and prescription services saw a huge spike in demand. Now, with $22.5 million in new financing and a surging annual run rate that could see …*
+       - *More worries for TikTok: A European data watchdog that’s landed the biggest blow on a tech giant to date — slapping Google with a $57M fine last year (upheld in June) — now has an open investigation into the social video app du jour, TechCrunch has confirmed.…*
       
 
 
