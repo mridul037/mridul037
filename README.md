@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+Low-level programming is good for the programmer’s soul.
 
-~ Pamela Zave
+~ John Carmack
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The purpose of software engineering is to control complexity, not to create it.
 
 </pre>
 **Daily News**
-  - Back to school sale: Students can join Extra Crunch for $50 per year
+  - With technology to perfect product pitches in digital marketplaces Pattern raises $52 million
      <hr/>
      
-      - *The summer is coming to an end, and fall is almost here. Which means it’s time for students to “return” to school. To help those looking to get ahead, we are offering an annual Extra Crunch membership to students for $50 off. That’s a full year of Extra Crunc…*
+      - *Pattern, a Lehi, Utah-based reseller that offers large and small brands a way to optimize their sales on marketplaces like Amazon, eBay, Walmart and Google Shopping, has raised $52 million in growth funding, the company said. The money, from Ainge Advisory an…*
      
+  - Argo AI co-founder and CEO Bryan Salesky joins us at TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *This year’s TC Sessions: Mobility on October 6 & 7 will be a fantastic opportunity to find out all the latest on advancements in autonomy, micro-mobility, transportation AI and much more. Argo AI co-founder and CEO Bryan Salesky is among the best-positioned p…*
+      
+  - Till raises $8 million to try to prevent evictions
+      <hr/>
+      
+      - *Till, a platform that serves as an intermediary between landlords and renters, has raised an $8 million seed round led by Route 66 Ventures with participation from MetaProp Ventures and NextGen Venture Partners. Till was founded on the premise that people are…*
+      
+  - Back to school sale: Students can join Extra Crunch for $50 per year
+      <hr/>
+      
+      - *The summer is coming to an end, and fall is almost here. Which means it’s time for students to “return” to school. To help those looking to get ahead, we are offering an annual Extra Crunch membership to students for $50 off. That’s a full year of Extra Crunc…*
+       
   - Mozilla lays off 250
       <hr/>
-      
-      - *Mozilla today announced a major restructuring of its commercial arm, the Mozilla Corporation that will see about 250 employees lose their jobs and the shuttering of the organization’s operations in Taipei, Taiwan. This move comes after the organization alread…*
-      
-  - Join Extra Crunch Live today for a fintech extravaganza with Wealthfront’s Andy Rachleff at 1pm EDT / 10am PDT
-      <hr/>
-      
-      - *Fintech is quite possibly the hottest investment area in the venture world these days, and that is why we are so excited to have one of the world’s leading operators and investors talk more about the future of fintech, wealth management, neobanks, infrastruct…*
-      
-  - Parabola no-code platform raises $8M Series A as it focuses on eCommerce
-      <hr/>
-      
-      - *Many workers today are still stuck doing a bushel of manual tasks, copying and pasting data into spreadsheets, sending out the same emails every morning and generally lacking any kind of automation because they lack coding skills. Parabola wants to change tha…*
        
-  - TikTok is being investigated by France's data watchdog
-      <hr/>
-       
-       - *More worries for TikTok: A European data watchdog that’s landed the biggest blow on a tech giant to date — slapping Google with a $57M fine last year (upheld in June) — now has an open investigation into the social video app du jour, TechCrunch has confirmed.…*
+       - *Mozilla today announced a major restructuring of its commercial arm, the Mozilla Corporation that will see about 250 employees lose their jobs and the shuttering of the organization’s operations in Taipei, Taiwan. This move comes after the organization alread…*
       
 
 
