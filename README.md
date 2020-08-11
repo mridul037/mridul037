@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 
-~ Bill Gates
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We're no longer in the days where everything is super well crafted. But at the h
 
 </pre>
 **Daily News**
-  - Dell's latest Chromebook blends enterprise security with premium specs
+  - Focusing on human and climate health, S2G Ventures launches ocean fund with $100 million in commitments
      <hr/>
      
-      - *The latest Dell Chromebook is designed for the at-home worker who still needs to connect to corporate systems. The Latitude 7410 Chromebook Enterprise boasts some of the best spec available on any Chromebook and comes loaded with Dell’s enterprise platform th…*
+      - *S2G Ventures, the Chicago-based investment firm focusing on startups developing technology and services for human and planetary health, is launching a new investment vehicle focused on seafood and oceanic cultivation. The firm was an investor in Beyond Meat, …*
      
-  - Parsable scores $60M Series D as pandemic forces faster digitization of industrial sector
+  - Nurx has $22.5 million in new money, a path to profitability, and new treatments for migraines on the way
       <hr/>
       
-      - *It seems the pandemic has forced the business world to digitize faster, and the industrial sector is no different. Parsable, a San Francisco startup that is helping digitize industrial front line workers, announced a $60 million Series D today. Activate Capit…*
+      - *As the COVID-19 epidemic spread across the US earlier this year, Nurx, like most other digital providers of healthcare and prescription services saw a huge spike in demand. Now, with $22.5 million in new financing and a surging annual run rate that could see …*
       
-  - Atomwise's machine learning-based drug discovery service raises $123 million
+  - Google's Lookout app for vision-impaired now scans food labels and long documents
       <hr/>
       
-      - *With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small …*
+      - *Google has updated its Lookout app, an AI toolkit for people with impaired vision, with two helpful new capabilities: scanning long documents and reading out food labels. Paper forms and similarly-shaped products at the store present a challenge for blind fol…*
       
-  - 9 Berlin-based VCs discuss how COVID-19 has changed the landscape
+  - With former Misfit founder Sonny Vu at the helm, Arevo raises $25 million for its 3D printing tech
       <hr/>
       
-      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
+      - *Sonny Vu, the former founder and chief executive of the wearable technology company, Misfit, has had a busy summer since he was named the new chief executive of 3D printing technology company, Arevo. Vu’s new startup brought on a new executive management team…*
        
-  - Court finds some fault with UK police force's use of facial recognition tech
+  - Google is turning Android Phones into seismometers
       <hr/>
        
-       - *Civil rights campaigners in the UK have won a legal challenge to South Wales Police’s (SWP) use of facial recognition technology. The win on appeal is being hailed as a “world-first” victory in the fight against the use of an “oppressive surveillance tool”, a…*
+       - *Google is launching a handful of new Android features today that don’t really have a lot in common but that are all interesting in their own right. There are updates to Android Auto and Android’s emergency location service, new accessibility features thanks t…*
       
 
 
