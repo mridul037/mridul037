@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Daniel T. Barry
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ There is never enough time to do it right, but there is always enough time to fi
 
 </pre>
 **Daily News**
-  - Singapore's trade finance startup Incomlend raises $20M led by Sequoia Capital India
+  - Google rolls out virtual business card in India to take on LinkedIn
      <hr/>
      
-      - *Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India, the India and SEA investment arm of the storie…*
+      - *Google has rolled out a new Search feature in India that enables influencers, entrepreneurs, freelancers, or anyone else who wants to be easily discovered online create a virtual visiting card in what appears to be the company’s latest attempt to bring more o…*
      
+  - Singapore's trade finance startup Incomlend raises $20M led by Sequoia Capital India
+      <hr/>
+      
+      - *Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India, the India and SEA investment arm of the storie…*
+      
   - Tencent wants to merge China's esports archrivals Douyu and Huya
       <hr/>
       
@@ -81,16 +86,11 @@ There is never enough time to do it right, but there is always enough time to fi
       <hr/>
       
       - *The public beta of watchOS 7 is here, Amazon may be looking to turn malls into distribution centers and Skillshare raises $66 million. This is your Daily Crunch for August 10, 2020. The big story: Trying on Apple’s watchOS 7 Brian Heater walks us through all …*
-      
+       
   - Y Combinator President Geoff Ralston shares actionable advice for startup founders
       <hr/>
-      
-      - *Running a startup accelerator comes with a number of occupational hazards, but “skepticism is the easiest thing to fall into when you’ve seen too many companies,” said Y Combinator President Geoff Ralston, “and it’s the thing you have to avoid the most.” Rals…*
        
-  - Shares of Uber, Lyft drift lower after California judge says that contract drivers are employees
-      <hr/>
-       
-       - *Shares of Uber and Lyft dipped modestly after a California judge granted a preliminary injunction that TechCrunch reports could force the two American ride-hailing companies to reclassify drivers as employees in the state. Uber’s stock is off about 1.3% follo…*
+       - *Running a startup accelerator comes with a number of occupational hazards, but “skepticism is the easiest thing to fall into when you’ve seen too many companies,” said Y Combinator President Geoff Ralston, “and it’s the thing you have to avoid the most.” Rals…*
       
 
 
