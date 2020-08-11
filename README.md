@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+The best minds of my generation are thinking about how to make people click ads.
 
-~ Donald Knuth
+~ Jeff Hammerbacher
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Science is what we understand well enough to explain to a computer. Art is every
 
 </pre>
 **Daily News**
-  - The robots occupying our sidewalks
+  - 'Stalkerware' phone spying apps have escaped Google's ad ban
      <hr/>
      
-      - *Cities and tech companies need to plan for accessibility early in the design process, include disabled people in solutions, and review the many published accessibility guidelines.*
+      - *Several well-known stalkerware apps were still advertising after Google imposed its new rules.*
      
-  - Emergence's Jason Green still sees plenty of opportunities for enterprise SaaS startups
+  - Zin Boats reinvents the electric speedboat in a bid to become the Tesla of the sea
       <hr/>
       
-      - *Jason Green, co-founder and partner at Emergence, has made some solid enterprise SaaS bets over the years, long before it was fashionable to do so. He invested early in companies like Box, ServiceMax, Yammer, SteelBrick and SuccessFactors. Just those companie…*
+      - *The automotive industry is knee deep in the vast transition to electric, but one place where gas is still going strong is out on the water. Zin Boats wants to start what you might call a sea change by proving, as Tesla did before it, that an electric boat is …*
       
-  - How Moovit went from opportunity to a $900M exit in 8 years
+  - No pen required: The digital future of real estate closings
       <hr/>
       
-      - *Now a private investor, former Moovit president Omar Téllez offers a look inside the company's early growth strategy, its efforts to achieve product-market fit and how rapid growth in Latin America sparked its rapid ascent.*
+      - *Every other expense in my life has gone digital, but the most significant purchase I’ve ever made required hundreds of signatures and several handwritten checks delivered in person.*
       
-  - Twitter now lets everyone limit replies to their Tweets
+  - Scribd acquires presentation-sharing service SlideShare from LinkedIn
       <hr/>
       
-      - *Twitter may describe itself as the town square, but that doesn’t mean you have to talk to everyone walking past your seat at the cafe. Today, to increase the amount of “meaningful conversations” that take place on Twitter, and to help people weed out abuse an…*
+      - *SlideShare has a new owner, with LinkedIn selling the presentation-sharing service to Scribd for an undisclosed price. According to LinkedIn, Scribd will take over operation of the SlideShare business on September 24. Scribd CEO Trip Adler argued that the com…*
        
-  - Airbnb could file to go public this month
+  - The robots occupying our sidewalks
       <hr/>
        
-       - *According to the Wall Street Journal, Airbnb could file confidentially to go public as early as this month. The same report states that Airbnb could follow that filing with an IPO before year’s end. Morgan Stanley and Goldman are helping the former startup wi…*
+       - *Cities and tech companies need to plan for accessibility early in the design process, include disabled people in solutions, and review the many published accessibility guidelines.*
       
 
 
