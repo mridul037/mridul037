@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best minds of my generation are thinking about how to make people click ads.
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
-~ Jeff Hammerbacher
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The best minds of my generation are thinking about how to make people click ads.
 
 </pre>
 **Daily News**
-  - 'Stalkerware' phone spying apps have escaped Google's ad ban
+  - Digital Startup Alley exhibitors: Tune in tomorrow for free media training
      <hr/>
      
-      - *Several well-known stalkerware apps were still advertising after Google imposed its new rules.*
+      - *Tomorrow’s a big day for early-stage startup founders preparing to exhibit in Digital Startup Alley at Disrupt 2020. We’re kicking off the first of three exclusive, interactive webinars to help exhibitors make the most of their Startup Alley experience. Tune …*
      
+  - 'Stalkerware' phone spying apps have escaped Google's ad ban
+      <hr/>
+      
+      - *Several well-known stalkerware apps were still advertising after Google imposed its new rules.*
+      
   - Zin Boats reinvents the electric speedboat in a bid to become the Tesla of the sea
       <hr/>
       
@@ -81,16 +86,11 @@ The best minds of my generation are thinking about how to make people click ads.
       <hr/>
       
       - *Every other expense in my life has gone digital, but the most significant purchase I’ve ever made required hundreds of signatures and several handwritten checks delivered in person.*
-      
+       
   - Scribd acquires presentation-sharing service SlideShare from LinkedIn
       <hr/>
-      
-      - *SlideShare has a new owner, with LinkedIn selling the presentation-sharing service to Scribd for an undisclosed price. According to LinkedIn, Scribd will take over operation of the SlideShare business on September 24. Scribd CEO Trip Adler argued that the com…*
        
-  - The robots occupying our sidewalks
-      <hr/>
-       
-       - *Cities and tech companies need to plan for accessibility early in the design process, include disabled people in solutions, and review the many published accessibility guidelines.*
+       - *SlideShare has a new owner, with LinkedIn selling the presentation-sharing service to Scribd for an undisclosed price. According to LinkedIn, Scribd will take over operation of the SlideShare business on September 24. Scribd CEO Trip Adler argued that the com…*
       
 
 
