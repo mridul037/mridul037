@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ John Warnock
+~ Rick Osborne
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
 
 </pre>
 **Daily News**
-  - Industrial-grade VR company Varjo picks up ~$52M in Series C funding
+  - Conduit launches to help founders find actually useful angels and VCs
      <hr/>
      
-      - *Varjo, the Finnish startup that has developed a virtual and mixed reality headset capable of “human-eye resolution” for use in various enterprise applications, has closed a $51.7 million in Series C funding. Backing the round is Tesi, NordicNinja, and Swissca…*
+      - *The bar for being a successful VC just keeps getting higher. With more and more capital sloshing around and not enough founders and startups to invest in, founders are getting the opportunity to be choosier and choosier about who they want to work with on the…*
      
+  - Industrial-grade VR company Varjo picks up ~$52M in Series C funding
+      <hr/>
+      
+      - *Varjo, the Finnish startup that has developed a virtual and mixed reality headset capable of “human-eye resolution” for use in various enterprise applications, has closed a $51.7 million in Series C funding. Backing the round is Tesi, NordicNinja, and Swissca…*
+      
   - Microsoft’s dual-screen Surface Duo arrives September 10 for $1,399
       <hr/>
       
@@ -81,16 +86,11 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
       <hr/>
       
       - *Until late last year social video app TikTok was using an extra layer of encryption to conceal a tactic for tracking Android users via the MAC address of their device which skirted Google’s policies and did not allow users to opt out, The Wall Street Journal …*
-      
+       
   - Digital mortgage company Habito completes £35M Series C
       <hr/>
-      
-      - *Habito, the London startup that has spent the last few years moving the mortgage process online, including offering its own mortgages beyond acting as a broker, has completed £35 million in Series C funding. The newly disclosed round — comprising an earlier S…*
        
-  - La Famiglia outs new €50M fund to back seed-stage European B2B startups
-      <hr/>
-       
-       - *La Famiglia, the Berlin-based “female-led” VC firm that invests in European B2B tech startups at seed-stage, has raised a second fund totalling €50 million, up from its debut fund of €35 million in 2017. Investors in La Famiglia have ties to numerous industry…*
+       - *Habito, the London startup that has spent the last few years moving the mortgage process online, including offering its own mortgages beyond acting as a broker, has completed £35 million in Series C funding. The newly disclosed round — comprising an earlier S…*
       
 
 
