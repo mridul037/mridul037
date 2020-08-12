@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
 
-~ Tim Berners-Lee
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I just had to take the hypertext idea and connect it to the TCP and DNS ideas an
 
 </pre>
 **Daily News**
-  - Triplebyte incubates ColorStack to increase Black and Latinx representation in CS programs
+  - Save with group discounts to TC Sessions: Mobility 2020
      <hr/>
      
-      - *Triplebyte, a technical recruiting platform that emphasizes a candidate’s skills rather than background, has incubated non-profit ColorStack, which aims to increase the number of Black and Latinx people enrolled in computer science programs. ColorStack, a men…*
+      - *If you’re tech-obsessed about the future of moving people, products and packages around the world, you do not want to miss TC Sessions: Mobility 2020 on Oct. 6-7. Two packed days of online programming feature the people leading the charge — creative thinkers,…*
      
-  - The race to building a fully functional quantum stack
+  - When you need content to build links, use social proof of concept
       <hr/>
       
-      - *As we approach the age of quantum computing, it is no longer a question of ‘if,’ but rather one of ‘when’ this technology finally matures and ‘who’ will lead this emerging industry.*
+      - *Look at what type of topics, methodologies, designs, etc. have performed impressively in the past, learn from what they did and didn’t do well — then create something even better.*
       
-  - Square's Cash App tests new feature allowing users to borrow up to $200
+  - Uber CEO says service faces temporary shutdown in California over worker reclassification ruling
       <hr/>
       
-      - *Cash App, the peer-to-peer payments service from Square, is giving select users a way to get short-term loans. The company said it’s only testing the feature with around 1,000 users for now. But it could become more broadly available — and there are probably …*
+      - *Uber could be forced to shut down its ride-hailing app in California for several months if a court doesn’t overturn a recent ruling that classifies its drivers as full-time employees, CEO Dara Khosrowshahi said in an interview with MSNBC. “It’s hard to believ…*
       
-  - Mammoth Biosciences lands exclusive license to new CRISPR proteins that could boost gene editing precision
+  - Dog food startup Sundays launches its air-dried kibble alternative
       <hr/>
       
-      - *CRISPR pioneer Mammoth Biosciences has secured an exclusive license to a new family of CRISPR proteins, from UC Berkeley, which covers R&D and commercialization across all potential fields. This is a significant addition to Mammoth’s intellectual property hol…*
+      - *Michael Waxman, co-founder and CEO of dog food startup Sundays, acknowledged that dog owners have no shortage of options when it comes to feeding their beloved pets — but he still thinks there’s room for something new. “There’s a sort of ‘Water everywhere, bu…*
        
-  - Merico raises $4.1M for its developer analytics platform
+  - Triplebyte incubates ColorStack to increase Black and Latinx representation in CS programs
       <hr/>
        
-       - *Merico, a startup that gives companies deeper insights into their developers’ productivity and code quality, today announced that it has raised a $4.1 million seed round led by GGV Capital with participation from Legend Star and previous investor Polychain Ca…*
+       - *Triplebyte, a technical recruiting platform that emphasizes a candidate’s skills rather than background, has incubated non-profit ColorStack, which aims to increase the number of Black and Latinx people enrolled in computer science programs. ColorStack, a men…*
       
 
 
