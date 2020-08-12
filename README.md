@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+Before software can be reusable it first has to be usable.
 
-~ Fred Brooks
+~ Ralph Johnson (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Adding people to a software project increases the total effort necessary in thre
 
 </pre>
 **Daily News**
-  - Does  illustrate the power of meme culture in fundraising?
+  - Samsung Galaxy Watch 3 review
      <hr/>
      
-      - *Fundraising was once a formal process. A decade ago, founders would make pilgrimages to the stodgy investor offices that line Sand Hill Road. Now, as the coronavirus ravages the world and venture capital grows as an asset class, a first “yes” can come from an…*
+      - *Samsung makes good smartwatches. The fact tends to get lost in discussions about a category that’s traditionally been so dominated by a single player. Things have shifted a bit of late, globally. Apple’s market share has slipped somewhat and Huawei and Samsun…*
      
+  - What's different about hiring data scientists in 2020?
+      <hr/>
+      
+      - *It’s 2020 and the world has changed remarkably, including in how companies screen data science candidates.*
+      
+  - Does  illustrate the power of meme culture in fundraising?
+      <hr/>
+      
+      - *Fundraising was once a formal process. A decade ago, founders would make pilgrimages to the stodgy investor offices that line Sand Hill Road. Now, as the coronavirus ravages the world and venture capital grows as an asset class, a first “yes” can come from an…*
+      
   - The Philips Hue Play HDMI Sync Box makes any home theater a bit more theatrical
       <hr/>
       
       - *Philips has steadily expanded its Hue line of smart lighting products to cover the entire home, inside and out. But while the ability to remotely control your lighting, including adjusting color, intensity and brightness is great, one of its more recent produ…*
-      
+       
   - Save with group discounts to TC Sessions: Mobility 2020
       <hr/>
-      
-      - *If you’re tech-obsessed about the future of moving people, products and packages around the world, you do not want to miss TC Sessions: Mobility 2020 on Oct. 6-7. Two packed days of online programming feature the people leading the charge — creative thinkers,…*
-      
-  - Uber CEO says service faces temporary shutdown in California over worker reclassification ruling
-      <hr/>
-      
-      - *Uber could be forced to shut down its ride-hailing app in California for several months if a court doesn’t overturn a recent ruling that classifies its drivers as full-time employees, CEO Dara Khosrowshahi said in an interview with MSNBC. “It’s hard to believ…*
        
-  - Dog food startup Sundays launches its air-dried kibble alternative
-      <hr/>
-       
-       - *Michael Waxman, co-founder and CEO of dog food startup Sundays, acknowledged that dog owners have no shortage of options when it comes to feeding their beloved pets — but he still thinks there’s room for something new. “There’s a sort of ‘Water everywhere, bu…*
+       - *If you’re tech-obsessed about the future of moving people, products and packages around the world, you do not want to miss TC Sessions: Mobility 2020 on Oct. 6-7. Two packed days of online programming feature the people leading the charge — creative thinkers,…*
       
 
 
