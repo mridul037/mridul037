@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+A language that doesn't affect the way you think about programming, is not worth knowing.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A programming systems product takes about nine times as much effort as the compo
 
 </pre>
 **Daily News**
-  - La Famiglia outs new €50M fund to back seed-stage European B2B startups
+  - Digital mortgage company Habito completes £35M Series C
      <hr/>
      
-      - *La Famiglia, the Berlin-based “female-led” VC firm that invests in European B2B tech startups at seed-stage, has raised a second fund totalling €50 million, up from its debut fund of €35 million in 2017. Investors in La Famiglia have ties to numerous industry…*
+      - *Habito, the London startup that has spent the last few years moving the mortgage process online, including offering its own mortgages beyond acting as a broker, has completed £35 million in Series C funding. The newly disclosed round — comprising an earlier S…*
      
+  - La Famiglia outs new €50M fund to back seed-stage European B2B startups
+      <hr/>
+      
+      - *La Famiglia, the Berlin-based “female-led” VC firm that invests in European B2B tech startups at seed-stage, has raised a second fund totalling €50 million, up from its debut fund of €35 million in 2017. Investors in La Famiglia have ties to numerous industry…*
+      
   - Former COO sues Pinterest, accusing it of gender discrimination, retaliation and wrongful termination
       <hr/>
       
@@ -81,16 +86,11 @@ A programming systems product takes about nine times as much effort as the compo
       <hr/>
       
       - *Rivian has asked a judge to dismiss a lawsuit filed by Tesla, arguing that two of the three claims in the case fails to state sufficient allegations of trade secret theft and poaching talent and instead was an attempt to malign its reputation and hurt its own…*
-      
+       
   - Kamala Harris brings a view from tech's epicenter to the presidential race
       <hr/>
-      
-      - *Joe Biden’s decision to name California Senator Kamala Harris as his running mate in the quest to unseat President Trump means that the next White House could be occupied not only by a Black woman — a historic milestone by any account — but also by someone wh…*
        
-  - Court dismisses Genius lawsuit over lyrics-scraping by Google
-      <hr/>
-       
-       - *A state court has dismissed a high-profile case showing unsportsmanlike conduct by Google, which was caught red-handed using lyrics obviously scraped from Genius. Unfortunately for the latter, the complaints amount to a copyright violation — which wasn’t what…*
+       - *Joe Biden’s decision to name California Senator Kamala Harris as his running mate in the quest to unseat President Trump means that the next White House could be occupied not only by a Black woman — a historic milestone by any account — but also by someone wh…*
       
 
 
