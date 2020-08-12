@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+Less code equals less bugs.
 
-~ Edsger W. Dijkstra
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If debugging is the process of removing software bugs, then programming must be 
 
 </pre>
 **Daily News**
-  - Former COO sues Pinterest, accusing it of gender discrimination, retaliation and wrongful termination
+  - La Famiglia outs new €50M fund to back seed-stage European B2B startups
      <hr/>
      
-      - *Pinterest’s former chief operating officer has filed a lawsuit accusing the company of gender discrimination. Françoise Brougher, who says she was abruptly fired from the company in April, is suing the company to hold it “accountable for discrimination, retal…*
+      - *La Famiglia, the Berlin-based “female-led” VC firm that invests in European B2B tech startups at seed-stage, has raised a second fund totalling €50 million, up from its debut fund of €35 million in 2017. Investors in La Famiglia have ties to numerous industry…*
      
+  - Former COO sues Pinterest, accusing it of gender discrimination, retaliation and wrongful termination
+      <hr/>
+      
+      - *Pinterest’s former chief operating officer has filed a lawsuit accusing the company of gender discrimination. Françoise Brougher, who says she was abruptly fired from the company in April, is suing the company to hold it “accountable for discrimination, retal…*
+      
   - Rivian fires back at Tesla in lawsuit, accuses automaker of attempting to 'malign its reputation'
       <hr/>
       
@@ -81,16 +86,11 @@ If debugging is the process of removing software bugs, then programming must be 
       <hr/>
       
       - *Joe Biden’s decision to name California Senator Kamala Harris as his running mate in the quest to unseat President Trump means that the next White House could be occupied not only by a Black woman — a historic milestone by any account — but also by someone wh…*
-      
+       
   - Court dismisses Genius lawsuit over lyrics-scraping by Google
       <hr/>
-      
-      - *A state court has dismissed a high-profile case showing unsportsmanlike conduct by Google, which was caught red-handed using lyrics obviously scraped from Genius. Unfortunately for the latter, the complaints amount to a copyright violation — which wasn’t what…*
        
-  - Daily Crunch: Android phones become earthquake detectors
-      <hr/>
-       
-       - *Google is using accelerometers in an interesting new way, Twitter allows everyone to limit tweet replies and Mozilla announces major layoffs. This is your Daily Crunch for August 11, 2020. The big story: Android phones become earthquake detectors Google said …*
+       - *A state court has dismissed a high-profile case showing unsportsmanlike conduct by Google, which was caught red-handed using lyrics obviously scraped from Genius. Unfortunately for the latter, the complaints amount to a copyright violation — which wasn’t what…*
       
 
 
