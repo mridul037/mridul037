@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 
-~ Dan Bricklin
+~ Fred Brooks
 <pre>
 
 </pre>
