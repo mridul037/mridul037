@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The notions of correctness in mathematics and programs are different. A mathemat
 
 </pre>
 **Daily News**
-  - Save with group discounts to TC Sessions: Mobility 2020
+  - Does  illustrate the power of meme culture in fundraising?
      <hr/>
      
-      - *If you’re tech-obsessed about the future of moving people, products and packages around the world, you do not want to miss TC Sessions: Mobility 2020 on Oct. 6-7. Two packed days of online programming feature the people leading the charge — creative thinkers,…*
+      - *Fundraising was once a formal process. A decade ago, founders would make pilgrimages to the stodgy investor offices that line Sand Hill Road. Now, as the coronavirus ravages the world and venture capital grows as an asset class, a first “yes” can come from an…*
      
-  - When you need content to build links, use social proof of concept
+  - The Philips Hue Play HDMI Sync Box makes any home theater a bit more theatrical
       <hr/>
       
-      - *Look at what type of topics, methodologies, designs, etc. have performed impressively in the past, learn from what they did and didn’t do well — then create something even better.*
+      - *Philips has steadily expanded its Hue line of smart lighting products to cover the entire home, inside and out. But while the ability to remotely control your lighting, including adjusting color, intensity and brightness is great, one of its more recent produ…*
+      
+  - Save with group discounts to TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *If you’re tech-obsessed about the future of moving people, products and packages around the world, you do not want to miss TC Sessions: Mobility 2020 on Oct. 6-7. Two packed days of online programming feature the people leading the charge — creative thinkers,…*
       
   - Uber CEO says service faces temporary shutdown in California over worker reclassification ruling
       <hr/>
       
       - *Uber could be forced to shut down its ride-hailing app in California for several months if a court doesn’t overturn a recent ruling that classifies its drivers as full-time employees, CEO Dara Khosrowshahi said in an interview with MSNBC. “It’s hard to believ…*
-      
+       
   - Dog food startup Sundays launches its air-dried kibble alternative
       <hr/>
-      
-      - *Michael Waxman, co-founder and CEO of dog food startup Sundays, acknowledged that dog owners have no shortage of options when it comes to feeding their beloved pets — but he still thinks there’s room for something new. “There’s a sort of ‘Water everywhere, bu…*
        
-  - Triplebyte incubates ColorStack to increase Black and Latinx representation in CS programs
-      <hr/>
-       
-       - *Triplebyte, a technical recruiting platform that emphasizes a candidate’s skills rather than background, has incubated non-profit ColorStack, which aims to increase the number of Black and Latinx people enrolled in computer science programs. ColorStack, a men…*
+       - *Michael Waxman, co-founder and CEO of dog food startup Sundays, acknowledged that dog owners have no shortage of options when it comes to feeding their beloved pets — but he still thinks there’s room for something new. “There’s a sort of ‘Water everywhere, bu…*
       
 
 
