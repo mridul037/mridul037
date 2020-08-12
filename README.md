@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
 
-~ Alan Perlis
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you have a procedure with 10 parameters, you probably missed some.
 
 </pre>
 **Daily News**
-  - Dear Sophie: How can we sponsor H-1B transfers and extensions?
+  - Triplebyte incubates ColorStack to increase Black and Latinx representation in CS programs
      <hr/>
      
-      - *I work in people ops at a startup,. but we have no experience with H-1B visas. What should we know about hiring an H-1B visa holder?*
+      - *Triplebyte, a technical recruiting platform that emphasizes a candidate’s skills rather than background, has incubated non-profit ColorStack, which aims to increase the number of Black and Latinx people enrolled in computer science programs. ColorStack, a men…*
      
-  - Corp card startup Ramp launches expense management software
+  - The race to building a fully functional quantum stack
       <hr/>
       
-      - *TechCrunch caught wind of corporate card startup Ramp back in August of 2019, when the company raised an early round of $7 million. Corp card rival Brex had put together a $100 million round just a few months before, and was en route to raising a huge debt ro…*
+      - *As we approach the age of quantum computing, it is no longer a question of ‘if,’ but rather one of ‘when’ this technology finally matures and ‘who’ will lead this emerging industry.*
       
-  - Find out how TechCrunch is taking Disrupt virtual this Friday
+  - Square's Cash App tests new feature allowing users to borrow up to $200
       <hr/>
       
-      - *Talk about a pivot. The global pandemic rewrote the rules for in-person events, and it set us on a crash course to transform TechCrunch’s annual three-day Disrupt — a conference that draws more than 10,000 attendees — into a 100 percent virtual experience. Da…*
+      - *Cash App, the peer-to-peer payments service from Square, is giving select users a way to get short-term loans. The company said it’s only testing the feature with around 1,000 users for now. But it could become more broadly available — and there are probably …*
       
-  - Stacklet launches cloud governance platform with $4.4M seed investment
+  - Mammoth Biosciences lands exclusive license to new CRISPR proteins that could boost gene editing precision
       <hr/>
       
-      - *Stacklet co-founders Travis Stanfield and Kapil Thangavelu met while both were working at Capital One several years ago. Thangavelu helped create the Cloud Custodian open source cloud governance project. The two eventually got together and decided to build a …*
+      - *CRISPR pioneer Mammoth Biosciences has secured an exclusive license to a new family of CRISPR proteins, from UC Berkeley, which covers R&D and commercialization across all potential fields. This is a significant addition to Mammoth’s intellectual property hol…*
        
-  - UK eyeing disclosure labels for online political campaigning
+  - Merico raises $4.1M for its developer analytics platform
       <hr/>
        
-       - *The UK government is considering changes to the law that would require online political campaign material to carry labels disclosing who is promoting and funding the messaging. The proposal, which is being put through a public consultation until November, fol…*
+       - *Merico, a startup that gives companies deeper insights into their developers’ productivity and code quality, today announced that it has raised a $4.1 million seed round led by GGV Capital with participation from Legend Star and previous investor Polychain Ca…*
       
 
 
