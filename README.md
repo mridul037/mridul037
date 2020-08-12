@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+To iterate is human, to recurse divine.
 
-~ Butler Lampson
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Nobody knows how to build really complicated hardware systems, so designing hard
 
 </pre>
 **Daily News**
-  - Lyft shares get small bump after reporting 61% Q2 revenue decline
+  - Digitizing Burning Man
      <hr/>
      
-      - *Today after the bell, Lyft reported its second-quarter financial performance. The American ride-hailing company’s results helped illustrate just how much the economy has changed in the wake of COVID-19 and its resulting disruptions to life, travel and work. U…*
+      - *For decades, Burning Man has represented an escape from the current reality. An event for free-er spirits to rethink new age ideals inside a stateless entity where art, music and partying reign supreme on the desert plains. Over the years, the Bay Area-founde…*
      
+  - Labster lands new cash to bring its virtual reality science lab software to Asia
+      <hr/>
+      
+      - *You could Zoom call into your science class, or you could conduct a lab experiment in virtual reality. During the coronavirus pandemic, the latter has never felt more full of potential. The global need for learning solutions beyond Zoom is precisely why Labst…*
+      
+  - Lyft shares get small bump after reporting 61% Q2 revenue decline
+      <hr/>
+      
+      - *Today after the bell, Lyft reported its second-quarter financial performance. The American ride-hailing company’s results helped illustrate just how much the economy has changed in the wake of COVID-19 and its resulting disruptions to life, travel and work. U…*
+      
   - Sarah Cooper -- known for her impressions of Donald Trump on TikTok -- just landed a Netflix deal
       <hr/>
       
       - *For writer-comedian Sarah Cooper, the pandemic hasn’t been so terrible. In fact, by making the best of a terrible situation — in this case, opening a TikTok account earlier this year, and proceeding to lip sync to the often-bizarre ramblings of Donald Trump —…*
-      
+       
   - India's first private space launch startup Skyroot succeeds with upper stage engine fire test
       <hr/>
-      
-      - *The private space launch industry has expanded significantly since the debut of SpaceX, but some markets, like India, are just now getting the regulatory support to clear the way for private players to participate. Now that those barriers are coming down, how…*
-      
-  - Samsung Galaxy Watch 3 review
-      <hr/>
-      
-      - *Samsung makes good smartwatches. The fact tends to get lost in discussions about a category that’s traditionally been so dominated by a single player. Things have shifted a bit of late, globally. Apple’s market share has slipped somewhat and Huawei and Samsun…*
        
-  - What's different about hiring data scientists in 2020?
-      <hr/>
-       
-       - *It’s 2020 and the world has changed remarkably, including in how companies screen data science candidates.*
+       - *The private space launch industry has expanded significantly since the debut of SpaceX, but some markets, like India, are just now getting the regulatory support to clear the way for private players to participate. Now that those barriers are coming down, how…*
       
 
 
