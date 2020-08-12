@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Less code equals less bugs.
+The most important part of writing a program is designing the data structures.
 
-~ Kevlin Henney
+~ Dan Bricklin
 <pre>
 
 </pre>
