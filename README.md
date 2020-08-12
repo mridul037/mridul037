@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ George Boole
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ There is not only a close analogy between the operations of the mind in general 
 
 </pre>
 **Daily News**
-  - Rivian fires back at Tesla in lawsuit, accuses automaker of attempting to 'malign its reputation'
+  - Former COO sues Pinterest, accusing it of gender discrimination, retaliation and wrongful termination
      <hr/>
      
-      - *Rivian has asked a judge to dismiss a lawsuit filed by Tesla, arguing that two of the three claims in the case fails to state sufficient allegations of trade secret theft and poaching talent and instead was an attempt to malign its reputation and hurt its own…*
+      - *Pinterest’s former chief operating officer has filed a lawsuit accusing the company of gender discrimination. Françoise Brougher, who says she was abruptly fired from the company in April, is suing the company to hold it “accountable for discrimination, retal…*
      
+  - Rivian fires back at Tesla in lawsuit, accuses automaker of attempting to 'malign its reputation'
+      <hr/>
+      
+      - *Rivian has asked a judge to dismiss a lawsuit filed by Tesla, arguing that two of the three claims in the case fails to state sufficient allegations of trade secret theft and poaching talent and instead was an attempt to malign its reputation and hurt its own…*
+      
   - Kamala Harris brings a view from tech's epicenter to the presidential race
       <hr/>
       
@@ -81,16 +86,11 @@ There is not only a close analogy between the operations of the mind in general 
       <hr/>
       
       - *A state court has dismissed a high-profile case showing unsportsmanlike conduct by Google, which was caught red-handed using lyrics obviously scraped from Genius. Unfortunately for the latter, the complaints amount to a copyright violation — which wasn’t what…*
-      
+       
   - Daily Crunch: Android phones become earthquake detectors
       <hr/>
-      
-      - *Google is using accelerometers in an interesting new way, Twitter allows everyone to limit tweet replies and Mozilla announces major layoffs. This is your Daily Crunch for August 11, 2020. The big story: Android phones become earthquake detectors Google said …*
        
-  - The next-gen Xbox will ship in November
-      <hr/>
-       
-       - *The last few months have provided a steady trickle of information about the next Xbox console — or the Xbox Series X, as it’s known. We know what it looks like. We know a lot about what’s inside. We know about over a dozen titles currently being built for it.…*
+       - *Google is using accelerometers in an interesting new way, Twitter allows everyone to limit tweet replies and Mozilla announces major layoffs. This is your Daily Crunch for August 11, 2020. The big story: Android phones become earthquake detectors Google said …*
       
 
 
