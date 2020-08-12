@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-To iterate is human, to recurse divine.
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 
-~ L. Peter Deutsch
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ To iterate is human, to recurse divine.
 
 </pre>
 **Daily News**
-  - Digitizing Burning Man
+  - Minted.com CEO Mariam Naficy shares 'the biggest surprise about entrepreneurship'
      <hr/>
      
-      - *For decades, Burning Man has represented an escape from the current reality. An event for free-er spirits to rethink new age ideals inside a stateless entity where art, music and partying reign supreme on the desert plains. Over the years, the Bay Area-founde…*
+      - *At TechCrunch Early Stage, Minted CEO and serial founder Mariam Naficy got into the weeds with us on some of the topics founders don’t often discuss. What’s the difference between expectations and reality when it comes to entrepreneurialism? How do you split …*
      
+  - Daily Crunch: Uber CEO says CA shutdown may be necessary
+      <hr/>
+      
+      - *Uber’s CEO pushes back against a potential reclassification of drivers, a former COO sues Pinterest and Microsoft reveals details about the Surface Duo. This is your Daily Crunch for August 12, 2020. The big story: Uber CEO says CA shutdown could be necessary…*
+      
+  - Digitizing Burning Man
+      <hr/>
+      
+      - *For decades, Burning Man has represented an escape from the current reality. An event for free-er spirits to rethink new age ideals inside a stateless entity where art, music and partying reign supreme on the desert plains. Over the years, the Bay Area-founde…*
+      
   - Labster lands new cash to bring its virtual reality science lab software to Asia
       <hr/>
       
       - *You could Zoom call into your science class, or you could conduct a lab experiment in virtual reality. During the coronavirus pandemic, the latter has never felt more full of potential. The global need for learning solutions beyond Zoom is precisely why Labst…*
-      
+       
   - Lyft shares get small bump after reporting 61% Q2 revenue decline
       <hr/>
-      
-      - *Today after the bell, Lyft reported its second-quarter financial performance. The American ride-hailing company’s results helped illustrate just how much the economy has changed in the wake of COVID-19 and its resulting disruptions to life, travel and work. U…*
-      
-  - Sarah Cooper -- known for her impressions of Donald Trump on TikTok -- just landed a Netflix deal
-      <hr/>
-      
-      - *For writer-comedian Sarah Cooper, the pandemic hasn’t been so terrible. In fact, by making the best of a terrible situation — in this case, opening a TikTok account earlier this year, and proceeding to lip sync to the often-bizarre ramblings of Donald Trump —…*
        
-  - India's first private space launch startup Skyroot succeeds with upper stage engine fire test
-      <hr/>
-       
-       - *The private space launch industry has expanded significantly since the debut of SpaceX, but some markets, like India, are just now getting the regulatory support to clear the way for private players to participate. Now that those barriers are coming down, how…*
+       - *Today after the bell, Lyft reported its second-quarter financial performance. The American ride-hailing company’s results helped illustrate just how much the economy has changed in the wake of COVID-19 and its resulting disruptions to life, travel and work. U…*
       
 
 
