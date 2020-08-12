@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
-~ Fred Brooks
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
 
 </pre>
 **Daily News**
-  - Daily Crunch: Android phones become earthquake detectors
+  - Court dismisses Genius lawsuit over lyrics-scraping by Google
      <hr/>
      
-      - *Google is using accelerometers in an interesting new way, Twitter allows everyone to limit tweet replies and Mozilla announces major layoffs. This is your Daily Crunch for August 11, 2020. The big story: Android phones become earthquake detectors Google said …*
+      - *A state court has dismissed a high-profile case showing unsportsmanlike conduct by Google, which was caught red-handed using lyrics obviously scraped from Genius. Unfortunately for the latter, the complaints amount to a copyright violation — which wasn’t what…*
      
+  - Daily Crunch: Android phones become earthquake detectors
+      <hr/>
+      
+      - *Google is using accelerometers in an interesting new way, Twitter allows everyone to limit tweet replies and Mozilla announces major layoffs. This is your Daily Crunch for August 11, 2020. The big story: Android phones become earthquake detectors Google said …*
+      
   - The next-gen Xbox will ship in November
       <hr/>
       
@@ -81,16 +86,11 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
       <hr/>
       
       - *Today after the close of regular trading Tesla, a well-known American electric vehicle company, announced that it intends to split its shares 5 for 1. The split announcement comes after a sharp rally in the value of Tesla equity in recent quarters. The compan…*
-      
+       
   - Digital Startup Alley exhibitors: Tune in tomorrow for free media training
       <hr/>
-      
-      - *Tomorrow’s a big day for early-stage startup founders preparing to exhibit in Digital Startup Alley at Disrupt 2020. We’re kicking off the first of three exclusive, interactive webinars to help exhibitors make the most of their Startup Alley experience. Tune …*
        
-  - 'Stalkerware' phone spying apps have escaped Google's ad ban
-      <hr/>
-       
-       - *Several well-known stalkerware apps were still advertising after Google imposed its new rules.*
+       - *Tomorrow’s a big day for early-stage startup founders preparing to exhibit in Digital Startup Alley at Disrupt 2020. We’re kicking off the first of three exclusive, interactive webinars to help exhibitors make the most of their Startup Alley experience. Tune …*
       
 
 
