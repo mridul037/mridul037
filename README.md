@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Richard E. Pattis
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When debugging, novices insert corrective code; experts remove defective code.
 
 </pre>
 **Daily News**
-  - UK eyeing disclosure labels for online political campaigning
+  - Dear Sophie: How can we sponsor H-1B transfers and extensions?
      <hr/>
      
-      - *The UK government is considering changes to the law that would require online political campaign material to carry labels disclosing who is promoting and funding the messaging. The proposal, which is being put through a public consultation until November, fol…*
+      - *I work in people ops at a startup,. but we have no experience with H-1B visas. What should we know about hiring an H-1B visa holder?*
      
-  - Duck Creek seeks $3B valuation for its software IPO
+  - Corp card startup Ramp launches expense management software
       <hr/>
       
-      - *American software company Duck Creek has upped the stakes in its impending IPO, raising its price target from a range of $19 to $21 per share to $23 to $25 per share. The bump comes as software and cloud stocks have fallen more than 10% from recent highs, put…*
+      - *TechCrunch caught wind of corporate card startup Ramp back in August of 2019, when the company raised an early round of $7 million. Corp card rival Brex had put together a $100 million round just a few months before, and was en route to raising a huge debt ro…*
       
-  - The Oura Ring is the personal health tracking device to beat in 2020
+  - Find out how TechCrunch is taking Disrupt virtual this Friday
       <hr/>
       
-      - *The Oura Ring has been getting a lot of attention lately because of its role in a number of COVID-19 studies, as well as its adoption by both the NBA and WNBA as a potential tool for helping prevent any outbreaks of the novel coronavirus as those two leagues …*
+      - *Talk about a pivot. The global pandemic rewrote the rules for in-person events, and it set us on a crash course to transform TechCrunch’s annual three-day Disrupt — a conference that draws more than 10,000 attendees — into a 100 percent virtual experience. Da…*
       
-  - Gong raises another $200M on $2.2B valuation
+  - Stacklet launches cloud governance platform with $4.4M seed investment
       <hr/>
       
-      - *For the third time since last February, Gong has raised a significant sum. In February, the company scored $40 million. In December, it grabbed another $65 million, and today it was $200 million on a $2.2 billion valuation. That’s a total of $305 million in l…*
+      - *Stacklet co-founders Travis Stanfield and Kapil Thangavelu met while both were working at Capital One several years ago. Thangavelu helped create the Cloud Custodian open source cloud governance project. The two eventually got together and decided to build a …*
        
-  - Personal training sessions come to ClassPass
+  - UK eyeing disclosure labels for online political campaigning
       <hr/>
        
-       - *As the coronavirus hampers the fitness industry, leading to a rapid evolution toward digital classes, ClassPass is pressing onward with its product roadmap, albeit a bit ahead of schedule. The company, which has raised more than $500 million from investors su…*
+       - *The UK government is considering changes to the law that would require online political campaign material to carry labels disclosing who is promoting and funding the messaging. The proposal, which is being put through a public consultation until November, fol…*
       
 
 
