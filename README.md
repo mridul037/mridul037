@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+Dealing with failure is easy: Work hard to improve.
 
 ~ Alan Perlis
 <pre>
