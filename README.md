@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Kevlin Henney
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
