@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think there is a world market for maybe five
-computers.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Thomas J. Watson
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -68,11 +67,16 @@ computers.
 
 </pre>
 **Daily News**
-  - Kamala Harris brings a view from tech's epicenter to the presidential race
+  - Rivian fires back at Tesla in lawsuit, accuses automaker of attempting to 'malign its reputation'
      <hr/>
      
-      - *Joe Biden’s decision to name California Senator Kamala Harris as his running mate in the quest to unseat President Trump means that the next White House could be occupied not only by a Black woman — a historic milestone by any account — but also by someone wh…*
+      - *Rivian has asked a judge to dismiss a lawsuit filed by Tesla, arguing that two of the three claims in the case fails to state sufficient allegations of trade secret theft and poaching talent and instead was an attempt to malign its reputation and hurt its own…*
      
+  - Kamala Harris brings a view from tech's epicenter to the presidential race
+      <hr/>
+      
+      - *Joe Biden’s decision to name California Senator Kamala Harris as his running mate in the quest to unseat President Trump means that the next White House could be occupied not only by a Black woman — a historic milestone by any account — but also by someone wh…*
+      
   - Court dismisses Genius lawsuit over lyrics-scraping by Google
       <hr/>
       
@@ -82,16 +86,11 @@ computers.
       <hr/>
       
       - *Google is using accelerometers in an interesting new way, Twitter allows everyone to limit tweet replies and Mozilla announces major layoffs. This is your Daily Crunch for August 11, 2020. The big story: Android phones become earthquake detectors Google said …*
-      
+       
   - The next-gen Xbox will ship in November
       <hr/>
-      
-      - *The last few months have provided a steady trickle of information about the next Xbox console — or the Xbox Series X, as it’s known. We know what it looks like. We know a lot about what’s inside. We know about over a dozen titles currently being built for it.…*
        
-  - Tesla announces 5 for 1 share split, rallies 8%
-      <hr/>
-       
-       - *Today after the close of regular trading Tesla, a well-known American electric vehicle company, announced that it intends to split its shares 5 for 1. The split announcement comes after a sharp rally in the value of Tesla equity in recent quarters. The compan…*
+       - *The last few months have provided a steady trickle of information about the next Xbox console — or the Xbox Series X, as it’s known. We know what it looks like. We know a lot about what’s inside. We know about over a dozen titles currently being built for it.…*
       
 
 
