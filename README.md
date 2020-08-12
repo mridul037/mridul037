@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Rick Osborne
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
 
 </pre>
 **Daily News**
-  - Conduit launches to help founders find actually useful angels and VCs
+  - The Oura Ring is the personal health tracking device to beat in 2020
      <hr/>
      
-      - *The bar for being a successful VC just keeps getting higher. With more and more capital sloshing around and not enough founders and startups to invest in, founders are getting the opportunity to be choosier and choosier about who they want to work with on the…*
+      - *The Oura Ring has been getting a lot of attention lately because of its role in a number of COVID-19 studies, as well as its adoption by both the NBA and WNBA as a potential tool for helping prevent any outbreaks of the novel coronavirus as those two leagues …*
      
-  - Industrial-grade VR company Varjo picks up ~$52M in Series C funding
+  - Gong raises another $200M on $2.2B valuation
       <hr/>
       
-      - *Varjo, the Finnish startup that has developed a virtual and mixed reality headset capable of “human-eye resolution” for use in various enterprise applications, has closed a $51.7 million in Series C funding. Backing the round is Tesi, NordicNinja, and Swissca…*
+      - *For the third time since last February, Gong has raised a significant sum. In February, the company scored $40 million. In December, it grabbed another $65 million, and today it was $200 million on a $2.2 billion valuation. That’s a total of $305 million in l…*
       
-  - Microsoft’s dual-screen Surface Duo arrives September 10 for $1,399
+  - Personal training sessions come to ClassPass
       <hr/>
       
-      - *I can’t recall the last time people were this intrigued by a (non-Xbox) piece of Microsoft hardware. Announced a little under a year ago amid a deluge of new devices, the Surface Duo turned a lot of heads, leaving many wondering whether the product amounted t…*
+      - *As the coronavirus hampers the fitness industry, leading to a rapid evolution toward digital classes, ClassPass is pressing onward with its product roadmap, albeit a bit ahead of schedule. The company, which has raised more than $500 million from investors su…*
       
-  - TikTok found to have tracked Android users' MAC addresses until late last year
+  - Adaptive Shield raises $4M for its SaaS security platform
       <hr/>
       
-      - *Until late last year social video app TikTok was using an extra layer of encryption to conceal a tactic for tracking Android users via the MAC address of their device which skirted Google’s policies and did not allow users to opt out, The Wall Street Journal …*
+      - *Adaptive Shield, a Tel Aviv-based security startup, is coming out of stealth today and announcing its $4 million seed round led by Vertex Ventures Israel. The company’s platform helps businesses protect their SaaS applications by regularly scanning their vari…*
        
-  - Digital mortgage company Habito completes £35M Series C
+  - Conduit launches to help founders find actually useful angels and VCs
       <hr/>
        
-       - *Habito, the London startup that has spent the last few years moving the mortgage process online, including offering its own mortgages beyond acting as a broker, has completed £35 million in Series C funding. The newly disclosed round — comprising an earlier S…*
+       - *The bar for being a successful VC just keeps getting higher. With more and more capital sloshing around and not enough founders and startups to invest in, founders are getting the opportunity to be choosier and choosier about who they want to work with on the…*
       
 
 
