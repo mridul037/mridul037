@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 
-~ Stewart Brand
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Once a new technology starts rolling, if you’re not part of the steamroller, y
 
 </pre>
 **Daily News**
-  - Mission Bio raises $70 million to help scale its tech for improving the development of targeted cancer therapies
+  - Starting with Michigan, Sidewalk Infrastructure is looking to build roads specifically for autonomous cars
      <hr/>
      
-      - *California-based startup Mission Bio has raised a new $70 million Series C funding round, led by Novo Growth and including participating from Soleus Capital and existing investors Mayfield, Cota and Agilent. Mission Bio will use the funding to scale its Tapes…*
+      - *Sidewalk Infrastructure Partners, which spun out of Alphabet’s Sidewalk Labs to fund and develop the next generation of infrastructure, has taken the covers off of its first big project — the launch of a subsidiary called Cavnue to develop roadways for connec…*
      
-  - Mirantis acquires Lens, an IDE for Kubernetes
+  - Digital imaging pioneer Russell Kirsch dies at 91
       <hr/>
       
-      - *Mirantis, the company that recently bought Docker’s enterprise business, today announced that it has acquired Lens, a desktop application that the team describes as a Kubernetes integrated development environment. Mirantis previously acquired the team behind …*
+      - *Russell Kirsch, whose research going back to the ’50s underlies the entire field of digital imaging, died earlier this week at the age of 91. It’s hard to overstate the impact of his work, which led to the first digitally scanned photo and the creation of wha…*
       
-  - Slack and Atlassian deepen their partnership with deeper integrations
+  - Despite a difficult Q2 2020, Lyft and Uber reiterate profit promises
       <hr/>
       
-      - *A lot of “partnerships” between tech companies don’t get very far beyond a press release and maybe some half-hearted co-selling attempts. When Atlassian sold its chat services to Slack in 2018, the two companies said they would form a new partnership and with…*
+      - *Lyft is sticking to its previous target to hit quarterly adjusted profitability by the fourth period of 2021, a milestone it says it can achieve even with fewer rides. The company reiterated its quarterly adjusted profit target timeline — a milestone based on…*
       
-  - Ready, set, network: CrunchMatch is open for Disrupt 2020
+  - Six Toronto VCs discuss COVID-19 and the post-pandemic era
       <hr/>
       
-      - *We’re so excited about today’s news that we’re stealing, ahem, borrowing boxing announcer Michael Buffer’s famous catchphrase, “Let’s get ready to rumble!” CrunchMatch, our free networking platform is up and ready to help you build your business and expand yo…*
+      - *As North America’s fourth-largest city, Toronto is one of the world’s top startup ecosystems. After spawning companies like Eventbrite and Crowdmark, Ontario’s capital has attracted international talent that complements its homegrown population of entrepreneu…*
        
-  - AMC will offer 15 cent tickets when it reopens 100+ US theaters on August 20
+  - Mission Bio raises $70 million to help scale its tech for improving the development of targeted cancer therapies
       <hr/>
        
-       - *Like so many industries, the last five months have been absolutely devastating for movie theaters. As far as sheer volumes go, no one has been harder hit than the world’s largest theater chain. AMC has had plans to reopen theaters for some time — but things c…*
+       - *California-based startup Mission Bio has raised a new $70 million Series C funding round, led by Novo Growth and including participating from Soleus Capital and existing investors Mayfield, Cota and Agilent. Mission Bio will use the funding to scale its Tapes…*
       
 
 
