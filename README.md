@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 
-~ Ted Nelson
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A user interface should be so simple that a beginner in an emergency can underst
 
 </pre>
 **Daily News**
-  - Bracing for election day, Facebook rolls out voting resources to U.S. users
+  - TikTok rival Likee reaches 150M monthly users worldwide
      <hr/>
      
-      - *Eager to avoid a repeat of its disastrous role as a super-spreader of misinformation during the 2016 election cycle, Facebook is getting its ducks in a row. Following an announcement earlier this summer, the company is now launching a voting information hub t…*
+      - *As TikTok’s fate remains in flux, its smaller rival Likee has been making waves around the world, garnering 150 million monthly active users as of this June. That’s according to the earnings report of Chinese internet company Joyy, the owner of Likee. For com…*
      
+  - Bracing for election day, Facebook rolls out voting resources to U.S. users
+      <hr/>
+      
+      - *Eager to avoid a repeat of its disastrous role as a super-spreader of misinformation during the 2016 election cycle, Facebook is getting its ducks in a row. Following an announcement earlier this summer, the company is now launching a voting information hub t…*
+      
   - Tune in tomorrow and watch five startups compete at Pitchers & Pitches
       <hr/>
       
@@ -81,16 +86,11 @@ A user interface should be so simple that a beginner in an emergency can underst
       <hr/>
       
       - *Earlier this year, the founders of Stream,  a five-year-old, 60-person startup with offices in Boulder and Amsterdam, weren’t feeling so great about their prospects. As COVID-19 began its spread in the U.S., some smaller customers of the startup — whose APIs …*
-      
+       
   - Moka, the HR tool for Arm and Shopee in China, closes $43M Series B
       <hr/>
-      
-      - *Investors are betting on the automation of human resources management in China. We reported last year that Moka, one of the key players in the space, secured roughly $27 million for its Series B led by Hillhouse Capital. This week, the startup announced closi…*
        
-  - How China's ACRCloud detects copyrighted music in short videos
-      <hr/>
-       
-       - *Music is the front and center in the rise of TikTok and other short video apps. It’s not just the video platforms that are harvesting the fruit of their surging popularity. Music rights holders are also prepared to extract money from the millions of songs fou…*
+       - *Investors are betting on the automation of human resources management in China. We reported last year that Moka, one of the key players in the space, secured roughly $27 million for its Series B led by Hillhouse Capital. This week, the startup announced closi…*
       
 
 
