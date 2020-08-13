@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+The real problem with throwaway code comes when it isn't thrown away.
 
-~ Tom DeMarco
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The manager's function is not to make people work, but to make it possible for p
 
 </pre>
 **Daily News**
-  - Tune in tomorrow and watch five startups compete at Pitchers & Pitches
+  - Bracing for election day, Facebook rolls out voting resources to U.S. users
      <hr/>
      
-      - *Ever hear the expression, “every master was once a disaster?” Now apply that to developing a well-crafted pitch. It takes practice and honest feedback to make a masterful pitch, and that’s exactly what you’ll get when you participate in our next Pitchers & Pi…*
+      - *Eager to avoid a repeat of its disastrous role as a super-spreader of misinformation during the 2016 election cycle, Facebook is getting its ducks in a row. Following an announcement earlier this summer, the company is now launching a voting information hub t…*
      
+  - Tune in tomorrow and watch five startups compete at Pitchers & Pitches
+      <hr/>
+      
+      - *Ever hear the expression, “every master was once a disaster?” Now apply that to developing a well-crafted pitch. It takes practice and honest feedback to make a masterful pitch, and that’s exactly what you’ll get when you participate in our next Pitchers & Pi…*
+      
   - Stream, whose APIs help product teams build chat and activity feeds fast, just raised a $15 million Series A round
       <hr/>
       
@@ -81,16 +86,11 @@ The manager's function is not to make people work, but to make it possible for p
       <hr/>
       
       - *Investors are betting on the automation of human resources management in China. We reported last year that Moka, one of the key players in the space, secured roughly $27 million for its Series B led by Hillhouse Capital. This week, the startup announced closi…*
-      
+       
   - How China's ACRCloud detects copyrighted music in short videos
       <hr/>
-      
-      - *Music is the front and center in the rise of TikTok and other short video apps. It’s not just the video platforms that are harvesting the fruit of their surging popularity. Music rights holders are also prepared to extract money from the millions of songs fou…*
        
-  - ByteDance in talks with India's Reliance for investment in TikTok
-      <hr/>
-       
-       - *Chinese giant ByteDance is engaging with India’s Reliance Industries Limited, the parent firm of telecom giant Jio Platforms, for investment in TikTok’s India operations in a move to potentially save the short form video app’s fate in its biggest market by us…*
+       - *Music is the front and center in the rise of TikTok and other short video apps. It’s not just the video platforms that are harvesting the fruit of their surging popularity. Music rights holders are also prepared to extract money from the millions of songs fou…*
       
 
 
