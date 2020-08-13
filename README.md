@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ George Boole
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ That language is an instrument of human reason, and not merely a medium for the 
 
 </pre>
 **Daily News**
-  - Apple boots Fortnite from the App Store after Epic adds direct payments
+  - Epic Games launches a campaign (and lawsuit) against Apple's App Store
      <hr/>
      
-      - *After its creator Epic Games implemented a workaround to duck Apple’s hefty developer fees, Fortnite has vanished from the App Store. The popular game’s disappearing act came the same day that Epic added a new direct payment option for in-game currency on mob…*
+      - *Epic Games is launching an all-out campaign against Apple and its App Store rules. Thursday morning, Epic Games introduced a new payment mechanic through a server side update that allowed gamers to purchase Fortnite’s in-game currency directly, allowing the a…*
      
+  - Apple boots Fortnite from the App Store after Epic adds direct payments
+      <hr/>
+      
+      - *After its creator Epic Games implemented a workaround to duck Apple’s hefty developer fees, Fortnite has vanished from the App Store. The popular game’s disappearing act came the same day that Epic added a new direct payment option for in-game currency on mob…*
+      
   - Impossible Foods gobbles up another $200 million
       <hr/>
       
@@ -81,16 +86,11 @@ That language is an instrument of human reason, and not merely a medium for the 
       <hr/>
       
       - *One of the most exciting moments in the life of every newly christened founder is the sweet relief of seeing a term sheet come in from an investor. After weeks, perhaps months (but hopefully not years!), of work fundraising and pitching, there is nothing like…*
-      
+       
   - Instagram wasn't deleting photos and direct messages off its servers
       <hr/>
-      
-      - *Photos and private messages could still be downloaded, long after users thought they were deleted.*
        
-  - Five success factors for behavioral health startups
-      <hr/>
-       
-       - *We believe there’s an enormous opportunity to digitize behavioral health right now—and COVID-19 is only making it bigger.*
+       - *Photos and private messages could still be downloaded, long after users thought they were deleted.*
       
 
 
