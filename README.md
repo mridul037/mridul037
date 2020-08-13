@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+Talk is cheap. Show me the code.
 
-~ Douglas Crockford
+~ Linus Torvalds
 <pre>
 
 </pre>
