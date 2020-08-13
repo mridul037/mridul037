@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Linus Torvalds
+~ Tom DeMarco
 <pre>
 
 </pre>
