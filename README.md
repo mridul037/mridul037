@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
 
-~ Daniel T. Barry
+~ Michael A. Jackson
 <pre>
 
 </pre>
