@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 
-~ Michael A. Jackson
+~ Richard Hamming
 <pre>
 
 </pre>
