@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think there is a world market for maybe five
-computers.
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 
-~ Thomas J. Watson
+~ John Warnock
 <pre>
 
 </pre>
@@ -68,30 +67,30 @@ computers.
 
 </pre>
 **Daily News**
-  - Extra Crunch Live: Join Eric Hippeau for a live Q&A today at 11am PT/2pm ET
+  - AMC will offer 15 cent tickets when it reopens 100+ US theaters on August 20
      <hr/>
      
-      - *While you may have heard this phrase several hundred too many times this year, it remains true: These are unprecedented times. At least a dozen industries are in a state of flux, and only time (a relatively short amount of time) will tell if they can evolve q…*
+      - *Like so many industries, the last five months have been absolutely devastating for movie theaters. As far as sheer volumes go, no one has been harder hit than the world’s largest theater chain. AMC has had plans to reopen theaters for some time — but things c…*
      
-  - Omaze raises $30M after expanding beyond celebrity campaigns
+  - We're exploring the future of SaaS at Disrupt this year
       <hr/>
       
-      - *Omaze, the startup became famous for its celebrity-centric fundraisers, is announcing that it has raised $30 million in Series B funding. Some of the company’s best-known campaigns include opportunities to meet Michelle Obama, meet Star Wars cast members and …*
+      - *It’s been a wild year for modern software companies, often called software-as-service (SaaS) firms due to how they deliver their product. From a strong start to the year, to a rapid devaluation in the face of a global pandemic, and a return-to-form after it b…*
       
-  - The Wear OS fall update promises better performance, simplified pairing and more
+  - Cube closes $5M Seed round to scale its financial planning software
       <hr/>
       
-      - *Google today announced a few new features Wear OS we can expect from the next over-the-air update, which is slated to arrive this fall. The focus here, Google says, is on fundamentals and that includes improved performance, for example, with up to 20% speed i…*
+      - *This morning Cube announced that it has closed a Seed round worth just over $5 million. The software startup, focused on financial planning and analysis (FP&A) work, raised $3.8 million of the total recently, with remaining $1.25 million having come in an ear…*
       
-  - Apple said to soon offer subscription bundles combining multiple of its services
+  - Waymo COO Tekedra Mawakana is coming to TC Sessions: Mobility 2020
       <hr/>
       
-      - *Apple is reportedly getting ready to launch new bundles of its various subscription services, according to Bloomberg. The bundled services packages, said to be potentially called ‘Apple One,’ will include Apple services including Apple Music, Apple Arcade, Ap…*
+      - *In the past two years, Waymo has scaled up a robotaxi service in the Phoenix area, locked in or expanded partnerships with Volvo and Fiat Chrysler Automobiles, acquired at least one company, launched a lidar business and ramped up testing of its automated tru…*
        
-  - TikTok rival Likee reaches 150M monthly users worldwide
+  - A stampede of unicorn news
       <hr/>
        
-       - *As TikTok’s fate remains in flux, its smaller rival Likee has been making waves around the world, garnering 150 million monthly active users as of this June. That’s according to the earnings report of Chinese internet company Joyy, the owner of Likee. For com…*
+       - *With a hot IPO market and a world accelerating its shift to digital technologies amidst a pandemic, it’s a busy time for late-stage startups. Happily, the current moment is generating a wave of leaks and news. So much so, it’s actually been pretty hard to kee…*
       
 
 
