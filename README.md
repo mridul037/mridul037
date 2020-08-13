@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ Butler Lampson
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Everything should be made as simple as possible. But to do that you have to mast
 
 </pre>
 **Daily News**
-  - ByteDance in talks with India's Reliance for investment in TikTok
+  - How China's ACRCloud detects copyrighted music in short videos
      <hr/>
      
-      - *Chinese giant ByteDance is engaging with India’s Reliance Industries Limited, the parent firm of telecom giant Jio Platforms, for investment in TikTok’s India operations in a move to potentially save the short form video app’s fate in its biggest market by us…*
+      - *Music is the front and center in the rise of TikTok and other short video apps. It’s not just the video platforms that are harvesting the fruit of their surging popularity. Music rights holders are also prepared to extract money from the millions of songs fou…*
      
+  - ByteDance in talks with India's Reliance for investment in TikTok
+      <hr/>
+      
+      - *Chinese giant ByteDance is engaging with India’s Reliance Industries Limited, the parent firm of telecom giant Jio Platforms, for investment in TikTok’s India operations in a move to potentially save the short form video app’s fate in its biggest market by us…*
+      
   - Minted.com CEO Mariam Naficy shares 'the biggest surprise about entrepreneurship'
       <hr/>
       
@@ -81,16 +86,11 @@ Everything should be made as simple as possible. But to do that you have to mast
       <hr/>
       
       - *Uber’s CEO pushes back against a potential reclassification of drivers, a former COO sues Pinterest and Microsoft reveals details about the Surface Duo. This is your Daily Crunch for August 12, 2020. The big story: Uber CEO says CA shutdown could be necessary…*
-      
+       
   - Digitizing Burning Man
       <hr/>
-      
-      - *For decades, Burning Man has represented an escape from the current reality. An event for free-er spirits to rethink new age ideals inside a stateless entity where art, music and partying reign supreme on the desert plains. Over the years, the Bay Area-founde…*
        
-  - Labster lands new cash to bring its virtual reality science lab software to Asia
-      <hr/>
-       
-       - *You could Zoom call into your science class, or you could conduct a lab experiment in virtual reality. During the coronavirus pandemic, the latter has never felt more full of potential. The global need for learning solutions beyond Zoom is precisely why Labst…*
+       - *For decades, Burning Man has represented an escape from the current reality. An event for free-er spirits to rethink new age ideals inside a stateless entity where art, music and partying reign supreme on the desert plains. Over the years, the Bay Area-founde…*
       
 
 
