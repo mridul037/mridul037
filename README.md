@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
-~ Marijn Haverbeke
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Computers themselves can do only stupidly straightforward things. The reason the
 
 </pre>
 **Daily News**
-  - Starting with Michigan, Sidewalk Infrastructure is looking to build roads specifically for autonomous cars
+  - Five success factors for behavioral health startups
      <hr/>
      
-      - *Sidewalk Infrastructure Partners, which spun out of Alphabet’s Sidewalk Labs to fund and develop the next generation of infrastructure, has taken the covers off of its first big project — the launch of a subsidiary called Cavnue to develop roadways for connec…*
+      - *We believe there’s an enormous opportunity to digitize behavioral health right now—and COVID-19 is only making it bigger.*
      
+  - Starting with Michigan, Sidewalk Infrastructure is looking to build roads specifically for autonomous cars
+      <hr/>
+      
+      - *Sidewalk Infrastructure Partners, which spun out of Alphabet’s Sidewalk Labs to fund and develop the next generation of infrastructure, has taken the covers off of its first big project — the launch of a subsidiary called Cavnue to develop roadways for connec…*
+      
   - Digital imaging pioneer Russell Kirsch dies at 91
       <hr/>
       
@@ -81,16 +86,11 @@ Computers themselves can do only stupidly straightforward things. The reason the
       <hr/>
       
       - *Lyft is sticking to its previous target to hit quarterly adjusted profitability by the fourth period of 2021, a milestone it says it can achieve even with fewer rides. The company reiterated its quarterly adjusted profit target timeline — a milestone based on…*
-      
+       
   - Six Toronto VCs discuss COVID-19 and the post-pandemic era
       <hr/>
-      
-      - *As North America’s fourth-largest city, Toronto is one of the world’s top startup ecosystems. After spawning companies like Eventbrite and Crowdmark, Ontario’s capital has attracted international talent that complements its homegrown population of entrepreneu…*
        
-  - Mission Bio raises $70 million to help scale its tech for improving the development of targeted cancer therapies
-      <hr/>
-       
-       - *California-based startup Mission Bio has raised a new $70 million Series C funding round, led by Novo Growth and including participating from Soleus Capital and existing investors Mayfield, Cota and Agilent. Mission Bio will use the funding to scale its Tapes…*
+       - *As North America’s fourth-largest city, Toronto is one of the world’s top startup ecosystems. After spawning companies like Eventbrite and Crowdmark, Ontario’s capital has attracted international talent that complements its homegrown population of entrepreneu…*
       
 
 
