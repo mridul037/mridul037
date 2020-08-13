@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 
-~ John Warnock
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
 
 </pre>
 **Daily News**
-  - AMC will offer 15 cent tickets when it reopens 100+ US theaters on August 20
+  - Slack and Atlassian deepen their partnership with deeper integrations
      <hr/>
      
-      - *Like so many industries, the last five months have been absolutely devastating for movie theaters. As far as sheer volumes go, no one has been harder hit than the world’s largest theater chain. AMC has had plans to reopen theaters for some time — but things c…*
+      - *A lot of “partnerships” between tech companies don’t get very far beyond a press release and maybe some half-hearted co-selling attempts. When Atlassian sold its chat services to Slack in 2018, the two companies said they would form a new partnership and with…*
      
+  - Ready, set, network: CrunchMatch is open for Disrupt 2020
+      <hr/>
+      
+      - *We’re so excited about today’s news that we’re stealing, ahem, borrowing boxing announcer Michael Buffer’s famous catchphrase, “Let’s get ready to rumble!” CrunchMatch, our free networking platform is up and ready to help you build your business and expand yo…*
+      
+  - AMC will offer 15 cent tickets when it reopens 100+ US theaters on August 20
+      <hr/>
+      
+      - *Like so many industries, the last five months have been absolutely devastating for movie theaters. As far as sheer volumes go, no one has been harder hit than the world’s largest theater chain. AMC has had plans to reopen theaters for some time — but things c…*
+      
   - We're exploring the future of SaaS at Disrupt this year
       <hr/>
       
       - *It’s been a wild year for modern software companies, often called software-as-service (SaaS) firms due to how they deliver their product. From a strong start to the year, to a rapid devaluation in the face of a global pandemic, and a return-to-form after it b…*
-      
+       
   - Cube closes $5M Seed round to scale its financial planning software
       <hr/>
-      
-      - *This morning Cube announced that it has closed a Seed round worth just over $5 million. The software startup, focused on financial planning and analysis (FP&A) work, raised $3.8 million of the total recently, with remaining $1.25 million having come in an ear…*
-      
-  - Waymo COO Tekedra Mawakana is coming to TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *In the past two years, Waymo has scaled up a robotaxi service in the Phoenix area, locked in or expanded partnerships with Volvo and Fiat Chrysler Automobiles, acquired at least one company, launched a lidar business and ramped up testing of its automated tru…*
        
-  - A stampede of unicorn news
-      <hr/>
-       
-       - *With a hot IPO market and a world accelerating its shift to digital technologies amidst a pandemic, it’s a busy time for late-stage startups. Happily, the current moment is generating a wave of leaks and news. So much so, it’s actually been pretty hard to kee…*
+       - *This morning Cube announced that it has closed a Seed round worth just over $5 million. The software startup, focused on financial planning and analysis (FP&A) work, raised $3.8 million of the total recently, with remaining $1.25 million having come in an ear…*
       
 
 
