@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Alan Perlis
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I think it is inevitable that people program poorly. Training will not substanti
 
 </pre>
 **Daily News**
-  - Five success factors for behavioral health startups
+  - Apple boots Fortnite from the App Store after Epic adds direct payments
      <hr/>
      
-      - *We believe there’s an enormous opportunity to digitize behavioral health right now—and COVID-19 is only making it bigger.*
+      - *After its creator Epic Games implemented a workaround to duck Apple’s hefty developer fees, Fortnite has vanished from the App Store. The popular game’s disappearing act came the same day that Epic added a new direct payment option for in-game currency on mob…*
      
-  - Starting with Michigan, Sidewalk Infrastructure is looking to build roads specifically for autonomous cars
+  - Impossible Foods gobbles up another $200 million
       <hr/>
       
-      - *Sidewalk Infrastructure Partners, which spun out of Alphabet’s Sidewalk Labs to fund and develop the next generation of infrastructure, has taken the covers off of its first big project — the launch of a subsidiary called Cavnue to develop roadways for connec…*
+      - *Impossible Foods has raised $200 million more for its meat replacements. The new round was led by Coatue, a technology-focused hedge fund, another New York-based hedge fund, XN, also participated in the round. Since its launch the company has raised $1.5 bill…*
       
-  - Digital imaging pioneer Russell Kirsch dies at 91
+  - How to get what you want in a term sheet
       <hr/>
       
-      - *Russell Kirsch, whose research going back to the ’50s underlies the entire field of digital imaging, died earlier this week at the age of 91. It’s hard to overstate the impact of his work, which led to the first digitally scanned photo and the creation of wha…*
+      - *One of the most exciting moments in the life of every newly christened founder is the sweet relief of seeing a term sheet come in from an investor. After weeks, perhaps months (but hopefully not years!), of work fundraising and pitching, there is nothing like…*
       
-  - Despite a difficult Q2 2020, Lyft and Uber reiterate profit promises
+  - Instagram wasn't deleting photos and direct messages off its servers
       <hr/>
       
-      - *Lyft is sticking to its previous target to hit quarterly adjusted profitability by the fourth period of 2021, a milestone it says it can achieve even with fewer rides. The company reiterated its quarterly adjusted profit target timeline — a milestone based on…*
+      - *Photos and private messages could still be downloaded, long after users thought they were deleted.*
        
-  - Six Toronto VCs discuss COVID-19 and the post-pandemic era
+  - Five success factors for behavioral health startups
       <hr/>
        
-       - *As North America’s fourth-largest city, Toronto is one of the world’s top startup ecosystems. After spawning companies like Eventbrite and Crowdmark, Ontario’s capital has attracted international talent that complements its homegrown population of entrepreneu…*
+       - *We believe there’s an enormous opportunity to digitize behavioral health right now—and COVID-19 is only making it bigger.*
       
 
 
