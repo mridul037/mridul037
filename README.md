@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ Dennis Ritchie
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Computer science research is different from these more traditional disciplines. 
 
 </pre>
 **Daily News**
-  - Minted.com CEO Mariam Naficy shares 'the biggest surprise about entrepreneurship'
+  - ByteDance in talks with India's Reliance for investment in TikTok
      <hr/>
      
-      - *At TechCrunch Early Stage, Minted CEO and serial founder Mariam Naficy got into the weeds with us on some of the topics founders don’t often discuss. What’s the difference between expectations and reality when it comes to entrepreneurialism? How do you split …*
+      - *Chinese giant ByteDance is engaging with India’s Reliance Industries Limited, the parent firm of telecom giant Jio Platforms, for investment in TikTok’s India operations in a move to potentially save the short form video app’s fate in its biggest market by us…*
      
+  - Minted.com CEO Mariam Naficy shares 'the biggest surprise about entrepreneurship'
+      <hr/>
+      
+      - *At TechCrunch Early Stage, Minted CEO and serial founder Mariam Naficy got into the weeds with us on some of the topics founders don’t often discuss. What’s the difference between expectations and reality when it comes to entrepreneurialism? How do you split …*
+      
   - Daily Crunch: Uber CEO says CA shutdown may be necessary
       <hr/>
       
@@ -81,16 +86,11 @@ Computer science research is different from these more traditional disciplines. 
       <hr/>
       
       - *For decades, Burning Man has represented an escape from the current reality. An event for free-er spirits to rethink new age ideals inside a stateless entity where art, music and partying reign supreme on the desert plains. Over the years, the Bay Area-founde…*
-      
+       
   - Labster lands new cash to bring its virtual reality science lab software to Asia
       <hr/>
-      
-      - *You could Zoom call into your science class, or you could conduct a lab experiment in virtual reality. During the coronavirus pandemic, the latter has never felt more full of potential. The global need for learning solutions beyond Zoom is precisely why Labst…*
        
-  - Lyft shares get small bump after reporting 61% Q2 revenue decline
-      <hr/>
-       
-       - *Today after the bell, Lyft reported its second-quarter financial performance. The American ride-hailing company’s results helped illustrate just how much the economy has changed in the wake of COVID-19 and its resulting disruptions to life, travel and work. U…*
+       - *You could Zoom call into your science class, or you could conduct a lab experiment in virtual reality. During the coronavirus pandemic, the latter has never felt more full of potential. The global need for learning solutions beyond Zoom is precisely why Labst…*
       
 
 
