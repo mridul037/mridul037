@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+I think there is a world market for maybe five
+computers.
 
-~ Fred Brooks
+~ Thomas J. Watson
 <pre>
 
 </pre>
@@ -67,30 +68,30 @@ First, we must observe that the anomaly is not that software progress is so slow
 
 </pre>
 **Daily News**
-  - Apple said to soon offer subscription bundles combining multiple of its services
+  - Extra Crunch Live: Join Eric Hippeau for a live Q&A today at 11am PT/2pm ET
      <hr/>
      
-      - *Apple is reportedly getting ready to launch new bundles of its various subscription services, according to Bloomberg. The bundled services packages, said to be potentially called ‘Apple One,’ will include Apple services including Apple Music, Apple Arcade, Ap…*
+      - *While you may have heard this phrase several hundred too many times this year, it remains true: These are unprecedented times. At least a dozen industries are in a state of flux, and only time (a relatively short amount of time) will tell if they can evolve q…*
      
+  - Omaze raises $30M after expanding beyond celebrity campaigns
+      <hr/>
+      
+      - *Omaze, the startup became famous for its celebrity-centric fundraisers, is announcing that it has raised $30 million in Series B funding. Some of the company’s best-known campaigns include opportunities to meet Michelle Obama, meet Star Wars cast members and …*
+      
+  - The Wear OS fall update promises better performance, simplified pairing and more
+      <hr/>
+      
+      - *Google today announced a few new features Wear OS we can expect from the next over-the-air update, which is slated to arrive this fall. The focus here, Google says, is on fundamentals and that includes improved performance, for example, with up to 20% speed i…*
+      
+  - Apple said to soon offer subscription bundles combining multiple of its services
+      <hr/>
+      
+      - *Apple is reportedly getting ready to launch new bundles of its various subscription services, according to Bloomberg. The bundled services packages, said to be potentially called ‘Apple One,’ will include Apple services including Apple Music, Apple Arcade, Ap…*
+       
   - TikTok rival Likee reaches 150M monthly users worldwide
       <hr/>
-      
-      - *As TikTok’s fate remains in flux, its smaller rival Likee has been making waves around the world, garnering 150 million monthly active users as of this June. That’s according to the earnings report of Chinese internet company Joyy, the owner of Likee. For com…*
-      
-  - Bracing for election day, Facebook rolls out voting resources to U.S. users
-      <hr/>
-      
-      - *Eager to avoid a repeat of its disastrous role as a super-spreader of misinformation during the 2016 election cycle, Facebook is getting its ducks in a row. Following an announcement earlier this summer, the company is now launching a voting information hub t…*
-      
-  - Tune in tomorrow and watch five startups compete at Pitchers & Pitches
-      <hr/>
-      
-      - *Ever hear the expression, “every master was once a disaster?” Now apply that to developing a well-crafted pitch. It takes practice and honest feedback to make a masterful pitch, and that’s exactly what you’ll get when you participate in our next Pitchers & Pi…*
        
-  - Stream, whose APIs help product teams build chat and activity feeds fast, just raised a $15 million Series A round
-      <hr/>
-       
-       - *Earlier this year, the founders of Stream,  a five-year-old, 60-person startup with offices in Boulder and Amsterdam, weren’t feeling so great about their prospects. As COVID-19 began its spread in the U.S., some smaller customers of the startup — whose APIs …*
+       - *As TikTok’s fate remains in flux, its smaller rival Likee has been making waves around the world, garnering 150 million monthly active users as of this June. That’s according to the earnings report of Chinese internet company Joyy, the owner of Likee. For com…*
       
 
 
