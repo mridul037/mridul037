@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 
-~ Tim Berners-Lee
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Cool URIs don't change.
 
 </pre>
 **Daily News**
-  - Stream, whose APIs help product teams build chat and activity feeds fast, just raised a $15 million Series A round
+  - Tune in tomorrow and watch five startups compete at Pitchers & Pitches
      <hr/>
      
-      - *Earlier this year, the founders of Stream,  a five-year-old, 60-person startup with offices in Boulder and Amsterdam, weren’t feeling so great about their prospects. As COVID-19 began its spread in the U.S., some smaller customers of the startup — whose APIs …*
+      - *Ever hear the expression, “every master was once a disaster?” Now apply that to developing a well-crafted pitch. It takes practice and honest feedback to make a masterful pitch, and that’s exactly what you’ll get when you participate in our next Pitchers & Pi…*
      
+  - Stream, whose APIs help product teams build chat and activity feeds fast, just raised a $15 million Series A round
+      <hr/>
+      
+      - *Earlier this year, the founders of Stream,  a five-year-old, 60-person startup with offices in Boulder and Amsterdam, weren’t feeling so great about their prospects. As COVID-19 began its spread in the U.S., some smaller customers of the startup — whose APIs …*
+      
   - Moka, the HR tool for Arm and Shopee in China, closes $43M Series B
       <hr/>
       
@@ -81,16 +86,11 @@ Cool URIs don't change.
       <hr/>
       
       - *Music is the front and center in the rise of TikTok and other short video apps. It’s not just the video platforms that are harvesting the fruit of their surging popularity. Music rights holders are also prepared to extract money from the millions of songs fou…*
-      
+       
   - ByteDance in talks with India's Reliance for investment in TikTok
       <hr/>
-      
-      - *Chinese giant ByteDance is engaging with India’s Reliance Industries Limited, the parent firm of telecom giant Jio Platforms, for investment in TikTok’s India operations in a move to potentially save the short form video app’s fate in its biggest market by us…*
        
-  - Minted.com CEO Mariam Naficy shares 'the biggest surprise about entrepreneurship'
-      <hr/>
-       
-       - *At TechCrunch Early Stage, Minted CEO and serial founder Mariam Naficy got into the weeds with us on some of the topics founders don’t often discuss. What’s the difference between expectations and reality when it comes to entrepreneurialism? How do you split …*
+       - *Chinese giant ByteDance is engaging with India’s Reliance Industries Limited, the parent firm of telecom giant Jio Platforms, for investment in TikTok’s India operations in a move to potentially save the short form video app’s fate in its biggest market by us…*
       
 
 
