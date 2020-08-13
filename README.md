@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Douglas Crockford
+~ Rick Osborne
 <pre>
 
 </pre>
