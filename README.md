@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Martin Fowler
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ W​henever I have to think to understand what the code is doing, I ask myself i
 
 </pre>
 **Daily News**
-  - Uber and Lyft lose bid to delay worker reclassification order in California
+  - Daily Crunch: Apple removes Fortnite from the App Store
      <hr/>
      
-      - *Uber and Lyft have lost their bid to delay a preliminary injunction that will force the two ride-hailing app companies to reclassify its drivers as employees. A California superior court judge denied Thursday the companies request to delay the order from goin…*
+      - *Epic Games takes on Apple, Instagram fixes a security issue and Impossible Foods raises $200 million. This is your Daily Crunch for August 13, 2020. The big story: Apple removes Fortnite from the App Store The controversy over Apple’s App Store policies has e…*
      
+  - Facebook users are pretty bad at telling how much time they spend on it
+      <hr/>
+      
+      - *A lot of studies and discussion of social media use time spent on the platforms as evidence for various theories and conclusions — but it turns out that people are actually super bad at telling how long they spend on them, according to research from Facebook.…*
+      
+  - Uber and Lyft lose bid to delay worker reclassification order in California
+      <hr/>
+      
+      - *Uber and Lyft have lost their bid to delay a preliminary injunction that will force the two ride-hailing app companies to reclassify its drivers as employees. A California superior court judge denied Thursday the companies request to delay the order from goin…*
+      
   - Epic Games launches a campaign (and lawsuit) against Apple's App Store
       <hr/>
       
       - *Epic Games is launching an all-out campaign against Apple and its App Store rules. Thursday morning, Epic Games introduced a new payment mechanic through a server side update that allowed gamers to purchase Fortnite’s in-game currency directly, allowing the a…*
-      
+       
   - Apple boots Fortnite from the App Store after Epic adds direct payments
       <hr/>
-      
-      - *After its creator Epic Games implemented a workaround to duck Apple’s hefty developer fees, Fortnite has vanished from the App Store. The popular game’s disappearing act came the same day that Epic added a new direct payment option for in-game currency on mob…*
-      
-  - Impossible Foods gobbles up another $200 million
-      <hr/>
-      
-      - *Impossible Foods has raised $200 million more for its meat replacements. The new round was led by Coatue, a technology-focused hedge fund, another New York-based hedge fund, XN, also participated in the round. Since its launch the company has raised $1.5 bill…*
        
-  - How to get what you want in a term sheet
-      <hr/>
-       
-       - *One of the most exciting moments in the life of every newly christened founder is the sweet relief of seeing a term sheet come in from an investor. After weeks, perhaps months (but hopefully not years!), of work fundraising and pitching, there is nothing like…*
+       - *After its creator Epic Games implemented a workaround to duck Apple’s hefty developer fees, Fortnite has vanished from the App Store. The popular game’s disappearing act came the same day that Epic added a new direct payment option for in-game currency on mob…*
       
 
 
