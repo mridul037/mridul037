@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Maurice Wilkes
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 
 </pre>
 **Daily News**
-  - Epic Games launches a campaign (and lawsuit) against Apple's App Store
+  - Uber and Lyft lose bid to delay worker reclassification order in California
      <hr/>
      
-      - *Epic Games is launching an all-out campaign against Apple and its App Store rules. Thursday morning, Epic Games introduced a new payment mechanic through a server side update that allowed gamers to purchase Fortnite’s in-game currency directly, allowing the a…*
+      - *Uber and Lyft have lost their bid to delay a preliminary injunction that will force the two ride-hailing app companies to reclassify its drivers as employees. A California superior court judge denied Thursday the companies request to delay the order from goin…*
      
+  - Epic Games launches a campaign (and lawsuit) against Apple's App Store
+      <hr/>
+      
+      - *Epic Games is launching an all-out campaign against Apple and its App Store rules. Thursday morning, Epic Games introduced a new payment mechanic through a server side update that allowed gamers to purchase Fortnite’s in-game currency directly, allowing the a…*
+      
   - Apple boots Fortnite from the App Store after Epic adds direct payments
       <hr/>
       
@@ -81,16 +86,11 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
       <hr/>
       
       - *Impossible Foods has raised $200 million more for its meat replacements. The new round was led by Coatue, a technology-focused hedge fund, another New York-based hedge fund, XN, also participated in the round. Since its launch the company has raised $1.5 bill…*
-      
+       
   - How to get what you want in a term sheet
       <hr/>
-      
-      - *One of the most exciting moments in the life of every newly christened founder is the sweet relief of seeing a term sheet come in from an investor. After weeks, perhaps months (but hopefully not years!), of work fundraising and pitching, there is nothing like…*
        
-  - Instagram wasn't deleting photos and direct messages off its servers
-      <hr/>
-       
-       - *Photos and private messages could still be downloaded, long after users thought they were deleted.*
+       - *One of the most exciting moments in the life of every newly christened founder is the sweet relief of seeing a term sheet come in from an investor. After weeks, perhaps months (but hopefully not years!), of work fundraising and pitching, there is nothing like…*
       
 
 
