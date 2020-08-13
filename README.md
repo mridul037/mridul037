@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 
-~ Fred Brooks
+~ Stewart Brand
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The first false assumption that underlies the scheduling of systems programming 
 
 </pre>
 **Daily News**
-  - Slack and Atlassian deepen their partnership with deeper integrations
+  - Mission Bio raises $70 million to help scale its tech for improving the development of targeted cancer therapies
      <hr/>
      
-      - *A lot of “partnerships” between tech companies don’t get very far beyond a press release and maybe some half-hearted co-selling attempts. When Atlassian sold its chat services to Slack in 2018, the two companies said they would form a new partnership and with…*
+      - *California-based startup Mission Bio has raised a new $70 million Series C funding round, led by Novo Growth and including participating from Soleus Capital and existing investors Mayfield, Cota and Agilent. Mission Bio will use the funding to scale its Tapes…*
      
+  - Mirantis acquires Lens, an IDE for Kubernetes
+      <hr/>
+      
+      - *Mirantis, the company that recently bought Docker’s enterprise business, today announced that it has acquired Lens, a desktop application that the team describes as a Kubernetes integrated development environment. Mirantis previously acquired the team behind …*
+      
+  - Slack and Atlassian deepen their partnership with deeper integrations
+      <hr/>
+      
+      - *A lot of “partnerships” between tech companies don’t get very far beyond a press release and maybe some half-hearted co-selling attempts. When Atlassian sold its chat services to Slack in 2018, the two companies said they would form a new partnership and with…*
+      
   - Ready, set, network: CrunchMatch is open for Disrupt 2020
       <hr/>
       
       - *We’re so excited about today’s news that we’re stealing, ahem, borrowing boxing announcer Michael Buffer’s famous catchphrase, “Let’s get ready to rumble!” CrunchMatch, our free networking platform is up and ready to help you build your business and expand yo…*
-      
+       
   - AMC will offer 15 cent tickets when it reopens 100+ US theaters on August 20
       <hr/>
-      
-      - *Like so many industries, the last five months have been absolutely devastating for movie theaters. As far as sheer volumes go, no one has been harder hit than the world’s largest theater chain. AMC has had plans to reopen theaters for some time — but things c…*
-      
-  - We're exploring the future of SaaS at Disrupt this year
-      <hr/>
-      
-      - *It’s been a wild year for modern software companies, often called software-as-service (SaaS) firms due to how they deliver their product. From a strong start to the year, to a rapid devaluation in the face of a global pandemic, and a return-to-form after it b…*
        
-  - Cube closes $5M Seed round to scale its financial planning software
-      <hr/>
-       
-       - *This morning Cube announced that it has closed a Seed round worth just over $5 million. The software startup, focused on financial planning and analysis (FP&A) work, raised $3.8 million of the total recently, with remaining $1.25 million having come in an ear…*
+       - *Like so many industries, the last five months have been absolutely devastating for movie theaters. As far as sheer volumes go, no one has been harder hit than the world’s largest theater chain. AMC has had plans to reopen theaters for some time — but things c…*
       
 
 
