@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Less code equals less bugs.
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 
-~ Kevlin Henney
+~ Douglas Crockford
 <pre>
 
 </pre>
