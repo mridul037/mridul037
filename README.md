@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 
-~ George Carrette
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ First learn computer science and all the theory. Next develop a programming styl
 
 </pre>
 **Daily News**
-  - Fortnite for Android just got axed from the Google Play Store too
+  - Oracle and Salesforce hit with GDPR class action lawsuits over cookie tracking consent
      <hr/>
      
-      - *After Epic Games picked a fight with Apple over the sizable chunk of fees the company takes on transactions in its mobile ecosystem, it looks like the Fortnite developer will be waging a war on two fronts. Epic added a direct payment option to its mobile game…*
+      - *The use of third party cookies for ad tracking and targeting by data broker giants Oracle and Salesforce is the focus of class action style litigation announced today in the UK and the Netherlands. The suits will argue that mass surveillance of Internet users…*
      
+  - Fortnite for Android just got axed from the Google Play Store too
+      <hr/>
+      
+      - *After Epic Games picked a fight with Apple over the sizable chunk of fees the company takes on transactions in its mobile ecosystem, it looks like the Fortnite developer will be waging a war on two fronts. Epic added a direct payment option to its mobile game…*
+      
   - Daily Crunch: Apple removes Fortnite from the App Store
       <hr/>
       
@@ -81,16 +86,11 @@ First learn computer science and all the theory. Next develop a programming styl
       <hr/>
       
       - *A lot of studies and discussion of social media use time spent on the platforms as evidence for various theories and conclusions — but it turns out that people are actually super bad at telling how long they spend on them, according to research from Facebook.…*
-      
+       
   - Uber and Lyft lose bid to delay worker reclassification order in California
       <hr/>
-      
-      - *Uber and Lyft have lost their bid to delay a preliminary injunction that will force the two ride-hailing app companies to reclassify its drivers as employees. A California superior court judge denied Thursday the companies request to delay the order from goin…*
        
-  - Epic Games launches a campaign (and lawsuit) against Apple's App Store
-      <hr/>
-       
-       - *Epic Games is launching an all-out campaign against Apple and its App Store rules. Thursday morning, Epic Games introduced a new payment mechanic through a server side update that allowed gamers to purchase Fortnite’s in-game currency directly, allowing the a…*
+       - *Uber and Lyft have lost their bid to delay a preliminary injunction that will force the two ride-hailing app companies to reclassify its drivers as employees. A California superior court judge denied Thursday the companies request to delay the order from goin…*
       
 
 
