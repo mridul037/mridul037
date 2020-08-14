@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ Tom Cargill
+~ John Warnock
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The first 90 percent of the code accounts for the first 90 percent of the develo
 
 </pre>
 **Daily News**
-  - A beginner's guide to diversity, equity and inclusion
+  - Warner Music acquires IMGN, a social media publishing platform, for under $100M
      <hr/>
      
-      - *After Minneapolis police killed George Floyd and the subsequent racial justice uprising, many people in tech shouted from the rooftops that “Black Lives Matter,” despite having subpar representation of Black and Latinx folks at their companies. In some cases,…*
+      - *It’s a whole new playing field these days for music labels and publishers, and today one of the big three made an acquisition to help it sharpen up its strategy to better understand what people want to see and hear online today. Warner Music — which owns labe…*
      
-  - Researchers explore sound to help improve robotic perception
+  - Facebook tests TikTok-style video format on its main app in India
       <hr/>
       
-      - *Robots primarily rely on two basic senses: vision and touch. But even the latter still has a long ways to go to get up to the speed with the former. Researchers at Carnegie Mellon University are looking to hearing as a potential additional sense to help machi…*
+      - *Facebook is going all in on short-form videos. After flirting with the idea in Lasso, a TikTok-clone it tested in select markets, and adding a similar feature to Instagram recently, the company is exploring a new venue for this TikTok-esque experience: The bi…*
       
-  - Edtech exits are increasing, but by how much?
+  - Pinterest employees are walking out today in light of discrimination allegations
       <hr/>
       
-      - *Before the coronavirus made edtech more relevant, companies in the sector were historically likely to see slow, low exits. Despite successful IPOs by 2U, Chegg and Instructure in the United States, public markets are not crowded with edtech companies. Some of…*
+      - *Pinterest employees are walking out today to demand change at the company. The walkout is directly in response to recent accusations of racial and gender discrimination at Pinterest. Organizers of the walkout are encouraging employees to post the following me…*
       
-  - The Polestar 2 bests the Tesla Model 3 in drivability and enjoyment
+  - Thirty Madison raises $47 million for its direct to consumer treatments of hair loss, migraines, and indigestion
       <hr/>
       
-      - *I enjoy driving the Polestar 2 more than the Tesla Model 3. The Polestar 2 is more comfortable, seemingly better built, and has a better infotainment system. In all the traditional automotive metrics, it’s a better car, and yet I find it hard to recommend ove…*
+      - *Thirty Madison, the New York-based startup developing a range of direct to consumer treatments for hair loss, migraines, and chronic indigestion, has raised $47 million in new financing. After last week’s nearly $19 billion merger between Teladoc and Livongo,…*
        
-  - Looking at how GenZ has changed fundraising
+  - A beginner's guide to diversity, equity and inclusion
       <hr/>
        
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week we had the full crew around once again, Natasha Mascarenhas, Danny Crichton, Chris Gates, and myself.…*
+       - *After Minneapolis police killed George Floyd and the subsequent racial justice uprising, many people in tech shouted from the rooftops that “Black Lives Matter,” despite having subpar representation of Black and Latinx folks at their companies. In some cases,…*
       
 
 
