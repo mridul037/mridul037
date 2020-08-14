@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only way to learn a new programming language is by writing programs in it.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Dennis Ritchie
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The only way to learn a new programming language is by writing programs in it.
 
 </pre>
 **Daily News**
-  - Amazon launches online pharmacy in India
+  - The Polestar 2 bests the Tesla Model 3 in drivability and enjoyment
      <hr/>
      
-      - *Amazon has launched an online pharmacy in Bangalore, the capital of India’s southern Karnataka state, as the e-commerce group looks to spread its tentacles in more categories in one of its key overseas markets. The company said on Friday its new service, call…*
+      - *I enjoy driving the Polestar 2 more than the Tesla Model 3. The Polestar 2 is more comfortable, seemingly better built, and has a better infotainment system. In all the traditional automotive metrics, it’s a better car, and yet I find it hard to recommend ove…*
      
+  - Looking at how GenZ has changed fundraising
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week we had the full crew around once again, Natasha Mascarenhas, Danny Crichton, Chris Gates, and myself.…*
+      
+  - Amazon launches online pharmacy in India
+      <hr/>
+      
+      - *Amazon has launched an online pharmacy in Bangalore, the capital of India’s southern Karnataka state, as the e-commerce group looks to spread its tentacles in more categories in one of its key overseas markets. The company said on Friday its new service, call…*
+      
   - Oracle and Salesforce hit with GDPR class action lawsuits over cookie tracking consent
       <hr/>
       
       - *The use of third party cookies for ad tracking and targeting by data broker giants Oracle and Salesforce is the focus of class action style litigation announced today in the UK and the Netherlands. The suits will argue that mass surveillance of Internet users…*
-      
+       
   - Fortnite for Android just got axed from the Google Play Store too
       <hr/>
-      
-      - *After Epic Games picked a fight with Apple over the sizable chunk of fees the company takes on transactions in its mobile ecosystem, it looks like the Fortnite developer will be waging a war on two fronts. Epic added a direct payment option to its mobile game…*
-      
-  - Daily Crunch: Apple removes Fortnite from the App Store
-      <hr/>
-      
-      - *Epic Games takes on Apple, Instagram fixes a security issue and Impossible Foods raises $200 million. This is your Daily Crunch for August 13, 2020. The big story: Apple removes Fortnite from the App Store The controversy over Apple’s App Store policies has e…*
        
-  - Facebook users are pretty bad at telling how much time they spend on it
-      <hr/>
-       
-       - *A lot of studies and discussion of social media use time spent on the platforms as evidence for various theories and conclusions — but it turns out that people are actually super bad at telling how long they spend on them, according to research from Facebook.…*
+       - *After Epic Games picked a fight with Apple over the sizable chunk of fees the company takes on transactions in its mobile ecosystem, it looks like the Fortnite developer will be waging a war on two fronts. Epic added a direct payment option to its mobile game…*
       
 
 
