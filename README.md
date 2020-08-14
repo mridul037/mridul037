@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
-~ Douglas Crockford
+~ Joe Armstrong (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It turns out that style matters in programming for the same reason that it matte
 
 </pre>
 **Daily News**
-  - Oracle and Salesforce hit with GDPR class action lawsuits over cookie tracking consent
+  - Amazon launches online pharmacy in India
      <hr/>
      
-      - *The use of third party cookies for ad tracking and targeting by data broker giants Oracle and Salesforce is the focus of class action style litigation announced today in the UK and the Netherlands. The suits will argue that mass surveillance of Internet users…*
+      - *Amazon has launched an online pharmacy in Bangalore, the capital of India’s southern Karnataka state, as the e-commerce group looks to spread its tentacles in more categories in one of its key overseas markets. The company said on Friday its new service, call…*
      
+  - Oracle and Salesforce hit with GDPR class action lawsuits over cookie tracking consent
+      <hr/>
+      
+      - *The use of third party cookies for ad tracking and targeting by data broker giants Oracle and Salesforce is the focus of class action style litigation announced today in the UK and the Netherlands. The suits will argue that mass surveillance of Internet users…*
+      
   - Fortnite for Android just got axed from the Google Play Store too
       <hr/>
       
@@ -81,16 +86,11 @@ It turns out that style matters in programming for the same reason that it matte
       <hr/>
       
       - *Epic Games takes on Apple, Instagram fixes a security issue and Impossible Foods raises $200 million. This is your Daily Crunch for August 13, 2020. The big story: Apple removes Fortnite from the App Store The controversy over Apple’s App Store policies has e…*
-      
+       
   - Facebook users are pretty bad at telling how much time they spend on it
       <hr/>
-      
-      - *A lot of studies and discussion of social media use time spent on the platforms as evidence for various theories and conclusions — but it turns out that people are actually super bad at telling how long they spend on them, according to research from Facebook.…*
        
-  - Uber and Lyft lose bid to delay worker reclassification order in California
-      <hr/>
-       
-       - *Uber and Lyft have lost their bid to delay a preliminary injunction that will force the two ride-hailing app companies to reclassify its drivers as employees. A California superior court judge denied Thursday the companies request to delay the order from goin…*
+       - *A lot of studies and discussion of social media use time spent on the platforms as evidence for various theories and conclusions — but it turns out that people are actually super bad at telling how long they spend on them, according to research from Facebook.…*
       
 
 
