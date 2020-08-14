@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+What I cannot build, I do not understand.
 
-~ Dennis Ritchie
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Another danger is that commercial pressures of one sort or another will divert t
 
 </pre>
 **Daily News**
-  - Facebook launches support for paid online events
+  - Thoughts on 'self-driving money,' day trading and product development from Wealthfront’s Andy Rachleff
      <hr/>
      
-      - *Businesses will now be able to monetize online events on Facebook, thanks to a new feature that the social network is launching in the United States and 19 other countries today. In a call with reporters, Head of Facebook App Fidji Sumo said that Facebook’s E…*
+      - *Andy Rachleff founded Wealthfront a decade ago to give investors a better and smarter way to manage their wealth, building on core academic research showing that a carefully balanced portfolio of low-fee ETFs outperformed more aggressive strategies. Since the…*
      
+  - Facebook pushes back against Apple's App Store fees
+      <hr/>
+      
+      - *Facebook joined the growing ranks of companies publicly complaining about the 30% fee that Apple collects on payments made through its App Store. Those complaints came midway through a blog post about the social network’s new feature supporting paid online ev…*
+      
+  - Human Capital: A timeline of Uber and Lyft’s fight against AB 5 and Pinterest’s fall from grace
+      <hr/>
+      
+      - *Welcome back to Human Capital. This week, Uber and Lyft's legal battle against a California law pertaining to independent contractors continued, and Pinterest employees reached their breaking point.*
+      
+  - Facebook launches support for paid online events
+      <hr/>
+      
+      - *Businesses will now be able to monetize online events on Facebook, thanks to a new feature that the social network is launching in the United States and 19 other countries today. In a call with reporters, Head of Facebook App Fidji Sumo said that Facebook’s E…*
+       
   - With a new general partner and without Alexis Ohanian, Initialized Capital garners $230 million for fund five
       <hr/>
-      
-      - *Initialized Capital, the early-stage venture firm that got its start inside of Y Combinator almost a decade ago and spun out of the organization roughly five years later, has closed its newest fund with $230 million in capital commitments, cofounder Garry Tan…*
-      
-  - NASA and SpaceX target October 23 for first operational astronaut launch
-      <hr/>
-      
-      - *NASA and SpaceX have set a specific target date for Crew-1, the first operational crewed mission for SpaceX’s Crew Dragon spacecraft. Crew-1 will carry astronauts Shannon Walker, Victor Oliver, Mike Hopkins and Soichi Noguchi to the International Space Statio…*
-      
-  - Travel startups cry foul over what Google's doing with their data
-      <hr/>
-      
-      - *As the antitrust drumbeat continues to pound on tech giants, with Reuters reporting comments today from the US Justice Department that it’s moving “full-tilt” on an investigation of platform giants including Google parent Alphabet, startups in Europe’s travel…*
        
-  - Eliminate DevOps waste with Japanese management practices
-      <hr/>
-       
-       - *Waste is the cardinal sin of lean methodology.*
+       - *Initialized Capital, the early-stage venture firm that got its start inside of Y Combinator almost a decade ago and spun out of the organization roughly five years later, has closed its newest fund with $230 million in capital commitments, cofounder Garry Tan…*
       
 
 
