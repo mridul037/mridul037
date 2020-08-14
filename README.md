@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 
-~ Brian Kernighan
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The most effective debugging tool is still careful thought, coupled with judicio
 
 </pre>
 **Daily News**
-  - The Polestar 2 bests the Tesla Model 3 in drivability and enjoyment
+  - Edtech exits are increasing, but by how much?
      <hr/>
      
-      - *I enjoy driving the Polestar 2 more than the Tesla Model 3. The Polestar 2 is more comfortable, seemingly better built, and has a better infotainment system. In all the traditional automotive metrics, it’s a better car, and yet I find it hard to recommend ove…*
+      - *Before the coronavirus made edtech more relevant, companies in the sector were historically likely to see slow, low exits. Despite successful IPOs by 2U, Chegg and Instructure in the United States, public markets are not crowded with edtech companies. Some of…*
      
+  - The Polestar 2 bests the Tesla Model 3 in drivability and enjoyment
+      <hr/>
+      
+      - *I enjoy driving the Polestar 2 more than the Tesla Model 3. The Polestar 2 is more comfortable, seemingly better built, and has a better infotainment system. In all the traditional automotive metrics, it’s a better car, and yet I find it hard to recommend ove…*
+      
   - Looking at how GenZ has changed fundraising
       <hr/>
       
@@ -81,16 +86,11 @@ The most effective debugging tool is still careful thought, coupled with judicio
       <hr/>
       
       - *Amazon has launched an online pharmacy in Bangalore, the capital of India’s southern Karnataka state, as the e-commerce group looks to spread its tentacles in more categories in one of its key overseas markets. The company said on Friday its new service, call…*
-      
+       
   - Oracle and Salesforce hit with GDPR class action lawsuits over cookie tracking consent
       <hr/>
-      
-      - *The use of third party cookies for ad tracking and targeting by data broker giants Oracle and Salesforce is the focus of class action style litigation announced today in the UK and the Netherlands. The suits will argue that mass surveillance of Internet users…*
        
-  - Fortnite for Android just got axed from the Google Play Store too
-      <hr/>
-       
-       - *After Epic Games picked a fight with Apple over the sizable chunk of fees the company takes on transactions in its mobile ecosystem, it looks like the Fortnite developer will be waging a war on two fronts. Epic added a direct payment option to its mobile game…*
+       - *The use of third party cookies for ad tracking and targeting by data broker giants Oracle and Salesforce is the focus of class action style litigation announced today in the UK and the Netherlands. The suits will argue that mass surveillance of Internet users…*
       
 
 
