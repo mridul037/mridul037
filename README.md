@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 
-~ John Warnock
+~ Andy Hunt (author)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ To be successful, you want to surround yourself with very talented folks whose s
 
 </pre>
 **Daily News**
-  - Warner Music acquires IMGN, a social media publishing platform, for under $100M
+  - Travel startups cry foul over what Google's doing with their data
      <hr/>
      
-      - *It’s a whole new playing field these days for music labels and publishers, and today one of the big three made an acquisition to help it sharpen up its strategy to better understand what people want to see and hear online today. Warner Music — which owns labe…*
+      - *As the antitrust drumbeat continues to pound on tech giants, with Reuters reporting comments today from the US Justice Department that it’s moving “full-tilt” on an investigation of platform giants including Google parent Alphabet, startups in Europe’s travel…*
      
+  - Eliminate DevOps waste with Japanese management practices
+      <hr/>
+      
+      - *Waste is the cardinal sin of lean methodology.*
+      
+  - Warner Music acquires IMGN, a social media publishing platform, for under $100M
+      <hr/>
+      
+      - *It’s a whole new playing field these days for music labels and publishers, and today one of the big three made an acquisition to help it sharpen up its strategy to better understand what people want to see and hear online today. Warner Music — which owns labe…*
+      
   - Facebook tests TikTok-style video format on its main app in India
       <hr/>
       
       - *Facebook is going all in on short-form videos. After flirting with the idea in Lasso, a TikTok-clone it tested in select markets, and adding a similar feature to Instagram recently, the company is exploring a new venue for this TikTok-esque experience: The bi…*
-      
+       
   - Pinterest employees are walking out today in light of discrimination allegations
       <hr/>
-      
-      - *Pinterest employees are walking out today to demand change at the company. The walkout is directly in response to recent accusations of racial and gender discrimination at Pinterest. Organizers of the walkout are encouraging employees to post the following me…*
-      
-  - Thirty Madison raises $47 million for its direct to consumer treatments of hair loss, migraines, and indigestion
-      <hr/>
-      
-      - *Thirty Madison, the New York-based startup developing a range of direct to consumer treatments for hair loss, migraines, and chronic indigestion, has raised $47 million in new financing. After last week’s nearly $19 billion merger between Teladoc and Livongo,…*
        
-  - A beginner's guide to diversity, equity and inclusion
-      <hr/>
-       
-       - *After Minneapolis police killed George Floyd and the subsequent racial justice uprising, many people in tech shouted from the rooftops that “Black Lives Matter,” despite having subpar representation of Black and Latinx folks at their companies. In some cases,…*
+       - *Pinterest employees are walking out today to demand change at the company. The walkout is directly in response to recent accusations of racial and gender discrimination at Pinterest. Organizers of the walkout are encouraging employees to post the following me…*
       
 
 
