@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
 
-~ L. Peter Deutsch
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
 
 </pre>
 **Daily News**
-  - Daily Crunch: Apple removes Fortnite from the App Store
+  - Fortnite for Android just got axed from the Google Play Store too
      <hr/>
      
-      - *Epic Games takes on Apple, Instagram fixes a security issue and Impossible Foods raises $200 million. This is your Daily Crunch for August 13, 2020. The big story: Apple removes Fortnite from the App Store The controversy over Apple’s App Store policies has e…*
+      - *After Epic Games picked a fight with Apple over the sizable chunk of fees the company takes on transactions in its mobile ecosystem, it looks like the Fortnite developer will be waging a war on two fronts. Epic added a direct payment option to its mobile game…*
      
+  - Daily Crunch: Apple removes Fortnite from the App Store
+      <hr/>
+      
+      - *Epic Games takes on Apple, Instagram fixes a security issue and Impossible Foods raises $200 million. This is your Daily Crunch for August 13, 2020. The big story: Apple removes Fortnite from the App Store The controversy over Apple’s App Store policies has e…*
+      
   - Facebook users are pretty bad at telling how much time they spend on it
       <hr/>
       
@@ -81,16 +86,11 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
       <hr/>
       
       - *Uber and Lyft have lost their bid to delay a preliminary injunction that will force the two ride-hailing app companies to reclassify its drivers as employees. A California superior court judge denied Thursday the companies request to delay the order from goin…*
-      
+       
   - Epic Games launches a campaign (and lawsuit) against Apple's App Store
       <hr/>
-      
-      - *Epic Games is launching an all-out campaign against Apple and its App Store rules. Thursday morning, Epic Games introduced a new payment mechanic through a server side update that allowed gamers to purchase Fortnite’s in-game currency directly, allowing the a…*
        
-  - Apple boots Fortnite from the App Store after Epic adds direct payments
-      <hr/>
-       
-       - *After its creator Epic Games implemented a workaround to duck Apple’s hefty developer fees, Fortnite has vanished from the App Store. The popular game’s disappearing act came the same day that Epic added a new direct payment option for in-game currency on mob…*
+       - *Epic Games is launching an all-out campaign against Apple and its App Store rules. Thursday morning, Epic Games introduced a new payment mechanic through a server side update that allowed gamers to purchase Fortnite’s in-game currency directly, allowing the a…*
       
 
 
