@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ Steve Jobs
+~ Tom Cargill
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ You can't just ask customers what they want and then try to give that to them. B
 
 </pre>
 **Daily News**
-  - Edtech exits are increasing, but by how much?
+  - A beginner's guide to diversity, equity and inclusion
      <hr/>
      
-      - *Before the coronavirus made edtech more relevant, companies in the sector were historically likely to see slow, low exits. Despite successful IPOs by 2U, Chegg and Instructure in the United States, public markets are not crowded with edtech companies. Some of…*
+      - *After Minneapolis police killed George Floyd and the subsequent racial justice uprising, many people in tech shouted from the rooftops that “Black Lives Matter,” despite having subpar representation of Black and Latinx folks at their companies. In some cases,…*
      
+  - Researchers explore sound to help improve robotic perception
+      <hr/>
+      
+      - *Robots primarily rely on two basic senses: vision and touch. But even the latter still has a long ways to go to get up to the speed with the former. Researchers at Carnegie Mellon University are looking to hearing as a potential additional sense to help machi…*
+      
+  - Edtech exits are increasing, but by how much?
+      <hr/>
+      
+      - *Before the coronavirus made edtech more relevant, companies in the sector were historically likely to see slow, low exits. Despite successful IPOs by 2U, Chegg and Instructure in the United States, public markets are not crowded with edtech companies. Some of…*
+      
   - The Polestar 2 bests the Tesla Model 3 in drivability and enjoyment
       <hr/>
       
       - *I enjoy driving the Polestar 2 more than the Tesla Model 3. The Polestar 2 is more comfortable, seemingly better built, and has a better infotainment system. In all the traditional automotive metrics, it’s a better car, and yet I find it hard to recommend ove…*
-      
+       
   - Looking at how GenZ has changed fundraising
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week we had the full crew around once again, Natasha Mascarenhas, Danny Crichton, Chris Gates, and myself.…*
-      
-  - Amazon launches online pharmacy in India
-      <hr/>
-      
-      - *Amazon has launched an online pharmacy in Bangalore, the capital of India’s southern Karnataka state, as the e-commerce group looks to spread its tentacles in more categories in one of its key overseas markets. The company said on Friday its new service, call…*
        
-  - Oracle and Salesforce hit with GDPR class action lawsuits over cookie tracking consent
-      <hr/>
-       
-       - *The use of third party cookies for ad tracking and targeting by data broker giants Oracle and Salesforce is the focus of class action style litigation announced today in the UK and the Netherlands. The suits will argue that mass surveillance of Internet users…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week we had the full crew around once again, Natasha Mascarenhas, Danny Crichton, Chris Gates, and myself.…*
       
 
 
