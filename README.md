@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ Ted Nelson
+~ George Carrette
 <pre>
 
 </pre>
