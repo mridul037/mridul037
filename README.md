@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Joe Armstrong (programmer)
+~ Dennis Ritchie
 <pre>
 
 </pre>
