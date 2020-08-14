@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 
-~ George Boole
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The design of the following treatise is to investigate the fundamental laws of t
 
 </pre>
 **Daily News**
-  - Travel startups cry foul over what Google's doing with their data
+  - Facebook launches support for paid online events
      <hr/>
      
-      - *As the antitrust drumbeat continues to pound on tech giants, with Reuters reporting comments today from the US Justice Department that it’s moving “full-tilt” on an investigation of platform giants including Google parent Alphabet, startups in Europe’s travel…*
+      - *Businesses will now be able to monetize online events on Facebook, thanks to a new feature that the social network is launching in the United States and 19 other countries today. In a call with reporters, Head of Facebook App Fidji Sumo said that Facebook’s E…*
      
+  - With a new general partner and without Alexis Ohanian, Initialized Capital garners $230 million for fund five
+      <hr/>
+      
+      - *Initialized Capital, the early-stage venture firm that got its start inside of Y Combinator almost a decade ago and spun out of the organization roughly five years later, has closed its newest fund with $230 million in capital commitments, cofounder Garry Tan…*
+      
+  - NASA and SpaceX target October 23 for first operational astronaut launch
+      <hr/>
+      
+      - *NASA and SpaceX have set a specific target date for Crew-1, the first operational crewed mission for SpaceX’s Crew Dragon spacecraft. Crew-1 will carry astronauts Shannon Walker, Victor Oliver, Mike Hopkins and Soichi Noguchi to the International Space Statio…*
+      
+  - Travel startups cry foul over what Google's doing with their data
+      <hr/>
+      
+      - *As the antitrust drumbeat continues to pound on tech giants, with Reuters reporting comments today from the US Justice Department that it’s moving “full-tilt” on an investigation of platform giants including Google parent Alphabet, startups in Europe’s travel…*
+       
   - Eliminate DevOps waste with Japanese management practices
       <hr/>
-      
-      - *Waste is the cardinal sin of lean methodology.*
-      
-  - Warner Music acquires IMGN, a social media publishing platform, for under $100M
-      <hr/>
-      
-      - *It’s a whole new playing field these days for music labels and publishers, and today one of the big three made an acquisition to help it sharpen up its strategy to better understand what people want to see and hear online today. Warner Music — which owns labe…*
-      
-  - Facebook tests TikTok-style video format on its main app in India
-      <hr/>
-      
-      - *Facebook is going all in on short-form videos. After flirting with the idea in Lasso, a TikTok-clone it tested in select markets, and adding a similar feature to Instagram recently, the company is exploring a new venue for this TikTok-esque experience: The bi…*
        
-  - Pinterest employees are walking out today in light of discrimination allegations
-      <hr/>
-       
-       - *Pinterest employees are walking out today to demand change at the company. The walkout is directly in response to recent accusations of racial and gender discrimination at Pinterest. Organizers of the walkout are encouraging employees to post the following me…*
+       - *Waste is the cardinal sin of lean methodology.*
       
 
 
