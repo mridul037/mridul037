@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Nathaniel Borenstein
+~ Ted Nelson
 <pre>
 
 </pre>
