@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 
-~ Andy Hunt (author)
+~ George Boole
 <pre>
 
 </pre>
