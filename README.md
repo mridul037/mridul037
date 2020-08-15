@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to know that you have found the last bug is never to find the first bug.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
-~ Harlan Mills
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The best way to know that you have found the last bug is never to find the first
 
 </pre>
 **Daily News**
-  - Liquid unicorns, accelerating transitions, and Gen Z's venture impact
+  - Gillmor Gang: VP Live
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Tuesday, August 11, 2020. For more, subscribe to the Gillmor Gang Newsletter and join the notification feed here on Telegram. Produc…*
      
+  - Liquid unicorns, accelerating transitions, and Gen Z's venture impact
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
+      
   - Startups Weekly: The US is finally getting serious about 5G
       <hr/>
       
@@ -81,16 +86,11 @@ The best way to know that you have found the last bug is never to find the first
       <hr/>
       
       - *Decrypted, this week, looks back at the Black Hat & Def Con security conferences.*
-      
+       
   - Elon Musk says 'embarrassingly late' two-factor is coming to Tesla app
       <hr/>
-      
-      - *Tesla CEO Elon Musk acknowledged Friday that the company was ‘embarrassingly late’ rolling out a security layer known as two-factor authentication for its mobile app. “Sorry, this is embarrassingly late. Two factor authentication via sms or authenticator app …*
        
-  - Clearview AI landed a new facial recognition contract with ICE
-      <hr/>
-       
-       - *The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trum…*
+       - *Tesla CEO Elon Musk acknowledged Friday that the company was ‘embarrassingly late’ rolling out a security layer known as two-factor authentication for its mobile app. “Sorry, this is embarrassingly late. Two factor authentication via sms or authenticator app …*
       
 
 
