@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 
-~ Fred Brooks
+~ Gerald Weinberg
 <pre>
 
 </pre>
