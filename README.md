@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ Fred Brooks
+~ John Warnock
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Chemical engineers learned long ago that a process that works in the laboratory 
 
 </pre>
 **Daily News**
-  - Clearview AI landed a new facial recognition contract with ICE
+  - Elon Musk says 'embarrassingly late' two-factor is coming to Tesla app
      <hr/>
      
-      - *The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trum…*
+      - *Tesla CEO Elon Musk acknowledged Friday that the company was ‘embarrassingly late’ rolling out a security layer known as two-factor authentication for its mobile app. “Sorry, this is embarrassingly late. Two factor authentication via sms or authenticator app …*
      
+  - Clearview AI landed a new facial recognition contract with ICE
+      <hr/>
+      
+      - *The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trum…*
+      
   - Birmingham-based Help Lightning raises $8 million for its remote training and support tools
       <hr/>
       
@@ -81,16 +86,11 @@ Chemical engineers learned long ago that a process that works in the laboratory 
       <hr/>
       
       - *Rent the Runway and Glossier became unicorns within the same week in June 2019. That same year, only 2.7% of venture capital dollars went toward female-founded companies. Silicon Valley’s disconnect between the monetary success of female-founded companies and…*
-      
+       
   - Facebook's former PR chief explains why no one is paying attention to your startup
       <hr/>
-      
-      - *At TechCrunch Early Stage, I spoke with Coatue Management GP Caryn Marooney about startup branding and how founders can get people to pay attention to what they’re building. Marooney recently made the jump into venture capital; previously she was co-founder a…*
        
-  - Sequoia Capital has internal crash courses for its founders -- here's how they work
-      <hr/>
-       
-       - *No matter what you think of Sequoia Capital, the firm doesn’t rest on its laurels. Though it’s now managing ungodly amounts of money and has for decades been considered among the top venture firms in the world, it routinely finds new ways to stay relevant and…*
+       - *At TechCrunch Early Stage, I spoke with Coatue Management GP Caryn Marooney about startup branding and how founders can get people to pay attention to what they’re building. Marooney recently made the jump into venture capital; previously she was co-founder a…*
       
 
 
