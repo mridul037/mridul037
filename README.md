@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+The best way to know that you have found the last bug is never to find the first bug.
 
-~ Joseph Yoder (computer scientist)
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ While much attention has been focused on high-level software architectural patte
 
 </pre>
 **Daily News**
-  - Startups Weekly: The US is finally getting serious about 5G
+  - Liquid unicorns, accelerating transitions, and Gen Z's venture impact
      <hr/>
      
-      - *There are few things that US political leaders can agree on these days, but one of them thankfully appears to be 5G. Manufacturing, transportation, agriculture, health care and many other industries are beginning to incorporate the fast, device-to-device conn…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
      
+  - Startups Weekly: The US is finally getting serious about 5G
+      <hr/>
+      
+      - *There are few things that US political leaders can agree on these days, but one of them thankfully appears to be 5G. Manufacturing, transportation, agriculture, health care and many other industries are beginning to incorporate the fast, device-to-device conn…*
+      
   - Decrypted: Hackers show off their exploits as Black Hat goes virtual
       <hr/>
       
@@ -81,16 +86,11 @@ While much attention has been focused on high-level software architectural patte
       <hr/>
       
       - *Tesla CEO Elon Musk acknowledged Friday that the company was ‘embarrassingly late’ rolling out a security layer known as two-factor authentication for its mobile app. “Sorry, this is embarrassingly late. Two factor authentication via sms or authenticator app …*
-      
+       
   - Clearview AI landed a new facial recognition contract with ICE
       <hr/>
-      
-      - *The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trum…*
        
-  - Birmingham-based Help Lightning raises $8 million for its remote training and support tools
-      <hr/>
-       
-       - *In the four years since Help Lightning first began pitching its services out of its Birmingham, Ala. headquarters, the company has managed to sign up 100 customers including some large Fortune 500 companies like Cox Communications, Siemens, and Boston Scienti…*
+       - *The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trum…*
       
 
 
