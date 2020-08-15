@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+JavaScript is the world's most misunderstood programming language.
 
-~ L. Peter Deutsch
+~ Douglas Crockford
 <pre>
 
 </pre>
