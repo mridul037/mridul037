@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 
-~ Ted Nelson
+~ Marijn Haverbeke
 <pre>
 
 </pre>
