@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 
-~ Gary Kildall
+~ Fred Brooks
 <pre>
 
 </pre>
