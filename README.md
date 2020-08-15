@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ Poul Anderson
+~ Ted Nelson
 <pre>
 
 </pre>
