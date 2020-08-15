@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Even in the games of children there are things to interest the greatest mathematician.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Gottfried Wilhelm Leibniz
+~ John von Neumann
 <pre>
 
 </pre>
