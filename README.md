@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
 
-~ Gerald Weinberg
+~ Fred Brooks
 <pre>
 
 </pre>
