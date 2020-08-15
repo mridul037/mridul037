@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-JavaScript is the world's most misunderstood programming language.
+Code never lies, comments sometimes do.
 
-~ Douglas Crockford
+~ Ron Jeffries
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ JavaScript is the world's most misunderstood programming language.
 
 </pre>
 **Daily News**
-  - Decrypted: Hackers show off their exploits as Black Hat goes virtual
+  - Startups Weekly: The US is finally getting serious about 5G
      <hr/>
      
-      - *Decrypted, this week, looks back at the Black Hat & Def Con security conferences.*
+      - *There are few things that US political leaders can agree on these days, but one of them thankfully appears to be 5G. Manufacturing, transportation, agriculture, health care and many other industries are beginning to incorporate the fast, device-to-device conn…*
      
+  - Decrypted: Hackers show off their exploits as Black Hat goes virtual
+      <hr/>
+      
+      - *Decrypted, this week, looks back at the Black Hat & Def Con security conferences.*
+      
   - Elon Musk says 'embarrassingly late' two-factor is coming to Tesla app
       <hr/>
       
@@ -81,16 +86,11 @@ JavaScript is the world's most misunderstood programming language.
       <hr/>
       
       - *The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trum…*
-      
+       
   - Birmingham-based Help Lightning raises $8 million for its remote training and support tools
       <hr/>
-      
-      - *In the four years since Help Lightning first began pitching its services out of its Birmingham, Ala. headquarters, the company has managed to sign up 100 customers including some large Fortune 500 companies like Cox Communications, Siemens, and Boston Scienti…*
        
-  - Extra Crunch Live: Join Anu Duggal for a live Q&A on August 20 at 11am PT/2pm ET
-      <hr/>
-       
-       - *Rent the Runway and Glossier became unicorns within the same week in June 2019. That same year, only 2.7% of venture capital dollars went toward female-founded companies. Silicon Valley’s disconnect between the monetary success of female-founded companies and…*
+       - *In the four years since Help Lightning first began pitching its services out of its Birmingham, Ala. headquarters, the company has managed to sign up 100 customers including some large Fortune 500 companies like Cox Communications, Siemens, and Boston Scienti…*
       
 
 
