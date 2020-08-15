@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 
-~ Fred Brooks
+~ John Carmack
 <pre>
 
 </pre>
