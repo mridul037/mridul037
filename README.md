@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Controlling complexity is the essence of computer programming.
+If you think it's simple, then you have misunderstood the problem.
 
-~ Brian Kernighan
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
