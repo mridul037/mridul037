@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 
-~ Bjarne Stroustrup
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
