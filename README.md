@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ Richard P. Gabriel
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
