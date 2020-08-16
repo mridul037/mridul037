@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 
-~ Arthur C. Clarke
+~ Stan Kelly-Bootle
 <pre>
 
 </pre>
