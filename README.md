@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Unix is simple. It just takes a genius to understand its simplicity.
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 
-~ Dennis Ritchie
+~ Richard P. Gabriel
 <pre>
 
 </pre>
