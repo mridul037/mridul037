@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Bill Gates
+~ Dennis Ritchie
 <pre>
 
 </pre>
