@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
-~ John McCarthy (computer scientist)
+~ Martin Fowler
 <pre>
 
 </pre>
