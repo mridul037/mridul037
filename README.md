@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 
-~ Martin Fowler
+~ Bill Gates
 <pre>
 
 </pre>
