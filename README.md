@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In order to understand recursion, one must first understand recursion.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Anonymous
+~ Arthur C. Clarke
 <pre>
 
 </pre>
