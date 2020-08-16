@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+Sometimes it’s just easier to throw a system away, and start over.
 
-~ Anonymous
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
