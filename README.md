@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+Much of the essence of building a program is in fact the debugging of the specification.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
