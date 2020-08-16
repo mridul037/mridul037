@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 
-~ Steve McConnell
+~ Andy Hertzfeld
 <pre>
 
 </pre>
