@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+Most errors are introduced during requirements specification!
 
-~ Manuel Blum
+~ Daniel T. Barry
 <pre>
 
 </pre>
