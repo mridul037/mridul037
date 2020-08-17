@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is no reason anyone would want a computer in their home.
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 
-~ Ken Olsen
+~ John Carmack
 <pre>
 
 </pre>
