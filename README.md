@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 
-~ Donald Knuth
+~ Stewart Brand
 <pre>
 
 </pre>
