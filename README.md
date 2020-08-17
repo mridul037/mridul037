@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Gottfried Wilhelm Leibniz
+~ L. Peter Deutsch
 <pre>
 
 </pre>
