@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+The best way to predict the future is to invent it.
 
-~ Poul Anderson
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I have yet to see any problem, however complicated, which when looked at in the 
 
 </pre>
 **Daily News**
-  - Epic files an injunction against Apple over threat to revoke all developer access
+  - Tesla shares rally for no reason
      <hr/>
      
-      - *After taking a stand against Apple’s hefty cut of the money developers make through the App Store, Fortnite maker Epic Games shows no signs of backing down. The company filed an injunction against Apple in the U.S. District Court for California’s Northern Dis…*
+      - *Tesla shares surpassed $1,800 for the first time today, the latest in an eye-popping run up of the stock that has propelled the company’s valuation to more than $341 billion. Let’s put these numbers in perspective. Tesla, an automaker that delivered 367,500 v…*
      
-  - Meet the startup that helped Microsoft build the world of Flight Simulator
+  - Datasembly's real time pricing tool for consumer goods raises $10.3 million
       <hr/>
       
-      - *Microsoft’s new Flight Simulator is a technological marvel that sets a new standard for the genre. But to recreate a world that feels real and alive and contains billions of buildings all in the right spots, Microsoft and Asobo Studios relied on the work of m…*
+      - *Washington-based Datasembly aims to take the guesswork out of the pricing for consumer goods. The company founded by Ben Reich and Dan Gallagher initially started as a project the two men developed after working at a retail analytics firm in the DC area. What…*
       
-  - TikTok launches a new information hub and Twitter account to 'correct the record,' it says
+  - Pinterest announces first Black board member
       <hr/>
       
-      - *TikTok had already offered its statement regarding the Trump Administration’s executive order that will ban the app from the U.S. if it’s not sold by Chinese-owned parent company ByteDance by a given deadline. Today, the company has additionally launched its …*
+      - *Pinterest has appointed Andrea Wishom, President of trampoline company Skywalker Holdings and former Harpo Studios executive, to its board of directors. The appointment makes her Pinterest’s first Black board member and third female board member. Pinterest ad…*
       
-  - Amex acquires Softbank-backed Kabbage after tough 2020 for the SMB lender
+  - Lana has launched in Latin America to be the one-stop shop for gig workers financial needs
       <hr/>
       
-      - *Small and medium businesses have been some of the hardest hit in the coronavirus pandemic, and in many cases that has had a knock-on effect on the companies that provide services to them. Now, a startup that built a whole business around loaning money to SMBs…*
+      - *Lana, a new startup based in Madrid, is looking to be the next big thing in Latin American fintech. Founded by a serial entrepreneur Pablo Muniz, whose last business was backed by one of Spain’s largest financial services institutions, BBVA; Lana is looking t…*
        
-  - Get a free annual Extra Crunch membership when you buy a Disrupt 2020 pass
+  - Epic files an injunction against Apple over threat to revoke all developer access
       <hr/>
        
-       - *Disrupt 2020 is right around the corner, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free year of Extra Crunch, our membership program focused on startups, founders and investors with mo…*
+       - *After taking a stand against Apple’s hefty cut of the money developers make through the App Store, Fortnite maker Epic Games shows no signs of backing down. The company filed an injunction against Apple in the U.S. District Court for California’s Northern Dis…*
       
 
 
