@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 
-~ Bjarne Stroustrup
+~ Poul Anderson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are only two kinds of languages: the ones people complain about and the on
 
 </pre>
 **Daily News**
-  - Get a free annual Extra Crunch membership when you buy a Disrupt 2020 pass
+  - Epic files an injunction against Apple over threat to revoke all developer access
      <hr/>
      
-      - *Disrupt 2020 is right around the corner, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free year of Extra Crunch, our membership program focused on startups, founders and investors with mo…*
+      - *After taking a stand against Apple’s hefty cut of the money developers make through the App Store, Fortnite maker Epic Games shows no signs of backing down. The company filed an injunction against Apple in the U.S. District Court for California’s Northern Dis…*
      
-  - In conversation with European B2B seed VC La Famiglia
+  - Meet the startup that helped Microsoft build the world of Flight Simulator
       <hr/>
       
-      - *Earlier this month, La Famiglia, a Berlin-based VC firm that invests in seed-stage European B2B tech startups, disclosed that it raised a second fund totaling €50 million, up from its debut fund of €35 million in 2017. The firm writes first checks of up to €1…*
+      - *Microsoft’s new Flight Simulator is a technological marvel that sets a new standard for the genre. But to recreate a world that feels real and alive and contains billions of buildings all in the right spots, Microsoft and Asobo Studios relied on the work of m…*
       
-  - Deepfake video app Reface is just getting started on shapeshifting selfie culture
+  - TikTok launches a new information hub and Twitter account to 'correct the record,' it says
       <hr/>
       
-      - *A bearded Rihanna gyrates and sings about shining bright like a diamond. A female Jack Sparrow looks like she’d be a right laugh over a pint. The cartoon contours of The Incredible Hulk lend envious tint to Donald Trump’s awfully familiar cheek bumps. Selfie …*
+      - *TikTok had already offered its statement regarding the Trump Administration’s executive order that will ban the app from the U.S. if it’s not sold by Chinese-owned parent company ByteDance by a given deadline. Today, the company has additionally launched its …*
       
-  - Robinhood raises $200M more at $11.2B valuation as its revenue scales
+  - Amex acquires Softbank-backed Kabbage after tough 2020 for the SMB lender
       <hr/>
       
-      - *Robinhood announced this morning that it has raised $200 million more at a new, higher $11.2 billion valuation. The new capital came as a surprise. Astute observers of all things fintech will recall that Robinhood, a popular stock trading service, has raised …*
+      - *Small and medium businesses have been some of the hardest hit in the coronavirus pandemic, and in many cases that has had a knock-on effect on the companies that provide services to them. Now, a startup that built a whole business around loaning money to SMBs…*
        
-  - How tech can build more resilient supply chains
+  - Get a free annual Extra Crunch membership when you buy a Disrupt 2020 pass
       <hr/>
        
-       - *The main things shippers want is the ability to dynamically manage supply chain risks and operations and optimize cash flow between corporate buyers and their suppliers.*
+       - *Disrupt 2020 is right around the corner, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free year of Extra Crunch, our membership program focused on startups, founders and investors with mo…*
       
 
 
