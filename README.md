@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+Good software, like good wine, takes time.
 
-~ Roy Fielding
+~ Joel Spolsky
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Communication must be stateless in nature, such that each request from client to
 
 </pre>
 **Daily News**
-  - US Commerce Department updates rules to further limit Huawei’s chip access
+  - PopSugar co-founder says pandemic will create 'a huge windfall' for digital media
      <hr/>
      
-      - *The United States Department of Commerce this morning issued updates to a list of rules designed to restrict Huawei’s access to U.S.-based technology. The new restrictions follow a similar decree announced in May, finding the government department engaged in …*
+      - *It’s been less than a year since Group Nine Media acquired PopSugar — but it’s been a uniquely challenging time in digital media. Brian Sugar founded the eponymous women’s lifestyle site with his wife Lisa Sugar . Post-acquisition, he’s become president for t…*
      
-  - Hear how to scale to $100M ARR at Disrupt 2020
+  - Hour One raises $5M Seed to generate AI-driven synthetic characters from real humans
       <hr/>
       
-      - *At Disrupt this year TechCrunch is digging into the $100 million annual recurring revenue (ARR) threshold. To help us explore the software revenue milestone, we’re bringing a number of CEOs that have already reached it: Egnyte’s Vineet Jain, GitLab’s Sid Sijb…*
+      - *All of the people pictured above are real, but what you are seeing are synthetically-generated versions of their real selves. And they can be programmed to say anything. Tech futurists have long warned about humans being replaced by life-like AI-driven figure…*
       
-  - DST Global pumps $35 million into Asian e-grocer Weee!
+  - Lucid Motors CEO and CTO Peter Rawlinson to join TC Sessions: Mobility 2020
       <hr/>
       
-      - *Coronavirus stay-home orders have sparked an unprecedented demand for grocery delivery around the world. Now investors are clamoring to bet on promising players in the field. That includes DST Global, the investment firm helmed by Russian billionaire Yuri Mil…*
+      - *Lucid Motors will unveil its long anticipated all-electric luxury electric Air sedan on September 9, a vehicle that promises to have at least 517 miles on a single charge. The company has been toiling away for years now, pushing forward battery technology and…*
       
-  - TikTok announces a deal with UnitedMasters, its first music distribution partnership
+  - Canalys: Google is top cloud infrastructure provider for online retailers
       <hr/>
       
-      - *Though TikTok’s future in the U.S. remains uncertain, the company announced this morning its first music distribution partnership, with indie music distributor UnitedMasters. The deal will allow artists on TikTok to tap into the platform’s ability to make the…*
+      - *While Google Cloud Platform has shown some momentum in the last year, it remains a distant third behind Amazon and Microsoft in the cloud infrastructure market. But Google got some good news from Canalys today when the firm reported that GCP is the number one…*
        
-  - Equity Monday: A good time for ambitious startups to take on BigTech
+  - SUSE contributes EiriniX to the Cloud Foundry Foundation
       <hr/>
        
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+       - *SUSE today announced that it has contributed EiriniX, a framework for building extensions for Eirini, a technology that brings support for Kubernetes-based container orchestration to the Cloud Foundry platform-as-a-service project. About a year ago, SUSE also…*
       
 
 
