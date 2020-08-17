@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Gary Kildall
+~ George Boole
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I start with drawing the data structures, and I spend a lot of time thinking abo
 
 </pre>
 **Daily News**
-  - The Station: Polestar 2 drive, Tesla splits and a chat with Motional's Karl Iagnemma
+  - SpaceX will attempt to break a rocket reusability record with a launch this week
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      - *SpaceX is preparing for yet another launch of Starlink satellites on Tuesday – its tenth launch of production versions of the satellites to date. In addition to 58 Starlink satellites, the Falcon 9 flying the mission will also carry three Planet  satellites –…*
      
+  - The Station: Polestar 2 drive, Tesla splits and a chat with Motional's Karl Iagnemma
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      
   - Tencent takes minority stake in French casual games maker Voodoo
       <hr/>
       
@@ -81,16 +86,11 @@ I start with drawing the data structures, and I spend a lot of time thinking abo
       <hr/>
       
       - *Google has fired a lobbying pot-shot at a looming change to the law in Australia that will force it to share ad revenue with local media businesses whose content its platforms monetize — seeking to mobilize its users against “big media”. Last month Australia’…*
-      
+       
   - Text editor Notepad++ banned in China after 'Stand With Hong Kong' update
       <hr/>
-      
-      - *The website of Notepad++ is banned in China as of Monday, “obviously due to” its release of editions named ‘Free Uyghur’ and ‘Stand With Hong Kong’, the source code and text editor announced on Twitter. First released in 2003 by France-based developer Don Ho,…*
        
-  - Hammock collects £1M seed for its current account for landlords and property managers
-      <hr/>
-       
-       - *Hammock, a U.K. fintech/proptech helping landlords and property manages gain better oversight on the financial health of their rental properties, has raised £1 million in seed funding as it readies the launch of a current account. Backing comes from Fuel Vent…*
+       - *The website of Notepad++ is banned in China as of Monday, “obviously due to” its release of editions named ‘Free Uyghur’ and ‘Stand With Hong Kong’, the source code and text editor announced on Twitter. First released in 2003 by France-based developer Don Ho,…*
       
 
 
