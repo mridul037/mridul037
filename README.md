@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+There is no reason anyone would want a computer in their home.
 
-~ Alan Perlis
+~ Ken Olsen
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I think it is inevitable that people program poorly. Training will not substanti
 
 </pre>
 **Daily News**
-  - Gillmor Gang: VP Live
+  - As it adds Jeremy Milken to the partnership, Watertower Ventures nears $50 million close for its new fund
      <hr/>
      
-      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Tuesday, August 11, 2020. For more, subscribe to the Gillmor Gang Newsletter and join the notification feed here on Telegram. Produc…*
+      - *Derek Norton and Jeremy Milken have known each other for twenty years. Over their longtime personal and professional relationship, the two Los Angeles-based serial entrepreneurs have invested in each other’s companies and investment firms, but never worked to…*
      
+  - Gillmor Gang: VP Live
+      <hr/>
+      
+      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Tuesday, August 11, 2020. For more, subscribe to the Gillmor Gang Newsletter and join the notification feed here on Telegram. Produc…*
+      
   - Liquid unicorns, accelerating transitions, and Gen Z's venture impact
       <hr/>
       
@@ -81,16 +86,11 @@ I think it is inevitable that people program poorly. Training will not substanti
       <hr/>
       
       - *There are few things that US political leaders can agree on these days, but one of them thankfully appears to be 5G. Manufacturing, transportation, agriculture, health care and many other industries are beginning to incorporate the fast, device-to-device conn…*
-      
+       
   - Decrypted: Hackers show off their exploits as Black Hat goes virtual
       <hr/>
-      
-      - *Decrypted, this week, looks back at the Black Hat & Def Con security conferences.*
        
-  - Elon Musk says 'embarrassingly late' two-factor is coming to Tesla app
-      <hr/>
-       
-       - *Tesla CEO Elon Musk acknowledged Friday that the company was ‘embarrassingly late’ rolling out a security layer known as two-factor authentication for its mobile app. “Sorry, this is embarrassingly late. Two factor authentication via sms or authenticator app …*
+       - *Decrypted, this week, looks back at the Black Hat & Def Con security conferences.*
       
 
 
