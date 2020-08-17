@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ George Boole
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ That language is an instrument of human reason, and not merely a medium for the 
 
 </pre>
 **Daily News**
-  - SpaceX will attempt to break a rocket reusability record with a launch this week
+  - BlackSky's latest satellites return images just 58 hours after SpaceX launch
      <hr/>
      
-      - *SpaceX is preparing for yet another launch of Starlink satellites on Tuesday – its tenth launch of production versions of the satellites to date. In addition to 58 Starlink satellites, the Falcon 9 flying the mission will also carry three Planet  satellites –…*
+      - *There’s an increasing demand for fast turnaround time in the satellite imaging industry, especially among clients across government and defense, who want responsive, near-real time performance because of how quickly situations on the ground can develop and ch…*
      
+  - SpaceX will attempt to break a rocket reusability record with a launch this week
+      <hr/>
+      
+      - *SpaceX is preparing for yet another launch of Starlink satellites on Tuesday – its tenth launch of production versions of the satellites to date. In addition to 58 Starlink satellites, the Falcon 9 flying the mission will also carry three Planet  satellites –…*
+      
   - The Station: Polestar 2 drive, Tesla splits and a chat with Motional's Karl Iagnemma
       <hr/>
       
@@ -81,16 +86,11 @@ That language is an instrument of human reason, and not merely a medium for the 
       <hr/>
       
       - *Tencent just added another portfolio member to its expanding global gaming empire, this time, to up its game in mobile casual plays. Voodoo, the French company behind a slew of popular casual games, announced Monday that Tencent has become a minority sharehol…*
-      
+       
   - Google warns users in Australia free services are at risk if it's forced to share ad revenue with "big media"
       <hr/>
-      
-      - *Google has fired a lobbying pot-shot at a looming change to the law in Australia that will force it to share ad revenue with local media businesses whose content its platforms monetize — seeking to mobilize its users against “big media”. Last month Australia’…*
        
-  - Text editor Notepad++ banned in China after 'Stand With Hong Kong' update
-      <hr/>
-       
-       - *The website of Notepad++ is banned in China as of Monday, “obviously due to” its release of editions named ‘Free Uyghur’ and ‘Stand With Hong Kong’, the source code and text editor announced on Twitter. First released in 2003 by France-based developer Don Ho,…*
+       - *Google has fired a lobbying pot-shot at a looming change to the law in Australia that will force it to share ad revenue with local media businesses whose content its platforms monetize — seeking to mobilize its users against “big media”. Last month Australia’…*
       
 
 
