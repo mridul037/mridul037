@@ -23,9 +23,11 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 
-~ Linus Torvalds
+~ Michael A. Jackson
 <pre>
 
 </pre>
@@ -67,30 +69,30 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 
 </pre>
 **Daily News**
-  - BlackSky's latest satellites return images just 58 hours after SpaceX launch
+  - TikTok announces a deal with UnitedMasters, its first music distribution partnership
      <hr/>
      
-      - *There’s an increasing demand for fast turnaround time in the satellite imaging industry, especially among clients across government and defense, who want responsive, near-real time performance because of how quickly situations on the ground can develop and ch…*
+      - *Though TikTok’s future in the U.S. remains uncertain, the company announced this morning its first music distribution partnership, with indie music distributor UnitedMasters. The deal will allow artists on TikTok to tap into the platform’s ability to make the…*
      
+  - Equity Monday: A good time for ambitious startups to take on BigTech
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
+  - BlackSky's latest satellites return images just 58 hours after SpaceX launch
+      <hr/>
+      
+      - *There’s an increasing demand for fast turnaround time in the satellite imaging industry, especially among clients across government and defense, who want responsive, near-real time performance because of how quickly situations on the ground can develop and ch…*
+      
   - SpaceX will attempt to break a rocket reusability record with a launch this week
       <hr/>
       
       - *SpaceX is preparing for yet another launch of Starlink satellites on Tuesday – its tenth launch of production versions of the satellites to date. In addition to 58 Starlink satellites, the Falcon 9 flying the mission will also carry three Planet  satellites –…*
-      
+       
   - The Station: Polestar 2 drive, Tesla splits and a chat with Motional's Karl Iagnemma
       <hr/>
-      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
-      
-  - Tencent takes minority stake in French casual games maker Voodoo
-      <hr/>
-      
-      - *Tencent just added another portfolio member to its expanding global gaming empire, this time, to up its game in mobile casual plays. Voodoo, the French company behind a slew of popular casual games, announced Monday that Tencent has become a minority sharehol…*
        
-  - Google warns users in Australia free services are at risk if it's forced to share ad revenue with "big media"
-      <hr/>
-       
-       - *Google has fired a lobbying pot-shot at a looming change to the law in Australia that will force it to share ad revenue with local media businesses whose content its platforms monetize — seeking to mobilize its users against “big media”. Last month Australia’…*
+       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
       
 
 
