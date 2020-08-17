@@ -23,11 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 
-~ Michael A. Jackson
+~ Roy Fielding
 <pre>
 
 </pre>
@@ -69,30 +67,30 @@ Two things are known about requirements:
 
 </pre>
 **Daily News**
-  - TikTok announces a deal with UnitedMasters, its first music distribution partnership
+  - US Commerce Department updates rules to further limit Huawei’s chip access
      <hr/>
      
-      - *Though TikTok’s future in the U.S. remains uncertain, the company announced this morning its first music distribution partnership, with indie music distributor UnitedMasters. The deal will allow artists on TikTok to tap into the platform’s ability to make the…*
+      - *The United States Department of Commerce this morning issued updates to a list of rules designed to restrict Huawei’s access to U.S.-based technology. The new restrictions follow a similar decree announced in May, finding the government department engaged in …*
      
+  - Hear how to scale to $100M ARR at Disrupt 2020
+      <hr/>
+      
+      - *At Disrupt this year TechCrunch is digging into the $100 million annual recurring revenue (ARR) threshold. To help us explore the software revenue milestone, we’re bringing a number of CEOs that have already reached it: Egnyte’s Vineet Jain, GitLab’s Sid Sijb…*
+      
+  - DST Global pumps $35 million into Asian e-grocer Weee!
+      <hr/>
+      
+      - *Coronavirus stay-home orders have sparked an unprecedented demand for grocery delivery around the world. Now investors are clamoring to bet on promising players in the field. That includes DST Global, the investment firm helmed by Russian billionaire Yuri Mil…*
+      
+  - TikTok announces a deal with UnitedMasters, its first music distribution partnership
+      <hr/>
+      
+      - *Though TikTok’s future in the U.S. remains uncertain, the company announced this morning its first music distribution partnership, with indie music distributor UnitedMasters. The deal will allow artists on TikTok to tap into the platform’s ability to make the…*
+       
   - Equity Monday: A good time for ambitious startups to take on BigTech
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
-      
-  - BlackSky's latest satellites return images just 58 hours after SpaceX launch
-      <hr/>
-      
-      - *There’s an increasing demand for fast turnaround time in the satellite imaging industry, especially among clients across government and defense, who want responsive, near-real time performance because of how quickly situations on the ground can develop and ch…*
-      
-  - SpaceX will attempt to break a rocket reusability record with a launch this week
-      <hr/>
-      
-      - *SpaceX is preparing for yet another launch of Starlink satellites on Tuesday – its tenth launch of production versions of the satellites to date. In addition to 58 Starlink satellites, the Falcon 9 flying the mission will also carry three Planet  satellites –…*
        
-  - The Station: Polestar 2 drive, Tesla splits and a chat with Motional's Karl Iagnemma
-      <hr/>
-       
-       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
 
 
