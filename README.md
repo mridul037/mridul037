@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 
-~ Daniel T. Barry
+~ Alan Perlis
 <pre>
 
 </pre>
