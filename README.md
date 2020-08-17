@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
 
-~ Bill Gates
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Sometimes we do get taken by surprise. For example, when the Internet came along
 
 </pre>
 **Daily News**
-  - Tencent takes minority stake in French casual games maker Voodoo
+  - The Station: Polestar 2 drive, Tesla splits and a chat with Motional's Karl Iagnemma
      <hr/>
      
-      - *Tencent just added another portfolio member to its expanding global gaming empire, this time, to up its game in mobile casual plays. Voodoo, the French company behind a slew of popular casual games, announced Monday that Tencent has become a minority sharehol…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
      
+  - Tencent takes minority stake in French casual games maker Voodoo
+      <hr/>
+      
+      - *Tencent just added another portfolio member to its expanding global gaming empire, this time, to up its game in mobile casual plays. Voodoo, the French company behind a slew of popular casual games, announced Monday that Tencent has become a minority sharehol…*
+      
   - Google warns users in Australia free services are at risk if it's forced to share ad revenue with "big media"
       <hr/>
       
@@ -81,16 +86,11 @@ Sometimes we do get taken by surprise. For example, when the Internet came along
       <hr/>
       
       - *The website of Notepad++ is banned in China as of Monday, “obviously due to” its release of editions named ‘Free Uyghur’ and ‘Stand With Hong Kong’, the source code and text editor announced on Twitter. First released in 2003 by France-based developer Don Ho,…*
-      
+       
   - Hammock collects £1M seed for its current account for landlords and property managers
       <hr/>
-      
-      - *Hammock, a U.K. fintech/proptech helping landlords and property manages gain better oversight on the financial health of their rental properties, has raised £1 million in seed funding as it readies the launch of a current account. Backing comes from Fuel Vent…*
        
-  - Indian lawmakers accuse Facebook of political bias
-      <hr/>
-       
-       - *Facebook is facing heat in India, its biggest market by users, over a report that claimed the company compromised its hate speech policy to favor the ruling party. Politicians from both Bharatiya Janata Party, which rules the government in India, and oppositi…*
+       - *Hammock, a U.K. fintech/proptech helping landlords and property manages gain better oversight on the financial health of their rental properties, has raised £1 million in seed funding as it readies the launch of a current account. Backing comes from Fuel Vent…*
       
 
 
