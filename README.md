@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 
-~ Albert Einstein
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A new idea comes suddenly and in a rather intuitive way. But intuition is nothin
 
 </pre>
 **Daily News**
-  - AutoX launches its RoboTaxi service in Shanghai, competing with Didi's pilot program
+  - Text editor Notepad++ banned in China after 'Stand With Hong Kong' update
      <hr/>
      
-      - *Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform, which launched its own rob…*
+      - *The website of Notepad++ is banned in China as of Monday, “obviously due to” its release of editions named ‘Free Uyghur’ and ‘Stand With Hong Kong’, the source code and text editor announced on Twitter. First released in 2003 by France-based developer Don Ho,…*
      
+  - Hammock collects £1M seed for its current account for landlords and property managers
+      <hr/>
+      
+      - *Hammock, a U.K. fintech/proptech helping landlords and property manages gain better oversight on the financial health of their rental properties, has raised £1 million in seed funding as it readies the launch of a current account. Backing comes from Fuel Vent…*
+      
+  - Indian lawmakers accuse Facebook of political bias
+      <hr/>
+      
+      - *Facebook is facing heat in India, its biggest market by users, over a report that claimed the company compromised its hate speech policy to favor the ruling party. Politicians from both Bharatiya Janata Party, which rules the government in India, and oppositi…*
+      
+  - AutoX launches its RoboTaxi service in Shanghai, competing with Didi's pilot program
+      <hr/>
+      
+      - *Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform, which launched its own rob…*
+       
   - As it adds Jeremy Milken to the partnership, Watertower Ventures nears $50 million close for its new fund
       <hr/>
-      
-      - *Derek Norton and Jeremy Milken have known each other for twenty years. Over their longtime personal and professional relationship, the two Los Angeles-based serial entrepreneurs have invested in each other’s companies and investment firms, but never worked to…*
-      
-  - Gillmor Gang: VP Live
-      <hr/>
-      
-      - *The Gillmor Gang — Frank Radice, Michael Markman, Keith Teare, Denis Pombriant, Brent Leary, and Steve Gillmor . Recorded live Tuesday, August 11, 2020. For more, subscribe to the Gillmor Gang Newsletter and join the notification feed here on Telegram. Produc…*
-      
-  - Liquid unicorns, accelerating transitions, and Gen Z's venture impact
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
        
-  - Startups Weekly: The US is finally getting serious about 5G
-      <hr/>
-       
-       - *There are few things that US political leaders can agree on these days, but one of them thankfully appears to be 5G. Manufacturing, transportation, agriculture, health care and many other industries are beginning to incorporate the fast, device-to-device conn…*
+       - *Derek Norton and Jeremy Milken have known each other for twenty years. Over their longtime personal and professional relationship, the two Los Angeles-based serial entrepreneurs have invested in each other’s companies and investment firms, but never worked to…*
       
 
 
