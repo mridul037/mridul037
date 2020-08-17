@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+The most important part of writing a program is designing the data structures.
 
-~ Alan Kay
+~ Dan Bricklin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best way to predict the future is to invent it.
 
 </pre>
 **Daily News**
-  - Tesla shares rally for no reason
+  - Hear how Covid-19 has disrupted the startup world
      <hr/>
      
-      - *Tesla shares surpassed $1,800 for the first time today, the latest in an eye-popping run up of the stock that has propelled the company’s valuation to more than $341 billion. Let’s put these numbers in perspective. Tesla, an automaker that delivered 367,500 v…*
+      - *What early-stage startup founder wouldn’t love to have a crystal ball? Especially now with a pandemic wreaking economic uncertainty across industries in every corner of the world. We don’t have mystical powers, but we do have the next best thing, and it’s ava…*
      
-  - Datasembly's real time pricing tool for consumer goods raises $10.3 million
+  - Daily Crunch: Epic Games escalates legal battle with Apple
       <hr/>
       
-      - *Washington-based Datasembly aims to take the guesswork out of the pricing for consumer goods. The company founded by Ben Reich and Dan Gallagher initially started as a project the two men developed after working at a retail analytics firm in the DC area. What…*
+      - *The battle between Epic Games and Apple continues, Facebook faces criticism in India and Pinterest appoints its first Black board member. This is your Daily Crunch for August 17, 2020. The big story: Epic Games files injunction against Apple Epic’s legal and …*
       
-  - Pinterest announces first Black board member
+  - A requiem for The Creamery
       <hr/>
       
-      - *Pinterest has appointed Andrea Wishom, President of trampoline company Skywalker Holdings and former Harpo Studios executive, to its board of directors. The appointment makes her Pinterest’s first Black board member and third female board member. Pinterest ad…*
+      - *The Creamery was not a place you went for the memories. It was located firmly at the apex of convenience and comfort -- which is why it was the perfect place for the SF technorati to see and be seen.*
       
-  - Lana has launched in Latin America to be the one-stop shop for gig workers financial needs
+  - Microsoft's new Flight Simulator was worth the wait
       <hr/>
       
-      - *Lana, a new startup based in Madrid, is looking to be the next big thing in Latin American fintech. Founded by a serial entrepreneur Pablo Muniz, whose last business was backed by one of Spain’s largest financial services institutions, BBVA; Lana is looking t…*
+      - *It’s been 14 years since the launch of Flight Simulator X, which long seemed like it would be the final release in the long-running series. When the company announced it would re-launch the franchise just over a year ago, using a new graphics engine and satel…*
        
-  - Epic files an injunction against Apple over threat to revoke all developer access
+  - Tesla shares rally for no reason
       <hr/>
        
-       - *After taking a stand against Apple’s hefty cut of the money developers make through the App Store, Fortnite maker Epic Games shows no signs of backing down. The company filed an injunction against Apple in the U.S. District Court for California’s Northern Dis…*
+       - *Tesla shares surpassed $1,800 for the first time today, the latest in an eye-popping run up of the stock that has propelled the company’s valuation to more than $341 billion. Let’s put these numbers in perspective. Tesla, an automaker that delivered 367,500 v…*
       
 
 
