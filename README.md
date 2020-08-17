@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Don't blame me for the fact that competent programming will be too difficult for
 
 </pre>
 **Daily News**
-  - As it adds Jeremy Milken to the partnership, Watertower Ventures nears $50 million close for its new fund
+  - AutoX launches its RoboTaxi service in Shanghai, competing with Didi's pilot program
      <hr/>
      
-      - *Derek Norton and Jeremy Milken have known each other for twenty years. Over their longtime personal and professional relationship, the two Los Angeles-based serial entrepreneurs have invested in each other’s companies and investment firms, but never worked to…*
+      - *Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform, which launched its own rob…*
      
+  - As it adds Jeremy Milken to the partnership, Watertower Ventures nears $50 million close for its new fund
+      <hr/>
+      
+      - *Derek Norton and Jeremy Milken have known each other for twenty years. Over their longtime personal and professional relationship, the two Los Angeles-based serial entrepreneurs have invested in each other’s companies and investment firms, but never worked to…*
+      
   - Gillmor Gang: VP Live
       <hr/>
       
@@ -81,16 +86,11 @@ Don't blame me for the fact that competent programming will be too difficult for
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.*
-      
+       
   - Startups Weekly: The US is finally getting serious about 5G
       <hr/>
-      
-      - *There are few things that US political leaders can agree on these days, but one of them thankfully appears to be 5G. Manufacturing, transportation, agriculture, health care and many other industries are beginning to incorporate the fast, device-to-device conn…*
        
-  - Decrypted: Hackers show off their exploits as Black Hat goes virtual
-      <hr/>
-       
-       - *Decrypted, this week, looks back at the Black Hat & Def Con security conferences.*
+       - *There are few things that US political leaders can agree on these days, but one of them thankfully appears to be 5G. Manufacturing, transportation, agriculture, health care and many other industries are beginning to incorporate the fast, device-to-device conn…*
       
 
 
