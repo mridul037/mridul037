@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 
-~ L. Peter Deutsch
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
 
 </pre>
 **Daily News**
-  - Text editor Notepad++ banned in China after 'Stand With Hong Kong' update
+  - Tencent takes minority stake in French casual games maker Voodoo
      <hr/>
      
-      - *The website of Notepad++ is banned in China as of Monday, “obviously due to” its release of editions named ‘Free Uyghur’ and ‘Stand With Hong Kong’, the source code and text editor announced on Twitter. First released in 2003 by France-based developer Don Ho,…*
+      - *Tencent just added another portfolio member to its expanding global gaming empire, this time, to up its game in mobile casual plays. Voodoo, the French company behind a slew of popular casual games, announced Monday that Tencent has become a minority sharehol…*
      
+  - Google warns users in Australia free services are at risk if it's forced to share ad revenue with "big media"
+      <hr/>
+      
+      - *Google has fired a lobbying pot-shot at a looming change to the law in Australia that will force it to share ad revenue with local media businesses whose content its platforms monetize — seeking to mobilize its users against “big media”. Last month Australia’…*
+      
+  - Text editor Notepad++ banned in China after 'Stand With Hong Kong' update
+      <hr/>
+      
+      - *The website of Notepad++ is banned in China as of Monday, “obviously due to” its release of editions named ‘Free Uyghur’ and ‘Stand With Hong Kong’, the source code and text editor announced on Twitter. First released in 2003 by France-based developer Don Ho,…*
+      
   - Hammock collects £1M seed for its current account for landlords and property managers
       <hr/>
       
       - *Hammock, a U.K. fintech/proptech helping landlords and property manages gain better oversight on the financial health of their rental properties, has raised £1 million in seed funding as it readies the launch of a current account. Backing comes from Fuel Vent…*
-      
+       
   - Indian lawmakers accuse Facebook of political bias
       <hr/>
-      
-      - *Facebook is facing heat in India, its biggest market by users, over a report that claimed the company compromised its hate speech policy to favor the ruling party. Politicians from both Bharatiya Janata Party, which rules the government in India, and oppositi…*
-      
-  - AutoX launches its RoboTaxi service in Shanghai, competing with Didi's pilot program
-      <hr/>
-      
-      - *Autonomous vehicle startup AutoX announced the public launch of of its self-driving taxi service in Shanghai today. Called simply RoboTaxi, AutoX’s offering already faces competition from Didi, China’s largest ride-hailing platform, which launched its own rob…*
        
-  - As it adds Jeremy Milken to the partnership, Watertower Ventures nears $50 million close for its new fund
-      <hr/>
-       
-       - *Derek Norton and Jeremy Milken have known each other for twenty years. Over their longtime personal and professional relationship, the two Los Angeles-based serial entrepreneurs have invested in each other’s companies and investment firms, but never worked to…*
+       - *Facebook is facing heat in India, its biggest market by users, over a report that claimed the company compromised its hate speech policy to favor the ruling party. Politicians from both Bharatiya Janata Party, which rules the government in India, and oppositi…*
       
 
 
