@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good software, like good wine, takes time.
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 
-~ Joel Spolsky
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Good software, like good wine, takes time.
 
 </pre>
 **Daily News**
-  - PopSugar co-founder says pandemic will create 'a huge windfall' for digital media
+  - In conversation with European B2B seed VC La Famiglia
      <hr/>
      
-      - *It’s been less than a year since Group Nine Media acquired PopSugar — but it’s been a uniquely challenging time in digital media. Brian Sugar founded the eponymous women’s lifestyle site with his wife Lisa Sugar . Post-acquisition, he’s become president for t…*
+      - *Earlier this month, La Famiglia, a Berlin-based VC firm that invests in seed-stage European B2B tech startups, disclosed that it raised a second fund totaling €50 million, up from its debut fund of €35 million in 2017. The firm writes first checks of up to €1…*
      
-  - Hour One raises $5M Seed to generate AI-driven synthetic characters from real humans
+  - Deepfake video app Reface is just getting started on shapeshifting selfie culture
       <hr/>
       
-      - *All of the people pictured above are real, but what you are seeing are synthetically-generated versions of their real selves. And they can be programmed to say anything. Tech futurists have long warned about humans being replaced by life-like AI-driven figure…*
+      - *A bearded Rihanna gyrates and sings about shining bright like a diamond. A female Jack Sparrow looks like she’d be a right laugh over a pint. The cartoon contours of The Incredible Hulk lend envious tint to Donald Trump’s awfully familiar cheek bumps. Selfie …*
       
-  - Lucid Motors CEO and CTO Peter Rawlinson to join TC Sessions: Mobility 2020
+  - Robinhood raises $200M more at $11.2B valuation as its revenue scales
       <hr/>
       
-      - *Lucid Motors will unveil its long anticipated all-electric luxury electric Air sedan on September 9, a vehicle that promises to have at least 517 miles on a single charge. The company has been toiling away for years now, pushing forward battery technology and…*
+      - *Robinhood announced this morning that it has raised $200 million more at a new, higher $11.2 billion valuation. The new capital came as a surprise. Astute observers of all things fintech will recall that Robinhood, a popular stock trading service, has raised …*
       
-  - Canalys: Google is top cloud infrastructure provider for online retailers
+  - How tech can build more resilient supply chains
       <hr/>
       
-      - *While Google Cloud Platform has shown some momentum in the last year, it remains a distant third behind Amazon and Microsoft in the cloud infrastructure market. But Google got some good news from Canalys today when the firm reported that GCP is the number one…*
+      - *The main things shippers want is the ability to dynamically manage supply chain risks and operations and optimize cash flow between corporate buyers and their suppliers.*
        
-  - SUSE contributes EiriniX to the Cloud Foundry Foundation
+  - Verizon adds free Hulu and ESPN+ to some unlimited wireless plans
       <hr/>
        
-       - *SUSE today announced that it has contributed EiriniX, a framework for building extensions for Eirini, a technology that brings support for Kubernetes-based container orchestration to the Cloud Foundry platform-as-a-service project. About a year ago, SUSE also…*
+       - *Verizon and Disney announced this morning that they’re extending and expanding a partnership that gives some Verizon Wireless subscribers access to Disney’s streaming services at no addition charge. The companies announced last fall that Verizon (which owns T…*
       
 
 
