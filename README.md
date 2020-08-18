@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ Charles Babbage
+~ Jan L. A. van de Snepscheut
 <pre>
 
 </pre>
