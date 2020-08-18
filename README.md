@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
 
-~ Vannevar Bush
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Whenever logical processes of thought are employed, there is an opportunity for 
 
 </pre>
 **Daily News**
-  - Skyrora launches its small demonstration rocket from mobile launch site in Iceland
+  - Despite booming consumer demand, VC interest in e-commerce startups falls in 2020
      <hr/>
      
-      - *Launch startup Skyrora had a successful test launch of its Skylark Micro rocket from Iceland on Sunday, with the rocket achieving its highest ever altitude at a height of 26.86 km (just under 17 miles). The four meter (13 foot) sub-orbital rocket took off fro…*
+      - *Walmart reported earnings this morning. Most of the numbers are immaterial to you and I, having little to nothing to do with the world of private capital and startups, but one metric did leap out: In its quarter ending July 31, Walmart’s U.S. “e-commerce sale…*
      
-  - Quell’s resistance-based workout can get you in shape by boxing virtual enemies
+  - Wix unifies customer support channels with Wix Answers
       <hr/>
       
-      - *Quell is positioning itself as a kind of low-cost take on Peloton (less than 1/10th the price, it notes). You might too, if you were in the London-based startup’s place. With the stationary bike-maker’s value skyrocketing amid COVID-19 lockdowns, fitness star…*
+      - *Website-building platform Wix is expanding its platform today with the launch of a customer support product called Wix Answers. Joe Pollaro, the general manager of Wix’s U.S. business, said that while the company has “been expanding into much larger types of …*
       
-  - Attabotics raises a $50M Series C for its warehouse fulfillment robots
+  - Amazon will add 3,500 tech and corporate jobs across six US cities
       <hr/>
       
-      - *The uptick in robotics funding continues this week with a big round for Calgary, Alberta’s Attabotics. The warehouse fulfillment startup announced a $50 million Series C, led — interestingly enough — by the Ontario Teachers’ Pension Plan Board, Canada’s large…*
+      - *Amazon today announced an upcoming hiring spree set to bring 3,500 jobs to a half-dozen U.S. cities. The news is, of course, particularly notable amid a pandemic that has cause many industries to freeze hiring, while unemployment claims have soared across the…*
       
-  - Samsung Pay Card launches in UK, powered by fintech Curve
+  - Blind test shows AI-enhanced MRI scans are just as good but 4 times faster
       <hr/>
       
-      - *Samsung Pay Card, a new Mastercard debit card from the mobile handset giant, has launched in the U.K. today. Powered by London-based fintech Curve, it lets you consolidate all of your other existing bank cards into a single card and digital wallet, making it …*
+      - *An AI-based technique to accelerate MRI scans has been shown to produce as good or better results than traditional methods in a blind comparison by expert radiologists. The system halves or even quarters the time necessary to get a good scan without sacrifici…*
        
-  - Watch SpaceX attempt a Falcon 9 rocket re-use record with today's Starlink launch
+  - Movable Ink raises $30M as it expands its personalization technology beyond email marketing
       <hr/>
        
-       - *SpaceX is set to launch is latest batch of Starlink satellites on Tuesday at 10:31 AM EDT (7:31 AM PDT). This is the 11th of SpaceX Starlink missions so far, and will include 58 of the company’s broadband internet satellites, as well as three of customer Plan…*
+       - *Movable Ink, a company that helps businesses deliver more personalized and relevant email marketing, is announcing that it has raised $30 million in Series funding. The company will be 10 years old in October, and founder and CEO Vivek Sharma told me that it’…*
       
 
 
