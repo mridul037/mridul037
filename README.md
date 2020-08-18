@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+The button is working, only, it cannot be seen.
 
-~ Ted Nelson
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A user interface should be so simple that a beginner in an emergency can underst
 
 </pre>
 **Daily News**
-  - Lightspeed raises $275 million fund for India
+  - India's OneCard credit card-maker FPL Technologies lands $10 million
      <hr/>
      
-      - *Lightspeed India Partners on Tuesday announced it has closed $275 million from LPs for its third fund as the top American venture firm looks to ramp up its investments in the world’s second-largest internet market. The new fund, its biggest for India, will en…*
+      - *A 20-month-old startup in India founded by a group of banking veterans that has built a mobile-first credit card and is improving the experience users have with credit cards has secured $10 million in a new financing round. Pune-based FPL Technologies’ $10 mi…*
      
+  - Lightspeed raises $275 million fund for India
+      <hr/>
+      
+      - *Lightspeed India Partners on Tuesday announced it has closed $275 million from LPs for its third fund as the top American venture firm looks to ramp up its investments in the world’s second-largest internet market. The new fund, its biggest for India, will en…*
+      
   - Hear how Covid-19 has disrupted the startup world
       <hr/>
       
@@ -81,16 +86,11 @@ A user interface should be so simple that a beginner in an emergency can underst
       <hr/>
       
       - *The battle between Epic Games and Apple continues, Facebook faces criticism in India and Pinterest appoints its first Black board member. This is your Daily Crunch for August 17, 2020. The big story: Epic Games files injunction against Apple Epic’s legal and …*
-      
+       
   - A requiem for The Creamery
       <hr/>
-      
-      - *The Creamery was not a place you went for the memories. It was located firmly at the apex of convenience and comfort -- which is why it was the perfect place for the SF technorati to see and be seen.*
        
-  - Microsoft's new Flight Simulator was worth the wait
-      <hr/>
-       
-       - *It’s been 14 years since the launch of Flight Simulator X, which long seemed like it would be the final release in the long-running series. When the company announced it would re-launch the franchise just over a year ago, using a new graphics engine and satel…*
+       - *The Creamery was not a place you went for the memories. It was located firmly at the apex of convenience and comfort -- which is why it was the perfect place for the SF technorati to see and be seen.*
       
 
 
