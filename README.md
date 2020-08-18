@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Addy Osmani
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First do it, then do it right, then do it better.
 
 </pre>
 **Daily News**
-  - Samsung Pay Card launches in UK, powered by fintech Curve
+  - Skyrora launches its small demonstration rocket from mobile launch site in Iceland
      <hr/>
      
-      - *Samsung Pay Card, a new Mastercard debit card from the mobile handset giant, has launched in the U.K. today. Powered by London-based fintech Curve, it lets you consolidate all of your other existing bank cards into a single card and digital wallet, making it …*
+      - *Launch startup Skyrora had a successful test launch of its Skylark Micro rocket from Iceland on Sunday, with the rocket achieving its highest ever altitude at a height of 26.86 km (just under 17 miles). The four meter (13 foot) sub-orbital rocket took off fro…*
      
+  - Quell’s resistance-based workout can get you in shape by boxing virtual enemies
+      <hr/>
+      
+      - *Quell is positioning itself as a kind of low-cost take on Peloton (less than 1/10th the price, it notes). You might too, if you were in the London-based startup’s place. With the stationary bike-maker’s value skyrocketing amid COVID-19 lockdowns, fitness star…*
+      
+  - Attabotics raises a $50M Series C for its warehouse fulfillment robots
+      <hr/>
+      
+      - *The uptick in robotics funding continues this week with a big round for Calgary, Alberta’s Attabotics. The warehouse fulfillment startup announced a $50 million Series C, led — interestingly enough — by the Ontario Teachers’ Pension Plan Board, Canada’s large…*
+      
+  - Samsung Pay Card launches in UK, powered by fintech Curve
+      <hr/>
+      
+      - *Samsung Pay Card, a new Mastercard debit card from the mobile handset giant, has launched in the U.K. today. Powered by London-based fintech Curve, it lets you consolidate all of your other existing bank cards into a single card and digital wallet, making it …*
+       
   - Watch SpaceX attempt a Falcon 9 rocket re-use record with today's Starlink launch
       <hr/>
-      
-      - *SpaceX is set to launch is latest batch of Starlink satellites on Tuesday at 10:31 AM EDT (7:31 AM PDT). This is the 11th of SpaceX Starlink missions so far, and will include 58 of the company’s broadband internet satellites, as well as three of customer Plan…*
-      
-  - Electric vehicle startup Canoo to go public via SPAC
-      <hr/>
-      
-      - *Canoo, the Los Angeles-based electric vehicle startup, has struck a deal to merge with special-purpose acquisition company Hennessy Capital Acquisition Corp., with a market valuation of $2.4 billion. The announcement Tuesday marks the fourth time this summer …*
-      
-  - EU websites' use of Google Analytics and Facebook Connect targeted by post-Schrems II privacy complaints
-      <hr/>
-      
-      - *A month after Europe’s top court struck down a flagship data transfer arrangement between the EU and the US as unsafe, European privacy campaign group, noyb, has filed complaints against 101 websites with regional operators which it’s identified as still send…*
        
-  - India's OneCard credit card-maker FPL Technologies lands $10 million
-      <hr/>
-       
-       - *A 20-month-old startup in India founded by a group of banking veterans that has built a mobile-first credit card and is improving the experience users have with credit cards has secured $10 million in a new financing round. Pune-based FPL Technologies’ $10 mi…*
+       - *SpaceX is set to launch is latest batch of Starlink satellites on Tuesday at 10:31 AM EDT (7:31 AM PDT). This is the 11th of SpaceX Starlink missions so far, and will include 58 of the company’s broadband internet satellites, as well as three of customer Plan…*
       
 
 
