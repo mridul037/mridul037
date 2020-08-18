@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In theory, there is no difference between theory and practice. But, in practice, there is.
+The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
 
-~ Jan L. A. van de Snepscheut
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In theory, there is no difference between theory and practice. But, in practice,
 
 </pre>
 **Daily News**
-  - Hear how Covid-19 has disrupted the startup world
+  - Lightspeed raises $275 million fund for India
      <hr/>
      
-      - *What early-stage startup founder wouldn’t love to have a crystal ball? Especially now with a pandemic wreaking economic uncertainty across industries in every corner of the world. We don’t have mystical powers, but we do have the next best thing, and it’s ava…*
+      - *Lightspeed India Partners on Tuesday announced it has closed $275 million from LPs for its third fund as the top American venture firm looks to ramp up its investments in the world’s second-largest internet market. The new fund, its biggest for India, will en…*
      
+  - Hear how Covid-19 has disrupted the startup world
+      <hr/>
+      
+      - *What early-stage startup founder wouldn’t love to have a crystal ball? Especially now with a pandemic wreaking economic uncertainty across industries in every corner of the world. We don’t have mystical powers, but we do have the next best thing, and it’s ava…*
+      
   - Daily Crunch: Epic Games escalates legal battle with Apple
       <hr/>
       
@@ -81,16 +86,11 @@ In theory, there is no difference between theory and practice. But, in practice,
       <hr/>
       
       - *The Creamery was not a place you went for the memories. It was located firmly at the apex of convenience and comfort -- which is why it was the perfect place for the SF technorati to see and be seen.*
-      
+       
   - Microsoft's new Flight Simulator was worth the wait
       <hr/>
-      
-      - *It’s been 14 years since the launch of Flight Simulator X, which long seemed like it would be the final release in the long-running series. When the company announced it would re-launch the franchise just over a year ago, using a new graphics engine and satel…*
        
-  - Tesla shares rally for no reason
-      <hr/>
-       
-       - *Tesla shares surpassed $1,800 for the first time today, the latest in an eye-popping run up of the stock that has propelled the company’s valuation to more than $341 billion. Let’s put these numbers in perspective. Tesla, an automaker that delivered 367,500 v…*
+       - *It’s been 14 years since the launch of Flight Simulator X, which long seemed like it would be the final release in the long-running series. When the company announced it would re-launch the franchise just over a year ago, using a new graphics engine and satel…*
       
 
 
