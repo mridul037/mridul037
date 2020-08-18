@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 
-~ Fred Brooks
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The programmer, like the poet, works only slightly removed from pure thought-stu
 
 </pre>
 **Daily News**
-  - Despite booming consumer demand, VC interest in e-commerce startups falls in 2020
+  - SpaceX successfully launches 11th Starlink mission using record-setting reused Falcon 9 booster
      <hr/>
      
-      - *Walmart reported earnings this morning. Most of the numbers are immaterial to you and I, having little to nothing to do with the world of private capital and startups, but one metric did leap out: In its quarter ending July 31, Walmart’s U.S. “e-commerce sale…*
+      - *SpaceX has successfully launched 58 more Starlink satellites for its growing internet broadband constellation. This is the 11th batch of Starlink satellites to go up, bringing the total on orbit to well over 600. Today’s mission also carried three Planet sate…*
      
-  - Wix unifies customer support channels with Wix Answers
+  - Chamath Palihapitiya’s next big Hustle
       <hr/>
       
-      - *Website-building platform Wix is expanding its platform today with the launch of a customer support product called Wix Answers. Joe Pollaro, the general manager of Wix’s U.S. business, said that while the company has “been expanding into much larger types of …*
+      - *Chamath Palihapitiya, the founder of Social Capital, does not do minority investing anymore. If he finds a startup he likes, he just buys it outright. The billionaire co-founded Social Capital in 2011, and seven years later, he pivoted the investment firm int…*
       
-  - Amazon will add 3,500 tech and corporate jobs across six US cities
+  - Melbourne-based CI/CD platform Buildkite gets $28 million AUD Series A led by OpenView
       <hr/>
       
-      - *Amazon today announced an upcoming hiring spree set to bring 3,500 jobs to a half-dozen U.S. cities. The news is, of course, particularly notable amid a pandemic that has cause many industries to freeze hiring, while unemployment claims have soared across the…*
+      - *Buildkite, a Melbourne-based company that provides a hybrid continuous integration and continuous delivery (CI/CD) platform for software developers, announced today that it has raised AUD $28 million (about USD $20.2 million) in Series A funding, bring its va…*
       
-  - Blind test shows AI-enhanced MRI scans are just as good but 4 times faster
+  - Samsung Galaxy Note 20 Ultra review
       <hr/>
       
-      - *An AI-based technique to accelerate MRI scans has been shown to produce as good or better results than traditional methods in a blind comparison by expert radiologists. The system halves or even quarters the time necessary to get a good scan without sacrifici…*
+      - *The Galaxy Note Ultra is a $1,399 smartphone. Even by Samsung’s standards, this is a high-end luxury device. It’s the phone for people who board the plane early and derive a sense of pride in watching the rest of us slowly shuffle onto the plane, wondering ju…*
        
-  - Movable Ink raises $30M as it expands its personalization technology beyond email marketing
+  - Apple launches Apple Music Radio with a rebranded Beats 1, plus two more stations
       <hr/>
        
-       - *Movable Ink, a company that helps businesses deliver more personalized and relevant email marketing, is announcing that it has raised $30 million in Series funding. The company will be 10 years old in October, and founder and CEO Vivek Sharma told me that it’…*
+       - *Apple is revamping its streaming radio service. Starting today, its flagship radio station Beats 1 will be rebranded to Apple Music 1 — a change that more closely associates the station with Apple’s subscription-based streaming music service, Apple Music. In …*
       
 
 
