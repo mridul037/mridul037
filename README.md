@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Low-level programming is good for the programmer’s soul.
+The cheapest, fastest, and most reliable components are those that aren’t there.
 
-~ John Carmack
+~ Gordon Bell
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Low-level programming is good for the programmer’s soul.
 
 </pre>
 **Daily News**
-  - India's OneCard credit card-maker FPL Technologies lands $10 million
+  - EU websites' use of Google Analytics and Facebook Connect targeted by post-Schrems II privacy complaints
      <hr/>
      
-      - *A 20-month-old startup in India founded by a group of banking veterans that has built a mobile-first credit card and is improving the experience users have with credit cards has secured $10 million in a new financing round. Pune-based FPL Technologies’ $10 mi…*
+      - *A month after Europe’s top court struck down a flagship data transfer arrangement between the EU and the US as unsafe, European privacy campaign group, noyb, has filed complaints against 101 websites with regional operators which it’s identified as still send…*
      
+  - India's OneCard credit card-maker FPL Technologies lands $10 million
+      <hr/>
+      
+      - *A 20-month-old startup in India founded by a group of banking veterans that has built a mobile-first credit card and is improving the experience users have with credit cards has secured $10 million in a new financing round. Pune-based FPL Technologies’ $10 mi…*
+      
   - Lightspeed raises $275 million fund for India
       <hr/>
       
@@ -81,16 +86,11 @@ Low-level programming is good for the programmer’s soul.
       <hr/>
       
       - *What early-stage startup founder wouldn’t love to have a crystal ball? Especially now with a pandemic wreaking economic uncertainty across industries in every corner of the world. We don’t have mystical powers, but we do have the next best thing, and it’s ava…*
-      
+       
   - Daily Crunch: Epic Games escalates legal battle with Apple
       <hr/>
-      
-      - *The battle between Epic Games and Apple continues, Facebook faces criticism in India and Pinterest appoints its first Black board member. This is your Daily Crunch for August 17, 2020. The big story: Epic Games files injunction against Apple Epic’s legal and …*
        
-  - A requiem for The Creamery
-      <hr/>
-       
-       - *The Creamery was not a place you went for the memories. It was located firmly at the apex of convenience and comfort -- which is why it was the perfect place for the SF technorati to see and be seen.*
+       - *The battle between Epic Games and Apple continues, Facebook faces criticism in India and Pinterest appoints its first Black board member. This is your Daily Crunch for August 17, 2020. The big story: Epic Games files injunction against Apple Epic’s legal and …*
       
 
 
