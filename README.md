@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ Dan Bricklin
+~ Jan L. A. van de Snepscheut
 <pre>
 
 </pre>
