@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cheapest, fastest, and most reliable components are those that aren’t there.
+First do it, then do it right, then do it better.
 
-~ Gordon Bell
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The cheapest, fastest, and most reliable components are those that aren’t ther
 
 </pre>
 **Daily News**
-  - EU websites' use of Google Analytics and Facebook Connect targeted by post-Schrems II privacy complaints
+  - Samsung Pay Card launches in UK, powered by fintech Curve
      <hr/>
      
-      - *A month after Europe’s top court struck down a flagship data transfer arrangement between the EU and the US as unsafe, European privacy campaign group, noyb, has filed complaints against 101 websites with regional operators which it’s identified as still send…*
+      - *Samsung Pay Card, a new Mastercard debit card from the mobile handset giant, has launched in the U.K. today. Powered by London-based fintech Curve, it lets you consolidate all of your other existing bank cards into a single card and digital wallet, making it …*
      
+  - Watch SpaceX attempt a Falcon 9 rocket re-use record with today's Starlink launch
+      <hr/>
+      
+      - *SpaceX is set to launch is latest batch of Starlink satellites on Tuesday at 10:31 AM EDT (7:31 AM PDT). This is the 11th of SpaceX Starlink missions so far, and will include 58 of the company’s broadband internet satellites, as well as three of customer Plan…*
+      
+  - Electric vehicle startup Canoo to go public via SPAC
+      <hr/>
+      
+      - *Canoo, the Los Angeles-based electric vehicle startup, has struck a deal to merge with special-purpose acquisition company Hennessy Capital Acquisition Corp., with a market valuation of $2.4 billion. The announcement Tuesday marks the fourth time this summer …*
+      
+  - EU websites' use of Google Analytics and Facebook Connect targeted by post-Schrems II privacy complaints
+      <hr/>
+      
+      - *A month after Europe’s top court struck down a flagship data transfer arrangement between the EU and the US as unsafe, European privacy campaign group, noyb, has filed complaints against 101 websites with regional operators which it’s identified as still send…*
+       
   - India's OneCard credit card-maker FPL Technologies lands $10 million
       <hr/>
-      
-      - *A 20-month-old startup in India founded by a group of banking veterans that has built a mobile-first credit card and is improving the experience users have with credit cards has secured $10 million in a new financing round. Pune-based FPL Technologies’ $10 mi…*
-      
-  - Lightspeed raises $275 million fund for India
-      <hr/>
-      
-      - *Lightspeed India Partners on Tuesday announced it has closed $275 million from LPs for its third fund as the top American venture firm looks to ramp up its investments in the world’s second-largest internet market. The new fund, its biggest for India, will en…*
-      
-  - Hear how Covid-19 has disrupted the startup world
-      <hr/>
-      
-      - *What early-stage startup founder wouldn’t love to have a crystal ball? Especially now with a pandemic wreaking economic uncertainty across industries in every corner of the world. We don’t have mystical powers, but we do have the next best thing, and it’s ava…*
        
-  - Daily Crunch: Epic Games escalates legal battle with Apple
-      <hr/>
-       
-       - *The battle between Epic Games and Apple continues, Facebook faces criticism in India and Pinterest appoints its first Black board member. This is your Daily Crunch for August 17, 2020. The big story: Epic Games files injunction against Apple Epic’s legal and …*
+       - *A 20-month-old startup in India founded by a group of banking veterans that has built a mobile-first credit card and is improving the experience users have with credit cards has secured $10 million in a new financing round. Pune-based FPL Technologies’ $10 mi…*
       
 
 
