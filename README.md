@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 
-~ Daniel T. Barry
+~ David Parnas
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There is never enough time to do it right, but there is always enough time to fi
 
 </pre>
 **Daily News**
-  - SpaceX raises $1.9 billion in largest funding found to date
+  - The 'right' way to downsize
      <hr/>
      
-      - *SpaceX has raised $1.9 billion in new funding, per a filing with the SEC from Tuesday which was first spotted by Reuters. The company had been reported to be in the funding process earlier by Bloomberg, which pegged the post-money valuation of SpaceX at $46 b…*
+      - *Layoffs are never easy, but one the most important things to remember is to take off the boss hat, use empathy and show gratitude.*
      
-  - Announcing the all new, virtual agenda for TC Sessions: Mobility
+  - Invision refreshes its Design System Manager, brings on Eleanor Morgan as CPO
       <hr/>
       
-      - *TC Sessions: Mobility is back and we’re excited to give the first peek of what and who is coming to the main stage. We’re not revealing everything just yet, but already this agenda highlights some of the best and brightest minds in autonomous vehicles, electr…*
+      - *InVision, the design firm that’s raised more than $350 million from investors FirstMark, Spark, Battery, and Tiger Global Management, has today announced the appointment of Eleanor Morgan as Chief Product Officer. The company is also introducing a brand new D…*
+      
+  - SpaceX raises $1.9 billion in largest funding found to date
+      <hr/>
+      
+      - *SpaceX has raised $1.9 billion in new funding, per a filing with the SEC from Tuesday which was first spotted by Reuters. The company had been reported to be in the funding process earlier by Bloomberg, which pegged the post-money valuation of SpaceX at $46 b…*
       
   - Pandemic helped drive Walmart e-commerce sales up 97% in second quarter
       <hr/>
       
       - *Walmart’s investments in e-commerce, including online grocery delivery and pickup, are continuing to pay off for the retailer. In the company’s Q2 earnings, released this morning, Walmart reported its U.S. e-commerce sales were up 97% — an increase attributed…*
-      
+       
   - Decrypted: The block clock tick-tocks on TikTok
       <hr/>
-      
-      - *Decrypted, this week, explores why TikTok is considered a national security threat.*
        
-  - Take-Two Interactive acquires Two Dots game developer for $192M
-      <hr/>
-       
-       - *Playdots — developer of the mobile games Dots, Two Dots and Dots & Co. — has reached an agreement to be acquired by publisher Take-Two Interactive. Take-Two will pay $192 million for the deal, $90 million in cash and the remaining $102 million in stock. Playd…*
+       - *Decrypted, this week, explores why TikTok is considered a national security threat.*
       
 
 
