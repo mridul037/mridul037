@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 
-~ David Parnas
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I have found that the reason a lot of people are interested in artificial intell
 
 </pre>
 **Daily News**
-  - The 'right' way to downsize
+  - Google Maps adds street-level details in select cities, more colorful imagery worldwide
      <hr/>
      
-      - *Layoffs are never easy, but one the most important things to remember is to take off the boss hat, use empathy and show gratitude.*
+      - *Google Maps is getting a significant update that will bring more detail and granularity to its map, with changes that encompass both natural features and city-level details alike. For the former, Google says it’s leveraged computer vision techniques to analyz…*
      
-  - Invision refreshes its Design System Manager, brings on Eleanor Morgan as CPO
+  - Piggyback on popular Tweets to get brand awareness
       <hr/>
       
-      - *InVision, the design firm that’s raised more than $350 million from investors FirstMark, Spark, Battery, and Tiger Global Management, has today announced the appointment of Eleanor Morgan as Chief Product Officer. The company is also introducing a brand new D…*
+      - *Julian Shapiro Contributor Share on Twitter Julian Shapiro is the founder of BellCurve.com, a growth marketing team that trains startups in advanced growth, helps hire senior growth marketers and finds vetted growth agencies. He also writes at Julian.com. Mor…*
       
-  - SpaceX raises $1.9 billion in largest funding found to date
+  - Attending a remote startup accelerator is absolutely worth it
       <hr/>
       
-      - *SpaceX has raised $1.9 billion in new funding, per a filing with the SEC from Tuesday which was first spotted by Reuters. The company had been reported to be in the funding process earlier by Bloomberg, which pegged the post-money valuation of SpaceX at $46 b…*
+      - *SkyDeck Spring 2020 Cohort Contributor UC Berkeley SkyDeck is the startup accelerator of the University of California at Berkeley. We are members of the UC Berkeley SkyDeck startup accelerator spring 2020 cohort — the first to attend remotely. Many of us were…*
       
-  - Pandemic helped drive Walmart e-commerce sales up 97% in second quarter
+  - How to diagnose and treat machine learning models afflicted by COVID-19
       <hr/>
       
-      - *Walmart’s investments in e-commerce, including online grocery delivery and pickup, are continuing to pay off for the retailer. In the company’s Q2 earnings, released this morning, Walmart reported its U.S. e-commerce sales were up 97% — an increase attributed…*
+      - *Machine learning models for predicting behavior will need to change, and companies should take a proactive approach to leveraging new technology that can help with these fluctuations.*
        
-  - Decrypted: The block clock tick-tocks on TikTok
+  - The 'right' way to downsize
       <hr/>
        
-       - *Decrypted, this week, explores why TikTok is considered a national security threat.*
+       - *Layoffs are never easy, but one the most important things to remember is to take off the boss hat, use empathy and show gratitude.*
       
 
 
