@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 
-~ Douglas Crockford
+~ John Gall (author)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Good architecture is necessary to give programs enough structure to be able to g
 
 </pre>
 **Daily News**
-  - SpaceX successfully launches 11th Starlink mission using record-setting reused Falcon 9 booster
+  - Pandemic helped drive Walmart e-commerce sales up 97% in second quarter
      <hr/>
      
-      - *SpaceX has successfully launched 58 more Starlink satellites for its growing internet broadband constellation. This is the 11th batch of Starlink satellites to go up, bringing the total on orbit to well over 600. Today’s mission also carried three Planet sate…*
+      - *Walmart’s investments in e-commerce, including online grocery delivery and pickup, are continuing to pay off for the retailer. In the company’s Q2 earnings, released this morning, Walmart reported its U.S. e-commerce sales were up 97% — an increase attributed…*
      
+  - Decrypted: The block clock tick-tocks on TikTok
+      <hr/>
+      
+      - *Decrypted, this week, explores why TikTok is considered a national security threat.*
+      
+  - Take-Two Interactive acquires Two Dots game developer for $192M
+      <hr/>
+      
+      - *Playdots — developer of the mobile games Dots, Two Dots and Dots & Co. — has reached an agreement to be acquired by publisher Take-Two Interactive. Take-Two will pay $192 million for the deal, $90 million in cash and the remaining $102 million in stock. Playd…*
+      
+  - SpaceX successfully launches 11th Starlink mission using record-setting reused Falcon 9 booster
+      <hr/>
+      
+      - *SpaceX has successfully launched 58 more Starlink satellites for its growing internet broadband constellation. This is the 11th batch of Starlink satellites to go up, bringing the total on orbit to well over 600. Today’s mission also carried three Planet sate…*
+       
   - Chamath Palihapitiya’s next big Hustle
       <hr/>
-      
-      - *Chamath Palihapitiya, the founder of Social Capital, does not do minority investing anymore. If he finds a startup he likes, he just buys it outright. The billionaire co-founded Social Capital in 2011, and seven years later, he pivoted the investment firm int…*
-      
-  - Melbourne-based CI/CD platform Buildkite gets $28 million AUD Series A led by OpenView
-      <hr/>
-      
-      - *Buildkite, a Melbourne-based company that provides a hybrid continuous integration and continuous delivery (CI/CD) platform for software developers, announced today that it has raised AUD $28 million (about USD $20.2 million) in Series A funding, bring its va…*
-      
-  - Samsung Galaxy Note 20 Ultra review
-      <hr/>
-      
-      - *The Galaxy Note Ultra is a $1,399 smartphone. Even by Samsung’s standards, this is a high-end luxury device. It’s the phone for people who board the plane early and derive a sense of pride in watching the rest of us slowly shuffle onto the plane, wondering ju…*
        
-  - Apple launches Apple Music Radio with a rebranded Beats 1, plus two more stations
-      <hr/>
-       
-       - *Apple is revamping its streaming radio service. Starting today, its flagship radio station Beats 1 will be rebranded to Apple Music 1 — a change that more closely associates the station with Apple’s subscription-based streaming music service, Apple Music. In …*
+       - *Chamath Palihapitiya, the founder of Social Capital, does not do minority investing anymore. If he finds a startup he likes, he just buys it outright. The billionaire co-founded Social Capital in 2011, and seven years later, he pivoted the investment firm int…*
       
 
 
