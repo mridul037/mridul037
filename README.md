@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+In order to understand recursion, one must first understand recursion.
 
-~ Alan Perlis
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It is better to have 100 functions operate on one data structure than to have 10
 
 </pre>
 **Daily News**
-  - Google Maps adds street-level details in select cities, more colorful imagery worldwide
+  - Xos Trucks raises $20M to put more of its electric commercial trucks on the road
      <hr/>
      
-      - *Google Maps is getting a significant update that will bring more detail and granularity to its map, with changes that encompass both natural features and city-level details alike. For the former, Google says it’s leveraged computer vision techniques to analyz…*
+      - *Commercial electric vehicle startup Xos Trucks has raised $20 million, funding it will use to ramp up production ahead of potential new demand fueled by a landmark emissions rule adopted by California that will require more than half of all trucks sold in the…*
      
-  - Piggyback on popular Tweets to get brand awareness
+  - TikTok's big UnitedMasters deal is the way forward for creators looking to secure their bag
       <hr/>
       
-      - *Julian Shapiro Contributor Share on Twitter Julian Shapiro is the founder of BellCurve.com, a growth marketing team that trains startups in advanced growth, helps hire senior growth marketers and finds vetted growth agencies. He also writes at Julian.com. Mor…*
+      - *TikTok is right in the jaws of a thorny situation with the U.S. Government regarding its ownership, but it’s sending a clear message today that it is not sitting on its heels with big deals. Yesterday, it announced a deal with UnitedMasters to allow artists o…*
       
-  - Attending a remote startup accelerator is absolutely worth it
+  - Radio Flyer teams up with Tesla to launch a tyke-sized Tesla Model Y
       <hr/>
       
-      - *SkyDeck Spring 2020 Cohort Contributor UC Berkeley SkyDeck is the startup accelerator of the University of California at Berkeley. We are members of the UC Berkeley SkyDeck startup accelerator spring 2020 cohort — the first to attend remotely. Many of us were…*
+      - *If, like me, you can’t afford a full-sized Tesla because your life has been a series of bad investments (one day my early Fyre Festival backing will pay off) then Radio Flyer’s newest product might be just the thing for you. It’s a scaled down Model Y, design…*
       
-  - How to diagnose and treat machine learning models afflicted by COVID-19
+  - India's Reliance Retail acquires a majority stake in online pharmacy Nedmeds for $83.2M
       <hr/>
       
-      - *Machine learning models for predicting behavior will need to change, and companies should take a proactive approach to leveraging new technology that can help with these fluctuations.*
+      - *Reliance Retail has bought a 60% stake in pharma marketplace Netmeds for about $83.2 million, it said today as India’s largest retail chain looks to expand into new categories and compete more closely with American e-commerce group Amazon. The all-cash deal v…*
        
-  - The 'right' way to downsize
+  - Google Maps adds street-level details in select cities, more colorful imagery worldwide
       <hr/>
        
-       - *Layoffs are never easy, but one the most important things to remember is to take off the boss hat, use empathy and show gratitude.*
+       - *Google Maps is getting a significant update that will bring more detail and granularity to its map, with changes that encompass both natural features and city-level details alike. For the former, Google says it’s leveraged computer vision techniques to analyz…*
       
 
 
