@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In order to understand recursion, one must first understand recursion.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Anonymous
+~ Friedrich Bauer
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In order to understand recursion, one must first understand recursion.
 
 </pre>
 **Daily News**
-  - Xos Trucks raises $20M to put more of its electric commercial trucks on the road
+  - Private space industrialization is here
      <hr/>
      
-      - *Commercial electric vehicle startup Xos Trucks has raised $20 million, funding it will use to ramp up production ahead of potential new demand fueled by a landmark emissions rule adopted by California that will require more than half of all trucks sold in the…*
+      - *The future market opportunities enabled by the disruption in space transportation are enormous. Undoubtedly, it will lead to a space gold rush that will drive human civilization’s development for generations to come.*
      
+  - Netflix test puts a 'Shuffle Play' button right on your home screen
+      <hr/>
+      
+      - *Don’t know what you’re in the mood to watch? Netflix’s new “Shuffle” feature could help. The company confirms it’s currently testing a feature that puts a big button labeled “Shuffle Play” right on the Netflix home screen, beneath your user profile ic…*
+      
+  - If Oracle buys TikTok I'll go to Danny's house and eat his annoying Stanford sweatshirt
+      <hr/>
+      
+      - *Hey everyone, how are you? Are you doing well? Great. Or, condolences, depending. Anyway, last week the Equity crew was discussing bankers, and how they love to talk up stuff. The topic matters as there is a big impending transaction out there in the world, n…*
+      
+  - Xos Trucks raises $20M to put more of its electric commercial trucks on the road
+      <hr/>
+      
+      - *Commercial electric vehicle startup Xos Trucks has raised $20 million, funding it will use to ramp up production ahead of potential new demand fueled by a landmark emissions rule adopted by California that will require more than half of all trucks sold in the…*
+       
   - TikTok's big UnitedMasters deal is the way forward for creators looking to secure their bag
       <hr/>
-      
-      - *TikTok is right in the jaws of a thorny situation with the U.S. Government regarding its ownership, but it’s sending a clear message today that it is not sitting on its heels with big deals. Yesterday, it announced a deal with UnitedMasters to allow artists o…*
-      
-  - Radio Flyer teams up with Tesla to launch a tyke-sized Tesla Model Y
-      <hr/>
-      
-      - *If, like me, you can’t afford a full-sized Tesla because your life has been a series of bad investments (one day my early Fyre Festival backing will pay off) then Radio Flyer’s newest product might be just the thing for you. It’s a scaled down Model Y, design…*
-      
-  - India's Reliance Retail acquires a majority stake in online pharmacy Nedmeds for $83.2M
-      <hr/>
-      
-      - *Reliance Retail has bought a 60% stake in pharma marketplace Netmeds for about $83.2 million, it said today as India’s largest retail chain looks to expand into new categories and compete more closely with American e-commerce group Amazon. The all-cash deal v…*
        
-  - Google Maps adds street-level details in select cities, more colorful imagery worldwide
-      <hr/>
-       
-       - *Google Maps is getting a significant update that will bring more detail and granularity to its map, with changes that encompass both natural features and city-level details alike. For the former, Google says it’s leveraged computer vision techniques to analyz…*
+       - *TikTok is right in the jaws of a thorny situation with the U.S. Government regarding its ownership, but it’s sending a clear message today that it is not sitting on its heels with big deals. Yesterday, it announced a deal with UnitedMasters to allow artists o…*
       
 
 
