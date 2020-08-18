@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
-~ John Gall (author)
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A complex system that works is invariably found to have evolved from a simple sy
 
 </pre>
 **Daily News**
-  - Pandemic helped drive Walmart e-commerce sales up 97% in second quarter
+  - SpaceX raises $1.9 billion in largest funding found to date
      <hr/>
      
-      - *Walmart’s investments in e-commerce, including online grocery delivery and pickup, are continuing to pay off for the retailer. In the company’s Q2 earnings, released this morning, Walmart reported its U.S. e-commerce sales were up 97% — an increase attributed…*
+      - *SpaceX has raised $1.9 billion in new funding, per a filing with the SEC from Tuesday which was first spotted by Reuters. The company had been reported to be in the funding process earlier by Bloomberg, which pegged the post-money valuation of SpaceX at $46 b…*
      
+  - Announcing the all new, virtual agenda for TC Sessions: Mobility
+      <hr/>
+      
+      - *TC Sessions: Mobility is back and we’re excited to give the first peek of what and who is coming to the main stage. We’re not revealing everything just yet, but already this agenda highlights some of the best and brightest minds in autonomous vehicles, electr…*
+      
+  - Pandemic helped drive Walmart e-commerce sales up 97% in second quarter
+      <hr/>
+      
+      - *Walmart’s investments in e-commerce, including online grocery delivery and pickup, are continuing to pay off for the retailer. In the company’s Q2 earnings, released this morning, Walmart reported its U.S. e-commerce sales were up 97% — an increase attributed…*
+      
   - Decrypted: The block clock tick-tocks on TikTok
       <hr/>
       
       - *Decrypted, this week, explores why TikTok is considered a national security threat.*
-      
+       
   - Take-Two Interactive acquires Two Dots game developer for $192M
       <hr/>
-      
-      - *Playdots — developer of the mobile games Dots, Two Dots and Dots & Co. — has reached an agreement to be acquired by publisher Take-Two Interactive. Take-Two will pay $192 million for the deal, $90 million in cash and the remaining $102 million in stock. Playd…*
-      
-  - SpaceX successfully launches 11th Starlink mission using record-setting reused Falcon 9 booster
-      <hr/>
-      
-      - *SpaceX has successfully launched 58 more Starlink satellites for its growing internet broadband constellation. This is the 11th batch of Starlink satellites to go up, bringing the total on orbit to well over 600. Today’s mission also carried three Planet sate…*
        
-  - Chamath Palihapitiya’s next big Hustle
-      <hr/>
-       
-       - *Chamath Palihapitiya, the founder of Social Capital, does not do minority investing anymore. If he finds a startup he likes, he just buys it outright. The billionaire co-founded Social Capital in 2011, and seven years later, he pivoted the investment firm int…*
+       - *Playdots — developer of the mobile games Dots, Two Dots and Dots & Co. — has reached an agreement to be acquired by publisher Take-Two Interactive. Take-Two will pay $192 million for the deal, $90 million in cash and the remaining $102 million in stock. Playd…*
       
 
 
