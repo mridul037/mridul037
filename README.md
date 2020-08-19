@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm not a great programmer; I'm just a good programmer with great habits.
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
-~ Kent Beck
+~ P. J. Plauger
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'm not a great programmer; I'm just a good programmer with great habits.
 
 </pre>
 **Daily News**
-  - Tristan Thomas, Monzo's long-standing VP of Marketing, is departing the challenger bank
+  - Hangar raises $15 million for its venture studio for government technology startups
      <hr/>
      
-      - *Tristan Thomas, Monzo’s long-standing VP of Marketing — who joined the challenger bank almost five years ago when it had less than 15 employees! — has announced internally that he is departing at the end of the year. For the time being, his destination is unk…*
+      - *Josh Mendelsohn, the former Bloomberg digital campaign advisor and venture studio founder, thinks that cash constrained government agencies from the local to the federal level aren’t using technology effectively enough to meet the challenges they face. That’s…*
      
+  - UK class action style claim filed over Marriott data breach
+      <hr/>
+      
+      - *A class action style suit has been filed in the UK against hotel group Marriott International over a massive data breach that exposed the information of some 500 million guests around the world, including around 30 million residents of the European Union, bet…*
+      
+  - Tristan Thomas, Monzo's long-standing VP of Marketing, is departing the challenger bank
+      <hr/>
+      
+      - *Tristan Thomas, Monzo’s long-standing VP of Marketing — who joined the challenger bank almost five years ago when it had less than 15 employees! — has announced internally that he is departing at the end of the year. For the time being, his destination is unk…*
+      
   - iKala, an AI-based customer engagement platform, raises $17 million to expand in Southeast Asia
       <hr/>
       
       - *iKala, a Taiwanese startup that offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B. The round was led by Wistron Digital Technology Holding Co…*
-      
+       
   - India's first Earth-imaging satellite startup raises $5 million, first launch planned for later this year
       <hr/>
-      
-      - *Bengaluru-based Pixxel is getting ready to launch its first Earth imaging satellite later this year, with a scheduled mission aboard a Soyuz rocket. The roughly one-and-a-half-year old company is moving quickly, and today it’s announcing a $5 million seed fun…*
-      
-  - Google launches Kormo app in India to help people find entry-level jobs
-      <hr/>
-      
-      - *Google said on Wednesday it has expanded its jobs app, called Kormo Jobs, to India as the Search giant looks to offer a helping hand to millions looking for entry-level roles and further displace Microsoft’s LinkedIn relevance in the world’s second largest in…*
        
-  - Omio takes $100M to shuttle through the coronavirus crisis
-      <hr/>
-       
-       - *Multimodal travel platform Omio (formerly GoEuro) has raised $100M in late stage funding to help see its business through the coronavirus crisis. It also says it’s eyeing potential M&A opportunities within the hard-hit sector. New and existing investors in th…*
+       - *Bengaluru-based Pixxel is getting ready to launch its first Earth imaging satellite later this year, with a scheduled mission aboard a Soyuz rocket. The roughly one-and-a-half-year old company is moving quickly, and today it’s announcing a $5 million seed fun…*
       
 
 
