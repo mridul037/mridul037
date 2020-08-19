@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Joseph Yoder (computer scientist)
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When you build a prototype, there is always the risk that someone will say "that
 
 </pre>
 **Daily News**
-  - Why e-commerce startups aren't raising more funding during this historic boom
+  - Dear Sophie: How can I transfer my H-1B to my startup?
      <hr/>
      
-      - *After yesterday’s look into the somewhat lackluster pace of investment into e-commerce-focused startups this year, a few VCs sent in notes that added useful context. So this morning let’s discuss why the pace of e-commerce startup fundraising has been so milq…*
+      - *I’m employed at a major Silicon Valley tech company in H-1B status. I want to found a startup. How can I work at the startup?*
      
-  - This looping aquatic treadmill lets tiny ocean creatures swim forever under the microscope
+  - Apple reaches $2 trillion market cap
       <hr/>
       
-      - *Observing the microscopic creatures that fill our oceans is important work, but keeping your eye on one in the wild is practically impossible — and doing so in a dish isn’t the same. This ‘hydrodynamic treadmill’ however provides the best of both worlds: An u…*
+      - *The broader market melt-up has helped buoy shares of Apple to new highs this morning. In early trading today, the market capitalization of the tech industry giant and FAAMG member crossed the $2 trillion mark before slipping just beneath the threshold. Shares…*
       
-  - Scotland spaceport gets full approval, will be able to host up to 12 launches per year
+  - Cloudflare's Michelle Zatlyn to discuss building a company with a bold idea at TechCrunch Disrupt
       <hr/>
       
-      - *Scotland’s first proposed spaceport has been fully approved to proceed with construction and operation (via The Northern Times). The facility, which will be built in northern Sutherland on a peninsula that extends into the North Atlantic. This will be the fut…*
+      - *When you start a company, it can be tempting to keep it simple. You want something that investors and customers can easily understand. While it might be easier to go that route, that is not something that CloudFlare did when it launched a decade ago at TechCr…*
       
-  - Facebook Portal gets serious about remote work with BlueJeans, GoToMeeting, Webex and Zoom apps
+  - Instagram finds new ad space at the end of your feed with launch of 'Suggested Posts' feature
       <hr/>
       
-      - *Facebook’s Portal line didn’t get off to the smoothest start when it launched back in 2018. The company no doubt realized from the outset that it would have a lot to prove on the privacy front when attempting to convince users to essentially invite a Facebook…*
+      - *Instagram has found a new place to display ads: at the end of your Feed. The Facebook-owned app in 2018 introduced a feature that will alert users when they’ve scrolled through all the new content in their Instagram Feed, with a notice reading “You’re All Cau…*
        
-  - MIT and Boston Dynamics team up on 'Dr. Spot,' a robot for remote COVID-19 vital sign measurement
+  - Welcome raises $1.4M to streamline the hiring process
       <hr/>
        
-       - *One of the most consistent pieces of advice from health organizations about COVID-19 has been that everyone do their utmost to limit contact with people who may have been exposed to the novel coronavirus that causes the disease. That’s difficult in a hospital…*
+       - *Thinking back to the last time I accepted a job, I can’t recall actually reading any of the material that was sent over. I think I skimmed some docs to make sure the numbers written down matched what I had been told over the phone, but after that it was a blu…*
       
 
 
