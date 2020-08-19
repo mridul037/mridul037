@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An evolving system increases its complexity unless work is done to reduce it.
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 
-~ Manny Lehman (computer scientist)
+~ Ada Lovelace
 <pre>
 
 </pre>
