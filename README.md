@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 
-~ Fred Brooks
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The general tendency is to over-design the second system, using all the ideas an
 
 </pre>
 **Daily News**
-  - India's first Earth-imaging satellite startup raises $5 million, first launch planned for later this year
+  - iKala, an AI-based customer engagement platform, raises $17 million to expand in Southeast Asia
      <hr/>
      
-      - *Bengaluru-based Pixxel is getting ready to launch its first Earth imaging satellite later this year, with a scheduled mission aboard a Soyuz rocket. The roughly one-and-a-half-year old company is moving quickly, and today it’s announcing a $5 million seed fun…*
+      - *iKala, a Taiwanese startup that offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B. The round was led by Wistron Digital Technology Holding Co…*
      
+  - India's first Earth-imaging satellite startup raises $5 million, first launch planned for later this year
+      <hr/>
+      
+      - *Bengaluru-based Pixxel is getting ready to launch its first Earth imaging satellite later this year, with a scheduled mission aboard a Soyuz rocket. The roughly one-and-a-half-year old company is moving quickly, and today it’s announcing a $5 million seed fun…*
+      
   - Google launches Kormo app in India to help people find entry-level jobs
       <hr/>
       
@@ -81,16 +86,11 @@ The general tendency is to over-design the second system, using all the ideas an
       <hr/>
       
       - *Multimodal travel platform Omio (formerly GoEuro) has raised $100M in late stage funding to help see its business through the coronavirus crisis. It also says it’s eyeing potential M&A opportunities within the hard-hit sector. New and existing investors in th…*
-      
+       
   - InfraDigital helps Indonesian schools digitize tuition and enrollment
       <hr/>
-      
-      - *In Indonesia, about half of adults are “underbanked,” meaning they don’t have access to bank accounts, credit cards and other traditional financial services. A growing list of tech companies are working on solutions, from Payfazz, which operates a network of …*
        
-  - JD.com's 1-year-old health unicorn to get $830M from Hillhouse
-      <hr/>
-       
-       - *In recent years, China’s online shopping titans have been muscling into the prescription drug market. When JD.com, Alibaba’s archrival, realized the health market spans well beyond retail, it spun out its healthcare unit into a subsidiary last May for a poten…*
+       - *In Indonesia, about half of adults are “underbanked,” meaning they don’t have access to bank accounts, credit cards and other traditional financial services. A growing list of tech companies are working on solutions, from Payfazz, which operates a network of …*
       
 
 
