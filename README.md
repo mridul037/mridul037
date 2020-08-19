@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have no special talent. I am only passionately curious.
+The real problem with throwaway code comes when it isn't thrown away.
 
-~ Albert Einstein
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I have no special talent. I am only passionately curious.
 
 </pre>
 **Daily News**
-  - Daily Crunch: SpaceX raises $1.9 billion
+  - Persefoni launches with $3.5 million and a carbon accounting system for big business
      <hr/>
      
-      - *SpaceX raises a huge funding round, Apple launches new radio stations and we review the Samsung Galaxy Note 20. This is your Daily Crunch for August 18, 2020. The big story: SpaceX raises its biggest round yet The $1.9 billion round was disclosed in an SEC fi…*
+      - *Kentaro Kawamori and Jason Offerman, the co-founders of new startup Persefoni, which aims to make carbon reporting easier for large corporations, know a few things about carbon emissions. The two men met at Chesapeake Energy Corp., an Oklahoma City-based ener…*
      
+  - Daily Crunch: SpaceX raises $1.9 billion
+      <hr/>
+      
+      - *SpaceX raises a huge funding round, Apple launches new radio stations and we review the Samsung Galaxy Note 20. This is your Daily Crunch for August 18, 2020. The big story: SpaceX raises its biggest round yet The $1.9 billion round was disclosed in an SEC fi…*
+      
   - The journey of a kids book startup that tackles topics like racism, cancer and divorce
       <hr/>
       
@@ -81,16 +86,11 @@ I have no special talent. I am only passionately curious.
       <hr/>
       
       - *The future market opportunities enabled by the disruption in space transportation are enormous. Undoubtedly, it will lead to a space gold rush that will drive human civilization’s development for generations to come.*
-      
+       
   - Netflix test puts a 'Shuffle Play' button right on your home screen
       <hr/>
-      
-      - *Don’t know what you’re in the mood to watch? Netflix’s new “Shuffle” feature could help. The company confirms it’s currently testing a feature that puts a big button labeled “Shuffle Play” right on the Netflix home screen, beneath your user profile ic…*
        
-  - If Oracle buys TikTok I'll go to Danny's house and eat his annoying Stanford sweatshirt
-      <hr/>
-       
-       - *Hey everyone, how are you? Are you doing well? Great. Or, condolences, depending. Anyway, last week the Equity crew was discussing bankers, and how they love to talk up stuff. The topic matters as there is a big impending transaction out there in the world, n…*
+       - *Don’t know what you’re in the mood to watch? Netflix’s new “Shuffle” feature could help. The company confirms it’s currently testing a feature that puts a big button labeled “Shuffle Play” right on the Netflix home screen, beneath your user profile ic…*
       
 
 
