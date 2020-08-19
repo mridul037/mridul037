@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 
-~ P. J. Plauger
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Hofstadter's Law: It always takes longer than you expect, even when you take int
 
 </pre>
 **Daily News**
-  - Hangar raises $15 million for its venture studio for government technology startups
+  - MIT and Boston Dynamics team up on 'Dr. Spot,' a robot for remote COVID-19 vital sign measurement
      <hr/>
      
-      - *Josh Mendelsohn, the former Bloomberg digital campaign advisor and venture studio founder, thinks that cash constrained government agencies from the local to the federal level aren’t using technology effectively enough to meet the challenges they face. That’s…*
+      - *One of the most consistent pieces of advice from health organizations about COVID-19 has been that everyone do their utmost to limit contact with people who may have been exposed to the novel coronavirus that causes the disease. That’s difficult in a hospital…*
      
+  - PadSplit uses the Airbnb model to tackle the country's affordable housing crisis
+      <hr/>
+      
+      - *The United States is currently in the middle of an affordable housing crisis that’s putting the nation’s most economically insecure citizens at risk of becoming homeless even as a pandemic continues to spread across the country. But one Atlanta startup called…*
+      
+  - Hangar raises $15 million for its venture studio for government technology startups
+      <hr/>
+      
+      - *Josh Mendelsohn, the former Bloomberg digital campaign advisor and venture studio founder, thinks that cash constrained government agencies from the local to the federal level aren’t using technology effectively enough to meet the challenges they face. That’s…*
+      
   - UK class action style claim filed over Marriott data breach
       <hr/>
       
       - *A class action style suit has been filed in the UK against hotel group Marriott International over a massive data breach that exposed the information of some 500 million guests around the world, including around 30 million residents of the European Union, bet…*
-      
+       
   - Tristan Thomas, Monzo's long-standing VP of Marketing, is departing the challenger bank
       <hr/>
-      
-      - *Tristan Thomas, Monzo’s long-standing VP of Marketing — who joined the challenger bank almost five years ago when it had less than 15 employees! — has announced internally that he is departing at the end of the year. For the time being, his destination is unk…*
-      
-  - iKala, an AI-based customer engagement platform, raises $17 million to expand in Southeast Asia
-      <hr/>
-      
-      - *iKala, a Taiwanese startup that offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B. The round was led by Wistron Digital Technology Holding Co…*
        
-  - India's first Earth-imaging satellite startup raises $5 million, first launch planned for later this year
-      <hr/>
-       
-       - *Bengaluru-based Pixxel is getting ready to launch its first Earth imaging satellite later this year, with a scheduled mission aboard a Soyuz rocket. The roughly one-and-a-half-year old company is moving quickly, and today it’s announcing a $5 million seed fun…*
+       - *Tristan Thomas, Monzo’s long-standing VP of Marketing — who joined the challenger bank almost five years ago when it had less than 15 employees! — has announced internally that he is departing at the end of the year. For the time being, his destination is unk…*
       
 
 
