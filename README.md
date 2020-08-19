@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 
-~ Steve Jobs
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It is hard to think that a $2 billion company with 4,300-plus people couldn't co
 
 </pre>
 **Daily News**
-  - Lucid's new all-electric sedan will let owners send energy to their homes by mid-2021
+  - Fearing coronavirus, a Michigan college tracks its students with a flawed app
      <hr/>
      
-      - *Lucid Motors said Wednesday that its upcoming all-electric Air sedan will have fast-charging capability that will let owners add 300 miles of range to the battery in 20 minutes and a home-charging unit that will allow owners to send energy from their car to t…*
+      - *Students have no way to opt out of the location tracking.*
      
+  - Just what would an enterprise company like Microsoft or Oracle do with TikTok?
+      <hr/>
+      
+      - *By now you’ve probably heard that under pressure from the current administration, TikTok owner ByteDance is putting the viral video service up for sale, and surprisingly a couple of big name enterprise companies are interested. These organizations are better …*
+      
+  - Lucid's new all-electric sedan will let owners send energy to their homes by mid-2021
+      <hr/>
+      
+      - *Lucid Motors said Wednesday that its upcoming all-electric Air sedan will have fast-charging capability that will let owners add 300 miles of range to the battery in 20 minutes and a home-charging unit that will allow owners to send energy from their car to t…*
+      
   - NOAA and World View partner on stratospheric composition research
       <hr/>
       
       - *Arizona -based high-altitude balloon startup World View has a new partnership with the National Oceanic and Atmospheric Administration (NOAA) to help the latter collect data to help it deepen its study of the Earth’s stratosphere, the second layer of the Eart…*
-      
+       
   - Twitter claims increased enforcement of hate speech and abuse policies in last half of 2019
       <hr/>
-      
-      - *Twitter has given its biannual transparency reports a new home with today’s launch of the Twitter Transparency Center, which the company says was designed to make the reporting more easily understood and accessible. The launch was timed alongside the belated …*
-      
-  - Max Levchin is looking ahead to fintech's next big opportunities
-      <hr/>
-      
-      - *Max Levchin needs little introduction in the world of tech. As an entrepreneur, he’s been the co-founder of PayPal (now public), Slide (acquired by Google) and Affirm (reportedly about to go public), some of the hottest startups to have come out of Silicon Va…*
        
-  - BlackBerry’s brand switches hands again, set to return as a 5G Android handset
-      <hr/>
-       
-       - *A good brand is hard to kill. Over the past several years, the smartphone space has seen a resurgence of once-mighty mobile brands making a comeback with various degrees of success. HMD’s Nokia phones are probably the best and most successful example, but eve…*
+       - *Twitter has given its biannual transparency reports a new home with today’s launch of the Twitter Transparency Center, which the company says was designed to make the reporting more easily understood and accessible. The launch was timed alongside the belated …*
       
 
 
