@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+Don't worry about anything. Just do what you can and be the best you can be.
 
-~ Ada Lovelace
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The Analytical Engine does not occupy common ground with mere 'calculating machi
 
 </pre>
 **Daily News**
-  - At the first-ever virtual DNC, Democrats play it safe
+  - Cannabis dispensaries' online sales are way up, and Dutchie, which connects them to their customers, is a major beneficiary
      <hr/>
      
-      - *The first all-virtual Democratic National Convention is in full swing, but don’t expect fireworks. The event runs through Thursday in a truncated-for-TV two hours a night that’s apparently not setting any viewership records, even with most Americans stuck at …*
+      - *Dutchie, a nearly three-year-old, Bend, Ore.-based software company focused on connecting consumers with cannabis dispensaries that pay the startup a monthly subscription fee to create and maintain their websites, process their orders, and track what needs to…*
      
+  - Hong Kong's food e-commerce startup DayDayCook raises $20 million
+      <hr/>
+      
+      - *The food blogging community in China is booming, and many creators have been cashing in big time by touting food products to loyal followers, a business model that has lured investors. This week, Hong Kong-based startup DayDayCook announced that it has raised…*
+      
+  - At the first-ever virtual DNC, Democrats play it safe
+      <hr/>
+      
+      - *The first all-virtual Democratic National Convention is in full swing, but don’t expect fireworks. The event runs through Thursday in a truncated-for-TV two hours a night that’s apparently not setting any viewership records, even with most Americans stuck at …*
+      
   - Persefoni launches with $3.5 million and a carbon accounting system for big business
       <hr/>
       
       - *Kentaro Kawamori and Jason Offerman, the co-founders of new startup Persefoni, which aims to make carbon reporting easier for large corporations, know a few things about carbon emissions. The two men met at Chesapeake Energy Corp., an Oklahoma City-based ener…*
-      
+       
   - Daily Crunch: SpaceX raises $1.9 billion
       <hr/>
-      
-      - *SpaceX raises a huge funding round, Apple launches new radio stations and we review the Samsung Galaxy Note 20. This is your Daily Crunch for August 18, 2020. The big story: SpaceX raises its biggest round yet The $1.9 billion round was disclosed in an SEC fi…*
-      
-  - The journey of a kids book startup that tackles topics like racism, cancer and divorce
-      <hr/>
-      
-      - *Jelani Memory, an entrepreneur and father, had been wanting to write a kids book for years. While in the midst of raising a Series B round for his startup Circle Media, he started to feel burned out and wanted to start doing something more creatively fulfilli…*
        
-  - Private space industrialization is here
-      <hr/>
-       
-       - *The future market opportunities enabled by the disruption in space transportation are enormous. Undoubtedly, it will lead to a space gold rush that will drive human civilization’s development for generations to come.*
+       - *SpaceX raises a huge funding round, Apple launches new radio stations and we review the Samsung Galaxy Note 20. This is your Daily Crunch for August 18, 2020. The big story: SpaceX raises its biggest round yet The $1.9 billion round was disclosed in an SEC fi…*
       
 
 
