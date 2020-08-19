@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Bill Gates
+~ Jim Horning
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Is studying computer science the best way to prepare to be a programmer? No. the
 
 </pre>
 **Daily News**
-  - Cannabis dispensaries' online sales are way up, and Dutchie, which connects them to their customers, is a major beneficiary
+  - JD.com's 1-year-old health unicorn to get $830M from Hillhouse
      <hr/>
      
-      - *Dutchie, a nearly three-year-old, Bend, Ore.-based software company focused on connecting consumers with cannabis dispensaries that pay the startup a monthly subscription fee to create and maintain their websites, process their orders, and track what needs to…*
+      - *In recent years, China’s online shopping titans have been muscling into the prescription drug market. When JD.com, Alibaba’s archrival, realized the health market spans well beyond retail, it spun out its healthcare unit into a subsidiary last May for a poten…*
      
+  - Cannabis dispensaries' online sales are way up, and Dutchie, which connects them to their customers, is a major beneficiary
+      <hr/>
+      
+      - *Dutchie, a nearly three-year-old, Bend, Ore.-based software company focused on connecting consumers with cannabis dispensaries that pay the startup a monthly subscription fee to create and maintain their websites, process their orders, and track what needs to…*
+      
   - Hong Kong's food e-commerce startup DayDayCook raises $20 million
       <hr/>
       
@@ -81,16 +86,11 @@ Is studying computer science the best way to prepare to be a programmer? No. the
       <hr/>
       
       - *The first all-virtual Democratic National Convention is in full swing, but don’t expect fireworks. The event runs through Thursday in a truncated-for-TV two hours a night that’s apparently not setting any viewership records, even with most Americans stuck at …*
-      
+       
   - Persefoni launches with $3.5 million and a carbon accounting system for big business
       <hr/>
-      
-      - *Kentaro Kawamori and Jason Offerman, the co-founders of new startup Persefoni, which aims to make carbon reporting easier for large corporations, know a few things about carbon emissions. The two men met at Chesapeake Energy Corp., an Oklahoma City-based ener…*
        
-  - Daily Crunch: SpaceX raises $1.9 billion
-      <hr/>
-       
-       - *SpaceX raises a huge funding round, Apple launches new radio stations and we review the Samsung Galaxy Note 20. This is your Daily Crunch for August 18, 2020. The big story: SpaceX raises its biggest round yet The $1.9 billion round was disclosed in an SEC fi…*
+       - *Kentaro Kawamori and Jason Offerman, the co-founders of new startup Persefoni, which aims to make carbon reporting easier for large corporations, know a few things about carbon emissions. The two men met at Chesapeake Energy Corp., an Oklahoma City-based ener…*
       
 
 
