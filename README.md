@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Danny Hillis
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A skilled programmer is like a poet who can put into words those ideas that othe
 
 </pre>
 **Daily News**
-  - Target sets sales record in Q2 as same-day services grow 273%
+  - Top Facebook executive in India files criminal complaint against a journalist for sharing news report
      <hr/>
      
-      - *Following Walmart’s pandemic-fueled earnings beat posted on Tuesday, Target today also handily beat Wall St. expectations to deliver a record-setting quarter across a number of key metrics. The retailer on Wednesday announced its strongest quarter to date for…*
+      - *Ankhi Das, a top Facebook executive in India, has filed a criminal complaint against a journalist who she alleges attempted to defame her in a public Facebook post and made “sexually coloured remarks.” A review of the journalist Awesh Tiwari’s post, written i…*
      
+  - Join Twilio's Jeff Lawson for a live Q&A August 25 at 3:30 pm EDT/12:30 pm PDT
+      <hr/>
+      
+      - *As we race toward Disrupt 2020, we’re keeping the Extra Crunch Live train rolling with a big entry next week as Twilio CEO and co-founder Jeff Lawson joins us for a chat. Lawson is well-known in the tech industry for helping institutionalize API -delivered di…*
+      
+  - Here are four areas the $311 billion CPPIB investment fund thinks will be impacted by COVID-19
+      <hr/>
+      
+      - *The Canadian Pension Plan Investment Board, an asset manager controlling around $311 billion in assets for the Canada’s pensioners and retirees, has identified four key industries that are set to experience massive changes as a result of the global economic r…*
+      
+  - Target sets sales record in Q2 as same-day services grow 273%
+      <hr/>
+      
+      - *Following Walmart’s pandemic-fueled earnings beat posted on Tuesday, Target today also handily beat Wall St. expectations to deliver a record-setting quarter across a number of key metrics. The retailer on Wednesday announced its strongest quarter to date for…*
+       
   - Tune in today to discuss COVID-19’s impact on the startup world
       <hr/>
-      
-      - *We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars…*
-      
-  - A pandemic and recession won't stop Atlassian's SaaS push
-      <hr/>
-      
-      - *No company is completely insulated from the macroeconomic fallout of COVID-19, but we are seeing some companies fare better than others, especially those providing ways to collaborate online. Count Atlassian in that camp, as it provides a suite of tools focus…*
-      
-  - Dear Sophie: How can I transfer my H-1B to my startup?
-      <hr/>
-      
-      - *I’m employed at a major Silicon Valley tech company in H-1B status. I want to found a startup. How can I work at the startup?*
        
-  - Apple reaches $2 trillion market cap
-      <hr/>
-       
-       - *The broader market melt-up has helped buoy shares of Apple to new highs this morning. In early trading today, the market capitalization of the tech industry giant and FAAMG member crossed the $2 trillion mark before slipping just beneath the threshold. Shares…*
+       - *We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars…*
       
 
 
