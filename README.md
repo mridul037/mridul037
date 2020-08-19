@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 
-~ Alan Turing
+~ John Carmack
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The idea behind digital computers may be explained by saying that these machines
 
 </pre>
 **Daily News**
-  - Top Facebook executive in India files criminal complaint against a journalist for sharing news report
+  - BlackBerry’s brand switches hands again, set to return as a 5G Android handset
      <hr/>
      
-      - *Ankhi Das, a top Facebook executive in India, has filed a criminal complaint against a journalist who she alleges attempted to defame her in a public Facebook post and made “sexually coloured remarks.” A review of the journalist Awesh Tiwari’s post, written i…*
+      - *A good brand is hard to kill. Over the past several years, the smartphone space has seen a resurgence of once-mighty mobile brands making a comeback with various degrees of success. HMD’s Nokia phones are probably the best and most successful example, but eve…*
      
+  - Top Facebook executive in India files criminal complaint against a journalist for sharing news report
+      <hr/>
+      
+      - *Ankhi Das, a top Facebook executive in India, has filed a criminal complaint against a journalist who she alleges attempted to defame her in a public Facebook post and made “sexually coloured remarks.” A review of the journalist Awesh Tiwari’s post, written i…*
+      
   - Join Twilio's Jeff Lawson for a live Q&A August 25 at 3:30 pm EDT/12:30 pm PDT
       <hr/>
       
@@ -81,16 +86,11 @@ The idea behind digital computers may be explained by saying that these machines
       <hr/>
       
       - *The Canadian Pension Plan Investment Board, an asset manager controlling around $311 billion in assets for the Canada’s pensioners and retirees, has identified four key industries that are set to experience massive changes as a result of the global economic r…*
-      
+       
   - Target sets sales record in Q2 as same-day services grow 273%
       <hr/>
-      
-      - *Following Walmart’s pandemic-fueled earnings beat posted on Tuesday, Target today also handily beat Wall St. expectations to deliver a record-setting quarter across a number of key metrics. The retailer on Wednesday announced its strongest quarter to date for…*
        
-  - Tune in today to discuss COVID-19’s impact on the startup world
-      <hr/>
-       
-       - *We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars…*
+       - *Following Walmart’s pandemic-fueled earnings beat posted on Tuesday, Target today also handily beat Wall St. expectations to deliver a record-setting quarter across a number of key metrics. The retailer on Wednesday announced its strongest quarter to date for…*
       
 
 
