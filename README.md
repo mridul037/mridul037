@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 
-~ John Carmack
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The cost of adding a feature isn’t just the time it takes to code it. The cost
 
 </pre>
 **Daily News**
-  - BlackBerry’s brand switches hands again, set to return as a 5G Android handset
+  - Lucid's new all-electric sedan will let owners send energy to their homes by mid-2021
      <hr/>
      
-      - *A good brand is hard to kill. Over the past several years, the smartphone space has seen a resurgence of once-mighty mobile brands making a comeback with various degrees of success. HMD’s Nokia phones are probably the best and most successful example, but eve…*
+      - *Lucid Motors said Wednesday that its upcoming all-electric Air sedan will have fast-charging capability that will let owners add 300 miles of range to the battery in 20 minutes and a home-charging unit that will allow owners to send energy from their car to t…*
      
-  - Top Facebook executive in India files criminal complaint against a journalist for sharing news report
+  - NOAA and World View partner on stratospheric composition research
       <hr/>
       
-      - *Ankhi Das, a top Facebook executive in India, has filed a criminal complaint against a journalist who she alleges attempted to defame her in a public Facebook post and made “sexually coloured remarks.” A review of the journalist Awesh Tiwari’s post, written i…*
+      - *Arizona -based high-altitude balloon startup World View has a new partnership with the National Oceanic and Atmospheric Administration (NOAA) to help the latter collect data to help it deepen its study of the Earth’s stratosphere, the second layer of the Eart…*
       
-  - Join Twilio's Jeff Lawson for a live Q&A August 25 at 3:30 pm EDT/12:30 pm PDT
+  - Twitter claims increased enforcement of hate speech and abuse policies in last half of 2019
       <hr/>
       
-      - *As we race toward Disrupt 2020, we’re keeping the Extra Crunch Live train rolling with a big entry next week as Twilio CEO and co-founder Jeff Lawson joins us for a chat. Lawson is well-known in the tech industry for helping institutionalize API -delivered di…*
+      - *Twitter has given its biannual transparency reports a new home with today’s launch of the Twitter Transparency Center, which the company says was designed to make the reporting more easily understood and accessible. The launch was timed alongside the belated …*
       
-  - Here are four areas the $311 billion CPPIB investment fund thinks will be impacted by COVID-19
+  - Max Levchin is looking ahead to fintech's next big opportunities
       <hr/>
       
-      - *The Canadian Pension Plan Investment Board, an asset manager controlling around $311 billion in assets for the Canada’s pensioners and retirees, has identified four key industries that are set to experience massive changes as a result of the global economic r…*
+      - *Max Levchin needs little introduction in the world of tech. As an entrepreneur, he’s been the co-founder of PayPal (now public), Slide (acquired by Google) and Affirm (reportedly about to go public), some of the hottest startups to have come out of Silicon Va…*
        
-  - Target sets sales record in Q2 as same-day services grow 273%
+  - BlackBerry’s brand switches hands again, set to return as a 5G Android handset
       <hr/>
        
-       - *Following Walmart’s pandemic-fueled earnings beat posted on Tuesday, Target today also handily beat Wall St. expectations to deliver a record-setting quarter across a number of key metrics. The retailer on Wednesday announced its strongest quarter to date for…*
+       - *A good brand is hard to kill. Over the past several years, the smartphone space has seen a resurgence of once-mighty mobile brands making a comeback with various degrees of success. HMD’s Nokia phones are probably the best and most successful example, but eve…*
       
 
 
