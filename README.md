@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
 
-~ Butler Lampson
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Nobody knows how to build really complicated hardware systems, so designing hard
 
 </pre>
 **Daily News**
-  - Fearing coronavirus, a Michigan college tracks its students with a flawed app
+  - Airbnb has confidentially filed to go public
      <hr/>
      
-      - *Students have no way to opt out of the location tracking.*
+      - *In a turn of fortune, Airbnb today announced that it has filed to go public, albeit confidentially. The move puts the home-sharing service on a path to a public offering sooner rather than later, and comes after reports that the company was prepping an IPO fi…*
      
+  - Fearing coronavirus, a Michigan college tracks its students with a flawed app
+      <hr/>
+      
+      - *Students have no way to opt out of the location tracking.*
+      
   - Just what would an enterprise company like Microsoft or Oracle do with TikTok?
       <hr/>
       
@@ -81,16 +86,11 @@ Nobody knows how to build really complicated hardware systems, so designing hard
       <hr/>
       
       - *Lucid Motors said Wednesday that its upcoming all-electric Air sedan will have fast-charging capability that will let owners add 300 miles of range to the battery in 20 minutes and a home-charging unit that will allow owners to send energy from their car to t…*
-      
+       
   - NOAA and World View partner on stratospheric composition research
       <hr/>
-      
-      - *Arizona -based high-altitude balloon startup World View has a new partnership with the National Oceanic and Atmospheric Administration (NOAA) to help the latter collect data to help it deepen its study of the Earth’s stratosphere, the second layer of the Eart…*
        
-  - Twitter claims increased enforcement of hate speech and abuse policies in last half of 2019
-      <hr/>
-       
-       - *Twitter has given its biannual transparency reports a new home with today’s launch of the Twitter Transparency Center, which the company says was designed to make the reporting more easily understood and accessible. The launch was timed alongside the belated …*
+       - *Arizona -based high-altitude balloon startup World View has a new partnership with the National Oceanic and Atmospheric Administration (NOAA) to help the latter collect data to help it deepen its study of the Earth’s stratosphere, the second layer of the Eart…*
       
 
 
