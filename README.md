@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+The hardest part of design is keeping features out.
 
-~ Ken Thompson
+~ Don Norman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Modern programming scares me in many respects. It confuses me to read a program 
 
 </pre>
 **Daily News**
-  - Airbnb has confidentially filed to go public
+  - Daily Crunch: Apple hits $2 trillion market cap
      <hr/>
      
-      - *In a turn of fortune, Airbnb today announced that it has filed to go public, albeit confidentially. The move puts the home-sharing service on a path to a public offering sooner rather than later, and comes after reports that the company was prepping an IPO fi…*
+      - *Apple stock reaches a big milestone, Facebook Portal gets more work-friendly and Twitter reports progress against hate speech. This is your Daily Crunch for August 19, 2020. The big story: Apple hits $2 trillion market cap Apple’s share price is up around 59%…*
      
+  - Airbnb has confidentially filed to go public
+      <hr/>
+      
+      - *In a turn of fortune, Airbnb today announced that it has filed to go public, albeit confidentially. The move puts the home-sharing service on a path to a public offering sooner rather than later, and comes after reports that the company was prepping an IPO fi…*
+      
   - Fearing coronavirus, a Michigan college tracks its students with a flawed app
       <hr/>
       
@@ -81,16 +86,11 @@ Modern programming scares me in many respects. It confuses me to read a program 
       <hr/>
       
       - *By now you’ve probably heard that under pressure from the current administration, TikTok owner ByteDance is putting the viral video service up for sale, and surprisingly a couple of big name enterprise companies are interested. These organizations are better …*
-      
+       
   - Lucid's new all-electric sedan will let owners send energy to their homes by mid-2021
       <hr/>
-      
-      - *Lucid Motors said Wednesday that its upcoming all-electric Air sedan will have fast-charging capability that will let owners add 300 miles of range to the battery in 20 minutes and a home-charging unit that will allow owners to send energy from their car to t…*
        
-  - NOAA and World View partner on stratospheric composition research
-      <hr/>
-       
-       - *Arizona -based high-altitude balloon startup World View has a new partnership with the National Oceanic and Atmospheric Administration (NOAA) to help the latter collect data to help it deepen its study of the Earth’s stratosphere, the second layer of the Eart…*
+       - *Lucid Motors said Wednesday that its upcoming all-electric Air sedan will have fast-charging capability that will let owners add 300 miles of range to the battery in 20 minutes and a home-charging unit that will allow owners to send energy from their car to t…*
       
 
 
