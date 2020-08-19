@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The real problem with throwaway code comes when it isn't thrown away.
+An evolving system increases its complexity unless work is done to reduce it.
 
-~ Joseph Yoder (computer scientist)
+~ Manny Lehman (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The real problem with throwaway code comes when it isn't thrown away.
 
 </pre>
 **Daily News**
-  - Persefoni launches with $3.5 million and a carbon accounting system for big business
+  - At the first-ever virtual DNC, Democrats play it safe
      <hr/>
      
-      - *Kentaro Kawamori and Jason Offerman, the co-founders of new startup Persefoni, which aims to make carbon reporting easier for large corporations, know a few things about carbon emissions. The two men met at Chesapeake Energy Corp., an Oklahoma City-based ener…*
+      - *The first all-virtual Democratic National Convention is in full swing, but don’t expect fireworks. The event runs through Thursday in a truncated-for-TV two hours a night that’s apparently not setting any viewership records, even with most Americans stuck at …*
      
+  - Persefoni launches with $3.5 million and a carbon accounting system for big business
+      <hr/>
+      
+      - *Kentaro Kawamori and Jason Offerman, the co-founders of new startup Persefoni, which aims to make carbon reporting easier for large corporations, know a few things about carbon emissions. The two men met at Chesapeake Energy Corp., an Oklahoma City-based ener…*
+      
   - Daily Crunch: SpaceX raises $1.9 billion
       <hr/>
       
@@ -81,16 +86,11 @@ The real problem with throwaway code comes when it isn't thrown away.
       <hr/>
       
       - *Jelani Memory, an entrepreneur and father, had been wanting to write a kids book for years. While in the midst of raising a Series B round for his startup Circle Media, he started to feel burned out and wanted to start doing something more creatively fulfilli…*
-      
+       
   - Private space industrialization is here
       <hr/>
-      
-      - *The future market opportunities enabled by the disruption in space transportation are enormous. Undoubtedly, it will lead to a space gold rush that will drive human civilization’s development for generations to come.*
        
-  - Netflix test puts a 'Shuffle Play' button right on your home screen
-      <hr/>
-       
-       - *Don’t know what you’re in the mood to watch? Netflix’s new “Shuffle” feature could help. The company confirms it’s currently testing a feature that puts a big button labeled “Shuffle Play” right on the Netflix home screen, beneath your user profile ic…*
+       - *The future market opportunities enabled by the disruption in space transportation are enormous. Undoubtedly, it will lead to a space gold rush that will drive human civilization’s development for generations to come.*
       
 
 
