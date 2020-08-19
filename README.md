@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Charles Simonyi
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The efficiency of the code decreases with an increase in the number of people wo
 
 </pre>
 **Daily News**
-  - iKala, an AI-based customer engagement platform, raises $17 million to expand in Southeast Asia
+  - Tristan Thomas, Monzo's long-standing VP of Marketing, is departing the challenger bank
      <hr/>
      
-      - *iKala, a Taiwanese startup that offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B. The round was led by Wistron Digital Technology Holding Co…*
+      - *Tristan Thomas, Monzo’s long-standing VP of Marketing — who joined the challenger bank almost five years ago when it had less than 15 employees! — has announced internally that he is departing at the end of the year. For the time being, his destination is unk…*
      
+  - iKala, an AI-based customer engagement platform, raises $17 million to expand in Southeast Asia
+      <hr/>
+      
+      - *iKala, a Taiwanese startup that offers an artificial intelligence-based customer acquisition and engagement platform, will expand into new Southeast Asian markets after raising a $17 million Series B. The round was led by Wistron Digital Technology Holding Co…*
+      
   - India's first Earth-imaging satellite startup raises $5 million, first launch planned for later this year
       <hr/>
       
@@ -81,16 +86,11 @@ The efficiency of the code decreases with an increase in the number of people wo
       <hr/>
       
       - *Google said on Wednesday it has expanded its jobs app, called Kormo Jobs, to India as the Search giant looks to offer a helping hand to millions looking for entry-level roles and further displace Microsoft’s LinkedIn relevance in the world’s second largest in…*
-      
+       
   - Omio takes $100M to shuttle through the coronavirus crisis
       <hr/>
-      
-      - *Multimodal travel platform Omio (formerly GoEuro) has raised $100M in late stage funding to help see its business through the coronavirus crisis. It also says it’s eyeing potential M&A opportunities within the hard-hit sector. New and existing investors in th…*
        
-  - InfraDigital helps Indonesian schools digitize tuition and enrollment
-      <hr/>
-       
-       - *In Indonesia, about half of adults are “underbanked,” meaning they don’t have access to bank accounts, credit cards and other traditional financial services. A growing list of tech companies are working on solutions, from Payfazz, which operates a network of …*
+       - *Multimodal travel platform Omio (formerly GoEuro) has raised $100M in late stage funding to help see its business through the coronavirus crisis. It also says it’s eyeing potential M&A opportunities within the hard-hit sector. New and existing investors in th…*
       
 
 
