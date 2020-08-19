@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 
-~ Edsger W. Dijkstra
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Don't blame me for the fact that competent programming will be too difficult for
 
 </pre>
 **Daily News**
-  - MIT and Boston Dynamics team up on 'Dr. Spot,' a robot for remote COVID-19 vital sign measurement
+  - Why e-commerce startups aren't raising more funding during this historic boom
      <hr/>
      
-      - *One of the most consistent pieces of advice from health organizations about COVID-19 has been that everyone do their utmost to limit contact with people who may have been exposed to the novel coronavirus that causes the disease. That’s difficult in a hospital…*
+      - *After yesterday’s look into the somewhat lackluster pace of investment into e-commerce-focused startups this year, a few VCs sent in notes that added useful context. So this morning let’s discuss why the pace of e-commerce startup fundraising has been so milq…*
      
-  - PadSplit uses the Airbnb model to tackle the country's affordable housing crisis
+  - This looping aquatic treadmill lets tiny ocean creatures swim forever under the microscope
       <hr/>
       
-      - *The United States is currently in the middle of an affordable housing crisis that’s putting the nation’s most economically insecure citizens at risk of becoming homeless even as a pandemic continues to spread across the country. But one Atlanta startup called…*
+      - *Observing the microscopic creatures that fill our oceans is important work, but keeping your eye on one in the wild is practically impossible — and doing so in a dish isn’t the same. This ‘hydrodynamic treadmill’ however provides the best of both worlds: An u…*
       
-  - Hangar raises $15 million for its venture studio for government technology startups
+  - Scotland spaceport gets full approval, will be able to host up to 12 launches per year
       <hr/>
       
-      - *Josh Mendelsohn, the former Bloomberg digital campaign advisor and venture studio founder, thinks that cash constrained government agencies from the local to the federal level aren’t using technology effectively enough to meet the challenges they face. That’s…*
+      - *Scotland’s first proposed spaceport has been fully approved to proceed with construction and operation (via The Northern Times). The facility, which will be built in northern Sutherland on a peninsula that extends into the North Atlantic. This will be the fut…*
       
-  - UK class action style claim filed over Marriott data breach
+  - Facebook Portal gets serious about remote work with BlueJeans, GoToMeeting, Webex and Zoom apps
       <hr/>
       
-      - *A class action style suit has been filed in the UK against hotel group Marriott International over a massive data breach that exposed the information of some 500 million guests around the world, including around 30 million residents of the European Union, bet…*
+      - *Facebook’s Portal line didn’t get off to the smoothest start when it launched back in 2018. The company no doubt realized from the outset that it would have a lot to prove on the privacy front when attempting to convince users to essentially invite a Facebook…*
        
-  - Tristan Thomas, Monzo's long-standing VP of Marketing, is departing the challenger bank
+  - MIT and Boston Dynamics team up on 'Dr. Spot,' a robot for remote COVID-19 vital sign measurement
       <hr/>
        
-       - *Tristan Thomas, Monzo’s long-standing VP of Marketing — who joined the challenger bank almost five years ago when it had less than 15 employees! — has announced internally that he is departing at the end of the year. For the time being, his destination is unk…*
+       - *One of the most consistent pieces of advice from health organizations about COVID-19 has been that everyone do their utmost to limit contact with people who may have been exposed to the novel coronavirus that causes the disease. That’s difficult in a hospital…*
       
 
 
