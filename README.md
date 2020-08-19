@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good judgement comes from experience. Experience comes from bad judgement.
+C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 
-~ Jim Horning
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Good judgement comes from experience. Experience comes from bad judgement.
 
 </pre>
 **Daily News**
-  - JD.com's 1-year-old health unicorn to get $830M from Hillhouse
+  - InfraDigital helps Indonesian schools digitize tuition and enrollment
      <hr/>
      
-      - *In recent years, China’s online shopping titans have been muscling into the prescription drug market. When JD.com, Alibaba’s archrival, realized the health market spans well beyond retail, it spun out its healthcare unit into a subsidiary last May for a poten…*
+      - *In Indonesia, about half of adults are “underbanked,” meaning they don’t have access to bank accounts, credit cards and other traditional financial services. A growing list of tech companies are working on solutions, from Payfazz, which operates a network of …*
      
+  - JD.com's 1-year-old health unicorn to get $830M from Hillhouse
+      <hr/>
+      
+      - *In recent years, China’s online shopping titans have been muscling into the prescription drug market. When JD.com, Alibaba’s archrival, realized the health market spans well beyond retail, it spun out its healthcare unit into a subsidiary last May for a poten…*
+      
   - Cannabis dispensaries' online sales are way up, and Dutchie, which connects them to their customers, is a major beneficiary
       <hr/>
       
@@ -81,16 +86,11 @@ Good judgement comes from experience. Experience comes from bad judgement.
       <hr/>
       
       - *The food blogging community in China is booming, and many creators have been cashing in big time by touting food products to loyal followers, a business model that has lured investors. This week, Hong Kong-based startup DayDayCook announced that it has raised…*
-      
+       
   - At the first-ever virtual DNC, Democrats play it safe
       <hr/>
-      
-      - *The first all-virtual Democratic National Convention is in full swing, but don’t expect fireworks. The event runs through Thursday in a truncated-for-TV two hours a night that’s apparently not setting any viewership records, even with most Americans stuck at …*
        
-  - Persefoni launches with $3.5 million and a carbon accounting system for big business
-      <hr/>
-       
-       - *Kentaro Kawamori and Jason Offerman, the co-founders of new startup Persefoni, which aims to make carbon reporting easier for large corporations, know a few things about carbon emissions. The two men met at Chesapeake Energy Corp., an Oklahoma City-based ener…*
+       - *The first all-virtual Democratic National Convention is in full swing, but don’t expect fireworks. The event runs through Thursday in a truncated-for-TV two hours a night that’s apparently not setting any viewership records, even with most Americans stuck at …*
       
 
 
