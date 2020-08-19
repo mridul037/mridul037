@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 
-~ Butler Lampson
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In handling resources, strive to avoid disaster rather than to attain an optimum
 
 </pre>
 **Daily News**
-  - Dear Sophie: How can I transfer my H-1B to my startup?
+  - Target sets sales record in Q2 as same-day services grow 273%
      <hr/>
      
-      - *I’m employed at a major Silicon Valley tech company in H-1B status. I want to found a startup. How can I work at the startup?*
+      - *Following Walmart’s pandemic-fueled earnings beat posted on Tuesday, Target today also handily beat Wall St. expectations to deliver a record-setting quarter across a number of key metrics. The retailer on Wednesday announced its strongest quarter to date for…*
      
+  - Tune in today to discuss COVID-19’s impact on the startup world
+      <hr/>
+      
+      - *We can’t help but wonder what the future of work will look like in the wake of this global pandemic. That’s the timely topic of today’s interactive webinar, COVID-19’s Impact on the Startup World. The second of three in our free series of interactive webinars…*
+      
+  - A pandemic and recession won't stop Atlassian's SaaS push
+      <hr/>
+      
+      - *No company is completely insulated from the macroeconomic fallout of COVID-19, but we are seeing some companies fare better than others, especially those providing ways to collaborate online. Count Atlassian in that camp, as it provides a suite of tools focus…*
+      
+  - Dear Sophie: How can I transfer my H-1B to my startup?
+      <hr/>
+      
+      - *I’m employed at a major Silicon Valley tech company in H-1B status. I want to found a startup. How can I work at the startup?*
+       
   - Apple reaches $2 trillion market cap
       <hr/>
-      
-      - *The broader market melt-up has helped buoy shares of Apple to new highs this morning. In early trading today, the market capitalization of the tech industry giant and FAAMG member crossed the $2 trillion mark before slipping just beneath the threshold. Shares…*
-      
-  - Cloudflare's Michelle Zatlyn to discuss building a company with a bold idea at TechCrunch Disrupt
-      <hr/>
-      
-      - *When you start a company, it can be tempting to keep it simple. You want something that investors and customers can easily understand. While it might be easier to go that route, that is not something that CloudFlare did when it launched a decade ago at TechCr…*
-      
-  - Instagram finds new ad space at the end of your feed with launch of 'Suggested Posts' feature
-      <hr/>
-      
-      - *Instagram has found a new place to display ads: at the end of your Feed. The Facebook-owned app in 2018 introduced a feature that will alert users when they’ve scrolled through all the new content in their Instagram Feed, with a notice reading “You’re All Cau…*
        
-  - Welcome raises $1.4M to streamline the hiring process
-      <hr/>
-       
-       - *Thinking back to the last time I accepted a job, I can’t recall actually reading any of the material that was sent over. I think I skimmed some docs to make sure the numbers written down matched what I had been told over the phone, but after that it was a blu…*
+       - *The broader market melt-up has helped buoy shares of Apple to new highs this morning. In early trading today, the market capitalization of the tech industry giant and FAAMG member crossed the $2 trillion mark before slipping just beneath the threshold. Shares…*
       
 
 
