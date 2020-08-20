@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+The hardest part of design is keeping features out.
 
-~ P. J. Plauger
+~ Don Norman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Hofstadter's Law: It always takes longer than you expect, even when you take int
 
 </pre>
 **Daily News**
-  - Further delay to GDPR enforcement of 2018 Twitter breach
+  - AI as a blueprint for fintech startups
      <hr/>
      
-      - *Twitter users have to wait to longer to find out what penalties, if any, the platform faces under the European Union’s General Data Protection Regulation (GDPR) for a data breach that dates back around two years. In the meanwhile the platform has continued to…*
+      - *FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight.*
      
-  - Moon lander startup ispace raises $28 million and launches a new lunar data platform
+  - Cobalt.io grabs $29M Series B to continue building out pentesting platform
       <hr/>
       
-      - *ispace, one of the startups working on putting a private lunar lander on the Moon sometime in the next few years has raised a $28 million Series B funding round, which will be used to help it continue to develop its commercial lander ahead of planned 2022 and…*
+      - *The promise of SaaS has always been about taking tedious, expensive manual tasks and finding a way to build a platform to automate them. Cobalt.io is doing that with pentesting, the process of testing an application for security vulnerabilities before it goes…*
       
-  - China's Waterdrop nabs $230M for its crowdfunded, mutual aid insurance platform
+  - CrunchMatch supercharges virtual networking at TC Sessions: Mobility 2020
       <hr/>
       
-      - *When people in the US or Europe think of crowdfunding and medical expenses, sites like GoFundMe, where people fundraise around specific predicaments, come to mind. But today comes news of how another approach — a platform based around crowdfunding and mutual …*
+      - *Ready for our first virtual TC Sessions Mobility 2020? As we like to say, it’s not just one long webinar. We’re creating the quality production levels you’d expect from our IRL events (thanks, technology). This session spans two days — October 6-7 — to give y…*
       
-  - Tokyo-based collaboration platform BeaTrust lands $2.8 million seed round
+  - Humanity Inc. raises funding to allow us to monitor and affect our rate of aging
       <hr/>
       
-      - *Founded just four months ago, Tokyo-based BeaTrust has raised a JPY 300 million (about USD $2.83 million) seed round for its enterprise collaboration platform. The startup’s ambitious goal is to change corporate culture at large Japanese companies before expa…*
+      - *Most of us are now familiar with apps that track what’s known as our ‘digital biomarkers’. These include the steps, we’ve taken, our heart rate, and our weight. In recent years startups have appeared which can, in a relatively turnkey manner, track our ‘biome…*
        
-  - Riff raises $1.5M seed led by Balderton for its 'voice-first' chat tool for remote working
+  - Acquiring Wetform, Ecobot offers software and services for the $10 billion wetland environmental survey business
       <hr/>
        
-       - *Riff, a London-based startup developing what it describes as a “voice-first” chat tool for remote working, has raised $1.5 million in seed funding, prior to a full launch next year. Leading the round is Balderton Capital, which is better known for Series A ro…*
+       - *“Any time you’re moving dirt you have to have somebody come in and assess it, whether that’s under a state or federal jurisdiction… because of the waters that are present,” says Ecobot co-founder and chief executive, Lee Lance. “It has been a pen and paper pr…*
       
 
 
