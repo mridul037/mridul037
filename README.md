@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ Arthur C. Clarke
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any sufficiently advanced technology is indistinguishable from magic.
 
 </pre>
 **Daily News**
-  - Why is cloud revenue growth so slow if the digital transformation is accelerating?
+  - Join Female Founders Fund's Anu Duggal for a live Q&A today at 11am PT/2pm ET
      <hr/>
      
-      - *For startups not selling tier-one software, the next few quarters could be rough. For startups selling must-have delivered code, it's going to be a damn hot year.*
+      - *Startups are rebounding. Venture capitalists are open for business. And during the pandemic, the pace of dealmaking has not slowed down. But how is this new era of uncertainty impacting underrepresented founders? Has startup-land become more inclusive, or do …*
      
-  - Google brings emergency alert tools to Search and Maps as fires rage in Northern California
+  - Report: Apple quietly acquired Israel's Camerai, formerly Tipit, a specialist in AR and camera tech
       <hr/>
       
-      - *Lightning and a massive heatwave have contributed to raging wildfires in Northern California. By last count, some 11,000 lighting strikes caused hundreds of blazes n a 72 hour period — 26 of which have been classified as major fires, according to officials. T…*
+      - *Apple is well known for picking up smaller startups on the hush-hush to augment its business, and today news leaked out about the latest of these… nearly two years after the fact. Sometime between 2018 and 2019, the iPhone giant reportedly acquired and shut d…*
       
-  - Target grocery pickup service expands nationwide
+  - Blue Origin's human lunar lander team delivers full-scale engineering mockup to NASA
       <hr/>
       
-      - *Target announced today its grocery pickup service is available nationwide, First introduced earlier this summer in the Midwest, Target said it would soon roll out grocery pickup services across the U.S., reaching 1,500 stores in a matter of months. Today, Tar…*
+      - *Blue Origin and the members of its “national team” – Lockheed Martin, Northrop Grumman and Draper – have delivered a full-scale engineering prototype of their human lunar lander to NASA for the agency to examine and review as it readies to build the real thin…*
       
-  - Rocket launch in November will test Purdue-developed drag sail that aims to reduce orbital debris
+  - Overlooked teams up with college newspapers to build a news-focused social network
       <hr/>
       
-      - *When space launch startup Firefly’s first planned orbital flight takes off in November, it’ll carry an experimental payload developed by engineers from Purdue University: A drag sail that’s designed to haul a rocket back to Earth once it’s fulfilled its missi…*
+      - *George Sehremelis is building what he calls a “social news network,” with the aim of combatting the spread of misinformation and fake news online. “My goal has always been make an impact on the 2020 election,” Sehremelis told me — a tall order, particularly w…*
        
-  - DoorDash expands with on-demand grocery delivery
+  - Yalochat, a fast-growing conversational commerce startup, lands $15 million led by B Capital
       <hr/>
        
-       - *DoorDash is announcing that customers can now order groceries through the DoorDash app from partners including Smart & Final, Meijer and Fresh Thyme. Additional stores like Hy-vee and Gristedes/D’Agnostino are supposed to be added in the next few weeks. Throu…*
+       - *Yalochat, a five-year-old, Mexico City-based conversational commerce platform that enables customers like Coca Cola and Walmart to upsell, collect payments, and provide better service to their own customers over WhatsApp, Facebook Messenger and WeChat in Chin…*
       
 
 
