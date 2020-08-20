@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Within C++, there is a much smaller and cleaner language struggling to get out.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Bjarne Stroustrup
+~ Harlan Mills
 <pre>
 
 </pre>
