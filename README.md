@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In man-machine symbiosis, it is man who must adjust: The machines can't.
+C is quirky, flawed, and an enormous success.
 
-~ Alan Perlis
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In man-machine symbiosis, it is man who must adjust: The machines can't.
 
 </pre>
 **Daily News**
-  - Figma CEO Dylan Field discusses fundraising, hiring and marketing in stealth mode
+  - Zoom UX teardown: 5 fails and how to fix them
      <hr/>
      
-      - *You’d be hard pressed to hang out with a designer and not hear the name Figma. The company behind the largely browser-based design tool has made a huge splash in the past few years, building a massive war chest with more than $130 million from investors like …*
+      - *Valued at over $60 billion and used by millions each day for work and staying in touch with friends and family, the COVID-19 pandemic has helped make Zoom one of the most popular and relevant enterprise applications. On one level, its surge to the top can be …*
      
-  - VW kicks off production of its all-electric SUV, the ID. 4
+  - Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies
       <hr/>
       
-      - *Volkswagen has started series production of the ID. 4, an all-electric SUV and the first under the automaker’s new ID label to be headed to the United States. Series production of the ID.4 kicked off Thursday at the company’s Zwickau factory in Germany ahead …*
+      - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
       
-  - Lyft is suspending rideshare operations in California
+  - The founders of Blavity and The Shade Room are coming to Disrupt 2020
       <hr/>
       
-      - *Lyft has decided to suspend its ridesharing operations in California beginning tonight at 11:59 pm PT, unless it receives a stay from the Court of Appeals today. “We don’t want to suspend operations,” Lyft wrote in a blog post. “We are going to keep up the fi…*
+      - *Although the media industry is currently in the midst of a long-overdue reckoning over diversity, representation and racism, Morgan DeBaun and Angie Nwandu have been building a more diverse digital media landscape for years. And we’re excited to welcome them …*
       
-  - Join Female Founders Fund's Anu Duggal for a live Q&A today at 11am PT/2pm ET
+  - Border wall crowdfunding scheme leads to Trump ally Steve Bannon's arrest
       <hr/>
       
-      - *Startups are rebounding. Venture capitalists are open for business. And during the pandemic, the pace of dealmaking has not slowed down. But how is this new era of uncertainty impacting underrepresented founders? Has startup-land become more inclusive, or do …*
+      - *One of President Trump’s former top political advisors was arrested in connection with a crowdfunding scheme to build a U.S. border wall, according to charges unsealed by federal prosecutors Thursday. Steve Bannon is one of four individuals named in the indic…*
        
-  - Report: Apple quietly acquired Israel's Camerai, formerly Tipit, a specialist in AR and camera tech
+  - Figma CEO Dylan Field discusses fundraising, hiring and marketing in stealth mode
       <hr/>
        
-       - *Apple is well known for picking up smaller startups on the hush-hush to augment its business, and today news leaked out about the latest of these… nearly two years after the fact. Sometime between 2018 and 2019, the iPhone giant reportedly acquired and shut d…*
+       - *You’d be hard pressed to hang out with a designer and not hear the name Figma. The company behind the largely browser-based design tool has made a huge splash in the past few years, building a massive war chest with more than $130 million from investors like …*
       
 
 
