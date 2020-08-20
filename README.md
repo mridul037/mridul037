@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Richard Hamming
+~ Linus Torvalds
 <pre>
 
 </pre>
