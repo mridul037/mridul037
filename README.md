@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The hardest part of design is keeping features out.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Don Norman
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The hardest part of design is keeping features out.
 
 </pre>
 **Daily News**
-  - AI as a blueprint for fintech startups
+  - Why is cloud revenue growth so slow if the digital transformation is accelerating?
      <hr/>
      
-      - *FINRA’s AI Report is particularly interesting for fintechs since it explores how firms are deploying AI as well as the agency's expectations for AI oversight.*
+      - *For startups not selling tier-one software, the next few quarters could be rough. For startups selling must-have delivered code, it's going to be a damn hot year.*
      
-  - Cobalt.io grabs $29M Series B to continue building out pentesting platform
+  - Google brings emergency alert tools to Search and Maps as fires rage in Northern California
       <hr/>
       
-      - *The promise of SaaS has always been about taking tedious, expensive manual tasks and finding a way to build a platform to automate them. Cobalt.io is doing that with pentesting, the process of testing an application for security vulnerabilities before it goes…*
+      - *Lightning and a massive heatwave have contributed to raging wildfires in Northern California. By last count, some 11,000 lighting strikes caused hundreds of blazes n a 72 hour period — 26 of which have been classified as major fires, according to officials. T…*
       
-  - CrunchMatch supercharges virtual networking at TC Sessions: Mobility 2020
+  - Target grocery pickup service expands nationwide
       <hr/>
       
-      - *Ready for our first virtual TC Sessions Mobility 2020? As we like to say, it’s not just one long webinar. We’re creating the quality production levels you’d expect from our IRL events (thanks, technology). This session spans two days — October 6-7 — to give y…*
+      - *Target announced today its grocery pickup service is available nationwide, First introduced earlier this summer in the Midwest, Target said it would soon roll out grocery pickup services across the U.S., reaching 1,500 stores in a matter of months. Today, Tar…*
       
-  - Humanity Inc. raises funding to allow us to monitor and affect our rate of aging
+  - Rocket launch in November will test Purdue-developed drag sail that aims to reduce orbital debris
       <hr/>
       
-      - *Most of us are now familiar with apps that track what’s known as our ‘digital biomarkers’. These include the steps, we’ve taken, our heart rate, and our weight. In recent years startups have appeared which can, in a relatively turnkey manner, track our ‘biome…*
+      - *When space launch startup Firefly’s first planned orbital flight takes off in November, it’ll carry an experimental payload developed by engineers from Purdue University: A drag sail that’s designed to haul a rocket back to Earth once it’s fulfilled its missi…*
        
-  - Acquiring Wetform, Ecobot offers software and services for the $10 billion wetland environmental survey business
+  - DoorDash expands with on-demand grocery delivery
       <hr/>
        
-       - *“Any time you’re moving dirt you have to have somebody come in and assess it, whether that’s under a state or federal jurisdiction… because of the waters that are present,” says Ecobot co-founder and chief executive, Lee Lance. “It has been a pen and paper pr…*
+       - *DoorDash is announcing that customers can now order groceries through the DoorDash app from partners including Smart & Final, Meijer and Fresh Thyme. Additional stores like Hy-vee and Gristedes/D’Agnostino are supposed to be added in the next few weeks. Throu…*
       
 
 
