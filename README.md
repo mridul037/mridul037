@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-C is quirky, flawed, and an enormous success.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Dennis Ritchie
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ C is quirky, flawed, and an enormous success.
 
 </pre>
 **Daily News**
-  - Zoom UX teardown: 5 fails and how to fix them
+  - There’s no frontrunner to be found among the TikTok alternatives
      <hr/>
      
-      - *Valued at over $60 billion and used by millions each day for work and staying in touch with friends and family, the COVID-19 pandemic has helped make Zoom one of the most popular and relevant enterprise applications. On one level, its surge to the top can be …*
+      - *The U.S. market has no real frontrunner poised to claim TikTok’s throne if the app is banned in the country. According to Trump’s executive order, TikTok’s owner ByteDance has to divest of TikTok’s U.S. operations or the app will be banned from the U.S. marke…*
      
+  - Eric Hippeau discusses D2C growth, brand value and advice for early-stage founders
+      <hr/>
+      
+      - *Eric Hippeau is the founding partner at Lerer Hippeau Ventures, whose portfolio companies include the likes of Axios, BuzzFeed, Casper, Warby Parker, Allbirds, DocSend, Fundera, Everlane, Giphy, Genius and the recently acquired fitness company Mirror. It woul…*
+      
+  - Microsoft's Seeing AI founder Saqib Shaikh is speaking at Sight Tech Global
+      <hr/>
+      
+      - *When Microsoft CEO Satya Nadella introduced Saqib Shaikh on stage at BUILD in 2016, he was obviously moved by the engineer’s “passion and empathy,” which Nadella said, “is going to change the world.” That assessment was on the mark because Shaikh went on to c…*
+      
+  - Zoom UX teardown: 5 fails and how to fix them
+      <hr/>
+      
+      - *Valued at over $60 billion and used by millions each day for work and staying in touch with friends and family, the COVID-19 pandemic has helped make Zoom one of the most popular and relevant enterprise applications. On one level, its surge to the top can be …*
+       
   - Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies
       <hr/>
-      
-      - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
-      
-  - The founders of Blavity and The Shade Room are coming to Disrupt 2020
-      <hr/>
-      
-      - *Although the media industry is currently in the midst of a long-overdue reckoning over diversity, representation and racism, Morgan DeBaun and Angie Nwandu have been building a more diverse digital media landscape for years. And we’re excited to welcome them …*
-      
-  - Border wall crowdfunding scheme leads to Trump ally Steve Bannon's arrest
-      <hr/>
-      
-      - *One of President Trump’s former top political advisors was arrested in connection with a crowdfunding scheme to build a U.S. border wall, according to charges unsealed by federal prosecutors Thursday. Steve Bannon is one of four individuals named in the indic…*
        
-  - Figma CEO Dylan Field discusses fundraising, hiring and marketing in stealth mode
-      <hr/>
-       
-       - *You’d be hard pressed to hang out with a designer and not hear the name Figma. The company behind the largely browser-based design tool has made a huge splash in the past few years, building a massive war chest with more than $130 million from investors like …*
+       - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
       
 
 
