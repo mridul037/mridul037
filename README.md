@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 
-~ Fred Brooks
+~ Poul-Henning Kamp
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 
 </pre>
 **Daily News**
-  - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
+  - Daily Crunch: Lyft and Uber win legal victory
      <hr/>
      
-      - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
+      - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
      
+  - Sign up to interview with accelerators before Disrupt 2020
+      <hr/>
+      
+      - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
+      
+  - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
+      
   - Energy offset and renewable power developer Arcadia pitches clean power as an employee benefit
       <hr/>
       
       - *Arcadia, the company that gives homeowners and renters a way to offset their carbon footprints through renewable energy credits and clean power developments, is now pitching its services to businesses as an employee benefit. Companies can offset their employe…*
-      
+       
   - Palantir moves its HQ from Palo Alto to Denver as plans to go public percolate
       <hr/>
-      
-      - *Between the IPO buzz and a raft of new federal contracts for COVID-19 work, it’s been a year of big moves for Palantir. Now, the company is making a more literal one: decamping from its Palo Alto headquarters to Denver, Colorado. The decision to relocate its …*
-      
-  - Judge grants Uber and Lyft temporary stay in driver reclassification case
-      <hr/>
-      
-      - *A California appeals court judge has granted Uber and Lyft’s emergency stay. This means the preliminary injunction that sought to force companies to reclassify their drivers as employees will not go into effect this Friday. Instead, this emergency stay extend…*
        
-  - There’s no frontrunner to be found among the TikTok alternatives
-      <hr/>
-       
-       - *The U.S. market has no real frontrunner poised to claim TikTok’s throne if the app is banned in the country. According to Trump’s executive order, TikTok’s owner ByteDance has to divest of TikTok’s U.S. operations or the app will be banned from the U.S. marke…*
+       - *Between the IPO buzz and a raft of new federal contracts for COVID-19 work, it’s been a year of big moves for Palantir. Now, the company is making a more literal one: decamping from its Palo Alto headquarters to Denver, Colorado. The decision to relocate its …*
       
 
 
