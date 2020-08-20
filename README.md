@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+Within C++, there is a much smaller and cleaner language struggling to get out.
 
-~ Edsger W. Dijkstra
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
