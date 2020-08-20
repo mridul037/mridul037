@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Danny Hillis
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One of the greatest joys in computer programming is discovering a new, faster, m
 
 </pre>
 **Daily News**
-  - Riff raises $1.5M seed led by Balderton for its 'voice-first' chat tool for remote working
+  - Tokyo-based collaboration platform BeaTrust lands $2.8 million seed round
      <hr/>
      
-      - *Riff, a London-based startup developing what it describes as a “voice-first” chat tool for remote working, has raised $1.5 million in seed funding, prior to a full launch next year. Leading the round is Balderton Capital, which is better known for Series A ro…*
+      - *Founded just four months ago, Tokyo-based BeaTrust has raised a JPY 300 million (about USD $2.83 million) seed round for its enterprise collaboration platform. The startup’s ambitious goal is to change corporate culture at large Japanese companies before expa…*
      
+  - Riff raises $1.5M seed led by Balderton for its 'voice-first' chat tool for remote working
+      <hr/>
+      
+      - *Riff, a London-based startup developing what it describes as a “voice-first” chat tool for remote working, has raised $1.5 million in seed funding, prior to a full launch next year. Leading the round is Balderton Capital, which is better known for Series A ro…*
+      
   - Author and professional poker player Annie Duke on how conspiracy theories gain ground
       <hr/>
       
@@ -81,16 +86,11 @@ One of the greatest joys in computer programming is discovering a new, faster, m
       <hr/>
       
       - *Having trouble accessing your Gmail, Google Drive, or Google Meet? You’re not alone. Thousands of users, mostly in India, parts of the U.S., Australia, Japan, and Malaysia are reporting that they are unable to access the aforementioned Google services. Third-…*
-      
+       
   - Taiwan set to bar Chinese streaming services like iQiyi and Tencent's WeTV
       <hr/>
-      
-      - *iQiyi and Tencent’s WeTV, two of China’s most popular streaming services, may be banned in Taiwan next month as the government prepares to close regulatory loopholes that enabled them to operate through local partnerships. In an announcement posted this week,…*
        
-  - Daily Crunch: Apple hits $2 trillion market cap
-      <hr/>
-       
-       - *Apple stock reaches a big milestone, Facebook Portal gets more work-friendly and Twitter reports progress against hate speech. This is your Daily Crunch for August 19, 2020. The big story: Apple hits $2 trillion market cap Apple’s share price is up around 59%…*
+       - *iQiyi and Tencent’s WeTV, two of China’s most popular streaming services, may be banned in Taiwan next month as the government prepares to close regulatory loopholes that enabled them to operate through local partnerships. In an announcement posted this week,…*
       
 
 
