@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes it’s just easier to throw a system away, and start over.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Joseph Yoder (computer scientist)
+~ Leslie Lamport
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Sometimes it’s just easier to throw a system away, and start over.
 
 </pre>
 **Daily News**
-  - China's Waterdrop nabs $230M for its crowdfunded, mutual aid insurance platform
+  - Moon lander startup ispace raises $28 million and launches a new lunar data platform
      <hr/>
      
-      - *When people in the US or Europe think of crowdfunding and medical expenses, sites like GoFundMe, where people fundraise around specific predicaments, come to mind. But today comes news of how another approach — a platform based around crowdfunding and mutual …*
+      - *ispace, one of the startups working on putting a private lunar lander on the Moon sometime in the next few years has raised a $28 million Series B funding round, which will be used to help it continue to develop its commercial lander ahead of planned 2022 and…*
      
+  - China's Waterdrop nabs $230M for its crowdfunded, mutual aid insurance platform
+      <hr/>
+      
+      - *When people in the US or Europe think of crowdfunding and medical expenses, sites like GoFundMe, where people fundraise around specific predicaments, come to mind. But today comes news of how another approach — a platform based around crowdfunding and mutual …*
+      
   - Tokyo-based collaboration platform BeaTrust lands $2.8 million seed round
       <hr/>
       
@@ -81,16 +86,11 @@ Sometimes it’s just easier to throw a system away, and start over.
       <hr/>
       
       - *Riff, a London-based startup developing what it describes as a “voice-first” chat tool for remote working, has raised $1.5 million in seed funding, prior to a full launch next year. Leading the round is Balderton Capital, which is better known for Series A ro…*
-      
+       
   - Author and professional poker player Annie Duke on how conspiracy theories gain ground
       <hr/>
-      
-      - *Earlier today, Facebook said it has removed hundreds of QAnon groups from its site, and that it’s restricting many  more groups, along with hundreds of pages, and more than 10,000 Instagram accounts. As the New York Times observed in its report about the mane…*
        
-  - Gmail, Google Drive, Google Meet hit by outage
-      <hr/>
-       
-       - *Having trouble accessing your Gmail, Google Drive, or Google Meet? You’re not alone. Thousands of users, mostly in India, parts of the U.S., Australia, Japan, and Malaysia are reporting that they are unable to access the aforementioned Google services. Third-…*
+       - *Earlier today, Facebook said it has removed hundreds of QAnon groups from its site, and that it’s restricting many  more groups, along with hundreds of pages, and more than 10,000 Instagram accounts. As the New York Times observed in its report about the mane…*
       
 
 
