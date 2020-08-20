@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
 
-~ Tom Cargill
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The first 90 percent of the code accounts for the first 90 percent of the develo
 
 </pre>
 **Daily News**
-  - Author and professional poker player Annie Duke on how conspiracy theories gain ground
+  - Riff raises $1.5M seed led by Balderton for its 'voice-first' chat tool for remote working
      <hr/>
      
-      - *Earlier today, Facebook said it has removed hundreds of QAnon groups from its site, and that it’s restricting many  more groups, along with hundreds of pages, and more than 10,000 Instagram accounts. As the New York Times observed in its report about the mane…*
+      - *Riff, a London-based startup developing what it describes as a “voice-first” chat tool for remote working, has raised $1.5 million in seed funding, prior to a full launch next year. Leading the round is Balderton Capital, which is better known for Series A ro…*
      
+  - Author and professional poker player Annie Duke on how conspiracy theories gain ground
+      <hr/>
+      
+      - *Earlier today, Facebook said it has removed hundreds of QAnon groups from its site, and that it’s restricting many  more groups, along with hundreds of pages, and more than 10,000 Instagram accounts. As the New York Times observed in its report about the mane…*
+      
   - Gmail, Google Drive, Google Meet hit by outage
       <hr/>
       
@@ -81,16 +86,11 @@ The first 90 percent of the code accounts for the first 90 percent of the develo
       <hr/>
       
       - *iQiyi and Tencent’s WeTV, two of China’s most popular streaming services, may be banned in Taiwan next month as the government prepares to close regulatory loopholes that enabled them to operate through local partnerships. In an announcement posted this week,…*
-      
+       
   - Daily Crunch: Apple hits $2 trillion market cap
       <hr/>
-      
-      - *Apple stock reaches a big milestone, Facebook Portal gets more work-friendly and Twitter reports progress against hate speech. This is your Daily Crunch for August 19, 2020. The big story: Apple hits $2 trillion market cap Apple’s share price is up around 59%…*
        
-  - Airbnb has confidentially filed to go public
-      <hr/>
-       
-       - *In a turn of fortune, Airbnb today announced that it has filed to go public, albeit confidentially. The move puts the home-sharing service on a path to a public offering sooner rather than later, and comes after reports that the company was prepping an IPO fi…*
+       - *Apple stock reaches a big milestone, Facebook Portal gets more work-friendly and Twitter reports progress against hate speech. This is your Daily Crunch for August 19, 2020. The big story: Apple hits $2 trillion market cap Apple’s share price is up around 59%…*
       
 
 
