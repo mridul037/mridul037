@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ Wayne Ratliff
+~ Tom Cargill
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is a little bit like the army. Now that I'm out, it's neat to have h
 
 </pre>
 **Daily News**
-  - Taiwan set to bar Chinese streaming services like iQiyi and Tencent's WeTV
+  - Author and professional poker player Annie Duke on how conspiracy theories gain ground
      <hr/>
      
-      - *iQiyi and Tencent’s WeTV, two of China’s most popular streaming services, may be banned in Taiwan next month as the government prepares to close regulatory loopholes that enabled them to operate through local partnerships. In an announcement posted this week,…*
+      - *Earlier today, Facebook said it has removed hundreds of QAnon groups from its site, and that it’s restricting many  more groups, along with hundreds of pages, and more than 10,000 Instagram accounts. As the New York Times observed in its report about the mane…*
      
+  - Gmail, Google Drive, Google Meet hit by outage
+      <hr/>
+      
+      - *Having trouble accessing your Gmail, Google Drive, or Google Meet? You’re not alone. Thousands of users, mostly in India, parts of the U.S., Australia, Japan, and Malaysia are reporting that they are unable to access the aforementioned Google services. Third-…*
+      
+  - Taiwan set to bar Chinese streaming services like iQiyi and Tencent's WeTV
+      <hr/>
+      
+      - *iQiyi and Tencent’s WeTV, two of China’s most popular streaming services, may be banned in Taiwan next month as the government prepares to close regulatory loopholes that enabled them to operate through local partnerships. In an announcement posted this week,…*
+      
   - Daily Crunch: Apple hits $2 trillion market cap
       <hr/>
       
       - *Apple stock reaches a big milestone, Facebook Portal gets more work-friendly and Twitter reports progress against hate speech. This is your Daily Crunch for August 19, 2020. The big story: Apple hits $2 trillion market cap Apple’s share price is up around 59%…*
-      
+       
   - Airbnb has confidentially filed to go public
       <hr/>
-      
-      - *In a turn of fortune, Airbnb today announced that it has filed to go public, albeit confidentially. The move puts the home-sharing service on a path to a public offering sooner rather than later, and comes after reports that the company was prepping an IPO fi…*
-      
-  - Fearing coronavirus, a Michigan college tracks its students with a flawed app
-      <hr/>
-      
-      - *Students have no way to opt out of the location tracking.*
        
-  - Just what would an enterprise company like Microsoft or Oracle do with TikTok?
-      <hr/>
-       
-       - *By now you’ve probably heard that under pressure from the current administration, TikTok owner ByteDance is putting the viral video service up for sale, and surprisingly a couple of big name enterprise companies are interested. These organizations are better …*
+       - *In a turn of fortune, Airbnb today announced that it has filed to go public, albeit confidentially. The move puts the home-sharing service on a path to a public offering sooner rather than later, and comes after reports that the company was prepping an IPO fi…*
       
 
 
