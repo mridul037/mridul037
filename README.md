@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 
-~ Joseph Yoder (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Managing a large project is a qualitatively different problem from managing a sm
 
 </pre>
 **Daily News**
-  - There’s no frontrunner to be found among the TikTok alternatives
+  - Judge grants Uber and Lyft temporary stay in driver reclassification case
      <hr/>
      
-      - *The U.S. market has no real frontrunner poised to claim TikTok’s throne if the app is banned in the country. According to Trump’s executive order, TikTok’s owner ByteDance has to divest of TikTok’s U.S. operations or the app will be banned from the U.S. marke…*
+      - *A California appeals court judge has granted Uber and Lyft’s emergency stay. This means the preliminary injunction that sought to force companies to reclassify their drivers as employees will not go into effect this Friday. Instead, this emergency stay extend…*
      
+  - There’s no frontrunner to be found among the TikTok alternatives
+      <hr/>
+      
+      - *The U.S. market has no real frontrunner poised to claim TikTok’s throne if the app is banned in the country. According to Trump’s executive order, TikTok’s owner ByteDance has to divest of TikTok’s U.S. operations or the app will be banned from the U.S. marke…*
+      
   - Eric Hippeau discusses D2C growth, brand value and advice for early-stage founders
       <hr/>
       
@@ -81,16 +86,11 @@ Managing a large project is a qualitatively different problem from managing a sm
       <hr/>
       
       - *When Microsoft CEO Satya Nadella introduced Saqib Shaikh on stage at BUILD in 2016, he was obviously moved by the engineer’s “passion and empathy,” which Nadella said, “is going to change the world.” That assessment was on the mark because Shaikh went on to c…*
-      
+       
   - Zoom UX teardown: 5 fails and how to fix them
       <hr/>
-      
-      - *Valued at over $60 billion and used by millions each day for work and staying in touch with friends and family, the COVID-19 pandemic has helped make Zoom one of the most popular and relevant enterprise applications. On one level, its surge to the top can be …*
        
-  - Tech Is Not Neutral campaign urges companies to stop working with law enforcement agencies
-      <hr/>
-       
-       - *There are a number of tech companies that either directly work with law enforcement agencies, or supply their tech to them. Amazon’s doorbell camera company Ring has partnered with more than 1,300 police departments and Amazon Web Services sells its product t…*
+       - *Valued at over $60 billion and used by millions each day for work and staying in touch with friends and family, the COVID-19 pandemic has helped make Zoom one of the most popular and relevant enterprise applications. On one level, its surge to the top can be …*
       
 
 
