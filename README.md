@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+Sometimes it’s just easier to throw a system away, and start over.
 
-~ Marvin Minsky
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Artificial intelligence is the science of making machines do things that would r
 
 </pre>
 **Daily News**
-  - Tokyo-based collaboration platform BeaTrust lands $2.8 million seed round
+  - China's Waterdrop nabs $230M for its crowdfunded, mutual aid insurance platform
      <hr/>
      
-      - *Founded just four months ago, Tokyo-based BeaTrust has raised a JPY 300 million (about USD $2.83 million) seed round for its enterprise collaboration platform. The startup’s ambitious goal is to change corporate culture at large Japanese companies before expa…*
+      - *When people in the US or Europe think of crowdfunding and medical expenses, sites like GoFundMe, where people fundraise around specific predicaments, come to mind. But today comes news of how another approach — a platform based around crowdfunding and mutual …*
      
+  - Tokyo-based collaboration platform BeaTrust lands $2.8 million seed round
+      <hr/>
+      
+      - *Founded just four months ago, Tokyo-based BeaTrust has raised a JPY 300 million (about USD $2.83 million) seed round for its enterprise collaboration platform. The startup’s ambitious goal is to change corporate culture at large Japanese companies before expa…*
+      
   - Riff raises $1.5M seed led by Balderton for its 'voice-first' chat tool for remote working
       <hr/>
       
@@ -81,16 +86,11 @@ Artificial intelligence is the science of making machines do things that would r
       <hr/>
       
       - *Earlier today, Facebook said it has removed hundreds of QAnon groups from its site, and that it’s restricting many  more groups, along with hundreds of pages, and more than 10,000 Instagram accounts. As the New York Times observed in its report about the mane…*
-      
+       
   - Gmail, Google Drive, Google Meet hit by outage
       <hr/>
-      
-      - *Having trouble accessing your Gmail, Google Drive, or Google Meet? You’re not alone. Thousands of users, mostly in India, parts of the U.S., Australia, Japan, and Malaysia are reporting that they are unable to access the aforementioned Google services. Third-…*
        
-  - Taiwan set to bar Chinese streaming services like iQiyi and Tencent's WeTV
-      <hr/>
-       
-       - *iQiyi and Tencent’s WeTV, two of China’s most popular streaming services, may be banned in Taiwan next month as the government prepares to close regulatory loopholes that enabled them to operate through local partnerships. In an announcement posted this week,…*
+       - *Having trouble accessing your Gmail, Google Drive, or Google Meet? You’re not alone. Thousands of users, mostly in India, parts of the U.S., Australia, Japan, and Malaysia are reporting that they are unable to access the aforementioned Google services. Third-…*
       
 
 
