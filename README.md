@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+In man-machine symbiosis, it is man who must adjust: The machines can't.
 
-~ Bill Gates
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you ever talk to a great programmer, you'll find he knows his tools like an a
 
 </pre>
 **Daily News**
-  - Join Female Founders Fund's Anu Duggal for a live Q&A today at 11am PT/2pm ET
+  - Figma CEO Dylan Field discusses fundraising, hiring and marketing in stealth mode
      <hr/>
      
-      - *Startups are rebounding. Venture capitalists are open for business. And during the pandemic, the pace of dealmaking has not slowed down. But how is this new era of uncertainty impacting underrepresented founders? Has startup-land become more inclusive, or do …*
+      - *You’d be hard pressed to hang out with a designer and not hear the name Figma. The company behind the largely browser-based design tool has made a huge splash in the past few years, building a massive war chest with more than $130 million from investors like …*
      
+  - VW kicks off production of its all-electric SUV, the ID. 4
+      <hr/>
+      
+      - *Volkswagen has started series production of the ID. 4, an all-electric SUV and the first under the automaker’s new ID label to be headed to the United States. Series production of the ID.4 kicked off Thursday at the company’s Zwickau factory in Germany ahead …*
+      
+  - Lyft is suspending rideshare operations in California
+      <hr/>
+      
+      - *Lyft has decided to suspend its ridesharing operations in California beginning tonight at 11:59 pm PT, unless it receives a stay from the Court of Appeals today. “We don’t want to suspend operations,” Lyft wrote in a blog post. “We are going to keep up the fi…*
+      
+  - Join Female Founders Fund's Anu Duggal for a live Q&A today at 11am PT/2pm ET
+      <hr/>
+      
+      - *Startups are rebounding. Venture capitalists are open for business. And during the pandemic, the pace of dealmaking has not slowed down. But how is this new era of uncertainty impacting underrepresented founders? Has startup-land become more inclusive, or do …*
+       
   - Report: Apple quietly acquired Israel's Camerai, formerly Tipit, a specialist in AR and camera tech
       <hr/>
-      
-      - *Apple is well known for picking up smaller startups on the hush-hush to augment its business, and today news leaked out about the latest of these… nearly two years after the fact. Sometime between 2018 and 2019, the iPhone giant reportedly acquired and shut d…*
-      
-  - Blue Origin's human lunar lander team delivers full-scale engineering mockup to NASA
-      <hr/>
-      
-      - *Blue Origin and the members of its “national team” – Lockheed Martin, Northrop Grumman and Draper – have delivered a full-scale engineering prototype of their human lunar lander to NASA for the agency to examine and review as it readies to build the real thin…*
-      
-  - Overlooked teams up with college newspapers to build a news-focused social network
-      <hr/>
-      
-      - *George Sehremelis is building what he calls a “social news network,” with the aim of combatting the spread of misinformation and fake news online. “My goal has always been make an impact on the 2020 election,” Sehremelis told me — a tall order, particularly w…*
        
-  - Yalochat, a fast-growing conversational commerce startup, lands $15 million led by B Capital
-      <hr/>
-       
-       - *Yalochat, a five-year-old, Mexico City-based conversational commerce platform that enables customers like Coca Cola and Walmart to upsell, collect payments, and provide better service to their own customers over WhatsApp, Facebook Messenger and WeChat in Chin…*
+       - *Apple is well known for picking up smaller startups on the hush-hush to augment its business, and today news leaked out about the latest of these… nearly two years after the fact. Sometime between 2018 and 2019, the iPhone giant reportedly acquired and shut d…*
       
 
 
