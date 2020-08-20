@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 
-~ Harlan Mills
+~ Wayne Ratliff
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 
 </pre>
 **Daily News**
-  - Daily Crunch: Apple hits $2 trillion market cap
+  - Taiwan set to bar Chinese streaming services like iQiyi and Tencent's WeTV
      <hr/>
      
-      - *Apple stock reaches a big milestone, Facebook Portal gets more work-friendly and Twitter reports progress against hate speech. This is your Daily Crunch for August 19, 2020. The big story: Apple hits $2 trillion market cap Apple’s share price is up around 59%…*
+      - *iQiyi and Tencent’s WeTV, two of China’s most popular streaming services, may be banned in Taiwan next month as the government prepares to close regulatory loopholes that enabled them to operate through local partnerships. In an announcement posted this week,…*
      
+  - Daily Crunch: Apple hits $2 trillion market cap
+      <hr/>
+      
+      - *Apple stock reaches a big milestone, Facebook Portal gets more work-friendly and Twitter reports progress against hate speech. This is your Daily Crunch for August 19, 2020. The big story: Apple hits $2 trillion market cap Apple’s share price is up around 59%…*
+      
   - Airbnb has confidentially filed to go public
       <hr/>
       
@@ -81,16 +86,11 @@ An interactive debugger is an outstanding example of what is not needed - it enc
       <hr/>
       
       - *Students have no way to opt out of the location tracking.*
-      
+       
   - Just what would an enterprise company like Microsoft or Oracle do with TikTok?
       <hr/>
-      
-      - *By now you’ve probably heard that under pressure from the current administration, TikTok owner ByteDance is putting the viral video service up for sale, and surprisingly a couple of big name enterprise companies are interested. These organizations are better …*
        
-  - Lucid's new all-electric sedan will let owners send energy to their homes by mid-2021
-      <hr/>
-       
-       - *Lucid Motors said Wednesday that its upcoming all-electric Air sedan will have fast-charging capability that will let owners add 300 miles of range to the battery in 20 minutes and a home-charging unit that will allow owners to send energy from their car to t…*
+       - *By now you’ve probably heard that under pressure from the current administration, TikTok owner ByteDance is putting the viral video service up for sale, and surprisingly a couple of big name enterprise companies are interested. These organizations are better …*
       
 
 
