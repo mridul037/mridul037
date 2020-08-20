@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
-~ Leslie Lamport
+~ P. J. Plauger
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A distributed system is one in which the failure of a computer you didn’t even
 
 </pre>
 **Daily News**
-  - Moon lander startup ispace raises $28 million and launches a new lunar data platform
+  - Further delay to GDPR enforcement of 2018 Twitter breach
      <hr/>
      
-      - *ispace, one of the startups working on putting a private lunar lander on the Moon sometime in the next few years has raised a $28 million Series B funding round, which will be used to help it continue to develop its commercial lander ahead of planned 2022 and…*
+      - *Twitter users have to wait to longer to find out what penalties, if any, the platform faces under the European Union’s General Data Protection Regulation (GDPR) for a data breach that dates back around two years. In the meanwhile the platform has continued to…*
      
+  - Moon lander startup ispace raises $28 million and launches a new lunar data platform
+      <hr/>
+      
+      - *ispace, one of the startups working on putting a private lunar lander on the Moon sometime in the next few years has raised a $28 million Series B funding round, which will be used to help it continue to develop its commercial lander ahead of planned 2022 and…*
+      
   - China's Waterdrop nabs $230M for its crowdfunded, mutual aid insurance platform
       <hr/>
       
@@ -81,16 +86,11 @@ A distributed system is one in which the failure of a computer you didn’t even
       <hr/>
       
       - *Founded just four months ago, Tokyo-based BeaTrust has raised a JPY 300 million (about USD $2.83 million) seed round for its enterprise collaboration platform. The startup’s ambitious goal is to change corporate culture at large Japanese companies before expa…*
-      
+       
   - Riff raises $1.5M seed led by Balderton for its 'voice-first' chat tool for remote working
       <hr/>
-      
-      - *Riff, a London-based startup developing what it describes as a “voice-first” chat tool for remote working, has raised $1.5 million in seed funding, prior to a full launch next year. Leading the round is Balderton Capital, which is better known for Series A ro…*
        
-  - Author and professional poker player Annie Duke on how conspiracy theories gain ground
-      <hr/>
-       
-       - *Earlier today, Facebook said it has removed hundreds of QAnon groups from its site, and that it’s restricting many  more groups, along with hundreds of pages, and more than 10,000 Instagram accounts. As the New York Times observed in its report about the mane…*
+       - *Riff, a London-based startup developing what it describes as a “voice-first” chat tool for remote working, has raised $1.5 million in seed funding, prior to a full launch next year. Leading the round is Balderton Capital, which is better known for Series A ro…*
       
 
 
