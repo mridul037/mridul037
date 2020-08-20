@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The hardest part of design is keeping features out.
+Typing is no substitute for thinking.
 
-~ Don Norman
+~ Richard Hamming
 <pre>
 
 </pre>
