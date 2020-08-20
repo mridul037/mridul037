@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 
-~ Alan Perlis
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
