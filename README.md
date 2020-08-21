@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is at least as difficult as developing a mathematical theory.
+The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Programming is at least as difficult as developing a mathematical theory.
 
 </pre>
 **Daily News**
-  - Triller threatened to sue over report suggesting it inflated its downloads
+  - Exo raised $40 million for its handheld medical imaging device
      <hr/>
      
-      - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
+      - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
      
+  - Triller threatened to sue over report suggesting it inflated its downloads
+      <hr/>
+      
+      - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
+      
   - Sony WH-1000XM4 headphone review
       <hr/>
       
@@ -81,16 +86,11 @@ Programming is at least as difficult as developing a mathematical theory.
       <hr/>
       
       - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
-      
+       
   - Sign up to interview with accelerators before Disrupt 2020
       <hr/>
-      
-      - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
        
-  - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
-      <hr/>
-       
-       - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
+       - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
       
 
 
