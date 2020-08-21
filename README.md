@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ John von Neumann
+~ John Locke
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 </pre>
 **Daily News**
-  - Palantir targeting 3 class voting structure according to leaked S-1, giving founders 49.999999% control in perpetuity
+  - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
      <hr/>
      
-      - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
+      - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
      
+  - Daily Crunch: Palantir docs show $579M net loss
+      <hr/>
+      
+      - *We dive into Palantir’s finances, Apple fires back against Epic Games and Lambda School raises funding. This is your Daily Crunch for August 21, 2020. The big story: Palantir docs show $579M net loss Danny Crichton got a hold of the confidential S-1 filing fo…*
+      
+  - Palantir targeting 3 class voting structure according to leaked S-1, giving founders 49.999999% control in perpetuity
+      <hr/>
+      
+      - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
+      
   - Leaked Palantir S-1 shows company has 125 customers after 17 years
       <hr/>
       
       - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
-      
+       
   - Human Capital: What's next in Uber and Lyft's court battle and a look at board diversity in Silicon Valley
       <hr/>
-      
-      - *Welcome back to Human Capital, where we unpack the latest in diversity, equity and inclusion, and labor issues in the tech industry. In this week’s edition, we’re looking at the latest in Uber and Lyft’s court battle to keep their drivers classified as indepe…*
-      
-  - Rocket Lab sets return to flight with next launch as early as August 27
-      <hr/>
-      
-      - *Rocket Lab has made a remarkable recovery after losing a payload during a mission failure on July 4 – just eight weeks later, the company has set a launch window for its next dedicated commercial mission that spans 12 days beginning August 27 at 3:05 PM local…*
        
-  - Apple contends Epic's ban was a 'self-inflicted' prelude to gaming the App Store
-      <hr/>
-       
-       - *Apple has filed legal documents opposing Epic’s attempt to have itself reinstated in the iOS App Store, after having been kicked out last week for flouting its rules. Apple characterizes the entire thing as a “carefully orchestrated, multi-faceted campaign” a…*
+       - *Welcome back to Human Capital, where we unpack the latest in diversity, equity and inclusion, and labor issues in the tech industry. In this week’s edition, we’re looking at the latest in Uber and Lyft’s court battle to keep their drivers classified as indepe…*
       
 
 
