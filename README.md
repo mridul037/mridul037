@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+I think there is a world market for maybe five
+computers.
 
-~ Anders Hejlsberg
+~ Thomas J. Watson
 <pre>
 
 </pre>
