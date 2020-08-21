@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+No code is faster than no code.
 
-~ Poul-Henning Kamp
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Make a guess, double the number, and then move to the next larger unit of time. 
 
 </pre>
 **Daily News**
-  - Daily Crunch: Lyft and Uber win legal victory
+  - Triller threatened to sue over report suggesting it inflated its downloads
      <hr/>
      
-      - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
+      - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
      
+  - Sony WH-1000XM4 headphone review
+      <hr/>
+      
+      - *There was a mixed reaction among the TechCrunch staff when Sony’s WH-1000XM4 were announced the other week. There was excitement among those looking for new headphones and disappointment for those who’d recently purchased a different pair. The product’s prede…*
+      
+  - Daily Crunch: Lyft and Uber win legal victory
+      <hr/>
+      
+      - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
+      
   - Sign up to interview with accelerators before Disrupt 2020
       <hr/>
       
       - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
-      
+       
   - Investors Reilly Brennan, Amy Gu and Olaf Sakkers coming to TC Sessions: Mobility 2020
       <hr/>
-      
-      - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
-      
-  - Energy offset and renewable power developer Arcadia pitches clean power as an employee benefit
-      <hr/>
-      
-      - *Arcadia, the company that gives homeowners and renters a way to offset their carbon footprints through renewable energy credits and clean power developments, is now pitching its services to businesses as an employee benefit. Companies can offset their employe…*
        
-  - Palantir moves its HQ from Palo Alto to Denver as plans to go public percolate
-      <hr/>
-       
-       - *Between the IPO buzz and a raft of new federal contracts for COVID-19 work, it’s been a year of big moves for Palantir. Now, the company is making a more literal one: decamping from its Palo Alto headquarters to Denver, Colorado. The decision to relocate its …*
+       - *The mobility sector has been abuzz with activity in the past decade from the rise of ride-hailing and the sudden explosion of shared electric scooters and bikes to the pursuit to commercialize moonshots like automated vehicles and flying cars. At the center o…*
       
 
 
