@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Life is too short to run proprietary software.
+Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
 
-~ Bdale Garbee
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Life is too short to run proprietary software.
 
 </pre>
 **Daily News**
-  - Facebook trails expanding portability tools ahead of FTC hearing
+  - Lambda School raises $74M for its virtual coding school where you pay tuition only after you get a job
      <hr/>
      
-      - *Facebook is considering expanding the types of data its users are able to port directly to alternative platforms. In comments on portability sent to US regulators ahead of an FTC hearing on the topic next month, Facebook says it intends to expand the scope of…*
+      - *In the world of technology, online learning has been one of the bigger beneficiaries of the last several months, with people staying home and away from their normal routines because of the coronavirus pandemic and using that time to expand their knowledge, or…*
      
+  - Facebook trails expanding portability tools ahead of FTC hearing
+      <hr/>
+      
+      - *Facebook is considering expanding the types of data its users are able to port directly to alternative platforms. In comments on portability sent to US regulators ahead of an FTC hearing on the topic next month, Facebook says it intends to expand the scope of…*
+      
   - China is building a GitHub alternative called Gitee
       <hr/>
       
@@ -81,16 +86,11 @@ Life is too short to run proprietary software.
       <hr/>
       
       - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
-      
+       
   - Exo raised $40 million for its handheld medical imaging device
       <hr/>
-      
-      - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
        
-  - Triller threatened to sue over report suggesting it inflated its downloads
-      <hr/>
-       
-       - *A new report disputing the validity of Triller’s recently announced download figures led Triller to respond with the threat of a lawsuit. Triller, a newly litigious TikTok rival that could potentially benefit from a TikTok ban in the U.S., has been pushing to…*
+       - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
       
 
 
