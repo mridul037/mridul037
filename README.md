@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+I think you should always bear in mind that entropy is not on your side.
 
-~ Tim Berners-Lee
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I invented the Web just because I needed it, really, because it was so frustrati
 
 </pre>
 **Daily News**
-  - Unicorn rodeo: 6 high-flying startups that are set to go public
+  - Leaked S-1 screenshots show Palantir losing $579M in 2019
      <hr/>
      
-      - *This week Airbnb announced that it has privately filed to go public, putting the famous unicorn on a path to a quick IPO if it wants. The recent move matches reporting indicating that the home-sharing upstart could yet go public in 2020 despite the collapse o…*
+      - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
      
+  - CarbonChain is using AI to determine the emissions profile of the world's biggest polluters
+      <hr/>
+      
+      - *It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto, one of the largest industrial miners, and then at …*
+      
+  - Medical imaging startup Nanox raises $165.2M as it prepares to list today on Nasdaq
+      <hr/>
+      
+      - *Less than a month after the Israeli medical imaging startup Nanox raised $59 million in funding and said it was close to going public, the company has now bitten the bullet. Today the company announced that it has raised $165.2 million in an initial public of…*
+      
+  - Unicorn rodeo: 6 high-flying startups that are set to go public
+      <hr/>
+      
+      - *This week Airbnb announced that it has privately filed to go public, putting the famous unicorn on a path to a quick IPO if it wants. The recent move matches reporting indicating that the home-sharing upstart could yet go public in 2020 despite the collapse o…*
+       
   - Trump's official campaign app had to reset its rating after being trolled by TikTokers
       <hr/>
-      
-      - *An effort by TikTok users to troll President Trump’s official campaign app with thousands of 1-star reviews appears to have had an impact — if not the impact the pranksters had wanted. In July, Bloomberg reported TikTok activists were flocking to the Official…*
-      
-  - As the pandemic creates supply chain chaos, Craft raises $10M to apply some intelligence
-      <hr/>
-      
-      - *During the COVID-19 pandemic supply chains have suddenly become hot. Who knew that would ever happen? The race to secure PPE, ventilators, minor things like food, was and still is, an enormous issue. But perhaps, predictably, the world of ‘supply chain softwa…*
-      
-  - No parties allowed at the Airbnb IPO
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What happens when the entire podcast crew is a bit tired from, you know, everything, and does its very best? Th…*
        
-  - Lambda School raises $74M for its virtual coding school where you pay tuition only after you get a job
-      <hr/>
-       
-       - *In the world of technology, online learning has been one of the bigger beneficiaries of the last several months, with people staying home and away from their normal routines because of the coronavirus pandemic and using that time to expand their knowledge, or…*
+       - *An effort by TikTok users to troll President Trump’s official campaign app with thousands of 1-star reviews appears to have had an impact — if not the impact the pranksters had wanted. In July, Bloomberg reported TikTok activists were flocking to the Official…*
       
 
 
