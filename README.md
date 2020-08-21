@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Tom DeMarco
+~ John von Neumann
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The business of software building isn't really high-tech at all. It's most of al
 
 </pre>
 **Daily News**
-  - Leaked Palantir S-1 shows company has 125 customers after 17 years
+  - Palantir targeting 3 class voting structure according to leaked S-1, giving founders 49.999999% control in perpetuity
      <hr/>
      
-      - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
+      - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
      
+  - Leaked Palantir S-1 shows company has 125 customers after 17 years
+      <hr/>
+      
+      - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
+      
   - Human Capital: What's next in Uber and Lyft's court battle and a look at board diversity in Silicon Valley
       <hr/>
       
@@ -81,16 +86,11 @@ The business of software building isn't really high-tech at all. It's most of al
       <hr/>
       
       - *Rocket Lab has made a remarkable recovery after losing a payload during a mission failure on July 4 – just eight weeks later, the company has set a launch window for its next dedicated commercial mission that spans 12 days beginning August 27 at 3:05 PM local…*
-      
+       
   - Apple contends Epic's ban was a 'self-inflicted' prelude to gaming the App Store
       <hr/>
-      
-      - *Apple has filed legal documents opposing Epic’s attempt to have itself reinstated in the iOS App Store, after having been kicked out last week for flouting its rules. Apple characterizes the entire thing as a “carefully orchestrated, multi-faceted campaign” a…*
        
-  - How to raise your first VC fund
-      <hr/>
-       
-       - *Learning to understand the mentality of an LP and building trust with investors is just the beginning.*
+       - *Apple has filed legal documents opposing Epic’s attempt to have itself reinstated in the iOS App Store, after having been kicked out last week for flouting its rules. Apple characterizes the entire thing as a “carefully orchestrated, multi-faceted campaign” a…*
       
 
 
