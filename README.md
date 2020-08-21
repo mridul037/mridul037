@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think there is a world market for maybe five
-computers.
+Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 
-~ Thomas J. Watson
+~ Douglas Crockford
 <pre>
 
 </pre>
