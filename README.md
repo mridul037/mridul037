@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think you should always bear in mind that entropy is not on your side.
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 
-~ Elon Musk
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I think you should always bear in mind that entropy is not on your side.
 
 </pre>
 **Daily News**
-  - Leaked S-1 screenshots show Palantir losing $579M in 2019
+  - Submit your pitch deck to Disrupt 2020's Pitch Deck Teardown
      <hr/>
      
-      - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
+      - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
      
+  - Leaked S-1 screenshots show Palantir losing $579M in 2019
+      <hr/>
+      
+      - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
+      
   - CarbonChain is using AI to determine the emissions profile of the world's biggest polluters
       <hr/>
       
@@ -81,16 +86,11 @@ I think you should always bear in mind that entropy is not on your side.
       <hr/>
       
       - *Less than a month after the Israeli medical imaging startup Nanox raised $59 million in funding and said it was close to going public, the company has now bitten the bullet. Today the company announced that it has raised $165.2 million in an initial public of…*
-      
+       
   - Unicorn rodeo: 6 high-flying startups that are set to go public
       <hr/>
-      
-      - *This week Airbnb announced that it has privately filed to go public, putting the famous unicorn on a path to a quick IPO if it wants. The recent move matches reporting indicating that the home-sharing upstart could yet go public in 2020 despite the collapse o…*
        
-  - Trump's official campaign app had to reset its rating after being trolled by TikTokers
-      <hr/>
-       
-       - *An effort by TikTok users to troll President Trump’s official campaign app with thousands of 1-star reviews appears to have had an impact — if not the impact the pranksters had wanted. In July, Bloomberg reported TikTok activists were flocking to the Official…*
+       - *This week Airbnb announced that it has privately filed to go public, putting the famous unicorn on a path to a quick IPO if it wants. The recent move matches reporting indicating that the home-sharing upstart could yet go public in 2020 despite the collapse o…*
       
 
 
