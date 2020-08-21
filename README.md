@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Anonymous
+~ Quarry worker's creed
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A few months writing code can save you a few hours in design.
 
 </pre>
 **Daily News**
-  - Exo raised $40 million for its handheld medical imaging device
+  - Indian logistics SaaS startup FarEye bags $13 million
      <hr/>
      
-      - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
+      - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
      
+  - Exo raised $40 million for its handheld medical imaging device
+      <hr/>
+      
+      - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
+      
   - Triller threatened to sue over report suggesting it inflated its downloads
       <hr/>
       
@@ -81,16 +86,11 @@ A few months writing code can save you a few hours in design.
       <hr/>
       
       - *There was a mixed reaction among the TechCrunch staff when Sony’s WH-1000XM4 were announced the other week. There was excitement among those looking for new headphones and disappointment for those who’d recently purchased a different pair. The product’s prede…*
-      
+       
   - Daily Crunch: Lyft and Uber win legal victory
       <hr/>
-      
-      - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
        
-  - Sign up to interview with accelerators before Disrupt 2020
-      <hr/>
-       
-       - *Startup founders, brace yourself for a phenomenal opportunity. TechCrunch, in partnership with cela, will host eleven — count ‘em eleven — accelerators in Digital Startup Alley at Disrupt 2020. It gets better: they’re accepting applications for their upcoming…*
+       - *Uber and Lyft may not be pausing operations in California after all, Google releases new emergency alert tools and Airbnb bans all parties. This is your Daily Crunch for August 20, 2020. The big story: Uber and Lyft win legal victory Earlier today, Lyft annou…*
       
 
 
