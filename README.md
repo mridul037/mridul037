@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+Good software, like good wine, takes time.
 
-~ Ken Thompson
+~ Joel Spolsky
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Modern programming scares me in many respects. It confuses me to read a program 
 
 </pre>
 **Daily News**
-  - Lambda School raises $74M for its virtual coding school where you pay tuition only after you get a job
+  - No parties allowed at the Airbnb IPO
      <hr/>
      
-      - *In the world of technology, online learning has been one of the bigger beneficiaries of the last several months, with people staying home and away from their normal routines because of the coronavirus pandemic and using that time to expand their knowledge, or…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What happens when the entire podcast crew is a bit tired from, you know, everything, and does its very best? Th…*
      
+  - Lambda School raises $74M for its virtual coding school where you pay tuition only after you get a job
+      <hr/>
+      
+      - *In the world of technology, online learning has been one of the bigger beneficiaries of the last several months, with people staying home and away from their normal routines because of the coronavirus pandemic and using that time to expand their knowledge, or…*
+      
   - Facebook trails expanding portability tools ahead of FTC hearing
       <hr/>
       
@@ -81,16 +86,11 @@ Modern programming scares me in many respects. It confuses me to read a program 
       <hr/>
       
       - *The technological decoupling between the U.S. and China has been a boon to Chinese firms from chipmakers for smartphones and electric vehicles through to software that are the backbones of millions of businesses’ daily operations. Chinese companies might have…*
-      
+       
   - Indian logistics SaaS startup FarEye bags $13 million
       <hr/>
-      
-      - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
        
-  - Exo raised $40 million for its handheld medical imaging device
-      <hr/>
-       
-       - *Exo, a developer of new diagnostic hardware for the medical industry, has raised $40 million in a new round of funding as investors continue to back new companies that are reducing the cost and complexity of medical devices. Cost, portability, image quality a…*
+       - *More than 150 e-commerce and delivery companies globally use an Indian logistics startup’s service to work out the optimum way to ship items to their customers. That startup, Noida-based FarEye, said today it has raised an additional $13 million to close its …*
       
 
 
