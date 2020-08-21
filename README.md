@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Fred Brooks
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The general tendency is to over-design the second system, using all the ideas an
 
 </pre>
 **Daily News**
-  - Sources say Palantir will have a lockup period after its direct listing
+  - Anu Duggal on COVID-19, promoting diversity and building a fund
      <hr/>
      
-      - *This morning, we published exclusive, leaked details about Palantir’s much anticipated S-1 filing, including the company’s revenues, margins, operating loss, and government/commercial contract breakdown. Leaked S-1 screenshots show Palantir losing $579M in 20…*
+      - *It has been nearly a decade since Anu Duggal, founding partner of Female Founders Fund, started raising money to invest in women-led startups. In 2020, the investor says her thesis — that there will be a generation of successful venture-backed businesses buil…*
      
+  - Box CEO Aaron Levie says thrifty founders have more control
+      <hr/>
+      
+      - *Once upon a time, Box’s Aaron Levie was just a guy with an idea for a company: 15 years ago as a USC student, he conceived of a way to simply store and share files online. It may be hard to recall, but back then, the world was awash with thumb drives and movi…*
+      
+  - Sources say Palantir will have a lockup period after its direct listing
+      <hr/>
+      
+      - *This morning, we published exclusive, leaked details about Palantir’s much anticipated S-1 filing, including the company’s revenues, margins, operating loss, and government/commercial contract breakdown. Leaked S-1 screenshots show Palantir losing $579M in 20…*
+      
   - This subscription social network is happy to be an Albatross in a pandemic
       <hr/>
       
       - *In discussions of ethically dubious social networks Facebook is the usual reference choice. But spare a thought for subscribers of InterNations, a Munich-based social networking community for expats, who have found themselves unable to obtain refunds for full…*
-      
+       
   - How one founder leveraged debt to drive early growth and avoid dilution
       <hr/>
-      
-      - *Could SaaS securitization be a future model of debt for startups?*
-      
-  - Submit your pitch deck to Disrupt 2020's Pitch Deck Teardown
-      <hr/>
-      
-      - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
        
-  - Leaked S-1 screenshots show Palantir losing $579M in 2019
-      <hr/>
-       
-       - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
+       - *Could SaaS securitization be a future model of debt for startups?*
       
 
 
