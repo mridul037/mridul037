@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+A few months writing code can save you a few hours in design.
 
-~ Douglas Crockford
+~ Anonymous
 <pre>
 
 </pre>
