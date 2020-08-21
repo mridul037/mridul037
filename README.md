@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No code is faster than no code.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 
-~ Kevlin Henney
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
