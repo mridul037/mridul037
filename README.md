@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 
-~ Robert C. Martin
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The ratio of time spent reading versus writing is well over 10 to 1. We are cons
 
 </pre>
 **Daily News**
-  - Submit your pitch deck to Disrupt 2020's Pitch Deck Teardown
+  - Sources say Palantir will have a lockup period after its direct listing
      <hr/>
      
-      - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
+      - *This morning, we published exclusive, leaked details about Palantir’s much anticipated S-1 filing, including the company’s revenues, margins, operating loss, and government/commercial contract breakdown. Leaked S-1 screenshots show Palantir losing $579M in 20…*
      
+  - This subscription social network is happy to be an Albatross in a pandemic
+      <hr/>
+      
+      - *In discussions of ethically dubious social networks Facebook is the usual reference choice. But spare a thought for subscribers of InterNations, a Munich-based social networking community for expats, who have found themselves unable to obtain refunds for full…*
+      
+  - How one founder leveraged debt to drive early growth and avoid dilution
+      <hr/>
+      
+      - *Could SaaS securitization be a future model of debt for startups?*
+      
+  - Submit your pitch deck to Disrupt 2020's Pitch Deck Teardown
+      <hr/>
+      
+      - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
+       
   - Leaked S-1 screenshots show Palantir losing $579M in 2019
       <hr/>
-      
-      - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
-      
-  - CarbonChain is using AI to determine the emissions profile of the world's biggest polluters
-      <hr/>
-      
-      - *It was the Australian bush fire that finally did it. For twelve years Adam Hearne had worked at companies which represented some of the world’s largest sources of greenhouse gas emissions. First at Rio Tinto, one of the largest industrial miners, and then at …*
-      
-  - Medical imaging startup Nanox raises $165.2M as it prepares to list today on Nasdaq
-      <hr/>
-      
-      - *Less than a month after the Israeli medical imaging startup Nanox raised $59 million in funding and said it was close to going public, the company has now bitten the bullet. Today the company announced that it has raised $165.2 million in an initial public of…*
        
-  - Unicorn rodeo: 6 high-flying startups that are set to go public
-      <hr/>
-       
-       - *This week Airbnb announced that it has privately filed to go public, putting the famous unicorn on a path to a quick IPO if it wants. The recent move matches reporting indicating that the home-sharing upstart could yet go public in 2020 despite the collapse o…*
+       - *Palantir filed an S-1 confidentially to the SEC in early July, but we have so far been waiting for the final doc to be published for weeks now with nary a murmur. Now, thanks to some leaked screenshots to TechCrunch from a Palantir shareholder, we might have …*
       
 
 
