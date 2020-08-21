@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn’t have everything is actually easier to program in than some that do.
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 
-~ Dennis Ritchie
+~ Anders Hejlsberg
 <pre>
 
 </pre>
