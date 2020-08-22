@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cheapest, fastest, and most reliable components are those that aren’t there.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Gordon Bell
+~ Jim Horning
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The cheapest, fastest, and most reliable components are those that aren’t ther
 
 </pre>
 **Daily News**
-  - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
+  - Almost everything you need to know about SPACs
      <hr/>
      
-      - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
+      - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
      
+  - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
+      <hr/>
+      
+      - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
+      
   - Daily Crunch: Palantir docs show $579M net loss
       <hr/>
       
@@ -81,16 +86,11 @@ The cheapest, fastest, and most reliable components are those that aren’t ther
       <hr/>
       
       - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
-      
+       
   - Leaked Palantir S-1 shows company has 125 customers after 17 years
       <hr/>
-      
-      - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
        
-  - Human Capital: What's next in Uber and Lyft's court battle and a look at board diversity in Silicon Valley
-      <hr/>
-       
-       - *Welcome back to Human Capital, where we unpack the latest in diversity, equity and inclusion, and labor issues in the tech industry. In this week’s edition, we’re looking at the latest in Uber and Lyft’s court battle to keep their drivers classified as indepe…*
+       - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
       
 
 
