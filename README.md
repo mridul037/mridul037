@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 
-~ Laurence J. Peter
+~ Albert Einstein
 <pre>
 
 </pre>
