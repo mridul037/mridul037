@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+The key to keeping software costs down is to write code that is easily modified.
 
-~ Charles Simonyi
+~ Daniel T. Barry
 <pre>
 
 </pre>
