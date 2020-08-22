@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The key to keeping software costs down is to write code that is easily modified.
+You can’t trust code that you did not totally create yourself.
 
-~ Daniel T. Barry
+~ Ken Thompson
 <pre>
 
 </pre>
