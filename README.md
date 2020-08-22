@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Seymour Cray
+~ Grady Booch
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The trouble with programmers is that you can never tell what a programmer is doi
 
 </pre>
 **Daily News**
-  - Five VCs discuss how no-code is going horizontal across the world’s industries
+  - Original Content podcast: On Netflix's 'Selling Sunset', everyone's a villain
      <hr/>
      
-      - *Few topics garner cheers and groans quite as quickly as the no-code software explosion. While investors seem uniformly bullish on toolsets that streamline and automate processes that once required a decent amount of technical know-how, not everyone seems to t…*
+      - *“Selling Sunset” is the kind reality TV show that doesn’t bother with things like sympathetic or relatable characters. The Netflix series recently released its third season — which, like the seasons before it, follows the efforts of the largely female staff a…*
      
+  - Five VCs discuss how no-code is going horizontal across the world’s industries
+      <hr/>
+      
+      - *Few topics garner cheers and groans quite as quickly as the no-code software explosion. While investors seem uniformly bullish on toolsets that streamline and automate processes that once required a decent amount of technical know-how, not everyone seems to t…*
+      
   - Almost everything you need to know about SPACs
       <hr/>
       
@@ -81,16 +86,11 @@ The trouble with programmers is that you can never tell what a programmer is doi
       <hr/>
       
       - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
-      
+       
   - Daily Crunch: Palantir docs show $579M net loss
       <hr/>
-      
-      - *We dive into Palantir’s finances, Apple fires back against Epic Games and Lambda School raises funding. This is your Daily Crunch for August 21, 2020. The big story: Palantir docs show $579M net loss Danny Crichton got a hold of the confidential S-1 filing fo…*
        
-  - Palantir targeting 3 class voting structure according to leaked S-1, giving founders 49.999999% control in perpetuity
-      <hr/>
-       
-       - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
+       - *We dive into Palantir’s finances, Apple fires back against Epic Games and Lambda School raises funding. This is your Daily Crunch for August 21, 2020. The big story: Palantir docs show $579M net loss Danny Crichton got a hold of the confidential S-1 filing fo…*
       
 
 
