@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 
-~ Grady Booch
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The entire history of software engineering is that of the rise in levels of abst
 
 </pre>
 **Daily News**
-  - Original Content podcast: On Netflix's 'Selling Sunset', everyone's a villain
+  - Five proven ways to attract and hire more diverse talent
      <hr/>
      
-      - *“Selling Sunset” is the kind reality TV show that doesn’t bother with things like sympathetic or relatable characters. The Netflix series recently released its third season — which, like the seasons before it, follows the efforts of the largely female staff a…*
+      - *Startup founders should review — and personalize — their internal recruiting practices and policies to make them more inclusive.*
      
+  - Original Content podcast: On Netflix's 'Selling Sunset', everyone's a villain
+      <hr/>
+      
+      - *“Selling Sunset” is the kind reality TV show that doesn’t bother with things like sympathetic or relatable characters. The Netflix series recently released its third season — which, like the seasons before it, follows the efforts of the largely female staff a…*
+      
   - Five VCs discuss how no-code is going horizontal across the world’s industries
       <hr/>
       
@@ -81,16 +86,11 @@ The entire history of software engineering is that of the rise in levels of abst
       <hr/>
       
       - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
-      
+       
   - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
       <hr/>
-      
-      - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
        
-  - Daily Crunch: Palantir docs show $579M net loss
-      <hr/>
-       
-       - *We dive into Palantir’s finances, Apple fires back against Epic Games and Lambda School raises funding. This is your Daily Crunch for August 21, 2020. The big story: Palantir docs show $579M net loss Danny Crichton got a hold of the confidential S-1 filing fo…*
+       - *Adding a new employee to a team tends to involve more than saying “You’re hired!” and tossing them into the company Slack. You’ve got to get them trained, ship them any hardware they might need, get them setup on all of your internal tools, and check in regul…*
       
 
 
