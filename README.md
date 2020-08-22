@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Debugging is like being the detective in a crime movie where you are also the murderer.
+How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 
-~ Filipe Fortes
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
