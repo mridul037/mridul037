@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you learn how to solve problems, you can go through life and do pretty well.
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 
-~ Gary Kildall
+~ Wayne Ratliff
 <pre>
 
 </pre>
