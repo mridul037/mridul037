@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 
-~ Albert Einstein
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ All of our exalted technological progress, civilization for that matter, is comp
 
 </pre>
 **Daily News**
-  - Launched with $17 million by two former Norwest investors, Tau Ventures is ready for its closeup
+  - Startups Weekly: Will future unicorns go public sooner?
      <hr/>
      
-      - *Amit Garg and Sanjay Rao have spent the bulk of their professional lives developing technology, founding startups and investing in startups at places like Google and Microsoft, HealthIQ, and Norwest Venture Partners. Over their decade-long friendship the two …*
+      - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
      
+  - Launched with $17 million by two former Norwest investors, Tau Ventures is ready for its closeup
+      <hr/>
+      
+      - *Amit Garg and Sanjay Rao have spent the bulk of their professional lives developing technology, founding startups and investing in startups at places like Google and Microsoft, HealthIQ, and Norwest Venture Partners. Over their decade-long friendship the two …*
+      
   - Hey Apple, how about a MacBook SE?
       <hr/>
       
@@ -81,16 +86,11 @@ All of our exalted technological progress, civilization for that matter, is comp
       <hr/>
       
       - *Bletchley Park is an English country house that became the principal centre of Allied code-breaking during the Second World War. It built the world’s first programmable digital electronic computer, cracking the Enigma Machine and thus helping turn the tide of…*
-      
+       
   - Hear from experienced edtech investors on the market’s overnight boom
       <hr/>
-      
-      - *Edtech’s reputation has been revitalized due to the coronavirus pandemic, which forced millions of students to adopt remote education overnight. But behind the scramble is a crop of investors who have long invested in the space — before it became cool. To bet…*
        
-  - This Week in Apps: Apple's antitrust war, TikTok ban, alt app ecosystems
-      <hr/>
-       
-       - *We missed some Epic news while This Week in Apps was on vacation, but this week the backlash against the App Store continues.*
+       - *Edtech’s reputation has been revitalized due to the coronavirus pandemic, which forced millions of students to adopt remote education overnight. But behind the scramble is a crop of investors who have long invested in the space — before it became cool. To bet…*
       
 
 
