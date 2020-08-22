@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Friedrich Bauer
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Software engineering is the part of computer science which is too difficult for 
 
 </pre>
 **Daily News**
-  - Almost everything you need to know about SPACs
+  - Five VCs discuss how no-code is going horizontal across the world’s industries
      <hr/>
      
-      - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
+      - *Few topics garner cheers and groans quite as quickly as the no-code software explosion. While investors seem uniformly bullish on toolsets that streamline and automate processes that once required a decent amount of technical know-how, not everyone seems to t…*
      
+  - Almost everything you need to know about SPACs
+      <hr/>
+      
+      - *Feeling as if you should better understand special purpose acquisition vehicles – or SPACS — than you do? You aren’t alone. Like most casual observers, you’re probably already aware that Paul Ryan now has a SPAC, as does baseball executive Billy Beane and Sil…*
+      
   - Gather helps teams streamline things like onboarding, offboarding, and parental leave over Slack
       <hr/>
       
@@ -81,16 +86,11 @@ Software engineering is the part of computer science which is too difficult for 
       <hr/>
       
       - *We dive into Palantir’s finances, Apple fires back against Epic Games and Lambda School raises funding. This is your Daily Crunch for August 21, 2020. The big story: Palantir docs show $579M net loss Danny Crichton got a hold of the confidential S-1 filing fo…*
-      
+       
   - Palantir targeting 3 class voting structure according to leaked S-1, giving founders 49.999999% control in perpetuity
       <hr/>
-      
-      - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
        
-  - Leaked Palantir S-1 shows company has 125 customers after 17 years
-      <hr/>
-       
-       - *We are still walking through Palantir’s leaked S-1, which as of the time of this writing, hasn’t yet been filed and published by the SEC. This morning, we discussed some of Palantir’s financials, including its revenues, margins, and net losses. Leaked S-1 scr…*
+       - *We are continuing to make progress through Palantir’s leaked S-1 filing, which TechCrunch attained a copy of recently. We have covered the company’s financials this morning, and this afternoon we talked about the company’s customer concentration. Now I want t…*
       
 
 
