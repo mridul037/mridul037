@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Fred Brooks
+~ Friedrich Bauer
 <pre>
 
 </pre>
