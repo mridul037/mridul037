@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Ken Thompson
+~ Bill Gates
 <pre>
 
 </pre>
