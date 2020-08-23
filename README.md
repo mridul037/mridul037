@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
