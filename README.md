@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+It was a turning point in my programming career when I realized that I didn't have to win every argument.
 
-~ Tim Berners-Lee
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Cool URIs don't change.
 
 </pre>
 **Daily News**
-  - Palantir and the great revenue mystery
+  - Osmind pitches clinical management and data analysis for mental health practices using psychedelics
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
+      - *Jimmy Qian and Lucia Huang, the co-founders of a new clinical practice management and data analysis platform for mental health providers focusing on cutting edge psychedelic treatments, met at Stanford University.  The two both come from healthcare background…*
      
+  - Palantir and the great revenue mystery
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
+      
   - Startups Weekly: Will future unicorns go public sooner?
       <hr/>
       
@@ -81,16 +86,11 @@ Cool URIs don't change.
       <hr/>
       
       - *Amit Garg and Sanjay Rao have spent the bulk of their professional lives developing technology, founding startups and investing in startups at places like Google and Microsoft, HealthIQ, and Norwest Venture Partners. Over their decade-long friendship the two …*
-      
+       
   - Hey Apple, how about a MacBook SE?
       <hr/>
-      
-      - *Apple’s a hard company to like these days. Their glory days behind them, they have relentlessly pursued a misguided concept of optimization that has alienated their user base and compromised their products. A MacBook SE would go a long way toward smoothing th…*
        
-  - Bletchley Park, birth-place of the computer, faces uncertain future after pandemic hits income
-      <hr/>
-       
-       - *Bletchley Park is an English country house that became the principal centre of Allied code-breaking during the Second World War. It built the world’s first programmable digital electronic computer, cracking the Enigma Machine and thus helping turn the tide of…*
+       - *Apple’s a hard company to like these days. Their glory days behind them, they have relentlessly pursued a misguided concept of optimization that has alienated their user base and compromised their products. A MacBook SE would go a long way toward smoothing th…*
       
 
 
