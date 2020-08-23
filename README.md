@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think the best way to supervise is by personal example and by frequent code reviews.
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 
-~ Charles Simonyi
+~ Ada Lovelace
 <pre>
 
 </pre>
