@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Robert L. Glass
+~ Ted Nelson
 <pre>
 
 </pre>
