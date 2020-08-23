@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Bill Gates
+~ Fred Brooks
 <pre>
 
 </pre>
