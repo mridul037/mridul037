@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+I think the best way to supervise is by personal example and by frequent code reviews.
 
-~ Edsger W. Dijkstra
+~ Charles Simonyi
 <pre>
 
 </pre>
