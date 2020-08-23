@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was a turning point in my programming career when I realized that I didn't have to win every argument.
+Machines take me by surprise with great frequency.
 
-~ Ward Cunningham
+~ Alan Turing
 <pre>
 
 </pre>
