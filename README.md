@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Douglas Crockford
+~ Grady Booch
 <pre>
 
 </pre>
