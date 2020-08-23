@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Ted Nelson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
