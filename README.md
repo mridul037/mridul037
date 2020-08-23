@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A good programmer is someone who looks both ways before crossing a one-way street.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Doug Linder
+~ Linus Torvalds
 <pre>
 
 </pre>
