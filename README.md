@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Wayne Ratliff
+~ Ted Nelson
 <pre>
 
 </pre>
