@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 
-~ Charles Babbage
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
