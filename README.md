@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The top 5% of programmers probably write 99% of the good software.
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 
-~ Paul Graham (programmer)
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The top 5% of programmers probably write 99% of the good software.
 
 </pre>
 **Daily News**
-  - Startup Alley exhibitors: register for VC-led Fundraising & Hiring Best Practices webinar
+  - With $11 million in fresh capital, Bolt Bikes rebrands to Zoomo
      <hr/>
      
-      - *It’s a classic “last but not least” moment for the all the savvy early-stage startup founders exhibiting in Digital Startup Alley at Disrupt 2020. The final webinar in our three-part interactive series takes place on August 26 at 1pm PT / 4pm ET]. Don’t forge…*
+      - *Bolt Bikes, the electric bike platform marketed to gig economy delivery workers, has a new name and a fresh injection of $11 million in capital from a Series A funding round led by Australian Clean Energy Finance Corporation. The round also included equity fr…*
      
+  - Extra Crunch discount now available for military, nonprofits and government employees
+      <hr/>
+      
+      - *We’re excited to announce that government, nonprofit and military employees can get an Extra Crunch membership at a discounted rate of $50 per year, plus tax. If interested in claiming the deal, please contact our customer service team from your .org, .gov, .…*
+      
+  - Earn the best backlinks with high-quality content and digital PR
+      <hr/>
+      
+      - *Amanda Milligan Contributor Share on Twitter Amanda Milligan is the marketing director at Fractl, a prominent growth marketing agency that’s helped Fortune 500 companies and boutique businesses alike earn quality media coverage, backlinks, awareness and autho…*
+      
+  - Startup Alley exhibitors: register for VC-led Fundraising & Hiring Best Practices webinar
+      <hr/>
+      
+      - *It’s a classic “last but not least” moment for the all the savvy early-stage startup founders exhibiting in Digital Startup Alley at Disrupt 2020. The final webinar in our three-part interactive series takes place on August 26 at 1pm PT / 4pm ET]. Don’t forge…*
+       
   - Ever, once accused of building facial recognition tech using customer data, shuts down consumer app
       <hr/>
-      
-      - *Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants. Las…*
-      
-  - Facebook to pay $125 million in back taxes in France, report says
-      <hr/>
-      
-      - *Facebook France is going to pay $125 million (€106 million) in back taxes according to business magazine Capital — Facebook confirmed the agreement to both Capital and Reuters. French tax authorities raided Facebook’s offices in Paris in 2012 and later opened…*
-      
-  - Sequoia strikes gold with Unity’s IPO filing
-      <hr/>
-      
-      - *A big payday is on the way for Sequoia and its partners, assuming they beat the final boss. Today after much anticipation, video game engine Unity filed its Form S-1 with the SEC as it prepares a roadshow to go public in the coming weeks. We discussed quite a…*
        
-  - Red Antler's Emily Heyward explains how to get people obsessed with your brand
-      <hr/>
-       
-       - *If you’re currently building a startup, you know what product you want to build. But do you know if people are actually going to notice you? That’s the question I asked of Red Antler co-founder Emily Heyward during our virtual TechCrunch Early Stage event. In…*
+       - *Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants. Las…*
       
 
 
