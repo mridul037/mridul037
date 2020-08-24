@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+What one programmer can do in one month, two programmers can do in two months.
 
-~ Brian Kernighan
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Debugging is twice as hard as writing the code in the first place. Therefore, if
 
 </pre>
 **Daily News**
-  - TikTok sues the U.S. government over its forthcoming ban
+  - Facebook to pay $125 million in back taxes in France, report says
      <hr/>
      
-      - *TikTok is suing the U.S. government in federal court over the Trump Administration’s decision to ban TikTok in the U.S. market. Reports that TikTok would soon file a legal challenge to the ban were already making the rounds this weekend, ahead of TikTok’s for…*
+      - *Facebook France is going to pay $125 million (€106 million) in back taxes according to business magazine Capital — Facebook confirmed the agreement to both Capital and Reuters. French tax authorities raided Facebook’s offices in Paris in 2012 and later opened…*
      
+  - Sequoia strikes gold with Unity’s IPO filing
+      <hr/>
+      
+      - *A big payday is on the way for Sequoia and its partners, assuming they beat the final boss. Today after much anticipation, video game engine Unity filed its Form S-1 with the SEC as it prepares a roadshow to go public in the coming weeks. We discussed quite a…*
+      
+  - Red Antler's Emily Heyward explains how to get people obsessed with your brand
+      <hr/>
+      
+      - *If you’re currently building a startup, you know what product you want to build. But do you know if people are actually going to notice you? That’s the question I asked of Red Antler co-founder Emily Heyward during our virtual TechCrunch Early Stage event. In…*
+      
+  - TikTok sues the U.S. government over its forthcoming ban
+      <hr/>
+      
+      - *TikTok is suing the U.S. government in federal court over the Trump Administration’s decision to ban TikTok in the U.S. market. Reports that TikTok would soon file a legal challenge to the ban were already making the rounds this weekend, ahead of TikTok’s for…*
+       
   - Unpacking the Sumo Logic S-1 filing
       <hr/>
-      
-      - *Setting our dive into Palantir’s gross margins aside for another day, Sumo Logic filed to go public this morning. The Redwood City-based, former startup raised around $340 million while private, according to Crunchbase data. The Exchange explores startups, ma…*
-      
-  - Two weeks left on early-bird pricing for TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *It’s time to mobilize for early-bird savings on passes to the all-virtual TC Sessions Mobility 2020, which takes place October 6-7. Prices will continue to increase as the event draws near. Buy your pass before September 4 at 11:59 p.m. (PT) and you’ll save $…*
-      
-  - Five real reasons to attend Disrupt 2020 online
-      <hr/>
-      
-      - *Why should you attend Disrupt 2020? We live in unprecedented times and face unprecedented challenges. But unprecedented opportunities are also part of this equation, and now is the time for creative startup minds and makers to go full-tilt disruptive. We reen…*
        
-  - COVID-19 pandemic accelerated shift to e-commerce by 5 years, new report says
-      <hr/>
-       
-       - *As the COVID-19 pandemic reshaped our world, more consumers have begun shopping online in greater numbers and frequency. According to new data from IBM’s U.S. Retail Index, the pandemic has accelerated the shift away from physical stores to digital shopping b…*
+       - *Setting our dive into Palantir’s gross margins aside for another day, Sumo Logic filed to go public this morning. The Redwood City-based, former startup raised around $340 million while private, according to Crunchbase data. The Exchange explores startups, ma…*
       
 
 
