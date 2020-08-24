@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+In man-machine symbiosis, it is man who must adjust: The machines can't.
 
-~ Leslie Lamport
+~ Alan Perlis
 <pre>
 
 </pre>
