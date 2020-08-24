@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One man's constant is another man's variable.
+Deleted code is debugged code.
 
-~ Alan Perlis
+~ Jeff Sickel
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One man's constant is another man's variable.
 
 </pre>
 **Daily News**
-  - Mastercard acquired and shut down IfOnly, an experiences marketplace hit by Covid-19
+  - A quick peek at Snowflake's IPO filing
      <hr/>
      
-      - *Travel has undoubtedly been one of the industries hardest hit in the coronavirus pandemic, constrained by restrictions on how people can move between and within countries, many venues closing, new rules to minimise gatherings, shrinking economies, and a gener…*
+      - *Snowflake filed to go public today joining a bushel of companies making their S-1 documents public today. TechCrunch has a longer digest of all the IPO filings coming soon, but we could not wait to get into the Snowflake numbers given the huge anticipation th…*
      
+  - Unity's IPO numbers look pretty ... unreal?
+      <hr/>
+      
+      - *Unity, the company founded in a Copenhagen apartment in 2004, is poised for an initial public offering with numbers that look pretty strong. Even as its main competitor, Epic Games, is in the throes of a very public fight with Apple over the fees the computer…*
+      
+  - TikTok-rival Triller inks deal with Reliance's JioSaavn in India push
+      <hr/>
+      
+      - *Triller, an app that functions similarly to TikTok, has inked a strategic partnership with a platform owned by India’s richest man to cash in on the Chinese app’s ban in its biggest international market. The Los Angeles-headquartered firm said on Monday it ha…*
+      
+  - Mastercard acquired and shut down IfOnly, an experiences marketplace hit by Covid-19
+      <hr/>
+      
+      - *Travel has undoubtedly been one of the industries hardest hit in the coronavirus pandemic, constrained by restrictions on how people can move between and within countries, many venues closing, new rules to minimise gatherings, shrinking economies, and a gener…*
+       
   - With $11 million in fresh capital, Bolt Bikes rebrands to Zoomo
       <hr/>
-      
-      - *Bolt Bikes, the electric bike platform marketed to gig economy delivery workers, has a new name and a fresh injection of $11 million in capital from a Series A funding round led by Australian Clean Energy Finance Corporation. The round also included equity fr…*
-      
-  - Extra Crunch discount now available for military, nonprofits and government employees
-      <hr/>
-      
-      - *We’re excited to announce that government, nonprofit and military employees can get an Extra Crunch membership at a discounted rate of $50 per year, plus tax. If interested in claiming the deal, please contact our customer service team from your .org, .gov, .…*
-      
-  - Earn the best backlinks with high-quality content and digital PR
-      <hr/>
-      
-      - *Amanda Milligan Contributor Share on Twitter Amanda Milligan is the marketing director at Fractl, a prominent growth marketing agency that’s helped Fortune 500 companies and boutique businesses alike earn quality media coverage, backlinks, awareness and autho…*
        
-  - Startup Alley exhibitors: register for VC-led Fundraising & Hiring Best Practices webinar
-      <hr/>
-       
-       - *It’s a classic “last but not least” moment for the all the savvy early-stage startup founders exhibiting in Digital Startup Alley at Disrupt 2020. The final webinar in our three-part interactive series takes place on August 26 at 1pm PT / 4pm ET]. Don’t forge…*
+       - *Bolt Bikes, the electric bike platform marketed to gig economy delivery workers, has a new name and a fresh injection of $11 million in capital from a Series A funding round led by Australian Clean Energy Finance Corporation. The round also included equity fr…*
       
 
 
