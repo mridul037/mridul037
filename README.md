@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 
-~ Charles Simonyi
+~ Donald Knuth
 <pre>
 
 </pre>
