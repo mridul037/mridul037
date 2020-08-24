@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+Codes are a puzzle. A game, just like any other game.
 
-~ Edsger W. Dijkstra
+~ Alan Turing
 <pre>
 
 </pre>
