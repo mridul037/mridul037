@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Edsger W. Dijkstra
+~ Leslie Lamport
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The purpose of abstraction is not to be vague, but to create a new semantic leve
 
 </pre>
 **Daily News**
-  - Osmind pitches clinical management and data analysis for mental health practices using psychedelics
+  - Twitter hides Trump tweet behind notice for potentially dissuading people from voting
      <hr/>
      
-      - *Jimmy Qian and Lucia Huang, the co-founders of a new clinical practice management and data analysis platform for mental health providers focusing on cutting edge psychedelic treatments, met at Stanford University.  The two both come from healthcare background…*
+      - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
      
+  - Osmind pitches clinical management and data analysis for mental health practices using psychedelics
+      <hr/>
+      
+      - *Jimmy Qian and Lucia Huang, the co-founders of a new clinical practice management and data analysis platform for mental health providers focusing on cutting edge psychedelic treatments, met at Stanford University.  The two both come from healthcare background…*
+      
   - Palantir and the great revenue mystery
       <hr/>
       
@@ -81,16 +86,11 @@ The purpose of abstraction is not to be vague, but to create a new semantic leve
       <hr/>
       
       - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
-      
+       
   - Launched with $17 million by two former Norwest investors, Tau Ventures is ready for its closeup
       <hr/>
-      
-      - *Amit Garg and Sanjay Rao have spent the bulk of their professional lives developing technology, founding startups and investing in startups at places like Google and Microsoft, HealthIQ, and Norwest Venture Partners. Over their decade-long friendship the two …*
        
-  - Hey Apple, how about a MacBook SE?
-      <hr/>
-       
-       - *Apple’s a hard company to like these days. Their glory days behind them, they have relentlessly pursued a misguided concept of optimization that has alienated their user base and compromised their products. A MacBook SE would go a long way toward smoothing th…*
+       - *Amit Garg and Sanjay Rao have spent the bulk of their professional lives developing technology, founding startups and investing in startups at places like Google and Microsoft, HealthIQ, and Norwest Venture Partners. Over their decade-long friendship the two …*
       
 
 
