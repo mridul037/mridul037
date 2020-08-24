@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+First do it, then do it right, then do it better.
 
-~ Charles Babbage
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The errors which arise from the absence of facts are far more numerous and more 
 
 </pre>
 **Daily News**
-  - Zoom meetings hit by outage
+  - Yac gets backed by Slack to bring the intimacy of voice back when remote co-workers interact
      <hr/>
      
-      - *Zoom video calls and webinars are also suffering because of the outage.*
+      - *Yac, the digital voice messaging service that launched last year, has raised new money from the Slack Fund as it continues to gain ground among companies looking to give their employees new communication tools for remote working. The Florida-based startup ini…*
      
+  - 3 thoughts after 24 hours in the $177,000 Bentley Bentayga
+      <hr/>
+      
+      - *Long story short, I borrowed a new Bentley Bentayga for 24 hours. What follows is a brief overview of the $177,000 sport utility vehicle. As I had the vehicle for a short time, I was unable to dive deep into the SUV, and it feels disingenuous to write a full …*
+      
+  - Zoom meetings hit by outage
+      <hr/>
+      
+      - *Zoom video calls and webinars are also suffering because of the outage.*
+      
   - Conan is coming to Disrupt 2020
       <hr/>
       
       - *In 2010, TV show host Conan O’Brien was abruptly asked to give up the time slot he’d been handed just six months earlier by his longtime employer NBC. Instead, he famously gave the network the figurative finger, taking his act to the basic cable network TBS l…*
-      
+       
   - SugarCRM acquires Node to gain predictive customer intelligence
       <hr/>
-      
-      - *SugarCRM announced this morning it has acquired customer intelligence startup, Node. The companies did not reveal the purchase price, but the deal has closed. While Sugar gains a ton of AI expertise, it also adds a customer prediction element to the platform …*
-      
-  - The Station: Canoo paddles into the SPAC current and the next threat to micro mobility
-      <hr/>
-      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
        
-  - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
-      <hr/>
-       
-       - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
+       - *SugarCRM announced this morning it has acquired customer intelligence startup, Node. The companies did not reveal the purchase price, but the deal has closed. While Sugar gains a ton of AI expertise, it also adds a customer prediction element to the platform …*
       
 
 
