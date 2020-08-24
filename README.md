@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
 
-~ Tim Berners-Lee
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I just had to take the hypertext idea and connect it to the TCP and DNS ideas an
 
 </pre>
 **Daily News**
-  - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
+  - Conan is coming to Disrupt 2020
      <hr/>
      
-      - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
+      - *In 2010, TV show host Conan O’Brien was abruptly asked to give up the time slot he’d been handed just six months earlier by his longtime employer NBC. Instead, he famously gave the network the figurative finger, taking his act to the basic cable network TBS l…*
      
+  - SugarCRM acquires Node to gain predictive customer intelligence
+      <hr/>
+      
+      - *SugarCRM announced this morning it has acquired customer intelligence startup, Node. The companies did not reveal the purchase price, but the deal has closed. While Sugar gains a ton of AI expertise, it also adds a customer prediction element to the platform …*
+      
+  - The Station: Canoo paddles into the SPAC current and the next threat to micro mobility
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+      
+  - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
+      <hr/>
+      
+      - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
+       
   - Twitter hides Trump tweet behind notice for potentially dissuading people from voting
       <hr/>
-      
-      - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
-      
-  - Osmind pitches clinical management and data analysis for mental health practices using psychedelics
-      <hr/>
-      
-      - *Jimmy Qian and Lucia Huang, the co-founders of a new clinical practice management and data analysis platform for mental health providers focusing on cutting edge psychedelic treatments, met at Stanford University.  The two both come from healthcare background…*
-      
-  - Palantir and the great revenue mystery
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
        
-  - Startups Weekly: Will future unicorns go public sooner?
-      <hr/>
-       
-       - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
+       - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
       
 
 
