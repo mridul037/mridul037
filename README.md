@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What one programmer can do in one month, two programmers can do in two months.
+The top 5% of programmers probably write 99% of the good software.
 
-~ Fred Brooks
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ What one programmer can do in one month, two programmers can do in two months.
 
 </pre>
 **Daily News**
-  - Facebook to pay $125 million in back taxes in France, report says
+  - Startup Alley exhibitors: register for VC-led Fundraising & Hiring Best Practices webinar
      <hr/>
      
-      - *Facebook France is going to pay $125 million (€106 million) in back taxes according to business magazine Capital — Facebook confirmed the agreement to both Capital and Reuters. French tax authorities raided Facebook’s offices in Paris in 2012 and later opened…*
+      - *It’s a classic “last but not least” moment for the all the savvy early-stage startup founders exhibiting in Digital Startup Alley at Disrupt 2020. The final webinar in our three-part interactive series takes place on August 26 at 1pm PT / 4pm ET]. Don’t forge…*
      
+  - Ever, once accused of building facial recognition tech using customer data, shuts down consumer app
+      <hr/>
+      
+      - *Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants. Las…*
+      
+  - Facebook to pay $125 million in back taxes in France, report says
+      <hr/>
+      
+      - *Facebook France is going to pay $125 million (€106 million) in back taxes according to business magazine Capital — Facebook confirmed the agreement to both Capital and Reuters. French tax authorities raided Facebook’s offices in Paris in 2012 and later opened…*
+      
   - Sequoia strikes gold with Unity’s IPO filing
       <hr/>
       
       - *A big payday is on the way for Sequoia and its partners, assuming they beat the final boss. Today after much anticipation, video game engine Unity filed its Form S-1 with the SEC as it prepares a roadshow to go public in the coming weeks. We discussed quite a…*
-      
+       
   - Red Antler's Emily Heyward explains how to get people obsessed with your brand
       <hr/>
-      
-      - *If you’re currently building a startup, you know what product you want to build. But do you know if people are actually going to notice you? That’s the question I asked of Red Antler co-founder Emily Heyward during our virtual TechCrunch Early Stage event. In…*
-      
-  - TikTok sues the U.S. government over its forthcoming ban
-      <hr/>
-      
-      - *TikTok is suing the U.S. government in federal court over the Trump Administration’s decision to ban TikTok in the U.S. market. Reports that TikTok would soon file a legal challenge to the ban were already making the rounds this weekend, ahead of TikTok’s for…*
        
-  - Unpacking the Sumo Logic S-1 filing
-      <hr/>
-       
-       - *Setting our dive into Palantir’s gross margins aside for another day, Sumo Logic filed to go public this morning. The Redwood City-based, former startup raised around $340 million while private, according to Crunchbase data. The Exchange explores startups, ma…*
+       - *If you’re currently building a startup, you know what product you want to build. But do you know if people are actually going to notice you? That’s the question I asked of Red Antler co-founder Emily Heyward during our virtual TechCrunch Early Stage event. In…*
       
 
 
