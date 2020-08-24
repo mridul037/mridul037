@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
 
-~ Addy Osmani
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First do it, then do it right, then do it better.
 
 </pre>
 **Daily News**
-  - Yac gets backed by Slack to bring the intimacy of voice back when remote co-workers interact
+  - Five real reasons to attend Disrupt 2020 online
      <hr/>
      
-      - *Yac, the digital voice messaging service that launched last year, has raised new money from the Slack Fund as it continues to gain ground among companies looking to give their employees new communication tools for remote working. The Florida-based startup ini…*
+      - *Why should you attend Disrupt 2020? We live in unprecedented times and face unprecedented challenges. But unprecedented opportunities are also part of this equation, and now is the time for creative startup minds and makers to go full-tilt disruptive. We reen…*
      
-  - 3 thoughts after 24 hours in the $177,000 Bentley Bentayga
+  - COVID-19 pandemic accelerated shift to e-commerce by 5 years, new report says
       <hr/>
       
-      - *Long story short, I borrowed a new Bentley Bentayga for 24 hours. What follows is a brief overview of the $177,000 sport utility vehicle. As I had the vehicle for a short time, I was unable to dive deep into the SUV, and it feels disingenuous to write a full …*
+      - *As the COVID-19 pandemic reshaped our world, more consumers have begun shopping online in greater numbers and frequency. According to new data from IBM’s U.S. Retail Index, the pandemic has accelerated the shift away from physical stores to digital shopping b…*
       
-  - Zoom meetings hit by outage
+  - Cloudera pulls sensitive files from its 'open by design' cloud servers
       <hr/>
       
-      - *Zoom video calls and webinars are also suffering because of the outage.*
+      - *A security researcher found credentials, account access tokens, and passwords.*
       
-  - Conan is coming to Disrupt 2020
+  - Lidar startup Luminar to go public via $3.4 billion SPAC merger
       <hr/>
       
-      - *In 2010, TV show host Conan O’Brien was abruptly asked to give up the time slot he’d been handed just six months earlier by his longtime employer NBC. Instead, he famously gave the network the figurative finger, taking his act to the basic cable network TBS l…*
+      - *Luminar, the lidar startup that burst onto the autonomous vehicle scene in April 2017 after operating for years in secrecy, is merging with special-purpose acquisition company Gores Metropoulos Inc., with a post-deal market valuation of $3.4 billion. Gores Me…*
        
-  - SugarCRM acquires Node to gain predictive customer intelligence
+  - Equity Monday: YC Demo Day, two funding rounds, and where's Palantir's S-1?
       <hr/>
        
-       - *SugarCRM announced this morning it has acquired customer intelligence startup, Node. The companies did not reveal the purchase price, but the deal has closed. While Sugar gains a ton of AI expertise, it also adds a customer prediction element to the platform …*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
 
 
