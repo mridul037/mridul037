@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Codes are a puzzle. A game, just like any other game.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Alan Turing
+~ Friedrich Bauer
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Codes are a puzzle. A game, just like any other game.
 
 </pre>
 **Daily News**
-  - Twitter hides Trump tweet behind notice for potentially dissuading people from voting
+  - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
      <hr/>
      
-      - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
+      - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
      
+  - Twitter hides Trump tweet behind notice for potentially dissuading people from voting
+      <hr/>
+      
+      - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
+      
   - Osmind pitches clinical management and data analysis for mental health practices using psychedelics
       <hr/>
       
@@ -81,16 +86,11 @@ Codes are a puzzle. A game, just like any other game.
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. You can subscribe to the newsletter here if you haven’t yet. R…*
-      
+       
   - Startups Weekly: Will future unicorns go public sooner?
       <hr/>
-      
-      - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
        
-  - Launched with $17 million by two former Norwest investors, Tau Ventures is ready for its closeup
-      <hr/>
-       
-       - *Amit Garg and Sanjay Rao have spent the bulk of their professional lives developing technology, founding startups and investing in startups at places like Google and Microsoft, HealthIQ, and Norwest Venture Partners. Over their decade-long friendship the two …*
+       - *The public markets are staying receptive to tech IPOs, and tech unicorns are trying to recover from pandemic damage, polish up their financials, and head back towards the starting gates. This week, it’s Airbnb and Palantir, finally. Both have been startup ico…*
       
 
 
