@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Deleted code is debugged code.
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 
-~ Jeff Sickel
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Deleted code is debugged code.
 
 </pre>
 **Daily News**
-  - A quick peek at Snowflake's IPO filing
+  - Here are the 98 companies from Y Combinator's Summer 2020 Demo Day 1
      <hr/>
      
-      - *Snowflake filed to go public today joining a bushel of companies making their S-1 documents public today. TechCrunch has a longer digest of all the IPO filings coming soon, but we could not wait to get into the Snowflake numbers given the huge anticipation th…*
+      - *Today was part one of Y Combinator’s two-parter Summer 2020 Demo Day, where nearly 100 companies debuted their efforts to the world for the first time. The Summer 2020 batch of companies was the first fully remote YC cohort, with the ongoing pandemic leading …*
      
-  - Unity's IPO numbers look pretty ... unreal?
+  - Palo Alto Networks to buy digital forensics consulting firm for $265M
       <hr/>
       
-      - *Unity, the company founded in a Copenhagen apartment in 2004, is poised for an initial public offering with numbers that look pretty strong. Even as its main competitor, Epic Games, is in the throes of a very public fight with Apple over the fees the computer…*
+      - *It’s been quite a day in the tech world with a bushel of S-1s being filed to go public. Not to be left out the ever acquisitive Palo Alto Networks announced its intent to acquire The Crypsis Group, an incident response, risk management and digital forensics c…*
       
-  - TikTok-rival Triller inks deal with Reliance's JioSaavn in India push
+  - Our 11 favorite companies from Y Combinator’s S20 Demo Day: Part I
       <hr/>
       
-      - *Triller, an app that functions similarly to TikTok, has inked a strategic partnership with a platform owned by India’s richest man to cash in on the Chinese app’s ban in its biggest international market. The Los Angeles-headquartered firm said on Monday it ha…*
+      - *Startup incubator and investment group Y Combinator today held the first of two demo days for founders in its Summer 2020 batch. So far, this cohort contains the usual mix of bold, impressive, and, at times, slightly wacky ideas young companies so often show …*
       
-  - Mastercard acquired and shut down IfOnly, an experiences marketplace hit by Covid-19
+  - Daily Crunch: TikTok sues the US government
       <hr/>
       
-      - *Travel has undoubtedly been one of the industries hardest hit in the coronavirus pandemic, constrained by restrictions on how people can move between and within countries, many venues closing, new rules to minimise gatherings, shrinking economies, and a gener…*
+      - *TikTok fights its U.S. ban, Twitter takes action against another Trump tweet and Unity files to go public. This is your Daily Crunch for August 24, 2020. The big story: TikTok sues the U.S. government TikTok is fighting back against the Trump administration’s…*
        
-  - With $11 million in fresh capital, Bolt Bikes rebrands to Zoomo
+  - Sutter Hill strikes ice-cold, $2.5B pre-market return with Snowflake’s IPO filing
       <hr/>
        
-       - *Bolt Bikes, the electric bike platform marketed to gig economy delivery workers, has a new name and a fresh injection of $11 million in capital from a Series A funding round led by Australian Clean Energy Finance Corporation. The round also included equity fr…*
+       - *Today is the day for huge VC returns. We talked a bit about Sequoia’s coming huge win with the IPO of game engine Unity this morning. Now, Sequoia might actually have the second largest return among companies filing to go public with the SEC today. Sequoia st…*
       
 
 
