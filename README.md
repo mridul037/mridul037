@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+Debugging time increases as a square of the program’s size.
 
-~ L. Peter Deutsch
+~ Chris Wenham
 <pre>
 
 </pre>
