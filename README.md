@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ Gary Kildall
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I start with drawing the data structures, and I spend a lot of time thinking abo
 
 </pre>
 **Daily News**
-  - Five real reasons to attend Disrupt 2020 online
+  - TikTok sues the U.S. government over its forthcoming ban
      <hr/>
      
-      - *Why should you attend Disrupt 2020? We live in unprecedented times and face unprecedented challenges. But unprecedented opportunities are also part of this equation, and now is the time for creative startup minds and makers to go full-tilt disruptive. We reen…*
+      - *TikTok is suing the U.S. government in federal court over the Trump Administration’s decision to ban TikTok in the U.S. market. Reports that TikTok would soon file a legal challenge to the ban were already making the rounds this weekend, ahead of TikTok’s for…*
      
+  - Unpacking the Sumo Logic S-1 filing
+      <hr/>
+      
+      - *Setting our dive into Palantir’s gross margins aside for another day, Sumo Logic filed to go public this morning. The Redwood City-based, former startup raised around $340 million while private, according to Crunchbase data. The Exchange explores startups, ma…*
+      
+  - Two weeks left on early-bird pricing for TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *It’s time to mobilize for early-bird savings on passes to the all-virtual TC Sessions Mobility 2020, which takes place October 6-7. Prices will continue to increase as the event draws near. Buy your pass before September 4 at 11:59 p.m. (PT) and you’ll save $…*
+      
+  - Five real reasons to attend Disrupt 2020 online
+      <hr/>
+      
+      - *Why should you attend Disrupt 2020? We live in unprecedented times and face unprecedented challenges. But unprecedented opportunities are also part of this equation, and now is the time for creative startup minds and makers to go full-tilt disruptive. We reen…*
+       
   - COVID-19 pandemic accelerated shift to e-commerce by 5 years, new report says
       <hr/>
-      
-      - *As the COVID-19 pandemic reshaped our world, more consumers have begun shopping online in greater numbers and frequency. According to new data from IBM’s U.S. Retail Index, the pandemic has accelerated the shift away from physical stores to digital shopping b…*
-      
-  - Cloudera pulls sensitive files from its 'open by design' cloud servers
-      <hr/>
-      
-      - *A security researcher found credentials, account access tokens, and passwords.*
-      
-  - Lidar startup Luminar to go public via $3.4 billion SPAC merger
-      <hr/>
-      
-      - *Luminar, the lidar startup that burst onto the autonomous vehicle scene in April 2017 after operating for years in secrecy, is merging with special-purpose acquisition company Gores Metropoulos Inc., with a post-deal market valuation of $3.4 billion. Gores Me…*
        
-  - Equity Monday: YC Demo Day, two funding rounds, and where's Palantir's S-1?
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+       - *As the COVID-19 pandemic reshaped our world, more consumers have begun shopping online in greater numbers and frequency. According to new data from IBM’s U.S. Retail Index, the pandemic has accelerated the shift away from physical stores to digital shopping b…*
       
 
 
