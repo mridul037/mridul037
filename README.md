@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 
-~ Ken Thompson
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Modern programming scares me in many respects. It confuses me to read a program 
 
 </pre>
 **Daily News**
-  - Conan is coming to Disrupt 2020
+  - Zoom meetings hit by outage
      <hr/>
      
-      - *In 2010, TV show host Conan O’Brien was abruptly asked to give up the time slot he’d been handed just six months earlier by his longtime employer NBC. Instead, he famously gave the network the figurative finger, taking his act to the basic cable network TBS l…*
+      - *Zoom video calls and webinars are also suffering because of the outage.*
      
+  - Conan is coming to Disrupt 2020
+      <hr/>
+      
+      - *In 2010, TV show host Conan O’Brien was abruptly asked to give up the time slot he’d been handed just six months earlier by his longtime employer NBC. Instead, he famously gave the network the figurative finger, taking his act to the basic cable network TBS l…*
+      
   - SugarCRM acquires Node to gain predictive customer intelligence
       <hr/>
       
@@ -81,16 +86,11 @@ Modern programming scares me in many respects. It confuses me to read a program 
       <hr/>
       
       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
-      
+       
   - Pinduoduo's latest aim: sell $145 billion farm produce in 2025
       <hr/>
-      
-      - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
        
-  - Twitter hides Trump tweet behind notice for potentially dissuading people from voting
-      <hr/>
-       
-       - *Twitter flagged one of President Donald Trump’s tweets on Monday, placing it behind a notice that warns users it violates the platform’s rules against dissuading people from voting. In the tweet, posted on Monday, Trump claimed mail drop boxes are a “voter se…*
+       - *Still working to turn a profit and shake off its fake-goods reputation, China’s e-commerce upstart Pinduoduo set itself another ambitious goal for 2025: surpass 1 trillion yuan or $145 billion annual gross merchandise volume of agricultural products. The anno…*
       
 
 
