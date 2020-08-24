@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 
-~ Donald Knuth
+~ Charles Babbage
 <pre>
 
 </pre>
