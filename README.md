@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Albert Einstein
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A new idea comes suddenly and in a rather intuitive way. But intuition is nothin
 
 </pre>
 **Daily News**
-  - As losses expand, Asana is confident it has the ticket for a successful public listing
+  - Palantir's S-1 alludes to controversial work with ICE as a risk factor for its business
      <hr/>
      
-      - *Asana, the project management software developer, dropped its filing for a direct listing on one of the busiest days of a surprisingly busy late summer. The task management toolkit provider started by Facebook co-founder Dustin Moskovitz and early FB employee…*
+      - *Palantir’s mysterious work and its founding origins with Trump ally and anti-press crusader Peter Thiel have inspired a number of controversies in recent years, none as divisive as its ongoing business with ICE. But with a direct listing around the corner, th…*
      
+  - As losses expand, Asana is confident it has the ticket for a successful public listing
+      <hr/>
+      
+      - *Asana, the project management software developer, dropped its filing for a direct listing on one of the busiest days of a surprisingly busy late summer. The task management toolkit provider started by Facebook co-founder Dustin Moskovitz and early FB employee…*
+      
   - Xwing plans short, regional flights for its autonomous cargo planes
       <hr/>
       
@@ -81,16 +86,11 @@ A new idea comes suddenly and in a rather intuitive way. But intuition is nothin
       <hr/>
       
       - *Today was part one of Y Combinator’s two-parter Summer 2020 Demo Day, where nearly 100 companies debuted their efforts to the world for the first time. The Summer 2020 batch of companies was the first fully remote YC cohort, with the ongoing pandemic leading …*
-      
+       
   - Palo Alto Networks to buy digital forensics consulting firm for $265M
       <hr/>
-      
-      - *It’s been quite a day in the tech world with a bushel of S-1s being filed to go public. Not to be left out the ever acquisitive Palo Alto Networks announced its intent to acquire The Crypsis Group, an incident response, risk management and digital forensics c…*
        
-  - Our 11 favorite companies from Y Combinator’s S20 Demo Day: Part I
-      <hr/>
-       
-       - *Startup incubator and investment group Y Combinator today held the first of two demo days for founders in its Summer 2020 batch. So far, this cohort contains the usual mix of bold, impressive, and, at times, slightly wacky ideas young companies so often show …*
+       - *It’s been quite a day in the tech world with a bushel of S-1s being filed to go public. Not to be left out the ever acquisitive Palo Alto Networks announced its intent to acquire The Crypsis Group, an incident response, risk management and digital forensics c…*
       
 
 
