@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+Fancy algorithms are slow when n is small, and n is usually small.
 
-~ Bjarne Stroustrup
+~ Rob Pike
 <pre>
 
 </pre>
