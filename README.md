@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+Machines take me by surprise with great frequency.
 
-~ Bill Gates
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Is studying computer science the best way to prepare to be a programmer? No. the
 
 </pre>
 **Daily News**
-  - YC’s most anticipated startup raised $16M from a16z before Demo Day
+  - Join Twilio’s Jeff Lawson for a live Q&A today at 2:30 pm EDT/11:30 am PDT
      <hr/>
      
-      - *Trove, a startup that sells a suite of internal compensation tools to other startups, has quietly graduated from this summer’s Y Combinator batch with millions in venture capital and a whopping valuation. A16z and Trove did not immediately respond to a reques…*
+      - *Later today, Twilio CEO Jeff Lawson is joining the TechCrunch crew for a live Q&A. The discussion is part of our Extra Crunch Live series that has been live for the last several months. It’s been a good run, with guests like Charles Hudson, Sydney Sykes and M…*
      
-  - Carbon Health's Eren Bali and Color's Othman Laraki will join us at Disrupt 2020
+  - New Zendesk dashboard delivers customer service data in real time
       <hr/>
       
-      - *The COVID-19 pandemic has left no industry untouched, but the healthcare industry is arguably the one that stands to be transformed the most by the ongoing pandemic. At TechCrunch Disrupt 2020, get the perspectives of two founders who’ve created entirely new …*
+      - *Zendesk has been offering customers the ability to track customer service statistics for some time, but it has always been a look back. Today, the company announced a new product called Explorer Enterprise that lets customers capture that valuable info in rea…*
       
-  - Facebook is bringing a Shop section to its app, while Instagram expands Live Shopping
+  - Austin’s Fox Robotics raises a $9M Series A for its robotic forklifts
       <hr/>
       
-      - *Facebook is announcing a number of new e-commerce features both within the main Facebook app and on Instagram. The pandemic has forced many businesses to shift online, and Facebook made a big announcement in May around the ability of merchants to create Faceb…*
+      - *The COVID-19 pandemic is, understandably, proving to be a major driver for robotics and automation adoption. The already hot categories are proving to be even more appealing as companies look to technology amid the spread of a deadly and highly contagious vir…*
       
-  - Azure's Immersive Reader is now generally available
+  - Grab your student discount pass for TC Sessions: Mobility 2020
       <hr/>
       
-      - *Microsoft today announced that Immersive Reader, its service for developers who want to add text-to-speech and reading comprehension tools to their applications, is now generally available. Immersive Reader, which is part of the Azure Cognitive Services suite…*
+      - *This ain’t your average back-to-school sale but then again, there’s nothing average about TC Sessions: Mobility 2020. This two-day event — October 6-7 — draws the world’s top technologists, investors and researchers determined to invent the future with mobile…*
        
-  - Vue’s $179 Lite smart glasses have built-in speakers for music and calls
+  - Eden intros SaaS tools in a bid to become a more comprehensive office management platform
       <hr/>
        
-       - *Perhaps some day in the not-so-distant future, we’ll all be wearing smart glasses. Stranger things have happened. And hey, most people were fairly skeptical in the early days of smartwatches. And while I’m not saying that it will definitely take Apple launchi…*
+       - *Eden, the office management platform founded by Joe du Bey, is today announcing the launch of several new enterprise software features. The company, which offers a marketplace for office managers to procure services like office cleaning, repairs, etc., is loo…*
       
 
 
