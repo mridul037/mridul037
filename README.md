@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good people with a good process will outperform good people with no process every time.
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 
-~ Grady Booch
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Good people with a good process will outperform good people with no process ever
 
 </pre>
 **Daily News**
-  - Porsche experiments with subscription pricing, expands to Los Angeles
+  - Muze redesigns mobile messaging as a free-form canvas for creativity
      <hr/>
      
-      - *Porsche is rolling out a less expensive subscription plan in four U.S. cities as the German automaker experiments with different pricing and products in an effort to expand its customer base. Porsche now has three plans, or tiers, that are all housed under it…*
+      - *New York-based startup Muze is rethinking mobile messaging. While today’s messaging apps have expanded over the years to include support for sharing photos and videos, voice messages, reactions and more, Muze has fully redesigned the traditional messaging exp…*
      
+  - Our 12 favorite startups from Y Combinator's S20 Demo Day: Part 2
+      <hr/>
+      
+      - *Figma for filmmakers, TikTok for English learners and a cryptocurrency twist that actually makes sense? After 197 pitches, Y Combinator’s Demo Day for its Summer 2020 cohort has concluded. While the fanfare, run-ins and fortune cookies were missing in this vi…*
+      
+  - Porsche experiments with subscription pricing, expands to Los Angeles
+      <hr/>
+      
+      - *Porsche is rolling out a less expensive subscription plan in four U.S. cities as the German automaker experiments with different pricing and products in an effort to expand its customer base. Porsche now has three plans, or tiers, that are all housed under it…*
+      
   - XYZ Robotics raises $17M for its pick-and-place logistics robots
       <hr/>
       
       - *COVID-19 is proving to be a massive driver for robotics investments — and for good reason. Robots don’t call in sick, and they’re far less likely to be disease vectors than their human counterparts. Companies attempting to keep the lights on during this and p…*
-      
+       
   - Netflix's 'Emily's Wonder Lab' is smart, interactive science TV for kids
       <hr/>
-      
-      - *Netflix’s children’s programming library continues to grow, and its latest is one of its best original offerings yet – Emily’s Wonder Lab, a TV series hosted by engineer, space expert and Emmy-nominated TV science host Emily Calandrelli. The new show’s first …*
-      
-  - Instacart workers are demanding disaster relief amid CA wildfires
-      <hr/>
-      
-      - *Gig Workers Collective, a gig worker-activist group led by Instacart shoppers, is asking Instacart to provide disaster relief to workers impacted by natural disasters. The demands come at a time when several parts of California are engulfed in flames. The thr…*
        
-  - Investment tech won’t solve systemic wealth gaps, but it’s a good start
-      <hr/>
-       
-       - *It goes without saying that tech alone won’t change deeply embedded structures, but it sure can open a lot of doors.*
+       - *Netflix’s children’s programming library continues to grow, and its latest is one of its best original offerings yet – Emily’s Wonder Lab, a TV series hosted by engineer, space expert and Emmy-nominated TV science host Emily Calandrelli. The new show’s first …*
       
 
 
