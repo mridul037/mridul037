@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 
-~ Linus Torvalds
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Talk is cheap. Show me the code.
 
 </pre>
 **Daily News**
-  - Leaked S-1 says Palantir would fight an order demanding its encryption keys
+  - YC’s most anticipated startup raised $16M from a16z before Demo Day
      <hr/>
      
-      - *The Trump administration has made several efforts to undermine and weaken encryption.*
+      - *Trove, a startup that sells a suite of internal compensation tools to other startups, has quietly graduated from this summer’s Y Combinator batch with millions in venture capital and a whopping valuation. A16z and Trove did not immediately respond to a reques…*
      
-  - Facebook News to expand internationally to the U.K., Germany, France, India, and Brazil
+  - Carbon Health's Eren Bali and Color's Othman Laraki will join us at Disrupt 2020
       <hr/>
       
-      - *Facebook News, the social network’s dedicated news section launched to U.S. audiences in June, is soon expanding to international markets. The company announced today it plans to accelerate its plans to bring the product to non-U.S. markets, including the U.K…*
+      - *The COVID-19 pandemic has left no industry untouched, but the healthcare industry is arguably the one that stands to be transformed the most by the ongoing pandemic. At TechCrunch Disrupt 2020, get the perspectives of two founders who’ve created entirely new …*
       
-  - Unity, JFrog, Asana, Snowflake and Sumo Logic file for IPOs in rapid-fire fashion
+  - Facebook is bringing a Shop section to its app, while Instagram expands Live Shopping
       <hr/>
       
-      - *After far too few startups appeared ready to take advantage of warm public market conditions and ecstatic IPO receptions, a deluge of private companies filed to go public yesterday. There was Sumo Logic in the morning and JFrog a bit later on. Unity filed in …*
+      - *Facebook is announcing a number of new e-commerce features both within the main Facebook app and on Instagram. The pandemic has forced many businesses to shift online, and Facebook made a big announcement in May around the ability of merchants to create Faceb…*
       
-  - Chinese commercial launch startup iSpace raises $172 million
+  - Azure's Immersive Reader is now generally available
       <hr/>
       
-      - *The private launch industry isn’t showing any signs of slowing down, and a new $172 million Series B round of funding for China commercial launch startup iSpace indicates it could be heating up internationally. The new funding was led by Beijing Financial Str…*
+      - *Microsoft today announced that Immersive Reader, its service for developers who want to add text-to-speech and reading comprehension tools to their applications, is now generally available. Immersive Reader, which is part of the Azure Cognitive Services suite…*
        
-  - Meet the Disrupt 2020 "TC10"
+  - Vue’s $179 Lite smart glasses have built-in speakers for music and calls
       <hr/>
        
-       - *If 2020 hasn’t been wild enough, there’s an extra special twist going down at Disrupt 2020 beyond the fact that, for the first time ever, the conference will be fully virtual. It also happens to be the show’s 10th anniversary. Time flies when you’re changing …*
+       - *Perhaps some day in the not-so-distant future, we’ll all be wearing smart glasses. Stranger things have happened. And hey, most people were fairly skeptical in the early days of smartwatches. And while I’m not saying that it will definitely take Apple launchi…*
       
 
 
