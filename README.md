@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+People under pressure don’t work better; they just work faster.
 
-~ Edsger W. Dijkstra
+~ Tom DeMarco
 <pre>
 
 </pre>
