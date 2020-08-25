@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Machines take me by surprise with great frequency.
+The best way to know that you have found the last bug is never to find the first bug.
 
-~ Alan Turing
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Machines take me by surprise with great frequency.
 
 </pre>
 **Daily News**
-  - Join Twilio’s Jeff Lawson for a live Q&A today at 2:30 pm EDT/11:30 am PDT
+  - Turing raises $14M to help source, vet, place and manage remote developers in tech jobs
      <hr/>
      
-      - *Later today, Twilio CEO Jeff Lawson is joining the TechCrunch crew for a live Q&A. The discussion is part of our Extra Crunch Live series that has been live for the last several months. It’s been a good run, with guests like Charles Hudson, Sydney Sykes and M…*
+      - *The emergence, and now seemingly extended presence, of the novel coronavirus health pandemic has made remote working into a pretty standard part of office life for so-called knowledge workers. Today, a startup that has built a labor marketplace to help compan…*
      
-  - New Zendesk dashboard delivers customer service data in real time
+  - Decrypted: Uber's former security chief charged, FBI's 'vishing' warning
       <hr/>
       
-      - *Zendesk has been offering customers the ability to track customer service statistics for some time, but it has always been a look back. Today, the company announced a new product called Explorer Enterprise that lets customers capture that valuable info in rea…*
+      - *Decrypted, this week, looks at the week in security news.*
       
-  - Austin’s Fox Robotics raises a $9M Series A for its robotic forklifts
+  - Facebook changes name of its annual VR event and its overall AR/VR organization
       <hr/>
       
-      - *The COVID-19 pandemic is, understandably, proving to be a major driver for robotics and automation adoption. The already hot categories are proving to be even more appealing as companies look to technology amid the spread of a deadly and highly contagious vir…*
+      - *Facebook is moving further away from the Oculus brand. The company says it is changing the name of their augmented reality and virtual reality division to “Facebook Reality Labs,” a division which will encompass the company’s AR/VR products under the Oculus, …*
       
-  - Grab your student discount pass for TC Sessions: Mobility 2020
+  - 72-hour roll back to early bird pricing on Disrupt 2020 passes
       <hr/>
       
-      - *This ain’t your average back-to-school sale but then again, there’s nothing average about TC Sessions: Mobility 2020. This two-day event — October 6-7 — draws the world’s top technologists, investors and researchers determined to invent the future with mobile…*
+      - *In a nod to the show Parks and Recreation, it’s time to “treat yo self” — with an additional $100 discount on Disrupt 2020 passes. For the next 72-hours only, you can save an extra $100 and get your Disrupt Digital Pro passes for $245 each. Simply head to our…*
        
-  - Eden intros SaaS tools in a bid to become a more comprehensive office management platform
+  - Join Twilio’s Jeff Lawson for a live Q&A today at 2:30 pm EDT/11:30 am PDT
       <hr/>
        
-       - *Eden, the office management platform founded by Joe du Bey, is today announcing the launch of several new enterprise software features. The company, which offers a marketplace for office managers to procure services like office cleaning, repairs, etc., is loo…*
+       - *Later today, Twilio CEO Jeff Lawson is joining the TechCrunch crew for a live Q&A. The discussion is part of our Extra Crunch Live series that has been live for the last several months. It’s been a good run, with guests like Charles Hudson, Sydney Sykes and M…*
       
 
 
