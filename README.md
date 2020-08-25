@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+Good people with a good process will outperform good people with no process every time.
 
-~ Charles Simonyi
+~ Grady Booch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'll bet you that from ten feet away I can tell if a program is bad. I might not
 
 </pre>
 **Daily News**
-  - Investment tech won’t solve systemic wealth gaps, but it’s a good start
+  - Porsche experiments with subscription pricing, expands to Los Angeles
      <hr/>
      
-      - *It goes without saying that tech alone won’t change deeply embedded structures, but it sure can open a lot of doors.*
+      - *Porsche is rolling out a less expensive subscription plan in four U.S. cities as the German automaker experiments with different pricing and products in an effort to expand its customer base. Porsche now has three plans, or tiers, that are all housed under it…*
      
-  - Waymo's Boris Sofman and TuSimple's Xiaodi Hou to join us at TC Sessions: Mobility 2020
+  - XYZ Robotics raises $17M for its pick-and-place logistics robots
       <hr/>
       
-      - *One of the areas of autonomous driving technology with the most potential to have a near-term and dramatic impact remains trucking: There’s a growing lack of drivers for long-haul routes, and highway trucking remains a relatively uncomplicated (though still v…*
+      - *COVID-19 is proving to be a massive driver for robotics investments — and for good reason. Robots don’t call in sick, and they’re far less likely to be disease vectors than their human counterparts. Companies attempting to keep the lights on during this and p…*
       
-  - Industry experts say it's full speed ahead as Snowflake files S-1 to go public
+  - Netflix's 'Emily's Wonder Lab' is smart, interactive science TV for kids
       <hr/>
       
-      - *When Snowflake filed its S-1 to go public yesterday, it wasn’t exactly a shock. The company which raised $1.4 billion had been valued at $12.4 billion in its last private raise in February. CEO Frank Slootman, who had taken over from Bob Muglia in May last ye…*
+      - *Netflix’s children’s programming library continues to grow, and its latest is one of its best original offerings yet – Emily’s Wonder Lab, a TV series hosted by engineer, space expert and Emmy-nominated TV science host Emily Calandrelli. The new show’s first …*
       
-  - How to establish a startup and draw up your first contract
+  - Instacart workers are demanding disaster relief amid CA wildfires
       <hr/>
       
-      - *Founders are encouraged, incentivized and pressured to begin transacting with customers as quickly as possible to drive growth and revenue. But making legal mistakes early in the game can create costly liabilities down the road. That’s why we invited James Al…*
+      - *Gig Workers Collective, a gig worker-activist group led by Instacart shoppers, is asking Instacart to provide disaster relief to workers impacted by natural disasters. The demands come at a time when several parts of California are engulfed in flames. The thr…*
        
-  - As DevOps takes off, site reliability engineers are flying high
+  - Investment tech won’t solve systemic wealth gaps, but it’s a good start
       <hr/>
        
-       - *Jason Kong Contributor Jason Kong is an Investor at IVP, where he focuses on identifying and evaluating later-stage enterprise and consumer technology investments. Cack Wilhelm Contributor Share on Twitter Cack Wilhelm is a partner at IVP who focuses on growt…*
+       - *It goes without saying that tech alone won’t change deeply embedded structures, but it sure can open a lot of doors.*
       
 
 
