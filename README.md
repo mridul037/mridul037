@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to know that you have found the last bug is never to find the first bug.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
-~ Harlan Mills
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best way to know that you have found the last bug is never to find the first
 
 </pre>
 **Daily News**
-  - Turing raises $14M to help source, vet, place and manage remote developers in tech jobs
+  - How to establish a startup and draw up your first contract
      <hr/>
      
-      - *The emergence, and now seemingly extended presence, of the novel coronavirus health pandemic has made remote working into a pretty standard part of office life for so-called knowledge workers. Today, a startup that has built a labor marketplace to help compan…*
+      - *Founders are encouraged, incentivized and pressured to begin transacting with customers as quickly as possible to drive growth and revenue. But making legal mistakes early in the game can create costly liabilities down the road. That’s why we invited James Al…*
      
+  - As DevOps takes off, site reliability engineers are flying high
+      <hr/>
+      
+      - *Jason Kong Contributor Jason Kong is an Investor at IVP, where he focuses on identifying and evaluating later-stage enterprise and consumer technology investments. Cack Wilhelm Contributor Share on Twitter Cack Wilhelm is a partner at IVP who focuses on growt…*
+      
+  - Turing raises $14M to help source, vet, place and manage remote developers in tech jobs
+      <hr/>
+      
+      - *The emergence, and now seemingly extended presence, of the novel coronavirus health pandemic has made remote working into a pretty standard part of office life for so-called knowledge workers. Today, a startup that has built a labor marketplace to help compan…*
+      
   - Decrypted: Uber's former security chief charged, FBI's 'vishing' warning
       <hr/>
       
       - *Decrypted, this week, looks at the week in security news.*
-      
+       
   - Facebook changes name of its annual VR event and its overall AR/VR organization
       <hr/>
-      
-      - *Facebook is moving further away from the Oculus brand. The company says it is changing the name of their augmented reality and virtual reality division to “Facebook Reality Labs,” a division which will encompass the company’s AR/VR products under the Oculus, …*
-      
-  - 72-hour roll back to early bird pricing on Disrupt 2020 passes
-      <hr/>
-      
-      - *In a nod to the show Parks and Recreation, it’s time to “treat yo self” — with an additional $100 discount on Disrupt 2020 passes. For the next 72-hours only, you can save an extra $100 and get your Disrupt Digital Pro passes for $245 each. Simply head to our…*
        
-  - Join Twilio’s Jeff Lawson for a live Q&A today at 2:30 pm EDT/11:30 am PDT
-      <hr/>
-       
-       - *Later today, Twilio CEO Jeff Lawson is joining the TechCrunch crew for a live Q&A. The discussion is part of our Extra Crunch Live series that has been live for the last several months. It’s been a good run, with guests like Charles Hudson, Sydney Sykes and M…*
+       - *Facebook is moving further away from the Oculus brand. The company says it is changing the name of their augmented reality and virtual reality division to “Facebook Reality Labs,” a division which will encompass the company’s AR/VR products under the Oculus, …*
       
 
 
