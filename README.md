@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-~ Douglas Crockford
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Readability of code is now my first priority. It’s more important than being f
 
 </pre>
 **Daily News**
-  - Calling Paris VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Self-charging, thousand-year battery startup NDB aces key tests and lands first beta customers
      <hr/>
      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Paris will capture how the city is faring, and what changes are being wrought amongst investor…*
+      - *Pleasanton-based green energy startup NDB, Inc. has reached a key milestone today with the completion of two proof of concept tests of its nano diamond battery (NDB). One of these tests took place at the Lawrence Livermore National Laboratory, and the other a…*
      
-  - UK immersive music startup MelodyVR acquires Napster from RealNetworks for $70M
+  - Amazon rolls out a new AR shopping feature for viewing multiple items at once
       <hr/>
       
-      - *Napster, the pioneering digital music brand from way back when, is changing hands once more. Today, a UK startup called MelodyVR, which creates immersive live music experiences that you watch either through VR headsets or phones, announced that it has acquire…*
+      - *Amazon is rolling out a new augmented reality shopping tool, Room Decorator, that will allow you to see furniture and other home decor in their own space. While the retailer had experimented with AR tools in the past, what makes Room Decorator different is th…*
       
-  - Eduardo Saverin on the 'world of innovation past Silicon Valley'
+  - Google Cloud Anthos update brings support for on-prem, bare metal
       <hr/>
       
-      - *Eduardo Saverin will forever be known for cofounding Facebook 16 years ago with four other Harvard classmates (one of whom is still running the company). But even before splitting in 2009 for Singapore with his shares of the company, Saverin’s attention was o…*
+      - *When Google announced Anthos last year at Google Cloud Next, it was a pretty big deal. Here was a cloud company releasing a product that purported to help you move your applications between cloud companies like AWS and Azure  — that would be GCP’s competitors…*
       
-  - Apple ordered to not block Epic Games' Unreal Engine, but Fortnite to stay off App Store
+  - Level Home introduces Level Touch, a sleek smart lock that doesn't advertise its intelligence
       <hr/>
       
-      - *A district court denied Epic Games’ motion to temporarily restore Fortnite game to the iOS App Store, but also ordered Apple to not block the gaming giant’s ability to provide and distribute Unreal Engine on the iPhone-maker’s ecosystem in a mixed-ruling Mond…*
+      - *Hardware startup Level introduced their first product earlier this year, and now they’re already following it up with a brand new smart lock. The original Level Lock broke new ground in the smart lock category with an invisible design that works with a range …*
        
-  - Supermetrics raises €40M to bring all your marketing data together
+  - Calling Paris VCs: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
        
-       - *Supermetrics, the data management and analysis tool for marketers, has raised €40 million in new funding. Leading the round is Highland Europe, with participation from IVP, while the injection of capital will be used by the profitable Finland-based company fo…*
+       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Paris will capture how the city is faring, and what changes are being wrought amongst investor…*
       
 
 
