@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Quarry worker's creed
+~ Dennis Ritchie
 <pre>
 
 </pre>
