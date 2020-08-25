@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People under pressure don’t work better; they just work faster.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
-~ Tom DeMarco
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ People under pressure don’t work better; they just work faster.
 
 </pre>
 **Daily News**
-  - UK immersive music startup MelodyVR acquires Napster from RealNetworks for $70M
+  - Calling Paris VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *Napster, the pioneering digital music brand from way back when, is changing hands once more. Today, a UK startup called MelodyVR, which creates immersive live music experiences that you watch either through VR headsets or phones, announced that it has acquire…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Paris will capture how the city is faring, and what changes are being wrought amongst investor…*
      
+  - UK immersive music startup MelodyVR acquires Napster from RealNetworks for $70M
+      <hr/>
+      
+      - *Napster, the pioneering digital music brand from way back when, is changing hands once more. Today, a UK startup called MelodyVR, which creates immersive live music experiences that you watch either through VR headsets or phones, announced that it has acquire…*
+      
   - Eduardo Saverin on the 'world of innovation past Silicon Valley'
       <hr/>
       
@@ -81,16 +86,11 @@ People under pressure don’t work better; they just work faster.
       <hr/>
       
       - *A district court denied Epic Games’ motion to temporarily restore Fortnite game to the iOS App Store, but also ordered Apple to not block the gaming giant’s ability to provide and distribute Unreal Engine on the iPhone-maker’s ecosystem in a mixed-ruling Mond…*
-      
+       
   - Supermetrics raises €40M to bring all your marketing data together
       <hr/>
-      
-      - *Supermetrics, the data management and analysis tool for marketers, has raised €40 million in new funding. Leading the round is Highland Europe, with participation from IVP, while the injection of capital will be used by the profitable Finland-based company fo…*
        
-  - After restricting a group critical of Thailand's monarchy, Facebook says it will take legal action against the government
-      <hr/>
-       
-       - *After restricting access to a popular group with posts critical of Thailand’s monarchy, Facebook is planning legal action against the Thai government, which the social media giant says forced it to restrict content deemed to be illegal. On Monday, Reuters rep…*
+       - *Supermetrics, the data management and analysis tool for marketers, has raised €40 million in new funding. Leading the round is Highland Europe, with participation from IVP, while the injection of capital will be used by the profitable Finland-based company fo…*
       
 
 
