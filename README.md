@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+Talk is cheap. Show me the code.
 
-~ Dennis Ritchie
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer science research is different from these more traditional disciplines. 
 
 </pre>
 **Daily News**
-  - COVID-19 blamed as smartphone sales plummet 20% in Q2
+  - Leaked S-1 says Palantir would fight an order demanding its encryption keys
      <hr/>
      
-      - *The last couple of years have been tough on the smartphone industry, as sales plateaued and eventually eroded. But nothing could have prepared manufacturers for 2020. This was supposed to be the year numbers began bouncing back, courtesy of 5G and some radica…*
+      - *The Trump administration has made several efforts to undermine and weaken encryption.*
      
-  - MIT CSAIL grad launches machine learning platform with $10M Series A
+  - Facebook News to expand internationally to the U.K., Germany, France, India, and Brazil
       <hr/>
       
-      - *Manasi Vartak, founder and CEO of Verta, conceived of the idea of the open source project ModelDB database as a way to track versions of machine models while she was still in grad school at MIT. After she graduated, she decided to expand on that vision to bui…*
+      - *Facebook News, the social network’s dedicated news section launched to U.S. audiences in June, is soon expanding to international markets. The company announced today it plans to accelerate its plans to bring the product to non-U.S. markets, including the U.K…*
       
-  - Rideshare and taxi ad startup Firefly acquires Strong Outdoor’s out-of-home ad business
+  - Unity, JFrog, Asana, Snowflake and Sumo Logic file for IPOs in rapid-fire fashion
       <hr/>
       
-      - *Firefly is expanding its ad business in New York City by acquiring the out-of-home business of Strong Outdoor, as well as by becoming the advertising partner for fleet operator Sally. Firefly launched in 2018 by offering Uber and Lyft drivers a digital displa…*
+      - *After far too few startups appeared ready to take advantage of warm public market conditions and ecstatic IPO receptions, a deluge of private companies filed to go public yesterday. There was Sumo Logic in the morning and JFrog a bit later on. Unity filed in …*
       
-  - Kymeta raises $85.2 million led by Bill Gates to speed growth of its satellite-cellular antenna tech
+  - Chinese commercial launch startup iSpace raises $172 million
       <hr/>
       
-      - *Global communications startup Kymeta has raised a new $85.2 million funding round, led by Bill Gates . The Redmond-based company has developed a new type of smart, powered flat panel antenna that can be used to to vastly improve satellite and cellular connect…*
+      - *The private launch industry isn’t showing any signs of slowing down, and a new $172 million Series B round of funding for China commercial launch startup iSpace indicates it could be heating up internationally. The new funding was led by Beijing Financial Str…*
        
-  - Fitbit launches a $330 Apple Watch competitor
+  - Meet the Disrupt 2020 "TC10"
       <hr/>
        
-       - *Fitbit would be the first to admit it was late to the smartwatch game. When it did finally launch a proper smartwatch with the Ionic, it was something of a misfire. But the Versa helped the wearable pioneer make up for some lost ground, courtesy of a solid, A…*
+       - *If 2020 hasn’t been wild enough, there’s an extra special twist going down at Disrupt 2020 beyond the fact that, for the first time ever, the conference will be fully virtual. It also happens to be the show’s 10th anniversary. Time flies when you’re changing …*
       
 
 
