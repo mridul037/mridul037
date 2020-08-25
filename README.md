@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only way to learn a new programming language is by writing programs in it.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Dennis Ritchie
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
