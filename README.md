@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think you should always bear in mind that entropy is not on your side.
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 
-~ Elon Musk
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I think you should always bear in mind that entropy is not on your side.
 
 </pre>
 **Daily News**
-  - Eduardo Saverin on the 'world of innovation past Silicon Valley'
+  - UK immersive music startup MelodyVR acquires Napster from RealNetworks for $70M
      <hr/>
      
-      - *Eduardo Saverin will forever be known for cofounding Facebook 16 years ago with four other Harvard classmates (one of whom is still running the company). But even before splitting in 2009 for Singapore with his shares of the company, Saverin’s attention was o…*
+      - *Napster, the pioneering digital music brand from way back when, is changing hands once more. Today, a UK startup called MelodyVR, which creates immersive live music experiences that you watch either through VR headsets or phones, announced that it has acquire…*
      
+  - Eduardo Saverin on the 'world of innovation past Silicon Valley'
+      <hr/>
+      
+      - *Eduardo Saverin will forever be known for cofounding Facebook 16 years ago with four other Harvard classmates (one of whom is still running the company). But even before splitting in 2009 for Singapore with his shares of the company, Saverin’s attention was o…*
+      
   - Apple ordered to not block Epic Games' Unreal Engine, but Fortnite to stay off App Store
       <hr/>
       
@@ -81,16 +86,11 @@ I think you should always bear in mind that entropy is not on your side.
       <hr/>
       
       - *Supermetrics, the data management and analysis tool for marketers, has raised €40 million in new funding. Leading the round is Highland Europe, with participation from IVP, while the injection of capital will be used by the profitable Finland-based company fo…*
-      
+       
   - After restricting a group critical of Thailand's monarchy, Facebook says it will take legal action against the government
       <hr/>
-      
-      - *After restricting access to a popular group with posts critical of Thailand’s monarchy, Facebook is planning legal action against the Thai government, which the social media giant says forced it to restrict content deemed to be illegal. On Monday, Reuters rep…*
        
-  - Connected Roombas get smarter with iRobot’s ‘Genius’ update
-      <hr/>
-       
-       - *For iRobot, much of the last several years has been devoted to making its line of home-cleaning robots smarter. There hasn’t been much in the way of new hardware in a while, as the company focuses on things like connectivity, smart home integration and smarte…*
+       - *After restricting access to a popular group with posts critical of Thailand’s monarchy, Facebook is planning legal action against the Thai government, which the social media giant says forced it to restrict content deemed to be illegal. On Monday, Reuters rep…*
       
 
 
