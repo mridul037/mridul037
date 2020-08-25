@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+Programming can be addictive.
 
-~ Edsger W. Dijkstra
+~ Bob Carr
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ LISP has assisted a number of our most gifted fellow humans in thinking previous
 
 </pre>
 **Daily News**
-  - Here are the 98 companies from Y Combinator's Summer 2020 Demo Day 1
+  - As losses expand, Asana is confident it has the ticket for a successful public listing
      <hr/>
      
-      - *Today was part one of Y Combinator’s two-parter Summer 2020 Demo Day, where nearly 100 companies debuted their efforts to the world for the first time. The Summer 2020 batch of companies was the first fully remote YC cohort, with the ongoing pandemic leading …*
+      - *Asana, the project management software developer, dropped its filing for a direct listing on one of the busiest days of a surprisingly busy late summer. The task management toolkit provider started by Facebook co-founder Dustin Moskovitz and early FB employee…*
      
+  - Xwing plans short, regional flights for its autonomous cargo planes
+      <hr/>
+      
+      - *The path to deploying commercial aircraft that can handle all aspects of flight without a pilot is long, winding, expensive and riddled with regulatory and technical hurdles. Marc Piette, the founder of autonomous aviation startup Xwing, aims to make that pat…*
+      
+  - Here are the 98 companies from Y Combinator's Summer 2020 Demo Day 1
+      <hr/>
+      
+      - *Today was part one of Y Combinator’s two-parter Summer 2020 Demo Day, where nearly 100 companies debuted their efforts to the world for the first time. The Summer 2020 batch of companies was the first fully remote YC cohort, with the ongoing pandemic leading …*
+      
   - Palo Alto Networks to buy digital forensics consulting firm for $265M
       <hr/>
       
       - *It’s been quite a day in the tech world with a bushel of S-1s being filed to go public. Not to be left out the ever acquisitive Palo Alto Networks announced its intent to acquire The Crypsis Group, an incident response, risk management and digital forensics c…*
-      
+       
   - Our 11 favorite companies from Y Combinator’s S20 Demo Day: Part I
       <hr/>
-      
-      - *Startup incubator and investment group Y Combinator today held the first of two demo days for founders in its Summer 2020 batch. So far, this cohort contains the usual mix of bold, impressive, and, at times, slightly wacky ideas young companies so often show …*
-      
-  - Daily Crunch: TikTok sues the US government
-      <hr/>
-      
-      - *TikTok fights its U.S. ban, Twitter takes action against another Trump tweet and Unity files to go public. This is your Daily Crunch for August 24, 2020. The big story: TikTok sues the U.S. government TikTok is fighting back against the Trump administration’s…*
        
-  - Sutter Hill strikes ice-cold, $2.5B pre-market return with Snowflake’s IPO filing
-      <hr/>
-       
-       - *Today is the day for huge VC returns. We talked a bit about Sequoia’s coming huge win with the IPO of game engine Unity this morning. Now, Sequoia might actually have the second largest return among companies filing to go public with the SEC today. Sequoia st…*
+       - *Startup incubator and investment group Y Combinator today held the first of two demo days for founders in its Summer 2020 batch. So far, this cohort contains the usual mix of bold, impressive, and, at times, slightly wacky ideas young companies so often show …*
       
 
 
