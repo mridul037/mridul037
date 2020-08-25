@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ Fred Brooks
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Program building is an entropy-decreasing process, hence inherently metastable. 
 
 </pre>
 **Daily News**
-  - Muze redesigns mobile messaging as a free-form canvas for creativity
+  - Daily Crunch: Judge says Apple can't block Unreal Engine
      <hr/>
      
-      - *New York-based startup Muze is rethinking mobile messaging. While today’s messaging apps have expanded over the years to include support for sharing photos and videos, voice messages, reactions and more, Muze has fully redesigned the traditional messaging exp…*
+      - *Epic Games wins a victory against Apple, Fitbit announces a new smartwatch and Microsoft Word adds a transcription feature. This is your Daily Crunch for August 25, 2020. The big story: Judge says Apple can’t block Unreal Engine U.S. District Court Judge Yvon…*
      
+  - Here are the 94 companies from Y Combinator's Summer 2020 Demo Day 2
+      <hr/>
+      
+      - *And we’re back! Today was part two of Y Combinator’s absolutely massive Demo Day(s) event for its Summer 2020 class. As we outlined yesterday, this is the first YC accelerator class to take place entirely online, from the day zero interviews all the way on th…*
+      
+  - Muze redesigns mobile messaging as a free-form canvas for creativity
+      <hr/>
+      
+      - *New York-based startup Muze is rethinking mobile messaging. While today’s messaging apps have expanded over the years to include support for sharing photos and videos, voice messages, reactions and more, Muze has fully redesigned the traditional messaging exp…*
+      
   - Our 12 favorite startups from Y Combinator's S20 Demo Day: Part 2
       <hr/>
       
       - *Figma for filmmakers, TikTok for English learners and a cryptocurrency twist that actually makes sense? After 197 pitches, Y Combinator’s Demo Day for its Summer 2020 cohort has concluded. While the fanfare, run-ins and fortune cookies were missing in this vi…*
-      
+       
   - Porsche experiments with subscription pricing, expands to Los Angeles
       <hr/>
-      
-      - *Porsche is rolling out a less expensive subscription plan in four U.S. cities as the German automaker experiments with different pricing and products in an effort to expand its customer base. Porsche now has three plans, or tiers, that are all housed under it…*
-      
-  - XYZ Robotics raises $17M for its pick-and-place logistics robots
-      <hr/>
-      
-      - *COVID-19 is proving to be a massive driver for robotics investments — and for good reason. Robots don’t call in sick, and they’re far less likely to be disease vectors than their human counterparts. Companies attempting to keep the lights on during this and p…*
        
-  - Netflix's 'Emily's Wonder Lab' is smart, interactive science TV for kids
-      <hr/>
-       
-       - *Netflix’s children’s programming library continues to grow, and its latest is one of its best original offerings yet – Emily’s Wonder Lab, a TV series hosted by engineer, space expert and Emmy-nominated TV science host Emily Calandrelli. The new show’s first …*
+       - *Porsche is rolling out a less expensive subscription plan in four U.S. cities as the German automaker experiments with different pricing and products in an effort to expand its customer base. Porsche now has three plans, or tiers, that are all housed under it…*
       
 
 
