@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Donald Knuth
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
