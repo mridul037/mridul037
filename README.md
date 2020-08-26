@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Within a computer, natural language is unnatural.
+One of my most productive days was throwing away 1,000 lines of code.
 
-~ Alan Perlis
+~ Ken Thompson
 <pre>
 
 </pre>
