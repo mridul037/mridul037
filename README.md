@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
 
-~ Alan Turing
+~ Fred Brooks
 <pre>
 
 </pre>
