@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 
-~ Edsger W. Dijkstra
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It is practically impossible to teach good programming to students that have had
 
 </pre>
 **Daily News**
-  - Axon delivers new tech for police, but is more tools really what cops need?
+  - Cryptocurrency exchange FTX acquires portfolio tracker Blockfolio
      <hr/>
      
-      - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
+      - *FTX, a cryptocurrency exchange that offers derivatives, options and other sophisticated products, is acquiring a popular portfolio tracking app, Blockfolio. FTX is spending $150 million for the acquisition. But take that price with a grain of salt as it’s a c…*
      
+  - Everyone filed to go public Monday
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back out of sequence, because literally every company you can name (well, almost) dropped an S-1 yesterda…*
+      
+  - Axon delivers new tech for police, but is more tools really what cops need?
+      <hr/>
+      
+      - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
+      
   - Max Schrems on the EU court ruling that could cut Facebook in two
       <hr/>
       
       - *Last month’s ruling by the Court of Justice of the European Union (CJEU), ripping up the EU-US Privacy Shield and sewing doubt over alternative mechanisms, has put a cat among the pigeons of international data transfers. For Facebook the impact could fall lik…*
-      
+       
   - Daily Crunch: Judge says Apple can't block Unreal Engine
       <hr/>
-      
-      - *Epic Games wins a victory against Apple, Fitbit announces a new smartwatch and Microsoft Word adds a transcription feature. This is your Daily Crunch for August 25, 2020. The big story: Judge says Apple can’t block Unreal Engine U.S. District Court Judge Yvon…*
-      
-  - Here are the 94 companies from Y Combinator's Summer 2020 Demo Day 2
-      <hr/>
-      
-      - *And we’re back! Today was part two of Y Combinator’s absolutely massive Demo Day(s) event for its Summer 2020 class. As we outlined yesterday, this is the first YC accelerator class to take place entirely online, from the day zero interviews all the way on th…*
        
-  - Muze redesigns mobile messaging as a free-form canvas for creativity
-      <hr/>
-       
-       - *New York-based startup Muze is rethinking mobile messaging. While today’s messaging apps have expanded over the years to include support for sharing photos and videos, voice messages, reactions and more, Muze has fully redesigned the traditional messaging exp…*
+       - *Epic Games wins a victory against Apple, Fitbit announces a new smartwatch and Microsoft Word adds a transcription feature. This is your Daily Crunch for August 25, 2020. The big story: Judge says Apple can’t block Unreal Engine U.S. District Court Judge Yvon…*
       
 
 
