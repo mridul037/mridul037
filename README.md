@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People under pressure don’t work better; they just work faster.
+Once the computers got control, we might never get it back.
 
-~ Tom DeMarco
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ People under pressure don’t work better; they just work faster.
 
 </pre>
 **Daily News**
-  - The pandemic has probably killed VR arcades for good
+  - BlackBerry makes China push as the OS for Xpeng smart cars
      <hr/>
      
-      - *A lagging trend of the past few months has been witnessing startups that COVID seemed poised to kill end up scaling back some of those deep cuts and taking off again. Not all spaces have been quite so lucky, in particular, lately we’ve seen a host of location…*
+      - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
      
+  - The pandemic has probably killed VR arcades for good
+      <hr/>
+      
+      - *A lagging trend of the past few months has been witnessing startups that COVID seemed poised to kill end up scaling back some of those deep cuts and taking off again. Not all spaces have been quite so lucky, in particular, lately we’ve seen a host of location…*
+      
   - Cryptocurrency exchange FTX acquires portfolio tracker Blockfolio
       <hr/>
       
@@ -81,16 +86,11 @@ People under pressure don’t work better; they just work faster.
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back out of sequence, because literally every company you can name (well, almost) dropped an S-1 yesterda…*
-      
+       
   - Axon delivers new tech for police, but is more tools really what cops need?
       <hr/>
-      
-      - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
        
-  - Max Schrems on the EU court ruling that could cut Facebook in two
-      <hr/>
-       
-       - *Last month’s ruling by the Court of Justice of the European Union (CJEU), ripping up the EU-US Privacy Shield and sewing doubt over alternative mechanisms, has put a cat among the pigeons of international data transfers. For Facebook the impact could fall lik…*
+       - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
       
 
 
