@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once the computers got control, we might never get it back.
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 
-~ Marvin Minsky
+~ David Parnas
 <pre>
 
 </pre>
