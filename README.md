@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ John Carmack
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The situation is so much better for programmers today - a cheap used PC, a linux
 
 </pre>
 **Daily News**
-  - China's Alibaba won't invest in Indian startups for at least six months, report says
+  - Synthetic biology startups are giving investors an appetite
      <hr/>
      
-      - *Chinese internet giant Alibaba Group has put on hold plans to invest in Indian startups amid geo-political tensions between the two countries, Reuters reported Wednesday, citing two unnamed sources. The Chinese group, which has invested more than $2 billion i…*
+      - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
      
-  - Spotify is developing a 'virtual events' feature
+  - Benchmark's Peter Fenton is joining us at Disrupt
       <hr/>
       
-      - *The coronavirus pandemic has had a significant impact on the music industry, as artists who relied on live performances and concerts suddenly had the rug pulled out beneath them, impacting their ability to generate income. An upcoming feature in development a…*
+      - *Benchmark used to be the quintessential Silicon Valley venture firm. It was small. It was focused. It was aggressive while also remaining founder friendly. It stuck to its knitting, when it came to its fund size, raising fund after fund in the $450 million ra…*
       
-  - Funding for mental-health focused startups rises in 2020
+  - Mobile voting can ease polling place unease in the COVID-19 era
       <hr/>
       
-      - *Turning away from the public markets, IPOs, SPACs and Palantir for a moment, would you like to talk about startups again? I would. This morning, I pored over venture capital funding patterns for wellness-focused startups. Broadly, according to a new report, t…*
+      - *Failing to explore new options to prevent a voting disaster this fall amidst a global pandemic could have grave repercussions on the future of this nation.*
       
-  - GM teases two new all-electric Chevy Bolt models
+  - Bingie is an app for all your streaming recommendations and debates
       <hr/>
       
-      - *GM provided a glimpse Wednesday of not one, but two versions of the Chevrolet Bolt, the all-electric vehicle that first launched in 2017 with an aim at hitting the market before — and carving sales away from — the Tesla Model 3. The all-electric hatchback, wh…*
+      - *If you’re overwhelmed trying to choose the next movie or TV show to watch on Netflix, Hulu, Disney+, HBO Max or any other streaming service, Bingie could be the app for you. You may recall a previous wave of TV recommendation apps from a decade ago, like Vigg…*
        
-  - With theaters opening back up, Atom Tickets launches its Snap mini app
+  - Many Canon cameras can now automatically back up pictures to Google Photos
       <hr/>
        
-       - *Santa Monica, Calif.-based Atom Tickets, the ticketing and concessions buying app, is finally launching its branded ticket buying experience inside Snapchat.  The new Movie Tickets by Atom joins a slew of mini apps released by companies like Headspace, which …*
+       - *Canon and Google today announced a new software integration that enables automatic Google Photos backup of pictures taken with select Canon cameras – a full list is available here, but it’s most of their recent interchangeable lens cameras dating back basical…*
       
 
 
