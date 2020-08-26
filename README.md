@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Danny Hillis
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ With the right programming, a computer can become a theater, a musical instrumen
 
 </pre>
 **Daily News**
-  - Instagram Guides may soon allow creators to recommended places, products and more
+  - Here’s the Surface Duo
      <hr/>
      
-      - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
+      - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
      
+  - Daily Crunch: Spotify is testing virtual events
+      <hr/>
+      
+      - *Spotify explores virtual concerts, Twitter tests a “quotes” count and Google’s Nest Hub becomes more hotel-friendly. This is your Daily Crunch for August 26, 2020. The big story: Spotify is testing virtual events We can’t have real-world concerts at the momen…*
+      
+  - Instagram Guides may soon allow creators to recommended places, products and more
+      <hr/>
+      
+      - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
+      
   - Equity Shot: Our favorite startups from YC Demo Day
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Yep, it’s another Equity Shot. We’re back. And then we’re going to be back on Friday. Because we can’t stop tal…*
-      
+       
   - Property tech startup Habi raises $10M to drive expansion in Latin America
       <hr/>
-      
-      - *When Brynne McNulty Rojas moved to Bogotá, Columbia four years ago, she encountered a fragmented real estate industry that lacked a central database for consumers to find or compare homes. Rojas was struck by the magnitude of the problem; she was also inspire…*
-      
-  - Ford, Bosch, and Bedrock announce an automated valet parking garage in Detroit
-      <hr/>
-      
-      - *Ford, Bosch, and Bedrock Technologies today announced an automated valet parking demonstration in downtown Detroit. This system is designed to allow drivers to exit a vehicle and the vehicle would park itself in the parking structure. Systems in a Ford Escape…*
        
-  - Luna Display adds a teleprompter mode
-      <hr/>
-       
-       - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
+       - *When Brynne McNulty Rojas moved to Bogotá, Columbia four years ago, she encountered a fragmented real estate industry that lacked a central database for consumers to find or compare homes. Rojas was struck by the magnitude of the problem; she was also inspire…*
       
 
 
