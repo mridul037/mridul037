@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 
-~ Ken Thompson
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One of my most productive days was throwing away 1,000 lines of code.
 
 </pre>
 **Daily News**
-  - BlackBerry makes China push as the OS for Xpeng smart cars
+  - White House announces $1B investment for AI and quantum computing hubs
      <hr/>
      
-      - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
+      - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
      
+  - BlackBerry makes China push as the OS for Xpeng smart cars
+      <hr/>
+      
+      - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
+      
   - The pandemic has probably killed VR arcades for good
       <hr/>
       
@@ -81,16 +86,11 @@ One of my most productive days was throwing away 1,000 lines of code.
       <hr/>
       
       - *FTX, a cryptocurrency exchange that offers derivatives, options and other sophisticated products, is acquiring a popular portfolio tracking app, Blockfolio. FTX is spending $150 million for the acquisition. But take that price with a grain of salt as it’s a c…*
-      
+       
   - Everyone filed to go public Monday
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back out of sequence, because literally every company you can name (well, almost) dropped an S-1 yesterda…*
        
-  - Axon delivers new tech for police, but is more tools really what cops need?
-      <hr/>
-       
-       - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. We’re back out of sequence, because literally every company you can name (well, almost) dropped an S-1 yesterda…*
       
 
 
