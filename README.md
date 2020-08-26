@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The key to keeping software costs down is to write code that is easily modified.
+The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 
-~ Daniel T. Barry
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The key to keeping software costs down is to write code that is easily modified.
 
 </pre>
 **Daily News**
-  - Desktop Metal going public in SPAC-led deal that could value 3D printer company at $2.5B
+  - DJI rebrands its Osmo line with the arrival of the magnetically connecting OM 4
      <hr/>
      
-      - *Desktop Metal’s had no shortage of investor interest in its business during in its half-decade existence. To date, the metal 3D printing company has raised $430 million, becoming one of the fastest U.S. companies to achieve unicorn status in the process. Toda…*
+      - *Beyond the drones it’s known for, DJI has carved out a nice niche for itself in the camera stabilization market. Building on the technology it has developed for the aerial imaging space, the company’s got a number of products, running the gamut from professio…*
      
-  - Grid raises $12M Series A to turn spreadsheets into visual 'narratives'
+  - Facebook updates Messenger Rooms as Zoom sits at top of the App Store
       <hr/>
       
-      - *Grid, a SaaS startup founded in Iceland that lets you turn spreadsheets into visual “narratives,” has closed $12 million in Series A funding. The round is led by New Enterprise Associates (NEA), with participation from existing investors BlueYard Capital, Sla…*
+      - *Messenger Rooms, Facebook’s social Zoom competitor, is today rolling out new features aimed at making Rooms easier to both create and discover as well as those for further personalizing your Rooms experience. The changes follow Messenger’s recent slight dip f…*
       
-  - Xiaomi reports 3.1% revenue growth in Q2 despite restricted production in India
+  - Stride.VC loses partner Pia d’Iribarne
       <hr/>
       
-      - *Xiaomi reported a revenue of $7.77 billion for the quarter that ended in June this year, up 3.1% since the same period last year and up 7.7% over the previous quarter as the Chinese smartphone maker sees recovery in most of its overseas markets. The company s…*
+      - *Stride.VC, the London early-stage VC firm founded by Fred Destin and podcaster Harry Stebbings, is losing Paris-based partner, Pia d’Iribarne, TechCrunch has learned. According to a regulatory filing, d’Iribarne’s partnership officially ended today, a little …*
       
-  - White House announces $1B investment for AI and quantum computing hubs
+  - Cisco acquiring BabbleLabs to filter out the lawn mower screeching during your video conference
       <hr/>
       
-      - *Building out its previous commitment, the White House is announcing a $1 billion investment into two of tech’s most promising frontiers, AI and quantum computing. Last year, the Trump administration rolled out an executive order on AI declaring its intention …*
+      - *We’ve all been in a video conference, especially this year, when the neighbor started mowing the lawn or kids were playing outside your window — and it can get pretty loud. Cisco, which owns the WebEx video conferencing service wants to do something about tha…*
        
-  - BlackBerry makes China push as the OS for Xpeng smart cars
+  - Meet the startups from Brinc's first online Demo Day
       <hr/>
        
-       - *The once-pioneering BlackBerry is pretty much out of the smartphone manufacturing game, but the Canadian company has been busy transitioning to providing software for connected devices, including smart cars. Now it’s brought that section of its business to Ch…*
+       - *Like other accelerators, Brinc hasn’t let 2020 get in the way of its program for early-stage startups. The firm is known for focusing on food technology, health tech, clean energy, and hardware, and has a knack for finding some of the most interesting startup…*
       
 
 
