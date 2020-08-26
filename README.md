@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+Within a computer, natural language is unnatural.
 
-~ John Warnock
+~ Alan Perlis
 <pre>
 
 </pre>
