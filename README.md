@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 
-~ Fred Brooks
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 
 </pre>
 **Daily News**
-  - The H-1B visa ban is creating nearshore business partnership opportunities
+  - The bullish case for Palantir's direct listing
      <hr/>
      
-      - *Nearshoring is mutually beneficial because developers don't have to give up their culture for a great employment opportunity  and businesses can reap the benefits of diversification.*
+      - *The Palantir S-1 finally dropped yesterday after TechCrunch spilled a bunch of its guts last Friday. You can read the filing here, if you are so inclined. Today, however, instead of our usual overview, I have a different goal: We’re going to be a bit more spe…*
      
+  - The Positive Grid Spark is a versatile smart amp perfect for guitarists stuck at home
+      <hr/>
+      
+      - *Powered amps for electric guitars have gotten some neat tricks powered by modern mobile tech over the years, but the new Positive Grid Spark ($299) might be the one that packs the most intelligence and versatility into a single package. From a companion app, …*
+      
+  - Twitter experiments with adding a 'Quotes' count to tweets
+      <hr/>
+      
+      - *Twitter wants to make it easier to see the conversations taking place around a tweet. This May, the company rolled out a change to its user interface that allowed users who clicked on the “Retweets” metric beneath a tweet to view both those Retweets with comm…*
+      
+  - The H-1B visa ban is creating nearshore business partnership opportunities
+      <hr/>
+      
+      - *Nearshoring is mutually beneficial because developers don't have to give up their culture for a great employment opportunity  and businesses can reap the benefits of diversification.*
+       
   - Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global
       <hr/>
-      
-      - *For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind, she also believes that the powerful AI-related techno…*
-      
-  - Course Hero, a profitable edtech unicorn, raises rare cash
-      <hr/>
-      
-      - *Like any successful founder, Andrew Grauer had bright, long-term ambitions for Course Hero from the moment he launched it in 2006. He started the business to create a place where students could ask questions and get answers similar to Chegg, which launched 15…*
-      
-  - Dear Sophie: Latest immigration and H-1B updates
-      <hr/>
-      
-      - *Exceptions for new H-1B visas at embassies and consulates around the world will help a lot of tech companies whose employees got stuck outside the U.S.*
        
-  - Synthetic biology startups are giving investors an appetite
-      <hr/>
-       
-       - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
+       - *For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind, she also believes that the powerful AI-related techno…*
       
 
 
