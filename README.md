@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 
-~ Joseph Yoder (computer scientist)
+~ John Carmack
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Reviews and pair programming provide programmers with something their work would
 
 </pre>
 **Daily News**
-  - Funding for mental-health focused startups rises in 2020
+  - China's Alibaba won't invest in Indian startups for at least six months, report says
      <hr/>
      
-      - *Turning away from the public markets, IPOs, SPACs and Palantir for a moment, would you like to talk about startups again? I would. This morning, I pored over venture capital funding patterns for wellness-focused startups. Broadly, according to a new report, t…*
+      - *Chinese internet giant Alibaba Group has put on hold plans to invest in Indian startups amid geo-political tensions between the two countries, Reuters reported Wednesday, citing two unnamed sources. The Chinese group, which has invested more than $2 billion i…*
      
+  - Spotify is developing a 'virtual events' feature
+      <hr/>
+      
+      - *The coronavirus pandemic has had a significant impact on the music industry, as artists who relied on live performances and concerts suddenly had the rug pulled out beneath them, impacting their ability to generate income. An upcoming feature in development a…*
+      
+  - Funding for mental-health focused startups rises in 2020
+      <hr/>
+      
+      - *Turning away from the public markets, IPOs, SPACs and Palantir for a moment, would you like to talk about startups again? I would. This morning, I pored over venture capital funding patterns for wellness-focused startups. Broadly, according to a new report, t…*
+      
   - GM teases two new all-electric Chevy Bolt models
       <hr/>
       
       - *GM provided a glimpse Wednesday of not one, but two versions of the Chevrolet Bolt, the all-electric vehicle that first launched in 2017 with an aim at hitting the market before — and carving sales away from — the Tesla Model 3. The all-electric hatchback, wh…*
-      
+       
   - With theaters opening back up, Atom Tickets launches its Snap mini app
       <hr/>
-      
-      - *Santa Monica, Calif.-based Atom Tickets, the ticketing and concessions buying app, is finally launching its branded ticket buying experience inside Snapchat.  The new Movie Tickets by Atom joins a slew of mini apps released by companies like Headspace, which …*
-      
-  - DJI rebrands its Osmo line with the arrival of the magnetically connecting OM 4
-      <hr/>
-      
-      - *Beyond the drones it’s known for, DJI has carved out a nice niche for itself in the camera stabilization market. Building on the technology it has developed for the aerial imaging space, the company’s got a number of products, running the gamut from professio…*
        
-  - Facebook updates Messenger Rooms as Zoom sits at top of the App Store
-      <hr/>
-       
-       - *Messenger Rooms, Facebook’s social Zoom competitor, is today rolling out new features aimed at making Rooms easier to both create and discover as well as those for further personalizing your Rooms experience. The changes follow Messenger’s recent slight dip f…*
+       - *Santa Monica, Calif.-based Atom Tickets, the ticketing and concessions buying app, is finally launching its branded ticket buying experience inside Snapchat.  The new Movie Tickets by Atom joins a slew of mini apps released by companies like Headspace, which …*
       
 
 
