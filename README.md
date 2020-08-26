@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Danny Hillis
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The magic of a computer lies in its ability to become almost anything you can im
 
 </pre>
 **Daily News**
-  - Cryptocurrency exchange FTX acquires portfolio tracker Blockfolio
+  - The pandemic has probably killed VR arcades for good
      <hr/>
      
-      - *FTX, a cryptocurrency exchange that offers derivatives, options and other sophisticated products, is acquiring a popular portfolio tracking app, Blockfolio. FTX is spending $150 million for the acquisition. But take that price with a grain of salt as it’s a c…*
+      - *A lagging trend of the past few months has been witnessing startups that COVID seemed poised to kill end up scaling back some of those deep cuts and taking off again. Not all spaces have been quite so lucky, in particular, lately we’ve seen a host of location…*
      
+  - Cryptocurrency exchange FTX acquires portfolio tracker Blockfolio
+      <hr/>
+      
+      - *FTX, a cryptocurrency exchange that offers derivatives, options and other sophisticated products, is acquiring a popular portfolio tracking app, Blockfolio. FTX is spending $150 million for the acquisition. But take that price with a grain of salt as it’s a c…*
+      
   - Everyone filed to go public Monday
       <hr/>
       
@@ -81,16 +86,11 @@ The magic of a computer lies in its ability to become almost anything you can im
       <hr/>
       
       - *Axon, the company formerly known as Taser and which provides the majority of police body cameras, has a few new tech tools for cops that could cut down on paperwork and improve response times. But at a time when the fundamental means and mission of police is …*
-      
+       
   - Max Schrems on the EU court ruling that could cut Facebook in two
       <hr/>
-      
-      - *Last month’s ruling by the Court of Justice of the European Union (CJEU), ripping up the EU-US Privacy Shield and sewing doubt over alternative mechanisms, has put a cat among the pigeons of international data transfers. For Facebook the impact could fall lik…*
        
-  - Daily Crunch: Judge says Apple can't block Unreal Engine
-      <hr/>
-       
-       - *Epic Games wins a victory against Apple, Fitbit announces a new smartwatch and Microsoft Word adds a transcription feature. This is your Daily Crunch for August 25, 2020. The big story: Judge says Apple can’t block Unreal Engine U.S. District Court Judge Yvon…*
+       - *Last month’s ruling by the Court of Justice of the European Union (CJEU), ripping up the EU-US Privacy Shield and sewing doubt over alternative mechanisms, has put a cat among the pigeons of international data transfers. For Facebook the impact could fall lik…*
       
 
 
