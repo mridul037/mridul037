@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ Richard Hamming
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Perhaps the central problem we face in all of computer science is how we are to 
 
 </pre>
 **Daily News**
-  - The bullish case for Palantir's direct listing
+  - Luna Display adds a teleprompter mode
      <hr/>
      
-      - *The Palantir S-1 finally dropped yesterday after TechCrunch spilled a bunch of its guts last Friday. You can read the filing here, if you are so inclined. Today, however, instead of our usual overview, I have a different goal: We’re going to be a bit more spe…*
+      - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
      
+  - SpaceX will launch Masten's first lander to the Moon in 2022
+      <hr/>
+      
+      - *SpaceX has secured a contract to act as the launch partner for Masten Space Systems, one of the companies awarded a NASA launch contract under that agency’s Commercial Lunar Payload Services (CLPS) program. Masten’s first lunar mission is set to take pace 202…*
+      
+  - The bullish case for Palantir's direct listing
+      <hr/>
+      
+      - *The Palantir S-1 finally dropped yesterday after TechCrunch spilled a bunch of its guts last Friday. You can read the filing here, if you are so inclined. Today, however, instead of our usual overview, I have a different goal: We’re going to be a bit more spe…*
+      
   - The Positive Grid Spark is a versatile smart amp perfect for guitarists stuck at home
       <hr/>
       
       - *Powered amps for electric guitars have gotten some neat tricks powered by modern mobile tech over the years, but the new Positive Grid Spark ($299) might be the one that packs the most intelligence and versatility into a single package. From a companion app, …*
-      
+       
   - Twitter experiments with adding a 'Quotes' count to tweets
       <hr/>
-      
-      - *Twitter wants to make it easier to see the conversations taking place around a tweet. This May, the company rolled out a change to its user interface that allowed users who clicked on the “Retweets” metric beneath a tweet to view both those Retweets with comm…*
-      
-  - The H-1B visa ban is creating nearshore business partnership opportunities
-      <hr/>
-      
-      - *Nearshoring is mutually beneficial because developers don't have to give up their culture for a great employment opportunity  and businesses can reap the benefits of diversification.*
        
-  - Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global
-      <hr/>
-       
-       - *For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind, she also believes that the powerful AI-related techno…*
+       - *Twitter wants to make it easier to see the conversations taking place around a tweet. This May, the company rolled out a change to its user interface that allowed users who clicked on the “Retweets” metric beneath a tweet to view both those Retweets with comm…*
       
 
 
