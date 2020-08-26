@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 
-~ John McCarthy (computer scientist)
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Machines as simple as thermostats can be said to have beliefs.
 
 </pre>
 **Daily News**
-  - Synthetic biology startups are giving investors an appetite
+  - The H-1B visa ban is creating nearshore business partnership opportunities
      <hr/>
      
-      - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
+      - *Nearshoring is mutually beneficial because developers don't have to give up their culture for a great employment opportunity  and businesses can reap the benefits of diversification.*
      
-  - Benchmark's Peter Fenton is joining us at Disrupt
+  - Microsoft researcher Dr. Cecily Morrison will discuss keeping AI “personal” at Sight Tech Global
       <hr/>
       
-      - *Benchmark used to be the quintessential Silicon Valley venture firm. It was small. It was focused. It was aggressive while also remaining founder friendly. It stuck to its knitting, when it came to its fund size, raising fund after fund in the $450 million ra…*
+      - *For Dr. Cecily Morrison, research into how AI can help people who are blind or visually disabled is deeply personal. It’s not only that the Microsoft Principal Researcher has a 7-year-old son who is blind, she also believes that the powerful AI-related techno…*
       
-  - Mobile voting can ease polling place unease in the COVID-19 era
+  - Course Hero, a profitable edtech unicorn, raises rare cash
       <hr/>
       
-      - *Failing to explore new options to prevent a voting disaster this fall amidst a global pandemic could have grave repercussions on the future of this nation.*
+      - *Like any successful founder, Andrew Grauer had bright, long-term ambitions for Course Hero from the moment he launched it in 2006. He started the business to create a place where students could ask questions and get answers similar to Chegg, which launched 15…*
       
-  - Bingie is an app for all your streaming recommendations and debates
+  - Dear Sophie: Latest immigration and H-1B updates
       <hr/>
       
-      - *If you’re overwhelmed trying to choose the next movie or TV show to watch on Netflix, Hulu, Disney+, HBO Max or any other streaming service, Bingie could be the app for you. You may recall a previous wave of TV recommendation apps from a decade ago, like Vigg…*
+      - *Exceptions for new H-1B visas at embassies and consulates around the world will help a lot of tech companies whose employees got stuck outside the U.S.*
        
-  - Many Canon cameras can now automatically back up pictures to Google Photos
+  - Synthetic biology startups are giving investors an appetite
       <hr/>
        
-       - *Canon and Google today announced a new software integration that enables automatic Google Photos backup of pictures taken with select Canon cameras – a full list is available here, but it’s most of their recent interchangeable lens cameras dating back basical…*
+       - *There’s a growing wave of commercial activity from companies that are creating products using new biological engineering technologies. Perhaps the most public (and tastiest) example of the promise biomanufacturing holds is Impossible Foods . The meat replacem…*
       
 
 
