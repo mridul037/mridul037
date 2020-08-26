@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 
-~ Tony Parisi (software developer)
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A framework can provide 90% of the features we need quickly — giving us a fals
 
 </pre>
 **Daily News**
-  - Ford, Bosch, and Bedrock announce an automated valet parking garage in Detroit
+  - Instagram Guides may soon allow creators to recommended places, products and more
      <hr/>
      
-      - *Ford, Bosch, and Bedrock Technologies today announced an automated valet parking demonstration in downtown Detroit. This system is designed to allow drivers to exit a vehicle and the vehicle would park itself in the parking structure. Systems in a Ford Escape…*
+      - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
      
+  - Equity Shot: Our favorite startups from YC Demo Day
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Yep, it’s another Equity Shot. We’re back. And then we’re going to be back on Friday. Because we can’t stop tal…*
+      
+  - Property tech startup Habi raises $10M to drive expansion in Latin America
+      <hr/>
+      
+      - *When Brynne McNulty Rojas moved to Bogotá, Columbia four years ago, she encountered a fragmented real estate industry that lacked a central database for consumers to find or compare homes. Rojas was struck by the magnitude of the problem; she was also inspire…*
+      
+  - Ford, Bosch, and Bedrock announce an automated valet parking garage in Detroit
+      <hr/>
+      
+      - *Ford, Bosch, and Bedrock Technologies today announced an automated valet parking demonstration in downtown Detroit. This system is designed to allow drivers to exit a vehicle and the vehicle would park itself in the parking structure. Systems in a Ford Escape…*
+       
   - Luna Display adds a teleprompter mode
       <hr/>
-      
-      - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
-      
-  - SpaceX will launch Masten's first lander to the Moon in 2022
-      <hr/>
-      
-      - *SpaceX has secured a contract to act as the launch partner for Masten Space Systems, one of the companies awarded a NASA launch contract under that agency’s Commercial Lunar Payload Services (CLPS) program. Masten’s first lunar mission is set to take pace 202…*
-      
-  - The bullish case for Palantir's direct listing
-      <hr/>
-      
-      - *The Palantir S-1 finally dropped yesterday after TechCrunch spilled a bunch of its guts last Friday. You can read the filing here, if you are so inclined. Today, however, instead of our usual overview, I have a different goal: We’re going to be a bit more spe…*
        
-  - The Positive Grid Spark is a versatile smart amp perfect for guitarists stuck at home
-      <hr/>
-       
-       - *Powered amps for electric guitars have gotten some neat tricks powered by modern mobile tech over the years, but the new Positive Grid Spark ($299) might be the one that packs the most intelligence and versatility into a single package. From a companion app, …*
+       - *I really like the Luna Display. The dongle still occupies a spot in my travel-cord bag. But like the bag it resides in, the iPad accessory hasn’t gotten much use in the past year.*
       
 
 
