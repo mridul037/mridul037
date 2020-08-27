@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 
-~ Bjarne Stroustrup
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Maybe "just one little global variable" isn't too unmanageable, but that style l
 
 </pre>
 **Daily News**
-  - Amazon opens its first Amazon Fresh physical grocery store, in LA
+  - Narrative raises $8.5M as it launches a new data marketplace
      <hr/>
      
-      - *The shift to online shopping has accelerated in the COVID-19 pandemic, but today Amazon made a bold move that underscores its belief that physical stores will remain a key component of how consumers shop. In the Los Angeles neighborhood of Woodland Hills, the…*
+      - *Narrative has raised $8.5 million in Series A funding and is launching a new product designed to further simplify the process of buying and selling data. I’ve already written about the company’s existing marketplace and software for managing data transactions…*
      
+  - Amazon opens its first Amazon Fresh physical grocery store, in LA
+      <hr/>
+      
+      - *The shift to online shopping has accelerated in the COVID-19 pandemic, but today Amazon made a bold move that underscores its belief that physical stores will remain a key component of how consumers shop. In the Los Angeles neighborhood of Woodland Hills, the…*
+      
   - Samsung will reportedly test remote work program as South Korea copes with new COVID-19 cases
       <hr/>
       
@@ -81,16 +86,11 @@ Maybe "just one little global variable" isn't too unmanageable, but that style l
       <hr/>
       
       - *Dutch social enterprise, Fairphone, has moved a little closer to the sustainability dream of a circular economy by announcing the launch of a modular upgrade for its flagship smartphone. The backwards compatible hardware units mean users of last year’s Fairph…*
-      
+       
   - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
       <hr/>
-      
-      - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
        
-  - On-demand grocery startup Instashop acquired by Delivery Hero for $360M -- Greece's biggest tech exit yet
-      <hr/>
-       
-       - *Instashop, the Greece-headquartered on-demand grocery business, is being acquired by Delivery Hero for $360 million — thought to be the country’s biggest tech exit yet. The strategy behind the acquisition is to provide Delivery Hero, a global operator in take…*
+       - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
       
 
 
