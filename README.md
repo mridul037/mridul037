@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+Software gets slower faster than hardware gets faster.
 
-~ Fred Brooks
+~ Niklaus Wirth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Having a system architect is the most important single step toward conceptual in
 
 </pre>
 **Daily News**
-  - A faster, easier, cheaper way of going public
+  - Box benefits from digital transformation as it raises its growth forecast
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is the fourth episode of the week, pushing our production calendar to the test. Happily we’ve managed to h…*
+      - *Box has always been a bit of an enigma for Wall Street and perhaps for enterprise software in general. Unlike vendors who shifted tools like HR, CRM or ERP to the cloud, Box has been building a way to manage content in the cloud. It’s been a little harder to …*
      
+  - Facebook isn't happy about Apple's upcoming ad tracking restrictions
+      <hr/>
+      
+      - *Apple’s upcoming operating system iOS 14 (currently in public beta) could have a big impact on publishers who work with Facebook’s — at least, according to Facebook. The company published a couple of blog posts yesterday outlining the potential impact of a ma…*
+      
+  - The reMarkable 2 improves on the original in every way, but remains firmly in its niche
+      <hr/>
+      
+      - *I’d been asking for something like the reMarkable for a long time before it showed up out of the blue a few years ago. The device was a real treat, but had a few problems and an eye-popping price tag. The reMarkable 2 builds on the first with a more beautiful…*
+      
+  - A faster, easier, cheaper way of going public
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is the fourth episode of the week, pushing our production calendar to the test. Happily we’ve managed to h…*
+       
   - To reach scale, Juni Learning is building a full-stack edtech experience
       <hr/>
-      
-      - *Juni Learning connects kids with math and science tutors, but co-founder Vivian Shen would prefer not to be lumped in with other edtech startups, despite the sector’s pandemic-born boom. “We’re not just in the middle to take a few percentage points off of eac…*
-      
-  - Facebook sues developers who violated terms to collect user data, sell fake 'likes'
-      <hr/>
-      
-      - *Facebook announced today it’s suing multiple developers in the U.S. and, for the first time, in the U.K., for violations of its policies. In the U.K., both Facebook Inc. and Facebook Ireland are suing MobiBurn, parent company OakSmart Technologies, and its fo…*
-      
-  - Will automation eliminate data science positions?
-      <hr/>
-      
-      - *Michael Li Contributor Share on Twitter Tianhui Michael Li is founder of The Data Incubator, an eight-week fellowship to help PhDs and postdocs transition from academia into industry. Previously, he headed monetization data science at Foursquare and has worke…*
        
-  - Bollinger shows off an electric delivery van headed for production in 2022
-      <hr/>
-       
-       - *Bollinger Motors, the Michigan-based startup known for its rugged electric SUV and pickup truck, unveiled Thursday a delivery van concept that it plans to start producing in 2022. The big takeaway here is versatility. The van concept called Deliver-E is confi…*
+       - *Juni Learning connects kids with math and science tutors, but co-founder Vivian Shen would prefer not to be lumped in with other edtech startups, despite the sector’s pandemic-born boom. “We’re not just in the middle to take a few percentage points off of eac…*
       
 
 
