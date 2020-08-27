@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+We need to be super careful with AI. Potentially more dangerous than nukes.
 
-~ Jim Coplien
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ You should name a variable using the same care with which you name a first-born 
 
 </pre>
 **Daily News**
-  - On-demand grocery startup Instashop acquired by Delivery Hero for $360M -- Greece's biggest tech exit yet
+  - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
      <hr/>
      
-      - *Instashop, the Greece-headquartered on-demand grocery business, is being acquired by Delivery Hero for $360 million — thought to be the country’s biggest tech exit yet. The strategy behind the acquisition is to provide Delivery Hero, a global operator in take…*
+      - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
      
+  - On-demand grocery startup Instashop acquired by Delivery Hero for $360M -- Greece's biggest tech exit yet
+      <hr/>
+      
+      - *Instashop, the Greece-headquartered on-demand grocery business, is being acquired by Delivery Hero for $360 million — thought to be the country’s biggest tech exit yet. The strategy behind the acquisition is to provide Delivery Hero, a global operator in take…*
+      
   - TikTok CEO Kevin Mayer resigns after 100 days
       <hr/>
       
@@ -81,16 +86,11 @@ You should name a variable using the same care with which you name a first-born 
       <hr/>
       
       - *Facebook has removed a local self-declared militia’s page and a related event following the events that unfolded last night in Kenosha, Wisconsin. Two people were killed and another was wounded when a man believed to be 17-year-old Kyle Rittenhouse began firi…*
-      
+       
   - Here’s the Surface Duo
       <hr/>
-      
-      - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
        
-  - Daily Crunch: Spotify is testing virtual events
-      <hr/>
-       
-       - *Spotify explores virtual concerts, Twitter tests a “quotes” count and Google’s Nest Hub becomes more hotel-friendly. This is your Daily Crunch for August 26, 2020. The big story: Spotify is testing virtual events We can’t have real-world concerts at the momen…*
+       - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
       
 
 
