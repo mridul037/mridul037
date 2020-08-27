@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The purpose of abstraction is not to be vague, but to create a new semantic leve
 
 </pre>
 **Daily News**
-  - Instacart faces lawsuit from DC Attorney General over 'deceptive' service fees
+  - A faster, easier, cheaper way of going public
      <hr/>
      
-      - *Instacart is facing a lawsuit from Washington, D.C. Attorney General Karl A. Racine that alleges the company charged customers millions of dollars in “deceptive service fees” and failed to pay hundreds of thousands of dollars worth of sales tax. The suit seek…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This is the fourth episode of the week, pushing our production calendar to the test. Happily we’ve managed to h…*
      
-  - Berbix raises $9M for its identity verification platform
+  - To reach scale, Juni Learning is building a full-stack edtech experience
       <hr/>
       
-      - *Berbix, an ID verification startup that was founded by former members of the Airbnb Trust and Safety team, today announced that it has raised a $9 million Series A round led by Mayfield. Existing investors, including Initialized Capital, Y Combinator and Fika…*
+      - *Juni Learning connects kids with math and science tutors, but co-founder Vivian Shen would prefer not to be lumped in with other edtech startups, despite the sector’s pandemic-born boom. “We’re not just in the middle to take a few percentage points off of eac…*
       
-  - Discord says user abuse reports have doubled since last year
+  - Facebook sues developers who violated terms to collect user data, sell fake 'likes'
       <hr/>
       
-      - *Discord said removed four million accounts for spamming.*
+      - *Facebook announced today it’s suing multiple developers in the U.S. and, for the first time, in the U.K., for violations of its policies. In the U.K., both Facebook Inc. and Facebook Ireland are suing MobiBurn, parent company OakSmart Technologies, and its fo…*
       
-  - Fondeadora is a Mexican challenger bank that just raised $14 million
+  - Will automation eliminate data science positions?
       <hr/>
       
-      - *Meet Fondeadora, a fintech startup based in Mexico City that wants to build a full-stack neobank. The company just raised a $14 million Series A round led by Gradient Ventures, Google’s AI-focused venture fund. Founded in 2018, the company already manages 150…*
+      - *Michael Li Contributor Share on Twitter Tianhui Michael Li is founder of The Data Incubator, an eight-week fellowship to help PhDs and postdocs transition from academia into industry. Previously, he headed monetization data science at Foursquare and has worke…*
        
-  - Kneron launches its new AI chip to challenge Google and others
+  - Bollinger shows off an electric delivery van headed for production in 2022
       <hr/>
        
-       - *Fresh off a $40 million Series A round, edge AI specialist Kneron today announced the launch of its newest custom chip, the Kneron KL 720 SoC. With funding from the likes of Alibaba, Sequoia, Horizons Ventures, Qualcomm and SparkLabs Taipei (as well as a few …*
+       - *Bollinger Motors, the Michigan-based startup known for its rugged electric SUV and pickup truck, unveiled Thursday a delivery van concept that it plans to start producing in 2022. The big takeaway here is versatility. The van concept called Deliver-E is confi…*
       
 
 
