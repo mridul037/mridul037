@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We need to be super careful with AI. Potentially more dangerous than nukes.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Elon Musk
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We need to be super careful with AI. Potentially more dangerous than nukes.
 
 </pre>
 **Daily News**
-  - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
+  - Amazon opens its first Amazon Fresh physical grocery store, in LA
      <hr/>
      
-      - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
+      - *The shift to online shopping has accelerated in the COVID-19 pandemic, but today Amazon made a bold move that underscores its belief that physical stores will remain a key component of how consumers shop. In the Los Angeles neighborhood of Woodland Hills, the…*
      
+  - Samsung will reportedly test remote work program as South Korea copes with new COVID-19 cases
+      <hr/>
+      
+      - *Samsung Electronics will reportedly begin trialing a work-from-home program for some employees next month as South Korea as the country deals with its largest increase in COVID-19 cases since March. According to Reuters, a company official said the pilot prog…*
+      
+  - Fairphone's new flagship, the 3+, costs just €70 as a modular upgrade
+      <hr/>
+      
+      - *Dutch social enterprise, Fairphone, has moved a little closer to the sustainability dream of a circular economy by announcing the launch of a modular upgrade for its flagship smartphone. The backwards compatible hardware units mean users of last year’s Fairph…*
+      
+  - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
+      <hr/>
+      
+      - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
+       
   - On-demand grocery startup Instashop acquired by Delivery Hero for $360M -- Greece's biggest tech exit yet
       <hr/>
-      
-      - *Instashop, the Greece-headquartered on-demand grocery business, is being acquired by Delivery Hero for $360 million — thought to be the country’s biggest tech exit yet. The strategy behind the acquisition is to provide Delivery Hero, a global operator in take…*
-      
-  - TikTok CEO Kevin Mayer resigns after 100 days
-      <hr/>
-      
-      - *Kevin Mayer, the chief executive of TikTok, announced on Wednesday that he is resigning, just over 100 days after the former Disney executive joined the world’s largest short video app in mid-May. The news came just days came on the heel of TikTok’s move to s…*
-      
-  - Facebook removes 'Kenosha Guard' militia account after shooter kills two at protest
-      <hr/>
-      
-      - *Facebook has removed a local self-declared militia’s page and a related event following the events that unfolded last night in Kenosha, Wisconsin. Two people were killed and another was wounded when a man believed to be 17-year-old Kyle Rittenhouse began firi…*
        
-  - Here’s the Surface Duo
-      <hr/>
-       
-       - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
+       - *Instashop, the Greece-headquartered on-demand grocery business, is being acquired by Delivery Hero for $360 million — thought to be the country’s biggest tech exit yet. The strategy behind the acquisition is to provide Delivery Hero, a global operator in take…*
       
 
 
