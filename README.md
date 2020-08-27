@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 
-~ L. Peter Deutsch
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
 
 </pre>
 **Daily News**
-  - Black founders can get tactical advice at Disrupt
+  - Walmart expresses interest in TikTok, teaming up with Microsoft
      <hr/>
      
-      - *In the aftermath of George Floyd’s death and widespread protests for racial justice, a number of venture capitalists made public statements about wanting to improve diversity in the tech industry — and more specifically to fund more diverse founders. Their co…*
+      - *There’s been a flurry of TikTok news today, and the flood doesn’t seem to be letting up. First was the announcement that Kevin Mayer, who joined the company just a bit more than three months ago, has stepped down overnight. TikTok CEO Kevin Mayer resigns afte…*
      
-  - Nerdwallet acquires UK's Know Your Money as it expands outside the US
+  - Learn why embedded finance is the future of fintech at Disrupt
       <hr/>
       
-      - *Nerdwallet, which provides resources for people looking for a new credit card, loan, insurance or other financial product or just financial advice, is making a move today to spearhead a move into international markets. The startup is acquiring Know Your Money…*
+      - *The fintech industry has had a wild couple of years. Consumer fintech startups, such as Robinhood, Revolut and Coinbase, have been massively successful and managed to attract millions of customers. At the same time, enterprise companies have created the infra…*
       
-  - harbor, an emergency preparedness platform, picks up $5 million in seed funding
+  - Register for our last pitch-off next week on September 2
       <hr/>
       
-      - *Billion dollar natural disasters are on the rise in the United States, according to CNBC. Even as I write, a hurricane is making landfall in Louisiana while wild fires rage in northern California. And those are just the big disasters. There were more than 1.3…*
+      - *It’s time again to start warming up your pitching arm. Our next Pitchers & Pitches session takes place next week on September 2. Register today! Pitchers & Pitches sessions combine critique and competition with a focus on helping early-stage startup founders …*
       
-  - Samsung is holding another Unpacked event next week for the Galaxy Z Fold 2
+  - What can growth marketers learn from lean product development?
       <hr/>
       
-      - *One of the nice things about virtual events is you can essentially hold as many as you’d like. It’s one thing to ask people to fly across the country or world to attend and another entirely to get them to tune into a livestream for an hour. On September 1 at …*
+      - *Everyone’s habits have changed/are changing as a result of the pandemic, so marketers need to be testing and learning as quickly as possible.*
        
-  - Here's how you can get a second shot at Startup Battlefield
+  - Beat the clock: Get your group discount passes to TC Sessions: Mobility 2020
       <hr/>
        
-       - *We’re big believers in second chances here at TechCrunch, and that’s great news for early-stage founders who didn’t apply to compete in the Startup Battlefield during Disrupt 2020 (September 14-18). Your second chance comes in the form of two Wild Card entrie…*
+       - *The expression “it takes a village” easily applies to building a successful mobility startup, especially in uncertain and tumultuous times. It also takes opportunities, and you’ll find plenty of those at TC Sessions: Mobility 2020 (Oct. 6-7). Even better — yo…*
       
 
 
