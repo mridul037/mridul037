@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 
-~ Philip Greenspun
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ SQL, Lisp, and Haskell are the only programming languages that I've seen where o
 
 </pre>
 **Daily News**
-  - Here’s the Surface Duo
+  - Facebook removes 'Kenosha Guard' militia account after shooter kills two at protest
      <hr/>
      
-      - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
+      - *Facebook has removed a local self-declared militia’s page and a related event following the events that unfolded last night in Kenosha, Wisconsin. Two people were killed and another was wounded when a man believed to be 17-year-old Kyle Rittenhouse began firi…*
      
+  - Here’s the Surface Duo
+      <hr/>
+      
+      - *I can’t remember the last time I did a hands-on with a device prior to powering it on. The idea of basing posts entirely around glamour shots without really interfacing with the product feels like a relic of an early era of gadget blogging. But every so often…*
+      
   - Daily Crunch: Spotify is testing virtual events
       <hr/>
       
@@ -81,16 +86,11 @@ SQL, Lisp, and Haskell are the only programming languages that I've seen where o
       <hr/>
       
       - *Instagram is working to expand its recently launched “Guides” feature which initially debuted with a specific focus on wellness content. The feature, which launched in May, has allowed select organizations and experts to share resources related to managing yo…*
-      
+       
   - Equity Shot: Our favorite startups from YC Demo Day
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Yep, it’s another Equity Shot. We’re back. And then we’re going to be back on Friday. Because we can’t stop tal…*
        
-  - Property tech startup Habi raises $10M to drive expansion in Latin America
-      <hr/>
-       
-       - *When Brynne McNulty Rojas moved to Bogotá, Columbia four years ago, she encountered a fragmented real estate industry that lacked a central database for consumers to find or compare homes. Rojas was struck by the magnitude of the problem; she was also inspire…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Yep, it’s another Equity Shot. We’re back. And then we’re going to be back on Friday. Because we can’t stop tal…*
       
 
 
