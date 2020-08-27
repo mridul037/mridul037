@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 
-~ Edsger W. Dijkstra
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
 </pre>
 **Daily News**
-  - Here's how you can get a second shot at Startup Battlefield
+  - Black founders can get tactical advice at Disrupt
      <hr/>
      
-      - *We’re big believers in second chances here at TechCrunch, and that’s great news for early-stage founders who didn’t apply to compete in the Startup Battlefield during Disrupt 2020 (September 14-18). Your second chance comes in the form of two Wild Card entrie…*
+      - *In the aftermath of George Floyd’s death and widespread protests for racial justice, a number of venture capitalists made public statements about wanting to improve diversity in the tech industry — and more specifically to fund more diverse founders. Their co…*
      
-  - How Salesforce beat its own target to reach $20B run rate ahead of schedule
+  - Nerdwallet acquires UK's Know Your Money as it expands outside the US
       <hr/>
       
-      - *Salesforce launched in 1999, one of the early adherents to what would eventually be called SaaS and cloud computing. On Tuesday, the company reached a huge milestone when it surpassed $5 billion in revenue, putting the SaaS giant on a $20 billion run rate for…*
+      - *Nerdwallet, which provides resources for people looking for a new credit card, loan, insurance or other financial product or just financial advice, is making a move today to spearhead a move into international markets. The startup is acquiring Know Your Money…*
       
-  - Restream raises $50M to help creators program and stream to multiple platforms
+  - harbor, an emergency preparedness platform, picks up $5 million in seed funding
       <hr/>
       
-      - *Live streaming of video has come into its own during the coronavirus pandemic, with services like Zoom, YouTube, Twitch, Facebook and many others giving people a way to stay connected with each other, run events and continue working even when they can not be …*
+      - *Billion dollar natural disasters are on the rise in the United States, according to CNBC. Even as I write, a hurricane is making landfall in Louisiana while wild fires rage in northern California. And those are just the big disasters. There were more than 1.3…*
       
-  - LA gets a big SAAS exit as Fastly nabs the Culver City-based Signal Sciences for $775M
+  - Samsung is holding another Unpacked event next week for the Galaxy Z Fold 2
       <hr/>
       
-      - *Los Angeles was always more than a one industry town, even when it comes to technology startups, but media and entertainment (and social networking) were always the big draws in tinseltown. Now the city’s enterprise tech scene can claim a really big winner wi…*
+      - *One of the nice things about virtual events is you can essentially hold as many as you’d like. It’s one thing to ask people to fly across the country or world to attend and another entirely to get them to tune into a livestream for an hour. On September 1 at …*
        
-  - 5 steps for building a thriving developer community
+  - Here's how you can get a second shot at Startup Battlefield
       <hr/>
        
-       - *If your platform doesn’t have a developer community yet, creating one takes a few purposeful steps. Here are some of the best practices we’ve learned.*
+       - *We’re big believers in second chances here at TechCrunch, and that’s great news for early-stage founders who didn’t apply to compete in the Startup Battlefield during Disrupt 2020 (September 14-18). Your second chance comes in the form of two Wild Card entrie…*
       
 
 
