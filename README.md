@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ George Carrette
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First learn computer science and all the theory. Next develop a programming styl
 
 </pre>
 **Daily News**
-  - Salesforce confirms it's laying off around 1000 people in spite of monster quarter
+  - Here's how you can get a second shot at Startup Battlefield
      <hr/>
      
-      - *In what felt like strange timing, Salesforce has confirmed a report in yesterday’s Wall Street Journal that it was laying off around 1000 people or approximately 1.9% of the company’s 54,000 strong workforce. This news came in spite of the company reporting a…*
+      - *We’re big believers in second chances here at TechCrunch, and that’s great news for early-stage founders who didn’t apply to compete in the Startup Battlefield during Disrupt 2020 (September 14-18). Your second chance comes in the form of two Wild Card entrie…*
      
-  - Calling Warsaw VCs: Be featured in The Great TechCrunch Survey of European VC
+  - How Salesforce beat its own target to reach $20B run rate ahead of schedule
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our survey of VCs in Warsaw will capture how the city is faring, and what changes are being wrought amongst investors by the coronavirus pandemic. We’d like to k…*
+      - *Salesforce launched in 1999, one of the early adherents to what would eventually be called SaaS and cloud computing. On Tuesday, the company reached a huge milestone when it surpassed $5 billion in revenue, putting the SaaS giant on a $20 billion run rate for…*
       
-  - Warby Parker, valued at $3 billion, raises $245 million in funding
+  - Restream raises $50M to help creators program and stream to multiple platforms
       <hr/>
       
-      - *Warby Parker, the optical ecommerce giant, has today announced the close of a $245 million funding round from D1 Capital Partners, Durable Capital Partners, T. Rowe Price, and Baillie Gifford. A source familiar with the company’s finances confirmed to TechCru…*
+      - *Live streaming of video has come into its own during the coronavirus pandemic, with services like Zoom, YouTube, Twitch, Facebook and many others giving people a way to stay connected with each other, run events and continue working even when they can not be …*
       
-  - Amazon debuts Halo smart health subscription service and Halo Band wearable activity tracker
+  - LA gets a big SAAS exit as Fastly nabs the Culver City-based Signal Sciences for $775M
       <hr/>
       
-      - *Amazon has introduced an entirely new membership program called Halo today that aims to provide comprehensive personal health and wellness monitoring and advice. The Halo service, which is opening to early access by special request today, includes both the se…*
+      - *Los Angeles was always more than a one industry town, even when it comes to technology startups, but media and entertainment (and social networking) were always the big draws in tinseltown. Now the city’s enterprise tech scene can claim a really big winner wi…*
        
-  - Christopher Ward's C1 Moonglow moonphase automatic watch is perfect for space lovers
+  - 5 steps for building a thriving developer community
       <hr/>
        
-       - *The moonphase watch is a long-standing marvel of the analog watch industry – featuring a complication that allows it to accurately track the phases of the Moon across a long period (provided the watch remains wound). Christopher Ward’s C1 Moonglow ($1,995) is…*
+       - *If your platform doesn’t have a developer community yet, creating one takes a few purposeful steps. Here are some of the best practices we’ve learned.*
       
 
 
