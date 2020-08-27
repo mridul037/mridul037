@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Addy Osmani
+~ Jim Coplien
 <pre>
 
 </pre>
