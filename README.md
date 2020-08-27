@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ Douglas Crockford
+~ George Carrette
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I think of myself as a writer. Sometimes I write in English and sometimes I writ
 
 </pre>
 **Daily News**
-  - Narrative raises $8.5M as it launches a new data marketplace
+  - Salesforce confirms it's laying off around 1000 people in spite of monster quarter
      <hr/>
      
-      - *Narrative has raised $8.5 million in Series A funding and is launching a new product designed to further simplify the process of buying and selling data. I’ve already written about the company’s existing marketplace and software for managing data transactions…*
+      - *In what felt like strange timing, Salesforce has confirmed a report in yesterday’s Wall Street Journal that it was laying off around 1000 people or approximately 1.9% of the company’s 54,000 strong workforce. This news came in spite of the company reporting a…*
      
-  - Amazon opens its first Amazon Fresh physical grocery store, in LA
+  - Calling Warsaw VCs: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *The shift to online shopping has accelerated in the COVID-19 pandemic, but today Amazon made a bold move that underscores its belief that physical stores will remain a key component of how consumers shop. In the Los Angeles neighborhood of Woodland Hills, the…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our survey of VCs in Warsaw will capture how the city is faring, and what changes are being wrought amongst investors by the coronavirus pandemic. We’d like to k…*
       
-  - Samsung will reportedly test remote work program as South Korea copes with new COVID-19 cases
+  - Warby Parker, valued at $3 billion, raises $245 million in funding
       <hr/>
       
-      - *Samsung Electronics will reportedly begin trialing a work-from-home program for some employees next month as South Korea as the country deals with its largest increase in COVID-19 cases since March. According to Reuters, a company official said the pilot prog…*
+      - *Warby Parker, the optical ecommerce giant, has today announced the close of a $245 million funding round from D1 Capital Partners, Durable Capital Partners, T. Rowe Price, and Baillie Gifford. A source familiar with the company’s finances confirmed to TechCru…*
       
-  - Fairphone's new flagship, the 3+, costs just €70 as a modular upgrade
+  - Amazon debuts Halo smart health subscription service and Halo Band wearable activity tracker
       <hr/>
       
-      - *Dutch social enterprise, Fairphone, has moved a little closer to the sustainability dream of a circular economy by announcing the launch of a modular upgrade for its flagship smartphone. The backwards compatible hardware units mean users of last year’s Fairph…*
+      - *Amazon has introduced an entirely new membership program called Halo today that aims to provide comprehensive personal health and wellness monitoring and advice. The Halo service, which is opening to early access by special request today, includes both the se…*
        
-  - Passion Capital has backed Fronted, the startup that wants to offers loans to cover rent deposits
+  - Christopher Ward's C1 Moonglow moonphase automatic watch is perfect for space lovers
       <hr/>
        
-       - *Fronted, the new London-based startup aiming to make life easier for renters, including lending the cash needed for a deposit, has picked up seed investment from Passion Capital. The investment showed up in a recent regulatory filing for the company. The exac…*
+       - *The moonphase watch is a long-standing marvel of the analog watch industry – featuring a complication that allows it to accurately track the phases of the Moon across a long period (provided the watch remains wound). Christopher Ward’s C1 Moonglow ($1,995) is…*
       
 
 
