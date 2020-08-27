@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
