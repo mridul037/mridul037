@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+Debugging time increases as a square of the program’s size.
 
-~ Fred Brooks
+~ Chris Wenham
 <pre>
 
 </pre>
