@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
 ~ Fred Brooks
 <pre>
