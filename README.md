@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Simplicity is prerequisite for reliability.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Edsger W. Dijkstra
+~ James Gleick
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Simplicity is prerequisite for reliability.
 
 </pre>
 **Daily News**
-  - Daily Crunch: TikTok's CEO resigns
+  - Elon Musk confirms Tesla was target of foiled ransomware attack
      <hr/>
      
-      - *Turmoil continues at TikTok, Salesforce lays off 1,000 people and Warby Parker is now valued at $3 billion. This is your Daily Crunch for August 27, 2020. The big story: TikTok’s CEO resigns Kevin Mayer, the former Disney executive who joined TikTok as CEO ju…*
+      - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
      
+  - Daily Crunch: TikTok's CEO resigns
+      <hr/>
+      
+      - *Turmoil continues at TikTok, Salesforce lays off 1,000 people and Warby Parker is now valued at $3 billion. This is your Daily Crunch for August 27, 2020. The big story: TikTok’s CEO resigns Kevin Mayer, the former Disney executive who joined TikTok as CEO ju…*
+      
   - LG is releasing a ‘wearable air purifier’
       <hr/>
       
@@ -81,16 +86,11 @@ Simplicity is prerequisite for reliability.
       <hr/>
       
       - *Shared electric moped startup Revel has resumed operations in New York City a month after shutting down its service following several deaths. The startup’s blue mopeds that had become a familiar sight in New York City are back, but with a number of new protoc…*
-      
+       
   - KitchenMate makes it easy to cook fresh meals at work
       <hr/>
-      
-      - *KitchenMate is a Toronto-based startup promising businesses a fresh approach to feeding their employees. The startup has raised $3.5 million in seed funding led by Eniac Ventures and Golden Ventures, with participation from FJ Labs and Techstars. It’s also ex…*
        
-  - Box benefits from digital transformation as it raises its growth forecast
-      <hr/>
-       
-       - *Box has always been a bit of an enigma for Wall Street and perhaps for enterprise software in general. Unlike vendors who shifted tools like HR, CRM or ERP to the cloud, Box has been building a way to manage content in the cloud. It’s been a little harder to …*
+       - *KitchenMate is a Toronto-based startup promising businesses a fresh approach to feeding their employees. The startup has raised $3.5 million in seed funding led by Eniac Ventures and Golden Ventures, with participation from FJ Labs and Techstars. It’s also ex…*
       
 
 
