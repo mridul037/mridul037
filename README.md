@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+Within a computer, natural language is unnatural.
 
-~ Richard E. Pattis
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When debugging, novices insert corrective code; experts remove defective code.
 
 </pre>
 **Daily News**
-  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
+  - Banks aren't as stupid as enterprise AI and fintech entrepreneurs think
      <hr/>
      
-      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
+      - *The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.*
      
+  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
+      <hr/>
+      
+      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
+      
   - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
       <hr/>
       
@@ -81,16 +86,11 @@ When debugging, novices insert corrective code; experts remove defective code.
       <hr/>
       
       - *For Marco Lai, the founder of Chinese podcast network Lizhi, radio has always been social. Twenty years ago, the entrepreneur was a host at a radio station in southern China. He ran a late-night program where listeners could call in and chat about anything as…*
-      
+       
   - Hear from Lyft, Cruise, Nuro and Aurora about the road ahead for driverless vehicles
       <hr/>
-      
-      - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
        
-  - What does GPT-3 mean for the future of the legal profession?
-      <hr/>
-       
-       - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
+       - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
       
 
 
