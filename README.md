@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+If you think your users are idiots, only idiots will use it.
 
-~ Ken Thompson
+~ Linus Torvalds
 <pre>
 
 </pre>
