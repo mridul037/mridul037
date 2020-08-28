@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Jim Coplien
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ You should name a variable using the same care with which you name a first-born 
 
 </pre>
 **Daily News**
-  - TikTok's rivals in India struggle to cash in on its ban
+  - Apple terminates Epic Games' App Store account
      <hr/>
      
-      - *For years, India has served as the largest open battleground for Silicon Valley and Chinese firms searching for their next billion users. With more than 400 million WhatsApp users, India is already the largest market for the Facebook-owned service. The social…*
+      - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
      
+  - IFA's executive director discusses why the tech show must go on
+      <hr/>
+      
+      - *In June, the CTA announced that CES 2021 would go forward in-person. The event was set to have slipped under the wire — having narrowly avoided a COVID-19-related shutdown two years in a row. A month later, however, its organizers reversed course, announcing …*
+      
+  - TikTok's rivals in India struggle to cash in on its ban
+      <hr/>
+      
+      - *For years, India has served as the largest open battleground for Silicon Valley and Chinese firms searching for their next billion users. With more than 400 million WhatsApp users, India is already the largest market for the Facebook-owned service. The social…*
+      
   - Steno raises $3.5 million led by First Round to become an extension of law offices
       <hr/>
       
       - *The global legal services industry was worth $849 billion dollars in 2017 and is expected to become a trillion dollar industry by the end of next year. Little wonder that Steno, an L.A.-based startup, wants a piece. Like most legal services outfits, what it o…*
-      
+       
   - Human Capital: 'People were afraid of being critical with me'
       <hr/>
-      
-      - *Welcome back to Human Capital, where we break down the latest in labor, and diversity and inclusion in tech. This week, we’re looking at the launch of the Diversity Riders initiative in venture capital and how it can go further, Instacart’s labor practices an…*
-      
-  - Watch Elon Musk's Neuralink brain computer interface progress update live
-      <hr/>
-      
-      - *Elon Musk is set to deliver a progress update for Neuralink, the company and technology he founded that aims to create a direct, ultra-low latency connection between our brains and our computers. The update will kick off at 3 PM PT (6 PM ET), and will be stre…*
        
-  - Banks aren't as stupid as enterprise AI and fintech entrepreneurs think
-      <hr/>
-       
-       - *The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.*
+       - *Welcome back to Human Capital, where we break down the latest in labor, and diversity and inclusion in tech. This week, we’re looking at the launch of the Diversity Riders initiative in venture capital and how it can go further, Instacart’s labor practices an…*
       
 
 
