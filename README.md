@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 
-~ Harlan Mills
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 
 </pre>
 **Daily News**
-  - Femtech poised for growth beyond fertility
+  - SaaS stocks survive earnings, keeping the market warm for software startups, exits
      <hr/>
      
-      - *The market for female-focused health products (aka ‘femtech’) is set for growth via segmentation, per an analyst note from PitchBook which identifies opportunities for entrepreneurs to target a growing number of health issues that specifically affect women or…*
+      - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
      
+  - Android security bug let malicious apps siphon off private user data
+      <hr/>
+      
+      - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
+      
+  - Femtech poised for growth beyond fertility
+      <hr/>
+      
+      - *The market for female-focused health products (aka ‘femtech’) is set for growth via segmentation, per an analyst note from PitchBook which identifies opportunities for entrepreneurs to target a growing number of health issues that specifically affect women or…*
+      
   - Railsbank is buying Wirecard Card Solutions, the UK arm of the disgraced fintech
       <hr/>
       
       - *Looks like another chapter is opening up for Wirecard, the disgraced fintech out of Germany that collapsed into insolvency earlier this year after facing a huge accounting scandal and subsequently failing to make payments on $1.5 billion in loans coming due. …*
-      
+       
   - Undermyfork scores $400K seed for its diabetes tracking app and US launch
       <hr/>
-      
-      - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
-      
-  - Presenting TechCrunch Disrupt's Asia sessions
-      <hr/>
-      
-      - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
        
-  - Elon Musk confirms Tesla was target of foiled ransomware attack
-      <hr/>
-       
-       - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
+       - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
       
 
 
