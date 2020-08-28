@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 
-~ Mark Gibbs
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
