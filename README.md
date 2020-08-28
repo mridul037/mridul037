@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-~ Robert C. Martin
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The ratio of time spent reading versus writing is well over 10 to 1. We are cons
 
 </pre>
 **Daily News**
-  - Presenting TechCrunch Disrupt's Asia sessions
+  - Undermyfork scores $400K seed for its diabetes tracking app and US launch
      <hr/>
      
-      - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
+      - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
      
+  - Presenting TechCrunch Disrupt's Asia sessions
+      <hr/>
+      
+      - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
+      
   - Elon Musk confirms Tesla was target of foiled ransomware attack
       <hr/>
       
@@ -81,16 +86,11 @@ The ratio of time spent reading versus writing is well over 10 to 1. We are cons
       <hr/>
       
       - *Turmoil continues at TikTok, Salesforce lays off 1,000 people and Warby Parker is now valued at $3 billion. This is your Daily Crunch for August 27, 2020. The big story: TikTok’s CEO resigns Kevin Mayer, the former Disney executive who joined TikTok as CEO ju…*
-      
+       
   - LG is releasing a ‘wearable air purifier’
       <hr/>
-      
-      - *Frankly, the most surprising thing about the PuriCare is that more tech companies haven’t launched a similar product in recent months. LG is showing it off as part of the upcoming IFA press conference in Berlin — though the company is opting for a virtual pre…*
        
-  - Electric moped startup Revel returns to New York with helmet selfie, other in-app safety features
-      <hr/>
-       
-       - *Shared electric moped startup Revel has resumed operations in New York City a month after shutting down its service following several deaths. The startup’s blue mopeds that had become a familiar sight in New York City are back, but with a number of new protoc…*
+       - *Frankly, the most surprising thing about the PuriCare is that more tech companies haven’t launched a similar product in recent months. LG is showing it off as part of the upcoming IFA press conference in Berlin — though the company is opting for a virtual pre…*
       
 
 
