@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 
-~ Bill Gates
+~ Michael Hawley
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We're no longer in the days where everything is super well crafted. But at the h
 
 </pre>
 **Daily News**
-  - SaaS stocks survive earnings, keeping the market warm for software startups, exits
+  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
      <hr/>
      
-      - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
+      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
      
+  - Facebook tests linking your FB account to your news subscriptions
+      <hr/>
+      
+      - *Facebook is testing out a new feature that could help news publishers create a better experience for paying subscribers on the social network. The idea is that when Facebook identifies a subscriber from one of its publisher partners, that subscriber will be i…*
+      
+  - Xiaomi plans to bring under-screen cameras to its smartphones next year
+      <hr/>
+      
+      - *The front-facing camera has been a pretty constant bugbear for phone makers for a number of years now. Xiaomi certainly isn’t the first to offer a clever technological solution to the problem — and it’s also certainly not the only company to have show off und…*
+      
+  - SaaS stocks survive earnings, keeping the market warm for software startups, exits
+      <hr/>
+      
+      - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
+       
   - Android security bug let malicious apps siphon off private user data
       <hr/>
-      
-      - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
-      
-  - Femtech poised for growth beyond fertility
-      <hr/>
-      
-      - *The market for female-focused health products (aka ‘femtech’) is set for growth via segmentation, per an analyst note from PitchBook which identifies opportunities for entrepreneurs to target a growing number of health issues that specifically affect women or…*
-      
-  - Railsbank is buying Wirecard Card Solutions, the UK arm of the disgraced fintech
-      <hr/>
-      
-      - *Looks like another chapter is opening up for Wirecard, the disgraced fintech out of Germany that collapsed into insolvency earlier this year after facing a huge accounting scandal and subsequently failing to make payments on $1.5 billion in loans coming due. …*
        
-  - Undermyfork scores $400K seed for its diabetes tracking app and US launch
-      <hr/>
-       
-       - *Undermyfork, a diabetes tracking app designed to help people with the disease improve “time-in-range” and better manage their condition, has raised $400,000 in seed funding. Investment comes from AltaIR Capital and Runa Capital . Undermyfork co-founder Mike U…*
+       - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
       
 
 
