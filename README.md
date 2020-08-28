@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you think your users are idiots, only idiots will use it.
+The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 
-~ Linus Torvalds
+~ Robert C. Martin
 <pre>
 
 </pre>
