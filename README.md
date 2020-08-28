@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Within a computer, natural language is unnatural.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Alan Perlis
+~ Jim Coplien
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Within a computer, natural language is unnatural.
 
 </pre>
 **Daily News**
-  - Banks aren't as stupid as enterprise AI and fintech entrepreneurs think
+  - TikTok's rivals in India struggle to cash in on its ban
      <hr/>
      
-      - *The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.*
+      - *For years, India has served as the largest open battleground for Silicon Valley and Chinese firms searching for their next billion users. With more than 400 million WhatsApp users, India is already the largest market for the Facebook-owned service. The social…*
      
-  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
+  - Steno raises $3.5 million led by First Round to become an extension of law offices
       <hr/>
       
-      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
+      - *The global legal services industry was worth $849 billion dollars in 2017 and is expected to become a trillion dollar industry by the end of next year. Little wonder that Steno, an L.A.-based startup, wants a piece. Like most legal services outfits, what it o…*
       
-  - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
+  - Human Capital: 'People were afraid of being critical with me'
       <hr/>
       
-      - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
+      - *Welcome back to Human Capital, where we break down the latest in labor, and diversity and inclusion in tech. This week, we’re looking at the launch of the Diversity Riders initiative in venture capital and how it can go further, Instacart’s labor practices an…*
       
-  - Podcast is social: How China's Lizhi makes audio interactive
+  - Watch Elon Musk's Neuralink brain computer interface progress update live
       <hr/>
       
-      - *For Marco Lai, the founder of Chinese podcast network Lizhi, radio has always been social. Twenty years ago, the entrepreneur was a host at a radio station in southern China. He ran a late-night program where listeners could call in and chat about anything as…*
+      - *Elon Musk is set to deliver a progress update for Neuralink, the company and technology he founded that aims to create a direct, ultra-low latency connection between our brains and our computers. The update will kick off at 3 PM PT (6 PM ET), and will be stre…*
        
-  - Hear from Lyft, Cruise, Nuro and Aurora about the road ahead for driverless vehicles
+  - Banks aren't as stupid as enterprise AI and fintech entrepreneurs think
       <hr/>
        
-       - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
+       - *The right question is almost never whether to buy software or build it internally. Instead, banks have often worked to walk the difficult but smarter path right down the middle.*
       
 
 
