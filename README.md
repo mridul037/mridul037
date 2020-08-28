@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Edsger W. Dijkstra
+~ Mario Fusco
 <pre>
 
 </pre>
