@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ James Gleick
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Computer programs are the most intricate, delicately balanced and finely interwo
 
 </pre>
 **Daily News**
-  - Elon Musk confirms Tesla was target of foiled ransomware attack
+  - Presenting TechCrunch Disrupt's Asia sessions
      <hr/>
      
-      - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
+      - *As you know by now, Disrupt is going completely virtual for its 10th anniversary. TechCrunch’s Asia team (me, Rita Liao and Manish Singh) will miss seeing everyone in Moscone Center, but this will be the most accessible Disrupt ever, and we are excited to bri…*
      
+  - Elon Musk confirms Tesla was target of foiled ransomware attack
+      <hr/>
+      
+      - *Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada. The Justice Department released a complaint Thursday that described …*
+      
   - Daily Crunch: TikTok's CEO resigns
       <hr/>
       
@@ -81,16 +86,11 @@ Computer programs are the most intricate, delicately balanced and finely interwo
       <hr/>
       
       - *Frankly, the most surprising thing about the PuriCare is that more tech companies haven’t launched a similar product in recent months. LG is showing it off as part of the upcoming IFA press conference in Berlin — though the company is opting for a virtual pre…*
-      
+       
   - Electric moped startup Revel returns to New York with helmet selfie, other in-app safety features
       <hr/>
-      
-      - *Shared electric moped startup Revel has resumed operations in New York City a month after shutting down its service following several deaths. The startup’s blue mopeds that had become a familiar sight in New York City are back, but with a number of new protoc…*
        
-  - KitchenMate makes it easy to cook fresh meals at work
-      <hr/>
-       
-       - *KitchenMate is a Toronto-based startup promising businesses a fresh approach to feeding their employees. The startup has raised $3.5 million in seed funding led by Eniac Ventures and Golden Ventures, with participation from FJ Labs and Techstars. It’s also ex…*
+       - *Shared electric moped startup Revel has resumed operations in New York City a month after shutting down its service following several deaths. The startup’s blue mopeds that had become a familiar sight in New York City are back, but with a number of new protoc…*
       
 
 
