@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Douglas Crockford
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Don't worry about anything. Just do what you can and be the best you can be.
 
 </pre>
 **Daily News**
-  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
+  - Podcast is social: How China's Lizhi makes audio interactive
      <hr/>
      
-      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
+      - *For Marco Lai, the founder of Chinese podcast network Lizhi, radio has always been social. Twenty years ago, the entrepreneur was a host at a radio station in southern China. He ran a late-night program where listeners could call in and chat about anything as…*
      
+  - Hear from Lyft, Cruise, Nuro and Aurora about the road ahead for driverless vehicles
+      <hr/>
+      
+      - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
+      
+  - What does GPT-3 mean for the future of the legal profession?
+      <hr/>
+      
+      - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
+      
+  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
+      <hr/>
+      
+      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
+       
   - Facebook tests linking your FB account to your news subscriptions
       <hr/>
-      
-      - *Facebook is testing out a new feature that could help news publishers create a better experience for paying subscribers on the social network. The idea is that when Facebook identifies a subscriber from one of its publisher partners, that subscriber will be i…*
-      
-  - Xiaomi plans to bring under-screen cameras to its smartphones next year
-      <hr/>
-      
-      - *The front-facing camera has been a pretty constant bugbear for phone makers for a number of years now. Xiaomi certainly isn’t the first to offer a clever technological solution to the problem — and it’s also certainly not the only company to have show off und…*
-      
-  - SaaS stocks survive earnings, keeping the market warm for software startups, exits
-      <hr/>
-      
-      - *We’re on the other end of nearly every single SaaS earnings report that you can name, with the exception of Slack, and shares of software companies are holding onto their year’s gains. Which means SaaS and cloud companies have made it through a somewhat steep…*
        
-  - Android security bug let malicious apps siphon off private user data
-      <hr/>
-       
-       - *The bug, now fixed, could be abused to steal sensitive and private data from other apps.*
+       - *Facebook is testing out a new feature that could help news publishers create a better experience for paying subscribers on the social network. The idea is that when Facebook identifies a subscriber from one of its publisher partners, that subscriber will be i…*
       
 
 
