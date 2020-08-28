@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ George Boole
+~ Richard E. Pattis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ That language is an instrument of human reason, and not merely a medium for the 
 
 </pre>
 **Daily News**
-  - Podcast is social: How China's Lizhi makes audio interactive
+  - Boeing and NASA target December for second try at uncrewed orbital demonstration flight
      <hr/>
      
-      - *For Marco Lai, the founder of Chinese podcast network Lizhi, radio has always been social. Twenty years ago, the entrepreneur was a host at a radio station in southern China. He ran a late-night program where listeners could call in and chat about anything as…*
+      - *NASA and Boeing have provided some updates around their Commercial Crew plans, which aim to get Boeing’s CST-100 spacecraft certified for regular human flight. The CST-100 and Boeing’s Commercial Crew aspirations hit a snag last year with a first attempt of a…*
      
+  - GM shifts Corvette engineering team to its electric and autonomous vehicle programs
+      <hr/>
+      
+      - *GM is moving the engineering team responsible for the mid-engine Chevrolet Corvette to the company’s electric and autonomous vehicle programs to “push the boundaries” on what its future EV battery systems and components can deliver, according to an internal m…*
+      
+  - Podcast is social: How China's Lizhi makes audio interactive
+      <hr/>
+      
+      - *For Marco Lai, the founder of Chinese podcast network Lizhi, radio has always been social. Twenty years ago, the entrepreneur was a host at a radio station in southern China. He ran a late-night program where listeners could call in and chat about anything as…*
+      
   - Hear from Lyft, Cruise, Nuro and Aurora about the road ahead for driverless vehicles
       <hr/>
       
       - *Autonomous vehicles have yet to become mainstream, but companies like Lyft, Cruise, Nuro and Aurora are still fighting the good fight. The AV space has always faced its share of regulatory and development hurdles, but this year brought a new set of hurdles wi…*
-      
+       
   - What does GPT-3 mean for the future of the legal profession?
       <hr/>
-      
-      - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
-      
-  - Laura Deming, Frederik Groce, Amish Jani, Jessica Verilli, and Vanessa Larco are coming to Disrupt
-      <hr/>
-      
-      - *At TechCrunch Disrupt, our Startup Battlefield competition this year looks to be fiercer than ever, judging by the applicants. That’s actually saying something, considering the game-changing brands to emerge from our stage over the years, including Cloudflare…*
        
-  - Facebook tests linking your FB account to your news subscriptions
-      <hr/>
-       
-       - *Facebook is testing out a new feature that could help news publishers create a better experience for paying subscribers on the social network. The idea is that when Facebook identifies a subscriber from one of its publisher partners, that subscriber will be i…*
+       - *GPT-3 provides some new tools in a legal department’s arsenal and will be focused on assessing practical, impactful solutions, hopefully making better legal organizations in the process.*
       
 
 
