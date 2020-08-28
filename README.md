@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Ward Cunningham
+~ Donald Knuth
 <pre>
 
 </pre>
