@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+I think programming is very much a religious experience for a lot of people.
 
-~ Alan Perlis
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It is easier to change the specification to fit the program than vice versa.
 
 </pre>
 **Daily News**
-  - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
+  - Reliable Robotics is bringing remote piloting to small cargo planes
      <hr/>
      
-      - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
+      - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
      
+  - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
+      <hr/>
+      
+      - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
+      
   - A must-see conversation on the state of VC, this year at Disrupt
       <hr/>
       
@@ -81,16 +86,11 @@ It is easier to change the specification to fit the program than vice versa.
       <hr/>
       
       - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
-      
+       
   - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
       <hr/>
-      
-      - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
        
-  - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
-      <hr/>
-       
-       - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
+       - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
       
 
 
