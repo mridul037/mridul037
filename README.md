@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I care not only what the code says but how it looks.
+Documentation is a love letter that you write to your future self.
 
-~ Peter Roizen
+~ Damian Conway
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I care not only what the code says but how it looks.
 
 </pre>
 **Daily News**
-  - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
+  - A must-see conversation on the state of VC, this year at Disrupt
      <hr/>
      
-      - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
+      - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
      
+  - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
+      <hr/>
+      
+      - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
+      
   - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
       <hr/>
       
@@ -81,16 +86,11 @@ I care not only what the code says but how it looks.
       <hr/>
       
       - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
-      
+       
   - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
       <hr/>
-      
-      - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
        
-  - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
-      <hr/>
-       
-       - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
+       - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
       
 
 
