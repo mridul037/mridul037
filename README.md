@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Charles Babbage
+~ Douglas Crockford
 <pre>
 
 </pre>
