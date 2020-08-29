@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 
-~ Daniel T. Barry
+~ L. Peter Deutsch
 <pre>
 
 </pre>
