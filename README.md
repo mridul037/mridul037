@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only sin is to make a choice without knowing you are making one.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ Jonathan Shewchuk
+~ Richard E. Pattis
 <pre>
 
 </pre>
