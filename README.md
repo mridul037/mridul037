@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-~ Richard Stallman
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of u
 
 </pre>
 **Daily News**
-  - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
+  - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
      <hr/>
      
-      - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
+      - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
      
+  - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
+      <hr/>
+      
+      - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
+      
   - Take a closer look at Elon Musk's Neuralink surgical robot
       <hr/>
       
@@ -81,16 +86,11 @@ In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of u
       <hr/>
       
       - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
-      
+       
   - Apple terminates Epic Games' App Store account
       <hr/>
-      
-      - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
        
-  - IFA's executive director discusses why the tech show must go on
-      <hr/>
-       
-       - *In June, the CTA announced that CES 2021 would go forward in-person. The event was set to have slipped under the wire — having narrowly avoided a COVID-19-related shutdown two years in a row. A month later, however, its organizers reversed course, announcing …*
+       - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
       
 
 
