@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+One of my most productive days was throwing away 1,000 lines of code.
 
-~ George Boole
+~ Ken Thompson
 <pre>
 
 </pre>
