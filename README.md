@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+The only sin is to make a choice without knowing you are making one.
 
-~ Bjarne Stroustrup
+~ Jonathan Shewchuk
 <pre>
 
 </pre>
