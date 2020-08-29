@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 
-~ Steve Jobs
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
