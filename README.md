@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+It is easier to change the specification to fit the program than vice versa.
 
-~ Damian Conway
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Documentation is a love letter that you write to your future self.
 
 </pre>
 **Daily News**
-  - A must-see conversation on the state of VC, this year at Disrupt
+  - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
      <hr/>
      
-      - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
+      - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
      
+  - A must-see conversation on the state of VC, this year at Disrupt
+      <hr/>
+      
+      - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
+      
   - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
       <hr/>
       
@@ -81,16 +86,11 @@ Documentation is a love letter that you write to your future self.
       <hr/>
       
       - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
-      
+       
   - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
       <hr/>
-      
-      - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
        
-  - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
-      <hr/>
-       
-       - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
+       - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
       
 
 
