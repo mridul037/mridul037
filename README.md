@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 
-~ Richard E. Pattis
+~ Charles Babbage
 <pre>
 
 </pre>
