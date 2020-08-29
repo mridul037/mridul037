@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-For most software, efficiency just does not matter.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Daniel T. Barry
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ For most software, efficiency just does not matter.
 
 </pre>
 **Daily News**
-  - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
+  - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
      <hr/>
      
-      - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
+      - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
      
+  - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
+      <hr/>
+      
+      - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
+      
   - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
       <hr/>
       
@@ -81,16 +86,11 @@ For most software, efficiency just does not matter.
       <hr/>
       
       - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
-      
+       
   - Take a closer look at Elon Musk's Neuralink surgical robot
       <hr/>
-      
-      - *While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot l…*
        
-  - Daily Crunch: Tesla targeted in ransomware attack
-      <hr/>
-       
-       - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
+       - *While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot l…*
       
 
 
