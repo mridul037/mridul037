@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think programming is very much a religious experience for a lot of people.
+Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 
-~ Gary Kildall
+~ John Carmack
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I think programming is very much a religious experience for a lot of people.
 
 </pre>
 **Daily News**
-  - Reliable Robotics is bringing remote piloting to small cargo planes
+  - The week’s biggest IPO news had nothing to do with Monday’s S-1 deluge
      <hr/>
      
-      - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. (You can sign up for the newsletter here!) Ready? Let’s talk m…*
      
+  - Reliable Robotics is bringing remote piloting to small cargo planes
+      <hr/>
+      
+      - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
+      
   - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
       <hr/>
       
@@ -81,16 +86,11 @@ I think programming is very much a religious experience for a lot of people.
       <hr/>
       
       - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
-      
+       
   - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
       <hr/>
-      
-      - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
        
-  - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
-      <hr/>
-       
-       - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
+       - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
       
 
 
