@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+Simplicity does not precede complexity, but follows it.
 
-~ L. Peter Deutsch
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I would make a strong case that programming languages have not improved qualitat
 
 </pre>
 **Daily News**
-  - Daily Crunch: Tesla targeted in ransomware attack
+  - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
      <hr/>
      
-      - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
+      - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
      
+  - Take a closer look at Elon Musk's Neuralink surgical robot
+      <hr/>
+      
+      - *While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot l…*
+      
+  - Daily Crunch: Tesla targeted in ransomware attack
+      <hr/>
+      
+      - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
+      
   - Apple terminates Epic Games' App Store account
       <hr/>
       
       - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
-      
+       
   - IFA's executive director discusses why the tech show must go on
       <hr/>
-      
-      - *In June, the CTA announced that CES 2021 would go forward in-person. The event was set to have slipped under the wire — having narrowly avoided a COVID-19-related shutdown two years in a row. A month later, however, its organizers reversed course, announcing …*
-      
-  - TikTok's rivals in India struggle to cash in on its ban
-      <hr/>
-      
-      - *For years, India has served as the largest open battleground for Silicon Valley and Chinese firms searching for their next billion users. With more than 400 million WhatsApp users, India is already the largest market for the Facebook-owned service. The social…*
        
-  - Steno raises $3.5 million led by First Round to become an extension of law offices
-      <hr/>
-       
-       - *The global legal services industry was worth $849 billion dollars in 2017 and is expected to become a trillion dollar industry by the end of next year. Little wonder that Steno, an L.A.-based startup, wants a piece. Like most legal services outfits, what it o…*
+       - *In June, the CTA announced that CES 2021 would go forward in-person. The event was set to have slipped under the wire — having narrowly avoided a COVID-19-related shutdown two years in a row. A month later, however, its organizers reversed course, announcing …*
       
 
 
