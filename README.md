@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ Danny Hillis
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
