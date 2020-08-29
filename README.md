@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+I care not only what the code says but how it looks.
 
-~ Tom DeMarco
+~ Peter Roizen
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The manager's function is not to make people work, but to make it possible for p
 
 </pre>
 **Daily News**
-  - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
+  - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
      <hr/>
      
-      - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
+      - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
      
+  - This Week in Apps: Unreal Engine saved, Fortnite banned and TikTok talks to everyone
+      <hr/>
+      
+      - *This week, two big stories dominated the news: Apple's fight with Fortnite maker Epic Games and TikTok's negotiations with top U.S. tech firms over a sale.*
+      
   - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
       <hr/>
       
@@ -81,16 +86,11 @@ The manager's function is not to make people work, but to make it possible for p
       <hr/>
       
       - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
-      
+       
   - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
       <hr/>
-      
-      - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
        
-  - Take a closer look at Elon Musk's Neuralink surgical robot
-      <hr/>
-       
-       - *While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot l…*
+       - *Elon Musk -founded Neuralink has made headlines over the past many years around it efforts to develop a new kind of interface between the human brain and computing devices. On Friday, the company provided a demo of the technology, and Musk kicked off the demo…*
       
 
 
