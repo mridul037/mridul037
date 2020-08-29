@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+For most software, efficiency just does not matter.
 
-~ Donald Knuth
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We should forget about small efficiencies, say about 97% of the time: premature 
 
 </pre>
 **Daily News**
-  - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
+  - Walmart-exclusive TrillerTok will run on Azure, or Oracle, or something
      <hr/>
      
-      - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
+      - *If you can’t keep up with the latest rumor mill on TikTok’s impending doom acquisition, my suggestion is simple: don’t. Or instead, enjoy it for what it is: one of the most absurd bakeoff deals in investment banking history. Walmart and its always low prices …*
      
+  - Original Content podcast: Netflix's 'High Score' is a selective tour through video game history
+      <hr/>
+      
+      - *“High Score” is a new Netflix documentary series that looks back at the early years of the video game industry. Across six episodes, key developers, artists, executives and even players discuss the initial arcade and home console boom, the emergence of Ninten…*
+      
   - Elon Musk demonstrates Neuralink's tech live using pigs with surgically-implanted brain monitoring devices
       <hr/>
       
@@ -81,16 +86,11 @@ We should forget about small efficiencies, say about 97% of the time: premature 
       <hr/>
       
       - *While the science was front-and-center in Elon Musk’s presentation about Neuralink, his human brain computer inference company, the surgical robot the company debuted made a splash of its own. The rounded polycarbonate sci-fi design of the brain surgeon bot l…*
-      
+       
   - Daily Crunch: Tesla targeted in ransomware attack
       <hr/>
-      
-      - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
        
-  - Apple terminates Epic Games' App Store account
-      <hr/>
-       
-       - *Epic Games has been removed from Apple’s App Store. If you’ve already downloaded Fortnite to your Mac or iOS device, it should still work, but Epic’s termination means the Fortnite developer will no longer be able to submit new apps or updates. MacStories Man…*
+       - *The Justice Department reveals a thwarted malware attack on Tesla, Facebook tests linking your news subscriptions to your social network account and Xiaomi has plans for under-screen cameras. This is your Daily Crunch for August 28, 2020. The big story: Tesla…*
       
 
 
