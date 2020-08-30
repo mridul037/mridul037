@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Kent Beck
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
