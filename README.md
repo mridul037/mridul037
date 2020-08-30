@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Anonymous
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
