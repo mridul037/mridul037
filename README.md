@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 
-~ Donald Knuth
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ My main conclusion after spending ten years of my life working on the TEX projec
 
 </pre>
 **Daily News**
-  - 10 Berlin-based VCs discuss how COVID-19 has changed the landscape
+  - The Station: Luminar takes the SPAC path and Voyage lifts the hood on its next-gen robotaxi
      <hr/>
      
-      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
      
+  - 10 Berlin-based VCs discuss how COVID-19 has changed the landscape
+      <hr/>
+      
+      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
+      
   - The week’s biggest IPO news had nothing to do with Monday’s S-1 deluge
       <hr/>
       
@@ -81,16 +86,11 @@ My main conclusion after spending ten years of my life working on the TEX projec
       <hr/>
       
       - *Nearly one year ago, a Cessna 172 Skyhawk stealthily made aviation history when it landed at a small airport in Northern California marking the completion of the first successful remote-piloted flight of a passenger airplane in the United States. The company …*
-      
+       
   - Startups Weekly: With Asana, JFrog, Palantir, Snowflake, Sumo and Unity, we're in peak season for tech IPOs
       <hr/>
-      
-      - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
        
-  - A must-see conversation on the state of VC, this year at Disrupt
-      <hr/>
-       
-       - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
+       - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
       
 
 
