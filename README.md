@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
 ~ Ted Nelson
 <pre>
