@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Unix is simple. It just takes a genius to understand its simplicity.
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 
-~ Dennis Ritchie
+~ Andy Hertzfeld
 <pre>
 
 </pre>
