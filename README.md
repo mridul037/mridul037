@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Within a computer, natural language is unnatural.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Alan Perlis
+~ Dennis Ritchie
 <pre>
 
 </pre>
