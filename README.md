@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Low-level programming is good for the programmer’s soul.
+Within a computer, natural language is unnatural.
 
-~ John Carmack
+~ Alan Perlis
 <pre>
 
 </pre>
