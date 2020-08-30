@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 
-~ Bjarne Stroustrup
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Maybe "just one little global variable" isn't too unmanageable, but that style l
 
 </pre>
 **Daily News**
-  - The week’s biggest IPO news had nothing to do with Monday’s S-1 deluge
+  - 10 Berlin-based VCs discuss how COVID-19 has changed the landscape
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. (You can sign up for the newsletter here!) Ready? Let’s talk m…*
+      - *A breeding ground for European entrepreneurs, Berlin has a knack for producing a lot of new startups: the city attracts top international, diverse talent, and it is packed with investors, events and accelerators. Also important: it’s a more affordable place t…*
      
+  - The week’s biggest IPO news had nothing to do with Monday’s S-1 deluge
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. (You can sign up for the newsletter here!) Ready? Let’s talk m…*
+      
   - Reliable Robotics is bringing remote piloting to small cargo planes
       <hr/>
       
@@ -81,16 +86,11 @@ Maybe "just one little global variable" isn't too unmanageable, but that style l
       <hr/>
       
       - *Pandemic numbers are looking better, it's still a couple months before US elections, and a growing line of tech companies have already ventured out into public markets successfully this summer.*
-      
+       
   - A must-see conversation on the state of VC, this year at Disrupt
       <hr/>
-      
-      - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
        
-  - India's Reliance Retail to acquire Future Group's retail, wholesale, and logistics businesses for $3.4 billion
-      <hr/>
-       
-       - *Reliance Retail, India’s largest retail chain, has found a much simpler way to expand its dominant position in the country: Acquire most of the second largest chain’s units. On Saturday evening (local Indian time), Reliance Retail said it has reached an agree…*
+       - *On a surface level, the world of venture capital doesn’t look to change much year to year. But in truth, the industry is very much in flux, with many firms grappling with a lack of diversity, dealing with succession questions, and confronting a growing pipeli…*
       
 
 
