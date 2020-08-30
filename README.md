@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ Steve Jobs
+~ Ted Nelson
 <pre>
 
 </pre>
