@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is no reason anyone would want a computer in their home.
+Low-level programming is good for the programmer’s soul.
 
-~ Ken Olsen
+~ John Carmack
 <pre>
 
 </pre>
