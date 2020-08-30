@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every time you improve process, work becomes harder.
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 
-~ Daniel T. Barry
+~ Steve Jobs
 <pre>
 
 </pre>
