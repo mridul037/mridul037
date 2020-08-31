@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
-~ David Wheeler (computer scientist)
+~ Terry Winograd
 <pre>
 
 </pre>
