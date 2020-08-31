@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Bjarne Stroustrup
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are only two kinds of languages: the ones people complain about and the on
 
 </pre>
 **Daily News**
-  - Amazon's Prime Air drone delivery fleet gains FAA approval for trial commercial flights
+  - Capchase raises $4.6M to deliver fast cash to SaaS companies
      <hr/>
      
-      - *Amazon has been granted an approval by the U.S. Federal Aviation Administration (FAA) that will allow it to start trialling commercial deliveries via drone, Bloomberg reports. This certification is the same one granted to UPS and a handful of other companies,…*
+      - *As a business model, SaaS has expanded to epic size. A number of major SaaS companies filed to go public last week, and there are now thousands of SaaS startups growing all around the world. That scale makes it easier for banks and financial institutions to o…*
      
+  - 5 days left to save on early bird passes to TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *TC Sessions: Mobility 2020 kicks off in 37 days, but the countdown clock on early-bird pricing runs out in just five. Engage with the mobility community’s brightest minds, makers, visionaries and investors from around the globe on October 6-7. Buy your early-…*
+      
+  - Frugal startups should pay attention to how JFrog's IPO prices
+      <hr/>
+      
+      - *In last week’s IPO wave, one company fell a bit by the wayside amongst filings from better-known companies like Asana and Palantir. JFrog, a company that TechCrunch reported helps allows developers and companies deliver application updates “in the background …*
+      
+  - Amazon's Prime Air drone delivery fleet gains FAA approval for trial commercial flights
+      <hr/>
+      
+      - *Amazon has been granted an approval by the U.S. Federal Aviation Administration (FAA) that will allow it to start trialling commercial deliveries via drone, Bloomberg reports. This certification is the same one granted to UPS and a handful of other companies,…*
+       
   - The New Paper offers a 'fact-first' news digest in text message form
       <hr/>
-      
-      - *Tired of signing up for email newsletters? Then maybe it’s time to try out The New Paper‘s news digest, which arrives in the form of a daily text message rounding up the biggest headlines. The Indianapolis-based startup is announcing that it’s leaving private…*
-      
-  - Facebook partially documents its content recommendation system
-      <hr/>
-      
-      - *Algorithmic recommendation systems on social media sites like YouTube, Facebook and Twitter, have shouldered much of the blame for the spread of misinformation, propaganda, hate speech, conspiracy theories and other harmful content. Facebook, in particular, h…*
-      
-  - Lenovo’s Smart Clock Essential is less smart by design
-      <hr/>
-      
-      - *The Smart Clock Essential really blurs smart display lines. Aesthetics aside, Lenovo’s news device probably has more in common with the Echo Dot with Clock than it does the company’s first generation Smart Clock. In fact, at $50, it’s actually $10 less expens…*
        
-  - Welcome to the most important panel on product development in the history of Disrupt
-      <hr/>
-       
-       - *In a few short weeks, some of the best product developers from some of the world’s most important tech companies will take to the virtual stage of our virtual Disrupt this September 14-18 to share all the tips and tricks they’ve learned over decades spent wor…*
+       - *Tired of signing up for email newsletters? Then maybe it’s time to try out The New Paper‘s news digest, which arrives in the form of a daily text message rounding up the biggest headlines. The Indianapolis-based startup is announcing that it’s leaving private…*
       
 
 
