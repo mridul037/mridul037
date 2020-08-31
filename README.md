@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 
-~ Eric S. Raymond
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Every good work of software starts by scratching a developer’s personal itch.
 
 </pre>
 **Daily News**
-  - Google launches Google Kids Space, a 'kids mode' feature for Android, initially on Lenovo tablets
+  - Lenovo’s Smart Clock Essential is less smart by design
      <hr/>
      
-      - *Streaming services have built-in kids’ profiles, so why not devices? Google today is responding to parents’ demand for a better way for their children to interact with technology with the launch of the new “Google Kids Space,” a dedicated kids mode on Android…*
+      - *The Smart Clock Essential really blurs smart display lines. Aesthetics aside, Lenovo’s news device probably has more in common with the Echo Dot with Clock than it does the company’s first generation Smart Clock. In fact, at $50, it’s actually $10 less expens…*
      
-  - Rocket Lab returns to flight with a successful launch of a Capella Space satellite
+  - Welcome to the most important panel on product development in the history of Disrupt
       <hr/>
       
-      - *Rocket Lab is back to active launch status after encountering an issue with its last mission that resulted in a loss of the payload. In just over a month, Rocket Lab was able to identify what went wrong with the Electron launch vehicle used on that mission an…*
+      - *In a few short weeks, some of the best product developers from some of the world’s most important tech companies will take to the virtual stage of our virtual Disrupt this September 14-18 to share all the tips and tricks they’ve learned over decades spent wor…*
       
-  - SpaceX successfully launches its first polar orbit mission from Florida
+  - Apple mistakenly approved a widely-used malware to run on Macs
       <hr/>
       
-      - *SpaceX performed a milestone first polar orbital launch of a satellite from its East Coast launch facility at Cape Canaveral on Sunday. The Falcon 9 mission carried three payloads, including a SAOCOM-1B synthetic aperture radar satellite which was flown on be…*
+      - *Researchers say they've found the first Mac malware 'notarized' by Apple.*
       
-  - Semalytix picks up €4.3M to build the world's largest patient experience data set
+  - Equity Monday: What if no one gets to buy TikTok?
       <hr/>
       
-      - *Semalytix, a Bielefeld, Germany-based startup that offers pharmaceutical companies an AI-powered data tool to better understand real-world patient experiences, has raised €4.3 million in Series A funding. Leading the round is venture capital firm btov Partner…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
        
-  - Now streaming on Netflix globally: Select original shows and movies to non-subscribers
+  - Google launches Google Kids Space, a 'kids mode' feature for Android, initially on Lenovo tablets
       <hr/>
        
-       - *Over the past year, Netflix has attempted to expand its appeal in part by making a title or two free to non-paying users in select markets. Now the American giant is extending this test to users across the globe — with a larger free catalog. The on-demand vid…*
+       - *Streaming services have built-in kids’ profiles, so why not devices? Google today is responding to parents’ demand for a better way for their children to interact with technology with the launch of the new “Google Kids Space,” a dedicated kids mode on Android…*
       
 
 
