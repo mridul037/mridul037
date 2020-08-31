@@ -67,30 +67,30 @@ The idea behind digital computers may be explained by saying that these machines
 
 </pre>
 **Daily News**
-  - Capchase raises $4.6M to deliver fast cash to SaaS companies
+  - There's a growing movement where startup founders look to exit to community
      <hr/>
      
-      - *As a business model, SaaS has expanded to epic size. A number of major SaaS companies filed to go public last week, and there are now thousands of SaaS startups growing all around the world. That scale makes it easier for banks and financial institutions to o…*
+      - *Traditional roadmaps for startups center around this idea of the exit. Oftentimes, the ideal exit in the minds of startups and venture capitalists goes one of two ways: IPO or acquisition by another company. But there are other ways for startups to exit that …*
      
+  - RealPage acquires real estate IoT startup Stratis
+      <hr/>
+      
+      - *RealPage, a publicly traded full-service property management technology firm with over 12,200 clients worldwide, today announced that it has acquired Stratis IoT,  a startup that provides IoT services to the real estate industry, with a focus on access and en…*
+      
+  - OfferUp and letgo combine marketplaces, post-acquisition
+      <hr/>
+      
+      - *Earlier this year, online marketplace OfferUp raised $120 million and acquired a top competitor, letgo as a part of the fundraise led by letgo’s majority investor, OLX Group. As a part of the deal, OfferUp said it planned to eventually combine the businesses’…*
+      
+  - Capchase raises $4.6M to deliver fast cash to SaaS companies
+      <hr/>
+      
+      - *As a business model, SaaS has expanded to epic size. A number of major SaaS companies filed to go public last week, and there are now thousands of SaaS startups growing all around the world. That scale makes it easier for banks and financial institutions to o…*
+       
   - 5 days left to save on early bird passes to TC Sessions: Mobility 2020
       <hr/>
-      
-      - *TC Sessions: Mobility 2020 kicks off in 37 days, but the countdown clock on early-bird pricing runs out in just five. Engage with the mobility community’s brightest minds, makers, visionaries and investors from around the globe on October 6-7. Buy your early-…*
-      
-  - Frugal startups should pay attention to how JFrog's IPO prices
-      <hr/>
-      
-      - *In last week’s IPO wave, one company fell a bit by the wayside amongst filings from better-known companies like Asana and Palantir. JFrog, a company that TechCrunch reported helps allows developers and companies deliver application updates “in the background …*
-      
-  - Amazon's Prime Air drone delivery fleet gains FAA approval for trial commercial flights
-      <hr/>
-      
-      - *Amazon has been granted an approval by the U.S. Federal Aviation Administration (FAA) that will allow it to start trialling commercial deliveries via drone, Bloomberg reports. This certification is the same one granted to UPS and a handful of other companies,…*
        
-  - The New Paper offers a 'fact-first' news digest in text message form
-      <hr/>
-       
-       - *Tired of signing up for email newsletters? Then maybe it’s time to try out The New Paper‘s news digest, which arrives in the form of a daily text message rounding up the biggest headlines. The Indianapolis-based startup is announcing that it’s leaving private…*
+       - *TC Sessions: Mobility 2020 kicks off in 37 days, but the countdown clock on early-bird pricing runs out in just five. Engage with the mobility community’s brightest minds, makers, visionaries and investors from around the globe on October 6-7. Buy your early-…*
       
 
 
