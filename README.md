@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
 
-~ John Carmack
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Story in a game is like a story in a porn movie. It's expected to be there, but 
 
 </pre>
 **Daily News**
-  - Now streaming on Netflix globally: Select original shows and movies to non-subscribers
+  - SpaceX successfully launches its first polar orbit mission from Florida
      <hr/>
      
-      - *Over the past year, Netflix has attempted to expand its appeal in part by making a title or two free to non-paying users in select markets. Now the American giant is extending this test to users across the globe — with a larger free catalog. The on-demand vid…*
+      - *SpaceX performed a milestone first polar orbital launch of a satellite from its East Coast launch facility at Cape Canaveral on Sunday. The Falcon 9 mission carried three payloads, including a SAOCOM-1B synthetic aperture radar satellite which was flown on be…*
      
+  - Semalytix picks up €4.3M to build the world's largest patient experience data set
+      <hr/>
+      
+      - *Semalytix, a Bielefeld, Germany-based startup that offers pharmaceutical companies an AI-powered data tool to better understand real-world patient experiences, has raised €4.3 million in Series A funding. Leading the round is venture capital firm btov Partner…*
+      
+  - Now streaming on Netflix globally: Select original shows and movies to non-subscribers
+      <hr/>
+      
+      - *Over the past year, Netflix has attempted to expand its appeal in part by making a title or two free to non-paying users in select markets. Now the American giant is extending this test to users across the globe — with a larger free catalog. The on-demand vid…*
+      
   - Chan Zuckerberg Initiative backs Indian education startup Eruditus in $113 million fundraise
       <hr/>
       
       - *Mumbai-based Eruditus, which works with top universities globally to offer more than 100 executive-level courses to students in over 80 nations, said on Monday it has raised $113 million in a new financing round as it looks to further scale its business to re…*
-      
+       
   - Some of the brightest minds in Europe are joining us at Disrupt
       <hr/>
-      
-      - *TechCrunch Disrupt is right around the corner. And this year, we’re trying something different — we’re taking Disrupt virtual. That’s why we’re excited to announce that we used this opportunity to invite a slate of incredible European speakers to join TechCru…*
-      
-  - TikTok parent ByteDance says it will 'strictly follow' China export controls
-      <hr/>
-      
-      - *While Beijing has repeatedly spoken out against Washington’s pressure on Huawei, it has remained relatively quiet amid TikTok’s recent struggles in the U.S. As the red-hot video app approaches a final sale in the U.S., however, the Chinese authority moved une…*
        
-  - Fashion brand SockSoho is using data science in a bid to become the "Uniqlo of India"
-      <hr/>
-       
-       - *SockSoho is a direct-to-consumer brand that aspires to become the “Uniqlo of India.” The company launched sales ten months ago, starting with men’s socks, and recently completed Y Combinator’s Summer 2020 program. Founded by Pritika Mehta, a data scientist wh…*
+       - *TechCrunch Disrupt is right around the corner. And this year, we’re trying something different — we’re taking Disrupt virtual. That’s why we’re excited to announce that we used this opportunity to invite a slate of incredible European speakers to join TechCru…*
       
 
 
