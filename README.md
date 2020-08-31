@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ Rick Osborne
+~ George Boole
 <pre>
 
 </pre>
