@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+Your most unhappy customers are your greatest source of learning.
 
-~ Ken Thompson
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I’ll throw away code as soon I want to add something to it and I get the feeli
 
 </pre>
 **Daily News**
-  - Decrypted: Tesla's ransomware near miss, Palantir's S-1 risk factors
+  - Reid Hoffman, Zynga's Mark Pincus aim to raise $600M for tech-focused SPAC
      <hr/>
      
-      - *This week's Decrypted looks at Palantir's risk factors ahead of its IPO.*
+      - *Reinvent Technology Partners, a new special purpose acquisition company formed by famed investor and serial entrepreneur Reid Hoffman, Zynga founder Mark Pincus and veteran hedge fund manager Michael Thompson, filed Monday for a $600 million initial public of…*
      
-  - Dorian raises $3.1M for its no-code, interactive storytelling platform
+  - Virtual Mobility startup pitch night applications open
       <hr/>
       
-      - *With Dorian, co-founder and CEO Julia Palatovska said she’s hoping to empower fiction writers and other storytellers to create their own games. The startup is announcing that it has raised $3.15 million in seed funding led by March Capital Partners, with part…*
+      - *TechCrunch is on the hunt to feature 10 early-stage mobility startups at our virtual TC Sessions: Mobility 2020 pitch night. The pitch-off event, originally set for May, will now be held October 5th – the evening before Mobility 2020.  The top five companies …*
       
-  - What pandemic? Inside Boston’s scorching VC summer
+  - Daily Crunch: Netflix sets some content free
       <hr/>
       
-      - *Filled with innovation labs, co-working spaces and students, Boston has a ton of entrepreneurial characteristics baked into its DNA. However, when the coronavirus swept through the country, the area’s startup scene was stress-tested as badly as other entrepre…*
+      - *Netflix tests a free promotional offering, Amazon’s drone delivery gets trial flight approval from the FAA and Neuralink shows off its human-brain tech. This is your Daily Crunch for August 31, 2020. The big story: Netflix sets some content free Netflix has t…*
       
-  - Apple will now allow developers stuck in App Store jail to push bug fixes to their apps
+  - PayPal joins the 'buy now, pay later' race with new 'Pay in 4' installment program
       <hr/>
       
-      - *Apple’s App Store policies have gotten quite a bit more attention in the past few months, and while it seems likely that Apple’s team will fight tooth and nail to avoid dismantling any of the core pillars of their Store economy, the company did announce a sma…*
+      - *PayPal today introduced a new installment credit option for PayPal users called “Pay in 4.” The name itself explains what the service offers — basically, it’s the ability for customers to pay for purchases, interest-free, over four separate payments. The serv…*
        
-  - In a post-NDA world, does transparency help founders identify conflicts of interest?
+  - Decrypted: Tesla's ransomware near miss, Palantir's S-1 risk factors
       <hr/>
        
-       - *Once upon a time, fintech founders could pitch 10 investors before closing a round in a relatively hushed way. Entrepreneurs could even ask VCs to sign nondisclosure agreements (NDAs) to keep their information confidential. Today, everyone is a fintech invest…*
+       - *This week's Decrypted looks at Palantir's risk factors ahead of its IPO.*
       
 
 
