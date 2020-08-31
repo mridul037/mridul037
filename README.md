@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, leave it out.
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 
-~ Joshua Bloch
+~ Andy Hertzfeld
 <pre>
 
 </pre>
