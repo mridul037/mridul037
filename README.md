@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Dealing with failure is easy: Work hard to improve.
+When in doubt, leave it out.
 
-~ Alan Perlis
+~ Joshua Bloch
 <pre>
 
 </pre>
