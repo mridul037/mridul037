@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ George Boole
+~ Tom Cargill
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There is not only a close analogy between the operations of the mind in general 
 
 </pre>
 **Daily News**
-  - On the matter of who was really behind @VCBrags
+  - Decrypted: Tesla's ransomware near miss, Palantir's S-1 risk factors
      <hr/>
      
-      - *TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.*
+      - *This week's Decrypted looks at Palantir's risk factors ahead of its IPO.*
      
-  - There's a growing movement where startup founders look to exit to community
+  - Dorian raises $3.1M for its no-code, interactive storytelling platform
       <hr/>
       
-      - *Traditional roadmaps for startups center around this idea of the exit. Oftentimes, the ideal exit in the minds of startups and venture capitalists goes one of two ways: IPO or acquisition by another company. But there are other ways for startups to exit that …*
+      - *With Dorian, co-founder and CEO Julia Palatovska said she’s hoping to empower fiction writers and other storytellers to create their own games. The startup is announcing that it has raised $3.15 million in seed funding led by March Capital Partners, with part…*
       
-  - RealPage acquires real estate IoT startup Stratis
+  - What pandemic? Inside Boston’s scorching VC summer
       <hr/>
       
-      - *RealPage, a publicly traded full-service property management technology firm with over 12,200 clients worldwide, today announced that it has acquired Stratis IoT,  a startup that provides IoT services to the real estate industry, with a focus on access and en…*
+      - *Filled with innovation labs, co-working spaces and students, Boston has a ton of entrepreneurial characteristics baked into its DNA. However, when the coronavirus swept through the country, the area’s startup scene was stress-tested as badly as other entrepre…*
       
-  - OfferUp and letgo combine marketplaces, post-acquisition
+  - Apple will now allow developers stuck in App Store jail to push bug fixes to their apps
       <hr/>
       
-      - *Earlier this year, online marketplace OfferUp raised $120 million and acquired a top competitor, letgo as a part of the fundraise led by letgo’s majority investor, OLX Group. As a part of the deal, OfferUp said it planned to eventually combine the businesses’…*
+      - *Apple’s App Store policies have gotten quite a bit more attention in the past few months, and while it seems likely that Apple’s team will fight tooth and nail to avoid dismantling any of the core pillars of their Store economy, the company did announce a sma…*
        
-  - Capchase raises $4.6M to deliver fast cash to SaaS companies
+  - In a post-NDA world, does transparency help founders identify conflicts of interest?
       <hr/>
        
-       - *As a business model, SaaS has expanded to epic size. A number of major SaaS companies filed to go public last week, and there are now thousands of SaaS startups growing all around the world. That scale makes it easier for banks and financial institutions to o…*
+       - *Once upon a time, fintech founders could pitch 10 investors before closing a round in a relatively hushed way. Entrepreneurs could even ask VCs to sign nondisclosure agreements (NDAs) to keep their information confidential. Today, everyone is a fintech invest…*
       
 
 
