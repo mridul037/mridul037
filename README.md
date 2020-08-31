@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ Alan Turing
+~ George Boole
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The idea behind digital computers may be explained by saying that these machines
 
 </pre>
 **Daily News**
-  - There's a growing movement where startup founders look to exit to community
+  - On the matter of who was really behind @VCBrags
      <hr/>
      
-      - *Traditional roadmaps for startups center around this idea of the exit. Oftentimes, the ideal exit in the minds of startups and venture capitalists goes one of two ways: IPO or acquisition by another company. But there are other ways for startups to exit that …*
+      - *TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.*
      
+  - There's a growing movement where startup founders look to exit to community
+      <hr/>
+      
+      - *Traditional roadmaps for startups center around this idea of the exit. Oftentimes, the ideal exit in the minds of startups and venture capitalists goes one of two ways: IPO or acquisition by another company. But there are other ways for startups to exit that …*
+      
   - RealPage acquires real estate IoT startup Stratis
       <hr/>
       
@@ -81,16 +86,11 @@ The idea behind digital computers may be explained by saying that these machines
       <hr/>
       
       - *Earlier this year, online marketplace OfferUp raised $120 million and acquired a top competitor, letgo as a part of the fundraise led by letgo’s majority investor, OLX Group. As a part of the deal, OfferUp said it planned to eventually combine the businesses’…*
-      
+       
   - Capchase raises $4.6M to deliver fast cash to SaaS companies
       <hr/>
-      
-      - *As a business model, SaaS has expanded to epic size. A number of major SaaS companies filed to go public last week, and there are now thousands of SaaS startups growing all around the world. That scale makes it easier for banks and financial institutions to o…*
        
-  - 5 days left to save on early bird passes to TC Sessions: Mobility 2020
-      <hr/>
-       
-       - *TC Sessions: Mobility 2020 kicks off in 37 days, but the countdown clock on early-bird pricing runs out in just five. Engage with the mobility community’s brightest minds, makers, visionaries and investors from around the globe on October 6-7. Buy your early-…*
+       - *As a business model, SaaS has expanded to epic size. A number of major SaaS companies filed to go public last week, and there are now thousands of SaaS startups growing all around the world. That scale makes it easier for banks and financial institutions to o…*
       
 
 
