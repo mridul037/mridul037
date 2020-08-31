@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Maurice Wilkes
+~ Friedrich Bauer
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ By June 1949 people had begun to realize that it was not so easy to get programs
 
 </pre>
 **Daily News**
-  - Some of the brightest minds in Europe are joining us at Disrupt
+  - Chan Zuckerberg Initiative backs Indian education startup Eruditus in $113 million fundraise
      <hr/>
      
-      - *TechCrunch Disrupt is right around the corner. And this year, we’re trying something different — we’re taking Disrupt virtual. That’s why we’re excited to announce that we used this opportunity to invite a slate of incredible European speakers to join TechCru…*
+      - *Mumbai-based Eruditus, which works with top universities globally to offer more than 100 executive-level courses to students in over 80 nations, said on Monday it has raised $113 million in a new financing round as it looks to further scale its business to re…*
      
+  - Some of the brightest minds in Europe are joining us at Disrupt
+      <hr/>
+      
+      - *TechCrunch Disrupt is right around the corner. And this year, we’re trying something different — we’re taking Disrupt virtual. That’s why we’re excited to announce that we used this opportunity to invite a slate of incredible European speakers to join TechCru…*
+      
   - TikTok parent ByteDance says it will 'strictly follow' China export controls
       <hr/>
       
@@ -81,16 +86,11 @@ By June 1949 people had begun to realize that it was not so easy to get programs
       <hr/>
       
       - *SockSoho is a direct-to-consumer brand that aspires to become the “Uniqlo of India.” The company launched sales ten months ago, starting with men’s socks, and recently completed Y Combinator’s Summer 2020 program. Founded by Pritika Mehta, a data scientist wh…*
-      
+       
   - Twitter flags Republican leader's video as 'manipulated' for altering disabled activist's words
       <hr/>
-      
-      - *Twitter flagged an inflammatory video by House Republican Whip Steve Scalise on Sunday for altering footage of a conversation between progressive activist Ady Barkan and Joe Biden. The video is now labeled as “manipulated media” in a tweet from Scalise, thoug…*
        
-  - The Station: Luminar takes the SPAC path and Voyage lifts the hood on its next-gen robotaxi
-      <hr/>
-       
-       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peo…*
+       - *Twitter flagged an inflammatory video by House Republican Whip Steve Scalise on Sunday for altering footage of a conversation between progressive activist Ady Barkan and Joe Biden. The video is now labeled as “manipulated media” in a tweet from Scalise, thoug…*
       
 
 
