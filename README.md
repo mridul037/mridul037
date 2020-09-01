@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Alan Perlis
+~ Doug Linder
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If you have a procedure with 10 parameters, you probably missed some.
 
 </pre>
 **Daily News**
-  - Reid Hoffman, Zynga's Mark Pincus aim to raise $600M for tech-focused SPAC
+  - Gillmor Gang: Platforming
      <hr/>
      
-      - *Reinvent Technology Partners, a new special purpose acquisition company formed by famed investor and serial entrepreneur Reid Hoffman, Zynga founder Mark Pincus and veteran hedge fund manager Michael Thompson, filed Monday for a $600 million initial public of…*
+      - *Much was made during the Republican Convention of the lack of a party platform. The media characterized this as a capitulation to the Cult of Trump phenomenon, but the questioned begged was: so what? If you’re running as a candidate to disrupt the status quo……*
      
+  - Reid Hoffman, Zynga's Mark Pincus aim to raise $600M for tech-focused SPAC
+      <hr/>
+      
+      - *Reinvent Technology Partners, a new special purpose acquisition company formed by famed investor and serial entrepreneur Reid Hoffman, Zynga founder Mark Pincus and veteran hedge fund manager Michael Thompson, filed Monday for a $600 million initial public of…*
+      
   - Virtual Mobility startup pitch night applications open
       <hr/>
       
@@ -81,16 +86,11 @@ If you have a procedure with 10 parameters, you probably missed some.
       <hr/>
       
       - *Netflix tests a free promotional offering, Amazon’s drone delivery gets trial flight approval from the FAA and Neuralink shows off its human-brain tech. This is your Daily Crunch for August 31, 2020. The big story: Netflix sets some content free Netflix has t…*
-      
+       
   - PayPal joins the 'buy now, pay later' race with new 'Pay in 4' installment program
       <hr/>
-      
-      - *PayPal today introduced a new installment credit option for PayPal users called “Pay in 4.” The name itself explains what the service offers — basically, it’s the ability for customers to pay for purchases, interest-free, over four separate payments. The serv…*
        
-  - Decrypted: Tesla's ransomware near miss, Palantir's S-1 risk factors
-      <hr/>
-       
-       - *This week's Decrypted looks at Palantir's risk factors ahead of its IPO.*
+       - *PayPal today introduced a new installment credit option for PayPal users called “Pay in 4.” The name itself explains what the service offers — basically, it’s the ability for customers to pay for purchases, interest-free, over four separate payments. The serv…*
       
 
 
