@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 
-~ Mark Gibbs
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ No matter how slick the demo is in rehearsal, when you do it in front of a live 
 
 </pre>
 **Daily News**
-  - Cosmose, a platform that analyzes foot traffic in physical stores, gets $15 million Series A
+  - Facebook threatens to block news sharing in Australia as it lobbies against revenue share law
      <hr/>
      
-      - *Cosmose, a platform that tracks foot traffic in brick-and-mortar stores to help companies predict customer behavior, announced today it has raised a $15 million Series A. The round was by Tiga Investments, with participation from returning investors OTB Ventu…*
+      - *Adtech giant and self-styled ‘free speech champion’, Facebook, has threatened to pull the plug on the public sharing of news content on Facebook and Instagram in Australia. The aggressive threat is Facebook’s attempt to lobby against a government plan that wi…*
      
+  - Cosmose, a platform that analyzes foot traffic in physical stores, gets $15 million Series A
+      <hr/>
+      
+      - *Cosmose, a platform that tracks foot traffic in brick-and-mortar stores to help companies predict customer behavior, announced today it has raised a $15 million Series A. The round was by Tiga Investments, with participation from returning investors OTB Ventu…*
+      
   - Apple alum's jobs app for India's workers secures $8 million
       <hr/>
       
@@ -81,16 +86,11 @@ No matter how slick the demo is in rehearsal, when you do it in front of a live 
       <hr/>
       
       - *This one is unusual: Laird Superfood, a five-year-old, 100-person, Sisters, Ore.-based startup that was cofounded by famed surfer Laird Hamilton and which makes plant-based packaged beverage products, filed today to raise up to $40 million in an IPO. We’d rep…*
-      
+       
   - Walmart+ launches Sept 15, offering same-day delivery, gas discounts and cashierless checkout for $98/yr
       <hr/>
-      
-      - *Walmart today officially unveiled its new membership service and Amazon Prime rival, which it’s calling “Walmart+.” The $98 per year service will combine free, unlimited same-day delivery on groceries and thousands of other items, with additional benefits, li…*
        
-  - Gillmor Gang: Platforming
-      <hr/>
-       
-       - *Much was made during the Republican Convention of the lack of a party platform. The media characterized this as a capitulation to the Cult of Trump phenomenon, but the questioned begged was: so what? If you’re running as a candidate to disrupt the status quo……*
+       - *Walmart today officially unveiled its new membership service and Amazon Prime rival, which it’s calling “Walmart+.” The $98 per year service will combine free, unlimited same-day delivery on groceries and thousands of other items, with additional benefits, li…*
       
 
 
