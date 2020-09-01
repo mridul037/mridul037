@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A good programmer is someone who looks both ways before crossing a one-way street.
+Life is too short to run proprietary software.
 
-~ Doug Linder
+~ Bdale Garbee
 <pre>
 
 </pre>
