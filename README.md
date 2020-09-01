@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Gerald Weinberg
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When program developers are not territorial about their code and encourage other
 
 </pre>
 **Daily News**
-  - Google's AI-powered flood alerts now cover all of India and parts of Bangladesh
+  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
      <hr/>
      
-      - *India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help. In 2018, the company began its fl…*
+      - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
      
+  - Google's AI-powered flood alerts now cover all of India and parts of Bangladesh
+      <hr/>
+      
+      - *India, the world’s second most populated nation, sees more than 20% of the global flood-related fatalities each year as overrun riverbanks sweep tens of thousands of homes with them. Two years ago, Google volunteered to help. In 2018, the company began its fl…*
+      
   - Google Cloud lets businesses create their own text-to-speech voices
       <hr/>
       
@@ -81,16 +86,11 @@ When program developers are not territorial about their code and encourage other
       <hr/>
       
       - *It was all supposed to be so different. When Rocket Internet IPO’d in 2014 it was the largest tech company floatation in Europe for 7 years. A year later it had lost $46m and it’s valuation had dropped by 30%. Since then the German start-up factory behind int…*
-      
+       
   - The startup world needs a 'Black Minds Matter' awakening
       <hr/>
-      
-      - *Guests on tech podcasts are a microcosm of what has been happening in the startup ecosystem: Black minds are undervalued and under-appreciated.*
        
-  - Movies Anywhere officially launches its digital movie-lending feature, 'Screen Pass'
-      <hr/>
-       
-       - *Digital locker service Movies Anywhere is today officially launching its movie-sharing feature dubbed “Screen Pass,” which lets you lend out one of your purchased movies to a friend or family member. The feature was rushed into beta testing this March, follow…*
+       - *Guests on tech podcasts are a microcosm of what has been happening in the startup ecosystem: Black minds are undervalued and under-appreciated.*
       
 
 
