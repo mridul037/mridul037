@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Never trust a computer you can’t throw out a window.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Steve Wozniak
+~ Friedrich Bauer
 <pre>
 
 </pre>
