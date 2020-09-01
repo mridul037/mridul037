@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Your most unhappy customers are your greatest source of learning.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Bill Gates
+~ Alan Perlis
 <pre>
 
 </pre>
