@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Life is too short to run proprietary software.
+I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 
-~ Bdale Garbee
+~ Poul Anderson
 <pre>
 
 </pre>
