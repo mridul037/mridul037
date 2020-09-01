@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+Never trust a computer you can’t throw out a window.
 
-~ Bill Gates
+~ Steve Wozniak
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A great programmer thinks about the program on a constant basis, whether driving
 
 </pre>
 **Daily News**
-  - Apple alum's jobs app for India's workers secures $8 million
+  - Cosmose, a platform that analyzes foot traffic in physical stores, gets $15 million Series A
      <hr/>
      
-      - *Javed, a middle-aged man, worked as a driver before losing that job earlier this year as coronavirus spread across India, prompting New Delhi to enforce a nationwide lockdown and temporarily curb several business activities. There are millions of people like …*
+      - *Cosmose, a platform that tracks foot traffic in brick-and-mortar stores to help companies predict customer behavior, announced today it has raised a $15 million Series A. The round was by Tiga Investments, with participation from returning investors OTB Ventu…*
      
+  - Apple alum's jobs app for India's workers secures $8 million
+      <hr/>
+      
+      - *Javed, a middle-aged man, worked as a driver before losing that job earlier this year as coronavirus spread across India, prompting New Delhi to enforce a nationwide lockdown and temporarily curb several business activities. There are millions of people like …*
+      
   - Everybody is racing to an IPO -- even Laird Hamilton's young "superfood" company
       <hr/>
       
@@ -81,16 +86,11 @@ A great programmer thinks about the program on a constant basis, whether driving
       <hr/>
       
       - *Walmart today officially unveiled its new membership service and Amazon Prime rival, which it’s calling “Walmart+.” The $98 per year service will combine free, unlimited same-day delivery on groceries and thousands of other items, with additional benefits, li…*
-      
+       
   - Gillmor Gang: Platforming
       <hr/>
-      
-      - *Much was made during the Republican Convention of the lack of a party platform. The media characterized this as a capitulation to the Cult of Trump phenomenon, but the questioned begged was: so what? If you’re running as a candidate to disrupt the status quo……*
        
-  - Reid Hoffman, Zynga's Mark Pincus aim to raise $600M for tech-focused SPAC
-      <hr/>
-       
-       - *Reinvent Technology Partners, a new special purpose acquisition company formed by famed investor and serial entrepreneur Reid Hoffman, Zynga founder Mark Pincus and veteran hedge fund manager Michael Thompson, filed Monday for a $600 million initial public of…*
+       - *Much was made during the Republican Convention of the lack of a party platform. The media characterized this as a capitulation to the Cult of Trump phenomenon, but the questioned begged was: so what? If you’re running as a candidate to disrupt the status quo……*
       
 
 
