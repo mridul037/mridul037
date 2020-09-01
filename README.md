@@ -67,30 +67,30 @@ Computer science differs from physics in that it is not actually a science. It d
 
 </pre>
 **Daily News**
-  - Fresh off $200M Series D, Gong acquires early stage startup Vayo
+  - The good and the less-good from Sumo Logic's updated IPO filing
      <hr/>
      
-      - *Gong announced a $200 million Series D investment just last month, and loaded with fresh cash, the company wasted no time taking advantage. Today, it announced it was buying early stage Isreali sales technology startup Vayo. The companies did not share terms …*
+      - *Sumo Logic filed an S-1/A this week, updating the world to its latest financial results ahead of its IPO pricing. Today, just over a week after we first looked at Sumo Logic’s recent financial performance when it filed its first S-1 document, let’s explore wh…*
      
-  - Bambuser raises $45M after shifting focus to live video shopping
+  - Netflix is making a series based on 'The Three-Body Problem'
       <hr/>
       
-      - *Bambuser is a name that you may not have heard in a while, but the Stockholm-headquartered company is announcing today that it’s raised $45 million in new funding this year, with $34.5 million of that amount raised during the pandemic. Bambuser’s history goes…*
+      - *Netflix just announced its plans to turn Cixin Liu’s “Three-Body Problem” trilogy into an original science fiction series. The show will be executive produced and written by David Benioff and D.B. Weiss (the “Game of Thrones” showrunners signed a multi-year d…*
       
-  - PicnicHealth raises $25 million for its patient health record management service
+  - The 5G version of Samsung’s Galaxy Tab S7 starts at $850 and arrives September 18
       <hr/>
       
-      - *PicnicHealth, the startup that’s looking to give patients a way to manage their care in one place and pharmaceutical companies access to patient records for real world data, has just raised $25 million in financing to grow its business. Founded in 2016 by a f…*
+      - *2020 was going to be the year 5G went truly mainstream. Things obviously haven’t gone according to plan these past several months, but this is undoubtedly the year Samsung went all-in on the next generation technology. After being one of the first to market w…*
       
-  - Now providing healthcare access to nearly 1.5 million kids, Hazel Health raises $33.5 million
+  - Oral-B's iO smart toothbrush is a big upgrade in just about every way
       <hr/>
       
-      - *Hazel Health was founded five years ago to provide telemedicine services to children in public schools. Launched by a former Apple software engineer and serial entrepreneur, Nick Woods, and named after one of Woods’ children, Hazel Health has grown to work wi…*
+      - *It can be easy to mock the very concept of a ‘smart toothbrush’ – what other device in our lives do we use daily that seems least in need of a connected upgrade? But Oral-B has been upgrading its powered toothbrush lineup with Bluetooth and app-based intellig…*
        
-  - Founded by an Impossible Foods, and Google data scientist, Climax Foods raises $7.5 million to tackle the cheesiest market
+  - Meet the $3,300 edition of the Galaxy Z Fold 2
       <hr/>
        
-       - *Oliver Zahn began his professional career studying the stars. The founder of Climax Foods, a startup that’s using data science to replace animal proteins with plant-based substitutes, spent years at the University of California at Berkeley with his eyes fixed…*
+       - *If you’re going to spend $1,000 on a phone, you might as well spend $2,000. And honestly, if you’re going to spend $2,000, why not just go for it and spend $3,300? That seems to be a chief guiding principle behind the Samsung Galaxy Fold Z 2 Thom Browne editi…*
       
 
 
