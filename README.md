@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Danny Hillis
+~ Pete Cordell
 <pre>
 
 </pre>
