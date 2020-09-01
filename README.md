@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+Dealing with failure is easy: Work hard to improve.
 
-~ Daniel T. Barry
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 
 </pre>
 **Daily News**
-  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
+  - What will a Wish IPO look like? Seems we'll find out sooner than later
      <hr/>
      
-      - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
+      - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
      
+  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
+      <hr/>
+      
+      - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
+      
   - Google's AI-powered flood alerts now cover all of India and parts of Bangladesh
       <hr/>
       
@@ -81,16 +86,11 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
       <hr/>
       
       - *Google launched a few updates to its Contact Center AI product today, but the most interesting one is probably the beta of its new Custom Voice service, which will let brands create their own text-to-speech voices to best represent their own brands. Maybe you…*
-      
+       
   - As it delists, Rocket Internet's ill-fated experiment with public markets is over
       <hr/>
-      
-      - *It was all supposed to be so different. When Rocket Internet IPO’d in 2014 it was the largest tech company floatation in Europe for 7 years. A year later it had lost $46m and it’s valuation had dropped by 30%. Since then the German start-up factory behind int…*
        
-  - The startup world needs a 'Black Minds Matter' awakening
-      <hr/>
-       
-       - *Guests on tech podcasts are a microcosm of what has been happening in the startup ecosystem: Black minds are undervalued and under-appreciated.*
+       - *It was all supposed to be so different. When Rocket Internet IPO’d in 2014 it was the largest tech company floatation in Europe for 7 years. A year later it had lost $46m and it’s valuation had dropped by 30%. Since then the German start-up factory behind int…*
       
 
 
