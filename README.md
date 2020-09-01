@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Edsger W. Dijkstra
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The effective exploitation of his powers of abstraction must be regarded as one 
 
 </pre>
 **Daily News**
-  - Student-led accelerator Envision reaches demo week for class one, looks to class two
+  - Movies Anywhere officially launches its digital movie-lending feature, 'Screen Pass'
      <hr/>
      
-      - *Back in early July, TechCrunch covered the Envision Accelerator. The program was put together by a group of students and recent graduates, often with some early venture capital experience, to help give some young startups a boost, and to shake up industry div…*
+      - *Digital locker service Movies Anywhere is today officially launching its movie-sharing feature dubbed “Screen Pass,” which lets you lend out one of your purchased movies to a friend or family member. The feature was rushed into beta testing this March, follow…*
      
-  - Calling Madrid & Barcelona VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Watch these 6 startups compete in Pitchers & Pitches tomorrow
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Madrid & Barcelona will capture how the cities are faring, and what changes are being wrought …*
+      - *What do you get when you combine six early-stage startup founders with a panel of top VCs and savvy TechCrunch editors? It’s Pitchers & Pitches, a rapid-fire pitch competition with a hefty side of advice to turn your 60-second pitch into a key that unlocks op…*
       
-  - Financial institutions using Plaid Exchange can share instant account activity
+  - Your first sales hire should be a missionary, not a mercenary
       <hr/>
       
-      - *A few months ago, Plaid unveiled Plaid Exchange, a product that helps financial institutions build and maintain an API that other developers can use. The company is iterating on that product and now updates account activity in near real-time. Plaid is better …*
+      - *The first sales hire will set the best practices, cultural tone and is also responsible for making sure each subsequent new sales hire succeeds.*
       
-  - India's IT minister accuses Facebook of suppressing right-leaning pages
+  - Four days left on early bird savings for TC Sessions: Mobility 2020
       <hr/>
       
-      - *Ravi Shankar Prasad, India’s IT, and Law and Justice minister has accused Facebook India’s leadership team of suppressing the reach of pages that support and promote right-leaning ideology, in what is the latest turn of events for the social giant in its bigg…*
+      - *Want to save $100 on your pass to TC Sessions: Mobility 2020? Silly question, right? Of course, you do. Here’s the thing. You have just four days left to buy in at the lowest price. Knock this easy task off your to-do list and buy your pass before the early-b…*
        
-  - Alexa can now pay for gas at over 11,500 Exxon and Mobil stations in the U.S.
+  - Fabletics' Don Ressler and Kevin Hart to talk D2C at Disrupt 2020
       <hr/>
        
-       - *In January, Amazon announced a new feature would allow Alexa users to pay for their gas at the pump using voice commands via Echo Auto and other Alexa-enabled mobility devices. Today, the company says the feature is now live at over 11,500 Exxon and Mobil gas…*
+       - *The world of retail has been absolutely rocked by the coronavirus pandemic. Stores closed across the country, and at the same time, online sales went through the roof. Direct-to-consumer brands, many of whom are masters of both online and brick-and-mortar cha…*
       
 
 
