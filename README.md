@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programming language is low level when its programs require attention to the irrelevant.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ Alan Perlis
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A programming language is low level when its programs require attention to the i
 
 </pre>
 **Daily News**
-  - Facebook touts beefed up hate speech detection ahead of Myanmar election
+  - Fresh off $200M Series D, Gong acquires early stage startup Vayo
      <hr/>
      
-      - *Facebook has offered a little detail on extra steps it’s taking to improve its ability to detect and remove hate speech and election disinformation ahead of Myanmar’s election. A general election is scheduled to take place in the country on November 8, 2020. …*
+      - *Gong announced a $200 million Series D investment just last month, and loaded with fresh cash, the company wasted no time taking advantage. Today, it announced it was buying early stage Isreali sales technology startup Vayo. The companies did not share terms …*
      
-  - Owl Ventures' new pair of funds gives edtech a $585 million boost
+  - Bambuser raises $45M after shifting focus to live video shopping
       <hr/>
       
-      - *Edtech just keeps on booming. Today, Owl Ventures, a San Francisco-based education technology fund whose portfolio includes Byju’s, Labster, Masterclass and Quizlet, announced that it has closed a pair of investment vehicles totaling $585 million. Owl Venture…*
+      - *Bambuser is a name that you may not have heard in a while, but the Stockholm-headquartered company is announcing today that it’s raised $45 million in new funding this year, with $34.5 million of that amount raised during the pandemic. Bambuser’s history goes…*
       
-  - 12 Paris-based VCs look at the state of their city
+  - PicnicHealth raises $25 million for its patient health record management service
       <hr/>
       
-      - *Four years after the Great Recession, France’s newly elected socialist president François Hollande raised taxes and increased regulations on founder-led startups. The subsequent flight of entrepreneurs to places like London and Silicon Valley portrayed France…*
+      - *PicnicHealth, the startup that’s looking to give patients a way to manage their care in one place and pharmaceutical companies access to patient records for real world data, has just raised $25 million in financing to grow its business. Founded in 2016 by a f…*
       
-  - Salesforce beefing up field service offering with AI
+  - Now providing healthcare access to nearly 1.5 million kids, Hazel Health raises $33.5 million
       <hr/>
       
-      - *Salesforce has been adding artificial intelligence to all parts of its platform for several years now. It calls the underlying artificial intelligence layer on the Salesforce platform Einstein. Today the company announced some enhancements to its field servic…*
+      - *Hazel Health was founded five years ago to provide telemedicine services to children in public schools. Launched by a former Apple software engineer and serial entrepreneur, Nick Woods, and named after one of Woods’ children, Hazel Health has grown to work wi…*
        
-  - Crowd equity platform Seedrs opens up its existing secondary market to any business
+  - Founded by an Impossible Foods, and Google data scientist, Climax Foods raises $7.5 million to tackle the cheesiest market
       <hr/>
        
-       - *Seedrs — the UK’s first full-function private equity secondary market to launch back in 2017 — is launching its secondary market offering to all private businesses. The idea is that this will allow founders, employees and early investors to realize secondary …*
+       - *Oliver Zahn began his professional career studying the stars. The founder of Climax Foods, a startup that’s using data science to replace animal proteins with plant-based substitutes, spent years at the University of California at Berkeley with his eyes fixed…*
       
 
 
