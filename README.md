@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
-~ Pete Cordell
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Telling a programmer there's already a library to do X is like telling a songwri
 
 </pre>
 **Daily News**
-  - Rocket Lab gains key FAA launch license for its U.S.-based launch site
+  - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
      <hr/>
      
-      - *Launch provider Rocket Lab has gained a key clearance from the U.S. Federal Aviation Administration that should mean it’ll be launching from its U.S.-based facility at Wallops Island, Virginia relatively soon. As it had done before for its LC-1 launch pad in …*
+      - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
      
+  - Rocket Lab gains key FAA launch license for its U.S.-based launch site
+      <hr/>
+      
+      - *Launch provider Rocket Lab has gained a key clearance from the U.S. Federal Aviation Administration that should mean it’ll be launching from its U.S.-based facility at Wallops Island, Virginia relatively soon. As it had done before for its LC-1 launch pad in …*
+      
   - Amazon's big redesign on iOS to reach all U.S. users by month-end
       <hr/>
       
@@ -81,16 +86,11 @@ Telling a programmer there's already a library to do X is like telling a songwri
       <hr/>
       
       - *Dell has long held high esteem for the quality of its displays, and that hasn’t changed with its more recent models. What has changed is that more and more, people are looking for external monitors to complement their work laptops as they shift to more remote…*
-      
+       
   - What will a Wish IPO look like? Seems we'll find out sooner than later
       <hr/>
-      
-      - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
        
-  - Jeff Lawson on API startups, picking a market and getting dissed by VCs
-      <hr/>
-       
-       - *Last week TechCrunch sat down virtually with Jeff Lawson, the CEO and co-founder of Twilio as part of our long-running Extra Crunch Live series. As I expected, the chat was a good use of time. Why? Lawson was early on the idea that software companies could de…*
+       - *Wish, the San Francisco-based, 750-person e-commerce app that sells deeply discounted goods that you definitely don’t need but might buy anyway when priced so low — think pool floaties, guinea pig harnesses, Apple Watch knockoffs — said yesterday that it has …*
       
 
 
