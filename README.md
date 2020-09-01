@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+A programming language is low level when its programs require attention to the irrelevant.
 
-~ Bill Gates
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There is an amazing commonality in the types of difficulties you run into. In de
 
 </pre>
 **Daily News**
-  - Crowd equity platform Seedrs opens up its existing secondary market to any business
+  - Facebook touts beefed up hate speech detection ahead of Myanmar election
      <hr/>
      
-      - *Seedrs — the UK’s first full-function private equity secondary market to launch back in 2017 — is launching its secondary market offering to all private businesses. The idea is that this will allow founders, employees and early investors to realize secondary …*
+      - *Facebook has offered a little detail on extra steps it’s taking to improve its ability to detect and remove hate speech and election disinformation ahead of Myanmar’s election. A general election is scheduled to take place in the country on November 8, 2020. …*
      
-  - InfoSum raises $15.1M for its privacy-first, federated approach to big data analytics
+  - Owl Ventures' new pair of funds gives edtech a $585 million boost
       <hr/>
       
-      - *Data protection and data privacy have gone from niche concerns to mainstream issues in the last several years, thanks to new regulations and a cascade of costly breaches that have laid bare the problems that arise when information and data security are treate…*
+      - *Edtech just keeps on booming. Today, Owl Ventures, a San Francisco-based education technology fund whose portfolio includes Byju’s, Labster, Masterclass and Quizlet, announced that it has closed a pair of investment vehicles totaling $585 million. Owl Venture…*
       
-  - Facebook threatens to block news sharing in Australia as it lobbies against revenue share law
+  - 12 Paris-based VCs look at the state of their city
       <hr/>
       
-      - *Adtech giant and self-styled ‘free speech champion’, Facebook, has threatened to pull the plug on the public sharing of news content on Facebook and Instagram in Australia. The aggressive threat is Facebook’s attempt to lobby against a government plan that wi…*
+      - *Four years after the Great Recession, France’s newly elected socialist president François Hollande raised taxes and increased regulations on founder-led startups. The subsequent flight of entrepreneurs to places like London and Silicon Valley portrayed France…*
       
-  - Cosmose, a platform that analyzes foot traffic in physical stores, gets $15 million Series A
+  - Salesforce beefing up field service offering with AI
       <hr/>
       
-      - *Cosmose, a platform that tracks foot traffic in brick-and-mortar stores to help companies predict customer behavior, announced today it has raised a $15 million Series A. The round was by Tiga Investments, with participation from returning investors OTB Ventu…*
+      - *Salesforce has been adding artificial intelligence to all parts of its platform for several years now. It calls the underlying artificial intelligence layer on the Salesforce platform Einstein. Today the company announced some enhancements to its field servic…*
        
-  - Apple alum's jobs app for India's workers secures $8 million
+  - Crowd equity platform Seedrs opens up its existing secondary market to any business
       <hr/>
        
-       - *Javed, a middle-aged man, worked as a driver before losing that job earlier this year as coronavirus spread across India, prompting New Delhi to enforce a nationwide lockdown and temporarily curb several business activities. There are millions of people like …*
+       - *Seedrs — the UK’s first full-function private equity secondary market to launch back in 2017 — is launching its secondary market offering to all private businesses. The idea is that this will allow founders, employees and early investors to realize secondary …*
       
 
 
