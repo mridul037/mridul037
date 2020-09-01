@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 
-~ Friedrich Bauer
+~ Mark Gibbs
 <pre>
 
 </pre>
