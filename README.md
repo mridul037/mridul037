@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
-~ Richard Feynman
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer science differs from physics in that it is not actually a science. It d
 
 </pre>
 **Daily News**
-  - The good and the less-good from Sumo Logic's updated IPO filing
+  - Student-led accelerator Envision reaches demo week for class one, looks to class two
      <hr/>
      
-      - *Sumo Logic filed an S-1/A this week, updating the world to its latest financial results ahead of its IPO pricing. Today, just over a week after we first looked at Sumo Logic’s recent financial performance when it filed its first S-1 document, let’s explore wh…*
+      - *Back in early July, TechCrunch covered the Envision Accelerator. The program was put together by a group of students and recent graduates, often with some early venture capital experience, to help give some young startups a boost, and to shake up industry div…*
      
-  - Netflix is making a series based on 'The Three-Body Problem'
+  - Calling Madrid & Barcelona VCs: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *Netflix just announced its plans to turn Cixin Liu’s “Three-Body Problem” trilogy into an original science fiction series. The show will be executive produced and written by David Benioff and D.B. Weiss (the “Game of Thrones” showrunners signed a multi-year d…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Madrid & Barcelona will capture how the cities are faring, and what changes are being wrought …*
       
-  - The 5G version of Samsung’s Galaxy Tab S7 starts at $850 and arrives September 18
+  - Financial institutions using Plaid Exchange can share instant account activity
       <hr/>
       
-      - *2020 was going to be the year 5G went truly mainstream. Things obviously haven’t gone according to plan these past several months, but this is undoubtedly the year Samsung went all-in on the next generation technology. After being one of the first to market w…*
+      - *A few months ago, Plaid unveiled Plaid Exchange, a product that helps financial institutions build and maintain an API that other developers can use. The company is iterating on that product and now updates account activity in near real-time. Plaid is better …*
       
-  - Oral-B's iO smart toothbrush is a big upgrade in just about every way
+  - India's IT minister accuses Facebook of suppressing right-leaning pages
       <hr/>
       
-      - *It can be easy to mock the very concept of a ‘smart toothbrush’ – what other device in our lives do we use daily that seems least in need of a connected upgrade? But Oral-B has been upgrading its powered toothbrush lineup with Bluetooth and app-based intellig…*
+      - *Ravi Shankar Prasad, India’s IT, and Law and Justice minister has accused Facebook India’s leadership team of suppressing the reach of pages that support and promote right-leaning ideology, in what is the latest turn of events for the social giant in its bigg…*
        
-  - Meet the $3,300 edition of the Galaxy Z Fold 2
+  - Alexa can now pay for gas at over 11,500 Exxon and Mobil stations in the U.S.
       <hr/>
        
-       - *If you’re going to spend $1,000 on a phone, you might as well spend $2,000. And honestly, if you’re going to spend $2,000, why not just go for it and spend $3,300? That seems to be a chief guiding principle behind the Samsung Galaxy Fold Z 2 Thom Browne editi…*
+       - *In January, Amazon announced a new feature would allow Alexa users to pay for their gas at the pump using voice commands via Echo Auto and other Alexa-enabled mobility devices. Today, the company says the feature is now live at over 11,500 Exxon and Mobil gas…*
       
 
 
