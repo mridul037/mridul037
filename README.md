@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 
-~ Edsger W. Dijkstra
+~ Anonymous
 <pre>
 
 </pre>
