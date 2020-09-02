@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+The cheapest, fastest, and most reliable components are those that aren’t there.
 
-~ Douglas Crockford
+~ Gordon Bell
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I think of myself as a writer. Sometimes I write in English and sometimes I writ
 
 </pre>
 **Daily News**
-  - GM, Ford wrap up ventilator production and shift back to auto business
+  - 3one4 Capital launches $100M fund to back early-stage startups in India
      <hr/>
      
-      - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
+      - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
      
+  - Indonesian insurtech startup PasarPolis gets $54 million Series B from investors including LeapFrog and SBI
+      <hr/>
+      
+      - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
+      
+  - GM, Ford wrap up ventilator production and shift back to auto business
+      <hr/>
+      
+      - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
+      
   - Toss Lab raises $13 million Series B for its collaboration platform JANDI, the "Slack of Asia"
       <hr/>
       
       - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
-      
+       
   - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
       <hr/>
-      
-      - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
-      
-  - Rocket Lab gains key FAA launch license for its U.S.-based launch site
-      <hr/>
-      
-      - *Launch provider Rocket Lab has gained a key clearance from the U.S. Federal Aviation Administration that should mean it’ll be launching from its U.S.-based facility at Wallops Island, Virginia relatively soon. As it had done before for its LC-1 launch pad in …*
        
-  - Amazon's big redesign on iOS to reach all U.S. users by month-end
-      <hr/>
-       
-       - *The Amazon app is getting a makeover. You may have already spotted the refreshed version of the Amazon shopping app with its new color scheme and revamped navigation if you’re an iPhone user. The changes began rolling out earlier this summer to iOS users in t…*
+       - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
       
 
 
