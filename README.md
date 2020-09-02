@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+Adding manpower to a late software project makes it later.
 
-~ Lawrence Flon
+~ Fred Brooks
 <pre>
 
 </pre>
