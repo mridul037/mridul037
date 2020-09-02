@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A beautiful program is like a beautiful theorem: It does the job elegantly.
+We could, for instance, begin with cleaning up our language by no longer calling a bug a bug but by calling it an error. It is much more honest because it squarely puts the blame where it belongs, viz. with the programmer who made the error. The animistic metaphor of the bug that maliciously sneaked in while the programmer was not looking is intellectually dishonest as it disguises that the error is the programmer's own creation. The nice thing of this simple change of vocabulary is that it has such a profound effect: while, before, a program with only one bug used to be "almost correct", afterwards a program with an error is just "wrong".
 
-~ Butler Lampson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A beautiful program is like a beautiful theorem: It does the job elegantly.
 
 </pre>
 **Daily News**
-  - Snapchat had a big August amid TikTok uncertainty
+  - Samsung’s got a new budget 5G handset and a fitness tracker with a two-week battery
      <hr/>
      
-      - *The continual uncertainty around TikTok’s future may have provided a big boost to Snapchat in August. Or maybe it was just the Disney eyes filter that went viral. In any event, preliminary estimates from app store intelligence firm Sensor Tower indicate that …*
+      - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
      
+  - FCC dings company for $164K after its false broadband claims distorted national report
+      <hr/>
+      
+      - *The FCC was deeply embarrassed last year when it was found that its rosy broadband deployment report was off by millions, owing to a single, extremely suspect filing that conjured 62 million customers out of thin air. The company responsible is being assessed…*
+      
+  - Snapchat had a big August amid TikTok uncertainty
+      <hr/>
+      
+      - *The continual uncertainty around TikTok’s future may have provided a big boost to Snapchat in August. Or maybe it was just the Disney eyes filter that went viral. In any event, preliminary estimates from app store intelligence firm Sensor Tower indicate that …*
+      
   - Venture capital LPs are the missing link to solving Silicon Valley's diversity problem
       <hr/>
       
       - *LPs have the power and the responsibility to invest in more diverse fund managers to keep them and their investment teams accountable.*
-      
+       
   - Edtech startups find demand from an unlikely customer: Public schools
       <hr/>
-      
-      - *School district technology budgets are tight. But Kami CEO and founder Hengjie Wang wanted to make his company’s digital classroom product a go-to tool anyway. He landed on trying to disrupt the printers. Wang found that school districts spend an average of $…*
-      
-  - Hypatos gets $11.8M for a deep learning approach to document processing
-      <hr/>
-      
-      - *Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting s…*
        
-  - CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says
-      <hr/>
-       
-       - *Airport notices did not adequately inform Americans of their rights to opt-out of face scanning.*
+       - *School district technology budgets are tight. But Kami CEO and founder Hengjie Wang wanted to make his company’s digital classroom product a go-to tool anyway. He landed on trying to disrupt the printers. Wang found that school districts spend an average of $…*
       
 
 
