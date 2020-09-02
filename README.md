@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 
-~ Robert L. Glass
+~ Lawrence Flon
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The best programmers are up to 28 times better than the worst programmers, accor
 
 </pre>
 **Daily News**
-  - Microsoft launches a deepfake detector tool ahead of US election
+  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
      <hr/>
      
-      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
+      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
      
+  - Microsoft launches a deepfake detector tool ahead of US election
+      <hr/>
+      
+      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
+      
   - Klaxoon teases new interactive meeting product for video calls
       <hr/>
       
@@ -81,16 +86,11 @@ The best programmers are up to 28 times better than the worst programmers, accor
       <hr/>
       
       - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
-      
+       
   - 3one4 Capital launches $100M fund to back early-stage startups in India
       <hr/>
-      
-      - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
        
-  - Indonesian insurtech startup PasarPolis gets $54 million Series B from investors including LeapFrog and SBI
-      <hr/>
-       
-       - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
+       - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
       
 
 
