@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Anonymous
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ You can have the project: Done On Time. Done On Budget. Done Properly - Pick two
 
 </pre>
 **Daily News**
-  - Deep Science: Dog detectors, Mars mappers and AI-scrambling sweaters
+  - Edtech startups find demand from an unlikely customer: Public schools
      <hr/>
      
-      - *Research papers come out at far too rapid a rate for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent …*
+      - *School district technology budgets are tight. But Kami CEO and founder Hengjie Wang wanted to make his company’s digital classroom product a go-to tool anyway. He landed on trying to disrupt the printers. Wang found that school districts spend an average of $…*
      
-  - Hear E-Prix Champion di Grassi on the future of electric motor sports (including scooters)
+  - Hypatos gets $11.8M for a deep learning approach to document processing
       <hr/>
       
-      - *Lucas di Grassi is returning to TechCrunch’s stage, and we’re going to talk racing electric vehicles. Again. Because electric is the future of motoring including motorsports. There’s a lot to talk about with di Grassi. He’s an outspoken proponent of electric …*
+      - *Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting s…*
       
-  - Dear Sophie: Can we sponsor an H-1B university researcher for an EB-1B green card?
+  - CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says
       <hr/>
       
-      - *How long does the EB-1B process take? What can we do to maximize our chances for approval?*
+      - *Airport notices did not adequately inform Americans of their rights to opt-out of face scanning.*
       
-  - To build responsibly, tech needs to do more than just hire chief ethics officers
+  - Submit your pitch deck to Disrupt 2020's Pitch Deck Teardown
       <hr/>
       
-      - *The builders, questioners, makers and ethical leaders coming up in technology firms now will help us to reshape the industry for the better and create the products we deserve.*
+      - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
        
-  - Twitch launches Watch Parties to all creators worldwide
+  - 3 ways COVID-19 has affected the property investment market
       <hr/>
        
-       - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
+       - *COVID-19 has stirred up the long-settled dust on real estate investing, which could paint a bright future with promising – yet different – projects for developers, startups and investors.*
       
 
 
