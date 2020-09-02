@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Adding manpower to a late software project makes it later.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Adding manpower to a late software project makes it later.
 
 </pre>
 **Daily News**
-  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
+  - Mulberry, the warranty service for direct to consumer brands, approaches $10 million ARR
      <hr/>
      
-      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
+      - *In the two years since Chinedu Eleanya founded Mulberry to be the warranty service for direct-to-consumer brands, business has boomed.  Already riding a shakeup in consumer behavior brought by the emergence of startup brands selling just about everything to j…*
      
+  - India bans PUBG and over 100 additional Chinese apps
+      <hr/>
+      
+      - *India has banned more than 100 additional Chinese apps including popular mobile game PUBG citing cybersecurity concerns as geopolitical tension between the two neighboring nations continues to rise. On Wednesday, India’s IT Ministry said it had banned 118 app…*
+      
+  - Point72, the firm investing hedge fund mogul Steven A Cohen's personal wealth, gets into healthcare
+      <hr/>
+      
+      - *Point72 Ventures, the early stage investment firm that’s now solely investing the personal wealth of the multi-billionaire hedge fund magnate Steven A. Cohen, is getting into healthcare investing. The firm has hired Scott Barclay, a former partner at the life…*
+      
+  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
+      <hr/>
+      
+      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
+       
   - Microsoft launches a deepfake detector tool ahead of US election
       <hr/>
-      
-      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
-      
-  - Klaxoon teases new interactive meeting product for video calls
-      <hr/>
-      
-      - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
-      
-  - China's logistics titan YTO nets close to $1B from Alibaba in overseas push
-      <hr/>
-      
-      - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
        
-  - 3one4 Capital launches $100M fund to back early-stage startups in India
-      <hr/>
-       
-       - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
+       - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
       
 
 
