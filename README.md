@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+It is not the task of the University to offer what society asks for, but to give what society needs.
 
-~ Marijn Haverbeke
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
