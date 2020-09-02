@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cheapest, fastest, and most reliable components are those that aren’t there.
+Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
 
-~ Gordon Bell
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The cheapest, fastest, and most reliable components are those that aren’t ther
 
 </pre>
 **Daily News**
-  - 3one4 Capital launches $100M fund to back early-stage startups in India
+  - China's logistics titan YTO nets close to $1B from Alibaba in overseas push
      <hr/>
      
-      - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
+      - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
      
+  - 3one4 Capital launches $100M fund to back early-stage startups in India
+      <hr/>
+      
+      - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
+      
   - Indonesian insurtech startup PasarPolis gets $54 million Series B from investors including LeapFrog and SBI
       <hr/>
       
@@ -81,16 +86,11 @@ The cheapest, fastest, and most reliable components are those that aren’t ther
       <hr/>
       
       - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
-      
+       
   - Toss Lab raises $13 million Series B for its collaboration platform JANDI, the "Slack of Asia"
       <hr/>
-      
-      - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
        
-  - Daily Crunch: Apple launches 'Exposure Notification Express' for COVID-19
-      <hr/>
-       
-       - *Apple and Google are adding support for app-less exposure notifications, Facebook says it might block news sharing in Australia and Samsung has a new foldable phone. This is your Daily Crunch for September 1, 2020. The big story: Apple launches ‘Exposure Noti…*
+       - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
       
 
 
