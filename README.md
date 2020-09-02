@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ Alan Perlis
+~ Jamie Zawinski
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ For all its power, the computer is a harsh taskmaster. Its programs must be corr
 
 </pre>
 **Daily News**
-  - FB Messenger chief Stan Chudnovsky is coming to Disrupt
+  - Hear E-Prix Champion di Grassi on the future of electric motor sports (including scooters)
      <hr/>
      
-      - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
+      - *Lucas di Grassi is returning to TechCrunch’s stage, and we’re going to talk racing electric vehicles. Again. Because electric is the future of motoring including motorsports. There’s a lot to talk about with di Grassi. He’s an outspoken proponent of electric …*
      
-  - Peer Medical allows lung cancer patients to anonymously share treatments with each other
+  - Dear Sophie: Can we sponsor an H-1B university researcher for an EB-1B green card?
       <hr/>
       
-      - *Peer Medical has a big mission. After his father died of lung cancer, serial entrepreneur Ed Spiegel vowed to create a better way for lung cancer patients to deal with their disease. The startup has so far raised a $1.2M seed funding round for its ground-brea…*
+      - *How long does the EB-1B process take? What can we do to maximize our chances for approval?*
       
-  - As corporate cards are subsumed into software, Airbase posts rapid growth
+  - To build responsibly, tech needs to do more than just hire chief ethics officers
       <hr/>
       
-      - *A few weeks back, TechCrunch wrote about how Ramp, a corporate credit card startup with a focus on cost control, had added expense management software on top of its company plastic business. Closing out our piece, I wondered if “cards aren’t de facto commodit…*
+      - *The builders, questioners, makers and ethical leaders coming up in technology firms now will help us to reshape the industry for the better and create the products we deserve.*
       
-  - XRobotics is keeping the dream of pizza robots alive
+  - Twitch launches Watch Parties to all creators worldwide
       <hr/>
       
-      - *Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there. But its own inabilities to get the math right shouldn’t nec…*
+      - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
        
-  - In ego battle, Lucid Motors claims to beat Tesla with 9.9 second quarter mile
+  - FB Messenger chief Stan Chudnovsky is coming to Disrupt
       <hr/>
        
-       - *Lucid Motors is set to unveil its production electric sedan next week and it’s clear the company is targeting Tesla . Over the last few weeks, Lucid has teased notable aspects of the Lucid Air including recharge time, estimated range, bi-directional power flo…*
+       - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
       
 
 
