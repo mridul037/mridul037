@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 
-~ Tim Berners-Lee
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I invented the Web just because I needed it, really, because it was so frustrati
 
 </pre>
 **Daily News**
-  - The IPO parade continues as Wish files, Bumble targets an eventual debut
+  - 'The Mandalorian' launches its second season on Oct. 30
      <hr/>
      
-      - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
+      - *“The Mandalorian” is returning to Disney+ with new episodes starting on October 30. The Star Wars spinoff series (created by Jon Favreau) was the biggest original offering when Disney+ launched in November of last year. With its story of a mysterious bounty h…*
      
+  - Google's personalized audio news feature, Your News Update, comes to Google Podcasts
+      <hr/>
+      
+      - *Last year, Google launched a personalized playlist of audio news called “Your News Update” for Google Assistant. The feature leverages machine learning techniques to understand the news content and how it relates to the listener’s own likes and interests. Tod…*
+      
+  - Transposit scores $35M to build data-driven runbooks for faster disaster recovery
+      <hr/>
+      
+      - *Transposit is a company built by engineers to help engineers, and one big way to help them is to get systems up and running faster when things go wrong — as they always will at some point. Transposit has come up with a way to build runbooks for faster disaste…*
+      
+  - The IPO parade continues as Wish files, Bumble targets an eventual debut
+      <hr/>
+      
+      - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
+       
   - Carewell raises $5M for a vetted marketplace aimed at family caregivers
       <hr/>
-      
-      - *Caregivers, both paid and unpaid, have been in the spotlight this year as one of the key categories of front-line workers helping cope with the coronavirus pandemic. On one hand, they have been in great need, especially as the infection seemed to hit hardest …*
-      
-  - Workplace management startup Legion raises $22 million
-      <hr/>
-      
-      - *Legion, an artificial intelligence driven platform for workplace management, has raised a $22 million series B round led by Stripes with participation from Workday Ventures and others. Legion is designed to help employers better manage their hourly workforces…*
-      
-  - A SonicWall cloud bug exposed corporate networks to hackers
-      <hr/>
-      
-      - *The bug exposed thousands of corporate networks to hackers.*
        
-  - Learn how to raise your first dollars at Disrupt 2020
-      <hr/>
-       
-       - *Deciding how to go about getting your initial funding is always a tricky subject, as the wrong move could adversely impact your young company. At Disrupt 2020 this September 14-18, we’ll showcase three amazing investors and experts who’ve shepherded multiple …*
+       - *Caregivers, both paid and unpaid, have been in the spotlight this year as one of the key categories of front-line workers helping cope with the coronavirus pandemic. On one hand, they have been in great need, especially as the infection seemed to hit hardest …*
       
 
 
