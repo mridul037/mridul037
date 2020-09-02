@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+A beautiful program is like a beautiful theorem: It does the job elegantly.
 
-~ Martin Fowler
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ W​henever I have to think to understand what the code is doing, I ask myself i
 
 </pre>
 **Daily News**
-  - Edtech startups find demand from an unlikely customer: Public schools
+  - Snapchat had a big August amid TikTok uncertainty
      <hr/>
      
-      - *School district technology budgets are tight. But Kami CEO and founder Hengjie Wang wanted to make his company’s digital classroom product a go-to tool anyway. He landed on trying to disrupt the printers. Wang found that school districts spend an average of $…*
+      - *The continual uncertainty around TikTok’s future may have provided a big boost to Snapchat in August. Or maybe it was just the Disney eyes filter that went viral. In any event, preliminary estimates from app store intelligence firm Sensor Tower indicate that …*
      
+  - Venture capital LPs are the missing link to solving Silicon Valley's diversity problem
+      <hr/>
+      
+      - *LPs have the power and the responsibility to invest in more diverse fund managers to keep them and their investment teams accountable.*
+      
+  - Edtech startups find demand from an unlikely customer: Public schools
+      <hr/>
+      
+      - *School district technology budgets are tight. But Kami CEO and founder Hengjie Wang wanted to make his company’s digital classroom product a go-to tool anyway. He landed on trying to disrupt the printers. Wang found that school districts spend an average of $…*
+      
   - Hypatos gets $11.8M for a deep learning approach to document processing
       <hr/>
       
       - *Process automation startup Hypatos has raised a €10 million (~$11.8M) seed round of funding from investors including Blackfin Tech, Grazia Equity, UVC Partners and Plug & Play Ventures. The Germany- and Poland-based company was spun out of AI for accounting s…*
-      
+       
   - CBP does not make it clear Americans can opt-out of airport face scanning, watchdog says
       <hr/>
-      
-      - *Airport notices did not adequately inform Americans of their rights to opt-out of face scanning.*
-      
-  - Submit your pitch deck to Disrupt 2020's Pitch Deck Teardown
-      <hr/>
-      
-      - *Disrupt 2020 is a few weeks away and we’re looking for founders to submit their pitch decks. In the Pitch Deck Teardown, top venture capitalists and entrepreneurs will evaluate and suggest fixes for Disrupt 2020 attendees’ pitch decks. First impressions are e…*
        
-  - 3 ways COVID-19 has affected the property investment market
-      <hr/>
-       
-       - *COVID-19 has stirred up the long-settled dust on real estate investing, which could paint a bright future with promising – yet different – projects for developers, startups and investors.*
+       - *Airport notices did not adequately inform Americans of their rights to opt-out of face scanning.*
       
 
 
