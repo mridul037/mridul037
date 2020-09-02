@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 
-~ Marijn Haverbeke
+~ Robert L. Glass
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Flaws in computer programs are usually called bugs. It makes programmers feel go
 
 </pre>
 **Daily News**
-  - China's logistics titan YTO nets close to $1B from Alibaba in overseas push
+  - Microsoft launches a deepfake detector tool ahead of US election
      <hr/>
      
-      - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
+      - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
      
+  - Klaxoon teases new interactive meeting product for video calls
+      <hr/>
+      
+      - *French startup Klaxoon is currently testing a new product called Board. The company expects to launch Board at some point during the second half of September. Board is a new visual interface that connects directly with video-conferencing services, such as Mic…*
+      
+  - China's logistics titan YTO nets close to $1B from Alibaba in overseas push
+      <hr/>
+      
+      - *E-commerce has brought in a logistics boom in China over the last decade, transforming small-town delivery businesses into multinational corporations. One leading player, YTO, is gearing up for international expansion after it secured 6.6 billion yuan or $970…*
+      
   - 3one4 Capital launches $100M fund to back early-stage startups in India
       <hr/>
       
       - *3one4 Capital, a venture capital firm in India, today announced a $100 million fund as the young investment firm looks to back more early-stage startups in the world’s second largest internet market. The new fund, third for the five-year-old Bangalore-headqua…*
-      
+       
   - Indonesian insurtech startup PasarPolis gets $54 million Series B from investors including LeapFrog and SBI
       <hr/>
-      
-      - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
-      
-  - GM, Ford wrap up ventilator production and shift back to auto business
-      <hr/>
-      
-      - *As the COVID-19 pandemic spread to the United States, a number of automakers and other manufacturers announced plans to retrofit factories to help ease the shortage of personal protective gear and ventilators. Now, two U.S. automakers have fulfilled their sep…*
        
-  - Toss Lab raises $13 million Series B for its collaboration platform JANDI, the "Slack of Asia"
-      <hr/>
-       
-       - *As Slack ramps up its investment in Asia, Toss Lab, the South Korea-based creator of enterprise collaboration platform JANDI, is preparing to become a more formidable rival. The startup announced today that it has raised a $13 million Series B led by SoftBank…*
+       - *PasarPolis, the Indonesian-based startup focused on making insurance policies more accessible in Southeast Asia, announced today it has closed a Series B round totaling $54 million. Investors include LeapFrog Investments and SBI Investment, both firms that fo…*
       
 
 
