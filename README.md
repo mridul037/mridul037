@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 
-~ Jamie Zawinski
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Some people, when confronted with a problem, think ‘I know, I’ll use regular
 
 </pre>
 **Daily News**
-  - Hear E-Prix Champion di Grassi on the future of electric motor sports (including scooters)
+  - Deep Science: Dog detectors, Mars mappers and AI-scrambling sweaters
      <hr/>
      
-      - *Lucas di Grassi is returning to TechCrunch’s stage, and we’re going to talk racing electric vehicles. Again. Because electric is the future of motoring including motorsports. There’s a lot to talk about with di Grassi. He’s an outspoken proponent of electric …*
+      - *Research papers come out at far too rapid a rate for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent …*
      
+  - Hear E-Prix Champion di Grassi on the future of electric motor sports (including scooters)
+      <hr/>
+      
+      - *Lucas di Grassi is returning to TechCrunch’s stage, and we’re going to talk racing electric vehicles. Again. Because electric is the future of motoring including motorsports. There’s a lot to talk about with di Grassi. He’s an outspoken proponent of electric …*
+      
   - Dear Sophie: Can we sponsor an H-1B university researcher for an EB-1B green card?
       <hr/>
       
@@ -81,16 +86,11 @@ Some people, when confronted with a problem, think ‘I know, I’ll use regular
       <hr/>
       
       - *The builders, questioners, makers and ethical leaders coming up in technology firms now will help us to reshape the industry for the better and create the products we deserve.*
-      
+       
   - Twitch launches Watch Parties to all creators worldwide
       <hr/>
-      
-      - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
        
-  - FB Messenger chief Stan Chudnovsky is coming to Disrupt
-      <hr/>
-       
-       - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
+       - *Twitch is doubling down on making its site more than just a place for live streaming gaming video. Last fall, the Amazon-owned company began testing a new feature called “Watch Parties,” which lets creators stream Amazon Prime Video content to viewers with Am…*
       
 
 
