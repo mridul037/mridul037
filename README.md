@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is not the task of the University to offer what society asks for, but to give what society needs.
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 
-~ Edsger W. Dijkstra
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
