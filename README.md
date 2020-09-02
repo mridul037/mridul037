@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 
-~ Bill Gates
+~ Marijn Haverbeke
 <pre>
 
 </pre>
