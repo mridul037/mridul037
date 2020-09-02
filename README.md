@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 
-~ L. Peter Deutsch
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
 
 </pre>
 **Daily News**
-  - 'The Mandalorian' launches its second season on Oct. 30
+  - FB Messenger chief Stan Chudnovsky is coming to Disrupt
      <hr/>
      
-      - *“The Mandalorian” is returning to Disney+ with new episodes starting on October 30. The Star Wars spinoff series (created by Jon Favreau) was the biggest original offering when Disney+ launched in November of last year. With its story of a mysterious bounty h…*
+      - *Stan Chudnovsky last spoke at Disrupt in 2016, so we’ve got a lot to catch up on. Chudnovsky remains in charge of Facebook Messenger — his current title is VP of Messenger — so he can tell us more about how the product has evolved at this year’s Disrupt 2020 …*
      
-  - Google's personalized audio news feature, Your News Update, comes to Google Podcasts
+  - Peer Medical allows lung cancer patients to anonymously share treatments with each other
       <hr/>
       
-      - *Last year, Google launched a personalized playlist of audio news called “Your News Update” for Google Assistant. The feature leverages machine learning techniques to understand the news content and how it relates to the listener’s own likes and interests. Tod…*
+      - *Peer Medical has a big mission. After his father died of lung cancer, serial entrepreneur Ed Spiegel vowed to create a better way for lung cancer patients to deal with their disease. The startup has so far raised a $1.2M seed funding round for its ground-brea…*
       
-  - Transposit scores $35M to build data-driven runbooks for faster disaster recovery
+  - As corporate cards are subsumed into software, Airbase posts rapid growth
       <hr/>
       
-      - *Transposit is a company built by engineers to help engineers, and one big way to help them is to get systems up and running faster when things go wrong — as they always will at some point. Transposit has come up with a way to build runbooks for faster disaste…*
+      - *A few weeks back, TechCrunch wrote about how Ramp, a corporate credit card startup with a focus on cost control, had added expense management software on top of its company plastic business. Closing out our piece, I wondered if “cards aren’t de facto commodit…*
       
-  - The IPO parade continues as Wish files, Bumble targets an eventual debut
+  - XRobotics is keeping the dream of pizza robots alive
       <hr/>
       
-      - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
+      - *Zume pulled the plug on its robotic pizza wing earlier this year. A lot goes into making a decision like that — particularly for a company whose robotic dreams were a press darling for a while there. But its own inabilities to get the math right shouldn’t nec…*
        
-  - Carewell raises $5M for a vetted marketplace aimed at family caregivers
+  - In ego battle, Lucid Motors claims to beat Tesla with 9.9 second quarter mile
       <hr/>
        
-       - *Caregivers, both paid and unpaid, have been in the spotlight this year as one of the key categories of front-line workers helping cope with the coronavirus pandemic. On one hand, they have been in great need, especially as the infection seemed to hit hardest …*
+       - *Lucid Motors is set to unveil its production electric sedan next week and it’s clear the company is targeting Tesla . Over the last few weeks, Lucid has teased notable aspects of the Lucid Air including recharge time, estimated range, bi-directional power flo…*
       
 
 
