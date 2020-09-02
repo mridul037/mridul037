@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Edsger W. Dijkstra
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The tools we use have a profound and devious influence on our thinking habits, a
 
 </pre>
 **Daily News**
-  - Mulberry, the warranty service for direct to consumer brands, approaches $10 million ARR
+  - The IPO parade continues as Wish files, Bumble targets an eventual debut
      <hr/>
      
-      - *In the two years since Chinedu Eleanya founded Mulberry to be the warranty service for direct-to-consumer brands, business has boomed.  Already riding a shakeup in consumer behavior brought by the emergence of startup brands selling just about everything to j…*
+      - *Last Monday will go down in the books as a historic day for unicorn liquidity, as company after company dropped their IPO filings onto the internet for the world to read. It was great. But this week is still managing a good grip of IPO news, with Wish announc…*
      
-  - India bans PUBG and over 100 additional Chinese apps
+  - Carewell raises $5M for a vetted marketplace aimed at family caregivers
       <hr/>
       
-      - *India has banned more than 100 additional Chinese apps including popular mobile game PUBG citing cybersecurity concerns as geopolitical tension between the two neighboring nations continues to rise. On Wednesday, India’s IT Ministry said it had banned 118 app…*
+      - *Caregivers, both paid and unpaid, have been in the spotlight this year as one of the key categories of front-line workers helping cope with the coronavirus pandemic. On one hand, they have been in great need, especially as the infection seemed to hit hardest …*
       
-  - Point72, the firm investing hedge fund mogul Steven A Cohen's personal wealth, gets into healthcare
+  - Workplace management startup Legion raises $22 million
       <hr/>
       
-      - *Point72 Ventures, the early stage investment firm that’s now solely investing the personal wealth of the multi-billionaire hedge fund magnate Steven A. Cohen, is getting into healthcare investing. The firm has hired Scott Barclay, a former partner at the life…*
+      - *Legion, an artificial intelligence driven platform for workplace management, has raised a $22 million series B round led by Stripes with participation from Workday Ventures and others. Legion is designed to help employers better manage their hourly workforces…*
       
-  - India's online learning platform Unacademy raises $150 million at $1.45 billion valuation
+  - A SonicWall cloud bug exposed corporate networks to hackers
       <hr/>
       
-      - *India has a new unicorn startup. On Wednesday, Bangalore-based online learning startup announced it has raised $150 million in a new financing round that valued the Facebook-backed firm at $1.45 billion (post-money). SoftBank Group — through its Vision Fund 2…*
+      - *The bug exposed thousands of corporate networks to hackers.*
        
-  - Microsoft launches a deepfake detector tool ahead of US election
+  - Learn how to raise your first dollars at Disrupt 2020
       <hr/>
        
-       - *Microsoft has added to the slowly growing pile of technologies aimed at spotting synthetic media (aka deepfakes) with the launch of a tool for analyzing videos and still photos to generate a manipulation score. The tool, called Video Authenticator, provides w…*
+       - *Deciding how to go about getting your initial funding is always a tricky subject, as the wrong move could adversely impact your young company. At Disrupt 2020 this September 14-18, we’ll showcase three amazing investors and experts who’ve shepherded multiple …*
       
 
 
