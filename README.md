@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Bjarne Stroustrup
+~ Linus Torvalds
 <pre>
 
 </pre>
