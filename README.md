@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 
-~ Joseph Yoder (computer scientist)
+~ Poul-Henning Kamp
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Managing a large project is a qualitatively different problem from managing a sm
 
 </pre>
 **Daily News**
-  - Explore micromobility's next opportunities at TC Sessions: Mobility
+  - Media Roundup: Patreon joins unicorn club, Facebook could ban news in Australia, more
      <hr/>
      
-      - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
+      - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
      
+  - Exhibitors at Disrupt 2020: Register now to meet accelerators next week
+      <hr/>
+      
+      - *Disrupt 2020 is all about helping startups find and create ways to drive their business forward in these most challenging times. We partnered with cela to give exhibitors in Digital Startup Alley one sweet opportunity — networking with 13 accelerators. If you…*
+      
+  - Apple won't force developers to let users opt out of tracking until next year
+      <hr/>
+      
+      - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
+      
+  - Explore micromobility's next opportunities at TC Sessions: Mobility
+      <hr/>
+      
+      - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
+       
   - France to spend $8.4 billion on digital as part of stimulus plan
       <hr/>
-      
-      - *The French government unveiled a massive $120 million (€100 billion) stimulus package earlier today to recover from the economic downturn — it represents 4% of the country’s GDP. As part of this support plan, the government plans to spend a significant chunk …*
-      
-  - OrCam Technologies co-founder Amnon Shashua to speak at Sight Tech Global
-      <hr/>
-      
-      - *If the measure of progress in technology is that devices should become ever smaller and more capable, then OrCam Technologies is on a roll. The Israeli firm’s OrCam MyEye, which fits on the arm of a pair of glasses, is far more powerful and much smaller than …*
-      
-  - As it awaits its US fate, TikTok doubles down on its revenue funnel with marketing partners
-      <hr/>
-      
-      - *There’s a big question mark hanging over the future of TikTok right now, in the form of what exactly will happen to its US business come September 20, when President Trump said he plans to shut down the Chinese-owned app over security concerns. But in the mea…*
        
-  - Triller CEO Mike Lu to talk taking on TikTok at Disrupt 2020
-      <hr/>
-       
-       - *Several months ago, before the world became so much more complicated, it was still crystal clear that TikTok was a force to be reckoned with and that its massive growth signaled big things for both Silicon Valley and the global tech scene. As the Bytedance-ow…*
+       - *The French government unveiled a massive $120 million (€100 billion) stimulus package earlier today to recover from the economic downturn — it represents 4% of the country’s GDP. As part of this support plan, the government plans to spend a significant chunk …*
       
 
 
