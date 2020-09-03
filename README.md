@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 
-~ Fred Brooks
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The programmer, like the poet, works only slightly removed from pure thought-stu
 
 </pre>
 **Daily News**
-  - Track autonomous vehicle testing in your state with this new tool from the US government
+  - SoftBank Vision Fund 2 leads $100 million Series C in digital therapeutics company Biofourmis
      <hr/>
      
-      - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
+      - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
      
+  - Track autonomous vehicle testing in your state with this new tool from the US government
+      <hr/>
+      
+      - *The U.S. government rolled out a new online tool Wednesday designed to give the public insight into where and who is testing automated vehicle technology throughout the country. The official name of the online tool — Automated Vehicle Transparency and Engagem…*
+      
   - Daily Crunch: India bans PUBG and other Chinese apps
       <hr/>
       
@@ -81,16 +86,11 @@ The programmer, like the poet, works only slightly removed from pure thought-stu
       <hr/>
       
       - *Facebook’s video destination, Facebook Watch, is introducing a new feature called “Your Topics” that will allow you to tailor its feed to include more of the content you want to see. Currently, Facebook leverages its existing understanding of each viewer’s in…*
-      
+       
   - Samsung’s got a new budget 5G handset and a fitness tracker with a two-week battery
       <hr/>
-      
-      - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
        
-  - FCC dings company for $164K after its false broadband claims distorted national report
-      <hr/>
-       
-       - *The FCC was deeply embarrassed last year when it was found that its rosy broadband deployment report was off by millions, owing to a single, extremely suspect filing that conjured 62 million customers out of thin air. The company responsible is being assessed…*
+       - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
       
 
 
