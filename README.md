@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Vint Cerf
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ And programming computers was so fascinating. You create your own little univers
 
 </pre>
 **Daily News**
-  - BGF leads $11M round in on-demand merchandise platform Moteefe
+  - Xiaomi backs Dyson's Chinese challenger Dreame in $15 million round
      <hr/>
      
-      - *Moteefe, the e-commerce platform for on-demand production of merchandise, has raised $11 million in what, according to filings, appears to be part one of a Series B. Leading the round is BGF, with participation from existing investors including Gresham House …*
+      - *Once known for its affordable smartphones, Xiaomi has in recent years been transforming itself into an online mall for consumer electronics by making deals and building relationships with hundreds of hardware and lifestyle startups. And some of its allies are…*
      
+  - BGF leads $11M round in on-demand merchandise platform Moteefe
+      <hr/>
+      
+      - *Moteefe, the e-commerce platform for on-demand production of merchandise, has raised $11 million in what, according to filings, appears to be part one of a Series B. Leading the round is BGF, with participation from existing investors including Gresham House …*
+      
   - India's Zomato raises $62 million from Temasek
       <hr/>
       
@@ -81,16 +86,11 @@ And programming computers was so fascinating. You create your own little univers
       <hr/>
       
       - *Lise Buyer has been advising startups on how to go public for the last 13 years through her consultancy, Class V Group. She built the business after working as an investment banker, and then as a director at Google, where she helped architect the company’s fa…*
-      
+       
   - Facebook bans politician of India's ruling party for violating hate speech
       <hr/>
-      
-      - *Facebook has banned a politician from India’s ruling party, Bharatiya Janata Party, for violating its policies against hate speech on its platform, the company said today, weeks after inaction on the politician’s posts landed the social giant in hot water in …*
        
-  - PropertyGuru lands $220M from KKR and TPG to conquer Southeast Asia
-      <hr/>
-       
-       - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
+       - *Facebook has banned a politician from India’s ruling party, Bharatiya Janata Party, for violating its policies against hate speech on its platform, the company said today, weeks after inaction on the politician’s posts landed the social giant in hot water in …*
       
 
 
