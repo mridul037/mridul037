@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software gets slower faster than hardware gets faster.
+Object-oriented design is the roman numerals of computing.
 
-~ Niklaus Wirth
+~ Rob Pike
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Software gets slower faster than hardware gets faster.
 
 </pre>
 **Daily News**
-  - Volkswagen-backed QuantumScape to go public via SPAC to bring solid-state batteries to EVs
+  - European launch provider Arianespace successfully launches a satellite rideshare demonstration mission
      <hr/>
      
-      - *QuantumScape, the solid-state battery company backed by Volkswagen Group, has agreed to merge with a special purpose acquisition company Kensington Capital Acquisition Corp. as it aims to raise the capital it needs to commercialize solid-state batteries for e…*
+      - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
      
+  - This Garmin GPS aims to improve motorsport's lap times and more
+      <hr/>
+      
+      - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
+      
+  - Volkswagen-backed QuantumScape to go public via SPAC to bring solid-state batteries to EVs
+      <hr/>
+      
+      - *QuantumScape, the solid-state battery company backed by Volkswagen Group, has agreed to merge with a special purpose acquisition company Kensington Capital Acquisition Corp. as it aims to raise the capital it needs to commercialize solid-state batteries for e…*
+      
   - MedTech startup uMotif raises £5m from AlbionVC, as COVID-19 accelerates remote clinical studies
       <hr/>
       
       - *couMotif has an app that allows patients to monitor themselves for treatments or drug trials which then feeds into a platform allowing a much faster approach to clinical studies. It’s now raised £5 million in a Series A investment round led by existing UK inv…*
-      
+       
   - Facebook's photo porting tool adds support for Dropbox and Koofr
       <hr/>
-      
-      - *Facebook’s photo and video portability tool has added support for two more third party services for users to send data via encrypted transfer — namely: cloud storage providers Dropbox and (EU-based) Koofr. The tech giant debuted the photo porting tool in Dece…*
-      
-  - Xiaomi backs Dyson's Chinese challenger Dreame in $15 million round
-      <hr/>
-      
-      - *Once known for its affordable smartphones, Xiaomi has in recent years been transforming itself into an online mall for consumer electronics by making deals and building relationships with hundreds of hardware and lifestyle startups. And some of its allies are…*
        
-  - BGF leads $11M round in on-demand merchandise platform Moteefe
-      <hr/>
-       
-       - *Moteefe, the e-commerce platform for on-demand production of merchandise, has raised $11 million in what, according to filings, appears to be part one of a Series B. Leading the round is BGF, with participation from existing investors including Gresham House …*
+       - *Facebook’s photo and video portability tool has added support for two more third party services for users to send data via encrypted transfer — namely: cloud storage providers Dropbox and (EU-based) Koofr. The tech giant debuted the photo porting tool in Dece…*
       
 
 
