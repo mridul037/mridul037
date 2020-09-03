@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ John von Neumann
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 </pre>
 **Daily News**
-  - Twitter and Facebook wrestle with Trump telling Americans to vote twice
+  - Oracle loses $10B JEDI cloud contract appeal yet again
      <hr/>
      
-      - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
+      - *Oracle was never fond of the JEDI cloud contract process, that massive $10 billion, decade-long Department of Defense cloud contract that went to a single vendor. It was forever arguing to anyone who would listen that that process was faulty and favored Amazo…*
      
+  - Twitter and Facebook wrestle with Trump telling Americans to vote twice
+      <hr/>
+      
+      - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
+      
   - Rocket Lab secretly launched its very first satellite, 'First Light'
       <hr/>
       
@@ -81,16 +86,11 @@ Young man, in mathematics you don't understand things. You just get used to them
       <hr/>
       
       - *SpaceX has done it again – a second ‘hop’ flight in under a month for its Starship prototype. This was a 150 meter (just under 500 foot) test flight from its Boca Chica, Texas development site. The prototype used in this instance was SN6, a more recent model …*
-      
+       
   - Media Roundup: Patreon joins unicorn club, Facebook could ban news in Australia, more
       <hr/>
-      
-      - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
        
-  - Exhibitors at Disrupt 2020: Register now to meet accelerators next week
-      <hr/>
-       
-       - *Disrupt 2020 is all about helping startups find and create ways to drive their business forward in these most challenging times. We partnered with cela to give exhibitors in Digital Startup Alley one sweet opportunity — networking with 13 accelerators. If you…*
+       - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
       
 
 
