@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was a turning point in my programming career when I realized that I didn't have to win every argument.
+The best way to predict the future is to invent it.
 
-~ Ward Cunningham
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It was a turning point in my programming career when I realized that I didn't ha
 
 </pre>
 **Daily News**
-  - Spirit Airlines starts testing biometric check-ins
+  - In amended filing, Palantir admits it won’t have independent board governance for up to a year
      <hr/>
      
-      - *Discount carrier Spirit Airlines today announced that it is introducing biometric check-ins in its ticket lobby at Chicago’s O’Hare airport to streamline the check-in process and reduce face-to-face interactions between its employees and passengers during the…*
+      - *When we leaked Palantir’s S-1 IPO filing a week and a half ago, one of the more bizarre components that came out of that document was the company’s corporate governance. In a unique three-class voting structure, Palantir founders Alex Karp, Stephen Cohen, and…*
      
-  - WhatsApp reveals six previously undisclosed vulnerabilities on new security site
+  - Nintendo rips the seal off the next generation of nostalgia, but fans fret
       <hr/>
       
-      - *Facebook said there was no evidence that the bugs, now fixed, were exploited.*
+      - *It has always been considered a matter of if, and not when, Nintendo would begin capitalizing in earnest on content from beyond the SNES generation. The company has finally showing its intent to do so today — but with an uneven approach that leaves some fans …*
       
-  - Facebook to warn third-party developers of vulnerable code
+  - Nintendo is remaking the first portable gaming system it ever built
       <hr/>
       
-      - *Facebook has announced a policy change that will see the company notify third-party developers if it finds a security vulnerability in their code. Facebook said it “may occasionally find” critical bugs and vulnerabilities in third-party code and systems, in a…*
+      - *Quick, what was the first portable gaming system Nintendo made? If you said “Game Boy”… solid guess, but not quite. For nearly a decade before Nintendo released that iconic gray beast, it was making the Game & Watch — a collection of handheld devices, each de…*
       
-  - Oracle loses $10B JEDI cloud contract appeal yet again
+  - Daily Crunch: Apple delays ad-tracking changes
       <hr/>
       
-      - *Oracle was never fond of the JEDI cloud contract process, that massive $10 billion, decade-long Department of Defense cloud contract that went to a single vendor. It was forever arguing to anyone who would listen that that process was faulty and favored Amazo…*
+      - *Apple announces a surprising delay, Facebook bans new political ads for the week before the U.S. election and SpaceX is testing its Starlink internet system. This is your Daily Crunch for September 3, 2020. The big story: Apple delays ad-tracking changes At t…*
        
-  - Twitter and Facebook wrestle with Trump telling Americans to vote twice
+  - Spirit Airlines starts testing biometric check-ins
       <hr/>
        
-       - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
+       - *Discount carrier Spirit Airlines today announced that it is introducing biometric check-ins in its ticket lobby at Chicago’s O’Hare airport to streamline the check-in process and reduce face-to-face interactions between its employees and passengers during the…*
       
 
 
