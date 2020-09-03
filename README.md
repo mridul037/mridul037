@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+It was a turning point in my programming career when I realized that I didn't have to win every argument.
 
-~ L. Peter Deutsch
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
 
 </pre>
 **Daily News**
-  - Oracle loses $10B JEDI cloud contract appeal yet again
+  - Spirit Airlines starts testing biometric check-ins
      <hr/>
      
-      - *Oracle was never fond of the JEDI cloud contract process, that massive $10 billion, decade-long Department of Defense cloud contract that went to a single vendor. It was forever arguing to anyone who would listen that that process was faulty and favored Amazo…*
+      - *Discount carrier Spirit Airlines today announced that it is introducing biometric check-ins in its ticket lobby at Chicago’s O’Hare airport to streamline the check-in process and reduce face-to-face interactions between its employees and passengers during the…*
      
+  - WhatsApp reveals six previously undisclosed vulnerabilities on new security site
+      <hr/>
+      
+      - *Facebook said there was no evidence that the bugs, now fixed, were exploited.*
+      
+  - Facebook to warn third-party developers of vulnerable code
+      <hr/>
+      
+      - *Facebook has announced a policy change that will see the company notify third-party developers if it finds a security vulnerability in their code. Facebook said it “may occasionally find” critical bugs and vulnerabilities in third-party code and systems, in a…*
+      
+  - Oracle loses $10B JEDI cloud contract appeal yet again
+      <hr/>
+      
+      - *Oracle was never fond of the JEDI cloud contract process, that massive $10 billion, decade-long Department of Defense cloud contract that went to a single vendor. It was forever arguing to anyone who would listen that that process was faulty and favored Amazo…*
+       
   - Twitter and Facebook wrestle with Trump telling Americans to vote twice
       <hr/>
-      
-      - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
-      
-  - Rocket Lab secretly launched its very first satellite, 'First Light'
-      <hr/>
-      
-      - *Rocket Lab’s 14th mission, “I Can’t Believe It’s Not Optical,” had a stowaway aboard. The New Zealand launch company quietly included its first fully functioning satellite next to its paying customer’s payload. First Light, as it’s called, is a sort of tech…*
-      
-  - SpaceX completes another successful short test flight of its Starship spacecraft prototype
-      <hr/>
-      
-      - *SpaceX has done it again – a second ‘hop’ flight in under a month for its Starship prototype. This was a 150 meter (just under 500 foot) test flight from its Boca Chica, Texas development site. The prototype used in this instance was SN6, a more recent model …*
        
-  - Media Roundup: Patreon joins unicorn club, Facebook could ban news in Australia, more
-      <hr/>
-       
-       - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
+       - *President Trump’s recent suggestion that North Carolina voters should cast multiple ballots has run afoul of Twitter’s election integrity rules. In a series of tweets Thursday morning, the president elaborated on previous statements in which he encouraged Ame…*
       
 
 
