@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+That hardly ever happens is another way of saying 'it happens'.
 
-~ Rob Pike
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Object-oriented design is the roman numerals of computing.
 
 </pre>
 **Daily News**
-  - European launch provider Arianespace successfully launches a satellite rideshare demonstration mission
+  - Philips Hue's new Play gradient lightstrip promises a big upgrade for home entertainment spaces
      <hr/>
      
-      - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
+      - *Smart lighting company Philips Hue has a new product in its home entertainment catalog that should make a smart TV lighting setup much easier and more powerful. The new Philips Hue Play gradient lightstrip features individually-addressable full-color LEDs, me…*
      
+  - Facebook to block new political ads 1 week before Nov 3, adds more tools and rules for fair elections
+      <hr/>
+      
+      - *We’re now 61 days away from the US Presidential election, and Facebook is once more ramping up its efforts to level the playing field and attempt to keep its platform from being manipulated to influence how people vote. CEO Mark Zuckerberg today announced a s…*
+      
+  - Watch SpaceX launch its 12th Starlink satellite internet mission live
+      <hr/>
+      
+      - *SpaceX is about to hit an even dozen for its Starlink launches, which carry the company’s own broadband internet satellites to low Earth orbit. This flight carries a full 60-satellite complement of the Starlink spacecraft, after the last couple of these have …*
+      
+  - European launch provider Arianespace successfully launches a satellite rideshare demonstration mission
+      <hr/>
+      
+      - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
+       
   - This Garmin GPS aims to improve motorsport's lap times and more
       <hr/>
-      
-      - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
-      
-  - Volkswagen-backed QuantumScape to go public via SPAC to bring solid-state batteries to EVs
-      <hr/>
-      
-      - *QuantumScape, the solid-state battery company backed by Volkswagen Group, has agreed to merge with a special purpose acquisition company Kensington Capital Acquisition Corp. as it aims to raise the capital it needs to commercialize solid-state batteries for e…*
-      
-  - MedTech startup uMotif raises £5m from AlbionVC, as COVID-19 accelerates remote clinical studies
-      <hr/>
-      
-      - *couMotif has an app that allows patients to monitor themselves for treatments or drug trials which then feeds into a platform allowing a much faster approach to clinical studies. It’s now raised £5 million in a Series A investment round led by existing UK inv…*
        
-  - Facebook's photo porting tool adds support for Dropbox and Koofr
-      <hr/>
-       
-       - *Facebook’s photo and video portability tool has added support for two more third party services for users to send data via encrypted transfer — namely: cloud storage providers Dropbox and (EU-based) Koofr. The tech giant debuted the photo porting tool in Dece…*
+       - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
       
 
 
