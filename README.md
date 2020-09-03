@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ Fred Brooks
+~ Nathaniel Borenstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Study after study shows that the very best designers produce structures that are
 
 </pre>
 **Daily News**
-  - How to craft the right pitch deck for your company at Disrupt 2020
+  - Nintendo’s latest trick is turning the Switch into an RC controller for an AR Mario Kart game
      <hr/>
      
-      - *Your startup is special and different, and you need to explain that to distracted investors in just a few short slides. The pandemic has added to your challenge, because more investors have been looking through more decks than ever online — and spending less …*
+      - *Nintendo never ceases to surprise with a seemingly infinite numbers of ways of transforming its most beloved IP. Hot on the heels of some truly impressive Super Mario Bros. Lego kits comes Mario Kart Live: Home Circuit. The new toy is a clever mashup of real-…*
      
+  - Amazon launches an Alexa service for property managers
+      <hr/>
+      
+      - *Amazon wants to bring Alexa to property managers. The company this morning launched a new service, Alexa for Residential, that aims to make it easier for property managers to set up and maintain Alexa-powered smart home experiences in their buildings, like co…*
+      
+  - How to craft the right pitch deck for your company at Disrupt 2020
+      <hr/>
+      
+      - *Your startup is special and different, and you need to explain that to distracted investors in just a few short slides. The pandemic has added to your challenge, because more investors have been looking through more decks than ever online — and spending less …*
+      
   - NSA call records collection ruled illegal by US appeals court
       <hr/>
       
       - *The appeals court unanimously ruled that the NSA program was illegal and probably unconstitutional.*
-      
+       
   - 9 top real estate and proptech investors: Cities and offices still have a future
       <hr/>
-      
-      - *Despite the COVID-19 pandemic, many U.S. workers will eventually return to their offices. But when they do, their big-city workplace will not only have a smaller footprint and operational strategy, it might be in a different town altogether, according to a re…*
-      
-  - Disrupt 2020 Labor Day flash sale
-      <hr/>
-      
-      - *If you belong to the global early-stage startup community, you labor your keister off every day. Here in the states, we observe Labor Day every September to celebrate workers — with sales on everything from cars to mattresses (how very American). Not to be ou…*
        
-  - Demodesk snags $8M Series A to continue developing sales demo platform
-      <hr/>
-       
-       - *It is clear that as the pandemic has taken hold in 2020, in-person meetings have gone by the wayside. Yet sales teams still need a way to demo their products for potential customers, particularly SaaS vendors. Enter Demodesk, an early stage startup and Y Comb…*
+       - *Despite the COVID-19 pandemic, many U.S. workers will eventually return to their offices. But when they do, their big-city workplace will not only have a smaller footprint and operational strategy, it might be in a different town altogether, according to a re…*
       
 
 
