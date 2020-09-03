@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Nathaniel Borenstein
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It should be noted that no ethically-trained software engineer would ever consen
 
 </pre>
 **Daily News**
-  - Nintendo’s latest trick is turning the Switch into an RC controller for an AR Mario Kart game
+  - Apple introduces 'offer codes' to entice app users with free and discounted subscriptions
      <hr/>
      
-      - *Nintendo never ceases to surprise with a seemingly infinite numbers of ways of transforming its most beloved IP. Hot on the heels of some truly impressive Super Mario Bros. Lego kits comes Mario Kart Live: Home Circuit. The new toy is a clever mashup of real-…*
+      - *Apple is introducing a change to how subscriptions work. No, it’s not lowering its cut, despite the government’s antitrust investigation and its lawsuit with Epic. It announced that developers will be able to offer subscriptions via a new feature, called offe…*
      
-  - Amazon launches an Alexa service for property managers
+  - Avo raises $3M for its analytics governance platform
       <hr/>
       
-      - *Amazon wants to bring Alexa to property managers. The company this morning launched a new service, Alexa for Residential, that aims to make it easier for property managers to set up and maintain Alexa-powered smart home experiences in their buildings, like co…*
+      - *Avo, a startup that helps businesses better manage their data quality across teams, today announced that it has raised a $3 million seed round led by GGV Capital, with participation from  Heavybit, Y Combinator and others. The company’s founder, Stefania Olaf…*
       
-  - How to craft the right pitch deck for your company at Disrupt 2020
+  - No quick fix for transatlantic data transfers, says EC
       <hr/>
       
-      - *Your startup is special and different, and you need to explain that to distracted investors in just a few short slides. The pandemic has added to your challenge, because more investors have been looking through more decks than ever online — and spending less …*
+      - *Europe’s justice commissioner has conceded there will be “no quick fix” for EU-US data transfers in the wake of the decision by the region’s top court in July that struck down a flagship data transfer agreement which was being used by thousands of businesses.…*
       
-  - NSA call records collection ruled illegal by US appeals court
+  - What happens when public SaaS companies don't meet heightened investor expectations?
       <hr/>
       
-      - *The appeals court unanimously ruled that the NSA program was illegal and probably unconstitutional.*
+      - *Late last week we discussed how, this deep into the earnings cycle, it appeared that public SaaS and cloud companies had largely made it through the Q2 gauntlet unscathed. Sure, through last week there was a report or two that wasn’t stellar, but by and large…*
        
-  - 9 top real estate and proptech investors: Cities and offices still have a future
+  - Nintendo’s latest trick is turning the Switch into an RC controller for an AR Mario Kart game
       <hr/>
        
-       - *Despite the COVID-19 pandemic, many U.S. workers will eventually return to their offices. But when they do, their big-city workplace will not only have a smaller footprint and operational strategy, it might be in a different town altogether, according to a re…*
+       - *Nintendo never ceases to surprise with a seemingly infinite numbers of ways of transforming its most beloved IP. Hot on the heels of some truly impressive Super Mario Bros. Lego kits comes Mario Kart Live: Home Circuit. The new toy is a clever mashup of real-…*
       
 
 
