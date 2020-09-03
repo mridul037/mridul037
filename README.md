@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ That hardly ever happens is another way of saying 'it happens'.
 
 </pre>
 **Daily News**
-  - Philips Hue's new Play gradient lightstrip promises a big upgrade for home entertainment spaces
+  - How to craft the right pitch deck for your company at Disrupt 2020
      <hr/>
      
-      - *Smart lighting company Philips Hue has a new product in its home entertainment catalog that should make a smart TV lighting setup much easier and more powerful. The new Philips Hue Play gradient lightstrip features individually-addressable full-color LEDs, me…*
+      - *Your startup is special and different, and you need to explain that to distracted investors in just a few short slides. The pandemic has added to your challenge, because more investors have been looking through more decks than ever online — and spending less …*
      
-  - Facebook to block new political ads 1 week before Nov 3, adds more tools and rules for fair elections
+  - NSA call records collection ruled illegal by US appeals court
       <hr/>
       
-      - *We’re now 61 days away from the US Presidential election, and Facebook is once more ramping up its efforts to level the playing field and attempt to keep its platform from being manipulated to influence how people vote. CEO Mark Zuckerberg today announced a s…*
+      - *The appeals court unanimously ruled that the NSA program was illegal and probably unconstitutional.*
       
-  - Watch SpaceX launch its 12th Starlink satellite internet mission live
+  - 9 top real estate and proptech investors: Cities and offices still have a future
       <hr/>
       
-      - *SpaceX is about to hit an even dozen for its Starlink launches, which carry the company’s own broadband internet satellites to low Earth orbit. This flight carries a full 60-satellite complement of the Starlink spacecraft, after the last couple of these have …*
+      - *Despite the COVID-19 pandemic, many U.S. workers will eventually return to their offices. But when they do, their big-city workplace will not only have a smaller footprint and operational strategy, it might be in a different town altogether, according to a re…*
       
-  - European launch provider Arianespace successfully launches a satellite rideshare demonstration mission
+  - Disrupt 2020 Labor Day flash sale
       <hr/>
       
-      - *The small satellite launch industry is heating up, with a number of small launch providers currently vying to become the next with an active orbital launch vehicle. Existing large launch vehicle operator Arianespace is also joining the fray, however, and perf…*
+      - *If you belong to the global early-stage startup community, you labor your keister off every day. Here in the states, we observe Labor Day every September to celebrate workers — with sales on everything from cars to mattresses (how very American). Not to be ou…*
        
-  - This Garmin GPS aims to improve motorsport's lap times and more
+  - Demodesk snags $8M Series A to continue developing sales demo platform
       <hr/>
        
-       - *Garmin today is announcing a $999 GPS unit designed specifically for motorsports. Called the Garmin Catalyst the unit aims to be a motorsports coach of sorts, helping drivers improve lap times, and more. It’s the latest example of Garmin testing different mar…*
+       - *It is clear that as the pandemic has taken hold in 2020, in-person meetings have gone by the wayside. Yet sales teams still need a way to demo their products for potential customers, particularly SaaS vendors. Enter Demodesk, an early stage startup and Y Comb…*
       
 
 
