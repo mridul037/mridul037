@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Sean Parent
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
 
 </pre>
 **Daily News**
-  - SoftBank Vision Fund 2 leads $100 million Series C in digital therapeutics company Biofourmis
+  - PropertyGuru lands $220M from KKR and TPG to conquer Southeast Asia
      <hr/>
      
-      - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
+      - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
      
+  - SoftBank Vision Fund 2 leads $100 million Series C in digital therapeutics company Biofourmis
+      <hr/>
+      
+      - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
+      
   - Track autonomous vehicle testing in your state with this new tool from the US government
       <hr/>
       
@@ -81,16 +86,11 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
       <hr/>
       
       - *India continues to crack down on Chinese apps, Microsoft launches a deepfake detector and Google offers a personalized news podcast. This is your Daily Crunch for September 2, 2020. The big story: India bans PUBG and other Chinese apps The Indian government c…*
-      
+       
   - Facebook now lets you customize your Watch video feed with #Topics
       <hr/>
-      
-      - *Facebook’s video destination, Facebook Watch, is introducing a new feature called “Your Topics” that will allow you to tailor its feed to include more of the content you want to see. Currently, Facebook leverages its existing understanding of each viewer’s in…*
        
-  - Samsung’s got a new budget 5G handset and a fitness tracker with a two-week battery
-      <hr/>
-       
-       - *Yesterday’s overflow Galaxy Unpacked event was about one thing and one thing alone: the Galaxy Z Fold 2. Honestly, it was a bit anticlimactic after its predecessor found Samsung unveiling five new devices. But the singular focus wasn’t for lack of new stuff t…*
+       - *Facebook’s video destination, Facebook Watch, is introducing a new feature called “Your Topics” that will allow you to tailor its feed to include more of the content you want to see. Currently, Facebook leverages its existing understanding of each viewer’s in…*
       
 
 
