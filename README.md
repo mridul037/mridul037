@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Poul-Henning Kamp
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Make a guess, double the number, and then move to the next larger unit of time. 
 
 </pre>
 **Daily News**
-  - Media Roundup: Patreon joins unicorn club, Facebook could ban news in Australia, more
+  - Rocket Lab secretly launched its very first satellite, 'First Light'
      <hr/>
      
-      - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
+      - *Rocket Lab’s 14th mission, “I Can’t Believe It’s Not Optical,” had a stowaway aboard. The New Zealand launch company quietly included its first fully functioning satellite next to its paying customer’s payload. First Light, as it’s called, is a sort of tech…*
      
+  - SpaceX completes another successful short test flight of its Starship spacecraft prototype
+      <hr/>
+      
+      - *SpaceX has done it again – a second ‘hop’ flight in under a month for its Starship prototype. This was a 150 meter (just under 500 foot) test flight from its Boca Chica, Texas development site. The prototype used in this instance was SN6, a more recent model …*
+      
+  - Media Roundup: Patreon joins unicorn club, Facebook could ban news in Australia, more
+      <hr/>
+      
+      - *Welcome to the very first edition of Extra Crunch’s Media Roundup. Over the past few months, we’ve launched features like Decrypted, Deep Science and The Exchange, which aggregate and analyze the latest news in a given sector, so it seemed overdue to do somet…*
+      
   - Exhibitors at Disrupt 2020: Register now to meet accelerators next week
       <hr/>
       
       - *Disrupt 2020 is all about helping startups find and create ways to drive their business forward in these most challenging times. We partnered with cela to give exhibitors in Digital Startup Alley one sweet opportunity — networking with 13 accelerators. If you…*
-      
+       
   - Apple won't force developers to let users opt out of tracking until next year
       <hr/>
-      
-      - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
-      
-  - Explore micromobility's next opportunities at TC Sessions: Mobility
-      <hr/>
-      
-      - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
        
-  - France to spend $8.4 billion on digital as part of stimulus plan
-      <hr/>
-       
-       - *The French government unveiled a massive $120 million (€100 billion) stimulus package earlier today to recover from the economic downturn — it represents 4% of the country’s GDP. As part of this support plan, the government plans to spend a significant chunk …*
+       - *The iOS 14 privacy feature, announced earlier this year, will not be enforced until 2021.*
       
 
 
