@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Daniel T. Barry
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A stupid error is an algorithmically avoidable error. Mainly, you are stupid if 
 
 </pre>
 **Daily News**
-  - Apple introduces 'offer codes' to entice app users with free and discounted subscriptions
+  - Explore micromobility's next opportunities at TC Sessions: Mobility
      <hr/>
      
-      - *Apple is introducing a change to how subscriptions work. No, it’s not lowering its cut, despite the government’s antitrust investigation and its lawsuit with Epic. It announced that developers will be able to offer subscriptions via a new feature, called offe…*
+      - *Micromobility, like many other industries, has faced a lot of uncertainty this year. Many shared electric scooter operators paused their services in the earlier days of the COVID-19 pandemic, but resumed operations after putting some safety measures into plac…*
      
-  - Avo raises $3M for its analytics governance platform
+  - France to spend $8.4 billion on digital as part of stimulus plan
       <hr/>
       
-      - *Avo, a startup that helps businesses better manage their data quality across teams, today announced that it has raised a $3 million seed round led by GGV Capital, with participation from  Heavybit, Y Combinator and others. The company’s founder, Stefania Olaf…*
+      - *The French government unveiled a massive $120 million (€100 billion) stimulus package earlier today to recover from the economic downturn — it represents 4% of the country’s GDP. As part of this support plan, the government plans to spend a significant chunk …*
       
-  - No quick fix for transatlantic data transfers, says EC
+  - OrCam Technologies co-founder Amnon Shashua to speak at Sight Tech Global
       <hr/>
       
-      - *Europe’s justice commissioner has conceded there will be “no quick fix” for EU-US data transfers in the wake of the decision by the region’s top court in July that struck down a flagship data transfer agreement which was being used by thousands of businesses.…*
+      - *If the measure of progress in technology is that devices should become ever smaller and more capable, then OrCam Technologies is on a roll. The Israeli firm’s OrCam MyEye, which fits on the arm of a pair of glasses, is far more powerful and much smaller than …*
       
-  - What happens when public SaaS companies don't meet heightened investor expectations?
+  - As it awaits its US fate, TikTok doubles down on its revenue funnel with marketing partners
       <hr/>
       
-      - *Late last week we discussed how, this deep into the earnings cycle, it appeared that public SaaS and cloud companies had largely made it through the Q2 gauntlet unscathed. Sure, through last week there was a report or two that wasn’t stellar, but by and large…*
+      - *There’s a big question mark hanging over the future of TikTok right now, in the form of what exactly will happen to its US business come September 20, when President Trump said he plans to shut down the Chinese-owned app over security concerns. But in the mea…*
        
-  - Nintendo’s latest trick is turning the Switch into an RC controller for an AR Mario Kart game
+  - Triller CEO Mike Lu to talk taking on TikTok at Disrupt 2020
       <hr/>
        
-       - *Nintendo never ceases to surprise with a seemingly infinite numbers of ways of transforming its most beloved IP. Hot on the heels of some truly impressive Super Mario Bros. Lego kits comes Mario Kart Live: Home Circuit. The new toy is a clever mashup of real-…*
+       - *Several months ago, before the world became so much more complicated, it was still crystal clear that TikTok was a force to be reckoned with and that its massive growth signaled big things for both Silicon Valley and the global tech scene. As the Bytedance-ow…*
       
 
 
