@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you learn how to solve problems, you can go through life and do pretty well.
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 
-~ Gary Kildall
+~ Vint Cerf
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If you learn how to solve problems, you can go through life and do pretty well.
 
 </pre>
 **Daily News**
-  - India's Zomato raises $62 million from Temasek
+  - BGF leads $11M round in on-demand merchandise platform Moteefe
      <hr/>
      
-      - *Indian food delivery startup Zomato has raised $62 million from Singapore’s Temasek, resuming a financing round that it originally expected to close in January this year. Singapore’s state investment arm Temasek financed the capital through its unit MacRitchi…*
+      - *Moteefe, the e-commerce platform for on-demand production of merchandise, has raised $11 million in what, according to filings, appears to be part one of a Series B. Leading the round is BGF, with participation from existing investors including Gresham House …*
      
+  - India's Zomato raises $62 million from Temasek
+      <hr/>
+      
+      - *Indian food delivery startup Zomato has raised $62 million from Singapore’s Temasek, resuming a financing round that it originally expected to close in January this year. Singapore’s state investment arm Temasek financed the capital through its unit MacRitchi…*
+      
   - It's not just Airbnb; an IPO expert pushes back against the SPAC frenzy and other new ways to going public
       <hr/>
       
@@ -81,16 +86,11 @@ If you learn how to solve problems, you can go through life and do pretty well.
       <hr/>
       
       - *Facebook has banned a politician from India’s ruling party, Bharatiya Janata Party, for violating its policies against hate speech on its platform, the company said today, weeks after inaction on the politician’s posts landed the social giant in hot water in …*
-      
+       
   - PropertyGuru lands $220M from KKR and TPG to conquer Southeast Asia
       <hr/>
-      
-      - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
        
-  - SoftBank Vision Fund 2 leads $100 million Series C in digital therapeutics company Biofourmis
-      <hr/>
-       
-       - *Biofourmis, which combines AI-based data analytics and biosensors to monitor the progress of medical treatments, has raised funding from one of the world’s most high-profile investors. The digital therapeutics company, which launched in Singapore and is now h…*
+       - *Southeast Asia’s leading property listing company PropertyGuru is making great strides across the region as it secures a fresh investment of SG$300 million ($220 million), it announced this week. The proceeds, financed by existing investors KKR and TPG, both …*
       
 
 
