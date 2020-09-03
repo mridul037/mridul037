@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Martin Fowler
+~ Sean Parent
 <pre>
 
 </pre>
