@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Marijn Haverbeke
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Size almost always involves complexity, and complexity confuses programmers. Con
 
 </pre>
 **Daily News**
-  - Qualcomm-powered Chinese XR startup Nreal raises $40 million
+  - Peloton said to be launching new, cheaper treadmill and higher-end stationary smart bike
      <hr/>
      
-      - *Nreal, one of the most-watched mixed reality startups in China, just secured $40 million from a group of high-profile investors in a Series B round that could potentially bring more adoption to its portable augmented glasses. Kuaishou, the archrival to TikTok…*
+      - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
      
+  - Qualcomm-powered Chinese XR startup Nreal raises $40 million
+      <hr/>
+      
+      - *Nreal, one of the most-watched mixed reality startups in China, just secured $40 million from a group of high-profile investors in a Series B round that could potentially bring more adoption to its portable augmented glasses. Kuaishou, the archrival to TikTok…*
+      
   - Google pushes Europe to limit 'gatekeeper' platform rules
       <hr/>
       
@@ -81,16 +86,11 @@ Size almost always involves complexity, and complexity confuses programmers. Con
       <hr/>
       
       - *Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do. Yandex — the public…*
-      
+       
   - Teemyco creates virtual offices so that you can grab a room and talk with colleagues
       <hr/>
-      
-      - *Meet Teemyco, a Stockholm-based startup that wants to reproduce office interactions in a virtual environment. The company wants to foster spontaneous interactions and casual collaboration with a room-based interface. Each employee moves from one room to anoth…*
        
-  - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
-      <hr/>
-       
-       - *Tinder’s “Swipe Night” is going global. The dating app announced today that its interactive video series will be available in Asia and other international markets starting on September 12, giving users another way to connect as they continue to stay at home b…*
+       - *Meet Teemyco, a Stockholm-based startup that wants to reproduce office interactions in a virtual environment. The company wants to foster spontaneous interactions and casual collaboration with a room-based interface. Each employee moves from one room to anoth…*
       
 
 
