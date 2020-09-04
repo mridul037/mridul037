@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
 
-~ Seymour Cray
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -82,15 +82,15 @@ The trouble with programmers is that you can never tell what a programmer is doi
       
       - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
       
-  - Stocks are selling off again, and SaaS shares are taking the biggest lumps
+  - Local governments that embrace digital services during challenging times can make real change happen
       <hr/>
       
-      - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
+      - *How can local leaders embrace this new era of civic engagement in the world of COVID-19 to deliver digital solutions that help everyone meet the moment?*
        
-  - Low-cost fitness bands see a resurgence in interest amid the pandemic
+  - Stocks are selling off again, and SaaS shares are taking the biggest lumps
       <hr/>
        
-       - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
+       - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
       
 
 
