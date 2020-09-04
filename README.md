@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Alan Kay
+~ Rick Osborne
 <pre>
 
 </pre>
