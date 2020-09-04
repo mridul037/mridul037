@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 
-~ Donald Knuth
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ People think that computer science is the art of geniuses but the actual reality
 
 </pre>
 **Daily News**
-  - Palantir's concentrated governance is great for execs, but what about shareholders?
+  - Stocks are selling off again, and SaaS shares are taking the biggest lumps
      <hr/>
      
-      - *A few days ago I wrote down a few notes making a bullish case for Palantir, searching to find good news amidst the company’s huge historical deficits. Heading into the next phase of Palantir’s march to the public markets, I was very curious to see how the com…*
+      - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
      
+  - Low-cost fitness bands see a resurgence in interest amid the pandemic
+      <hr/>
+      
+      - *While wearable fitness devices saw an uptick in shipments in North America for Q2, the overall dollar amount of the market remained steady, according to new numbers out of Canalys. The discrepancy can be chalked up to a decline in the average selling price of…*
+      
+  - Palantir's concentrated governance is great for execs, but what about shareholders?
+      <hr/>
+      
+      - *A few days ago I wrote down a few notes making a bullish case for Palantir, searching to find good news amidst the company’s huge historical deficits. Heading into the next phase of Palantir’s march to the public markets, I was very curious to see how the com…*
+      
   - Mustard raises $1.7M to improve athletic mechanics with AI
       <hr/>
       
       - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
-      
+       
   - NSA's Anne Neuberger to talk cybersecurity at Disrupt 2020
       <hr/>
-      
-      - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
-      
-  - Peloton said to be launching new, cheaper treadmill and higher-end stationary smart bike
-      <hr/>
-      
-      - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
        
-  - Qualcomm-powered Chinese XR startup Nreal raises $40 million
-      <hr/>
-       
-       - *Nreal, one of the most-watched mixed reality startups in China, just secured $40 million from a group of high-profile investors in a Series B round that could potentially bring more adoption to its portable augmented glasses. Kuaishou, the archrival to TikTok…*
+       - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
       
 
 
