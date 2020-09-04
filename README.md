@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Never memorize something that you can look up.
+I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
-~ Albert Einstein
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Never memorize something that you can look up.
 
 </pre>
 **Daily News**
-  - Stocks are selling off again, and SaaS shares are taking the biggest lumps
+  - 3 views on the future of geographic-focused funds
      <hr/>
      
-      - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
+      - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
      
+  - Stocks are selling off again, and SaaS shares are taking the biggest lumps
+      <hr/>
+      
+      - *It was just days ago that cries of “stocks only go up,” and “no it makes sense that Tesla is going up because it split” and other bits of unironic stupidity were the only thing you could read online about the equities markets. Today, and yesterday, that all w…*
+      
   - Low-cost fitness bands see a resurgence in interest amid the pandemic
       <hr/>
       
@@ -81,16 +86,11 @@ Never memorize something that you can look up.
       <hr/>
       
       - *A few days ago I wrote down a few notes making a bullish case for Palantir, searching to find good news amidst the company’s huge historical deficits. Heading into the next phase of Palantir’s march to the public markets, I was very curious to see how the com…*
-      
+       
   - Mustard raises $1.7M to improve athletic mechanics with AI
       <hr/>
-      
-      - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
        
-  - NSA's Anne Neuberger to talk cybersecurity at Disrupt 2020
-      <hr/>
-       
-       - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
+       - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
       
 
 
