@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
 
-~ Fred Brooks
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The complexity of software is an essential property, not an accidental one. Henc
 
 </pre>
 **Daily News**
-  - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
+  - AI-drawn voting districts could help stamp out gerrymandering
      <hr/>
      
-      - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
+      - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
      
+  - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
+      <hr/>
+      
+      - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
+      
   - VW's all-electric ID.4 will use interior lighting to communicate with the driver
       <hr/>
       
@@ -81,16 +86,11 @@ The complexity of software is an essential property, not an accidental one. Henc
       <hr/>
       
       - *When people reach out to customer service, they’re seeking more than a solution to their immediate problem. They want empathy and understanding.*
-      
+       
   - 3 views on the future of geographic-focused funds
       <hr/>
-      
-      - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
        
-  - Local governments that embrace digital services during challenging times can make real change happen
-      <hr/>
-       
-       - *How can local leaders embrace this new era of civic engagement in the world of COVID-19 to deliver digital solutions that help everyone meet the moment?*
+       - *For many investors, the coronavirus has effectively taken geography out of the equation when it comes to vetting new opportunities. While this dynamic opens up startups to more investment opportunities, venture capital firms that focus on a specific region ar…*
       
 
 
