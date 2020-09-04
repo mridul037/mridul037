@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ John von Neumann
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
