@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
-~ Jamie Zawinski
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Some people, when confronted with a problem, think ‘I know, I’ll use regular
 
 </pre>
 **Daily News**
-  - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
+  - Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco
      <hr/>
      
-      - *Tinder’s “Swipe Night” is going global. The dating app announced today that its interactive video series will be available in Asia and other international markets starting on September 12, giving users another way to connect as they continue to stay at home b…*
+      - *Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do. Yandex — the public…*
      
+  - Teemyco creates virtual offices so that you can grab a room and talk with colleagues
+      <hr/>
+      
+      - *Meet Teemyco, a Stockholm-based startup that wants to reproduce office interactions in a virtual environment. The company wants to foster spontaneous interactions and casual collaboration with a room-based interface. Each employee moves from one room to anoth…*
+      
+  - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
+      <hr/>
+      
+      - *Tinder’s “Swipe Night” is going global. The dating app announced today that its interactive video series will be available in Asia and other international markets starting on September 12, giving users another way to connect as they continue to stay at home b…*
+      
   - That Whole Foods is an Amazon warehouse; get used to it
       <hr/>
       
       - *Earlier this week, in Brooklyn, near the waterfront, Amazon opened what looks from the outside like a typical Whole Foods store. It isn’t open to the public, however; it’s a fulfillment center. “Grocery delivery continues to be one of the fastest-growing busi…*
-      
+       
   - Edtech is the new SaaS
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering with Chris Gates beh…*
-      
-  - Cyber threat startup Cygilant hit by ransomware
-      <hr/>
-      
-      - *Cygilant, a threat detection cybersecurity company, has confirmed a ransomware attack. Christina Lattuca, Cygilant’s chief financial officer, said in a statement that the company was “aware of a ransomware attack impacting a portion of Cygilant’s technology e…*
        
-  - In amended filing, Palantir admits it won’t have independent board governance for up to a year
-      <hr/>
-       
-       - *When we leaked Palantir’s S-1 IPO filing a week and a half ago, one of the more bizarre components that came out of that document was the company’s corporate governance. In a unique three-class voting structure, Palantir founders Alex Karp, Stephen Cohen, and…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering with Chris Gates beh…*
       
 
 
