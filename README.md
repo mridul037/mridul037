@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Addy Osmani
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Be humble, communicate clearly, and respect others. It costs nothing to be kind,
 
 </pre>
 **Daily News**
-  - That Whole Foods is an Amazon warehouse; get used to it
+  - Tinder's interactive video event, "Swipe Night," will launch in international markets this month
      <hr/>
      
-      - *Earlier this week, in Brooklyn, near the waterfront, Amazon opened what looks from the outside like a typical Whole Foods store. It isn’t open to the public, however; it’s a fulfillment center. “Grocery delivery continues to be one of the fastest-growing busi…*
+      - *Tinder’s “Swipe Night” is going global. The dating app announced today that its interactive video series will be available in Asia and other international markets starting on September 12, giving users another way to connect as they continue to stay at home b…*
      
+  - That Whole Foods is an Amazon warehouse; get used to it
+      <hr/>
+      
+      - *Earlier this week, in Brooklyn, near the waterfront, Amazon opened what looks from the outside like a typical Whole Foods store. It isn’t open to the public, however; it’s a fulfillment center. “Grocery delivery continues to be one of the fastest-growing busi…*
+      
   - Edtech is the new SaaS
       <hr/>
       
@@ -81,16 +86,11 @@ Be humble, communicate clearly, and respect others. It costs nothing to be kind,
       <hr/>
       
       - *Cygilant, a threat detection cybersecurity company, has confirmed a ransomware attack. Christina Lattuca, Cygilant’s chief financial officer, said in a statement that the company was “aware of a ransomware attack impacting a portion of Cygilant’s technology e…*
-      
+       
   - In amended filing, Palantir admits it won’t have independent board governance for up to a year
       <hr/>
-      
-      - *When we leaked Palantir’s S-1 IPO filing a week and a half ago, one of the more bizarre components that came out of that document was the company’s corporate governance. In a unique three-class voting structure, Palantir founders Alex Karp, Stephen Cohen, and…*
        
-  - Nintendo rips the seal off the next generation of nostalgia, but fans fret
-      <hr/>
-       
-       - *It has always been considered a matter of if, and not when, Nintendo would begin capitalizing in earnest on content from beyond the SNES generation. The company has finally showing its intent to do so today — but with an uneven approach that leaves some fans …*
+       - *When we leaked Palantir’s S-1 IPO filing a week and a half ago, one of the more bizarre components that came out of that document was the company’s corporate governance. In a unique three-class voting structure, Palantir founders Alex Karp, Stephen Cohen, and…*
       
 
 
