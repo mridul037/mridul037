@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Gary Kildall
+~ Pamela Zave
 <pre>
 
 </pre>
