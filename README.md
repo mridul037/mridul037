@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+Machines take me by surprise with great frequency.
 
-~ Edsger W. Dijkstra
+~ Alan Turing
 <pre>
 
 </pre>
