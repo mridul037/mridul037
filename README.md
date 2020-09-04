@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 
-~ Richard Hamming
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Typing is no substitute for thinking.
 
 </pre>
 **Daily News**
-  - NSA's Anne Neuberger to talk cybersecurity at Disrupt 2020
+  - Palantir's concentrated governance is great for execs, but what about shareholders?
      <hr/>
      
-      - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
+      - *A few days ago I wrote down a few notes making a bullish case for Palantir, searching to find good news amidst the company’s huge historical deficits. Heading into the next phase of Palantir’s march to the public markets, I was very curious to see how the com…*
      
+  - Mustard raises $1.7M to improve athletic mechanics with AI
+      <hr/>
+      
+      - *Athletic coaching is a massive, multi-billion-dollar industry. No surprise, really, given the massive revenue some top athletes are able to generate. Mustard is working to supplant — or at least augment — some of that pricey coaching with the launch of a new …*
+      
+  - NSA's Anne Neuberger to talk cybersecurity at Disrupt 2020
+      <hr/>
+      
+      - *We are thrilled to announce that Anne Neuberger, director of cybersecurity at the National Security Agency, will join us at Disrupt 2020 from September 14-18. The headlines are not always kind to the government agencies that work in secret, and the NSA is no …*
+      
   - Peloton said to be launching new, cheaper treadmill and higher-end stationary smart bike
       <hr/>
       
       - *Peloton is reportedly getting ready to add to its product lineup with two new products at either end of its pricing spectrum, according to Bloomberg. The workout tech company is planning both a cheaper, entry-level smart treadmill, and a higher-end version of…*
-      
+       
   - Qualcomm-powered Chinese XR startup Nreal raises $40 million
       <hr/>
-      
-      - *Nreal, one of the most-watched mixed reality startups in China, just secured $40 million from a group of high-profile investors in a Series B round that could potentially bring more adoption to its portable augmented glasses. Kuaishou, the archrival to TikTok…*
-      
-  - Google pushes Europe to limit 'gatekeeper' platform rules
-      <hr/>
-      
-      - *Google has made its pitch to shape the next decades of digital regulation across the European Union, submitting a 135-page response yesterday to the consultation on the forthcoming Digital Services Act (DSA) — which will update the bloc’s long-standing rules …*
        
-  - Yandex spins out self-driving car unit from its Uber JV, invests $150M into newco
-      <hr/>
-       
-       - *Self-driving cars are still many years away from becoming a ubiquitous reality, but today one of the bigger efforts to build and develop them is taking a significant step out as part of its strategy to be at the forefront for when they do. Yandex — the public…*
+       - *Nreal, one of the most-watched mixed reality startups in China, just secured $40 million from a group of high-profile investors in a Series B round that could potentially bring more adoption to its portable augmented glasses. Kuaishou, the archrival to TikTok…*
       
 
 
