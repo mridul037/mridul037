@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ Paul Graham (programmer)
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In programming the hard part isn’t solving problems, but deciding what problem
 
 </pre>
 **Daily News**
-  - Edtech is the new SaaS
+  - That Whole Foods is an Amazon warehouse; get used to it
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering with Chris Gates beh…*
+      - *Earlier this week, in Brooklyn, near the waterfront, Amazon opened what looks from the outside like a typical Whole Foods store. It isn’t open to the public, however; it’s a fulfillment center. “Grocery delivery continues to be one of the fastest-growing busi…*
      
+  - Edtech is the new SaaS
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering with Chris Gates beh…*
+      
   - Cyber threat startup Cygilant hit by ransomware
       <hr/>
       
@@ -81,16 +86,11 @@ In programming the hard part isn’t solving problems, but deciding what problem
       <hr/>
       
       - *When we leaked Palantir’s S-1 IPO filing a week and a half ago, one of the more bizarre components that came out of that document was the company’s corporate governance. In a unique three-class voting structure, Palantir founders Alex Karp, Stephen Cohen, and…*
-      
+       
   - Nintendo rips the seal off the next generation of nostalgia, but fans fret
       <hr/>
-      
-      - *It has always been considered a matter of if, and not when, Nintendo would begin capitalizing in earnest on content from beyond the SNES generation. The company has finally showing its intent to do so today — but with an uneven approach that leaves some fans …*
        
-  - Nintendo is remaking the first portable gaming system it ever built
-      <hr/>
-       
-       - *Quick, what was the first portable gaming system Nintendo made? If you said “Game Boy”… solid guess, but not quite. For nearly a decade before Nintendo released that iconic gray beast, it was making the Game & Watch — a collection of handheld devices, each de…*
+       - *It has always been considered a matter of if, and not when, Nintendo would begin capitalizing in earnest on content from beyond the SNES generation. The company has finally showing its intent to do so today — but with an uneven approach that leaves some fans …*
       
 
 
