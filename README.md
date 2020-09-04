@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ Pamela Zave
+~ Jamie Zawinski
 <pre>
 
 </pre>
