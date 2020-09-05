@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Harlan Mills
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 
 </pre>
 **Daily News**
-  - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
+  - Grab a Labor Day flash sale pass to Disrupt 2020 and save $100
      <hr/>
      
-      - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
+      - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
      
+  - The future of retail and office space is up in the air, and proptech investors are optimistic
+      <hr/>
+      
+      - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
+      
+  - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
+      <hr/>
+      
+      - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
+      
   - Apple opens up — slightly — on Hong Kong's national security law
       <hr/>
       
       - *The company said it doesn't receive requests directly from Hong Kong authorities.*
-      
+       
   - This Week in Apps: Apple delays mobile ad apocalypse, app review changes, TikTok deal gets complicated
       <hr/>
-      
-      - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
-      
-  - PandaDoc employees arrested in Belarus after founders protest against Lukashenko regime
-      <hr/>
-      
-      - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
        
-  - Facebook boots Patriot Prayer, a far-right group with a history of violence
-      <hr/>
-       
-       - *Facebook removed accounts belonging to far-right group Patriot Prayer and its leader Joey Gibson on Friday, citing a new effort to eradicate “violent social militias” from the platform. That effort emerged through a policy update in mid-August to the company’…*
+       - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
       
 
 
