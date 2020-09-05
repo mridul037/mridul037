@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think there is a world market for maybe five
-computers.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Thomas J. Watson
+~ Ward Cunningham
 <pre>
 
 </pre>
