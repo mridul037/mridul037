@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+Premature abstraction is as bad as premature optimization.
 
-~ George Carrette
+~ Luciano Ramalho
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ First learn computer science and all the theory. Next develop a programming styl
 
 </pre>
 **Daily News**
-  - PandaDoc employees arrested in Belarus after founders protest against Lukashenko regime
+  - This Week in Apps: Apple delays mobile ad apocalypse, app review changes, TikTok deal gets complicated
      <hr/>
      
-      - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
+      - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
      
+  - PandaDoc employees arrested in Belarus after founders protest against Lukashenko regime
+      <hr/>
+      
+      - *Yesterday the four employees (pictured) of US-headquartered enterprise startup PandaDoc were arrested in Minsk by the Belarus police, in what appears to be an act of state-led retaliation, after the company’s founders joined protests against the 26 year-long …*
+      
   - Facebook boots Patriot Prayer, a far-right group with a history of violence
       <hr/>
       
@@ -81,16 +86,11 @@ First learn computer science and all the theory. Next develop a programming styl
       <hr/>
       
       - *Mobility may be one of the fastest moving technologies going, but procrastination is an equal-opportunity affliction that can strike even the most dedicated founders and devotees. Fortunately, Saint Expeditus, patron saint of procrastinators great and small, …*
-      
+       
   - Daily Crunch: Peloton might expand its product lineup
       <hr/>
-      
-      - *Peloton’s product lineup is both getting cheaper and more expensive, Nintendo announces a new retro device and Palantir reveals more about its governance plans. This is your Daily Crunch for September 4, 2020. The big story: Peloton might expand its product l…*
        
-  - AI-drawn voting districts could help stamp out gerrymandering
-      <hr/>
-       
-       - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
+       - *Peloton’s product lineup is both getting cheaper and more expensive, Nintendo announces a new retro device and Palantir reveals more about its governance plans. This is your Daily Crunch for September 4, 2020. The big story: Peloton might expand its product l…*
       
 
 
