@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Addy Osmani
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ First do it, then do it right, then do it better.
 
 </pre>
 **Daily News**
-  - Grab a Labor Day flash sale pass to Disrupt 2020 and save $100
+  - How one VC firm wound up with no-code startups as part of its investing thesis
      <hr/>
      
-      - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
      
+  - Grab a Labor Day flash sale pass to Disrupt 2020 and save $100
+      <hr/>
+      
+      - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
+      
   - The future of retail and office space is up in the air, and proptech investors are optimistic
       <hr/>
       
@@ -81,16 +86,11 @@ First do it, then do it right, then do it better.
       <hr/>
       
       - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
-      
+       
   - Apple opens up — slightly — on Hong Kong's national security law
       <hr/>
-      
-      - *The company said it doesn't receive requests directly from Hong Kong authorities.*
        
-  - This Week in Apps: Apple delays mobile ad apocalypse, app review changes, TikTok deal gets complicated
-      <hr/>
-       
-       - *TikTok deal talks got hung up over whether or not TikTok can export the app's algorithms, and Apple made headlines for delaying the rollout of a potentially disastrous iOS 14 change that's been panicking the advertising community.*
+       - *The company said it doesn't receive requests directly from Hong Kong authorities.*
       
 
 
