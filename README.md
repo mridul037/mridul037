@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The proper use of comments is to compensate for our failure to express ourself in code.
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
 
 ~ Robert C. Martin
 <pre>
