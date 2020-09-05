@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In my second year in graduate school, I took a computer course and that was like lightening striking.
+First do it, then do it right, then do it better.
 
-~ Ted Nelson
+~ Addy Osmani
 <pre>
 
 </pre>
