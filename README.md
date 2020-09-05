@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
 
-~ Alan Perlis
+~ Tim Berners-Lee
 <pre>
 
 </pre>
