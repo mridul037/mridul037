@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Imagination is more important than knowledge.
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 
-~ Albert Einstein
+~ Anonymous
 <pre>
 
 </pre>
