@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+We need to be super careful with AI. Potentially more dangerous than nukes.
 
-~ Luciano Ramalho
+~ Elon Musk
 <pre>
 
 </pre>
