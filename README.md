@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ Ward Cunningham
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Putting a new feature into a program is important, but refactoring so new featur
 
 </pre>
 **Daily News**
-  - Daily Crunch: Peloton might expand its product lineup
+  - Facebook boots Patriot Prayer, a far-right group with a history of violence
      <hr/>
      
-      - *Peloton’s product lineup is both getting cheaper and more expensive, Nintendo announces a new retro device and Palantir reveals more about its governance plans. This is your Daily Crunch for September 4, 2020. The big story: Peloton might expand its product l…*
+      - *Facebook removed accounts belonging to far-right group Patriot Prayer and its leader Joey Gibson on Friday, citing a new effort to eradicate “violent social militias” from the platform. That effort emerged through a policy update in mid-August to the company’…*
      
+  - One more week to save on TC Sessions: Mobility
+      <hr/>
+      
+      - *Mobility may be one of the fastest moving technologies going, but procrastination is an equal-opportunity affliction that can strike even the most dedicated founders and devotees. Fortunately, Saint Expeditus, patron saint of procrastinators great and small, …*
+      
+  - Daily Crunch: Peloton might expand its product lineup
+      <hr/>
+      
+      - *Peloton’s product lineup is both getting cheaper and more expensive, Nintendo announces a new retro device and Palantir reveals more about its governance plans. This is your Daily Crunch for September 4, 2020. The big story: Peloton might expand its product l…*
+      
   - AI-drawn voting districts could help stamp out gerrymandering
       <hr/>
       
       - *Gerrymandering is one of the most insidious methods out there of influencing our political process. By legally changing the way votes are collected and counted, the outcomes can be influenced — even fixed in advance for years. The solution may be an AI system…*
-      
+       
   - DoD reaffirms Microsoft has won JEDI cloud contract, but Amazon legal complaints still pending
       <hr/>
-      
-      - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
-      
-  - VW's all-electric ID.4 will use interior lighting to communicate with the driver
-      <hr/>
-      
-      - *Newly released teaser images of Volkswagen’s upcoming all-electric ID.4 compact SUV reveals an interior that leans in on tech such as touchscreens and ambient lighting used to talk to the driver without erasing every toggle or knob from automotive’s yesteryea…*
        
-  - Brands that hyper-personalize will win the next decade
-      <hr/>
-       
-       - *When people reach out to customer service, they’re seeking more than a solution to their immediate problem. They want empathy and understanding.*
+       - *We have seen a lot of action this week as the DoD tries to finally determine the final winner of the $10 billion, decade long DoD JEDI cloud contract. Today, the DoD released a statement that after reviewing the proposals from finalists Microsoft and Amazon a…*
       
 
 
