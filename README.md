@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
-~ Ward Cunningham
+~ Douglas Crockford
 <pre>
 
 </pre>
