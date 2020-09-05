@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+I think there is a world market for maybe five
+computers.
 
-~ Donald Knuth
+~ Thomas J. Watson
 <pre>
 
 </pre>
