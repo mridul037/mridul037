@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Robert C. Martin
+~ Daniel T. Barry
 <pre>
 
 </pre>
