@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Alan Perlis
+~ Ward Cunningham
 <pre>
 
 </pre>
