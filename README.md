@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The top 5% of programmers probably write 99% of the good software.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ Paul Graham (programmer)
+~ Richard E. Pattis
 <pre>
 
 </pre>
