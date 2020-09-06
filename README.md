@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
