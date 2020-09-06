@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+If you think it's simple, then you have misunderstood the problem.
 
-~ Richard Hamming
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In science if you know what you are doing you should not be doing it. In enginee
 
 </pre>
 **Daily News**
-  - Chief CEO Carolyn Childers, Reboot.io CEO Jerry Colona, Ureeka co-founder Melissa Bradley are coming to Disrupt 2020
+  - Meet the TC Top Picks for Disrupt 2020
      <hr/>
      
-      - *Becoming a successful leader isn’t a one-size-fits-all formula. Each startup — depending on the industry and internal culture — has its own needs. The hard part is figuring out what leadership style best suits the personality of the CEO or founder as well as …*
+      - *We’ve been extremely privileged to witness thousands of early stage startups launch and take flight at Disrupt over the past 10 years, and they just keep getting bettter. You’ll be hard-pressed to find more creative, game-changing startups than the ones that …*
      
+  - Chief CEO Carolyn Childers, Reboot.io CEO Jerry Colona, Ureeka co-founder Melissa Bradley are coming to Disrupt 2020
+      <hr/>
+      
+      - *Becoming a successful leader isn’t a one-size-fits-all formula. Each startup — depending on the industry and internal culture — has its own needs. The hard part is figuring out what leadership style best suits the personality of the CEO or founder as well as …*
+      
   - Original Content podcast: 'Teenage Bounty Hunters' is more interested in relationships than bounty hunting
       <hr/>
       
@@ -81,16 +86,11 @@ In science if you know what you are doing you should not be doing it. In enginee
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
-      
+       
   - Grab a Labor Day flash sale pass to Disrupt 2020 and save $100
       <hr/>
-      
-      - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
        
-  - The future of retail and office space is up in the air, and proptech investors are optimistic
-      <hr/>
-       
-       - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
+       - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
       
 
 
