@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think you should always bear in mind that entropy is not on your side.
+No code is faster than no code.
 
-~ Elon Musk
+~ Kevlin Henney
 <pre>
 
 </pre>
