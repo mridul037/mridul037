@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+From an artistic standpoint, the best software comes from the realm of intuition.
 
-~ Fred Brooks
+~ Bob Carr
 <pre>
 
 </pre>
