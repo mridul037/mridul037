@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When debugging, novices insert corrective code; experts remove defective code.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Richard E. Pattis
+~ Arthur C. Clarke
 <pre>
 
 </pre>
