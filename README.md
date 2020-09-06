@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 
-~ Brian Kernighan
+~ Donald Knuth
 <pre>
 
 </pre>
