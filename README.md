@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Donald Knuth
+~ Quarry worker's creed
 <pre>
 
 </pre>
