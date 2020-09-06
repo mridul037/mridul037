@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 
-~ Bob Carr
+~ Fred Brooks
 <pre>
 
 </pre>
