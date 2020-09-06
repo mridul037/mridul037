@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 
-~ Gary Kildall
+~ Marijn Haverbeke
 <pre>
 
 </pre>
