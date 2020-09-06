@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+Never memorize something that you can look up.
 
-~ Jaron Lanier
+~ Albert Einstein
 <pre>
 
 </pre>
