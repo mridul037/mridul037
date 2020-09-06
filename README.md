@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Bjarne Stroustrup
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If you think it's simple, then you have misunderstood the problem.
 
 </pre>
 **Daily News**
-  - Meet the TC Top Picks for Disrupt 2020
+  - Lokalise raises $6 million to make it easier to localize your product
      <hr/>
      
-      - *We’ve been extremely privileged to witness thousands of early stage startups launch and take flight at Disrupt over the past 10 years, and they just keep getting bettter. You’ll be hard-pressed to find more creative, game-changing startups than the ones that …*
+      - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
      
+  - Meet the TC Top Picks for Disrupt 2020
+      <hr/>
+      
+      - *We’ve been extremely privileged to witness thousands of early stage startups launch and take flight at Disrupt over the past 10 years, and they just keep getting bettter. You’ll be hard-pressed to find more creative, game-changing startups than the ones that …*
+      
   - Chief CEO Carolyn Childers, Reboot.io CEO Jerry Colona, Ureeka co-founder Melissa Bradley are coming to Disrupt 2020
       <hr/>
       
@@ -81,16 +86,11 @@ If you think it's simple, then you have misunderstood the problem.
       <hr/>
       
       - *“Teenage Bounty Hunters” has one of the most memorable — if not entirely appealing — titles of any new show on Netflix . As we explain on the latest episode of the Original Content podcast, the series tells the story of Sterling (played Maddie Phillips) and B…*
-      
+       
   - How one VC firm wound up with no-code startups as part of its investing thesis
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
        
-  - Grab a Labor Day flash sale pass to Disrupt 2020 and save $100
-      <hr/>
-       
-       - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
       
 
 
