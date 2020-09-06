@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 
-~ Quarry worker's creed
+~ Richard Hamming
 <pre>
 
 </pre>
