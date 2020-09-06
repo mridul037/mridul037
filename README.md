@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Arthur C. Clarke
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Any sufficiently advanced technology is indistinguishable from magic.
 
 </pre>
 **Daily News**
-  - Original Content podcast: 'Teenage Bounty Hunters' is more interested in relationships than bounty hunting
+  - Chief CEO Carolyn Childers, Reboot.io CEO Jerry Colona, Ureeka co-founder Melissa Bradley are coming to Disrupt 2020
      <hr/>
      
-      - *“Teenage Bounty Hunters” has one of the most memorable — if not entirely appealing — titles of any new show on Netflix . As we explain on the latest episode of the Original Content podcast, the series tells the story of Sterling (played Maddie Phillips) and B…*
+      - *Becoming a successful leader isn’t a one-size-fits-all formula. Each startup — depending on the industry and internal culture — has its own needs. The hard part is figuring out what leadership style best suits the personality of the CEO or founder as well as …*
      
+  - Original Content podcast: 'Teenage Bounty Hunters' is more interested in relationships than bounty hunting
+      <hr/>
+      
+      - *“Teenage Bounty Hunters” has one of the most memorable — if not entirely appealing — titles of any new show on Netflix . As we explain on the latest episode of the Original Content podcast, the series tells the story of Sterling (played Maddie Phillips) and B…*
+      
   - How one VC firm wound up with no-code startups as part of its investing thesis
       <hr/>
       
@@ -81,16 +86,11 @@ Any sufficiently advanced technology is indistinguishable from magic.
       <hr/>
       
       - *No matter how you celebrate Labor Day weekend, we urge you to mask up, keep your distance when grilling burgers and dogs and — most of all — take advantage of our flash sale on Digital Pro passes to Disrupt 2020. Right now, you can save $100 on your pass — wh…*
-      
+       
   - The future of retail and office space is up in the air, and proptech investors are optimistic
       <hr/>
-      
-      - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
        
-  - At Disrupt, YC's Anu Hariharan, Initialized's Garry Tan, and GGV's Hans Tung will tell you how to raise money in a dumpster fire
-      <hr/>
-       
-       - *As this pandemically perverse year draws to a close, there’s one thing that’s certain. Everything has changed — at least a little bit. The U.S. is still grappling with a virus that it has yet to control and a vaccine, once it’s discovered and proven to be eff…*
+       - *The malls and grocery stores of the 20th century are being converted into industrial conveyor belts of goods and services traveling from the internet to your home.*
       
 
 
