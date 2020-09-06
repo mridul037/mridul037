@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Even in the games of children there are things to interest the greatest mathematician.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Gottfried Wilhelm Leibniz
+~ Gary Kildall
 <pre>
 
 </pre>
