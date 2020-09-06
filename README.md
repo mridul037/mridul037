@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+Even in the games of children there are things to interest the greatest mathematician.
 
-~ Fred Brooks
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
