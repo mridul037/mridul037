@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+I think you should always bear in mind that entropy is not on your side.
 
-~ Marijn Haverbeke
+~ Elon Musk
 <pre>
 
 </pre>
