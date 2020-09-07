@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+The most important single aspect of software development is to be clear about what you are trying to build.
 
-~ Vannevar Bush
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If scientific reasoning were limited to the logical processes of arithmetic, we 
 
 </pre>
 **Daily News**
-  - The Station: Yandex spins out self-driving biz, Ike takes the SaaS road and a solid-state battery startup strikes SPAC
+  - Dutch payments startup Mollie raises $106M at $1B+ valuation
      <hr/>
      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peop…*
+      - *E-commerce has seen a huge jump in the last eight months, driven by consumers shopping more for goods online while spending more time at home during the COVID-19 pandemic. Today, a payments startup out of Amsterdam that has itself seen a surge of growth this …*
      
+  - The Station: Yandex spins out self-driving biz, Ike takes the SaaS road and a solid-state battery startup strikes SPAC
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peop…*
+      
   - The Shed is a startup out of Virginia trying to revive the rental-for-everything business
       <hr/>
       
@@ -81,16 +86,11 @@ If scientific reasoning were limited to the logical processes of arithmetic, we 
       <hr/>
       
       - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
-      
+       
   - 5 Reasons you need to attend TC Sessions: Mobility 2020
       <hr/>
-      
-      - *Get ready to spend two days rubbing virtual elbows with the global mobility community’s best and brightest minds and makers. TC Sessions: Mobility 2020 takes place October 6-7, and we’ve packed the agenda with experts, interviews, demos, panel discussions, br…*
        
-  - This Labor Day, spare a thought for the workers who made your doorstep delivery possible
-      <hr/>
-       
-       - *This Labor Day, it’s time to think about how corporations can better support and protect this vital but often forgotten segment of the workforce.*
+       - *Get ready to spend two days rubbing virtual elbows with the global mobility community’s best and brightest minds and makers. TC Sessions: Mobility 2020 takes place October 6-7, and we’ve packed the agenda with experts, interviews, demos, panel discussions, br…*
       
 
 
