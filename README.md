@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+I care not only what the code says but how it looks.
 
-~ Bob Carr
+~ Peter Roizen
 <pre>
 
 </pre>
