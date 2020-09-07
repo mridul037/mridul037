@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+Every time you improve process, work becomes harder.
 
-~ Douglas Crockford
+~ Daniel T. Barry
 <pre>
 
 </pre>
