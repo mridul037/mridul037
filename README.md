@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think there is a world market for maybe five
-computers.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Thomas J. Watson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -68,11 +67,16 @@ computers.
 
 </pre>
 **Daily News**
-  - ThoughtRiver nabs $10M to speed up deal-making with AI contract review
+  - This Labor Day, spare a thought for the workers who made your doorstep delivery possible
      <hr/>
      
-      - *ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane, Local Globe, Entrée Capital, Syndicate Room, an…*
+      - *This Labor Day, it’s time to think about how corporations can better support and protect this vital but often forgotten segment of the workforce.*
      
+  - ThoughtRiver nabs $10M to speed up deal-making with AI contract review
+      <hr/>
+      
+      - *ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane, Local Globe, Entrée Capital, Syndicate Room, an…*
+      
   - Why a startup with $10M in annual revenue took 18 months to get VC funding
       <hr/>
       
@@ -82,16 +86,11 @@ computers.
       <hr/>
       
       - *As the Labor Day weekend winds down here in the states, so too does our flash sale and your chance to save $100 on a Digital Pro pass to Disrupt 2020. Fight off your holiday food coma long enough to buy your pass before 11:59 p.m. (PT) tonight. Disrupt 2020 t…*
-      
+       
   - Apple iCloud, Google Drive and Dropbox probed over 'unfair' T&Cs in Italy
       <hr/>
-      
-      - *Italy’s competition authority has opened an investigation into cloud storage services operated by Apple, Dropbox and Google, in response to a number of complaints alleging unfair commercial practices. In a press release announcing the probe, the AGCM says it’…*
        
-  - Revolut loses its head of regulatory compliance, hires two former Amazon execs
-      <hr/>
-       
-       - *More personnel changes at Revolut are in motion, as a key member of the leadership team leaves for Barclays, and two former Amazon staffers join the London headquartered neoank. TechCrunch understands that Chris Sing, Revolut’s head of regulatory compliance i…*
+       - *Italy’s competition authority has opened an investigation into cloud storage services operated by Apple, Dropbox and Google, in response to a number of complaints alleging unfair commercial practices. In a press release announcing the probe, the AGCM says it’…*
       
 
 
