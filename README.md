@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Never memorize something that you can look up.
 
-~ Fred Brooks
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 
 </pre>
 **Daily News**
-  - Lokalise raises $6 million to make it easier to localize your product
+  - Indian telecom giant Vodafone Idea rebrands to 'Vi'
      <hr/>
      
-      - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
+      - *Vodafone Idea, one of the largest telecom operators in India, has rebranded to ‘Vi’ as it looks to better leverage the unified venture between British telecom giant Vodafone Group’s India business and billionaire Kumar Mangalam Birla’s Idea Cellular two years…*
      
+  - Lokalise raises $6 million to make it easier to localize your product
+      <hr/>
+      
+      - *Meet Lokalise, a Latvian startup that focuses on translation and localization of apps, websites, games and more. The company provides a software-as-a-service product that helps you improve your workflow and processes when you need to update text in different …*
+      
   - Meet the TC Top Picks for Disrupt 2020
       <hr/>
       
@@ -81,16 +86,11 @@ The fundamental problem with program maintenance is that fixing a defect has a s
       <hr/>
       
       - *Becoming a successful leader isn’t a one-size-fits-all formula. Each startup — depending on the industry and internal culture — has its own needs. The hard part is figuring out what leadership style best suits the personality of the CEO or founder as well as …*
-      
+       
   - Original Content podcast: 'Teenage Bounty Hunters' is more interested in relationships than bounty hunting
       <hr/>
-      
-      - *“Teenage Bounty Hunters” has one of the most memorable — if not entirely appealing — titles of any new show on Netflix . As we explain on the latest episode of the Original Content podcast, the series tells the story of Sterling (played Maddie Phillips) and B…*
        
-  - How one VC firm wound up with no-code startups as part of its investing thesis
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
+       - *“Teenage Bounty Hunters” has one of the most memorable — if not entirely appealing — titles of any new show on Netflix . As we explain on the latest episode of the Original Content podcast, the series tells the story of Sterling (played Maddie Phillips) and B…*
       
 
 
