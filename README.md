@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ David Wheeler (computer scientist)
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Compatibility means deliberately repeating other people’s mistakes.
 
 </pre>
 **Daily News**
-  - China bans Scratch, MIT's programming language for kids
+  - Revolut loses its head of regulatory compliance, hires two former Amazon execs
      <hr/>
      
-      - *China’s enthusiasm for teaching children to code is facing a new roadblock as organizations and students lose an essential tool: the Scratch programming language developed by the Lifelong Kindergarten Group at the MIT Media Lab. China-based internet users can…*
+      - *More personnel changes at Revolut are in motion, as a key member of the leadership team leaves for Barclays, and two former Amazon staffers join the London headquartered neoank. TechCrunch understands that Chris Sing, Revolut’s head of regulatory compliance i…*
      
+  - BIMA nabs $30M more for micro- health and life insurance aimed at emerging markets
+      <hr/>
+      
+      - *The coronavirus global health pandemic — and the new emphasis on social distancing to slow down the spread of COVID-19 — has put healthcare and tech services used to enable healthcare remotely under the spotlight. Today a startup that’s building microinsuranc…*
+      
+  - China bans Scratch, MIT's programming language for kids
+      <hr/>
+      
+      - *China’s enthusiasm for teaching children to code is facing a new roadblock as organizations and students lose an essential tool: the Scratch programming language developed by the Lifelong Kindergarten Group at the MIT Media Lab. China-based internet users can…*
+      
   - HumanForest gets $2.3M from Cabify founders and others to grow a 'free' e-bike sharing service
       <hr/>
       
       - *HumanForest, a dockless, shared and ad-supported e-bike service which began trialling a service in London this June, has taken in its first tranche of external funding. The £1.8 million (~$2.3M) investment comes from backers in the mobility space, including J…*
-      
+       
   - Freshket lands $3 million Series A led by Openspace to streamline Thailand's food supply chain
       <hr/>
-      
-      - *Based in Bangkok, Freshket simplifies the process of getting fresh produce from farms to tables. Launched in 2017, the startup has now raised a $3 million Series A, led by Openspace Ventures. Other participants included Thai private equity firm ECG-Research; …*
-      
-  - Daybridge, a time management app by former Monzo engineer Kieran McHugh, raises £750K seed
-      <hr/>
-      
-      - *Daybridge, a productivity and time management app by former Monzo engineer Kieran McHugh, has picked by £750,000 in a seed round led by early Monzo backer, Passion Capital. Also participating is a number of London-based angel investors — including, I understa…*
        
-  - Indian telecom giant Vodafone Idea rebrands to 'Vi'
-      <hr/>
-       
-       - *Vodafone Idea, one of the largest telecom operators in India, has rebranded to ‘Vi’ as it looks to better leverage the unified venture between British telecom giant Vodafone Group’s India business and billionaire Kumar Mangalam Birla’s Idea Cellular two years…*
+       - *Based in Bangkok, Freshket simplifies the process of getting fresh produce from farms to tables. Launched in 2017, the startup has now raised a $3 million Series A, led by Openspace Ventures. Other participants included Thai private equity firm ECG-Research; …*
       
 
 
