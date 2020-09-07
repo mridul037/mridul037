@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Before software can be reusable it first has to be usable.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-~ Ralph Johnson (computer scientist)
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Before software can be reusable it first has to be usable.
 
 </pre>
 **Daily News**
-  - The Disrupt 2020 Labor Day flash sale ends tonight
+  - Why a startup with $10M in annual revenue took 18 months to get VC funding
      <hr/>
      
-      - *As the Labor Day weekend winds down here in the states, so too does our flash sale and your chance to save $100 on a Digital Pro pass to Disrupt 2020. Fight off your holiday food coma long enough to buy your pass before 11:59 p.m. (PT) tonight. Disrupt 2020 t…*
+      - *Back in 2006, Joseph Heller went to China where he spent the next decade learning about the manufacturing business. Based on that experience he eventually built a startup called The Studio. The idea was to help connect people with a small business idea to man…*
      
+  - The Disrupt 2020 Labor Day flash sale ends tonight
+      <hr/>
+      
+      - *As the Labor Day weekend winds down here in the states, so too does our flash sale and your chance to save $100 on a Digital Pro pass to Disrupt 2020. Fight off your holiday food coma long enough to buy your pass before 11:59 p.m. (PT) tonight. Disrupt 2020 t…*
+      
   - Apple iCloud, Google Drive and Dropbox probed over 'unfair' T&Cs in Italy
       <hr/>
       
@@ -81,16 +86,11 @@ Before software can be reusable it first has to be usable.
       <hr/>
       
       - *More personnel changes at Revolut are in motion, as a key member of the leadership team leaves for Barclays, and two former Amazon staffers join the London headquartered neoank. TechCrunch understands that Chris Sing, Revolut’s head of regulatory compliance i…*
-      
+       
   - BIMA nabs $30M more for micro- health and life insurance aimed at emerging markets
       <hr/>
-      
-      - *The coronavirus global health pandemic — and the new emphasis on social distancing to slow down the spread of COVID-19 — has put healthcare and tech services used to enable healthcare remotely under the spotlight. Today a startup that’s building microinsuranc…*
        
-  - China bans Scratch, MIT's programming language for kids
-      <hr/>
-       
-       - *China’s enthusiasm for teaching children to code is facing a new roadblock as organizations and students lose an essential tool: the Scratch programming language developed by the Lifelong Kindergarten Group at the MIT Media Lab. China-based internet users can…*
+       - *The coronavirus global health pandemic — and the new emphasis on social distancing to slow down the spread of COVID-19 — has put healthcare and tech services used to enable healthcare remotely under the spotlight. Today a startup that’s building microinsuranc…*
       
 
 
