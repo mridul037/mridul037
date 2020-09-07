@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Charles Simonyi
+~ Tom DeMarco
 <pre>
 
 </pre>
