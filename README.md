@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Tom DeMarco
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
