@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Donald Knuth
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We have seen that computer programming is an art, because it applies accumulated
 
 </pre>
 **Daily News**
-  - Human Capital: Workers are upset about labor practices, and Amazon and Apple are on the defensive
+  - The Shed is a startup out of Virginia trying to revive the rental-for-everything business
      <hr/>
      
-      - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
+      - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
      
+  - Human Capital: Workers are upset about labor practices, and Amazon and Apple are on the defensive
+      <hr/>
+      
+      - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
+      
   - 5 Reasons you need to attend TC Sessions: Mobility 2020
       <hr/>
       
@@ -81,16 +86,11 @@ We have seen that computer programming is an art, because it applies accumulated
       <hr/>
       
       - *This Labor Day, it’s time to think about how corporations can better support and protect this vital but often forgotten segment of the workforce.*
-      
+       
   - ThoughtRiver nabs $10M to speed up deal-making with AI contract review
       <hr/>
-      
-      - *ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane, Local Globe, Entrée Capital, Syndicate Room, an…*
        
-  - Why a startup with $10M in annual revenue took 18 months to get VC funding
-      <hr/>
-       
-       - *Back in 2006, Joseph Heller went to China where he spent the next decade learning about the manufacturing business. Based on that experience he eventually built a startup called The Studio. The idea was to help connect people with a small business idea to man…*
+       - *ThoughtRiver, a London-based legaltech startup that’s applying AI to speed up contract pre-screening, has announced a $10 million Series A round of funding led by Octopus Ventures. Existing seed investors Crane, Local Globe, Entrée Capital, Syndicate Room, an…*
       
 
 
