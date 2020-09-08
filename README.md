@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+A clever person solves a problem. A wise person avoids it.
 
-~ Bjarne Stroustrup
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are only two kinds of languages: the ones people complain about and the on
 
 </pre>
 **Daily News**
-  - Thunes, a fintech startup serving emerging markets, raises $60 million led by Africa-focused Helios Investment Partners
+  - Diffblue launches a free community edition of its automated Java unit testing tool
      <hr/>
      
-      - *Thunes, a Singapore-based startup developing a cross-border payments network to make financial services more accessible in emerging markets, announced today it has raised a $60 million Series B. The round was led by Africa-focused firm Helios Investment Partn…*
+      - *Diffblue, a spin-out from Oxford University, uses machine learning to help developers automatically create unit tests for their Java code. Since few developers enjoy writing unit tests to ensure that their code works as expected, increased automation doesn’t …*
      
+  - TikTok joins Europe's code on tackling hate speech
+      <hr/>
+      
+      - *TikTok, the popular short video sharing app, has joined the European Union’s Code of Conduct on Countering Illegal Hate Speech. In a statement on joining the code, TikTok’s head of trust and safety for EMEA, Cormac Keenan, said: “We have never allowed hate on…*
+      
+  - Thunes, a fintech startup serving emerging markets, raises $60 million led by Africa-focused Helios Investment Partners
+      <hr/>
+      
+      - *Thunes, a Singapore-based startup developing a cross-border payments network to make financial services more accessible in emerging markets, announced today it has raised a $60 million Series B. The round was led by Africa-focused firm Helios Investment Partn…*
+      
   - Skin Analytics raises £4M Series A to use AI for skin cancer screening
       <hr/>
       
       - *Skin Analytics, a U.K.-based startup that has developed a skin cancer screening service that uses artificial intelligence, has raised £4 million in Series A funding. The round was led by Hoxton Ventures, with participation from Nesta and Mustard Seed Ventures…*
-      
+       
   - PUBG cuts publishing ties with Tencent Games in India a week after ban
       <hr/>
-      
-      - *PUBG said on Tuesday Chinese giant Tencent Games will no longer be the publishing partner of the popular game in India as it attempts to allay concerns of New Delhi, which banned the game and 117 other apps last week. Prior to Tuesday’s announcement, Tencent …*
-      
-  - Sarbacane, maker of Mailify, raises $27M for marketing tools
-      <hr/>
-      
-      - *Marketing technology — and specifically tools that help companies leverage the internet to connect with customers in a way that is compliant with a new wave of data protection and privacy policies — continues to see a lot of traction with businesses and inves…*
        
-  - Silver Lake leads $500 million round in India's Byju's
-      <hr/>
-       
-       - *Byju’s has raised $500 million in a new financing round that valued the Indian online learning platform at $10.8 billion, a source familiar with the matter said. The round is lead by Silver Lake, and existing investors Tiger Global, General Atlantic and Owl V…*
+       - *PUBG said on Tuesday Chinese giant Tencent Games will no longer be the publishing partner of the popular game in India as it attempts to allay concerns of New Delhi, which banned the game and 117 other apps last week. Prior to Tuesday’s announcement, Tencent …*
       
 
 
