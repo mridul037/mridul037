@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think there is a world market for maybe five
-computers.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ Thomas J. Watson
+~ Elon Musk
 <pre>
 
 </pre>
@@ -68,30 +67,30 @@ computers.
 
 </pre>
 **Daily News**
-  - Lidar startup Ouster raises $42M in push to grow sales, diversify products
+  - Twitter begins adding headlines and descriptions to some of its 'trends'
      <hr/>
      
-      - *Lidar startup Ouster has spent the past several years expanding and improving its line of sensors as it jostles for a piece of the crowded and competitive market place. Now, Ouster says it has raised $42 million, fresh capital that will be used to fund produc…*
+      - *Twitter is working to make its real-time Trending section less confusing. Last week, the company announced it would begin pinning a representative tweet that gives more insight about a trend to the trend’s page and promised more changes would soon be underway…*
      
-  - Snowflake's IPO could value it as high as $24B, Salesforce and Berkshire to invest
+  - Lucid Motors' all-electric Air will start below $80,000
       <hr/>
       
-      - *On the heels of new filings from both Sumo Logic and JFrog, Snowflake, a venture-backed unicorn looking to go public on the strength of its data-focused cloud service, set an initial price range for its IPO. The $75 to $85 per-share IPO price target values th…*
+      - *After months of teasers and announcements, Lucid Motors will finally reveal its first all-electric luxury sedan, the Air, during a live stream on September 9. But of course, the day before the big reveal, a little bit of news has trickled out. Lucid Motors ha…*
       
-  - 'Willful, brazen, and unlawful': Apple files breach-of-contract countersuit against Epic
+  - TikTok is trying to remove a disturbing video showing up on people's For You pages
       <hr/>
       
-      - *Apple has filed a countersuit against Epic over the latter’s attempt to circumvent App Store rules and avoid paying millions in fees. The lawsuit alleges that Epic is deliberately in breach of contract and asks the court to award damages and prohibit Epic fro…*
+      - *A graphic video of a man committing suicide spread across TikTok early this week, and the company is still working to remove it. Originating on Facebook Live, the clip was uploaded onto TikTok over the weekend and began to take root in users’ algorithmic reco…*
       
-  - Drew Houston will talk about building a startup and digital transformation during COVID at TechCrunch Disrupt
+  - DNX Ventures launches $315 million fund for U.S. and Japanese B2B startups
       <hr/>
       
-      - *Dropbox CEO Drew Houston will be joining us for a one on one interview at this year’s TechCrunch Disrupt happening next week from September 14-18. Houston has been there and done that as a startup founder. After attending Y Combinator in 2007 and launching at…*
+      - *DNX Ventures, an investment firm that focuses on early-stage B2B startups in Japan and the United States, announced today that it has closed a new $315 million fund. This is DNX’s third flagship fund and along with supplementary annexed funds, brings its tota…*
        
-  - Shred monsters as Zelda and others in 'Breath of the Wild' prequel 'Hyrule Warriors: Age of Calamity'
+  - Lidar startup Ouster raises $42M in push to grow sales, diversify products
       <hr/>
        
-       - *Nintendo has announced a surprise spin-off prequel to its modern classic Breath of the Wild, an action-focused game called Hyrule Warriors: Age of Calamity. You’ll play the role of Link, as usual, but also the four champions and Princess Zelda herself, in att…*
+       - *Lidar startup Ouster has spent the past several years expanding and improving its line of sensors as it jostles for a piece of the crowded and competitive market place. Now, Ouster says it has raised $42 million, fresh capital that will be used to fund produc…*
       
 
 
