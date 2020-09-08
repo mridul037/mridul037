@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
 
-~ Elon Musk
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ AI is a fundamental risk to the existence of human civilization.
 
 </pre>
 **Daily News**
-  - 9 proptech investors talk co-living, home offices and other pandemic trends
+  - Sennheiser's MKE 200 on-camera microphone is the perfect home videoconferencing upgrade
      <hr/>
      
-      - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
+      - *Sennheiser has just released a new on-camera, directional microphone. The compact MKE 200 ($99.95) puts a lot of convenience and performance into a small, portable package – one that’s great for go-anywhere vlogging once that’s a reasonable option again, and …*
      
-  - General Motors takes $2 billion stake in electric truck startup Nikola
+  - Tesla shares drop sharply in broader tech selloff, falling 17% in morning trading
       <hr/>
       
-      - *Nikola and General Motors today announced a strategic partnership. Through the deal, GM gets 11% ownership in startup Nikola, and will, in turn, produce Nikola’s wild fuel cell pickup truck by the end of 2022. Both companies’ shares jumped on the news, with N…*
+      - *Last Thursday and Friday’s public market selloff has stretched into this week, with the tech-heavy Nasdaq Composite off 2.5% this morning. But while tech shares are down broadly to start the holiday-shortened week — and are taking stick for bringing down even…*
       
-  - Progress snags software automation platform Chef for $220M
+  - Equity Monday: JFrog and Sumo Logic set initial IPO prices amidst wave of interesting private rounds
       <hr/>
       
-      - *Progress, a Boston area developer tool company, boosted its offerings in a big way today when it announced it was acquiring software automation platform Chef for $220 million. Chef, which went 100% open source last year, had annual recurring revenue (ARR) of …*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
-  - Google Cloud launches its Business Application Platform based on Apigee and AppSheet
+  - 'Mulan' drove Disney+ app downloads up 68% week-over-week, but didn't beat 'Hamilton'
       <hr/>
       
-      - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
+      - *Disney’s live-action remake of “Mulan” skipped theaters to instead stream on Disney+ over the weekend, for the added fee of $30. According to early data, the launch helped grow Disney+ mobile installs by 68%, compared with one week prior. Consumer spending in…*
        
-  - Peloton launches new Bike+ and Tread smart home gym equipment, both at $2,495
+  - 9 proptech investors talk co-living, home offices and other pandemic trends
       <hr/>
        
-       - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
+       - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
       
 
 
