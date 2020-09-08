@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+Ideas don't disappear. They change form, they merge with other ideas.
 
-~ Ada Lovelace
+~ Bob Frankston
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In the case of the Analytical Engine, we have undoubtedly to lay out a certain c
 
 </pre>
 **Daily News**
-  - Sennheiser's MKE 200 on-camera microphone is the perfect home videoconferencing upgrade
+  - Committing to a fully zero-emission fleet by 2040, Uber is dedicating $800 million to electrifying its drivers
      <hr/>
      
-      - *Sennheiser has just released a new on-camera, directional microphone. The compact MKE 200 ($99.95) puts a lot of convenience and performance into a small, portable package – one that’s great for go-anywhere vlogging once that’s a reasonable option again, and …*
+      - *Ride hailing giant Uber is committing to become a fully zero-emission platform by 2040 and setting aside $800 million to help get its drivers using electric vehicles by 2025. The company said that it would invest further in its micro-mobility options as well …*
      
-  - Tesla shares drop sharply in broader tech selloff, falling 17% in morning trading
+  - Apple’s next iPhone event is September 15
       <hr/>
       
-      - *Last Thursday and Friday’s public market selloff has stretched into this week, with the tech-heavy Nasdaq Composite off 2.5% this morning. But while tech shares are down broadly to start the holiday-shortened week — and are taking stick for bringing down even…*
+      - *The rumors of a new Apple Watch and iPad has thus far proven untrue. One thing that did pan out, however, is an invite for the company’s next big (virtual) event. Apple just announced that its annual Fall event will kick off September 15 at 10am PT. This will…*
       
-  - Equity Monday: JFrog and Sumo Logic set initial IPO prices amidst wave of interesting private rounds
+  - JFrog's IPO strong initial price range values it ahead of the larger Sumo Logic
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Despite the public markets posting a few days of losses, the IPO wave continues to crest as a number of well-known technology companies line up to float their equity on American exchanges. Most recently we saw e-commerce giant Wish file (albeit privately) and…*
       
-  - 'Mulan' drove Disney+ app downloads up 68% week-over-week, but didn't beat 'Hamilton'
+  - Why established venture firms should court emerging managers
       <hr/>
       
-      - *Disney’s live-action remake of “Mulan” skipped theaters to instead stream on Disney+ over the weekend, for the added fee of $30. According to early data, the launch helped grow Disney+ mobile installs by 68%, compared with one week prior. Consumer spending in…*
+      - *In a VC ecosystem that has now looked up long enough to embrace the Black Lives Matter affirmation and the diversity conversations that have followed, firms are thinking creatively about how they access investment opportunities by underrepresented talent.*
        
-  - 9 proptech investors talk co-living, home offices and other pandemic trends
+  - Join us Wednesday, September 9 to watch Techstars Starburst Space Accelerator Demo Day live
       <hr/>
        
-       - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
+       - *The 2020 class of Techstars’ Starburst Space Accelerator are graduating with an official Demo Day on Wednesday at 10 AM PT (1 PM ET), and you can watch all the teams present their startups live via the stream above. This year’s class includes 10 companies bui…*
       
 
 
