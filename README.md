@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 
-~ Elon Musk
+~ Joshua Bloch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There certainly will be job disruption. Because what's going to happen is robots
 
 </pre>
 **Daily News**
-  - Twitter begins adding headlines and descriptions to some of its 'trends'
+  - Sign up to learn about funding options with the IFundWomen team
      <hr/>
      
-      - *Twitter is working to make its real-time Trending section less confusing. Last week, the company announced it would begin pinning a representative tweet that gives more insight about a trend to the trend’s page and promised more changes would soon be underway…*
+      - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
      
-  - Lucid Motors' all-electric Air will start below $80,000
+  - Gillmor Gang: Table Stakes
       <hr/>
       
-      - *After months of teasers and announcements, Lucid Motors will finally reveal its first all-electric luxury sedan, the Air, during a live stream on September 9. But of course, the day before the big reveal, a little bit of news has trickled out. Lucid Motors ha…*
+      - *I quite like the iPad Pro 11 inch with the Magic Keyboard. In the Land of Pandemic where every day is Saturday, the tablet is king. With no real purchase on the chaotic flow of life, the rules — any rules — of the road are very dear to me. Structure is arbitr…*
       
-  - TikTok is trying to remove a disturbing video showing up on people's For You pages
+  - Taboola and Outbrain call off their $850M merger
       <hr/>
       
-      - *A graphic video of a man committing suicide spread across TikTok early this week, and the company is still working to remove it. Originating on Facebook Live, the clip was uploaded onto TikTok over the weekend and began to take root in users’ algorithmic reco…*
+      - *Online advertising is a game of scale, but one attempt to consolidate two competitors to better take on Google and Facebook has fallen apart. Taboola and Outbrain, startups that each provide publishers with ad-based content recommendation platforms, have call…*
       
-  - DNX Ventures launches $315 million fund for U.S. and Japanese B2B startups
+  - Daily Crunch: Apple files countersuit against Epic
       <hr/>
       
-      - *DNX Ventures, an investment firm that focuses on early-stage B2B startups in Japan and the United States, announced today that it has closed a new $315 million fund. This is DNX’s third flagship fund and along with supplementary annexed funds, brings its tota…*
+      - *Apple strikes back at Epic Games, Android 11 is here and Microsoft announces a new stripped-down Xbox. This is your Daily Crunch for September 8, 2020. The big story: Apple files countersuit against Epic Apple has made the latest move in a legal battle agains…*
        
-  - Lidar startup Ouster raises $42M in push to grow sales, diversify products
+  - Twitter begins adding headlines and descriptions to some of its 'trends'
       <hr/>
        
-       - *Lidar startup Ouster has spent the past several years expanding and improving its line of sensors as it jostles for a piece of the crowded and competitive market place. Now, Ouster says it has raised $42 million, fresh capital that will be used to fund produc…*
+       - *Twitter is working to make its real-time Trending section less confusing. Last week, the company announced it would begin pinning a representative tweet that gives more insight about a trend to the trend’s page and promised more changes would soon be underway…*
       
 
 
