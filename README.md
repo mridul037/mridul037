@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+AI is a fundamental risk to the existence of human civilization.
 
-~ Ken Thompson
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Modern programming scares me in many respects. It confuses me to read a program 
 
 </pre>
 **Daily News**
-  - General Motors takes $2 billion stake in electric truck startup Nikola
+  - 9 proptech investors talk co-living, home offices and other pandemic trends
      <hr/>
      
-      - *Nikola and General Motors today announced a strategic partnership. Through the deal, GM gets 11% ownership in startup Nikola, and will, in turn, produce Nikola’s wild fuel cell pickup truck by the end of 2022. Both companies’ shares jumped on the news, with N…*
+      - *The real estate industry — like so many other sectors — was forced to adapt this year. Now, investors are ready to pour capital into the startups they believe are best-positioned in this new era, from companies tackling construction tech, financing and digita…*
      
+  - General Motors takes $2 billion stake in electric truck startup Nikola
+      <hr/>
+      
+      - *Nikola and General Motors today announced a strategic partnership. Through the deal, GM gets 11% ownership in startup Nikola, and will, in turn, produce Nikola’s wild fuel cell pickup truck by the end of 2022. Both companies’ shares jumped on the news, with N…*
+      
   - Progress snags software automation platform Chef for $220M
       <hr/>
       
@@ -81,16 +86,11 @@ Modern programming scares me in many respects. It confuses me to read a program 
       <hr/>
       
       - *Unlike some of its competitors, Google Cloud has recently started emphasizing how its large lineup of different services can be combined to solve common business problems. Instead of trying to sell individual services, Google is focusing on solutions and the …*
-      
+       
   - Peloton launches new Bike+ and Tread smart home gym equipment, both at $2,495
       <hr/>
-      
-      - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
        
-  - China presents 'global standard for data security'
-      <hr/>
-       
-       - *As tensions between the U.S. and China heighten over data security issues, Beijing took a proactive step to unveil a “data security initiative” that it believes can serve as “a global standard for data security.” The Chinese State Councilor and Foreign Minist…*
+       - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
       
 
 
