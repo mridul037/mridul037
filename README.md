@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important single aspect of software development is to be clear about what you are trying to build.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Bjarne Stroustrup
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The most important single aspect of software development is to be clear about wh
 
 </pre>
 **Daily News**
-  - Dutch payments startup Mollie raises $106M at $1B+ valuation
+  - Revolut launches its financial app in Japan
      <hr/>
      
-      - *E-commerce has seen a huge jump in the last eight months, driven by consumers shopping more for goods online while spending more time at home during the COVID-19 pandemic. Today, a payments startup out of Amsterdam that has itself seen a surge of growth this …*
+      - *Fintech startup Revolut is expanding to Japan. After testing the service with 10,000 users, anybody can now sign up and open an account. The company originally obtained its authorization to operate from Japan’s Finance Service Agency in 2018. When you open an…*
      
+  - Dutch payments startup Mollie raises $106M at $1B+ valuation
+      <hr/>
+      
+      - *E-commerce has seen a huge jump in the last eight months, driven by consumers shopping more for goods online while spending more time at home during the COVID-19 pandemic. Today, a payments startup out of Amsterdam that has itself seen a surge of growth this …*
+      
   - The Station: Yandex spins out self-driving biz, Ike takes the SaaS road and a solid-state battery startup strikes SPAC
       <hr/>
       
@@ -81,16 +86,11 @@ The most important single aspect of software development is to be clear about wh
       <hr/>
       
       - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
-      
+       
   - Human Capital: Workers are upset about labor practices, and Amazon and Apple are on the defensive
       <hr/>
-      
-      - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
        
-  - 5 Reasons you need to attend TC Sessions: Mobility 2020
-      <hr/>
-       
-       - *Get ready to spend two days rubbing virtual elbows with the global mobility community’s best and brightest minds and makers. TC Sessions: Mobility 2020 takes place October 6-7, and we’ve packed the agenda with experts, interviews, demos, panel discussions, br…*
+       - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
       
 
 
