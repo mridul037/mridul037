@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+A few months writing code can save you a few hours in design.
 
-~ Marvin Minsky
+~ Anonymous
 <pre>
 
 </pre>
