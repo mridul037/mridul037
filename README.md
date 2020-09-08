@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
 
-~ Edsger W. Dijkstra
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
 </pre>
 **Daily News**
-  - Meet the final round judges who will decide the winner of this year's Disrupt Battlefield Competition
+  - Apple expands its podcast footprint with Oprah's Book Club series
      <hr/>
      
-      - *It’s never easy, deciding which of the 20 companies that make it into the Disrupt Battlefield Competition will be anointed its winner. There’s just so much at stake each year and this year at Disrupt 2020 this September 14-18 the stakes are even higher. For t…*
+      - *Apple is expanding its investment in podcasts. Today, Apple Books and Oprah announced the launch of “Oprah’s Book Club” podcast, an eight-episode series that will explore themes related to Oprah’s Book Club pick and bestseller, “Caste: The Origins of Our Disc…*
      
-  - PopSQL raises $3.4M seed round for its collaborative SQL editor
+  - How to respond to a data breach
       <hr/>
       
-      - *PopSQL, a startup that builds a collaborative SQL editor for teams, today announced that it has raised a $3.4 million seed round led by Google’s AI-focused Gradient Ventures fund. Other participants include Y Combinator and FundersClub, as well as angel inves…*
+      - *After a data breach, one U.S. company did everything right.*
       
-  - Committing to a fully zero-emission fleet by 2040, Uber is dedicating $800 million to electrifying its drivers
+  - AngelList pioneers rolling VC funds in pivot to SaaS
       <hr/>
       
-      - *Ride hailing giant Uber is committing to become a fully zero-emission platform by 2040 and setting aside $800 million to help get its drivers using electric vehicles by 2025. The company said that it would invest further in its micro-mobility options as well …*
+      - *When AngelList first launched rolling funds, an investment vehicle that raises money through a quarterly subscription from interested investors, the company looked at it as a bet. But early interest from emerging fund managers indicates that rolling funds mig…*
       
-  - Apple’s next event is September 15
+  - NASA issues new call for lunar payload deliveries from its commercial Moon lander partners
       <hr/>
       
-      - *The rumors of a new Apple Watch and iPad has thus far proven untrue. One thing that did pan out, however, is an invite for the company’s next big (virtual) event. Apple just announced that its annual Fall event will kick off September 15 at 10am PT. This may …*
+      - *NASA wants its private commercial space company partners to make more Moon deliveries on its behalf: The agency just issued another request for scientific and experimental payloads that need lunar delivery sometime in 2022, in part to help pave the way for NA…*
        
-  - JFrog's IPO strong initial price range values it ahead of the larger Sumo Logic
+  - The $10B JEDI contract is locked, loaded, and still completely stuck
       <hr/>
        
-       - *Despite the public markets posting a few days of losses, the IPO wave continues to crest as a number of well-known technology companies line up to float their equity on American exchanges. Most recently we saw e-commerce giant Wish file (albeit privately) and…*
+       - *The other day I took a moment to count the number of stories we’ve done on TechCrunch on the DoD’s $10 billion, decade-long, winner-take-all, JEDI cloud contract. This marks the 30th time we’ve written about this deal over the last two years, and it comes aft…*
       
 
 
