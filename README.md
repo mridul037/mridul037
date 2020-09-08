@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Steve McConnell
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
