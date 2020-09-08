@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ Richard Hamming
+~ John Locke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
 
 </pre>
 **Daily News**
-  - Revolut launches its financial app in Japan
+  - Do Ventures launches $50 million fund for Vietnamese startups, backed by Naver, Vertex and other notable LPs
      <hr/>
      
-      - *Fintech startup Revolut is expanding to Japan. After testing the service with 10,000 users, anybody can now sign up and open an account. The company originally obtained its authorization to operate from Japan’s Finance Service Agency in 2018. When you open an…*
+      - *New investment firm Do Ventures announced today the first closing of its fund for Vietnamese startups, which is backed by several of Asia’s most notable institutional investors. Called Do Ventures Fund I, the investment vehicle has hit more than half of its $…*
      
+  - Revolut launches its financial app in Japan
+      <hr/>
+      
+      - *Fintech startup Revolut is expanding to Japan. After testing the service with 10,000 users, anybody can now sign up and open an account. The company originally obtained its authorization to operate from Japan’s Finance Service Agency in 2018. When you open an…*
+      
   - Dutch payments startup Mollie raises $106M at $1B+ valuation
       <hr/>
       
@@ -81,16 +86,11 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
       <hr/>
       
       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peop…*
-      
+       
   - The Shed is a startup out of Virginia trying to revive the rental-for-everything business
       <hr/>
-      
-      - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
        
-  - Human Capital: Workers are upset about labor practices, and Amazon and Apple are on the defensive
-      <hr/>
-       
-       - *Happy Labor Day and welcome back to Human Capital, where we unpack the latest in tech labor, and diversity, equity and inclusion. Human Capital will soon be available as a newsletter. Sign up here so you don’t miss it when it drops! This week, we’re looking a…*
+       - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
       
 
 
