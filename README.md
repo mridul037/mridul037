@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 
-~ Bill Gates
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A great programmer thinks about the program on a constant basis, whether driving
 
 </pre>
 **Daily News**
-  - Do Ventures launches $50 million fund for Vietnamese startups, backed by Naver, Vertex and other notable LPs
+  - Sarbacane, maker of Mailify, raises $27M for marketing tools
      <hr/>
      
-      - *New investment firm Do Ventures announced today the first closing of its fund for Vietnamese startups, which is backed by several of Asia’s most notable institutional investors. Called Do Ventures Fund I, the investment vehicle has hit more than half of its $…*
+      - *Marketing technology — and specifically tools that help companies leverage the internet to connect with customers in a way that is compliant with a new wave of data protection and privacy policies — continues to see a lot of traction with businesses and inves…*
      
+  - Silver Lake leads $500 million round in India's Byju's
+      <hr/>
+      
+      - *Byju’s has raised $500 million in a new financing round that valued the Indian online learning platform at $10.8 billion, a source familiar with the matter said. The round is lead by Silver Lake, and existing investors Tiger Global, General Atlantic and Owl V…*
+      
+  - Do Ventures launches $50 million fund for Vietnamese startups, backed by Naver, Vertex and other notable LPs
+      <hr/>
+      
+      - *New investment firm Do Ventures announced today the first closing of its fund for Vietnamese startups, which is backed by several of Asia’s most notable institutional investors. Called Do Ventures Fund I, the investment vehicle has hit more than half of its $…*
+      
   - Revolut launches its financial app in Japan
       <hr/>
       
       - *Fintech startup Revolut is expanding to Japan. After testing the service with 10,000 users, anybody can now sign up and open an account. The company originally obtained its authorization to operate from Japan’s Finance Service Agency in 2018. When you open an…*
-      
+       
   - Dutch payments startup Mollie raises $106M at $1B+ valuation
       <hr/>
-      
-      - *E-commerce has seen a huge jump in the last eight months, driven by consumers shopping more for goods online while spending more time at home during the COVID-19 pandemic. Today, a payments startup out of Amsterdam that has itself seen a surge of growth this …*
-      
-  - The Station: Yandex spins out self-driving biz, Ike takes the SaaS road and a solid-state battery startup strikes SPAC
-      <hr/>
-      
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello and welcome back to The Station, a newsletter dedicated to all the present and future ways peop…*
        
-  - The Shed is a startup out of Virginia trying to revive the rental-for-everything business
-      <hr/>
-       
-       - *Reducing consumption by expanding the notion of the rental economy and giving people access to tools and equipment has been something of a startup holy grail for some time. It’s a model that’s worked famously well for fashion and accessories (just ask investo…*
+       - *E-commerce has seen a huge jump in the last eight months, driven by consumers shopping more for goods online while spending more time at home during the COVID-19 pandemic. Today, a payments startup out of Amsterdam that has itself seen a surge of growth this …*
       
 
 
