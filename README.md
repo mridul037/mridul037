@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 
-~ Robert C. Martin
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ No matter how slow you are writing clean code, you will always be slower if you 
 
 </pre>
 **Daily News**
-  - Apple expands its podcast footprint with Oprah's Book Club series
+  - Drew Houston will talk about building a startup and digital transformation during COVID at TechCrunch Disrupt
      <hr/>
      
-      - *Apple is expanding its investment in podcasts. Today, Apple Books and Oprah announced the launch of “Oprah’s Book Club” podcast, an eight-episode series that will explore themes related to Oprah’s Book Club pick and bestseller, “Caste: The Origins of Our Disc…*
+      - *Dropbox CEO Drew Houston will be joining us for a one on one interview at this year’s TechCrunch Disrupt happening next week from September 14-18. Houston has been there and done that as a startup founder. After attending Y Combinator in 2007 and launching at…*
      
+  - Shred monsters as Zelda and others in 'Breath of the Wild' prequel 'Hyrule Warriors: Age of Calamity'
+      <hr/>
+      
+      - *Nintendo has announced a surprise spin-off prequel to its modern classic Breath of the Wild, an action-focused game called Hyrule Warriors: Age of Calamity. You’ll play the role of Link, as usual, but also the four champions and Princess Zelda herself, in att…*
+      
+  - Apple expands its podcast footprint with Oprah's Book Club series
+      <hr/>
+      
+      - *Apple is expanding its investment in podcasts. Today, Apple Books and Oprah announced the launch of “Oprah’s Book Club” podcast, an eight-episode series that will explore themes related to Oprah’s Book Club pick and bestseller, “Caste: The Origins of Our Disc…*
+      
   - How to respond to a data breach
       <hr/>
       
       - *After a data breach, one U.S. company did everything right.*
-      
+       
   - AngelList pioneers rolling VC funds in pivot to SaaS
       <hr/>
-      
-      - *When AngelList first launched rolling funds, an investment vehicle that raises money through a quarterly subscription from interested investors, the company looked at it as a bet. But early interest from emerging fund managers indicates that rolling funds mig…*
-      
-  - NASA issues new call for lunar payload deliveries from its commercial Moon lander partners
-      <hr/>
-      
-      - *NASA wants its private commercial space company partners to make more Moon deliveries on its behalf: The agency just issued another request for scientific and experimental payloads that need lunar delivery sometime in 2022, in part to help pave the way for NA…*
        
-  - The $10B JEDI contract is locked, loaded, and still completely stuck
-      <hr/>
-       
-       - *The other day I took a moment to count the number of stories we’ve done on TechCrunch on the DoD’s $10 billion, decade-long, winner-take-all, JEDI cloud contract. This marks the 30th time we’ve written about this deal over the last two years, and it comes aft…*
+       - *When AngelList first launched rolling funds, an investment vehicle that raises money through a quarterly subscription from interested investors, the company looked at it as a bet. But early interest from emerging fund managers indicates that rolling funds mig…*
       
 
 
