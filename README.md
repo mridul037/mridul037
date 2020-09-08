@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Good software, like good wine, takes time.
 
-~ Fred Brooks
+~ Joel Spolsky
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 
 </pre>
 **Daily News**
-  - Drew Houston will talk about building a startup and digital transformation during COVID at TechCrunch Disrupt
+  - Lidar startup Ouster raises $42M in push to grow sales, diversify products
      <hr/>
      
-      - *Dropbox CEO Drew Houston will be joining us for a one on one interview at this year’s TechCrunch Disrupt happening next week from September 14-18. Houston has been there and done that as a startup founder. After attending Y Combinator in 2007 and launching at…*
+      - *Lidar startup Ouster has spent the past several years expanding and improving its line of sensors as it jostles for a piece of the crowded and competitive market place. Now, Ouster says it has raised $42 million, fresh capital that will be used to fund produc…*
      
+  - Snowflake's IPO could value it as high as $24B, Salesforce and Berkshire to invest
+      <hr/>
+      
+      - *On the heels of new filings from both Sumo Logic and JFrog, Snowflake, a venture-backed unicorn looking to go public on the strength of its data-focused cloud service, set an initial price range for its IPO. The $75 to $85 per-share IPO price target values th…*
+      
+  - 'Willful, brazen, and unlawful': Apple files breach-of-contract countersuit against Epic
+      <hr/>
+      
+      - *Apple has filed a countersuit against Epic over the latter’s attempt to circumvent App Store rules and avoid paying millions in fees. The lawsuit alleges that Epic is deliberately in breach of contract and asks the court to award damages and prohibit Epic fro…*
+      
+  - Drew Houston will talk about building a startup and digital transformation during COVID at TechCrunch Disrupt
+      <hr/>
+      
+      - *Dropbox CEO Drew Houston will be joining us for a one on one interview at this year’s TechCrunch Disrupt happening next week from September 14-18. Houston has been there and done that as a startup founder. After attending Y Combinator in 2007 and launching at…*
+       
   - Shred monsters as Zelda and others in 'Breath of the Wild' prequel 'Hyrule Warriors: Age of Calamity'
       <hr/>
-      
-      - *Nintendo has announced a surprise spin-off prequel to its modern classic Breath of the Wild, an action-focused game called Hyrule Warriors: Age of Calamity. You’ll play the role of Link, as usual, but also the four champions and Princess Zelda herself, in att…*
-      
-  - Apple expands its podcast footprint with Oprah's Book Club series
-      <hr/>
-      
-      - *Apple is expanding its investment in podcasts. Today, Apple Books and Oprah announced the launch of “Oprah’s Book Club” podcast, an eight-episode series that will explore themes related to Oprah’s Book Club pick and bestseller, “Caste: The Origins of Our Disc…*
-      
-  - How to respond to a data breach
-      <hr/>
-      
-      - *After a data breach, one U.S. company did everything right.*
        
-  - AngelList pioneers rolling VC funds in pivot to SaaS
-      <hr/>
-       
-       - *When AngelList first launched rolling funds, an investment vehicle that raises money through a quarterly subscription from interested investors, the company looked at it as a bet. But early interest from emerging fund managers indicates that rolling funds mig…*
+       - *Nintendo has announced a surprise spin-off prequel to its modern classic Breath of the Wild, an action-focused game called Hyrule Warriors: Age of Calamity. You’ll play the role of Link, as usual, but also the four champions and Princess Zelda herself, in att…*
       
 
 
