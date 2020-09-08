@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Ideas don't disappear. They change form, they merge with other ideas.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Bob Frankston
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Ideas don't disappear. They change form, they merge with other ideas.
 
 </pre>
 **Daily News**
-  - Committing to a fully zero-emission fleet by 2040, Uber is dedicating $800 million to electrifying its drivers
+  - Meet the final round judges who will decide the winner of this year's Disrupt Battlefield Competition
      <hr/>
      
-      - *Ride hailing giant Uber is committing to become a fully zero-emission platform by 2040 and setting aside $800 million to help get its drivers using electric vehicles by 2025. The company said that it would invest further in its micro-mobility options as well …*
+      - *It’s never easy, deciding which of the 20 companies that make it into the Disrupt Battlefield Competition will be anointed its winner. There’s just so much at stake each year and this year at Disrupt 2020 this September 14-18 the stakes are even higher. For t…*
      
-  - Apple’s next iPhone event is September 15
+  - PopSQL raises $3.4M seed round for its collaborative SQL editor
       <hr/>
       
-      - *The rumors of a new Apple Watch and iPad has thus far proven untrue. One thing that did pan out, however, is an invite for the company’s next big (virtual) event. Apple just announced that its annual Fall event will kick off September 15 at 10am PT. This will…*
+      - *PopSQL, a startup that builds a collaborative SQL editor for teams, today announced that it has raised a $3.4 million seed round led by Google’s AI-focused Gradient Ventures fund. Other participants include Y Combinator and FundersClub, as well as angel inves…*
       
+  - Committing to a fully zero-emission fleet by 2040, Uber is dedicating $800 million to electrifying its drivers
+      <hr/>
+      
+      - *Ride hailing giant Uber is committing to become a fully zero-emission platform by 2040 and setting aside $800 million to help get its drivers using electric vehicles by 2025. The company said that it would invest further in its micro-mobility options as well …*
+      
+  - Apple’s next event is September 15
+      <hr/>
+      
+      - *The rumors of a new Apple Watch and iPad has thus far proven untrue. One thing that did pan out, however, is an invite for the company’s next big (virtual) event. Apple just announced that its annual Fall event will kick off September 15 at 10am PT. This may …*
+       
   - JFrog's IPO strong initial price range values it ahead of the larger Sumo Logic
       <hr/>
-      
-      - *Despite the public markets posting a few days of losses, the IPO wave continues to crest as a number of well-known technology companies line up to float their equity on American exchanges. Most recently we saw e-commerce giant Wish file (albeit privately) and…*
-      
-  - Why established venture firms should court emerging managers
-      <hr/>
-      
-      - *In a VC ecosystem that has now looked up long enough to embrace the Black Lives Matter affirmation and the diversity conversations that have followed, firms are thinking creatively about how they access investment opportunities by underrepresented talent.*
        
-  - Join us Wednesday, September 9 to watch Techstars Starburst Space Accelerator Demo Day live
-      <hr/>
-       
-       - *The 2020 class of Techstars’ Starburst Space Accelerator are graduating with an official Demo Day on Wednesday at 10 AM PT (1 PM ET), and you can watch all the teams present their startups live via the stream above. This year’s class includes 10 companies bui…*
+       - *Despite the public markets posting a few days of losses, the IPO wave continues to crest as a number of well-known technology companies line up to float their equity on American exchanges. Most recently we saw e-commerce giant Wish file (albeit privately) and…*
       
 
 
