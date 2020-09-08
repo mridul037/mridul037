@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A clever person solves a problem. A wise person avoids it.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Albert Einstein
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A clever person solves a problem. A wise person avoids it.
 
 </pre>
 **Daily News**
-  - Diffblue launches a free community edition of its automated Java unit testing tool
+  - Peloton launches new Bike+ and Tread smart home gym equipment, both at $2,495
      <hr/>
      
-      - *Diffblue, a spin-out from Oxford University, uses machine learning to help developers automatically create unit tests for their Java code. Since few developers enjoy writing unit tests to ensure that their code works as expected, increased automation doesn’t …*
+      - *Peloton has launched two new products for its home smart gym lineup, the Bike+ ($2,495) and the Tread ($2,495). While both carry the same price tag, the new exercise bike joins as the premium version of Peloton’s original stationary cycle, which will remain o…*
      
+  - China presents 'global standard for data security'
+      <hr/>
+      
+      - *As tensions between the U.S. and China heighten over data security issues, Beijing took a proactive step to unveil a “data security initiative” that it believes can serve as “a global standard for data security.” The Chinese State Councilor and Foreign Minist…*
+      
+  - Microsoft confirms compact, $299 Xbox Series S next-gen game console
+      <hr/>
+      
+      - *Microsoft has confirmed via its official Xbox Twitter account that a discless, tiny Xbox called the Series S will be released alongside its forthcoming Xbox Series X. The Series S was initially leaked late Monday, first by Brad Sams on Twitter, and also by Wa…*
+      
+  - Diffblue launches a free community edition of its automated Java unit testing tool
+      <hr/>
+      
+      - *Diffblue, a spin-out from Oxford University, uses machine learning to help developers automatically create unit tests for their Java code. Since few developers enjoy writing unit tests to ensure that their code works as expected, increased automation doesn’t …*
+       
   - TikTok joins Europe's code on tackling hate speech
       <hr/>
-      
-      - *TikTok, the popular short video sharing app, has joined the European Union’s Code of Conduct on Countering Illegal Hate Speech. In a statement on joining the code, TikTok’s head of trust and safety for EMEA, Cormac Keenan, said: “We have never allowed hate on…*
-      
-  - Thunes, a fintech startup serving emerging markets, raises $60 million led by Africa-focused Helios Investment Partners
-      <hr/>
-      
-      - *Thunes, a Singapore-based startup developing a cross-border payments network to make financial services more accessible in emerging markets, announced today it has raised a $60 million Series B. The round was led by Africa-focused firm Helios Investment Partn…*
-      
-  - Skin Analytics raises £4M Series A to use AI for skin cancer screening
-      <hr/>
-      
-      - *Skin Analytics, a U.K.-based startup that has developed a skin cancer screening service that uses artificial intelligence, has raised £4 million in Series A funding. The round was led by Hoxton Ventures, with participation from Nesta and Mustard Seed Ventures…*
        
-  - PUBG cuts publishing ties with Tencent Games in India a week after ban
-      <hr/>
-       
-       - *PUBG said on Tuesday Chinese giant Tencent Games will no longer be the publishing partner of the popular game in India as it attempts to allay concerns of New Delhi, which banned the game and 117 other apps last week. Prior to Tuesday’s announcement, Tencent …*
+       - *TikTok, the popular short video sharing app, has joined the European Union’s Code of Conduct on Countering Illegal Hate Speech. In a statement on joining the code, TikTok’s head of trust and safety for EMEA, Cormac Keenan, said: “We have never allowed hate on…*
       
 
 
