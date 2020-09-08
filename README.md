@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+Life is too short to run proprietary software.
 
-~ Anonymous
+~ Bdale Garbee
 <pre>
 
 </pre>
