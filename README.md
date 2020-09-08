@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ Richard Hamming
+~ Bob Frankston
 <pre>
 
 </pre>
@@ -67,11 +68,16 @@ In science if you know what you are doing you should not be doing it. In enginee
 
 </pre>
 **Daily News**
-  - Sarbacane, maker of Mailify, raises $27M for marketing tools
+  - PUBG cuts publishing ties with Tencent Games in India a week after ban
      <hr/>
      
-      - *Marketing technology — and specifically tools that help companies leverage the internet to connect with customers in a way that is compliant with a new wave of data protection and privacy policies — continues to see a lot of traction with businesses and inves…*
+      - *PUBG said on Tuesday Chinese giant Tencent Games will no longer be the publishing partner of the popular game in India as it attempts to allay concerns of New Delhi, which banned the game and 117 other apps last week. Prior to Tuesday’s announcement, Tencent …*
      
+  - Sarbacane, maker of Mailify, raises $27M for marketing tools
+      <hr/>
+      
+      - *Marketing technology — and specifically tools that help companies leverage the internet to connect with customers in a way that is compliant with a new wave of data protection and privacy policies — continues to see a lot of traction with businesses and inves…*
+      
   - Silver Lake leads $500 million round in India's Byju's
       <hr/>
       
@@ -81,16 +87,11 @@ In science if you know what you are doing you should not be doing it. In enginee
       <hr/>
       
       - *New investment firm Do Ventures announced today the first closing of its fund for Vietnamese startups, which is backed by several of Asia’s most notable institutional investors. Called Do Ventures Fund I, the investment vehicle has hit more than half of its $…*
-      
+       
   - Revolut launches its financial app in Japan
       <hr/>
-      
-      - *Fintech startup Revolut is expanding to Japan. After testing the service with 10,000 users, anybody can now sign up and open an account. The company originally obtained its authorization to operate from Japan’s Finance Service Agency in 2018. When you open an…*
        
-  - Dutch payments startup Mollie raises $106M at $1B+ valuation
-      <hr/>
-       
-       - *E-commerce has seen a huge jump in the last eight months, driven by consumers shopping more for goods online while spending more time at home during the COVID-19 pandemic. Today, a payments startup out of Amsterdam that has itself seen a surge of growth this …*
+       - *Fintech startup Revolut is expanding to Japan. After testing the service with 10,000 users, anybody can now sign up and open an account. The company originally obtained its authorization to operate from Japan’s Finance Service Agency in 2018. When you open an…*
       
 
 
