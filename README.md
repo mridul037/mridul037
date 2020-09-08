@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
-~ Buckminster Fuller
+~ Richard Hamming
 <pre>
 
 </pre>
