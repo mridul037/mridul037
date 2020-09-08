@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good software, like good wine, takes time.
+I think there is a world market for maybe five
+computers.
 
-~ Joel Spolsky
+~ Thomas J. Watson
 <pre>
 
 </pre>
