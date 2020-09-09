@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+Code never lies, comments sometimes do.
 
-~ Pamela Zave
+~ Ron Jeffries
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The purpose of software engineering is to control complexity, not to create it.
 
 </pre>
 **Daily News**
-  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
+  - Sprinklr raises $200M on $2.7B valuation three years after last investment
      <hr/>
      
-      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
+      - *Sprinklr has been busy the last few years acquiring a dozen companies, then rewriting their code base and incorporating them into the company’s customer experience platform. Today, the late-stage startup went back to the fund raising well for the first time i…*
      
+  - Competing with both Perfect Day and Beyond Meat, Chile's NotCo raises $85 million to expand to the US
+      <hr/>
+      
+      - *NotCo, the Chilean food technology company making plant-based milk and meat replacements, has confirmed the close of a new $85 million round of funding to take the company’s products into the US market. The announcement confirms earlier reporting from TechCru…*
+      
+  - Yubico unveils its latest Yubikey 5C security key, priced at $55
+      <hr/>
+      
+      - *The company's newest YubiKey comes with a USB-C connector and in-built NFC.*
+      
+  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
+      <hr/>
+      
+      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
+       
   - Viral article puts brakes on China's food delivery frenzy
       <hr/>
-      
-      - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
-      
-  - Dawn Capital closes another $400M fund to focus on B2B software
-      <hr/>
-      
-      - *Dawn Capital, the London-based VC that focuses on B2B software, has closed its fourth and largest fund: $400 million that it plans to use to continue investing in early stage startups. Oversubscribed and closed (all remotely) within six months of launching in…*
-      
-  - Reliance Retail to raise $1 billion from Silver Lake
-      <hr/>
-      
-      - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
        
-  - Panasonic to expand battery capacity at Tesla Gigafactory
-      <hr/>
-       
-       - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
+       - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
       
 
 
