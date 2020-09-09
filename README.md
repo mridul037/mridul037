@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Ellen Ullman
+~ Pamela Zave
 <pre>
 
 </pre>
