@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ Martin Fowler
+~ Michael Stal
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are few things more frustrating or time wasting than debugging. Wouldn't i
 
 </pre>
 **Daily News**
-  - As the smartphone market declines, 5G models are set to see continued growth in 2020
+  - Voice assistants don’t work for kids: The problem with speech recognition in the classroom
      <hr/>
      
-      - *Things have gone from bad to worse for a stumbling smartphone market in 2020. Already plateauing and decline figures have taken a big hit from COVID-19. The pandemic has hampered sales of non-essential items, particularly those best enjoyed outside of the hom…*
+      - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
      
-  - Greenstop launches its cannabis vending machine in California dispensaries
+  - Hear from the CTOs of Peloton and DoorDash on how to build a service marketplace
       <hr/>
       
-      - *Cannabis is now available from vending machines in select California dispensaries. Made by California-based Greenstop, the self-serve kiosks can simultaneously serve four customers while still conforming to local regulations. And they couldn’t come at a bette…*
+      - *Peloton and DoorDash probably don’t seem to have much in common, but the connected fitness platform and food delivery app have both built massive service businesses that are touching millions. We’re amped to announce that Peloton co-founder/CTO Yong Feng and …*
       
-  - U.S. holiday shopping season on mobile expected to be largest to date, topping 1B hours on Android
+  - Dear Sophie: What is a J-1 visa and how can we use it?
       <hr/>
       
-      - *The coronavirus pandemic’s impact on the holiday shopping season is already underway. Amazon has delayed its annual sales event, Prime Day, from July to October 2020, while top e-commerce retailers, including Walmart, Target and Amazon, are becoming more powe…*
+      - *A Silicon Valley immigration lawyer explains how to participate in the J-1 visa program.*
       
-  - Snapchat's new Lens celebrates tomorrow's NFL kickoff
+  - Hear from the CEO Porsche Cars North America on electrifying the sports car
       <hr/>
       
-      - *Snap and the NFL recently announced a multi-year extension to their content partnership. Now, with the season starting tomorrow, they’re revealing more details about what kinds of content fans can expect to find on Snapchat. For tomorrow night’s kickoff, with…*
+      - *Few electric cars made a bigger splash than the new Porsche Taycan. As President and CEO of Porsche Cars North America Klaus Zellmer has the tall order of bringing the electric sedan to America and selling it against Tesla on Tesla’s home turf. He also overse…*
        
-  - Can carbon capture save the world from climate change? Jennifer Holmgren will tell us at Disrupt
+  - Three days left to save on passes to TC Sessions: Mobility 2020
       <hr/>
        
-       - *Before she became the chief executive officer of LanzaTech, one of the first generation of companies working on carbon capture and conversion technologies, Jennifer Holmgren was the general manager of the Renewable Energy and Chemicals business at UOP (which …*
+       - *Electric vehicles, dock-less scooters, autonomous trucks, ride-hailing apps and the AI that fuels them all — it’s a world of transportation that even a visionary like Leonardo Da Vinci could scarcely imagine. On October 6-7, modern-day visionaries from around…*
       
 
 
