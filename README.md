@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+What one programmer can do in one month, two programmers can do in two months.
 
-~ L. Peter Deutsch
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
 
 </pre>
 **Daily News**
-  - Panasonic to expand battery capacity at Tesla Gigafactory
+  - Reliance Retail to raise $1 billion from Silver Lake
      <hr/>
      
-      - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
+      - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
      
+  - Panasonic to expand battery capacity at Tesla Gigafactory
+      <hr/>
+      
+      - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
+      
   - Sign up to learn about funding options with the IFundWomen team
       <hr/>
       
@@ -81,16 +86,11 @@ I never in my wildest dreams would have predicted the evolution of the Internet.
       <hr/>
       
       - *I quite like the iPad Pro 11 inch with the Magic Keyboard. In the Land of Pandemic where every day is Saturday, the tablet is king. With no real purchase on the chaotic flow of life, the rules — any rules — of the road are very dear to me. Structure is arbitr…*
-      
+       
   - Taboola and Outbrain call off their $850M merger
       <hr/>
-      
-      - *Online advertising is a game of scale, but one attempt to consolidate two competitors to better take on Google and Facebook has fallen apart. Taboola and Outbrain, startups that each provide publishers with ad-based content recommendation platforms, have call…*
        
-  - Daily Crunch: Apple files countersuit against Epic
-      <hr/>
-       
-       - *Apple strikes back at Epic Games, Android 11 is here and Microsoft announces a new stripped-down Xbox. This is your Daily Crunch for September 8, 2020. The big story: Apple files countersuit against Epic Apple has made the latest move in a legal battle agains…*
+       - *Online advertising is a game of scale, but one attempt to consolidate two competitors to better take on Google and Facebook has fallen apart. Taboola and Outbrain, startups that each provide publishers with ad-based content recommendation platforms, have call…*
       
 
 
