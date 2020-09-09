@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 
-~ Michael Stal
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Sometimes there is a silver bullet for boosting software engineering productivit
 
 </pre>
 **Daily News**
-  - Voice assistants don’t work for kids: The problem with speech recognition in the classroom
+  - As direct listing looms, Palantir insiders are accelerating stock sales
      <hr/>
      
-      - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
+      - *According to Palantir’s latest S-1 amended filing published this morning, the company intends to start trading in two weeks on September 23 under the ticker PLTR. That gives us a bit of time to speculate about how the company will perform on the public market…*
      
-  - Hear from the CTOs of Peloton and DoorDash on how to build a service marketplace
+  - Watch the first trailer for the insanely star-studded 'Dune'
       <hr/>
       
-      - *Peloton and DoorDash probably don’t seem to have much in common, but the connected fitness platform and food delivery app have both built massive service businesses that are touching millions. We’re amped to announce that Peloton co-founder/CTO Yong Feng and …*
+      - *That strange feeling? That’s the sensation of being excited about new movies again. Now that theaters are slowly reopening (though not yet in New York or most of California, and I am 100% okay with that), studios are once again releasing trailers to hype up t…*
       
-  - Dear Sophie: What is a J-1 visa and how can we use it?
+  - Women exhibitors in Digital Startup Alley: Meet female-focused accelerators
       <hr/>
       
-      - *A Silicon Valley immigration lawyer explains how to participate in the J-1 visa program.*
+      - *Women founders who exhibit in Digital Startup Alley at Disrupt 2020, this opportunity’s designed with you in mind. Don’t miss your chance to meet with — and pitch to — accelerators focused on women entrepreneurs. We partnered with cela to bring accelerators t…*
       
-  - Hear from the CEO Porsche Cars North America on electrifying the sports car
+  - Postmates becomes the official on-demand food delivery partner of the NFL
       <hr/>
       
-      - *Few electric cars made a bigger splash than the new Porsche Taycan. As President and CEO of Porsche Cars North America Klaus Zellmer has the tall order of bringing the electric sedan to America and selling it against Tesla on Tesla’s home turf. He also overse…*
+      - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
        
-  - Three days left to save on passes to TC Sessions: Mobility 2020
+  - Voice assistants don’t work for kids: The problem with speech recognition in the classroom
       <hr/>
        
-       - *Electric vehicles, dock-less scooters, autonomous trucks, ride-hailing apps and the AI that fuels them all — it’s a world of transportation that even a visionary like Leonardo Da Vinci could scarcely imagine. On October 6-7, modern-day visionaries from around…*
+       - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
       
 
 
