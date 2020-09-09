@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Edsger W. Dijkstra
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The computing scientist’s main challenge is not to get confused by the complex
 
 </pre>
 **Daily News**
-  - Viral article puts brakes on China's food delivery frenzy
+  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
      <hr/>
      
-      - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
+      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
      
+  - Viral article puts brakes on China's food delivery frenzy
+      <hr/>
+      
+      - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
+      
   - Dawn Capital closes another $400M fund to focus on B2B software
       <hr/>
       
@@ -81,16 +86,11 @@ The computing scientist’s main challenge is not to get confused by the complex
       <hr/>
       
       - *Indian billionaire Mukesh Ambani’s retail venture Reliance Retail said on Wednesday it will raise $1.02 billion from Silver Lake, kickstarting a fundraising spree months after its sister venture Jio Platforms raised $20 billion earlier this year. The investme…*
-      
+       
   - Panasonic to expand battery capacity at Tesla Gigafactory
       <hr/>
-      
-      - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
        
-  - Sign up to learn about funding options with the IFundWomen team
-      <hr/>
-       
-       - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
+       - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
       
 
 
