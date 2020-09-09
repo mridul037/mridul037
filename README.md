@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Code never lies, comments sometimes do.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ Ron Jeffries
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Code never lies, comments sometimes do.
 
 </pre>
 **Daily News**
-  - Sprinklr raises $200M on $2.7B valuation three years after last investment
+  - Boston Dynamics’ Spot robot goes on sale in Europe and Canada
      <hr/>
      
-      - *Sprinklr has been busy the last few years acquiring a dozen companies, then rewriting their code base and incorporating them into the company’s customer experience platform. Today, the late-stage startup went back to the fund raising well for the first time i…*
+      - *Boston Dynamics this morning announced that it’s bringing Spot robot to a number of new markets, following sales in the U.S.  Interested parties in the European Union, U.K. and Canada can now purchase the technologically advanced quadrupedal robot. Spot is Bo…*
      
-  - Competing with both Perfect Day and Beyond Meat, Chile's NotCo raises $85 million to expand to the US
+  - Snyk bags another $200M at $2.6B valuation 9 months after last raise
       <hr/>
       
-      - *NotCo, the Chilean food technology company making plant-based milk and meat replacements, has confirmed the close of a new $85 million round of funding to take the company’s products into the US market. The announcement confirms earlier reporting from TechCru…*
+      - *When we last reported on Snyk in January, eons ago in COVID time, the company announced $150 million investment on a valuation of over $1 billion. Today, barely nine months later, it announced another $200 million and its valuation has expanded to $2.6 billio…*
       
-  - Yubico unveils its latest Yubikey 5C security key, priced at $55
+  - Zymergen raised $300 million because synthetic biology is so hot right now
       <hr/>
       
-      - *The company's newest YubiKey comes with a USB-C connector and in-built NFC.*
+      - *Zymergen, one of the companies that’s developing biomanufacturing technologies which could reshape any number of industries, said it has raised $300 million in financing yesterday. It’s part of a wave of biotech companies that TechCrunch covered in depth last…*
       
-  - Swyg raises $1.2M pre-seed to use peer-interviewers and AI to reduce bias in recruitment
+  - Deel nabs $30M more for payroll, compliance and other tools to run global workforces
       <hr/>
       
-      - *Swyg, a Dublin-based startup that believes it can reduce bias in recruitment by combining a peer-interview process with its own AI, has picked up $1.2 million in pre-seed funding. Leading the round is Frontline Ventures, alongside angel investors including Ch…*
+      - *Remote working has become the norm for many of us not on the frontlines, and what’s been notable is that this is also changing the mindset for a lot of organizations, which are now hiring from an increasingly global talent pool. Today, a startup called Deel —…*
        
-  - Viral article puts brakes on China's food delivery frenzy
+  - UK wants pandemic levels of data sharing to be the new normal
       <hr/>
        
-       - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
+       - *The UK government has published a national data strategy today, setting out a plan to promote the use and prioritize the reuse of data as a lever for economic growth and digital innovation. It has also opened up a 12-week public consultation on the policy pla…*
       
 
 
