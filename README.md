@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+If Microsoft ever does applications for Linux it means I've won.
 
-~ Gottfried Wilhelm Leibniz
+~ Linus Torvalds
 <pre>
 
 </pre>
