@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+If you learn how to solve problems, you can go through life and do pretty well.
 
-~ Randall E. Stross
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best programmers are not marginally better than merely good ones. They are a
 
 </pre>
 **Daily News**
-  - Kinspire's new app helps parents find screen-free activities for kids
+  - Facebook told it may have to suspend EU data transfers after Schrems II ruling
      <hr/>
      
-      - *A new startup called Kinspire wants to make it easier for parents to find activities to help keep kids occupied — away from a screen. The app, which launches with hundreds of activities vetted by parents and teachers alike, arrives at a time when the coronavi…*
+      - *Ireland’s data protection watchdog, the DPC, has sent Facebook a preliminary order to suspend data transfers from the EU to the US, the Wall Street Journal reports, citing people familiar with the matter and including a confirmation from Facebook’s VP of glob…*
      
+  - Three years later, Google Maps is back on the Apple Watch
+      <hr/>
+      
+      - *Google Maps has had a sort of spotty relationship with the Apple Watch over the years. Google first shipped a Watch-friendly build of Maps back in September of 2015, just months after the Apple Watch first hit the shelves. In 2017, however, Google nixed Map’s…*
+      
+  - Microsoft introduces monthly financing plan for its new Xbox consoles
+      <hr/>
+      
+      - *Monthly financing isn’t an entirely new concept in the world of Xbox. Microsoft offered a similar plan for the Xbox One S a few years ago. The idea is pretty simple: pay a monthly fee for hardware and software for two years until you outright own the device. …*
+      
+  - Kinspire's new app helps parents find screen-free activities for kids
+      <hr/>
+      
+      - *A new startup called Kinspire wants to make it easier for parents to find activities to help keep kids occupied — away from a screen. The app, which launches with hundreds of activities vetted by parents and teachers alike, arrives at a time when the coronavi…*
+       
   - Iron Ox raises $20 million for its robotic farms
       <hr/>
-      
-      - *Bay Area-based Iron Ox today announced a $20 million Series B. The funding, led by Pathbreaker Venture and family office firms, brings the robotics company’s total funding up to $45 million to date. A number of other investors also took part in the round, inc…*
-      
-  - Motorola gives its foldable Razr another go with the addition of a 5G model
-      <hr/>
-      
-      - *Last year’s Motorola Razr reboot should have been a slam-dunk. An iconic name attached to a cutting edge form factor — what could possible go wrong? A lot, turns out, especially in the world of foldables where nothing seems to go according to plan. Some quest…*
-      
-  - As direct listing looms, Palantir insiders are accelerating stock sales
-      <hr/>
-      
-      - *According to Palantir’s latest S-1 amended filing published this morning, the company intends to start trading in two weeks on September 23 under the ticker PLTR. That gives us a bit of time to speculate about how the company will perform on the public market…*
        
-  - Watch the first trailer for the insanely star-studded 'Dune'
-      <hr/>
-       
-       - *That strange feeling? That’s the sensation of being excited about new movies again. Now that theaters are slowly reopening (though not yet in New York or most of California, and I am 100% okay with that), studios are once again releasing trailers to hype up t…*
+       - *Bay Area-based Iron Ox today announced a $20 million Series B. The funding, led by Pathbreaker Venture and family office firms, brings the robotics company’s total funding up to $45 million to date. A number of other investors also took part in the round, inc…*
       
 
 
