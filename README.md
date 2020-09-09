@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 
-~ Harlan Mills
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The only way for errors to occur in a program is by being put there by the autho
 
 </pre>
 **Daily News**
-  - Can carbon capture save the world from climate change? Jennifer Holmgren will tell us at Disrupt
+  - As the smartphone market declines, 5G models are set to see continued growth in 2020
      <hr/>
      
-      - *Before she became the chief executive officer of LanzaTech, one of the first generation of companies working on carbon capture and conversion technologies, Jennifer Holmgren was the general manager of the Renewable Energy and Chemicals business at UOP (which …*
+      - *Things have gone from bad to worse for a stumbling smartphone market in 2020. Already plateauing and decline figures have taken a big hit from COVID-19. The pandemic has hampered sales of non-essential items, particularly those best enjoyed outside of the hom…*
      
-  - Calling VCs in Vienna: Be featured in The Great TechCrunch Survey of European VC
+  - Greenstop launches its cannabis vending machine in California dispensaries
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Vienna will capture how the city is faring, and what changes are being wroug…*
+      - *Cannabis is now available from vending machines in select California dispensaries. Made by California-based Greenstop, the self-serve kiosks can simultaneously serve four customers while still conforming to local regulations. And they couldn’t come at a bette…*
       
-  - In a startup reprise, Courtne Smith launches NewNew, a social network based on shared content
+  - U.S. holiday shopping season on mobile expected to be largest to date, topping 1B hours on Android
       <hr/>
       
-      - *Since her departure from Drake’s entourage (where she worked as his longtime personal assistant) Courtne Smith has launched a line of hair products; a giveaway game that dropped swag like Yeezy shoes and Kardashian beauty products called Suprize; and now, New…*
+      - *The coronavirus pandemic’s impact on the holiday shopping season is already underway. Amazon has delayed its annual sales event, Prime Day, from July to October 2020, while top e-commerce retailers, including Walmart, Target and Amazon, are becoming more powe…*
       
-  - AT&T customers can now make and receive calls via Alexa
+  - Snapchat's new Lens celebrates tomorrow's NFL kickoff
       <hr/>
       
-      - *Amazon this morning announced it’s teaming up with AT&T on a new feature that will allow some AT&T customers to make and receive phone calls through their Alexa-enabled devices, like an Amazon Echo smart speaker. Once enabled, customers with supported devices…*
+      - *Snap and the NFL recently announced a multi-year extension to their content partnership. Now, with the season starting tomorrow, they’re revealing more details about what kinds of content fans can expect to find on Snapchat. For tomorrow night’s kickoff, with…*
        
-  - Xometry raises $75M Series E to expand custom manufacturing marketplace
+  - Can carbon capture save the world from climate change? Jennifer Holmgren will tell us at Disrupt
       <hr/>
        
-       - *When companies need to find manufacturers to build custom parts, it’s not always an easy process, especially during a pandemic. Xometry, a 7-year old startup based in Maryland has built an online marketplace where companies can find manufacturers across the w…*
+       - *Before she became the chief executive officer of LanzaTech, one of the first generation of companies working on carbon capture and conversion technologies, Jennifer Holmgren was the general manager of the Renewable Energy and Chemicals business at UOP (which …*
       
 
 
