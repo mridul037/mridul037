@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+It's not so important what you work on, so long as you're not wasting your time.
 
-~ Joshua Bloch
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The cleaner and nicer the program, the faster it's going to run. And if it doesn
 
 </pre>
 **Daily News**
-  - Sign up to learn about funding options with the IFundWomen team
+  - Panasonic to expand battery capacity at Tesla Gigafactory
      <hr/>
      
-      - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
+      - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
      
+  - Sign up to learn about funding options with the IFundWomen team
+      <hr/>
+      
+      - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
+      
   - Gillmor Gang: Table Stakes
       <hr/>
       
@@ -81,16 +86,11 @@ The cleaner and nicer the program, the faster it's going to run. And if it doesn
       <hr/>
       
       - *Online advertising is a game of scale, but one attempt to consolidate two competitors to better take on Google and Facebook has fallen apart. Taboola and Outbrain, startups that each provide publishers with ad-based content recommendation platforms, have call…*
-      
+       
   - Daily Crunch: Apple files countersuit against Epic
       <hr/>
-      
-      - *Apple strikes back at Epic Games, Android 11 is here and Microsoft announces a new stripped-down Xbox. This is your Daily Crunch for September 8, 2020. The big story: Apple files countersuit against Epic Apple has made the latest move in a legal battle agains…*
        
-  - Twitter begins adding headlines and descriptions to some of its 'trends'
-      <hr/>
-       
-       - *Twitter is working to make its real-time Trending section less confusing. Last week, the company announced it would begin pinning a representative tweet that gives more insight about a trend to the trend’s page and promised more changes would soon be underway…*
+       - *Apple strikes back at Epic Games, Android 11 is here and Microsoft announces a new stripped-down Xbox. This is your Daily Crunch for September 8, 2020. The big story: Apple files countersuit against Epic Apple has made the latest move in a legal battle agains…*
       
 
 
