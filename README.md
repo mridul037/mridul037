@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you learn how to solve problems, you can go through life and do pretty well.
+If you think it's simple, then you have misunderstood the problem.
 
-~ Gary Kildall
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you learn how to solve problems, you can go through life and do pretty well.
 
 </pre>
 **Daily News**
-  - Facebook told it may have to suspend EU data transfers after Schrems II ruling
+  - Daily Crunch: Taboola and Outbrain call off their merger
      <hr/>
      
-      - *Ireland’s data protection watchdog, the DPC, has sent Facebook a preliminary order to suspend data transfers from the EU to the US, the Wall Street Journal reports, citing people familiar with the matter and including a confirmation from Facebook’s VP of glob…*
+      - *A massive content recommendation merger falls apart, Microsoft reveals the release date and pricing for its flagship game console and Alexa enables phone calls for AT&T customers. This is your Daily Crunch for September 9, 2020. The big story: Taboola and Out…*
      
+  - Instagram is building a product equity team and hiring a director of diversity and inclusion
+      <hr/>
+      
+      - *Instagram announced some changes it’s making that are geared toward advancing equity within its workplace. The changes come after Instagram in June spoke about elevating, rather than suppressing Black voices in light of the killing of George Floyd. “More than…*
+      
+  - B2B marketing company Metadata.io raises $6.5M
+      <hr/>
+      
+      - *Metadata.io announced today that it has raised $6.5 million in Series A funding. It’s been more than four years since I wrote about the startup’s $2 million seed funding. At the time, co-founder and CEO Gil Allouche described the product as helping business-t…*
+      
+  - Facebook told it may have to suspend EU data transfers after Schrems II ruling
+      <hr/>
+      
+      - *Ireland’s data protection watchdog, the DPC, has sent Facebook a preliminary order to suspend data transfers from the EU to the US, the Wall Street Journal reports, citing people familiar with the matter and including a confirmation from Facebook’s VP of glob…*
+       
   - Three years later, Google Maps is back on the Apple Watch
       <hr/>
-      
-      - *Google Maps has had a sort of spotty relationship with the Apple Watch over the years. Google first shipped a Watch-friendly build of Maps back in September of 2015, just months after the Apple Watch first hit the shelves. In 2017, however, Google nixed Map’s…*
-      
-  - Microsoft introduces monthly financing plan for its new Xbox consoles
-      <hr/>
-      
-      - *Monthly financing isn’t an entirely new concept in the world of Xbox. Microsoft offered a similar plan for the Xbox One S a few years ago. The idea is pretty simple: pay a monthly fee for hardware and software for two years until you outright own the device. …*
-      
-  - Kinspire's new app helps parents find screen-free activities for kids
-      <hr/>
-      
-      - *A new startup called Kinspire wants to make it easier for parents to find activities to help keep kids occupied — away from a screen. The app, which launches with hundreds of activities vetted by parents and teachers alike, arrives at a time when the coronavi…*
        
-  - Iron Ox raises $20 million for its robotic farms
-      <hr/>
-       
-       - *Bay Area-based Iron Ox today announced a $20 million Series B. The funding, led by Pathbreaker Venture and family office firms, brings the robotics company’s total funding up to $45 million to date. A number of other investors also took part in the round, inc…*
+       - *Google Maps has had a sort of spotty relationship with the Apple Watch over the years. Google first shipped a Watch-friendly build of Maps back in September of 2015, just months after the Apple Watch first hit the shelves. In 2017, however, Google nixed Map’s…*
       
 
 
