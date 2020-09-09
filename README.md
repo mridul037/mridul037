@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Bill Gates
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Is studying computer science the best way to prepare to be a programmer? No. the
 
 </pre>
 **Daily News**
-  - Dawn Capital closes another $400M fund to focus on B2B software
+  - Viral article puts brakes on China's food delivery frenzy
      <hr/>
      
-      - *Dawn Capital, the London-based VC that focuses on B2B software, has closed its fourth and largest fund: $400 million that it plans to use to continue investing in early stage startups. Oversubscribed and closed (all remotely) within six months of launching in…*
+      - *For China’s food delivery workers, life can feel like a constant battle with algorithms, traffic police, and disgruntled customers. An essay detailing the hazardous work conditions of China’s food delivery drivers went viral on the internet on Tuesday, causin…*
      
+  - Dawn Capital closes another $400M fund to focus on B2B software
+      <hr/>
+      
+      - *Dawn Capital, the London-based VC that focuses on B2B software, has closed its fourth and largest fund: $400 million that it plans to use to continue investing in early stage startups. Oversubscribed and closed (all remotely) within six months of launching in…*
+      
   - Reliance Retail to raise $1 billion from Silver Lake
       <hr/>
       
@@ -81,16 +86,11 @@ Is studying computer science the best way to prepare to be a programmer? No. the
       <hr/>
       
       - *Panasonic is adding another production line to the massive factory it operates with Tesla in Nevada, an expansion that will increase battery cell capacity by 10%. The Sparks facility, dubbed Gigafactory 1, is the centerpiece of Tesla’s plan to expand global b…*
-      
+       
   - Sign up to learn about funding options with the IFundWomen team
       <hr/>
-      
-      - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
        
-  - Gillmor Gang: Table Stakes
-      <hr/>
-       
-       - *I quite like the iPad Pro 11 inch with the Magic Keyboard. In the Land of Pandemic where every day is Saturday, the tablet is king. With no real purchase on the chaotic flow of life, the rules — any rules — of the road are very dear to me. Structure is arbitr…*
+       - *Disrupt 2020 is mere days away, but we’ve added pre-Disrupt events to help startup founders up their game, increase their ROI and drive their business forward. What’s next on the agenda? If you’re a founder with big ideas, get ready for a rare opportunity des…*
       
 
 
