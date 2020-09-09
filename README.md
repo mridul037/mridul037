@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 
-~ Bjarne Stroustrup
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
