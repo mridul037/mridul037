@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+Programming can be addictive.
 
-~ Joseph Yoder (computer scientist)
+~ Bob Carr
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Sadly, architecture has been undervalued for so long that many engineers regard 
 
 </pre>
 **Daily News**
-  - Boston Dynamics’ Spot robot goes on sale in Europe and Canada
+  - Socialbakers acquired by customer engagement company Astute
      <hr/>
      
-      - *Boston Dynamics this morning announced that it’s bringing Spot robot to a number of new markets, following sales in the U.S.  Interested parties in the European Union, U.K. and Canada can now purchase the technologically advanced quadrupedal robot. Spot is Bo…*
+      - *Astute, a customer engagement platform headquartered in Columbus, Ohio, is announcing that it has acquired social media marketing company Socialbakers. The financial terms of the acquisition were not disclosed. Socialbakers CEO Yuval Ben-Itzhak will become pr…*
      
-  - Snyk bags another $200M at $2.6B valuation 9 months after last raise
+  - Slack's earnings detail how COVID-19 is both a help and a hindrance to cloud growth
       <hr/>
       
-      - *When we last reported on Snyk in January, eons ago in COVID time, the company announced $150 million investment on a valuation of over $1 billion. Today, barely nine months later, it announced another $200 million and its valuation has expanded to $2.6 billio…*
+      - *Slack’s shares are set to fall sharply this morning, down around 16% in pre-market trading. As the company beat analyst expectations last quarter and guided within range, the selloff might feel a little surprising. Perhaps it shouldn’t. I spoke with a VC last…*
       
-  - Zymergen raised $300 million because synthetic biology is so hot right now
+  - Rick Moranis breaks acting hiatus for 30 seconds to launch Mint’s $30 a month unlimited plan
       <hr/>
       
-      - *Zymergen, one of the companies that’s developing biomanufacturing technologies which could reshape any number of industries, said it has raised $300 million in financing yesterday. It’s part of a wave of biotech companies that TechCrunch covered in depth last…*
+      - *If you know one thing about Mint Mobile, it’s probably the fact that it’s owned by Pizza Place guy turned Pikachu voice, Ryan Reynolds. The actor’s been building a nice investment portfolio for himself, beginning with a piece of the Aviation American Gin comp…*
       
-  - Deel nabs $30M more for payroll, compliance and other tools to run global workforces
+  - Hear Y Combinator's Eric Migicovsky and Chrysalis Cloud's Kate Whitcomb talk hardware at Disrupt 2020
       <hr/>
       
-      - *Remote working has become the norm for many of us not on the frontlines, and what’s been notable is that this is also changing the mindset for a lot of organizations, which are now hiring from an increasingly global talent pool. Today, a startup called Deel —…*
+      - *As has been said so many times before: “Hardware is hard.” But has building a hardware company gotten any easier over the years? Or has 2020 introduced all new challenges of its own? At Disrupt 2020 — our first ever entirely virtual Disrupt! — we’ll be joined…*
        
-  - UK wants pandemic levels of data sharing to be the new normal
+  - Reminder: $1,000 in AWS Activate credits available for Extra Crunch members
       <hr/>
        
-       - *The UK government has published a national data strategy today, setting out a plan to promote the use and prioritize the reuse of data as a lever for economic growth and digital innovation. It has also opened up a 12-week public consultation on the policy pla…*
+       - *Calling all Extra Crunch members! We’ve partnered with Amazon Web Services for an Extra Crunch Partner Perk, and now eligible members can get $1,000 in AWS Activate credits as a part of an annual Extra Crunch membership plan. If you are already an Extra Crunc…*
       
 
 
