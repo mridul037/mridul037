@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming can be addictive.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ Bob Carr
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming can be addictive.
 
 </pre>
 **Daily News**
-  - Socialbakers acquired by customer engagement company Astute
+  - Can carbon capture save the world from climate change? Jennifer Holmgren will tell us at Disrupt
      <hr/>
      
-      - *Astute, a customer engagement platform headquartered in Columbus, Ohio, is announcing that it has acquired social media marketing company Socialbakers. The financial terms of the acquisition were not disclosed. Socialbakers CEO Yuval Ben-Itzhak will become pr…*
+      - *Before she became the chief executive officer of LanzaTech, one of the first generation of companies working on carbon capture and conversion technologies, Jennifer Holmgren was the general manager of the Renewable Energy and Chemicals business at UOP (which …*
      
-  - Slack's earnings detail how COVID-19 is both a help and a hindrance to cloud growth
+  - Calling VCs in Vienna: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *Slack’s shares are set to fall sharply this morning, down around 16% in pre-market trading. As the company beat analyst expectations last quarter and guided within range, the selloff might feel a little surprising. Perhaps it shouldn’t. I spoke with a VC last…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Vienna will capture how the city is faring, and what changes are being wroug…*
       
-  - Rick Moranis breaks acting hiatus for 30 seconds to launch Mint’s $30 a month unlimited plan
+  - In a startup reprise, Courtne Smith launches NewNew, a social network based on shared content
       <hr/>
       
-      - *If you know one thing about Mint Mobile, it’s probably the fact that it’s owned by Pizza Place guy turned Pikachu voice, Ryan Reynolds. The actor’s been building a nice investment portfolio for himself, beginning with a piece of the Aviation American Gin comp…*
+      - *Since her departure from Drake’s entourage (where she worked as his longtime personal assistant) Courtne Smith has launched a line of hair products; a giveaway game that dropped swag like Yeezy shoes and Kardashian beauty products called Suprize; and now, New…*
       
-  - Hear Y Combinator's Eric Migicovsky and Chrysalis Cloud's Kate Whitcomb talk hardware at Disrupt 2020
+  - AT&T customers can now make and receive calls via Alexa
       <hr/>
       
-      - *As has been said so many times before: “Hardware is hard.” But has building a hardware company gotten any easier over the years? Or has 2020 introduced all new challenges of its own? At Disrupt 2020 — our first ever entirely virtual Disrupt! — we’ll be joined…*
+      - *Amazon this morning announced it’s teaming up with AT&T on a new feature that will allow some AT&T customers to make and receive phone calls through their Alexa-enabled devices, like an Amazon Echo smart speaker. Once enabled, customers with supported devices…*
        
-  - Reminder: $1,000 in AWS Activate credits available for Extra Crunch members
+  - Xometry raises $75M Series E to expand custom manufacturing marketplace
       <hr/>
        
-       - *Calling all Extra Crunch members! We’ve partnered with Amazon Web Services for an Extra Crunch Partner Perk, and now eligible members can get $1,000 in AWS Activate credits as a part of an annual Extra Crunch membership plan. If you are already an Extra Crunc…*
+       - *When companies need to find manufacturers to build custom parts, it’s not always an easy process, especially during a pandemic. Xometry, a 7-year old startup based in Maryland has built an online marketplace where companies can find manufacturers across the w…*
       
 
 
