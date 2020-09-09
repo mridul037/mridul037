@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+People under pressure don’t work better; they just work faster.
 
-~ Tony Parisi (software developer)
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A framework can provide 90% of the features we need quickly — giving us a fals
 
 </pre>
 **Daily News**
-  - As direct listing looms, Palantir insiders are accelerating stock sales
+  - Motorola gives its foldable Razr another go with the addition of a 5G model
      <hr/>
      
-      - *According to Palantir’s latest S-1 amended filing published this morning, the company intends to start trading in two weeks on September 23 under the ticker PLTR. That gives us a bit of time to speculate about how the company will perform on the public market…*
+      - *Last year’s Motorola Razr reboot should have been a slam-dunk. An iconic name attached to a cutting edge form factor — what could possible go wrong? A lot, turns out, especially in the world of foldables where nothing seems to go according to plan. Some quest…*
      
+  - As direct listing looms, Palantir insiders are accelerating stock sales
+      <hr/>
+      
+      - *According to Palantir’s latest S-1 amended filing published this morning, the company intends to start trading in two weeks on September 23 under the ticker PLTR. That gives us a bit of time to speculate about how the company will perform on the public market…*
+      
   - Watch the first trailer for the insanely star-studded 'Dune'
       <hr/>
       
@@ -81,16 +86,11 @@ A framework can provide 90% of the features we need quickly — giving us a fals
       <hr/>
       
       - *Women founders who exhibit in Digital Startup Alley at Disrupt 2020, this opportunity’s designed with you in mind. Don’t miss your chance to meet with — and pitch to — accelerators focused on women entrepreneurs. We partnered with cela to bring accelerators t…*
-      
+       
   - Postmates becomes the official on-demand food delivery partner of the NFL
       <hr/>
-      
-      - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
        
-  - Voice assistants don’t work for kids: The problem with speech recognition in the classroom
-      <hr/>
-       
-       - *Young "remote learners" often struggle to navigate the keyboards, menus, and interfaces required to make good on the promise of education technology.*
+       - *The National Football League naming Postmates as its very first on-demand food delivery partner. In this context, a partnership means a multi-year sponsorship, which also makes Postmates a sponsor of the Super Bowl. And as the season kicks off with the Kansas…*
       
 
 
