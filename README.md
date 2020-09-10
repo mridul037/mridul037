@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+People should be able to speak and breathe programs just like they talk now.
 
-~ Vannevar Bush
+~ Jaron Lanier
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Whenever logical processes of thought are employed, there is an opportunity for 
 
 </pre>
 **Daily News**
-  - Amazon launches Alexa Print, a way to print lists, recipes, games, & educational content using your voice
+  - Use 'productive paranoia' to build cybersecurity culture at your startup
      <hr/>
      
-      - *Alexa can now control your printer. Amazon today announced a new Alexa-enabled printing feature that lets Echo device owners use voice commands print out common items, like their Alexa to-do lists, recipes, weekly calendars, educational content for kids, and …*
+      - *Bugcrowd's Casey Ellis talks prioritizing security at your startup.*
      
+  - Amazon launches Alexa Print, a way to print lists, recipes, games, & educational content using your voice
+      <hr/>
+      
+      - *Alexa can now control your printer. Amazon today announced a new Alexa-enabled printing feature that lets Echo device owners use voice commands print out common items, like their Alexa to-do lists, recipes, weekly calendars, educational content for kids, and …*
+      
   - London VCs launch new joint initiative to help BAME founders get better access to VC
       <hr/>
       
@@ -81,16 +86,11 @@ Whenever logical processes of thought are employed, there is an opportunity for 
       <hr/>
       
       - *Don’t you just love the feeling you get when crossing a task off your to-do list? It’s exponentially bigger and better when you can save $100 at the same time. Here’s the thing — you have just 48 hours to buy an early-bird pass to TC Sessions: Mobility 2020, …*
-      
+       
   - It’s time to better identify the cost of cybersecurity risks in M&A deals
       <hr/>
-      
-      - *Over the past decade, a number of high-profile cybersecurity issues have arisen during mega-M&A deals, heightening concerns among corporate executives.*
        
-  - How to find the right users as the world burns
-      <hr/>
-       
-       - *You have more ways than ever to find the right users for your startup — if you know what you’re doing.  Today, you can pick from a selection of self-serve ad tools across large consumer platforms, build out your own content marketing and develop a sophisticat…*
+       - *Over the past decade, a number of high-profile cybersecurity issues have arisen during mega-M&A deals, heightening concerns among corporate executives.*
       
 
 
