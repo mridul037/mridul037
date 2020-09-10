@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-JavaScript, purely by accident, has become the most popular programming language in the world.
+The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ JavaScript, purely by accident, has become the most popular programming language
 
 </pre>
 **Daily News**
-  - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
+  - Daily Crunch: Facebook launches a college-only network
      <hr/>
      
-      - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
+      - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
      
+  - Warren Buffett invests in an unprofitable business
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering, and Chris Gates beh…*
+      
+  - Apple confirms the 'Apple One' subscription bundle in its own Apple Music app's code
+      <hr/>
+      
+      - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
+      
+  - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
+      <hr/>
+      
+      - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
+       
   - Imran Khan's Verishop adds "Verified Shops", a  way for up-and-coming brands to set up shop in its "digital mall"
       <hr/>
-      
-      - *Verishop, the Los Angeles online retailer founded by former Snap executive Imran Khan, launched a little over a year ago to change the way people shopped online. Now the company is launching a new initiative called “Verified Shops” which looks to change the w…*
-      
-  - Google says it's eliminating Autocomplete suggestions that target candidates or voting
-      <hr/>
-      
-      - *Ahead of the U.S. presidential election, Google says it’s taken a number of steps to improve the quality of information that it highlights across its various search and news products. Google executives outlined these changes at an online press event today, as…*
-      
-  - Recorded music revenue is up on streaming growth, as physical sales plummet
-      <hr/>
-      
-      - *With touring ground to a halt for the foreseeable future, 2020 has become the most difficult year for musicians in recent memory. One’s ability to survive on music depends on a variety of factors, of course, including things like audience, reach and how their…*
        
-  - Ola is facing a drivers' legal challenge over data access rights and algorithmic management
-      <hr/>
-       
-       - *Two ride hailing drivers are taking India-based Ola to court in the Netherlands in another test case targeted at algorithmic management of gig workers. The case, which is being supported by the App Drivers & Couriers Union (ADCU) union and others, is similar …*
+       - *Verishop, the Los Angeles online retailer founded by former Snap executive Imran Khan, launched a little over a year ago to change the way people shopped online. Now the company is launching a new initiative called “Verified Shops” which looks to change the w…*
       
 
 
