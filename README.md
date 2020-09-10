@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People should be able to speak and breathe programs just like they talk now.
+A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
 
-~ Jaron Lanier
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ People should be able to speak and breathe programs just like they talk now.
 
 </pre>
 **Daily News**
-  - Use 'productive paranoia' to build cybersecurity culture at your startup
+  - Twitter's rules address worries over 'peaceful transfer of power' in U.S. election
      <hr/>
      
-      - *Bugcrowd's Casey Ellis talks prioritizing security at your startup.*
+      - *Twitter announced expanded efforts to fight misinformation ahead of the U.S. election — with at least a few hair-raising lines that throw November’s stakes into sharp relief. The company is making a game plan for what happens if the results of the 2020 electi…*
      
-  - Amazon launches Alexa Print, a way to print lists, recipes, games, & educational content using your voice
+  - Announcing the Startup Battlefield companies at TechCrunch Disrupt 2020
       <hr/>
       
-      - *Alexa can now control your printer. Amazon today announced a new Alexa-enabled printing feature that lets Echo device owners use voice commands print out common items, like their Alexa to-do lists, recipes, weekly calendars, educational content for kids, and …*
+      - *TechCrunch is thrilled to announce the 20 companies pitching in Startup Battlefield. Over the next five days, founders from around the world will be connecting in remotely to pitch live on the virtual TechCrunch Disrupt 2020 stage. Our most competitive batch …*
       
-  - London VCs launch new joint initiative to help BAME founders get better access to VC
+  - Bear and bull cases for Unity's IPO
       <hr/>
       
-      - *A group of UK-based VCs have come together to create a new virtual pitching event designed to address the problems with the current startup ecosystem which can lead to inequalities and ‘warm intros’ made only between privileged classes and ethnicities. Held o…*
+      - *Key data points from its S-1 filing help explain Unity's ability to stay ahead of the curve.*
       
-  - 48 hours left to save on TC Sessions: Mobility 2020
+  - How Unity built a gaming engine for the future
       <hr/>
       
-      - *Don’t you just love the feeling you get when crossing a task off your to-do list? It’s exponentially bigger and better when you can save $100 at the same time. Here’s the thing — you have just 48 hours to buy an early-bird pass to TC Sessions: Mobility 2020, …*
+      - *Unity is currently in a powerful position as the key platform for developing VR/AR content and distributing it across different operating systems and devices.*
        
-  - It’s time to better identify the cost of cybersecurity risks in M&A deals
+  - Bose’s music-playing sunglasses are back
       <hr/>
        
-       - *Over the past decade, a number of high-profile cybersecurity issues have arisen during mega-M&A deals, heightening concerns among corporate executives.*
+       - *Glasses/sunglasses with built-in speakers have been a thing for a shockingly long time now. They’ve never been particularly popular, mind, but at the very least, they’re an interesting enough concept for companies to continue taking a sporadic stab at the cat…*
       
 
 
