@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have no special talent. I am only passionately curious.
+When in doubt, use brute force.
 
-~ Albert Einstein
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I have no special talent. I am only passionately curious.
 
 </pre>
 **Daily News**
-  - Pitching access management on the fly, Los Angeles-based Britive raises $5.4 million
+  - How to find the right users as the world burns
      <hr/>
      
-      - *It seems Los Angeles is becoming an enterprise software hotspot. LA saw its first big enterprise exit in recent memory with the recent acquisition of Signal Sciences for $775 million, and less than a month later a hometown startup, Britive has raised $5.4 mil…*
+      - *You have more ways than ever to find the right users for your startup — if you know what you’re doing.  Today, you can pick from a selection of self-serve ad tools across large consumer platforms, build out your own content marketing and develop a sophisticat…*
      
+  - Retro-inspired music player Poolside.fm brings its summery fun to iPhone
+      <hr/>
+      
+      - *If you mashup feel-good summer music, ridiculous 80’s-inspired imagery and retro tech, you’ll get the lighthearted and fun web radio service Poolside.fm, the so-called “sunniest place on the internet.” The website where you can stream beachy, chill or disco t…*
+      
+  - United Airlines' website bug exposed traveler ticket data
+      <hr/>
+      
+      - *United's website let anyone access ticket information for travelers who requested a refund.*
+      
+  - Pitching access management on the fly, Los Angeles-based Britive raises $5.4 million
+      <hr/>
+      
+      - *It seems Los Angeles is becoming an enterprise software hotspot. LA saw its first big enterprise exit in recent memory with the recent acquisition of Signal Sciences for $775 million, and less than a month later a hometown startup, Britive has raised $5.4 mil…*
+       
   - What's driving API-powered startups forward in 2020?
       <hr/>
-      
-      - *Startups that deliver products via an API are seeing momentum in 2020, as their method of serving customers becomes increasingly mainstream. And investors are taking note. It’s not hard to find a startup with an API-based delivery model that is doing well thi…*
-      
-  - Qovery lets you deploy your application without managing your cloud infrastructure
-      <hr/>
-      
-      - *Remember how Heroku was a big break through when it was first released? Qovery wants to do it again by building an abstraction layer between your code and your cloud infrastructure. You push code in a git repository and Qovery manages your services for you. “…*
-      
-  - India's Zomato raises $100M from Tiger Global, says it is planning to file for IPO next year
-      <hr/>
-      
-      - *Indian food delivery startup Zomato has raised $100 million from Tiger Global and is preparing for the next phase of its journey: An IPO. Tiger Global financed the capital through its investment vehicle Internet Fund VI, according to a regulatory filing. Info…*
        
-  - Facebook returns to its roots with Campus, a college student-only social network
-      <hr/>
-       
-       - *Facebook is getting back to its roots as a college-focused social network. The company announced today the launch of a new social networking platform, Facebook Campus, which offers college students a private place to connect with classmates, join groups, disc…*
+       - *Startups that deliver products via an API are seeing momentum in 2020, as their method of serving customers becomes increasingly mainstream. And investors are taking note. It’s not hard to find a startup with an API-based delivery model that is doing well thi…*
       
 
 
