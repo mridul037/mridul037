@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 
-~ David Leinweber
+~ Grady Booch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you give someone a program, you will frustrate them for a day; if you teach t
 
 </pre>
 **Daily News**
-  - Former NSA chief General Keith Alexander is now on Amazon's board
+  - Portland passes expansive city ban on facial recognition tech
      <hr/>
      
-      - *General Keith Alexander, who oversaw the National Security Agency when Edward Snowden revealed the shocking extent of its illegal wiretapping and data collection programs, has joined Amazon’s board as a director. Gen. Alexander’s duties on the audit committee…*
+      - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
      
+  - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
+      <hr/>
+      
+      - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
+      
+  - Lucid lets shoppers customize cars like a video game character
+      <hr/>
+      
+      - *Lucid just launched its first production vehicle, and it looks impressive. But let’s talk about the new website, too. It features a remarkable buying experience that lets shoppers build a 3D car online and experience it in VR at a Lucid dealership. Right now,…*
+      
+  - Former NSA chief General Keith Alexander is now on Amazon's board
+      <hr/>
+      
+      - *General Keith Alexander, who oversaw the National Security Agency when Edward Snowden revealed the shocking extent of its illegal wiretapping and data collection programs, has joined Amazon’s board as a director. Gen. Alexander’s duties on the audit committee…*
+       
   - Here's every angle of the all-electric Lucid Air in pictures
       <hr/>
-      
-      - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
-      
-  - Lucid Motors' second act will be an all-electric SUV called Gravity
-      <hr/>
-      
-      - *Lucid Motors provided Wednesday a peek of the next vehicle in its all-electric lineup — an SUV called the Lucid Gravity. The Lucid Gravity follows the Air, a luxury all-electric sedan that was revealed Wednesday in a live streamed event. The Gravity, which wi…*
-      
-  - Lucid Motors reveals its long-awaited Air electric sedan
-      <hr/>
-      
-      - *Lucid Motors CEO and CTO Peter Rawlinson had a clear vision for how to take an electric car to another level. The former chief engineer of the Tesla Model S just didn’t expect it to take quite so long. Today, nearly four years since the company first announce…*
        
-  - Daily Crunch: Taboola and Outbrain call off their merger
-      <hr/>
-       
-       - *A massive content recommendation merger falls apart, Microsoft reveals the release date and pricing for its flagship game console and Alexa enables phone calls for AT&T customers. This is your Daily Crunch for September 9, 2020. The big story: Taboola and Out…*
+       - *After years of development, Lucid Motors took the wraps off the Air, an electric luxury sedan that was unveiled Wednesday in a live streamed event. The Air combines high-end features with eye-popping performance specs and technology that puts it in the same l…*
       
 
 
