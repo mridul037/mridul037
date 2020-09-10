@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Alan Perlis
+~ Vannevar Bush
 <pre>
 
 </pre>
