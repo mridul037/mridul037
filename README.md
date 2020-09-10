@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 
-~ Edsger W. Dijkstra
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
 
 </pre>
 **Daily News**
-  - Twitter's rules address worries over 'peaceful transfer of power' in U.S. election
+  - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
      <hr/>
      
-      - *Twitter announced expanded efforts to fight misinformation ahead of the U.S. election — with at least a few hair-raising lines that throw November’s stakes into sharp relief. The company is making a game plan for what happens if the results of the 2020 electi…*
+      - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
      
-  - Announcing the Startup Battlefield companies at TechCrunch Disrupt 2020
+  - Imran Khan's Verishop adds "Verified Shops", a  way for up-and-coming brands to set up shop in its "digital mall"
       <hr/>
       
-      - *TechCrunch is thrilled to announce the 20 companies pitching in Startup Battlefield. Over the next five days, founders from around the world will be connecting in remotely to pitch live on the virtual TechCrunch Disrupt 2020 stage. Our most competitive batch …*
+      - *Verishop, the Los Angeles online retailer founded by former Snap executive Imran Khan, launched a little over a year ago to change the way people shopped online. Now the company is launching a new initiative called “Verified Shops” which looks to change the w…*
       
-  - Bear and bull cases for Unity's IPO
+  - Google says it's eliminating Autocomplete suggestions that target candidates or voting
       <hr/>
       
-      - *Key data points from its S-1 filing help explain Unity's ability to stay ahead of the curve.*
+      - *Ahead of the U.S. presidential election, Google says it’s taken a number of steps to improve the quality of information that it highlights across its various search and news products. Google executives outlined these changes at an online press event today, as…*
       
-  - How Unity built a gaming engine for the future
+  - Recorded music revenue is up on streaming growth, as physical sales plummet
       <hr/>
       
-      - *Unity is currently in a powerful position as the key platform for developing VR/AR content and distributing it across different operating systems and devices.*
+      - *With touring ground to a halt for the foreseeable future, 2020 has become the most difficult year for musicians in recent memory. One’s ability to survive on music depends on a variety of factors, of course, including things like audience, reach and how their…*
        
-  - Bose’s music-playing sunglasses are back
+  - Ola is facing a drivers' legal challenge over data access rights and algorithmic management
       <hr/>
        
-       - *Glasses/sunglasses with built-in speakers have been a thing for a shockingly long time now. They’ve never been particularly popular, mind, but at the very least, they’re an interesting enough concept for companies to continue taking a sporadic stab at the cat…*
+       - *Two ride hailing drivers are taking India-based Ola to court in the Netherlands in another test case targeted at algorithmic management of gig workers. The case, which is being supported by the App Drivers & Couriers Union (ADCU) union and others, is similar …*
       
 
 
