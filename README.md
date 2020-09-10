@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+The cheapest, fastest, and most reliable components are those that aren’t there.
 
-~ Alan Perlis
+~ Gordon Bell
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A year spent in artificial intelligence is enough to make one believe in God.
 
 </pre>
 **Daily News**
-  - Dgraph launches Slash GraphQL, a GraphQL-native database Backend-as-a-Service
+  - PayPal, Visa expand Instant Transfers for fast payouts globally on all PayPal's networks
      <hr/>
      
-      - *Dgraph Labs, the startup behind the popular eponymous graph database, today announced the launch of its Slash GraphQL service. Slash GraphQL is a fully managed GraphQL backend service that is, of course, powered by Dgraph. As Manish Jain, Dgraph’s CEO and fou…*
+      - *The COVID-19 pandemic continues to put huge stress on people’s and businesses’ finances, and in an effort to meet some of the crunch, today PayPal and Visa announced an expansion of a service to get cash into people’s hands faster. Instant Transfer — a servic…*
      
+  - Orchard real estate platform raises $69 million Series C led by Revolution Growth
+      <hr/>
+      
+      - *Orchard, the tech-forward residential real estate platform, has today announced the close of a $69 million Series C funding led by Revolution Growth. Existing investors FirstMark Capital, Navitas, Accomplice and Juxtapose also participated in the round, which…*
+      
+  - Dgraph launches Slash GraphQL, a GraphQL-native database Backend-as-a-Service
+      <hr/>
+      
+      - *Dgraph Labs, the startup behind the popular eponymous graph database, today announced the launch of its Slash GraphQL service. Slash GraphQL is a fully managed GraphQL backend service that is, of course, powered by Dgraph. As Manish Jain, Dgraph’s CEO and fou…*
+      
   - Huawei phones will start running on HarmonyOS in 2021
       <hr/>
       
       - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
-      
+       
   - Curio, the curated audio platform for journalism, has closed $9M Series A funding
       <hr/>
-      
-      - *Curio, the burgeoning audio platform that offers a curated library of “expert” journalism, has closed a $9 million in Series A round funding. The round is led by Earlybird, with participation from Draper Esprit, Cherry Ventures, and Horizons Ventures. It foll…*
-      
-  - Times Internet is growing despite influx of US firms in India
-      <hr/>
-      
-      - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
        
-  - Portland passes expansive city ban on facial recognition tech
-      <hr/>
-       
-       - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
+       - *Curio, the burgeoning audio platform that offers a curated library of “expert” journalism, has closed a $9 million in Series A round funding. The round is led by Earlybird, with participation from Draper Esprit, Cherry Ventures, and Horizons Ventures. It foll…*
       
 
 
