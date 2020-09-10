@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Ken Thompson
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When in doubt, use brute force.
 
 </pre>
 **Daily News**
-  - How to find the right users as the world burns
+  - Amazon launches Alexa Print, a way to print lists, recipes, games, & educational content using your voice
      <hr/>
      
-      - *You have more ways than ever to find the right users for your startup — if you know what you’re doing.  Today, you can pick from a selection of self-serve ad tools across large consumer platforms, build out your own content marketing and develop a sophisticat…*
+      - *Alexa can now control your printer. Amazon today announced a new Alexa-enabled printing feature that lets Echo device owners use voice commands print out common items, like their Alexa to-do lists, recipes, weekly calendars, educational content for kids, and …*
      
-  - Retro-inspired music player Poolside.fm brings its summery fun to iPhone
+  - London VCs launch new joint initiative to help BAME founders get better access to VC
       <hr/>
       
-      - *If you mashup feel-good summer music, ridiculous 80’s-inspired imagery and retro tech, you’ll get the lighthearted and fun web radio service Poolside.fm, the so-called “sunniest place on the internet.” The website where you can stream beachy, chill or disco t…*
+      - *A group of UK-based VCs have come together to create a new virtual pitching event designed to address the problems with the current startup ecosystem which can lead to inequalities and ‘warm intros’ made only between privileged classes and ethnicities. Held o…*
       
-  - United Airlines' website bug exposed traveler ticket data
+  - 48 hours left to save on TC Sessions: Mobility 2020
       <hr/>
       
-      - *United's website let anyone access ticket information for travelers who requested a refund.*
+      - *Don’t you just love the feeling you get when crossing a task off your to-do list? It’s exponentially bigger and better when you can save $100 at the same time. Here’s the thing — you have just 48 hours to buy an early-bird pass to TC Sessions: Mobility 2020, …*
       
-  - Pitching access management on the fly, Los Angeles-based Britive raises $5.4 million
+  - It’s time to better identify the cost of cybersecurity risks in M&A deals
       <hr/>
       
-      - *It seems Los Angeles is becoming an enterprise software hotspot. LA saw its first big enterprise exit in recent memory with the recent acquisition of Signal Sciences for $775 million, and less than a month later a hometown startup, Britive has raised $5.4 mil…*
+      - *Over the past decade, a number of high-profile cybersecurity issues have arisen during mega-M&A deals, heightening concerns among corporate executives.*
        
-  - What's driving API-powered startups forward in 2020?
+  - How to find the right users as the world burns
       <hr/>
        
-       - *Startups that deliver products via an API are seeing momentum in 2020, as their method of serving customers becomes increasingly mainstream. And investors are taking note. It’s not hard to find a startup with an API-based delivery model that is doing well thi…*
+       - *You have more ways than ever to find the right users for your startup — if you know what you’re doing.  Today, you can pick from a selection of self-serve ad tools across large consumer platforms, build out your own content marketing and develop a sophisticat…*
       
 
 
