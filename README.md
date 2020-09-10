@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Stan Kelly-Bootle
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Should array indices start at 0 or 1? My compromise of 0.5 was rejected without,
 
 </pre>
 **Daily News**
-  - Huawei phones will start running on HarmonyOS in 2021
+  - Dgraph launches Slash GraphQL, a GraphQL-native database Backend-as-a-Service
      <hr/>
      
-      - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
+      - *Dgraph Labs, the startup behind the popular eponymous graph database, today announced the launch of its Slash GraphQL service. Slash GraphQL is a fully managed GraphQL backend service that is, of course, powered by Dgraph. As Manish Jain, Dgraph’s CEO and fou…*
      
+  - Huawei phones will start running on HarmonyOS in 2021
+      <hr/>
+      
+      - *Huawei is planning to launch its proprietary Harmony operating system on smartphones in 2021, the firm announced at its annual developer conference in Dongguan on Thursday. The readiness of HarmonyOS handsets will largely be contingent on the number of apps H…*
+      
   - Curio, the curated audio platform for journalism, has closed $9M Series A funding
       <hr/>
       
@@ -81,16 +86,11 @@ Should array indices start at 0 or 1? My compromise of 0.5 was rejected without,
       <hr/>
       
       - *Times Internet said on Thursday it reaches more than 557 million active users in India each month and over 111 million users a day as several of its digital offerings demonstrated strong growth in the past year. The Indian conglomerate — which operates over t…*
-      
+       
   - Portland passes expansive city ban on facial recognition tech
       <hr/>
-      
-      - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
        
-  - Groww, an investment app for millennials in India, raises $30M led by YC Continuity
-      <hr/>
-       
-       - *Even as more than 150 million people are using digital payment apps each month in India, only about 20 million of them invest in mutual funds and stocks. A startup that is attempting to change that figure by courting millennials has just received a big backin…*
+       - *The city council in Portland, Oregon passed legislation Wednesday that’s widely regarded as the most aggressive municipal ban on facial recognition technology so far. Through a pair of ordinances, Portland will both prohibit city bureaus from using the contro…*
       
 
 
