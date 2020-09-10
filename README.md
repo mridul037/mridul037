@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Ada Lovelace
+~ Linus Torvalds
 <pre>
 
 </pre>
