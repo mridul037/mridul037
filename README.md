@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+I have no special talent. I am only passionately curious.
 
-~ Marvin Minsky
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer languages of the future will be more concerned with goals and less with
 
 </pre>
 **Daily News**
-  - Microsoft Surface Duo review
+  - Pitching access management on the fly, Los Angeles-based Britive raises $5.4 million
      <hr/>
      
-      - *In the early days, Microsoft had misgivings about calling the Surface Duo a phone. Asked to define it as such, the company has had the tendency to deflect with comments like, “Surface Duo does much more than make phone calls.” Which, to be fair, it does. And …*
+      - *It seems Los Angeles is becoming an enterprise software hotspot. LA saw its first big enterprise exit in recent memory with the recent acquisition of Signal Sciences for $775 million, and less than a month later a hometown startup, Britive has raised $5.4 mil…*
      
-  - Robinhood's financial news team launches its first video series
+  - What's driving API-powered startups forward in 2020?
       <hr/>
       
-      - *Stock trading app Robinhood has seen rapid growth during the pandemic, leading it to raise hundreds of millions more dollars in funding — most recently in a $200 million round that valued the company at $11.2 billion. And the content side of the business has …*
+      - *Startups that deliver products via an API are seeing momentum in 2020, as their method of serving customers becomes increasingly mainstream. And investors are taking note. It’s not hard to find a startup with an API-based delivery model that is doing well thi…*
       
-  - Carbon Health to launch 100 pop-up COVID-19 testing clinics across the U.S.
+  - Qovery lets you deploy your application without managing your cloud infrastructure
       <hr/>
       
-      - *Primary care health tech startup Carbon Health has added a new element to its “omnichannel” healthcare approach with the launch of a new pop-up clinic model that is already live in San Francisco, LA, Seattle, Brooklyn and Manhattan, with Detroit to follow soo…*
+      - *Remember how Heroku was a big break through when it was first released? Qovery wants to do it again by building an abstraction layer between your code and your cloud infrastructure. You push code in a git repository and Qovery manages your services for you. “…*
       
-  - EU lawmakers say it's time to go further on tackling disinformation
+  - India's Zomato raises $100M from Tiger Global, says it is planning to file for IPO next year
       <hr/>
       
-      - *A major European Commission review of a Code of Practice aimed at combating the spread of disinformation online has concluded the self-regulatory instrument is failing to deliver enough transparency or accountability from the tech platforms and advertisers si…*
+      - *Indian food delivery startup Zomato has raised $100 million from Tiger Global and is preparing for the next phase of its journey: An IPO. Tiger Global financed the capital through its investment vehicle Internet Fund VI, according to a regulatory filing. Info…*
        
-  - StackRox nabs $26.5M for a platform that secures containers in Kubernetes
+  - Facebook returns to its roots with Campus, a college student-only social network
       <hr/>
        
-       - *Containers have become a ubiquitous cornerstone in how companies manage their data, a trend that has only accelerated in the last eight months with the larger shift to cloud services and more frequent remote working due to the coronavirus pandemic. Alongside …*
+       - *Facebook is getting back to its roots as a college-focused social network. The company announced today the launch of a new social networking platform, Facebook Campus, which offers college students a private place to connect with classmates, join groups, disc…*
       
 
 
