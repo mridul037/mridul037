@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+I care not only what the code says but how it looks.
 
-~ Bill Gates
+~ Peter Roizen
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We're no longer in the days where everything is super well crafted. But at the h
 
 </pre>
 **Daily News**
-  - VCs pour funding into edtech startups as COVID-19 shakes up the market
+  - Tarform unveils Luna e-moto for folks who may not like motorcycles
      <hr/>
      
-      - *A few weeks back, The Exchange looked into the pace of edtech exits, noting that over time, the sector has delivered rising exit volume. All startup verticals want to demonstrate a history of liquidity, so you might imagine that even before the COVID-19 pande…*
+      - *Brooklyn-based EV startup Taform unveiled its Luna electric motorcycle in New York last week, a model designed for an audience that may not actually like motorcycles. This follows the debut of two concept e-motos in 2018. Tarform’s first street legal entrant,…*
      
+  - VCs pour funding into edtech startups as COVID-19 shakes up the market
+      <hr/>
+      
+      - *A few weeks back, The Exchange looked into the pace of edtech exits, noting that over time, the sector has delivered rising exit volume. All startup verticals want to demonstrate a history of liquidity, so you might imagine that even before the COVID-19 pande…*
+      
   - WildType is opening up a pre-order list for select chefs as it focuses on sushi-grade salmon
       <hr/>
       
@@ -81,16 +86,11 @@ We're no longer in the days where everything is super well crafted. But at the h
       <hr/>
       
       - *Poland is becoming an important European tech ecosystem after experiencing record levels of investment and growth in recent years.*
-      
+       
   - Willo, a freemium video interview SaaS, scores ~$320k during the remote work boom
       <hr/>
-      
-      - *Scotland-based video interview startup Willo has scored a £250,000 (~$320k) seed round of funding after watching demand for its asynchronous Q&A style video platform leap up during the COVID-19 lockdown. Guernsey-based VC firm 1818 Venture Capital is investin…*
        
-  - Santander spins out its $400M fintech venture capital arm, now called Mouro Capital
-      <hr/>
-       
-       - *Santander, the Spanish multinational banking giant, is announcing that its fintech venture arm is to be spun out and will be managed more autonomously going forward. Previously known as Santander Innoventures and first established in 2014, the VC is being re-…*
+       - *Scotland-based video interview startup Willo has scored a £250,000 (~$320k) seed round of funding after watching demand for its asynchronous Q&A style video platform leap up during the COVID-19 lockdown. Guernsey-based VC firm 1818 Venture Capital is investin…*
       
 
 
