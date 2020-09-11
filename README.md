@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 
-~ Fred Brooks
+~ Robert L. Glass
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The first false assumption that underlies the scheduling of systems programming 
 
 </pre>
 **Daily News**
-  - Daily Crunch: Facebook launches a college-only network
+  - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
      <hr/>
      
-      - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
+      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
      
+  - Daily Crunch: Facebook launches a college-only network
+      <hr/>
+      
+      - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
+      
   - Warren Buffett invests in an unprofitable business
       <hr/>
       
@@ -81,16 +86,11 @@ The first false assumption that underlies the scheduling of systems programming 
       <hr/>
       
       - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
-      
+       
   - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
       <hr/>
-      
-      - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
        
-  - Imran Khan's Verishop adds "Verified Shops", a  way for up-and-coming brands to set up shop in its "digital mall"
-      <hr/>
-       
-       - *Verishop, the Los Angeles online retailer founded by former Snap executive Imran Khan, launched a little over a year ago to change the way people shopped online. Now the company is launching a new initiative called “Verified Shops” which looks to change the w…*
+       - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
       
 
 
