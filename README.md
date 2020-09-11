@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
+A beautiful program is like a beautiful theorem: It does the job elegantly.
 
-~ Danny Hillis
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Anyone who has ever written a program knows that telling a computer what you wan
 
 </pre>
 **Daily News**
-  - Trump says deadline for TikTok sale won't be extended
+  - Santander spins out its $400M fintech venture capital arm, now called Mouro Capital
      <hr/>
      
-      - *The United States government will not extend the September 20 deadline for Beijing-based ByteDance to sell TikTok, President Donald Trump said on Thursday. This adds urgency to negotiations because TikTok may be banned in the United States if it can’t reach a…*
+      - *Santander, the Spanish multinational banking giant, is announcing that its fintech venture arm is to be spun out and will be managed more autonomously going forward. Previously known as Santander Innoventures and first established in 2014, the VC is being re-…*
      
+  - Trump says deadline for TikTok sale won't be extended
+      <hr/>
+      
+      - *The United States government will not extend the September 20 deadline for Beijing-based ByteDance to sell TikTok, President Donald Trump said on Thursday. This adds urgency to negotiations because TikTok may be banned in the United States if it can’t reach a…*
+      
   - Anduril launches a smarter drone and picks up more money to build a virtual border wall
       <hr/>
       
@@ -81,16 +86,11 @@ Anyone who has ever written a program knows that telling a computer what you wan
       <hr/>
       
       - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
-      
+       
   - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
       <hr/>
-      
-      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
        
-  - Daily Crunch: Facebook launches a college-only network
-      <hr/>
-       
-       - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
+       - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
       
 
 
