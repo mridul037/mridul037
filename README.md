@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 
-~ Bill Gates
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There is an amazing commonality in the types of difficulties you run into. In de
 
 </pre>
 **Daily News**
-  - TikTok fixes Android bugs that could have led to account hijacks
+  - TechCrunch still brings the fun to Disrupt 2020
      <hr/>
      
-      - *The bugs are now fixed.*
+      - *We all know times are incredibly tough, and everyone’s working overtime on steroids to keep their startup dreams alive. Disrupt events have a reputation for serving up a tasty helping of fun along with the main dish: opportunity. We refuse to host virtual con…*
      
-  - Podcast analytics and attribution startup Chartable raises $2.25M
+  - Facebook seeks fresh legal delay to block order to suspend its transatlantic data transfers
       <hr/>
       
-      - *Chartable, a startup known for its authoritative podcast download charts, is announcing that it has raised $2.25 million in seed funding. Founders Dave Zohrob and Harish Agarwal previously worked together at AngelList, and they also created Hacker Daily, a po…*
+      - *Facebook is firing up its lawyers to try to block EU regulators from forcing it to suspend transatlantic data transfers in the wake of a landmark ruling by Europe’s top court this summer. The tech giant has applied to judges in Ireland to seek a judicial revi…*
       
-  - FaZe Clan's Lee Trink, Troy Carter and Nick "Nickmercs" Kolcheff are coming to Disrupt 2020
+  - Apple revises App Store rules to permit game streaming apps, clarify in-app purchases and more
       <hr/>
       
-      - *Esports, an already booming industry, have taken on an even greater significance in the wake of the coronavirus pandemic. With traditional sports stalled or… er, different, esports and gaming in general have given folks a fresh way to enjoy competition. Perha…*
+      - *Apple today is releasing updated App Store Guidelines with the goal of clarifying how it will approach new technologies, like game streaming services, App Clips and widgets, in addition to better detailing its stance over how and when it will collect in-app p…*
       
-  - Last call for early-stage founders to exhibit at Disrupt 2020
+  - Apple lays out its messy vision for how xCloud and Stadia will work with its App Store rules
       <hr/>
       
-      - *Your window to untold opportunity slams shut tonight. I’m looking at you, early-stage startup founders. Don’t miss your last chance to exhibit your tech and talent to thousands of Disrupt 2020 attendees around the world. A Disrupt Digital Startup Alley Packag…*
+      - *Apple laid out some interesting updates to its App Store rules this morning, the most headline-grabbing of which was a section dedicated to cloud gaming platforms like Microsoft’s xCloud and Google’s Stadia. This comes after very public complaints from Micros…*
        
-  - Last day to save on passes to TC Sessions: Mobility 2020
+  - Facebook launches poll worker recruitment push in the News Feed
       <hr/>
        
-       - *The final countdown to early-bird savings is in play, and you have mere hours left to save $100 on passes to TC Sessions: Mobility 2020 (October 6-7). The early-bird offer expires — and prices go up — today, September 11 at 11:59 p.m. (PT). Why pay more than …*
+       - *With the election looming and a pandemic still raging through the U.S., a shortage of poll workers is just one of many threats to voting this November — but it’s a big one. In a Facebook post Friday, Mark Zuckerberg announced that the company will launch a po…*
       
 
 
