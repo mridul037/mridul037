@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+All too many of our software systems are, architecturally, little more than shantytowns.
 
-~ Fred Brooks
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Adding people to a software project increases the total effort necessary in thre
 
 </pre>
 **Daily News**
-  - Five more reasons you should attend Disrupt 2020
+  - The 2019 TechCrunch Include Report
      <hr/>
      
-      - *There are just a few days until we kick off five days of Disrupt 2020. (September 14-18). It’s time to dig in, dig deep and do whatever it takes to discover hidden opportunities. Disrupt is a vehicle for success for all who are playing the startup game. Buy y…*
+      - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
      
+  - Toucan raises $3M to teach you new languages as you browse the web
+      <hr/>
+      
+      - *Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automati…*
+      
+  - Five more reasons you should attend Disrupt 2020
+      <hr/>
+      
+      - *There are just a few days until we kick off five days of Disrupt 2020. (September 14-18). It’s time to dig in, dig deep and do whatever it takes to discover hidden opportunities. Disrupt is a vehicle for success for all who are playing the startup game. Buy y…*
+      
   - Belarus tech industry rallies around arrested PandaDoc colleagues in new video
       <hr/>
       
       - *In the wake of the arrest of four employees of San Francisco-based startup PandaDoc, the tech industry in Belarus has rallied support for the company and the pro-democracy movement in the country. Representatives of the tech community recorded a video which h…*
-      
+       
   - Wing's Margaret Nagle will join us at TC Sessions: Mobility 2020 to discuss the future of urban air transportation
       <hr/>
-      
-      - *Alphabet’s Wing is among the companies leading the way for building a sustainable and scalable way for drones and other aircraft to share the skies and build a capable and safe aerial transportation network. Wing’s Head of Policy, Regulatory and Community Aff…*
-      
-  - TechCrunch still brings the fun to Disrupt 2020
-      <hr/>
-      
-      - *We all know times are incredibly tough, and everyone’s working overtime on steroids to keep their startup dreams alive. Disrupt events have a reputation for serving up a tasty helping of fun along with the main dish: opportunity. We refuse to host virtual con…*
        
-  - Facebook seeks fresh legal delay to block order to suspend its transatlantic data transfers
-      <hr/>
-       
-       - *Facebook is firing up its lawyers to try to block EU regulators from forcing it to suspend transatlantic data transfers in the wake of a landmark ruling by Europe’s top court this summer. The tech giant has applied to judges in Ireland to seek a judicial revi…*
+       - *Alphabet’s Wing is among the companies leading the way for building a sustainable and scalable way for drones and other aircraft to share the skies and build a capable and safe aerial transportation network. Wing’s Head of Policy, Regulatory and Community Aff…*
       
 
 
