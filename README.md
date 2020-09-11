@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-All too many of our software systems are, architecturally, little more than shantytowns.
+As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 
-~ Joseph Yoder (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ All too many of our software systems are, architecturally, little more than shan
 
 </pre>
 **Daily News**
-  - The 2019 TechCrunch Include Report
+  - Human Capital: The battle over the fate of gig workers continues
      <hr/>
      
-      - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
+      - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
      
+  - China may kill TikTok’s U.S. operations rather than see them sold
+      <hr/>
+      
+      - *The controversial push to force Chinese tech unicorn ByteDance to divest part or all of its smash-hit TikTok social media service to a US-based company could be in doubt after a report today indicated that China’s government may oppose the transaction. Accord…*
+      
+  - The 2019 TechCrunch Include Report
+      <hr/>
+      
+      - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
+      
   - Toucan raises $3M to teach you new languages as you browse the web
       <hr/>
       
       - *Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automati…*
-      
+       
   - Five more reasons you should attend Disrupt 2020
       <hr/>
-      
-      - *There are just a few days until we kick off five days of Disrupt 2020. (September 14-18). It’s time to dig in, dig deep and do whatever it takes to discover hidden opportunities. Disrupt is a vehicle for success for all who are playing the startup game. Buy y…*
-      
-  - Belarus tech industry rallies around arrested PandaDoc colleagues in new video
-      <hr/>
-      
-      - *In the wake of the arrest of four employees of San Francisco-based startup PandaDoc, the tech industry in Belarus has rallied support for the company and the pro-democracy movement in the country. Representatives of the tech community recorded a video which h…*
        
-  - Wing's Margaret Nagle will join us at TC Sessions: Mobility 2020 to discuss the future of urban air transportation
-      <hr/>
-       
-       - *Alphabet’s Wing is among the companies leading the way for building a sustainable and scalable way for drones and other aircraft to share the skies and build a capable and safe aerial transportation network. Wing’s Head of Policy, Regulatory and Community Aff…*
+       - *There are just a few days until we kick off five days of Disrupt 2020. (September 14-18). It’s time to dig in, dig deep and do whatever it takes to discover hidden opportunities. Disrupt is a vehicle for success for all who are playing the startup game. Buy y…*
       
 
 
