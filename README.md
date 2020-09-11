@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Ken Thompson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
