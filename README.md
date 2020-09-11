@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+The way to arrest entropy in software is to refactor it.
 
-~ Edsger W. Dijkstra
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
