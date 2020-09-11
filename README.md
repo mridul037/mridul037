@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
 
-~ Jamie Zawinski
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Professionalism has no place in art, and hacking is art. Software Engineering mi
 
 </pre>
 **Daily News**
-  - Anduril launches a smarter drone and picks up more money to build a virtual border wall
+  - Trump says deadline for TikTok sale won't be extended
      <hr/>
      
-      - *The company building the virtual border wall has a new version of its stealthy fast-flying drones — and a fresh contract with Customs and Border Protection to match. Anduril, a young defense-friendly tech company from the founder of Oculus, received $36 milli…*
+      - *The United States government will not extend the September 20 deadline for Beijing-based ByteDance to sell TikTok, President Donald Trump said on Thursday. This adds urgency to negotiations because TikTok may be banned in the United States if it can’t reach a…*
      
+  - Anduril launches a smarter drone and picks up more money to build a virtual border wall
+      <hr/>
+      
+      - *The company building the virtual border wall has a new version of its stealthy fast-flying drones — and a fresh contract with Customs and Border Protection to match. Anduril, a young defense-friendly tech company from the founder of Oculus, received $36 milli…*
+      
   - Report: One of Social Capital's newest blank-check companies is looking to reverse merge with Opendoor
       <hr/>
       
@@ -81,16 +86,11 @@ Professionalism has no place in art, and hacking is art. Software Engineering mi
       <hr/>
       
       - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
-      
+       
   - Daily Crunch: Facebook launches a college-only network
       <hr/>
-      
-      - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
        
-  - Warren Buffett invests in an unprofitable business
-      <hr/>
-       
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering, and Chris Gates beh…*
+       - *Facebook returns to its college roots, Alexa gets a printing feature and we take a deep dive into Unity’s business. This is your Daily Crunch for September 10, 2020. The big story: Facebook launches a college-only network If you’re old and decrepit like me, y…*
       
 
 
