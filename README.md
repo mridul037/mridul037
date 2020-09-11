@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The way to arrest entropy in software is to refactor it.
+A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
 
-~ Joseph Yoder (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The way to arrest entropy in software is to refactor it.
 
 </pre>
 **Daily News**
-  - Human Capital: The battle over the fate of gig workers continues
+  - Daily Crunch: Apple revises App Store rules
      <hr/>
      
-      - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
+      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
      
+  - A user’s guide to Disrupt 2020
+      <hr/>
+      
+      - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
+      
+  - Human Capital: The battle over the fate of gig workers continues
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
+      
   - China may kill TikTok’s U.S. operations rather than see them sold
       <hr/>
       
       - *The controversial push to force Chinese tech unicorn ByteDance to divest part or all of its smash-hit TikTok social media service to a US-based company could be in doubt after a report today indicated that China’s government may oppose the transaction. Accord…*
-      
+       
   - The 2019 TechCrunch Include Report
       <hr/>
-      
-      - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
-      
-  - Toucan raises $3M to teach you new languages as you browse the web
-      <hr/>
-      
-      - *Toucan has developed a Chrome browser extension designed for anyone who wants to learn a new language but hasn’t found the motivation or the time. Once installed, the extension scans the text of any (English-language) website you’re visiting and will automati…*
        
-  - Five more reasons you should attend Disrupt 2020
-      <hr/>
-       
-       - *There are just a few days until we kick off five days of Disrupt 2020. (September 14-18). It’s time to dig in, dig deep and do whatever it takes to discover hidden opportunities. Disrupt is a vehicle for success for all who are playing the startup game. Buy y…*
+       - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
       
 
 
