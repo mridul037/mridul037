@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 
-~ Laurence J. Peter
+~ Jamie Zawinski
 <pre>
 
 </pre>
