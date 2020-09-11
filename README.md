@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ Douglas Crockford
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Readability of code is now my first priority. It’s more important than being f
 
 </pre>
 **Daily News**
-  - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
+  - Report: One of Social Capital's newest blank-check companies is looking to reverse merge with Opendoor
      <hr/>
      
-      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
+      - *Some people may have slowed down in 2020, amid a pandemic that has shut down much of the world. Not Chamath Palihapitiya. According to a new report in Bloomberg, Opendoor, the seven-year-old, San Francisco-based company that has from the outset aimed to help …*
      
+  - VC Josh Kopelman isn't so sure about SPACs, but he thinks so-called rolling funds could prove powerful
+      <hr/>
+      
+      - *Yesterday, we had a chance to catch up with Josh Kopelman, the founder of the now 16-year-old early-stage venture firm First Round to talk about a wide variety of issues. As part of that conversation — which we’ll run in its entirety in podcast form a bit lat…*
+      
   - Daily Crunch: Facebook launches a college-only network
       <hr/>
       
@@ -81,16 +86,11 @@ Readability of code is now my first priority. It’s more important than being f
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back, with Natasha Mascarenhas and Danny Crichton and myself chattering, and Chris Gates beh…*
-      
+       
   - Apple confirms the 'Apple One' subscription bundle in its own Apple Music app's code
       <hr/>
-      
-      - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
        
-  - $3M Breakthrough Prize goes to scientist designing molecules to could fight COVID-19
-      <hr/>
-       
-       - *The Breakthrough Prize Foundation announced $21.75 million in awards today for a variety of scientific achievements. One in particular is a tech/science crossover: A $3M award to David Baker, whose work over the last 20 years has helped validate the idea that…*
+       - *It looks like those reports about Apple’s forthcoming subscription bundle were accurate. According to strings of code found within the latest release of the Apple Music app for Android devices (ver. 3.4.0 beta), Apple references a new product it’s calling “Ap…*
       
 
 
