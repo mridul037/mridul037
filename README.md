@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 
-~ Daniel T. Barry
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 
 </pre>
 **Daily News**
-  - England's long delayed COVID-19 contacts tracing app to launch on September 24
+  - TikTok fixes Android bugs that could have led to account hijacks
      <hr/>
      
-      - *The UK’s long delayed coronavirus contact tracing app finally has a release date: The Department of Health and Social Care (DHSC) announced today that the app will launch in England and Wales on September 24. The other regions of the country, Scotland and Nor…*
+      - *The bugs are now fixed.*
      
-  - All the ways to meet someone and make connections at Disrupt 2020
+  - Podcast analytics and attribution startup Chartable raises $2.25M
       <hr/>
       
-      - *No matter how amazing the speaker lineup is at Disrupt 2020 next week — and believe you me, it’s pretty fuckin’ amazing — there is nothing more powerful than the connections people make at our show. Whether it’s an investor, a future cofounder, an interesting…*
+      - *Chartable, a startup known for its authoritative podcast download charts, is announcing that it has raised $2.25 million in seed funding. Founders Dave Zohrob and Harish Agarwal previously worked together at AngelList, and they also created Hacker Daily, a po…*
       
-  - Tarform unveils Luna e-moto for folks who may not like motorcycles
+  - FaZe Clan's Lee Trink, Troy Carter and Nick "Nickmercs" Kolcheff are coming to Disrupt 2020
       <hr/>
       
-      - *Brooklyn-based EV startup Taform unveiled its Luna electric motorcycle in New York last week, a model designed for an audience that may not actually like motorcycles. This follows the debut of two concept e-motos in 2018. Tarform’s first street legal entrant,…*
+      - *Esports, an already booming industry, have taken on an even greater significance in the wake of the coronavirus pandemic. With traditional sports stalled or… er, different, esports and gaming in general have given folks a fresh way to enjoy competition. Perha…*
       
-  - VCs pour funding into edtech startups as COVID-19 shakes up the market
+  - Last call for early-stage founders to exhibit at Disrupt 2020
       <hr/>
       
-      - *A few weeks back, The Exchange looked into the pace of edtech exits, noting that over time, the sector has delivered rising exit volume. All startup verticals want to demonstrate a history of liquidity, so you might imagine that even before the COVID-19 pande…*
+      - *Your window to untold opportunity slams shut tonight. I’m looking at you, early-stage startup founders. Don’t miss your last chance to exhibit your tech and talent to thousands of Disrupt 2020 attendees around the world. A Disrupt Digital Startup Alley Packag…*
        
-  - WildType is opening up a pre-order list for select chefs as it focuses on sushi-grade salmon
+  - Last day to save on passes to TC Sessions: Mobility 2020
       <hr/>
        
-       - *WildType, the startup making lab-grown salmon, is opening up a pre-order list for select chefs. Although the company is as much as five years out from commercial production, according to founders, the company is looking to partner with select chefs around the…*
+       - *The final countdown to early-bird savings is in play, and you have mere hours left to save $100 on passes to TC Sessions: Mobility 2020 (October 6-7). The early-bird offer expires — and prices go up — today, September 11 at 11:59 p.m. (PT). Why pay more than …*
       
 
 
