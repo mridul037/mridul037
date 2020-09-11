@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+I think the best way to supervise is by personal example and by frequent code reviews.
 
-~ Robert L. Glass
+~ Charles Simonyi
 <pre>
 
 </pre>
