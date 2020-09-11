@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I care not only what the code says but how it looks.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Peter Roizen
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I care not only what the code says but how it looks.
 
 </pre>
 **Daily News**
-  - Tarform unveils Luna e-moto for folks who may not like motorcycles
+  - England's long delayed COVID-19 contacts tracing app to launch on September 24
      <hr/>
      
-      - *Brooklyn-based EV startup Taform unveiled its Luna electric motorcycle in New York last week, a model designed for an audience that may not actually like motorcycles. This follows the debut of two concept e-motos in 2018. Tarform’s first street legal entrant,…*
+      - *The UK’s long delayed coronavirus contact tracing app finally has a release date: The Department of Health and Social Care (DHSC) announced today that the app will launch in England and Wales on September 24. The other regions of the country, Scotland and Nor…*
      
+  - All the ways to meet someone and make connections at Disrupt 2020
+      <hr/>
+      
+      - *No matter how amazing the speaker lineup is at Disrupt 2020 next week — and believe you me, it’s pretty fuckin’ amazing — there is nothing more powerful than the connections people make at our show. Whether it’s an investor, a future cofounder, an interesting…*
+      
+  - Tarform unveils Luna e-moto for folks who may not like motorcycles
+      <hr/>
+      
+      - *Brooklyn-based EV startup Taform unveiled its Luna electric motorcycle in New York last week, a model designed for an audience that may not actually like motorcycles. This follows the debut of two concept e-motos in 2018. Tarform’s first street legal entrant,…*
+      
   - VCs pour funding into edtech startups as COVID-19 shakes up the market
       <hr/>
       
       - *A few weeks back, The Exchange looked into the pace of edtech exits, noting that over time, the sector has delivered rising exit volume. All startup verticals want to demonstrate a history of liquidity, so you might imagine that even before the COVID-19 pande…*
-      
+       
   - WildType is opening up a pre-order list for select chefs as it focuses on sushi-grade salmon
       <hr/>
-      
-      - *WildType, the startup making lab-grown salmon, is opening up a pre-order list for select chefs. Although the company is as much as five years out from commercial production, according to founders, the company is looking to partner with select chefs around the…*
-      
-  - 10 Poland-based investors discuss trends, opportunities and the road ahead
-      <hr/>
-      
-      - *Poland is becoming an important European tech ecosystem after experiencing record levels of investment and growth in recent years.*
        
-  - Willo, a freemium video interview SaaS, scores ~$320k during the remote work boom
-      <hr/>
-       
-       - *Scotland-based video interview startup Willo has scored a £250,000 (~$320k) seed round of funding after watching demand for its asynchronous Q&A style video platform leap up during the COVID-19 lockdown. Guernsey-based VC firm 1818 Venture Capital is investin…*
+       - *WildType, the startup making lab-grown salmon, is opening up a pre-order list for select chefs. Although the company is as much as five years out from commercial production, according to founders, the company is looking to partner with select chefs around the…*
       
 
 
