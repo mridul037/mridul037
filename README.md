@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think the best way to supervise is by personal example and by frequent code reviews.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
-~ Charles Simonyi
+~ Douglas Crockford
 <pre>
 
 </pre>
