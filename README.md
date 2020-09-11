@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 
-~ Danny Hillis
+~ Laurence J. Peter
 <pre>
 
 </pre>
