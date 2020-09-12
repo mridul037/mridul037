@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Within a computer, natural language is unnatural.
+Programming can be addictive.
 
-~ Alan Perlis
+~ Bob Carr
 <pre>
 
 </pre>
