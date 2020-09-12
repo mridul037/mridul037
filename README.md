@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Ward Cunningham
+~ Grady Booch
 <pre>
 
 </pre>
