@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+The top 5% of programmers probably write 99% of the good software.
 
-~ Alan Perlis
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It is easier to change the specification to fit the program than vice versa.
 
 </pre>
 **Daily News**
-  - Disrupt 2020 kicks off tomorrow — are you ready?
+  - Snowflake, Unity, JFrog move towards IPOs despite public market turmoil
      <hr/>
      
-      - *Happy Disrupt 2020 Eve, startup fans! It’s been a crazy mad dash to transform our annual flagship San Francisco event at Moscone Center into the first all-virtual Disrupt (thanks, COVID-19). Then again, going global seems an appropriate way to celebrate 10 ye…*
+      - *Warren Buffet is eager to invest in a money-burning SaaS unicorn that is about to IPO.*
      
+  - Disrupt 2020 kicks off tomorrow — are you ready?
+      <hr/>
+      
+      - *Happy Disrupt 2020 Eve, startup fans! It’s been a crazy mad dash to transform our annual flagship San Francisco event at Moscone Center into the first all-virtual Disrupt (thanks, COVID-19). Then again, going global seems an appropriate way to celebrate 10 ye…*
+      
   - This Week in Apps: The App Store's new rules, Epic's battle continues, TikTok's time is up
       <hr/>
       
@@ -81,16 +86,11 @@ It is easier to change the specification to fit the program than vice versa.
       <hr/>
       
       - *Disney’s live-action remake of “Mulan” comes with some serious baggage. First, the film has drawn political controversy for its star’s statements in support of the action Hong Kong police  against protestors, as well as the fact that “Mulan” was filmed, in pa…*
-      
+       
   - Rocket startup Astra's first orbital launch attempt ends early due to first-stage burn failure
       <hr/>
-      
-      - *Alameda-based rocket launch startup Astra finally got the chance to launch its first orbital test mission from its Alaska-based facility on Saturday, after the attempt had been delayed multiple times due to weather and other issues. The 8:19 PM PT lift-off of…*
        
-  - DCM has already made nearly $1 billion off its $26 million bet on Bill.com
-      <hr/>
-       
-       - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
+       - *Alameda-based rocket launch startup Astra finally got the chance to launch its first orbital test mission from its Alaska-based facility on Saturday, after the attempt had been delayed multiple times due to weather and other issues. The 8:19 PM PT lift-off of…*
       
 
 
