@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 
-~ Alan Perlis
+~ Chris Sacca
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If you have a procedure with 10 parameters, you probably missed some.
 
 </pre>
 **Daily News**
-  - As COVID-19 era drags on, VCs look beyond Zoom calls for due diligence and sourcing
+  - Unicorn layoffs prompt more startups to consider acqui-hiring
      <hr/>
      
-      - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
+      - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
      
+  - As COVID-19 era drags on, VCs look beyond Zoom calls for due diligence and sourcing
+      <hr/>
+      
+      - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
+      
   - Daily Crunch: Apple revises App Store rules
       <hr/>
       
@@ -81,16 +86,11 @@ If you have a procedure with 10 parameters, you probably missed some.
       <hr/>
       
       - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
-      
+       
   - Human Capital: The battle over the fate of gig workers continues
       <hr/>
-      
-      - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
        
-  - China may kill TikTok’s U.S. operations rather than see them sold
-      <hr/>
-       
-       - *The controversial push to force Chinese tech unicorn ByteDance to divest part or all of its smash-hit TikTok social media service to a US-based company could be in doubt after a report today indicated that China’s government may oppose the transaction. Accord…*
+       - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
       
 
 
