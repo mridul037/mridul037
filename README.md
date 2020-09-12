@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 
-~ John von Neumann
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If people do not believe that mathematics is simple, it is only because they do 
 
 </pre>
 **Daily News**
-  - DCM has already made nearly $1 billion off its $26 million bet on Bill.com
+  - Rocket startup Astra's first orbital launch attempt ends early due to first-stage burn failure
      <hr/>
      
-      - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
+      - *Alameda-based rocket launch startup Astra finally got the chance to launch its first orbital test mission from its Alaska-based facility on Saturday, after the attempt had been delayed multiple times due to weather and other issues. The 8:19 PM PT lift-off of…*
      
+  - DCM has already made nearly $1 billion off its $26 million bet on Bill.com
+      <hr/>
+      
+      - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
+      
   - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
       <hr/>
       
@@ -81,16 +86,11 @@ If people do not believe that mathematics is simple, it is only because they do 
       <hr/>
       
       - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
-      
+       
   - As COVID-19 era drags on, VCs look beyond Zoom calls for due diligence and sourcing
       <hr/>
-      
-      - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
        
-  - Daily Crunch: Apple revises App Store rules
-      <hr/>
-       
-       - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
+       - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
       
 
 
