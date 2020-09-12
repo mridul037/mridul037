@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When there is no type hierarchy you don’t have to manage the type hierarchy.
+The button is working, only, it cannot be seen.
 
-~ Rob Pike
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When there is no type hierarchy you don’t have to manage the type hierarchy.
 
 </pre>
 **Daily News**
-  - Rocket startup Astra's first orbital launch attempt ends early due to first-stage burn failure
+  - Original Content podcast: Disney's 'Mulan' remake is fun, if you can forget the controversy
      <hr/>
      
-      - *Alameda-based rocket launch startup Astra finally got the chance to launch its first orbital test mission from its Alaska-based facility on Saturday, after the attempt had been delayed multiple times due to weather and other issues. The 8:19 PM PT lift-off of…*
+      - *Disney’s live-action remake of “Mulan” comes with some serious baggage. First, the film has drawn political controversy for its star’s statements in support of the action Hong Kong police  against protestors, as well as the fact that “Mulan” was filmed, in pa…*
      
+  - Rocket startup Astra's first orbital launch attempt ends early due to first-stage burn failure
+      <hr/>
+      
+      - *Alameda-based rocket launch startup Astra finally got the chance to launch its first orbital test mission from its Alaska-based facility on Saturday, after the attempt had been delayed multiple times due to weather and other issues. The 8:19 PM PT lift-off of…*
+      
   - DCM has already made nearly $1 billion off its $26 million bet on Bill.com
       <hr/>
       
@@ -81,16 +86,11 @@ When there is no type hierarchy you don’t have to manage the type hierarchy.
       <hr/>
       
       - *A look back at Extra Crunch's top stories over the last few days.*
-      
+       
   - Unicorn layoffs prompt more startups to consider acqui-hiring
       <hr/>
-      
-      - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
        
-  - As COVID-19 era drags on, VCs look beyond Zoom calls for due diligence and sourcing
-      <hr/>
-       
-       - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
+       - *Alex Zajaczkowski was just months into her role at Toast, a restaurant point-of-sale software company, when she was let go during COVID-19 layoffs. Toast, last valued at $5 billion, cut 50% of its staff through layoffs and furloughs. Zajaczkowski said she sta…*
       
 
 
