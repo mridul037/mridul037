@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When we don’t understand a process, we fall into magical thinking about results.
+Within a computer, natural language is unnatural.
 
-~ Jef Raskin
+~ Alan Perlis
 <pre>
 
 </pre>
