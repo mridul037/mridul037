@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 
-~ Douglas Crockford
+~ Donald Knuth
 <pre>
 
 </pre>
