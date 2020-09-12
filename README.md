@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+Never trust a computer you can’t throw out a window.
 
-~ Fred Brooks
+~ Steve Wozniak
 <pre>
 
 </pre>
