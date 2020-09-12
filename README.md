@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 
-~ Richard Hamming
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In science if you know what you are doing you should not be doing it. In enginee
 
 </pre>
 **Daily News**
-  - This Week in Apps: The App Store's new rules, Epic's battle continues, TikTok's time is up
+  - Disrupt 2020 kicks off tomorrow — are you ready?
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *Happy Disrupt 2020 Eve, startup fans! It’s been a crazy mad dash to transform our annual flagship San Francisco event at Moscone Center into the first all-virtual Disrupt (thanks, COVID-19). Then again, going global seems an appropriate way to celebrate 10 ye…*
      
+  - This Week in Apps: The App Store's new rules, Epic's battle continues, TikTok's time is up
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - Original Content podcast: Disney's 'Mulan' remake is fun, if you can forget the controversy
       <hr/>
       
@@ -81,16 +86,11 @@ In science if you know what you are doing you should not be doing it. In enginee
       <hr/>
       
       - *Alameda-based rocket launch startup Astra finally got the chance to launch its first orbital test mission from its Alaska-based facility on Saturday, after the attempt had been delayed multiple times due to weather and other issues. The 8:19 PM PT lift-off of…*
-      
+       
   - DCM has already made nearly $1 billion off its $26 million bet on Bill.com
       <hr/>
-      
-      - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
        
-  - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
-      <hr/>
-       
-       - *A look back at Extra Crunch's top stories over the last few days.*
+       - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
       
 
 
