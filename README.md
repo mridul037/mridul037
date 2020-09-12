@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
 ~ Fred Brooks
 <pre>
