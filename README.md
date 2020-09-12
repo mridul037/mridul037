@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ P. J. Plauger
+~ Ward Cunningham
 <pre>
 
 </pre>
