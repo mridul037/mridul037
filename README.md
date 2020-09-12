@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 
-~ Fred Brooks
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Very good professional programmers are ten times as productive as poor ones, at 
 
 </pre>
 **Daily News**
-  - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
+  - DCM has already made nearly $1 billion off its $26 million bet on Bill.com
      <hr/>
      
-      - *A look back at Extra Crunch's top stories over the last few days.*
+      - *David Chao, the cofounder of the cross-border venture firm DCM, speaks English, Japanese, and Mandarin. But he also knows how to talk to founders. It’s worth a lot. Consider that DCM should see more than $1 billion from the $26.4 million it invested across 14…*
      
+  - Extra Crunch Friday roundup: Edtech funding surges, Poland VC survey, inside Shift's SPAC plan, more
+      <hr/>
+      
+      - *A look back at Extra Crunch's top stories over the last few days.*
+      
   - Unicorn layoffs prompt more startups to consider acqui-hiring
       <hr/>
       
@@ -81,16 +86,11 @@ Very good professional programmers are ten times as productive as poor ones, at 
       <hr/>
       
       - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
-      
+       
   - Daily Crunch: Apple revises App Store rules
       <hr/>
-      
-      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
        
-  - A user’s guide to Disrupt 2020
-      <hr/>
-       
-       - *We’re coming down to the wire folks. Disrupt 2020 officially opens its virtual doors September 14 for five super-charged days of everything the early-stage startup community needs to build better, faster, stronger. Going virtual translates into a global reach…*
+       - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
       
 
 
