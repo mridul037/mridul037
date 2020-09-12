@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+It is easier to change the specification to fit the program than vice versa.
 
-~ Butler Lampson
+~ Alan Perlis
 <pre>
 
 </pre>
