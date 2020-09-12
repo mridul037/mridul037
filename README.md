@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Edsger W. Dijkstra
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
 
 </pre>
 **Daily News**
-  - Daily Crunch: Apple revises App Store rules
+  - As COVID-19 era drags on, VCs look beyond Zoom calls for due diligence and sourcing
      <hr/>
      
-      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
+      - *While the coronavirus has accelerated the dealmaking pace for many early-stage startups, activity has not come without adaptation. Remote investment struggles for investors were clear from the get go: it’s challenging to invest millions in someone you have ne…*
      
+  - Daily Crunch: Apple revises App Store rules
+      <hr/>
+      
+      - *Apple’s making App Store changes, China might stop TikTok’s acquisition and we talk to Polish venture capitalists about the startup scene. This is your Daily Crunch for September 11, 2020. The big story: Apple revises App Store rules Apple announced a bunch o…*
+      
   - A user’s guide to Disrupt 2020
       <hr/>
       
@@ -81,16 +86,11 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
       <hr/>
       
       - *Welcome back to Human Capital, where we unpack the latest in tech labor and diversity and inclusion. This week, we’re looking at the latest developments in the battle over the classification of gig workers, the rise of labor unions in tech and and Instagram’s…*
-      
+       
   - China may kill TikTok’s U.S. operations rather than see them sold
       <hr/>
-      
-      - *The controversial push to force Chinese tech unicorn ByteDance to divest part or all of its smash-hit TikTok social media service to a US-based company could be in doubt after a report today indicated that China’s government may oppose the transaction. Accord…*
        
-  - The 2019 TechCrunch Include Report
-      <hr/>
-       
-       - *It’s no secret that the tech industry is historically white, straight and male. Despite promises to examine and reform hiring practices so that tech companies big and small better reflect the world we all live in, diversity reports chart a different path: Bla…*
+       - *The controversial push to force Chinese tech unicorn ByteDance to divest part or all of its smash-hit TikTok social media service to a US-based company could be in doubt after a report today indicated that China’s government may oppose the transaction. Accord…*
       
 
 
