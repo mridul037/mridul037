@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Bjarne Stroustrup
+~ Quarry worker's creed
 <pre>
 
 </pre>
