@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Charles Babbage
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ As soon as an Analytical Engine exists, it will necessarily guide the future cou
 
 </pre>
 **Daily News**
-  - Graphic video of suicide spreads from Facebook to TikTok to YouTube as platforms fail moderation test
+  - Disrupt 2020 starts tomorrow... join us for the LIVE pre-show right now!
      <hr/>
      
-      - *A graphic video of a man committing suicide on Facebook Live has spread from there to TikTok, Twitter, Instagram and now YouTube, where it ran alongside ads and attracted thousands more views. Do what they will, these platforms can’t seem to stop the spread, …*
+      - *We simply can’t wait. Disrupt 2020 officially kicks off tomorrow morning at 9am PT, but there are so many exciting features in this show — from the speaker lineup to the Startup Battlefield competition to the wide variety of features included in this new virt…*
      
+  - Graphic video of suicide spreads from Facebook to TikTok to YouTube as platforms fail moderation test
+      <hr/>
+      
+      - *A graphic video of a man committing suicide on Facebook Live has spread from there to TikTok, Twitter, Instagram and now YouTube, where it ran alongside ads and attracted thousands more views. Do what they will, these platforms can’t seem to stop the spread, …*
+      
   - Tune in today at 12pm PDT for an essential Disrupt 2020 Sneak Peak
       <hr/>
       
@@ -81,16 +86,11 @@ As soon as an Analytical Engine exists, it will necessarily guide the future cou
       <hr/>
       
       - *We’re on the brink of the biggest Disrupt in TechCrunch history. It’s five days of education, exhibition, competition and connection that spans the globe. As you plan your schedule, keep this in mind: You’ll find some of the most insightful and downright inte…*
-      
+       
   - SoftBank could make, gasp, a profit on its expected sale of Arm for $40B
       <hr/>
-      
-      - *While the big deal we have been tracking the past few weeks has been TikTok, there was another massive deal under negotiation that mirrors some of the international tech dynamics that have plagued the consumer social app’s sale. Arm Holdings, which is the mos…*
        
-  - Elon Musk says Starship SN8 prototype will have a nosecone and attempt a 60,000-foot return flight
-      <hr/>
-       
-       - *Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…*
+       - *While the big deal we have been tracking the past few weeks has been TikTok, there was another massive deal under negotiation that mirrors some of the international tech dynamics that have plagued the consumer social app’s sale. Arm Holdings, which is the mos…*
       
 
 
