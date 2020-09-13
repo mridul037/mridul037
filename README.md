@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Don't worry about anything. Just do what you can and be the best you can be.
 
 </pre>
 **Daily News**
-  - Check out these Breakout Sessions at Disrupt 2020
+  - Tune in today at 12pm PDT for an essential Disrupt 2020 Sneak Peak
      <hr/>
      
-      - *We’re on the brink of the biggest Disrupt in TechCrunch history. It’s five days of education, exhibition, competition and connection that spans the globe. As you plan your schedule, keep this in mind: You’ll find some of the most insightful and downright inte…*
+      - *Are you ready to experience a Disrupt event like no other? Thousands of attendees from around the world, an all-star lineup of tech icons, movers, shakers and unicorn makers. Opportunities around every corner just waiting to be discovered. Are we amped up at …*
      
+  - Check out these Breakout Sessions at Disrupt 2020
+      <hr/>
+      
+      - *We’re on the brink of the biggest Disrupt in TechCrunch history. It’s five days of education, exhibition, competition and connection that spans the globe. As you plan your schedule, keep this in mind: You’ll find some of the most insightful and downright inte…*
+      
   - SoftBank could make, gasp, a profit on its expected sale of Arm for $40B
       <hr/>
       
@@ -81,16 +86,11 @@ Don't worry about anything. Just do what you can and be the best you can be.
       <hr/>
       
       - *Elon Musk has shared some details about future testing of Starship, the SpaceX launch vehicle currently being developed by the company at its Boca Chica, Texas facility. Recently, SpaceX has completed short, 150 meter (just under 500 feet) test flights of two…*
-      
+       
   - Is the vaunted cloud acceleration falling flat?
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. This week we’re taking a look at the bad side of the cloud software market. Tech and software stocks are struggling.*
        
-  - Snowflake, Unity, JFrog move towards IPOs despite public market turmoil
-      <hr/>
-       
-       - *Warren Buffet is eager to invest in a money-burning SaaS unicorn that is about to IPO.*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. This week we’re taking a look at the bad side of the cloud software market. Tech and software stocks are struggling.*
       
 
 
