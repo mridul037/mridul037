@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Maurice Wilkes
+~ George Boole
 <pre>
 
 </pre>
