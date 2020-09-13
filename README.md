@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ John Carmack
+~ Richard Feynman
 <pre>
 
 </pre>
