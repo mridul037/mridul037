@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
