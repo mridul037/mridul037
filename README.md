@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+Don't worry about anything. Just do what you can and be the best you can be.
 
-~ Bill Gates
+~ Douglas Crockford
 <pre>
 
 </pre>
