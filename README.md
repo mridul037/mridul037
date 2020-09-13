@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 
-~ Paul Graham (programmer)
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
