@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Albert Einstein
+~ L. Peter Deutsch
 <pre>
 
 </pre>
