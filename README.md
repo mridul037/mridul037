@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Daniel T. Barry
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There is never enough time to do it right, but there is always enough time to fi
 
 </pre>
 **Daily News**
-  - Europe starts testing app interoperability service to power cross-border COVID-19 exposure alerts
+  - YouTube launches its TikTok rival, YouTube Shorts, initially in India
      <hr/>
      
-      - *The European Commission has begun testing backend infrastructure that’s needed to make national coronavirus contacts tracing apps interoperate across the bloc’s internal borders. It’s kicked off test runs between the backend servers of the official apps from …*
+      - *As TikTok’s fate in the U.S. remains murky, YouTube today announced the launch of a new short-form video experience it’s calling YouTube Shorts. The feature will allow users, initially in India, to upload 15-second or less short-form videos using a new set of…*
      
+  - Microsoft's Project Natick underwater datacenter experiment confirms viability of seafloor data storage
+      <hr/>
+      
+      - *Microsoft has concluded a years-long experiment involving use of a shipping container-sized underwater data center, placed on the sea floor off the cost of Scotland’s Orkney Islands. The company pulled its ‘Project Natick’ underwater data warehouse up out of …*
+      
+  - Europe starts testing app interoperability service to power cross-border COVID-19 exposure alerts
+      <hr/>
+      
+      - *The European Commission has begun testing backend infrastructure that’s needed to make national coronavirus contacts tracing apps interoperate across the bloc’s internal borders. It’s kicked off test runs between the backend servers of the official apps from …*
+      
   - Equity Monday: The TikTok mess, two funding rounds, and NVIDIA will buy ARM
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
-      
+       
   - Extra Crunch membership now available to readers in Australia
       <hr/>
-      
-      - *TechCrunch's premium membership is available in Australia. The membership includes access to exclusive articles for startup teams, founders, and investors.*
-      
-  - Beyond Meat is introducing pre-packaged meatballs at stores across America
-      <hr/>
-      
-      - *Indulging in American food companies’ favorite pastime of marketing innovations that no one needs but potentially everyone wants, Beyond Meat is launching Beyond Meatballs in grocery stores nationwide this week. The new product can be put on top of spaghetti,…*
        
-  - Airtable raises $185M and launches new low-code and automation features
-      <hr/>
-       
-       - *The spreadsheet-centric database and no-code platform Airtable today announced that it has raised a $185 million Series D funding round, putting the company at a $2.585 billion post-money valuation. Thrive Capital led the round, with additional funding by exi…*
+       - *TechCrunch's premium membership is available in Australia. The membership includes access to exclusive articles for startup teams, founders, and investors.*
       
 
 
