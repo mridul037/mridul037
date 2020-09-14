@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
-~ Gary Kildall
+~ Terry Winograd
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I don't comment on the code itself because I feel that properly written code is 
 
 </pre>
 **Daily News**
-  - DaVinci Kitchen is building a robotic pasta-making kiosk
+  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
      <hr/>
      
-      - *The robotics industry is having a major moment amid the uncertainty of the COVID-19 pandemic. It’s true that category has been an exciting target for investments for a number of years now, but labor issues and concerns over transmission have led many sectors …*
+      - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
      
-  - GoodRx offers founders $500M, nets $100M investment from Silver Lake, and makes quiet acquisition before IPO
+  - As it heads for IPO, Palantir hires a chief accountant and gets approval from NYSE to trade
       <hr/>
       
-      - *GoodRx is a rare breed of modern tech IPO: a startup that is actually profitable and heading to the public markets. The consumer service offers coupons on prescriptions redeemable at pharmacies that can save customers significant money on their monthly drug p…*
+      - *After 17 years, Palantir is getting closer and closer to its public debut later this month. We’ve been covering different facets of the company’s direct listing process including concerns about its governance and how insiders are accelerating the sale of thei…*
       
-  - Satellite Vu aims to scope out the whole globe with thermal vision
+  - Snowflake and JFrog raise IPO ranges as tech markets stay hot
       <hr/>
       
-      - *Earth observation has grown from government-run missions to a crucial everyday business tool, but it still has room to grow. Specifically, into the thermal infrared spectrum, if startup Satellite Vu gets itself into orbit. The company plans to be able to moni…*
+      - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
       
-  - Bumble will exist as long as women do, CEO says
+  - A bug in Joe Biden's campaign app gave anyone access to millions of voter files
       <hr/>
       
-      - *Bumble CEO Whitney Wolfe Herd wants to build a truly timeless company. “You can never disrupt the need for humans to connect. And the other thing that you can never disrupt is the need for women to feel respected and to feel equal and to feel safe and empower…*
+      - *Anyone could look up private voter information on millions of Americans.*
        
-  - Firehawk Aerospace aims to revolutionize rocketry with safe, cost-effective hybrid engines
+  - How to hire your first engineer: A guide for nontechnical founders
       <hr/>
        
-       - *While SpaceX and its ilk in the commercial rocket launch market have changed the economics of space and ushered in an era of small satellite entrepreneurship, the actual rocket engine technology they use isn’t that different from what was in use 50 years ago …*
+       - *For founders who have a startup idea — but few engineering skills to make it a reality — making the team’s first technical hire can be a daunting task. Nontechnical founders will face greater challenges when it comes to sourcing and recruiting engineering tal…*
       
 
 
