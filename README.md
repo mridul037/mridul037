@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Arthur C. Clarke
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any sufficiently advanced technology is indistinguishable from magic.
 
 </pre>
 **Daily News**
-  - Extra Crunch Partner Perk: Discount on Dell XPS Laptop and Dell for Entrepreneurs Program
+  - DaVinci Kitchen is building a robotic pasta-making kiosk
      <hr/>
      
-      - *We’re excited to announce a new Partner Perk from Dell for Extra Crunch members. Starting today, annual and 2-year Extra Crunch members can get a discount on a Dell XPS Laptop as well as a discount on membership to the Dell for Entrepreneurs Program. What is …*
+      - *The robotics industry is having a major moment amid the uncertainty of the COVID-19 pandemic. It’s true that category has been an exciting target for investments for a number of years now, but labor issues and concerns over transmission have led many sectors …*
      
-  - As low-code startups continue to attract VC interest, what's driving customer demand?
+  - GoodRx offers founders $500M, nets $100M investment from Silver Lake, and makes quiet acquisition before IPO
       <hr/>
       
-      - *Investor interest in no-code, low-code apps and services advanced another step this morning with Airtable raising an outsized round. The $185 million investment into the popular database-and-spreadsheet service comes as it adds “new low-code and automation fe…*
+      - *GoodRx is a rare breed of modern tech IPO: a startup that is actually profitable and heading to the public markets. The consumer service offers coupons on prescriptions redeemable at pharmacies that can save customers significant money on their monthly drug p…*
       
-  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
+  - Satellite Vu aims to scope out the whole globe with thermal vision
       <hr/>
       
-      - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
+      - *Earth observation has grown from government-run missions to a crucial everyday business tool, but it still has room to grow. Specifically, into the thermal infrared spectrum, if startup Satellite Vu gets itself into orbit. The company plans to be able to moni…*
       
-  - Matidor is building an all-in-one geospatial project collaboration platform
+  - Bumble will exist as long as women do, CEO says
       <hr/>
       
-      - *It’s a big world out there, but the software that allows professionals to take a closer look at geospatial data hasn’t made the same leaps that consumer-focused platforms have. Matidor, a Vancouver-based geospatial visualization and collaboration startup, is …*
+      - *Bumble CEO Whitney Wolfe Herd wants to build a truly timeless company. “You can never disrupt the need for humans to connect. And the other thing that you can never disrupt is the need for women to feel respected and to feel equal and to feel safe and empower…*
        
-  - Amazon rebrands FreeTime to Amazon Kids, expands paid catalog for Amazon Kids+
+  - Firehawk Aerospace aims to revolutionize rocketry with safe, cost-effective hybrid engines
       <hr/>
        
-       - *Amazon today announced it will rebrand its kid-friendly services formerly known as Amazon FreeTime and Amazon FreeTime Unlimited to Amazon Kids and Amazon Kids+. In addition to the name change, the services are being redesigned to include a new homescreen exp…*
+       - *While SpaceX and its ilk in the commercial rocket launch market have changed the economics of space and ushered in an era of small satellite entrepreneurship, the actual rocket engine technology they use isn’t that different from what was in use 50 years ago …*
       
 
 
