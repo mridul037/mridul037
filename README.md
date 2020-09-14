@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 
-~ Butler Lampson
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In handling resources, strive to avoid disaster rather than to attain an optimum
 
 </pre>
 **Daily News**
-  - Human Capital announces the winners of its Delta fellowship program
+  - ‪CBP seized a shipment of OnePlus Buds thinking they were "counterfeit" Apple AirPods‬
      <hr/>
      
-      - *Today, in the first interview of Disrupt 2020, Human Capital’s Baris Akis and investor Michael Ovitz announced the winners of its Delta Fellowship program. Human Capital launched in 2016 with a mission to become a talent agency for engineers in the same way t…*
+      - *The "seized" Apple AirPods look a lot like OnePlus Buds.*
      
+  - Human Capital announces the winners of its Delta fellowship program
+      <hr/>
+      
+      - *Today, in the first interview of Disrupt 2020, Human Capital’s Baris Akis and investor Michael Ovitz announced the winners of its Delta Fellowship program. Human Capital launched in 2016 with a mission to become a talent agency for engineers in the same way t…*
+      
   - Oracle boots out Microsoft and wins bid to buy TikTok, reports say
       <hr/>
       
@@ -81,16 +86,11 @@ In handling resources, strive to avoid disaster rather than to attain an optimum
       <hr/>
       
       - *After weeks of on-and-off speculation, Nvidia this evening confirmed that it intends to buy chip design giant Arm Holdings for a total of up to $40 billion from existing owner SoftBank, which bought the company for $32 billion in 2016. The boards of all three…*
-      
+       
   - Samsung is holding yet another Unpacked Event on September 23
       <hr/>
-      
-      - *One thing I’ll say for in-person events: they compelled companies to cram in a lot of news. After all, if you’re going to ask an auditorium full of people to travel from around the country — or world — you want to give them a lot of bang for their buck. Samsu…*
        
-  - Learn how to build a sales team at Disrupt 2020
-      <hr/>
-       
-       - *The classic model of enterprise sales (the relationship building, the big client dinners, the baseball games, etc) was upended in the 2010s. New approaches like inside sales offered better leverage for salespeople, better metrics to track performance, and a m…*
+       - *One thing I’ll say for in-person events: they compelled companies to cram in a lot of news. After all, if you’re going to ask an auditorium full of people to travel from around the country — or world — you want to give them a lot of bang for their buck. Samsu…*
       
 
 
