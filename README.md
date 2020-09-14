@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+It is easier to change the specification to fit the program than vice versa.
 
-~ George Boole
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ No matter how correct a mathematical theorem may appear to be, one ought never t
 
 </pre>
 **Daily News**
-  - Blue Origin's human lunar lander all-star space team completes first key milestone for Moon mission
+  - Google will announce a new Pixel, smart speaker and Chromecast September 30
      <hr/>
      
-      - *Blue Origin, along with it partners Lockheed Martin, Northrop Grumman, and Draper, was one of three companies to be awarded contracts by NASA to develop human lunar landers for future Moon missions. Blue Origin’s so-called ‘National Team’ is focused on develo…*
+      - *Hardware season is in full swing. Apple’s big Watch event kicks off tomorrow and Samsung is readying itself for a third (!) Unpacked event on September 23. Now Google’s getting in on the fun. After opting to skip a virtual version of I/O earlier this year, th…*
      
+  - Facebook investor Jim Breyer picks Austin as Breyer Capital's second home
+      <hr/>
+      
+      - *For Jim Breyer, the mantra, “Silicon Valley is a state of mind” has always been behind Breyer Capital, his personal investment fund. While many of his investments and board seats (which have included Facebook, Blackstone, 21st Century Fox, Dell, Etsy, Marvel …*
+      
+  - Courier raises $10.1M Series A to help developers integrate multi-channel notifications
+      <hr/>
+      
+      - *Courier is an API platform with a no-code twist that helps developers add multi-channel user notifications to their applications. The company today announced that it has raised a $10.1 million Series A funding round led by Bessemer Venture Partners. Matrix Pa…*
+      
+  - Blue Origin's human lunar lander all-star space team completes first key milestone for Moon mission
+      <hr/>
+      
+      - *Blue Origin, along with it partners Lockheed Martin, Northrop Grumman, and Draper, was one of three companies to be awarded contracts by NASA to develop human lunar landers for future Moon missions. Blue Origin’s so-called ‘National Team’ is focused on develo…*
+       
   - Here’s what's happening today on day 1 of Disrupt 2020
       <hr/>
-      
-      - *Welcome to Day One of Disrupt 2020, our biggest Disrupt ever! Over the next five days (cue Star Trek theme), you’ll explore strange new technology, seek out new opportunities and new collaborations. You’ll boldly immerse yourself with the global startup commu…*
-      
-  - What to expect from Apple’s hardware event
-      <hr/>
-      
-      - *If this was a normal year, we would be settling in for an iPhone event right about now. This is, however, very much not a normal year. And while we are, in fact, getting an Apple hardware event tomorrow at 10 a.m. PT/1 p.m. ET, it’s looking entirely possible …*
-      
-  - Scientists detect a gas that typically indicates the presence of biological life in the atmosphere of Venus
-      <hr/>
-      
-      - *In a press briefing today, scientists rom the Royal Astronomical Society announced a potentially revolutionary scientific discovery: They’ve detected the presence of phosphine in the atmosphere of Venus, which suggests the possible presence of biological life…*
        
-  - ARM co-founder starts 'Save Arm' campaign to keep independence amid $40B Nvidia deal
-      <hr/>
-       
-       - *ARM Holdings, the UK semiconductor company, made history for the second time today, becoming the country’s biggest tech exit when Nvidia announced over the weekend that it would buy it from SoftBank for $40 billion in an all-stock deal. (ARM’s first appearanc…*
+       - *Welcome to Day One of Disrupt 2020, our biggest Disrupt ever! Over the next five days (cue Star Trek theme), you’ll explore strange new technology, seek out new opportunities and new collaborations. You’ll boldly immerse yourself with the global startup commu…*
       
 
 
