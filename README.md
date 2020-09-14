@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+Machines take me by surprise with great frequency.
 
-~ Edsger W. Dijkstra
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The use of COBOL cripples the mind; its teaching should, therefore, be regarded 
 
 </pre>
 **Daily News**
-  - Virtual healthcare provider Medefer raises £10M to digitise the outpatient journey
+  - Indian fantasy sports app Dream11's parent firm raises $225M at over $2.5B valuation
      <hr/>
      
-      - *Medefer, the U.K.-based virtual healthcare provider that, in its own words, is “reimagining” the outpatient system, is disclosing £10 million in new funding. The round was led by private investment firm Nickleby Capital, and will be used to grow the team and …*
+      - *Dream Sports, the parent firm of fantasy sports app Dream11, has secured $225 million in a new financing round as the Mumbai-headquartered firm builds what it calls “end-to-end sports tech company” in the cricket-loving nation, which is also the world’s secon…*
      
+  - Neither Microsoft nor Oracle gets to buy TikTok US: Chinese state media
+      <hr/>
+      
+      - *What a whirlwind of a Monday morning. Shortly after news broke that Microsoft is out of the picture in bidding for TikTok’s U.S. operations, and rumors began circulating that Oracle is the winner, China’s state broadcaster CGTN reported that ByteDance will no…*
+      
+  - Virtual healthcare provider Medefer raises £10M to digitise the outpatient journey
+      <hr/>
+      
+      - *Medefer, the U.K.-based virtual healthcare provider that, in its own words, is “reimagining” the outpatient system, is disclosing £10 million in new funding. The round was led by private investment firm Nickleby Capital, and will be used to grow the team and …*
+      
   - ‪CBP seized a shipment of OnePlus Buds thinking they were "counterfeit" Apple AirPods‬
       <hr/>
       
       - *The "seized" Apple AirPods look a lot like OnePlus Buds.*
-      
+       
   - Human Capital announces the winners of its Delta fellowship program
       <hr/>
-      
-      - *Today, in the first interview of Disrupt 2020, Human Capital’s Baris Akis and investor Michael Ovitz announced the winners of its Delta Fellowship program. Human Capital launched in 2016 with a mission to become a talent agency for engineers in the same way t…*
-      
-  - Oracle boots out Microsoft and wins bid to buy TikTok, reports say
-      <hr/>
-      
-      - *Enterprise provider Oracle is said to have won the bidding war for the U.S. operations of TikTok, a chase in which Microsoft was booted out earlier today. The Wall Street Journal writes that Oracle will be announced as TikTok’s “trusted tech partner” in the U…*
        
-  - Nvidia confirms $40B purchase of Arm, bringing together two chip giants
-      <hr/>
-       
-       - *After weeks of on-and-off speculation, Nvidia this evening confirmed that it intends to buy chip design giant Arm Holdings for a total of up to $40 billion from existing owner SoftBank, which bought the company for $32 billion in 2016. The boards of all three…*
+       - *Today, in the first interview of Disrupt 2020, Human Capital’s Baris Akis and investor Michael Ovitz announced the winners of its Delta Fellowship program. Human Capital launched in 2016 with a mission to become a talent agency for engineers in the same way t…*
       
 
 
