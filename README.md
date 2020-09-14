@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 
-~ Charles Babbage
+~ Danny Hillis
 <pre>
 
 </pre>
