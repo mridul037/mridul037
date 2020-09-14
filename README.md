@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 
-~ Steve Jobs
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'm convinced that about half of what separates the successful entrepreneurs fro
 
 </pre>
 **Daily News**
-  - YouTube launches its TikTok rival, YouTube Shorts, initially in India
+  - Blue Origin's human lunar lander all-star space team completes first key milestone for Moon mission
      <hr/>
      
-      - *As TikTok’s fate in the U.S. remains murky, YouTube today announced the launch of a new short-form video experience it’s calling YouTube Shorts. The feature will allow users, initially in India, to upload 15-second or less short-form videos using a new set of…*
+      - *Blue Origin, along with it partners Lockheed Martin, Northrop Grumman, and Draper, was one of three companies to be awarded contracts by NASA to develop human lunar landers for future Moon missions. Blue Origin’s so-called ‘National Team’ is focused on develo…*
      
-  - Microsoft's Project Natick underwater datacenter experiment confirms viability of seafloor data storage
+  - Here’s what's happening today on day 1 of Disrupt 2020
       <hr/>
       
-      - *Microsoft has concluded a years-long experiment involving use of a shipping container-sized underwater data center, placed on the sea floor off the cost of Scotland’s Orkney Islands. The company pulled its ‘Project Natick’ underwater data warehouse up out of …*
+      - *Welcome to Day One of Disrupt 2020, our biggest Disrupt ever! Over the next five days (cue Star Trek theme), you’ll explore strange new technology, seek out new opportunities and new collaborations. You’ll boldly immerse yourself with the global startup commu…*
       
-  - Europe starts testing app interoperability service to power cross-border COVID-19 exposure alerts
+  - What to expect from Apple’s hardware event
       <hr/>
       
-      - *The European Commission has begun testing backend infrastructure that’s needed to make national coronavirus contacts tracing apps interoperate across the bloc’s internal borders. It’s kicked off test runs between the backend servers of the official apps from …*
+      - *If this was a normal year, we would be settling in for an iPhone event right about now. This is, however, very much not a normal year. And while we are, in fact, getting an Apple hardware event tomorrow at 10 a.m. PT/1 p.m. ET, it’s looking entirely possible …*
       
-  - Equity Monday: The TikTok mess, two funding rounds, and NVIDIA will buy ARM
+  - Scientists detect a gas that typically indicates the presence of biological life in the atmosphere of Venus
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *In a press briefing today, scientists rom the Royal Astronomical Society announced a potentially revolutionary scientific discovery: They’ve detected the presence of phosphine in the atmosphere of Venus, which suggests the possible presence of biological life…*
        
-  - Extra Crunch membership now available to readers in Australia
+  - ARM co-founder starts 'Save Arm' campaign to keep independence amid $40B Nvidia deal
       <hr/>
        
-       - *TechCrunch's premium membership is available in Australia. The membership includes access to exclusive articles for startup teams, founders, and investors.*
+       - *ARM Holdings, the UK semiconductor company, made history for the second time today, becoming the country’s biggest tech exit when Nvidia announced over the weekend that it would buy it from SoftBank for $40 billion in an all-stock deal. (ARM’s first appearanc…*
       
 
 
