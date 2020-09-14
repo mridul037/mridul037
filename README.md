@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 
-~ Fred Brooks
+~ Poul-Henning Kamp
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The programmer, like the poet, works only slightly removed from pure thought-stu
 
 </pre>
 **Daily News**
-  - Google claims net zero carbon footprint over its entire lifetime, aims to only use carbon-free energy by 2030
+  - Red Ventures acquires CNET Media Group from ViacomCBS for $500M
      <hr/>
      
-      - *Google was at the leading edge of large technology companies seeking to go completely carbon neutral, having declared that status in 2007, and subsequently matching all of its global electricity consumption with renewable energy. Now, the company says that it…*
+      - *Another big M&A play is going down in the the world of media. Publishing group Red Ventures today announced that it is buying CNET Media Group from ViacomCBS for $500 million. The deal will include the eponymous CNET tech site, as well as ZDNet, Gamespot, TVG…*
      
+  - YouTube hit with UK class action style suit seeking $3BN+ for 'unlawful' use of kids' data
+      <hr/>
+      
+      - *Another class action style lawsuit has been lodged against a tech giant in the UK alleging violations of privacy and seeking major damages. The latest representative action, filed against Google-owned YouTube, accuses the platform of routinely breaking UK and…*
+      
+  - Facebook introduces a co-viewing experience in Messenger, 'Watch Together'
+      <hr/>
+      
+      - *Facebook today is rolling out a new feature that will allow friends and family to watch videos together over Messenger. The feature, called “Watch Together,” works with all Facebook Watch video content, including its original programs, user uploads, creator c…*
+      
+  - Google claims net zero carbon footprint over its entire lifetime, aims to only use carbon-free energy by 2030
+      <hr/>
+      
+      - *Google was at the leading edge of large technology companies seeking to go completely carbon neutral, having declared that status in 2007, and subsequently matching all of its global electricity consumption with renewable energy. Now, the company says that it…*
+       
   - Walmart expands drone delivery tests to Arkansas with new Zipline partnership
       <hr/>
-      
-      - *Walmart now has two tests for drone delivery running in the US. Early Monday morning the company announced a new drone delivery program with Zipline, a startup that made its name delivering medical supplies across Africa. The partnership with Zipline comes on…*
-      
-  - TikTok hits 100M users in Europe as the clock ticks on its US business
-      <hr/>
-      
-      - *TikTok may or may not be making a deal for its US operations, which the US government says it will  shut down over national security concerns on September 20th if its Chinese ownership is not resolved. But something that the US narrative has not really addres…*
-      
-  - Indian fantasy sports app Dream11's parent firm raises $225M at over $2.5B valuation
-      <hr/>
-      
-      - *Dream Sports, the parent firm of fantasy sports app Dream11, has secured $225 million in a new financing round as the Mumbai-headquartered firm builds what it calls “end-to-end sports tech company” in the cricket-loving nation, which is also the world’s secon…*
        
-  - Neither Microsoft nor Oracle gets to buy TikTok US: Chinese state media
-      <hr/>
-       
-       - *What a whirlwind of a Monday morning. Shortly after news broke that Microsoft is out of the picture in bidding for TikTok’s U.S. operations, and rumors began circulating that Oracle is the winner, China’s state broadcaster CGTN reported that ByteDance will no…*
+       - *Walmart now has two tests for drone delivery running in the US. Early Monday morning the company announced a new drone delivery program with Zipline, a startup that made its name delivering medical supplies across Africa. The partnership with Zipline comes on…*
       
 
 
