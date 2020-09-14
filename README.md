@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Alan Perlis
+~ Arthur C. Clarke
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It is easier to change the specification to fit the program than vice versa.
 
 </pre>
 **Daily News**
-  - Google will announce a new Pixel, smart speaker and Chromecast September 30
+  - Extra Crunch Partner Perk: Discount on Dell XPS Laptop and Dell for Entrepreneurs Program
      <hr/>
      
-      - *Hardware season is in full swing. Apple’s big Watch event kicks off tomorrow and Samsung is readying itself for a third (!) Unpacked event on September 23. Now Google’s getting in on the fun. After opting to skip a virtual version of I/O earlier this year, th…*
+      - *We’re excited to announce a new Partner Perk from Dell for Extra Crunch members. Starting today, annual and 2-year Extra Crunch members can get a discount on a Dell XPS Laptop as well as a discount on membership to the Dell for Entrepreneurs Program. What is …*
      
-  - Facebook investor Jim Breyer picks Austin as Breyer Capital's second home
+  - As low-code startups continue to attract VC interest, what's driving customer demand?
       <hr/>
       
-      - *For Jim Breyer, the mantra, “Silicon Valley is a state of mind” has always been behind Breyer Capital, his personal investment fund. While many of his investments and board seats (which have included Facebook, Blackstone, 21st Century Fox, Dell, Etsy, Marvel …*
+      - *Investor interest in no-code, low-code apps and services advanced another step this morning with Airtable raising an outsized round. The $185 million investment into the popular database-and-spreadsheet service comes as it adds “new low-code and automation fe…*
       
-  - Courier raises $10.1M Series A to help developers integrate multi-channel notifications
+  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
       <hr/>
       
-      - *Courier is an API platform with a no-code twist that helps developers add multi-channel user notifications to their applications. The company today announced that it has raised a $10.1 million Series A funding round led by Bessemer Venture Partners. Matrix Pa…*
+      - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
       
-  - Blue Origin's human lunar lander all-star space team completes first key milestone for Moon mission
+  - Matidor is building an all-in-one geospatial project collaboration platform
       <hr/>
       
-      - *Blue Origin, along with it partners Lockheed Martin, Northrop Grumman, and Draper, was one of three companies to be awarded contracts by NASA to develop human lunar landers for future Moon missions. Blue Origin’s so-called ‘National Team’ is focused on develo…*
+      - *It’s a big world out there, but the software that allows professionals to take a closer look at geospatial data hasn’t made the same leaps that consumer-focused platforms have. Matidor, a Vancouver-based geospatial visualization and collaboration startup, is …*
        
-  - Here’s what's happening today on day 1 of Disrupt 2020
+  - Amazon rebrands FreeTime to Amazon Kids, expands paid catalog for Amazon Kids+
       <hr/>
        
-       - *Welcome to Day One of Disrupt 2020, our biggest Disrupt ever! Over the next five days (cue Star Trek theme), you’ll explore strange new technology, seek out new opportunities and new collaborations. You’ll boldly immerse yourself with the global startup commu…*
+       - *Amazon today announced it will rebrand its kid-friendly services formerly known as Amazon FreeTime and Amazon FreeTime Unlimited to Amazon Kids and Amazon Kids+. In addition to the name change, the services are being redesigned to include a new homescreen exp…*
       
 
 
