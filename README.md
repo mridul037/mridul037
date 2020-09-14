@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 
-~ Alan Perlis
+~ Martin Fowler
 <pre>
 
 </pre>
