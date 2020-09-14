@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
 
-~ Martin Fowler
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ With testing, I know straight away when I added a bug. That lets me fix the bug 
 
 </pre>
 **Daily News**
-  - Indian fantasy sports app Dream11's parent firm raises $225M at over $2.5B valuation
+  - Google claims net zero carbon footprint over its entire lifetime, aims to only use carbon-free energy by 2030
      <hr/>
      
-      - *Dream Sports, the parent firm of fantasy sports app Dream11, has secured $225 million in a new financing round as the Mumbai-headquartered firm builds what it calls “end-to-end sports tech company” in the cricket-loving nation, which is also the world’s secon…*
+      - *Google was at the leading edge of large technology companies seeking to go completely carbon neutral, having declared that status in 2007, and subsequently matching all of its global electricity consumption with renewable energy. Now, the company says that it…*
      
+  - Walmart expands drone delivery tests to Arkansas with new Zipline partnership
+      <hr/>
+      
+      - *Walmart now has two tests for drone delivery running in the US. Early Monday morning the company announced a new drone delivery program with Zipline, a startup that made its name delivering medical supplies across Africa. The partnership with Zipline comes on…*
+      
+  - TikTok hits 100M users in Europe as the clock ticks on its US business
+      <hr/>
+      
+      - *TikTok may or may not be making a deal for its US operations, which the US government says it will  shut down over national security concerns on September 20th if its Chinese ownership is not resolved. But something that the US narrative has not really addres…*
+      
+  - Indian fantasy sports app Dream11's parent firm raises $225M at over $2.5B valuation
+      <hr/>
+      
+      - *Dream Sports, the parent firm of fantasy sports app Dream11, has secured $225 million in a new financing round as the Mumbai-headquartered firm builds what it calls “end-to-end sports tech company” in the cricket-loving nation, which is also the world’s secon…*
+       
   - Neither Microsoft nor Oracle gets to buy TikTok US: Chinese state media
       <hr/>
-      
-      - *What a whirlwind of a Monday morning. Shortly after news broke that Microsoft is out of the picture in bidding for TikTok’s U.S. operations, and rumors began circulating that Oracle is the winner, China’s state broadcaster CGTN reported that ByteDance will no…*
-      
-  - Virtual healthcare provider Medefer raises £10M to digitise the outpatient journey
-      <hr/>
-      
-      - *Medefer, the U.K.-based virtual healthcare provider that, in its own words, is “reimagining” the outpatient system, is disclosing £10 million in new funding. The round was led by private investment firm Nickleby Capital, and will be used to grow the team and …*
-      
-  - ‪CBP seized a shipment of OnePlus Buds thinking they were "counterfeit" Apple AirPods‬
-      <hr/>
-      
-      - *The "seized" Apple AirPods look a lot like OnePlus Buds.*
        
-  - Human Capital announces the winners of its Delta fellowship program
-      <hr/>
-       
-       - *Today, in the first interview of Disrupt 2020, Human Capital’s Baris Akis and investor Michael Ovitz announced the winners of its Delta Fellowship program. Human Capital launched in 2016 with a mission to become a talent agency for engineers in the same way t…*
+       - *What a whirlwind of a Monday morning. Shortly after news broke that Microsoft is out of the picture in bidding for TikTok’s U.S. operations, and rumors began circulating that Oracle is the winner, China’s state broadcaster CGTN reported that ByteDance will no…*
       
 
 
