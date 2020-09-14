@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 
-~ Nathaniel Borenstein
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It should be noted that no ethically-trained software engineer would ever consen
 
 </pre>
 **Daily News**
-  - Oracle boots out Microsoft and wins bid to buy TikTok, reports say
+  - Human Capital announces the winners of its Delta fellowship program
      <hr/>
      
-      - *Enterprise provider Oracle is said to have won the bidding war for the U.S. operations of TikTok, a chase in which Microsoft was booted out earlier today. The Wall Street Journal writes that Oracle will be announced as TikTok’s “trusted tech partner” in the U…*
+      - *Today, in the first interview of Disrupt 2020, Human Capital’s Baris Akis and investor Michael Ovitz announced the winners of its Delta Fellowship program. Human Capital launched in 2016 with a mission to become a talent agency for engineers in the same way t…*
      
+  - Oracle boots out Microsoft and wins bid to buy TikTok, reports say
+      <hr/>
+      
+      - *Enterprise provider Oracle is said to have won the bidding war for the U.S. operations of TikTok, a chase in which Microsoft was booted out earlier today. The Wall Street Journal writes that Oracle will be announced as TikTok’s “trusted tech partner” in the U…*
+      
   - Nvidia confirms $40B purchase of Arm, bringing together two chip giants
       <hr/>
       
@@ -81,16 +86,11 @@ It should be noted that no ethically-trained software engineer would ever consen
       <hr/>
       
       - *One thing I’ll say for in-person events: they compelled companies to cram in a lot of news. After all, if you’re going to ask an auditorium full of people to travel from around the country — or world — you want to give them a lot of bang for their buck. Samsu…*
-      
+       
   - Learn how to build a sales team at Disrupt 2020
       <hr/>
-      
-      - *The classic model of enterprise sales (the relationship building, the big client dinners, the baseball games, etc) was upended in the 2010s. New approaches like inside sales offered better leverage for salespeople, better metrics to track performance, and a m…*
        
-  - Disrupt 2020 starts tomorrow... join us for the LIVE pre-show right now!
-      <hr/>
-       
-       - *We simply can’t wait. Disrupt 2020 officially kicks off tomorrow morning at 9am PT, but there are so many exciting features in this show — from the speaker lineup to the Startup Battlefield competition to the wide variety of features included in this new virt…*
+       - *The classic model of enterprise sales (the relationship building, the big client dinners, the baseball games, etc) was upended in the 2010s. New approaches like inside sales offered better leverage for salespeople, better metrics to track performance, and a m…*
       
 
 
