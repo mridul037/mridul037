@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In theory, there is no difference between theory and practice. But, in practice, there is.
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ Jan L. A. van de Snepscheut
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In theory, there is no difference between theory and practice. But, in practice,
 
 </pre>
 **Daily News**
-  - ‪CBP seized a shipment of OnePlus Buds thinking they were "counterfeit" Apple AirPods‬
+  - Virtual healthcare provider Medefer raises £10M to digitise the outpatient journey
      <hr/>
      
-      - *The "seized" Apple AirPods look a lot like OnePlus Buds.*
+      - *Medefer, the U.K.-based virtual healthcare provider that, in its own words, is “reimagining” the outpatient system, is disclosing £10 million in new funding. The round was led by private investment firm Nickleby Capital, and will be used to grow the team and …*
      
+  - ‪CBP seized a shipment of OnePlus Buds thinking they were "counterfeit" Apple AirPods‬
+      <hr/>
+      
+      - *The "seized" Apple AirPods look a lot like OnePlus Buds.*
+      
   - Human Capital announces the winners of its Delta fellowship program
       <hr/>
       
@@ -81,16 +86,11 @@ In theory, there is no difference between theory and practice. But, in practice,
       <hr/>
       
       - *Enterprise provider Oracle is said to have won the bidding war for the U.S. operations of TikTok, a chase in which Microsoft was booted out earlier today. The Wall Street Journal writes that Oracle will be announced as TikTok’s “trusted tech partner” in the U…*
-      
+       
   - Nvidia confirms $40B purchase of Arm, bringing together two chip giants
       <hr/>
-      
-      - *After weeks of on-and-off speculation, Nvidia this evening confirmed that it intends to buy chip design giant Arm Holdings for a total of up to $40 billion from existing owner SoftBank, which bought the company for $32 billion in 2016. The boards of all three…*
        
-  - Samsung is holding yet another Unpacked Event on September 23
-      <hr/>
-       
-       - *One thing I’ll say for in-person events: they compelled companies to cram in a lot of news. After all, if you’re going to ask an auditorium full of people to travel from around the country — or world — you want to give them a lot of bang for their buck. Samsu…*
+       - *After weeks of on-and-off speculation, Nvidia this evening confirmed that it intends to buy chip design giant Arm Holdings for a total of up to $40 billion from existing owner SoftBank, which bought the company for $32 billion in 2016. The boards of all three…*
       
 
 
