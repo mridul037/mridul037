@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 
-~ Poul-Henning Kamp
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Make a guess, double the number, and then move to the next larger unit of time. 
 
 </pre>
 **Daily News**
-  - Red Ventures acquires CNET Media Group from ViacomCBS for $500M
+  - Europe starts testing app interoperability service to power cross-border COVID-19 exposure alerts
      <hr/>
      
-      - *Another big M&A play is going down in the the world of media. Publishing group Red Ventures today announced that it is buying CNET Media Group from ViacomCBS for $500 million. The deal will include the eponymous CNET tech site, as well as ZDNet, Gamespot, TVG…*
+      - *The European Commission has begun testing backend infrastructure that’s needed to make national coronavirus contacts tracing apps interoperate across the bloc’s internal borders. It’s kicked off test runs between the backend servers of the official apps from …*
      
-  - YouTube hit with UK class action style suit seeking $3BN+ for 'unlawful' use of kids' data
+  - Equity Monday: The TikTok mess, two funding rounds, and NVIDIA will buy ARM
       <hr/>
       
-      - *Another class action style lawsuit has been lodged against a tech giant in the UK alleging violations of privacy and seeking major damages. The latest representative action, filed against Google-owned YouTube, accuses the platform of routinely breaking UK and…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
-  - Facebook introduces a co-viewing experience in Messenger, 'Watch Together'
+  - Extra Crunch membership now available to readers in Australia
       <hr/>
       
-      - *Facebook today is rolling out a new feature that will allow friends and family to watch videos together over Messenger. The feature, called “Watch Together,” works with all Facebook Watch video content, including its original programs, user uploads, creator c…*
+      - *TechCrunch's premium membership is available in Australia. The membership includes access to exclusive articles for startup teams, founders, and investors.*
       
-  - Google claims net zero carbon footprint over its entire lifetime, aims to only use carbon-free energy by 2030
+  - Beyond Meat is introducing pre-packaged meatballs at stores across America
       <hr/>
       
-      - *Google was at the leading edge of large technology companies seeking to go completely carbon neutral, having declared that status in 2007, and subsequently matching all of its global electricity consumption with renewable energy. Now, the company says that it…*
+      - *Indulging in American food companies’ favorite pastime of marketing innovations that no one needs but potentially everyone wants, Beyond Meat is launching Beyond Meatballs in grocery stores nationwide this week. The new product can be put on top of spaghetti,…*
        
-  - Walmart expands drone delivery tests to Arkansas with new Zipline partnership
+  - Airtable raises $185M and launches new low-code and automation features
       <hr/>
        
-       - *Walmart now has two tests for drone delivery running in the US. Early Monday morning the company announced a new drone delivery program with Zipline, a startup that made its name delivering medical supplies across Africa. The partnership with Zipline comes on…*
+       - *The spreadsheet-centric database and no-code platform Airtable today announced that it has raised a $185 million Series D funding round, putting the company at a $2.585 billion post-money valuation. Thrive Capital led the round, with additional funding by exi…*
       
 
 
