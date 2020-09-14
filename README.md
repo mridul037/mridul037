@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
-~ Terry Winograd
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The main activity of programming is not the origination of new independent progr
 
 </pre>
 **Daily News**
-  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
+  - The Black List's Franklin Leonard on why picking winners doesn't mean making losers
      <hr/>
      
-      - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
+      - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
      
+  - Leaked memo excoriates Facebook's 'slapdash and haphazard' response to global political manipulation
+      <hr/>
+      
+      - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
+      
+  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
+      <hr/>
+      
+      - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
+      
   - As it heads for IPO, Palantir hires a chief accountant and gets approval from NYSE to trade
       <hr/>
       
       - *After 17 years, Palantir is getting closer and closer to its public debut later this month. We’ve been covering different facets of the company’s direct listing process including concerns about its governance and how insiders are accelerating the sale of thei…*
-      
+       
   - Snowflake and JFrog raise IPO ranges as tech markets stay hot
       <hr/>
-      
-      - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
-      
-  - A bug in Joe Biden's campaign app gave anyone access to millions of voter files
-      <hr/>
-      
-      - *Anyone could look up private voter information on millions of Americans.*
        
-  - How to hire your first engineer: A guide for nontechnical founders
-      <hr/>
-       
-       - *For founders who have a startup idea — but few engineering skills to make it a reality — making the team’s first technical hire can be a daunting task. Nontechnical founders will face greater challenges when it comes to sourcing and recruiting engineering tal…*
+       - *What market selloff? Despite last week’s market declines, two big IPOs are rolling ahead this week, with Snowflake and JFrog both boosting their IPO price ranges this morning. The jump in expected pricing means each IPO will likely raise more capital, valuing…*
       
 
 
