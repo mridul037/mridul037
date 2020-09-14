@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ Danny Hillis
+~ Jan L. A. van de Snepscheut
 <pre>
 
 </pre>
