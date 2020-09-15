@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 
-~ Martin Fowler
+~ Bill Gates
 <pre>
 
 </pre>
