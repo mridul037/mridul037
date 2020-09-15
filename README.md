@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 
-~ Fred Brooks
+~ Wayne Ratliff
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ False scheduling to match the patron's desired date is much more common in our d
 
 </pre>
 **Daily News**
-  - Apple's new 'Family Setup' aims to make Apple Watch a kid tracker
+  - Replace legacy healthcare staffing with a vertical marketplace for workers
      <hr/>
      
-      - *Apple today announced a new feature that will allow families to stay better connected, even if some members of the family don’t have an iPhone. The company introduced a new feature called Family Setup that allows a parent to pair their iPhone with a child’s A…*
+      - *Let’s galvanize the collective distress COVID-19 has created and use it to pioneer a more efficient model for all.*
      
-  - SoloSuit launches a web app to to help US users respond to debt lawsuits
+  - Vibe introduces a remote collaboration solution that works with your favorite apps
       <hr/>
       
-      - *Online service SoloSuit wants to help Americans who are being sued for a debt fight back using automated tools. The company, which is launching its service nationwide today at TechCrunch Disrupt Startup Battlefield, guides users through preparing a response t…*
+      - *A startup called Vibe, launching today at TechCrunch Disrupt Startup Battlefield, wants to make it easier for businesses to collaborate remotely. Its system, which combines a large interactive digital whiteboard and cloud service, allows users to host remote …*
       
-  - Apple One bundles iCloud, Music, TV+, Arcade,  News+ and Fitness+ for $30 a month
+  - HacWare wants you to hate email security a little less
       <hr/>
       
-      - *Seems everything charges a monthly fee, these days. It also seems that every Apple event brings another way to fork over $10 a month to the company. This time out, it was the addition of Fitness+, which brings metric-focused video workouts to an Apple TV near…*
+      - *This security startup wants email security awareness to change.*
       
-  - Apple introduces the Apple Watch SE, a cheaper Apple Watch
+  - Amazon-backed Indian insurtech startup Acko raises $60 million
       <hr/>
       
-      - *In addition to keeping old generation devices at an entry-level price, Apple is introducing a brand new Apple Watch at a cheaper price point. The new Apple Watch SE features the same design as the newly announced Apple Watch Series 6. But it costs $279. “The …*
+      - *A young Indian startup that is taking on the country’s antiquated insurance industry with a digital-first product — and which has already received backing from global giant Amazon — today announced a new financing round. Bangalore-based Acko said on Tuesday i…*
        
-  - Apple Watch Series 6 will measure blood oxygen levels
+  - The fitness market doesn't seem too scared by Apple Fitness+
       <hr/>
        
-       - *Apple’s new Series 6 watch has some exciting new health features. Thanks to a new health sensor, the Apple Watch Series 6 is able to measure your blood oxygen levels in 15 seconds. The watch will also record background measurements while you sleep. Your blood…*
+       - *Usually, Apple making a grand entrance to an entrenched market would spell doom for the players there, but when it comes to Apple’s latest digital workout service, it doesn’t look like investors are worried about Fitness+ killing the momentum. Part of that ma…*
       
 
 
