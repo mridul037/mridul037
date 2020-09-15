@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Ken Thompson
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One of my most productive days was throwing away 1,000 lines of code.
 
 </pre>
 **Daily News**
-  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
+  - Klarna raises $650 million at a $10.6 billion valuation
      <hr/>
      
-      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
+      - *Fintech startup Klarna has raised a mega-round of funding led by Silver Lake. The company is raising $650 million at a post-money valuation of $10.65 billion. Klarna says it is now the highest-valued private fintech company in Europe following today’s funding…*
      
+  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
+      <hr/>
+      
+      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
+      
   - Watch Apple’s hardware event live right here
       <hr/>
       
@@ -81,16 +86,11 @@ One of my most productive days was throwing away 1,000 lines of code.
       <hr/>
       
       - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
-      
+       
   - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
       <hr/>
-      
-      - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
        
-  - Indian e-commerce deals site CashKaro gets $10 million Series B led by Korea Investment Partners
-      <hr/>
-       
-       - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
+       - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
       
 
 
