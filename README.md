@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Roy Fielding
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Communication must be stateless in nature, such that each request from client to
 
 </pre>
 **Daily News**
-  - SEC to investigate short seller's claims against Nikola, report says
+  - Carbon Health and Color founders see power in bringing healthcare to the edge
      <hr/>
      
-      - *The U.S. Securities and Exchange Commission is reportedly looking into claims that Nikola Corp. is involved in an alleged “intricate fraud,” the latest development in a controversy that erupted last week just days after GM took an 11% stake in the newly publi…*
+      - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
      
+  - N95 masks could soon be rechargeable instead of disposable
+      <hr/>
+      
+      - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
+      
+  - SEC to investigate short seller's claims against Nikola, report says
+      <hr/>
+      
+      - *The U.S. Securities and Exchange Commission is reportedly looking into claims that Nikola Corp. is involved in an alleged “intricate fraud,” the latest development in a controversy that erupted last week just days after GM took an 11% stake in the newly publi…*
+      
   - Airtable's Howie Liu has no interest in exiting, even as the company's valuation soars
       <hr/>
       
       - *In the middle of a pandemic, Airtable, the low-code startup, has actually had an excellent year. Just the other day, the company announced it had raised $185 million on a whopping $2.585 billion valuation. It also announced some new features that take it from…*
-      
+       
   - The Black List's Franklin Leonard on why picking winners doesn't mean making losers
       <hr/>
-      
-      - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
-      
-  - Leaked memo excoriates Facebook's 'slapdash and haphazard' response to global political manipulation
-      <hr/>
-      
-      - *A former Facebook data scientist dropped a detailed, damning memo on her last day there, calling the social network out for what she describes as an arbitrary, slow, and generally inadequate response to fake accounts and activity affecting politics worldwide.…*
        
-  - Quantum startup CEO suggests we are only five years away from a quantum desktop computer
-      <hr/>
-       
-       - *Today at TechCrunch Disrupt 2020, leaders from three quantum computing startups joined TechCrunch editor Frederic Lardinois to discuss the future of the technology. IonQ CEO and president Peter Chapman suggested we could be as little as five years away from a…*
+       - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
       
 
 
