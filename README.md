@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+One of my most productive days was throwing away 1,000 lines of code.
 
-~ John von Neumann
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any one who considers arithmetical methods of producing random digits is, of cou
 
 </pre>
 **Daily News**
-  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
+  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
      <hr/>
      
-      - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
+      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
      
+  - Watch Apple’s hardware event live right here
+      <hr/>
+      
+      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
+      
+  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
+      <hr/>
+      
+      - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
+      
   - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
       <hr/>
       
       - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
-      
+       
   - Indian e-commerce deals site CashKaro gets $10 million Series B led by Korea Investment Partners
       <hr/>
-      
-      - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
-      
-  - Carbon Health and Color founders see power in bringing healthcare to the edge
-      <hr/>
-      
-      - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
        
-  - N95 masks could soon be rechargeable instead of disposable
-      <hr/>
-       
-       - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
+       - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
       
 
 
