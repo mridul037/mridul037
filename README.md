@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Vannevar Bush
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Whenever logical processes of thought are employed, there is an opportunity for 
 
 </pre>
 **Daily News**
-  - The Chainsmokers just closed their debut venture fund, Mantis, with $35 million
+  - LanzaTech eyes two more spinoff companies
      <hr/>
      
-      - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
+      - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
      
+  - Spotify adds virtual event listings to its app
+      <hr/>
+      
+      - *Spotify is embracing virtual events. The company today announced the addition of virtual event listings in the Spotify app, which will allow music fans to see when their favorite artists will be playing live — even if only via a livestream. These listings wil…*
+      
+  - Incredible Health updates its healthcare career platform to help nurse hiring cope with COVID
+      <hr/>
+      
+      - *The healthcare industry, even prior to the current pandemic, has never looked much like other industries when it comes to hiring and career management. That was the impetus behind Incredible Health, a startup founded by medical doctor Iman Abuzeid and Amazon …*
+      
+  - The Chainsmokers just closed their debut venture fund, Mantis, with $35 million
+      <hr/>
+      
+      - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
+       
   - Here's everything Apple revealed at its September hardware event today
       <hr/>
-      
-      - *iPads, Apple Watches, iOS 14 — and more.*
-      
-  - Triller aims for TikTok with additions of influencers like Charli D'Amelio and Addison Rae
-      <hr/>
-      
-      - *Triller had been poised to benefit from a potential TikTok ban in the U.S. Though that may not happen now, given the apparent Oracle deal, the chaos around TikTok has increased the attention given to alternative apps such as Triller. As TikTok users sought ou…*
-      
-  - Replace legacy healthcare staffing with a vertical marketplace for workers
-      <hr/>
-      
-      - *Let’s galvanize the collective distress COVID-19 has created and use it to pioneer a more efficient model for all.*
        
-  - Vibe introduces a remote collaboration solution that works with your favorite apps
-      <hr/>
-       
-       - *A startup called Vibe, launching today at TechCrunch Disrupt Startup Battlefield, wants to make it easier for businesses to collaborate remotely. Its system, which combines a large interactive digital whiteboard and cloud service, allows users to host remote …*
+       - *iPads, Apple Watches, iOS 14 — and more.*
       
 
 
