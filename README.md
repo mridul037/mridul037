@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Imagination is more important than knowledge.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ Albert Einstein
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Imagination is more important than knowledge.
 
 </pre>
 **Daily News**
-  - HowGood launches Latis, a sustainability assessment tool for consumer product ingredients
+  - Researchers ready world-first vision restoration device for human clinical trials
      <hr/>
      
-      - *The New York-based startup HowGood, which provides a sustainability database for consumer product ingredients, is publicly launching its product Latis and has already signed an initial customer with Danone North America, the company said. The company said tha…*
+      - *Over a decade’s worth of work by scientists working at Melbourne, Australia’s Monash University has produced a first-of-its-kind device that can restore vision to the blind, using a combination of smartphone-style electronics and brain-implanted micro electro…*
      
+  - Mette Lykke on food waste and building a big startup on a big idea
+      <hr/>
+      
+      - *Food has been an ever-present touchpoint in the world of startups, and I don’t mean the free catered lunches, or expansive canteens that you get in bigger places, to keep startup workers sustained but also focused on building, without leaving the building. Th…*
+      
+  - Sternum raises $6.5M Series A on its IoT security bet
+      <hr/>
+      
+      - *If we have learned anything from the mass production of cheap internet-connected devices is that security was an afterthought. Default passwords are the norm and security flaws aren’t patched, leaving entire fleets of smart devices vulnerable to attack. But o…*
+      
+  - HowGood launches Latis, a sustainability assessment tool for consumer product ingredients
+      <hr/>
+      
+      - *The New York-based startup HowGood, which provides a sustainability database for consumer product ingredients, is publicly launching its product Latis and has already signed an initial customer with Danone North America, the company said. The company said tha…*
+       
   - Virtual events platform Airmeet raises $12M
       <hr/>
-      
-      - *Airmeet, a startup that offers a platform to host virtual events, said on Tuesday it has raised $12 million in a new financing round as the Bangalore-headquartered firm demonstrates accelerating growth in its user base. Sequoia Capital India led the $12 milli…*
-      
-  - Austin-based EmPath's employee training and re-skilling service snags seed funding from B Capital
-      <hr/>
-      
-      - *By the time Felix Ortiz III left the Army in 2006, the Brooklyn, NY native had spent time taking classes at the City University of New York and St. John’s. Those experiences led him to found ViridisLearning, which aimed to give universities a better way to tr…*
-      
-  - Uber wants to help its drivers and delivery workers register to vote
-      <hr/>
-      
-      - *With the 2020 general election coming up in November, Uber has partnered with TurboVote to launch an in-app feature designed to help riders, eaters, drivers and delivery workers register to vote. This comes after Uber CEO Dara Khosrowshahi in August said the …*
        
-  - Facebook announces $4.3 million grant for small businesses in India, introduces support for gift cards
-      <hr/>
-       
-       - *More than a third of small and medium-sized businesses on Facebook in India expect cash flow to be a challenge for them as they navigate through the coronavirus pandemic in the next few months, according to a report by Organisation for Economic Co-operation a…*
+       - *Airmeet, a startup that offers a platform to host virtual events, said on Tuesday it has raised $12 million in a new financing round as the Bangalore-headquartered firm demonstrates accelerating growth in its user base. Sequoia Capital India led the $12 milli…*
       
 
 
