@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 
-~ Ted Nelson
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ They were saying computers deal with numbers. This was absolutely nonsense. Comp
 
 </pre>
 **Daily News**
-  - Researchers ready world-first vision restoration device for human clinical trials
+  - Building a white label tool for telemedicine services nabs OnCall Health $6 million
      <hr/>
      
-      - *Over a decade’s worth of work by scientists working at Melbourne, Australia’s Monash University has produced a first-of-its-kind device that can restore vision to the blind, using a combination of smartphone-style electronics and brain-implanted micro electro…*
+      - *As medical providers across the world turn to digital delivery of consultations and services, OnCall Health a Toronto-based provider of back-end services for telemedicine is having a moment. The company, which competes with services like Truepill to offer phy…*
      
-  - Mette Lykke on food waste and building a big startup on a big idea
+  - Opendoor to go public by way of Chamath Palihapitiya SPAC
       <hr/>
       
-      - *Food has been an ever-present touchpoint in the world of startups, and I don’t mean the free catered lunches, or expansive canteens that you get in bigger places, to keep startup workers sustained but also focused on building, without leaving the building. Th…*
+      - *Today, Social Capital Hedosophia II, the blank-check company associated with investor Chamath Palihapitiya, announced that it will merge with Opendoor, taking the private real estate startup public in the process. The transaction comes during a wave of market…*
       
-  - Sternum raises $6.5M Series A on its IoT security bet
+  - Dynetics has built a full-scale test version of its lunar human lander for NASA
       <hr/>
       
-      - *If we have learned anything from the mass production of cheap internet-connected devices is that security was an afterthought. Default passwords are the norm and security flaws aren’t patched, leaving entire fleets of smart devices vulnerable to attack. But o…*
+      - *One of the three companies chosen by NASA to create a Human Landing System (HLS) for NASA has completed a key step by building a full-scale test article of its lander for its team and NASA to evaluate and review. The Dynetics HLS is roughly the size of the Ap…*
       
-  - HowGood launches Latis, a sustainability assessment tool for consumer product ingredients
+  - Brightseed raises $27 million for phytonutrient identification tech used in food and nutraceuticals
       <hr/>
       
-      - *The New York-based startup HowGood, which provides a sustainability database for consumer product ingredients, is publicly launching its product Latis and has already signed an initial customer with Danone North America, the company said. The company said tha…*
+      - *Brightseed, the company launched by former Hampton Creek head of research and development, Jim Flatt, to identify the presence of specific nutrients in plants that are believed to boost human health, has raised $27 million in its latest round of funding, the …*
        
-  - Virtual events platform Airmeet raises $12M
+  - Formlabs announces a large-format medical and dental 3D printer
       <hr/>
        
-       - *Airmeet, a startup that offers a platform to host virtual events, said on Tuesday it has raised $12 million in a new financing round as the Bangalore-headquartered firm demonstrates accelerating growth in its user base. Sequoia Capital India led the $12 milli…*
+       - *Formlabs was one of a few desktop 3D printing companies to weather the massive tech bubble a few years back. The Somerville, Massachusetts-based company set itself apart by bringing advanced industrial 3D-printing technologies to the consumer space. In recent…*
       
 
 
