@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+As with most projects, the last two percent takes fifty percent of the time.
 
-~ Rick Osborne
+~ John Warnock
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
 
 </pre>
 **Daily News**
-  - European Space Agency awards $153 million contract for its first planetary defense mission
+  - LanzaTech is developing a small-scale waste biomass gasifier for ethanol production in India
      <hr/>
      
-      - *The European Space Agency (ESA) is doing its part to help protect the Earth from any errant asteroids that may threaten terrestrial life, awarding a €129.4 million ($153 million) contract to an industry consortium led by German space company OHB. The contract…*
+      - *As part of the continuing global rollout of LanzaTech’s technology to capture carbon dioxide emissions and turn those emissions into fuel and chemicals, the company is rolling out a new small-scale waste biomass gasifier in India. The new gasifier, which was …*
      
+  - Google launches new AI-powered meeting room hardware
+      <hr/>
+      
+      - *Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to usin…*
+      
+  - Waze gets smarter with trip suggestions, lane guidance, traffic notifications and more
+      <hr/>
+      
+      - *Google-owned navigation app Waze is gaining a number of new product features as well as a partnership with Amazon Music, the company announced at its first major virtual event, Waze On. Among the changes, Waze is gaining personalized recommendations based on …*
+      
+  - European Space Agency awards $153 million contract for its first planetary defense mission
+      <hr/>
+      
+      - *The European Space Agency (ESA) is doing its part to help protect the Earth from any errant asteroids that may threaten terrestrial life, awarding a €129.4 million ($153 million) contract to an industry consortium led by German space company OHB. The contract…*
+       
   - Black Tech Pipeline proves the 'pipeline problem' isn't real
       <hr/>
-      
-      - *The tech industry has become known as a place that is predominantly white and male. Contrary to the misguided popular belief, it’s not a pipeline problem as much as it’s a retention problem. Black Tech Pipeline, aims to debunk that myth and help support Black…*
-      
-  - ZenHub's new automation tools improve developer hand-offs in GitHub
-      <hr/>
-      
-      - *ZenHub, the popular project management solution for GitHub users, today announced the launch of its new features for automating hand-offs between teams. The idea behind Automated Workflows, as it is called, is to remove some of the manual busywork of updating…*
-      
-  - Kleiner prints gold with Desktop Metal, netting a roughly 10x return
-      <hr/>
-      
-      - *Desktop Metal is one of the most interesting startups to come out of Boston in some time, with a technology designed to “print metal.” That’s a potentially huge expansion for the 3D printing market, where flexible polymers are the norm, a material that limits…*
        
-  - Watch the first official trailer for The Mandalorian Season 2, premiering October 30 on Disney+
-      <hr/>
-       
-       - *Disney has released the first trailer for the second season of The Mandalorian, and it actually provides a lot of plot detail via voice over of a conversation behind main character Mando and someone directing him as to what he should do with The Child (aka Ba…*
+       - *The tech industry has become known as a place that is predominantly white and male. Contrary to the misguided popular belief, it’s not a pipeline problem as much as it’s a retention problem. Black Tech Pipeline, aims to debunk that myth and help support Black…*
       
 
 
