@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+Imagination is more important than knowledge.
 
-~ Tony Parisi (software developer)
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A framework can provide 90% of the features we need quickly — giving us a fals
 
 </pre>
 **Daily News**
-  - Facebook announces $4.3 million grant for small businesses in India, introduces support for gift cards
+  - HowGood launches Latis, a sustainability assessment tool for consumer product ingredients
      <hr/>
      
-      - *More than a third of small and medium-sized businesses on Facebook in India expect cash flow to be a challenge for them as they navigate through the coronavirus pandemic in the next few months, according to a report by Organisation for Economic Co-operation a…*
+      - *The New York-based startup HowGood, which provides a sustainability database for consumer product ingredients, is publicly launching its product Latis and has already signed an initial customer with Danone North America, the company said. The company said tha…*
      
-  - Europe's top court says net neutrality rules bar 'zero rating'
+  - Virtual events platform Airmeet raises $12M
       <hr/>
       
-      - *The European Union’s top court has handed down its first decision on the bloc’s net neutrality rules — interpreting the law as precluding the use of commercial ‘zero rating’ by Internet services providers. ‘Zero rating’ refers to the practice of ISPs offeri…*
+      - *Airmeet, a startup that offers a platform to host virtual events, said on Tuesday it has raised $12 million in a new financing round as the Bangalore-headquartered firm demonstrates accelerating growth in its user base. Sequoia Capital India led the $12 milli…*
       
-  - IBM publishes its quantum roadmap, says it will have a 1,000-qubit machine in 2023
+  - Austin-based EmPath's employee training and re-skilling service snags seed funding from B Capital
       <hr/>
       
-      - *IBM today, for the first time, published its road map for the future of its quantum computing hardware. There is a lot to digest here, but the most important news in the short term is that the company believes it is on its way to building a quantum processor …*
+      - *By the time Felix Ortiz III left the Army in 2006, the Brooklyn, NY native had spent time taking classes at the City University of New York and St. John’s. Those experiences led him to found ViridisLearning, which aimed to give universities a better way to tr…*
       
-  - Spotawheel raises €10M debt and equity for its 'end-to-end' used car buying platform
+  - Uber wants to help its drivers and delivery workers register to vote
       <hr/>
       
-      - *Spotawheel, the “end-to-end” digital platform for buying a used car in Poland and Greece, has raised €10 million in debt and equity funding, as it sees a bounce-back from the slowdown witnessed as the coronavirus crisis took hold. Once again the new investmen…*
+      - *With the 2020 general election coming up in November, Uber has partnered with TurboVote to launch an in-app feature designed to help riders, eaters, drivers and delivery workers register to vote. This comes after Uber CEO Dara Khosrowshahi in August said the …*
        
-  - Indian decacorn Byju's CEO talks about future acquisitions, coronavirus, and international expansion
+  - Facebook announces $4.3 million grant for small businesses in India, introduces support for gift cards
       <hr/>
        
-       - *Since India enforced a lockdown across the country in late March, shutting schools and other public places, Bangalore-headquartered startup Byju’s has emerged as one of the quintessential platforms for school-going students in the world’s second largest inter…*
+       - *More than a third of small and medium-sized businesses on Facebook in India expect cash flow to be a challenge for them as they navigate through the coronavirus pandemic in the next few months, according to a report by Organisation for Economic Co-operation a…*
       
 
 
