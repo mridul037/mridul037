@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Wayne Ratliff
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is a little bit like the army. Now that I'm out, it's neat to have h
 
 </pre>
 **Daily News**
-  - Replace legacy healthcare staffing with a vertical marketplace for workers
+  - The Chainsmokers just closed their debut venture fund, Mantis, with $35 million
      <hr/>
      
-      - *Let’s galvanize the collective distress COVID-19 has created and use it to pioneer a more efficient model for all.*
+      - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
      
+  - Here's everything Apple revealed at its September hardware event today
+      <hr/>
+      
+      - *iPads, Apple Watches, iOS 14 — and more.*
+      
+  - Triller aims for TikTok with additions of influencers like Charli D'Amelio and Addison Rae
+      <hr/>
+      
+      - *Triller had been poised to benefit from a potential TikTok ban in the U.S. Though that may not happen now, given the apparent Oracle deal, the chaos around TikTok has increased the attention given to alternative apps such as Triller. As TikTok users sought ou…*
+      
+  - Replace legacy healthcare staffing with a vertical marketplace for workers
+      <hr/>
+      
+      - *Let’s galvanize the collective distress COVID-19 has created and use it to pioneer a more efficient model for all.*
+       
   - Vibe introduces a remote collaboration solution that works with your favorite apps
       <hr/>
-      
-      - *A startup called Vibe, launching today at TechCrunch Disrupt Startup Battlefield, wants to make it easier for businesses to collaborate remotely. Its system, which combines a large interactive digital whiteboard and cloud service, allows users to host remote …*
-      
-  - HacWare wants you to hate email security a little less
-      <hr/>
-      
-      - *This security startup wants email security awareness to change.*
-      
-  - Amazon-backed Indian insurtech startup Acko raises $60 million
-      <hr/>
-      
-      - *A young Indian startup that is taking on the country’s antiquated insurance industry with a digital-first product — and which has already received backing from global giant Amazon — today announced a new financing round. Bangalore-based Acko said on Tuesday i…*
        
-  - The fitness market doesn't seem too scared by Apple Fitness+
-      <hr/>
-       
-       - *Usually, Apple making a grand entrance to an entrenched market would spell doom for the players there, but when it comes to Apple’s latest digital workout service, it doesn’t look like investors are worried about Fitness+ killing the momentum. Part of that ma…*
+       - *A startup called Vibe, launching today at TechCrunch Disrupt Startup Battlefield, wants to make it easier for businesses to collaborate remotely. Its system, which combines a large interactive digital whiteboard and cloud service, allows users to host remote …*
       
 
 
