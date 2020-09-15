@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 
-~ Marijn Haverbeke
+~ Tony Parisi (software developer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Size almost always involves complexity, and complexity confuses programmers. Con
 
 </pre>
 **Daily News**
-  - Indian decacorn Byju's CEO talks about future acquisitions, coronavirus, and international expansion
+  - Facebook announces $4.3 million grant for small businesses in India, introduces support for gift cards
      <hr/>
      
-      - *Since India enforced a lockdown across the country in late March, shutting schools and other public places, Bangalore-headquartered startup Byju’s has emerged as one of the quintessential platforms for school-going students in the world’s second largest inter…*
+      - *More than a third of small and medium-sized businesses on Facebook in India expect cash flow to be a challenge for them as they navigate through the coronavirus pandemic in the next few months, according to a report by Organisation for Economic Co-operation a…*
      
-  - Klarna raises $650 million at a $10.6 billion valuation
+  - Europe's top court says net neutrality rules bar 'zero rating'
       <hr/>
       
-      - *Fintech startup Klarna has raised a mega-round of funding led by Silver Lake. The company is raising $650 million at a post-money valuation of $10.65 billion. Klarna says it is now the highest-valued private fintech company in Europe following today’s funding…*
+      - *The European Union’s top court has handed down its first decision on the bloc’s net neutrality rules — interpreting the law as precluding the use of commercial ‘zero rating’ by Internet services providers. ‘Zero rating’ refers to the practice of ISPs offeri…*
       
-  - Bank-as-a-service startup Swan helps other companies issue cards, accounts and IBANs
+  - IBM publishes its quantum roadmap, says it will have a 1,000-qubit machine in 2023
       <hr/>
       
-      - *Meet Swan, a new French startup that wants to let other companies offer financial services by issuing cards, bank accounts and IBANs with just a few lines of codes. The company could be considered as a bank-as-a-service platform, like Treezor or solarisBank. …*
+      - *IBM today, for the first time, published its road map for the future of its quantum computing hardware. There is a lot to digest here, but the most important news in the short term is that the company believes it is on its way to building a quantum processor …*
       
-  - Watch Apple’s hardware event live right here
+  - Spotawheel raises €10M debt and equity for its 'end-to-end' used car buying platform
       <hr/>
       
-      - *Apple is holding a keynote today to unveil some new products. This time, the company is switching to a virtual event, which means that you’ll be able to watch the event as the company is streaming it live. The event starts at 10 a.m. PDT (1 p.m. in New York, …*
+      - *Spotawheel, the “end-to-end” digital platform for buying a used car in Poland and Greece, has raised €10 million in debt and equity funding, as it sees a bounce-back from the slowdown witnessed as the coronavirus crisis took hold. Once again the new investmen…*
        
-  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
+  - Indian decacorn Byju's CEO talks about future acquisitions, coronavirus, and international expansion
       <hr/>
        
-       - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
+       - *Since India enforced a lockdown across the country in late March, shutting schools and other public places, Bangalore-headquartered startup Byju’s has emerged as one of the quintessential platforms for school-going students in the world’s second largest inter…*
       
 
 
