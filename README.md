@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Linus Torvalds
+~ Rick Osborne
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
 
 </pre>
 **Daily News**
-  - Watch the first official trailer for The Mandalorian Season 2, premiering October 30 on Disney+
+  - European Space Agency awards $153 million contract for its first planetary defense mission
      <hr/>
      
-      - *Disney has released the first trailer for the second season of The Mandalorian, and it actually provides a lot of plot detail via voice over of a conversation behind main character Mando and someone directing him as to what he should do with The Child (aka Ba…*
+      - *The European Space Agency (ESA) is doing its part to help protect the Earth from any errant asteroids that may threaten terrestrial life, awarding a €129.4 million ($153 million) contract to an industry consortium led by German space company OHB. The contract…*
      
-  - Long-range delivery drone maker Volansi raises $50M
+  - Black Tech Pipeline proves the 'pipeline problem' isn't real
       <hr/>
       
-      - *Robotics generally have seen an increase in interest during the pandemic, so it makes perfect sense that investors are taking a closer look at autonomous drone delivery. That’s good news for Volansi, which just announced a $50 million Series B. The round, led…*
+      - *The tech industry has become known as a place that is predominantly white and male. Contrary to the misguided popular belief, it’s not a pipeline problem as much as it’s a retention problem. Black Tech Pipeline, aims to debunk that myth and help support Black…*
       
-  - CBS All Access to rebrand to Paramount+, expand internationally in 2021
+  - ZenHub's new automation tools improve developer hand-offs in GitHub
       <hr/>
       
-      - *Viacom-owned streaming service CBS All Access is becoming Paramount+, the company announced this morning. The name change, which will take place next year, aims to better reflect the expanded content lineup that has joined the service following the Viacom-CBS…*
+      - *ZenHub, the popular project management solution for GitHub users, today announced the launch of its new features for automating hand-offs between teams. The idea behind Automated Workflows, as it is called, is to remove some of the manual busywork of updating…*
       
-  - Here's what’s on tap for day two of Disrupt 2020
+  - Kleiner prints gold with Desktop Metal, netting a roughly 10x return
       <hr/>
       
-      - *Who needs caffeine after day one of Disrupt 2020? Don’t know about you, but we’re flying high on entrepreneurial euphoria. Are you buckled in and ready to take on day two? Let’s look at just some of the events of the day. You’ve got your work — and fun — cut …*
+      - *Desktop Metal is one of the most interesting startups to come out of Boston in some time, with a technology designed to “print metal.” That’s a potentially huge expansion for the 3D printing market, where flexible polymers are the norm, a material that limits…*
        
-  - Brazil's banks try to outflank challengers by investing in a $15 million round for Quanto
+  - Watch the first official trailer for The Mandalorian Season 2, premiering October 30 on Disney+
       <hr/>
        
-       - *Trying to outflank competition from neo banks and other potential challengers, two of Brazil’s largest financial services institutions, Bradesco and Itaú Unibanco, have invested in Quanto, a company developing technology to let retailers and other businesses …*
+       - *Disney has released the first trailer for the second season of The Mandalorian, and it actually provides a lot of plot detail via voice over of a conversation behind main character Mando and someone directing him as to what he should do with The Child (aka Ba…*
       
 
 
