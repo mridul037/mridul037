@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
 
-~ Harlan Mills
+~ Richard Moore (engineer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 
 </pre>
 **Daily News**
-  - Roelof Botha shares what Sequoia's Black Swan memo got wrong
+  - Twitter flags Indian politician's years-old tweet for violating its policy
      <hr/>
      
-      - *In March, famed investment firm Sequoia Capital published the Black Swan Memo, warning founders about the potential business consequences of the coronavirus, which had not yet been labeled a pandemic. “It will take considerable time — perhaps several quarters…*
+      - *Twitter has flagged a post from Indian politician T. Raja Singh for violating its policy days after TechCrunch asked the social giant about the three-year-old questionable tweet. In a video tweet, Singh urged India’s Defence Minister Rajnath Singh and others …*
      
-  - In 2020, Warsaw's startup ecosystem is 'a place to observe carefully'
+  - Dropbox CEO Drew Houston says the pandemic forced the company to reevaluate what work means
       <hr/>
       
-      - *If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list. These VCs said they are seek…*
+      - *Dropbox CEO and co-founder Drew Houston, appearing at TechCrunch Disrupt today, said that COVID has accelerated a shift to distributed work that we have been talking about for some time, and these new ways of working will not simply go away when the pandemic …*
       
-  - LanzaTech eyes two more spinoff companies
+  - Daily Crunch: Apple announces new iPads and Apple Watches
       <hr/>
       
-      - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
+      - *Apple unveils new hardware and new subscriptions, Spotify adds virtual event listings and Opendoor is going public via SPAC. This is your Daily Crunch for September 15, 2020. The big story: Apple announces new iPads and Apple Watches Apple had a big hardware …*
       
-  - Spotify adds virtual event listings to its app
+  - Fiverr Business helps teams manage freelance projects
       <hr/>
       
-      - *Spotify is embracing virtual events. The company today announced the addition of virtual event listings in the Spotify app, which will allow music fans to see when their favorite artists will be playing live — even if only via a livestream. These listings wil…*
+      - *Freelance marketplace Fiverr launched a new service today designed to help teams at larger companies manage their work with freelancers. CEO Micha Kaufman told me via email that Fiverr had already begun working with larger clients, but that Fiverr Business is…*
        
-  - Incredible Health updates its healthcare career platform to help nurse hiring cope with COVID
+  - Messenger VP details use of forwarding limits and fact-checking to fight misinformation
       <hr/>
        
-       - *The healthcare industry, even prior to the current pandemic, has never looked much like other industries when it comes to hiring and career management. That was the impetus behind Incredible Health, a startup founded by medical doctor Iman Abuzeid and Amazon …*
+       - *A few weeks ago, Facebook Messenger introduced new rules around message forwarding to limit the spread of misinformation on its platform. Speaking today at TechCrunch Disrupt 2020, Facebook Messenger VP Stan Chudnovsky offered more detail about how Facebook v…*
       
 
 
