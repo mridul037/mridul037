@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Martin Fowler
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Often designers do complicated things that improve the capacity on a particular 
 
 </pre>
 **Daily News**
-  - Building a white label tool for telemedicine services nabs OnCall Health $6 million
+  - Watch the first official trailer for The Mandalorian Season 2, premiering October 30 on Disney+
      <hr/>
      
-      - *As medical providers across the world turn to digital delivery of consultations and services, OnCall Health a Toronto-based provider of back-end services for telemedicine is having a moment. The company, which competes with services like Truepill to offer phy…*
+      - *Disney has released the first trailer for the second season of The Mandalorian, and it actually provides a lot of plot detail via voice over of a conversation behind main character Mando and someone directing him as to what he should do with The Child (aka Ba…*
      
-  - Opendoor to go public by way of Chamath Palihapitiya SPAC
+  - Long-range delivery drone maker Volansi raises $50M
       <hr/>
       
-      - *Today, Social Capital Hedosophia II, the blank-check company associated with investor Chamath Palihapitiya, announced that it will merge with Opendoor, taking the private real estate startup public in the process. The transaction comes during a wave of market…*
+      - *Robotics generally have seen an increase in interest during the pandemic, so it makes perfect sense that investors are taking a closer look at autonomous drone delivery. That’s good news for Volansi, which just announced a $50 million Series B. The round, led…*
       
-  - Dynetics has built a full-scale test version of its lunar human lander for NASA
+  - CBS All Access to rebrand to Paramount+, expand internationally in 2021
       <hr/>
       
-      - *One of the three companies chosen by NASA to create a Human Landing System (HLS) for NASA has completed a key step by building a full-scale test article of its lander for its team and NASA to evaluate and review. The Dynetics HLS is roughly the size of the Ap…*
+      - *Viacom-owned streaming service CBS All Access is becoming Paramount+, the company announced this morning. The name change, which will take place next year, aims to better reflect the expanded content lineup that has joined the service following the Viacom-CBS…*
       
-  - Brightseed raises $27 million for phytonutrient identification tech used in food and nutraceuticals
+  - Here's what’s on tap for day two of Disrupt 2020
       <hr/>
       
-      - *Brightseed, the company launched by former Hampton Creek head of research and development, Jim Flatt, to identify the presence of specific nutrients in plants that are believed to boost human health, has raised $27 million in its latest round of funding, the …*
+      - *Who needs caffeine after day one of Disrupt 2020? Don’t know about you, but we’re flying high on entrepreneurial euphoria. Are you buckled in and ready to take on day two? Let’s look at just some of the events of the day. You’ve got your work — and fun — cut …*
        
-  - Formlabs announces a large-format medical and dental 3D printer
+  - Brazil's banks try to outflank challengers by investing in a $15 million round for Quanto
       <hr/>
        
-       - *Formlabs was one of a few desktop 3D printing companies to weather the massive tech bubble a few years back. The Somerville, Massachusetts-based company set itself apart by bringing advanced industrial 3D-printing technologies to the consumer space. In recent…*
+       - *Trying to outflank competition from neo banks and other potential challengers, two of Brazil’s largest financial services institutions, Bradesco and Itaú Unibanco, have invested in Quanto, a company developing technology to let retailers and other businesses …*
       
 
 
