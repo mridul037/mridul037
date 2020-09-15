@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Fred Brooks
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Very good professional programmers are ten times as productive as poor ones, at 
 
 </pre>
 **Daily News**
-  - LanzaTech eyes two more spinoff companies
+  - Roelof Botha shares what Sequoia's Black Swan memo got wrong
      <hr/>
      
-      - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
+      - *In March, famed investment firm Sequoia Capital published the Black Swan Memo, warning founders about the potential business consequences of the coronavirus, which had not yet been labeled a pandemic. “It will take considerable time — perhaps several quarters…*
      
+  - In 2020, Warsaw's startup ecosystem is 'a place to observe carefully'
+      <hr/>
+      
+      - *If you listed the trends that have captured the attention of 20 Warsaw-focused investors who replied to our recent surveys, automation/AI, enterprise SaaS, cleantech, health, remote work and the sharing economy would top the list. These VCs said they are seek…*
+      
+  - LanzaTech eyes two more spinoff companies
+      <hr/>
+      
+      - *Just three months after LanzaTech announced a spinout aimed at selling sustainable aviation fuel, the company is already preparing for two more. LanzaTech CEO Jennifer Holmgren said Tuesday on the Disrupt 2020 virtual stage that the carbon capture technology …*
+      
   - Spotify adds virtual event listings to its app
       <hr/>
       
       - *Spotify is embracing virtual events. The company today announced the addition of virtual event listings in the Spotify app, which will allow music fans to see when their favorite artists will be playing live — even if only via a livestream. These listings wil…*
-      
+       
   - Incredible Health updates its healthcare career platform to help nurse hiring cope with COVID
       <hr/>
-      
-      - *The healthcare industry, even prior to the current pandemic, has never looked much like other industries when it comes to hiring and career management. That was the impetus behind Incredible Health, a startup founded by medical doctor Iman Abuzeid and Amazon …*
-      
-  - The Chainsmokers just closed their debut venture fund, Mantis, with $35 million
-      <hr/>
-      
-      - *Alex Pall and Drew Taggart are best known as The Chainsmokers, an electronic DJ and production duo whose first three albums have given rise to numerous Billboard chart-topping songs, four Grammy nominations, and one Grammy award, for the song “Don’t Let Me Do…*
        
-  - Here's everything Apple revealed at its September hardware event today
-      <hr/>
-       
-       - *iPads, Apple Watches, iOS 14 — and more.*
+       - *The healthcare industry, even prior to the current pandemic, has never looked much like other industries when it comes to hiring and career management. That was the impetus behind Incredible Health, a startup founded by medical doctor Iman Abuzeid and Amazon …*
       
 
 
