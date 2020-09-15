@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Jamie Zawinski
+~ Gary Kildall
 <pre>
 
 </pre>
