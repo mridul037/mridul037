@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
-~ John Warnock
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ As with most projects, the last two percent takes fifty percent of the time.
 
 </pre>
 **Daily News**
-  - LanzaTech is developing a small-scale waste biomass gasifier for ethanol production in India
+  - Apple's new 'Family Setup' aims to make Apple Watch a kid tracker
      <hr/>
      
-      - *As part of the continuing global rollout of LanzaTech’s technology to capture carbon dioxide emissions and turn those emissions into fuel and chemicals, the company is rolling out a new small-scale waste biomass gasifier in India. The new gasifier, which was …*
+      - *Apple today announced a new feature that will allow families to stay better connected, even if some members of the family don’t have an iPhone. The company introduced a new feature called Family Setup that allows a parent to pair their iPhone with a child’s A…*
      
-  - Google launches new AI-powered meeting room hardware
+  - SoloSuit launches a web app to to help US users respond to debt lawsuits
       <hr/>
       
-      - *Google today announced the Google Meet Series One, a new video conferencing hardware suite for meeting rooms. Built in collaboration with Lenovo, the Series One uses high-end cameras and microphones and then marries them with Google’s AI smarts thanks to usin…*
+      - *Online service SoloSuit wants to help Americans who are being sued for a debt fight back using automated tools. The company, which is launching its service nationwide today at TechCrunch Disrupt Startup Battlefield, guides users through preparing a response t…*
       
-  - Waze gets smarter with trip suggestions, lane guidance, traffic notifications and more
+  - Apple One bundles iCloud, Music, TV+, Arcade,  News+ and Fitness+ for $30 a month
       <hr/>
       
-      - *Google-owned navigation app Waze is gaining a number of new product features as well as a partnership with Amazon Music, the company announced at its first major virtual event, Waze On. Among the changes, Waze is gaining personalized recommendations based on …*
+      - *Seems everything charges a monthly fee, these days. It also seems that every Apple event brings another way to fork over $10 a month to the company. This time out, it was the addition of Fitness+, which brings metric-focused video workouts to an Apple TV near…*
       
-  - European Space Agency awards $153 million contract for its first planetary defense mission
+  - Apple introduces the Apple Watch SE, a cheaper Apple Watch
       <hr/>
       
-      - *The European Space Agency (ESA) is doing its part to help protect the Earth from any errant asteroids that may threaten terrestrial life, awarding a €129.4 million ($153 million) contract to an industry consortium led by German space company OHB. The contract…*
+      - *In addition to keeping old generation devices at an entry-level price, Apple is introducing a brand new Apple Watch at a cheaper price point. The new Apple Watch SE features the same design as the newly announced Apple Watch Series 6. But it costs $279. “The …*
        
-  - Black Tech Pipeline proves the 'pipeline problem' isn't real
+  - Apple Watch Series 6 will measure blood oxygen levels
       <hr/>
        
-       - *The tech industry has become known as a place that is predominantly white and male. Contrary to the misguided popular belief, it’s not a pipeline problem as much as it’s a retention problem. Black Tech Pipeline, aims to debunk that myth and help support Black…*
+       - *Apple’s new Series 6 watch has some exciting new health features. Thanks to a new health sensor, the Apple Watch Series 6 is able to measure your blood oxygen levels in 15 seconds. The watch will also record background measurements while you sleep. Your blood…*
       
 
 
