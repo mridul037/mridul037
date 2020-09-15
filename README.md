@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+Never trust a computer you can’t throw out a window.
 
-~ Gary Kildall
+~ Steve Wozniak
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When a program is clean and neat, nicely structured, and consistent, it can be b
 
 </pre>
 **Daily News**
-  - Carbon Health and Color founders see power in bringing healthcare to the edge
+  - Homage announces strategic partnership with Infocom, one of Japan's largest healthcare IT providers
      <hr/>
      
-      - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
+      - *Homage, a Singapore-based caregiving and telehealth company, has taken a major step in its global expansion plan. The startup announced today that it has received strategic investment from Infocom, the Japanese information and communications technology compan…*
      
+  - Facebook launches a climate change information center and commits to eliminating 'scope 3' emissions by 2030
+      <hr/>
+      
+      - *Even as Facebook, the world’s largest social media platform, admits that climate change “is real” and that “the science is unambiguous and the need to act grows more urgent by the day” the platform appears unwilling to take steps to really stand up to the cli…*
+      
+  - Indian e-commerce deals site CashKaro gets $10 million Series B led by Korea Investment Partners
+      <hr/>
+      
+      - *CashKaro, one of the leading cashback and coupon sites in India, will expand its range of services for e-commerce after raising $10 million in Series B funding, the New Delhi-based startup announced today. The round was led by Korea Investment Partners, with …*
+      
+  - Carbon Health and Color founders see power in bringing healthcare to the edge
+      <hr/>
+      
+      - *When COVID-19 spread to the United States, the pandemic exposed two conflicting realities: a healthcare system that excels at high-cost, complex treatments, while failing to provide sufficient access at the local level. That lack of access to public health in…*
+       
   - N95 masks could soon be rechargeable instead of disposable
       <hr/>
-      
-      - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
-      
-  - SEC to investigate short seller's claims against Nikola, report says
-      <hr/>
-      
-      - *The U.S. Securities and Exchange Commission is reportedly looking into claims that Nikola Corp. is involved in an alleged “intricate fraud,” the latest development in a controversy that erupted last week just days after GM took an 11% stake in the newly publi…*
-      
-  - Airtable's Howie Liu has no interest in exiting, even as the company's valuation soars
-      <hr/>
-      
-      - *In the middle of a pandemic, Airtable, the low-code startup, has actually had an excellent year. Just the other day, the company announced it had raised $185 million on a whopping $2.585 billion valuation. It also announced some new features that take it from…*
        
-  - The Black List's Franklin Leonard on why picking winners doesn't mean making losers
-      <hr/>
-       
-       - *Tech and Hollywood don’t cross-pollinate that often, but when it comes to Franklin Leonard’s way of looking at things, maybe they should. Leonard is best known as the creator of the Black List, a curated collection of the most underrated screenplays of the ye…*
+       - *The pandemic has led to N95 masks quickly becoming one of the world’s most sought-after resources as essential workers burned through billions of them. New research could lead to an N95 that you can recharge rather than throw away — or even one that continuou…*
       
 
 
