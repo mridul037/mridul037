@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Daniel T. Barry
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Reliable computations are obtainable from buggy programs, which after all, are t
 
 </pre>
 **Daily News**
-  - Sony's PlayStation 5 arrives November 12, priced at $500
+  - Daphne Koller: 'Digital biology is an incredible place to be right now'
      <hr/>
      
-      - *If in-person events were still a thing in 2020, there’s a pretty good chance we’d know a lot more about the PlayStation 5 by now. With tech companies setting their own event schedules, however, Sony and Microsoft have offered themselves a more leisurely sched…*
+      - *Working at the intersection of biology and computing may be the most exciting new spot for technologists at the moment. That’s the word from Daphne Koller, the founder and chief executive officer of Insitro — the biotech company that’s raised over $243 millio…*
      
+  - Sony's PlayStation 5 arrives November 12, priced at $500
+      <hr/>
+      
+      - *If in-person events were still a thing in 2020, there’s a pretty good chance we’d know a lot more about the PlayStation 5 by now. With tech companies setting their own event schedules, however, Sony and Microsoft have offered themselves a more leisurely sched…*
+      
   - Kerry Washington explains why she became a startup investor
       <hr/>
       
@@ -81,16 +86,11 @@ Reliable computations are obtainable from buggy programs, which after all, are t
       <hr/>
       
       - *Despite the surprise release of iOS 14 that left app developers unprepared, an ambitious few have managed to push their way through — or even pull an all-nighter — in order to make their apps available with iOS 14 support on launch day. For the first time in …*
-      
+       
   - JupiterOne raises $19M Series A to automate cyber asset management
       <hr/>
-      
-      - *Asset management might not be the most exciting talking topic, but it’s often an overlooked area of cyber-defenses. By knowing exactly what assets your company has makes it easier to know where the security weak spots are. That’s the problem JupiterOne is try…*
        
-  - Dear Sophie: How can I get my 2-year foreign residency requirement for my J-1 waived?
-      <hr/>
-       
-       - *My husband started his own company here on his J-2 visa work permit, and our daughter was born here, but we’re supposed to return to Italy for two years. How can we get a 212(e) waiver?*
+       - *Asset management might not be the most exciting talking topic, but it’s often an overlooked area of cyber-defenses. By knowing exactly what assets your company has makes it easier to know where the security weak spots are. That’s the problem JupiterOne is try…*
       
 
 
