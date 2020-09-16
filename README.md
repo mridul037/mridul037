@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 
-~ George Boole
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ That language is an instrument of human reason, and not merely a medium for the 
 
 </pre>
 **Daily News**
-  - Facebook wants to turn the Quest into a fitness device
+  - The Quest is getting its own Fortnite ripoff
      <hr/>
      
-      - *Facebook is adding a fitness tracker, Oculus Move, to its sweet suite of software for its latest version of the Quest. Announced today as part of the Facebook Connect event outlining the company’s augmented reality and virtual reality plans for the future, th…*
+      - *Fortnite may not be available in VR (or on iOS), but Quest users will soon be getting their own Fortnite clone for virtual reality. Nearly two years after its funding and initial launch announcement, BigBox VR is finally ready to roll out its battle royale ga…*
      
-  - Facebook is launching 'Project Aria' AR glasses in 2021
+  - Kiri is a screen-free smart toy meant to help kids learn languages and more
       <hr/>
       
-      - *At Facebook’s first big event since moving away from the Oculus brand and rebranding its AR and VR efforts as “Facebook Reality Labs,” the company kicked off with some big news. At the fittingly virtual event, Facebook’s Mark Zuckerberg announced that not onl…*
+      - *After six months of sheltering in place (and now weeks of hiding from wildfire smoke) alongside a toddler who never seems to run out of energy, I’m the last person who would try to make anyone feel bad for giving their kid some screen time. But if a company w…*
       
-  - Jefa is a challenger bank for women without a bank account
+  - Alexa’s new celebrity wake words ‘Hey Samuel,’ turns the assistant into Samuel L. Jackson
       <hr/>
       
-      - *Meet Jefa, a startup that is building a challenger bank specifically designed for women in Latin America. The company is building a product that focuses on solving the problems that women face when opening a bank account and managing it. It is participating i…*
+      - *Alexa just read me Monday’s baseball scores. It was great for two reasons. First, the A’s shut out the Mariners 9-0 in the second game of a doubleheader. And second, she did so in Samuel L. Jackson’s voice. With Amazon based in Seattle, I assume they’re happy…*
       
-  - Facebook is officially killing off the Oculus Rift line
+  - Making sense of 3 edtech extension rounds
       <hr/>
       
-      - *Facebook is officially killing off the Rift. The company showed off its latest headset at its newly renamed Facebook Connect online event today, but they also revealed that they would be ending sales of the PC-based Oculus Rift S early next year. Facebook wil…*
+      - *While venture capitalists are pouring funding into edtech startups, the surge of interest isn’t coming without pressure. Edtech companies are searching for new ways to tap into a booming market. As Course Hero co-founder Andrew Graeur put it, the goal for his…*
        
-  - Review: Facebook's Oculus Quest 2 is outstanding
+  - Luther.AI is a new AI tool that acts like Google for personal conversations
       <hr/>
        
-       - *Facebook’s virtual reality dreams have been a headache for the company. At CEO Mark Zuckerberg’s prodding, the company has spent billions on Oculus and dealt with huge added complexities to their business, while encountering countless issues regarding the com…*
+       - *When it comes to pop culture, a company executive or history questions, most of us use Google as a memory crutch to recall information we can’t always keep in our heads, but Google can’t help you remember the name of your client’s spouse or the great idea you…*
       
 
 
