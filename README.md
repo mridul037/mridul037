@@ -23,9 +23,11 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 
-~ Ken Thompson
+~ Michael A. Jackson
 <pre>
 
 </pre>
@@ -67,30 +69,30 @@ When in doubt, use brute force.
 
 </pre>
 **Daily News**
-  - The cryptocurrency moment
+  - Go public now while software valuations make no sense, Part II
      <hr/>
      
-      - *It’s never too early to start designing a better, more reliable and fairer system for it to be ready for the next election—or the next big crisis.*
+      - *On August 5th, TechCrunch wrote that startups should “go public while software valuations make no sense.” What came next was a happy coincidence. Just a few weeks after that post, Unity, JFrog, Asana, Snowflake and Sumo Logic all filed to go public. Today we’…*
      
-  - GoPro’s Hero 9 Black arrives with a bigger battery and front-facing screen
+  - Delivery Hero picks up Glovo's LatAm ops for $272M in latest food delivery consolidation
       <hr/>
       
-      - *After leaking like crazy, the GoPro Hero 9 Black arrives today, bringing with it a handful of features aimed at keeping the company on the bleeding edge of the action camera category. GoPro has, of course, experienced a good deal of competition in the categor…*
+      - *More consolidation in the thin-margin food delivery space: Delivery Hero has announced it’s buying the LatinAm operations of Glovo, a Spanish on-demand delivery app. The German company said today that it’s paying up to €230 million to take over eight markets,…*
       
-  - Justice Dept. charges five Chinese hackers over attacks on U.S. companies
+  - Kbox picks up £12M additional funding to let underused commercial kitchens do takeout for delivery
       <hr/>
       
-      - *The five alleged hackers are accused of working for APT41.*
+      - *Kbox Global, the U.K. startup that turns underused commercial kitchen space into takeout delivery hubs — therefore helping existing kitchens generate much-needed revenue — has raised £12 million in new funding. The round is led by Balderton Capital, and follo…*
       
-  - Apple burns developer goodwill with surprise release of iOS 14
+  - Amazon Music adds podcasts, including its own original shows
       <hr/>
       
-      - *Apple’s developer relations have hit another sour note. At the company’s hardware event on Tuesday, where it announced new Apple Watch devices and iPads, Apple surprised developers with the news that it would be releasing the updated versions of its major sof…*
+      - *Amazon Music is the latest streaming service to embrace podcasts. The company announced this morning it’s launching support for podcasts in the U.S., U.K., Germany and Japan on Amazon Music at no additional cost, and is rolling out its own original programmin…*
        
-  - Atlassian launches a $50M venture fund to invest in its ecosystem
+  - How to get the most branding bang out of your B2B IPO
       <hr/>
        
-       - *Atlassian today announced the launch of Atlassian Ventures, a new $50 million fund that will invest into startups — and even more established companies — that are building products in the overall Atlassian ecosystem. “As more and more customers transition to …*
+       - *With careful planning and preparation — and plenty of help from your legal team — your brand will come out an IPO stronger than before and ready to evolve as your company moves into its next chapter of growth.*
       
 
 
