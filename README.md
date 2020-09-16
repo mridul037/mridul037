@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Elon Musk
+~ Henry Ford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ With artificial intelligence we are summoning the demon.
 
 </pre>
 **Daily News**
-  - Crista Galli Ventures outs 'evergreen' fund to back European healthtech startups at seed and Series A
+  - China tops 110 million 5G users in less than a year
      <hr/>
      
-      - *Crista Galli Ventures, an early-stage healthtech fund in Europe, is officially launching today. The firm offers “patient capital” — with only a single LP (the Danish family office IPQ Capital) — and promises to provide portfolio companies with deep healthcare…*
+      - *Over 110 million users in China have signed up for 5G plans, announced president of the China Academy for Information and Communications Technology (CAICT), a think tank under the telecoms watchdog Ministry of Industry and Information Technology, at an indust…*
      
+  - Homage’s Gillian Tee on how technology can serve the world’s aging population
+      <hr/>
+      
+      - *It’s always a pleasure to chat with Homage co-founder and chief executive Gillian Tee because of her nuanced take on how technology can help elderly and other vulnerable people.  According to the United Nations, people 65-years-old and over is the fastest-gro…*
+      
+  - Crista Galli Ventures outs 'evergreen' fund to back European healthtech startups at seed and Series A
+      <hr/>
+      
+      - *Crista Galli Ventures, an early-stage healthtech fund in Europe, is officially launching today. The firm offers “patient capital” — with only a single LP (the Danish family office IPQ Capital) — and promises to provide portfolio companies with deep healthcare…*
+      
   - Twitter flags Indian politician's years-old tweet for violating its policy
       <hr/>
       
       - *Twitter has flagged a post from Indian politician T. Raja Singh for violating its policy days after TechCrunch asked the social giant about the three-year-old questionable tweet. In a video tweet, Singh urged India’s Defence Minister Rajnath Singh and others …*
-      
+       
   - Dropbox CEO Drew Houston says the pandemic forced the company to reevaluate what work means
       <hr/>
-      
-      - *Dropbox CEO and co-founder Drew Houston, appearing at TechCrunch Disrupt today, said that COVID has accelerated a shift to distributed work that we have been talking about for some time, and these new ways of working will not simply go away when the pandemic …*
-      
-  - Daily Crunch: Apple announces new iPads and Apple Watches
-      <hr/>
-      
-      - *Apple unveils new hardware and new subscriptions, Spotify adds virtual event listings and Opendoor is going public via SPAC. This is your Daily Crunch for September 15, 2020. The big story: Apple announces new iPads and Apple Watches Apple had a big hardware …*
        
-  - Fiverr Business helps teams manage freelance projects
-      <hr/>
-       
-       - *Freelance marketplace Fiverr launched a new service today designed to help teams at larger companies manage their work with freelancers. CEO Micha Kaufman told me via email that Fiverr had already begun working with larger clients, but that Fiverr Business is…*
+       - *Dropbox CEO and co-founder Drew Houston, appearing at TechCrunch Disrupt today, said that COVID has accelerated a shift to distributed work that we have been talking about for some time, and these new ways of working will not simply go away when the pandemic …*
       
 
 
