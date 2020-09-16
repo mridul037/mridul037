@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+When in doubt, use brute force.
 
-~ Dan Bricklin
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The most important part of writing a program is designing the data structures.
 
 </pre>
 **Daily News**
-  - Unity raises IPO price range after JFrog, Snowflake target steep debut valuations
+  - The cryptocurrency moment
      <hr/>
      
-      - *On the heels of two IPOs pricing above raised ranges, Unity boosted the value of its own impending debut this morning. The well-known unicorn is currently set to begin trading this Friday, pricing after the bell Thursday. If that happens, the gaming platform …*
+      - *It’s never too early to start designing a better, more reliable and fairer system for it to be ready for the next election—or the next big crisis.*
      
-  - JFrog and Snowflake's aggressive IPO pricing point to strong demand for cloud shares
+  - GoPro’s Hero 9 Black arrives with a bigger battery and front-facing screen
       <hr/>
       
-      - *After raising their IPO price ranges, both JFrog and Snowflake priced above their refreshed intervals last night. At their final IPO prices, the two debuts are aggressively valued, showing continued optimism amongst public investors that cloud shares are an a…*
+      - *After leaking like crazy, the GoPro Hero 9 Black arrives today, bringing with it a handful of features aimed at keeping the company on the bleeding edge of the action camera category. GoPro has, of course, experienced a good deal of competition in the categor…*
       
-  - Volocopter kicks off presales for its first air taxi flights -- with a wait time of 2-3 years
+  - Justice Dept. charges five Chinese hackers over attacks on U.S. companies
       <hr/>
       
-      - *If your sad-faced technology mantra is ‘we were promised flying cars and all we got were these shitty Internet trolls’ never fear, Berlin-based autonomous air mobility startup, Volocopter, wants to revive your sci-fi dreams. It’s just kicked off presales for …*
+      - *The five alleged hackers are accused of working for APT41.*
       
-  - Pure Storage acquires data service platform Portworx for $370M
+  - Apple burns developer goodwill with surprise release of iOS 14
       <hr/>
       
-      - *Pure Storage, the public enterprise data storage company, today announced that it has acquired Portworx, a well-funded startup that provides a cloud-native storage and data-management platform based on Kubernetes, for $370 million in cash. This marks Pure Sto…*
+      - *Apple’s developer relations have hit another sour note. At the company’s hardware event on Tuesday, where it announced new Apple Watch devices and iPads, Apple surprised developers with the news that it would be releasing the updated versions of its major sof…*
        
-  - After lockdowns lead to an e-bike boom, VanMoof raises $40M Series B to expand globally
+  - Atlassian launches a $50M venture fund to invest in its ecosystem
       <hr/>
        
-       - *E-bike startup VanMoof, has raised a $40 million investment from Norwest Venture Partners, Felix Capital and Balderton Capital. The Series B financing comes after a $13.5 million investment in May. The funding brings VanMoof’s total raised to $73 million and …*
+       - *Atlassian today announced the launch of Atlassian Ventures, a new $50 million fund that will invest into startups — and even more established companies — that are building products in the overall Atlassian ecosystem. “As more and more customers transition to …*
       
 
 
