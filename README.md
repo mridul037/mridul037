@@ -23,11 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Michael A. Jackson
+~ George Boole
 <pre>
 
 </pre>
@@ -69,30 +67,30 @@ Two things are known about requirements:
 
 </pre>
 **Daily News**
-  - Go public now while software valuations make no sense, Part II
+  - Facebook wants to turn the Quest into a fitness device
      <hr/>
      
-      - *On August 5th, TechCrunch wrote that startups should “go public while software valuations make no sense.” What came next was a happy coincidence. Just a few weeks after that post, Unity, JFrog, Asana, Snowflake and Sumo Logic all filed to go public. Today we’…*
+      - *Facebook is adding a fitness tracker, Oculus Move, to its sweet suite of software for its latest version of the Quest. Announced today as part of the Facebook Connect event outlining the company’s augmented reality and virtual reality plans for the future, th…*
      
-  - Delivery Hero picks up Glovo's LatAm ops for $272M in latest food delivery consolidation
+  - Facebook is launching 'Project Aria' AR glasses in 2021
       <hr/>
       
-      - *More consolidation in the thin-margin food delivery space: Delivery Hero has announced it’s buying the LatinAm operations of Glovo, a Spanish on-demand delivery app. The German company said today that it’s paying up to €230 million to take over eight markets,…*
+      - *At Facebook’s first big event since moving away from the Oculus brand and rebranding its AR and VR efforts as “Facebook Reality Labs,” the company kicked off with some big news. At the fittingly virtual event, Facebook’s Mark Zuckerberg announced that not onl…*
       
-  - Kbox picks up £12M additional funding to let underused commercial kitchens do takeout for delivery
+  - Jefa is a challenger bank for women without a bank account
       <hr/>
       
-      - *Kbox Global, the U.K. startup that turns underused commercial kitchen space into takeout delivery hubs — therefore helping existing kitchens generate much-needed revenue — has raised £12 million in new funding. The round is led by Balderton Capital, and follo…*
+      - *Meet Jefa, a startup that is building a challenger bank specifically designed for women in Latin America. The company is building a product that focuses on solving the problems that women face when opening a bank account and managing it. It is participating i…*
       
-  - Amazon Music adds podcasts, including its own original shows
+  - Facebook is officially killing off the Oculus Rift line
       <hr/>
       
-      - *Amazon Music is the latest streaming service to embrace podcasts. The company announced this morning it’s launching support for podcasts in the U.S., U.K., Germany and Japan on Amazon Music at no additional cost, and is rolling out its own original programmin…*
+      - *Facebook is officially killing off the Rift. The company showed off its latest headset at its newly renamed Facebook Connect online event today, but they also revealed that they would be ending sales of the PC-based Oculus Rift S early next year. Facebook wil…*
        
-  - How to get the most branding bang out of your B2B IPO
+  - Review: Facebook's Oculus Quest 2 is outstanding
       <hr/>
        
-       - *With careful planning and preparation — and plenty of help from your legal team — your brand will come out an IPO stronger than before and ready to evolve as your company moves into its next chapter of growth.*
+       - *Facebook’s virtual reality dreams have been a headache for the company. At CEO Mark Zuckerberg’s prodding, the company has spent billions on Oculus and dealt with huge added complexities to their business, while encountering countless issues regarding the com…*
       
 
 
