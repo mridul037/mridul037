@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 
-~ Mark Gibbs
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ No matter how slick the demo is in rehearsal, when you do it in front of a live 
 
 </pre>
 **Daily News**
-  - User-generated e-learning site Kahoot acquires Actimo for up to $33M to double down on corporate sector
+  - Balderton's Chandratillake doffs his cap to Clubhouse, says enterprise audio is next
      <hr/>
      
-      - *Norwegian company Kahoot originally made its name with a platform the lets educators and students create and share game-based online learning lessons, in the process building up a huge public catalogue of gamified lessons created by its community. Today the s…*
+      - *Suranga Chandratillake has (almost) seen it all. After being the early CTO for Autonomy, he went on to found the blinkx video search engine in 2004, long before many thought we’d even need one. He scaled the company to San Francisco and the US market, eventua…*
      
+  - Europe will go it alone on digital tax reform in 2021 if it must, says EU president, as bloc directs €150BN in COVID-19 relief toward cloud, AI and broadband
+      <hr/>
+      
+      - *Europe will propose its own digital tax early next year if there’s no agreement at a global level on how to update taxation rules for the Internet age, EU president Ursula von der Leyen said today, reiterating the bloc’s determination not to let tax reform sl…*
+      
+  - Outfunnel picks up €1.1M pre-seed to bridge the gap between marketing and sale
+      <hr/>
+      
+      - *Outfunnel, a startup that has built software to help companies “bridge the gap between marketing and sales functions,” has quietly raised €1.1 million in funding. The pre-seed round was led by Paua Ventures and byFounders, with participation from Lemonade Sta…*
+      
+  - User-generated e-learning site Kahoot acquires Actimo for up to $33M to double down on corporate sector
+      <hr/>
+      
+      - *Norwegian company Kahoot originally made its name with a platform the lets educators and students create and share game-based online learning lessons, in the process building up a huge public catalogue of gamified lessons created by its community. Today the s…*
+       
   - Facebook addresses political controversy in India, monetization opportunities, startup investments
       <hr/>
-      
-      - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
-      
-  - Zwift, maker of a popular indoor training app, just landed a whopping $450 million in funding led by KKR
-      <hr/>
-      
-      - *Zwift, a 350-person, Long Beach, Calif.-based online fitness platform that immerses cyclists and runners in 3D generated worlds, just raised a hefty $450 million in funding led by the investment firm KKR in exchange for a minority stake in its business. Permi…*
-      
-  - Gravity Sketch scores $3.7M seed for its VR-based product design and collaboration platform
-      <hr/>
-      
-      - *Gravity Sketch, the London-based product design and collaboration platform that utilises virtual reality, has raised $3.7 million in funding. The seed round was led by Kindred Capital, with participation from Point Nine Capital and previous investor Forward P…*
        
-  - China tops 110 million 5G users in less than a year
-      <hr/>
-       
-       - *Over 110 million users in China have signed up for 5G plans, announced president of the China Academy for Information and Communications Technology (CAICT), a think tank under the telecoms watchdog Ministry of Industry and Information Technology, at an indust…*
+       - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
       
 
 
