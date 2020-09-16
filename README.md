@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 
-~ Alan Perlis
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Educators, generals, dieticians, psychologists, and parents program. Armies, stu
 
 </pre>
 **Daily News**
-  - Balderton's Chandratillake doffs his cap to Clubhouse, says enterprise audio is next
+  - After lockdowns lead to an e-bike boom, VanMoof raises $40M Series B to expand globally
      <hr/>
      
-      - *Suranga Chandratillake has (almost) seen it all. After being the early CTO for Autonomy, he went on to found the blinkx video search engine in 2004, long before many thought we’d even need one. He scaled the company to San Francisco and the US market, eventua…*
+      - *E-bike startup VanMoof, has raised a $40 million investment from Norwest Venture Partners, Felix Capital and Balderton Capital. The Series B financing comes after a $13.5 million investment in May. The funding brings VanMoof’s total raised to $73 million and …*
      
+  - Cloud gaming platform Shadow gets a new CEO and CTO
+      <hr/>
+      
+      - *There are some changes at the helm of Blade, the French startup behind Shadow. Mike Fischer is going to work for the company and become Chief Executive Officer. Jean-Baptiste Kempf is joining the company as Chief Technology Officer. Shadow is a cloud computin…*
+      
+  - Balderton's Chandratillake doffs his cap to Clubhouse, says enterprise audio is next
+      <hr/>
+      
+      - *Suranga Chandratillake has (almost) seen it all. After being the early CTO for Autonomy, he went on to found the blinkx video search engine in 2004, long before many thought we’d even need one. He scaled the company to San Francisco and the US market, eventua…*
+      
   - Europe will go it alone on digital tax reform in 2021 if it must, says EU president, as bloc directs €150BN in COVID-19 relief toward cloud, AI and broadband
       <hr/>
       
       - *Europe will propose its own digital tax early next year if there’s no agreement at a global level on how to update taxation rules for the Internet age, EU president Ursula von der Leyen said today, reiterating the bloc’s determination not to let tax reform sl…*
-      
+       
   - Outfunnel picks up €1.1M pre-seed to bridge the gap between marketing and sale
       <hr/>
-      
-      - *Outfunnel, a startup that has built software to help companies “bridge the gap between marketing and sales functions,” has quietly raised €1.1 million in funding. The pre-seed round was led by Paua Ventures and byFounders, with participation from Lemonade Sta…*
-      
-  - User-generated e-learning site Kahoot acquires Actimo for up to $33M to double down on corporate sector
-      <hr/>
-      
-      - *Norwegian company Kahoot originally made its name with a platform the lets educators and students create and share game-based online learning lessons, in the process building up a huge public catalogue of gamified lessons created by its community. Today the s…*
        
-  - Facebook addresses political controversy in India, monetization opportunities, startup investments
-      <hr/>
-       
-       - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
+       - *Outfunnel, a startup that has built software to help companies “bridge the gap between marketing and sales functions,” has quietly raised €1.1 million in funding. The pre-seed round was led by Paua Ventures and byFounders, with participation from Lemonade Sta…*
       
 
 
