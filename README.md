@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
