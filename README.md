@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only way to learn a new programming language is by writing programs in it.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ Dennis Ritchie
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The only way to learn a new programming language is by writing programs in it.
 
 </pre>
 **Daily News**
-  - Daphne Koller: 'Digital biology is an incredible place to be right now'
+  - PlayVS is halfway to recruiting every state into its global esports community
      <hr/>
      
-      - *Working at the intersection of biology and computing may be the most exciting new spot for technologists at the moment. That’s the word from Daphne Koller, the founder and chief executive officer of Insitro — the biotech company that’s raised over $243 millio…*
+      - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
      
-  - Sony's PlayStation 5 arrives November 12, priced at $500
+  - Daily Crunch: Facebook unveils the Oculus Quest 2
       <hr/>
       
-      - *If in-person events were still a thing in 2020, there’s a pretty good chance we’d know a lot more about the PlayStation 5 by now. With tech companies setting their own event schedules, however, Sony and Microsoft have offered themselves a more leisurely sched…*
+      - *Facebook makes its next steps in VR, Apple releases iOS 14 and the PlayStation 5 gets a launch date. This is your Daily Crunch for September 16, 2020. The big story: Facebook unveils the Oculus Quest 2 Facebook announced the smaller, more affordable follow-up…*
       
-  - Kerry Washington explains why she became a startup investor
+  - JAWS architect Glen Gordon is joining Sight Tech Global, a virtual event Dec. 2-3
       <hr/>
       
-      - *“Scandal” and “Little Fires Everywhere” star Kerry Washington won her first Emmy Award yesterday, but when she joined us at TechCrunch Disrupt today, she was much more focused on her work as an investor. Washington traced much of her interest in technology to…*
+      - *For people who are blind or visually impaired, JAWS is synonymous with freedom to operate Windows PCs with a remarkable degree of control and precision with output in speech and Braille. The keyboard-driven application makes it possible to navigate GUI-based …*
       
-  - iOS 14 widgets you can try today
+  - Prox helps influencers and experts make money by connecting with fans
       <hr/>
       
-      - *Despite the surprise release of iOS 14 that left app developers unprepared, an ambitious few have managed to push their way through — or even pull an all-nighter — in order to make their apps available with iOS 14 support on launch day. For the first time in …*
+      - *If you’ve got a large online following, as well as knowledge that might be valuable to that audience, Prox is a startup currently in beta testing that’s building tools to help you make money. Michael Mathieu, formerly the CEO of YuMe, joined Prox as CEO in Ja…*
        
-  - JupiterOne raises $19M Series A to automate cyber asset management
+  - Daphne Koller: 'Digital biology is an incredible place to be right now'
       <hr/>
        
-       - *Asset management might not be the most exciting talking topic, but it’s often an overlooked area of cyber-defenses. By knowing exactly what assets your company has makes it easier to know where the security weak spots are. That’s the problem JupiterOne is try…*
+       - *Working at the intersection of biology and computing may be the most exciting new spot for technologists at the moment. That’s the word from Daphne Koller, the founder and chief executive officer of Insitro — the biotech company that’s raised over $243 millio…*
       
 
 
