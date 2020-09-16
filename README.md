@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 
-~ Richard Moore (engineer)
+~ John Warnock
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The difference between theory and practice is that in theory, there is no differ
 
 </pre>
 **Daily News**
-  - Twitter flags Indian politician's years-old tweet for violating its policy
+  - Crista Galli Ventures outs 'evergreen' fund to back European healthtech startups at seed and Series A
      <hr/>
      
-      - *Twitter has flagged a post from Indian politician T. Raja Singh for violating its policy days after TechCrunch asked the social giant about the three-year-old questionable tweet. In a video tweet, Singh urged India’s Defence Minister Rajnath Singh and others …*
+      - *Crista Galli Ventures, an early-stage healthtech fund in Europe, is officially launching today. The firm offers “patient capital” — with only a single LP (the Danish family office IPQ Capital) — and promises to provide portfolio companies with deep healthcare…*
      
+  - Twitter flags Indian politician's years-old tweet for violating its policy
+      <hr/>
+      
+      - *Twitter has flagged a post from Indian politician T. Raja Singh for violating its policy days after TechCrunch asked the social giant about the three-year-old questionable tweet. In a video tweet, Singh urged India’s Defence Minister Rajnath Singh and others …*
+      
   - Dropbox CEO Drew Houston says the pandemic forced the company to reevaluate what work means
       <hr/>
       
@@ -81,16 +86,11 @@ The difference between theory and practice is that in theory, there is no differ
       <hr/>
       
       - *Apple unveils new hardware and new subscriptions, Spotify adds virtual event listings and Opendoor is going public via SPAC. This is your Daily Crunch for September 15, 2020. The big story: Apple announces new iPads and Apple Watches Apple had a big hardware …*
-      
+       
   - Fiverr Business helps teams manage freelance projects
       <hr/>
-      
-      - *Freelance marketplace Fiverr launched a new service today designed to help teams at larger companies manage their work with freelancers. CEO Micha Kaufman told me via email that Fiverr had already begun working with larger clients, but that Fiverr Business is…*
        
-  - Messenger VP details use of forwarding limits and fact-checking to fight misinformation
-      <hr/>
-       
-       - *A few weeks ago, Facebook Messenger introduced new rules around message forwarding to limit the spread of misinformation on its platform. Speaking today at TechCrunch Disrupt 2020, Facebook Messenger VP Stan Chudnovsky offered more detail about how Facebook v…*
+       - *Freelance marketplace Fiverr launched a new service today designed to help teams at larger companies manage their work with freelancers. CEO Micha Kaufman told me via email that Fiverr had already begun working with larger clients, but that Fiverr Business is…*
       
 
 
