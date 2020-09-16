@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Alan Perlis
+~ Marvin Minsky
 <pre>
 
 </pre>
