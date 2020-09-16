@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+Debugging is like being the detective in a crime movie where you are also the murderer.
 
-~ Marvin Minsky
+~ Filipe Fortes
 <pre>
 
 </pre>
