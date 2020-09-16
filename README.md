@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ Henry Ford
+~ Jamie Zawinski
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If we’d asked the customers what they wanted, they would have said “faster h
 
 </pre>
 **Daily News**
-  - China tops 110 million 5G users in less than a year
+  - Facebook addresses political controversy in India, monetization opportunities, startup investments
      <hr/>
      
-      - *Over 110 million users in China have signed up for 5G plans, announced president of the China Academy for Information and Communications Technology (CAICT), a think tank under the telecoms watchdog Ministry of Industry and Information Technology, at an indust…*
+      - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
      
+  - Zwift, maker of a popular indoor training app, just landed a whopping $450 million in funding led by KKR
+      <hr/>
+      
+      - *Zwift, a 350-person, Long Beach, Calif.-based online fitness platform that immerses cyclists and runners in 3D generated worlds, just raised a hefty $450 million in funding led by the investment firm KKR in exchange for a minority stake in its business. Permi…*
+      
+  - Gravity Sketch scores $3.7M seed for its VR-based product design and collaboration platform
+      <hr/>
+      
+      - *Gravity Sketch, the London-based product design and collaboration platform that utilises virtual reality, has raised $3.7 million in funding. The seed round was led by Kindred Capital, with participation from Point Nine Capital and previous investor Forward P…*
+      
+  - China tops 110 million 5G users in less than a year
+      <hr/>
+      
+      - *Over 110 million users in China have signed up for 5G plans, announced president of the China Academy for Information and Communications Technology (CAICT), a think tank under the telecoms watchdog Ministry of Industry and Information Technology, at an indust…*
+       
   - Homage’s Gillian Tee on how technology can serve the world’s aging population
       <hr/>
-      
-      - *It’s always a pleasure to chat with Homage co-founder and chief executive Gillian Tee because of her nuanced take on how technology can help elderly and other vulnerable people.  According to the United Nations, people 65-years-old and over is the fastest-gro…*
-      
-  - Crista Galli Ventures outs 'evergreen' fund to back European healthtech startups at seed and Series A
-      <hr/>
-      
-      - *Crista Galli Ventures, an early-stage healthtech fund in Europe, is officially launching today. The firm offers “patient capital” — with only a single LP (the Danish family office IPQ Capital) — and promises to provide portfolio companies with deep healthcare…*
-      
-  - Twitter flags Indian politician's years-old tweet for violating its policy
-      <hr/>
-      
-      - *Twitter has flagged a post from Indian politician T. Raja Singh for violating its policy days after TechCrunch asked the social giant about the three-year-old questionable tweet. In a video tweet, Singh urged India’s Defence Minister Rajnath Singh and others …*
        
-  - Dropbox CEO Drew Houston says the pandemic forced the company to reevaluate what work means
-      <hr/>
-       
-       - *Dropbox CEO and co-founder Drew Houston, appearing at TechCrunch Disrupt today, said that COVID has accelerated a shift to distributed work that we have been talking about for some time, and these new ways of working will not simply go away when the pandemic …*
+       - *It’s always a pleasure to chat with Homage co-founder and chief executive Gillian Tee because of her nuanced take on how technology can help elderly and other vulnerable people.  According to the United Nations, people 65-years-old and over is the fastest-gro…*
       
 
 
