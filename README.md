@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
-~ Michael Stal
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Sometimes there is a silver bullet for boosting software engineering productivit
 
 </pre>
 **Daily News**
-  - Can't stop won't stop: Social Capital Hedosophia just filed for its fourth SPAC, says new report
+  - Sony's PlayStation 5 arrives November 12, priced at $500
      <hr/>
      
-      - *According to a new report in Bloomberg, Social Capital Hedosophia has filed plans confidentially with the SEC to raise $500 million for its newest blank-check company. It will be the fourth special purpose acquisition company, or SPAC, to be raised by the out…*
+      - *If in-person events were still a thing in 2020, there’s a pretty good chance we’d know a lot more about the PlayStation 5 by now. With tech companies setting their own event schedules, however, Sony and Microsoft have offered themselves a more leisurely sched…*
      
-  - The Quest is getting its own Fortnite ripoff
+  - Kerry Washington explains why she became a startup investor
       <hr/>
       
-      - *Fortnite may not be available in VR (or on iOS), but Quest users will soon be getting their own Fortnite clone for virtual reality. Nearly two years after its funding and initial launch announcement, BigBox VR is finally ready to roll out its battle royale ga…*
+      - *“Scandal” and “Little Fires Everywhere” star Kerry Washington won her first Emmy Award yesterday, but when she joined us at TechCrunch Disrupt today, she was much more focused on her work as an investor. Washington traced much of her interest in technology to…*
       
-  - Kiri is a screen-free smart toy meant to help kids learn languages and more
+  - iOS 14 widgets you can try today
       <hr/>
       
-      - *After six months of sheltering in place (and now weeks of hiding from wildfire smoke) alongside a toddler who never seems to run out of energy, I’m the last person who would try to make anyone feel bad for giving their kid some screen time. But if a company w…*
+      - *Despite the surprise release of iOS 14 that left app developers unprepared, an ambitious few have managed to push their way through — or even pull an all-nighter — in order to make their apps available with iOS 14 support on launch day. For the first time in …*
       
-  - Alexa’s new celebrity wake words ‘Hey Samuel,’ turns the assistant into Samuel L. Jackson
+  - JupiterOne raises $19M Series A to automate cyber asset management
       <hr/>
       
-      - *Alexa just read me Monday’s baseball scores. It was great for two reasons. First, the A’s shut out the Mariners 9-0 in the second game of a doubleheader. And second, she did so in Samuel L. Jackson’s voice. With Amazon based in Seattle, I assume they’re happy…*
+      - *Asset management might not be the most exciting talking topic, but it’s often an overlooked area of cyber-defenses. By knowing exactly what assets your company has makes it easier to know where the security weak spots are. That’s the problem JupiterOne is try…*
        
-  - Making sense of 3 edtech extension rounds
+  - Dear Sophie: How can I get my 2-year foreign residency requirement for my J-1 waived?
       <hr/>
        
-       - *While venture capitalists are pouring funding into edtech startups, the surge of interest isn’t coming without pressure. Edtech companies are searching for new ways to tap into a booming market. As Course Hero co-founder Andrew Graeur put it, the goal for his…*
+       - *My husband started his own company here on his J-2 visa work permit, and our daughter was born here, but we’re supposed to return to Italy for two years. How can we get a 212(e) waiver?*
       
 
 
