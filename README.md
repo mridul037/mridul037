@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 
-~ Danny Hillis
+~ Mark Gibbs
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Every computer language has its Shakespeares, and it is a joy to read their code
 
 </pre>
 **Daily News**
-  - Facebook addresses political controversy in India, monetization opportunities, startup investments
+  - User-generated e-learning site Kahoot acquires Actimo for up to $33M to double down on corporate sector
      <hr/>
      
-      - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
+      - *Norwegian company Kahoot originally made its name with a platform the lets educators and students create and share game-based online learning lessons, in the process building up a huge public catalogue of gamified lessons created by its community. Today the s…*
      
+  - Facebook addresses political controversy in India, monetization opportunities, startup investments
+      <hr/>
+      
+      - *At the beginning of the previous decade, Facebook had a tiny presence in India. It had just started to slowly expand its team in the country and was inking deals with telecom operators to make access to its service free to users and even offer incentives such…*
+      
   - Zwift, maker of a popular indoor training app, just landed a whopping $450 million in funding led by KKR
       <hr/>
       
@@ -81,16 +86,11 @@ Every computer language has its Shakespeares, and it is a joy to read their code
       <hr/>
       
       - *Gravity Sketch, the London-based product design and collaboration platform that utilises virtual reality, has raised $3.7 million in funding. The seed round was led by Kindred Capital, with participation from Point Nine Capital and previous investor Forward P…*
-      
+       
   - China tops 110 million 5G users in less than a year
       <hr/>
-      
-      - *Over 110 million users in China have signed up for 5G plans, announced president of the China Academy for Information and Communications Technology (CAICT), a think tank under the telecoms watchdog Ministry of Industry and Information Technology, at an indust…*
        
-  - Homage’s Gillian Tee on how technology can serve the world’s aging population
-      <hr/>
-       
-       - *It’s always a pleasure to chat with Homage co-founder and chief executive Gillian Tee because of her nuanced take on how technology can help elderly and other vulnerable people.  According to the United Nations, people 65-years-old and over is the fastest-gro…*
+       - *Over 110 million users in China have signed up for 5G plans, announced president of the China Academy for Information and Communications Technology (CAICT), a think tank under the telecoms watchdog Ministry of Industry and Information Technology, at an indust…*
       
 
 
