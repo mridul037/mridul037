@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ Donald Knuth
+~ Michael Stal
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The more varieties of different kinds of notations are still useful — don’t 
 
 </pre>
 **Daily News**
-  - The Quest is getting its own Fortnite ripoff
+  - Can't stop won't stop: Social Capital Hedosophia just filed for its fourth SPAC, says new report
      <hr/>
      
-      - *Fortnite may not be available in VR (or on iOS), but Quest users will soon be getting their own Fortnite clone for virtual reality. Nearly two years after its funding and initial launch announcement, BigBox VR is finally ready to roll out its battle royale ga…*
+      - *According to a new report in Bloomberg, Social Capital Hedosophia has filed plans confidentially with the SEC to raise $500 million for its newest blank-check company. It will be the fourth special purpose acquisition company, or SPAC, to be raised by the out…*
      
+  - The Quest is getting its own Fortnite ripoff
+      <hr/>
+      
+      - *Fortnite may not be available in VR (or on iOS), but Quest users will soon be getting their own Fortnite clone for virtual reality. Nearly two years after its funding and initial launch announcement, BigBox VR is finally ready to roll out its battle royale ga…*
+      
   - Kiri is a screen-free smart toy meant to help kids learn languages and more
       <hr/>
       
@@ -81,16 +86,11 @@ The more varieties of different kinds of notations are still useful — don’t 
       <hr/>
       
       - *Alexa just read me Monday’s baseball scores. It was great for two reasons. First, the A’s shut out the Mariners 9-0 in the second game of a doubleheader. And second, she did so in Samuel L. Jackson’s voice. With Amazon based in Seattle, I assume they’re happy…*
-      
+       
   - Making sense of 3 edtech extension rounds
       <hr/>
-      
-      - *While venture capitalists are pouring funding into edtech startups, the surge of interest isn’t coming without pressure. Edtech companies are searching for new ways to tap into a booming market. As Course Hero co-founder Andrew Graeur put it, the goal for his…*
        
-  - Luther.AI is a new AI tool that acts like Google for personal conversations
-      <hr/>
-       
-       - *When it comes to pop culture, a company executive or history questions, most of us use Google as a memory crutch to recall information we can’t always keep in our heads, but Google can’t help you remember the name of your client’s spouse or the great idea you…*
+       - *While venture capitalists are pouring funding into edtech startups, the surge of interest isn’t coming without pressure. Edtech companies are searching for new ways to tap into a booming market. As Course Hero co-founder Andrew Graeur put it, the goal for his…*
       
 
 
