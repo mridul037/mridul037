@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 
-~ Ada Lovelace
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The science of operations, as derived from mathematics more especially, is a sci
 
 </pre>
 **Daily News**
-  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service live
+  - TikTok rumors beg the question: Did Trump solve anything?
      <hr/>
      
-      - *SpaceX is set to launch the latest batch of its Starlink satellites on Thursday, with a target lift-off time of 2:19 PM EDT (11:19 AM PDT). The mission will take off from Kennedy Space Center in Florida, and there’s a backup opportunity tomorrow at 1:57 PM ED…*
+      - *Over the past 24 hours, rumors picked up by Bloomberg, the Wall Street Journal and CNBC have put some boundaries on what a possible deal between Oracle and TikTok’s parent company ByteDance will look like. In its current incarnation floating around the DC pre…*
      
-  - Which 5 cloud startup categories are the hottest?
+  - Caroline Brochado and Sophia Bendz on the boom in Europe's early- and growth-stage startups
       <hr/>
       
-      - *Hello from the midst of Disrupt 2020: after this short piece for you I am wrapping my prep for a panel with investors from Bessemer, a16z and Canaan about the future of SaaS. Luckily, The Exchange this morning is on a very similar topic. The Exchange explores…*
+      - *As part of Disrupt 2020 we wanted to look at the contrasting positions of both early and later-stage investing in Europe. Who better to unpack this subject than two highly experienced operators in these fields? After a career at Spotify and then as a VC at At…*
       
-  - Facebook launches Facebook Business Suite, an app for managing business accounts across Facebook, Instagram and Messenger
+  - Hulu tests its co-viewing feature 'Watch Party' with ad-supported viewers
       <hr/>
       
-      - *Facebook this morning launched a new app designed to make it easier for businesses to manage their pages and profiles across Facebook, Instagram and Messenger in a single place. The app, Facebook Business Suite, combines access to the business’s key updates a…*
+      - *Hulu was one of the first major streaming services to introduce a “co-viewing” feature that allows friends and family to watch Hulu content together from different locations. The feature, Hulu Watch Party, was initially only available for subscribers on the t…*
       
-  - Here’s what’s happening at Disrupt 2020 today
+  - Impact, a YC-style accelerator for the entertainment industry, spins out from Imagine Entertainment with backing from Benchmark
       <hr/>
       
-      - *Rise, shine and build your business startup fans. It’s day four of Disrupt 2020, and this is your daily snapshot of just some of the heavy-hitters, events, breakout sessions and all-around opportunity that’s yours for the taking. Looking for the complete line…*
+      - *Hollywood has been better known for making films and TV shows about the tech industry than it has been for being a part of it, but today a new enterprise is launching, backed by a major Silicon Valley venture firm, that hopes to hit pause on that image. Imagi…*
        
-  - Darkstore launches FastAF app for same-day product delivery
+  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service live
       <hr/>
        
-       - *Darkstore, the tech-driven fulfillment solution to enable e-commerce companies to offer same-day delivery, has just released a consumer-facing app called FastAF. Right now, the app is only available in Los Angeles. FastAF is built on top of Darkstore, which a…*
+       - *SpaceX is set to launch the latest batch of its Starlink satellites on Thursday, with a target lift-off time of 2:19 PM EDT (11:19 AM PDT). The mission will take off from Kennedy Space Center in Florida, and there’s a backup opportunity tomorrow at 1:57 PM ED…*
       
 
 
