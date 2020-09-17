@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only sin is to make a choice without knowing you are making one.
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 
-~ Jonathan Shewchuk
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The only sin is to make a choice without knowing you are making one.
 
 </pre>
 **Daily News**
-  - Amazon makes Alexa Routines shareable
+  - Twitter tightens account security for political candidates ahead of US election
      <hr/>
      
-      - *Amazon is making it easier for Alexa devices owners to use Routines. The feature, which has been around for years, allows Alexa users to combine multiple tasks into a single voice command of their choosing. For example, you could make a routine that turns off…*
+      - *Twitter is taking steps to tighten account security for a range of users ahead of the US presidential election, including by requiring the use of strong passwords. “We’re taking the additional step of proactively implementing account security measures for a d…*
      
-  - Canix aims to ease cannabis cultivators' regulatory bookkeeping
+  - Why hasn't digital learning lived up to its promise?
       <hr/>
       
-      - *Growing cannabis on an industrial scale involves managing margins while continually adhering to compliance laws. For many growers, large and small, this consists of constant data entry from seed to sale. Canix’s solution employs a robust enterprise resource p…*
+      - *What is it about digital learning that has schools so keen on reopening despite the health and reputational risks?*
       
-  - ClearFlame Engine Technologies takes aim at cleaning up diesel engines
+  - Startup founders must overcome information overload
       <hr/>
       
-      - *Diesel engines are the workhorses of freight transportation and agriculture — and by extension keep the economy fed and well supplied. They also have a dirty side. The founders of ClearFlame Engine Technologies, a four-year-old startup based in Geneva, Illino…*
+      - *One of a founder's biggest early challenges is figuring out how to sift through all the advice they receive.*
       
-  - Does early-stage health tech need more 'patient' capital?
+  - Mozilla shutters Firefox Send and Notes
       <hr/>
       
-      - *Crista Galli Ventures, a new early-stage health tech fund in Europe, officially launched last week. The firm offers “patient capital” — with only a single LP (the Danish family office IPQ Capital) — and promises to provide portfolio companies with deep health…*
+      - *Mozilla today announced that it will shutter two products: Firefox Send, the free file transfer service it already put on hiatus in July, and Firefox Notes, its note-taking extension and mobile app. Firefox Send launched in March 2019. At the time, Mozilla de…*
        
-  - Crover’s robot swims in grain silos to monitor environmental conditions
+  - Amazon makes Alexa Routines shareable
       <hr/>
        
-       - *Crover’s robotic platform isn’t the sexiest or most exciting — particularly for a startup that began life with space travel in its sights. But the real future of robotics and automation lies in the dull, dirty and dangerous tasks employers have difficult find…*
+       - *Amazon is making it easier for Alexa devices owners to use Routines. The feature, which has been around for years, allows Alexa users to combine multiple tasks into a single voice command of their choosing. For example, you could make a routine that turns off…*
       
 
 
