@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 
-~ Nathaniel Borenstein
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It should be noted that no ethically-trained software engineer would ever consen
 
 </pre>
 **Daily News**
-  - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
+  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
      <hr/>
      
-      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
+      - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
      
+  - Interswitch to revive its Africa venture fund, CEO confirms
+      <hr/>
+      
+      - *Pan-African fintech company Interswitch plans to fire up its corporate venture arm again—according to CEO Mitchell Elegbe—who spoke at TechCrunch Disrupt on Wednesday. The Nigerian founder didn’t offer much new on the Lagos-based firm’s expected IPO, but he d…*
+      
+  - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
+      <hr/>
+      
+      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
+      
   - TechCrunch statement on sweep at our venue
       <hr/>
       
       - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
-      
+       
   - Justice Department says WeChat users won't be penalized under Trump's executive order
       <hr/>
-      
-      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
-      
-  - Gillmor Gang: In The Bag
-      <hr/>
-      
-      - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
        
-  - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
-      <hr/>
-       
-       - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
+       - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
       
 
 
