@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ David Leinweber
+~ Tim Berners-Lee
 <pre>
 
 </pre>
