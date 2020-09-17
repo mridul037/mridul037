@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ Martin Fowler
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ With testing, I know straight away when I added a bug. That lets me fix the bug 
 
 </pre>
 **Daily News**
-  - Justice Department says WeChat users won't be penalized under Trump's executive order
+  - TechCrunch statement on sweep at our venue
      <hr/>
      
-      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
+      - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
      
+  - Justice Department says WeChat users won't be penalized under Trump's executive order
+      <hr/>
+      
+      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
+      
   - Gillmor Gang: In The Bag
       <hr/>
       
@@ -81,16 +86,11 @@ With testing, I know straight away when I added a bug. That lets me fix the bug 
       <hr/>
       
       - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
-      
+       
   - Lightspeed announces the launch of its Southeast Asia operations
       <hr/>
-      
-      - *Lightspeed Venture Partners announced the launch of its Southeast Asia operations today. Based out of the firm’s new regional headquarters in Singapore, Lightspeed’s team there will invest in startups throughout Southeast Asia from the three global funds it c…*
        
-  - PlayVS is halfway to recruiting every state into its global esports community
-      <hr/>
-       
-       - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
+       - *Lightspeed Venture Partners announced the launch of its Southeast Asia operations today. Based out of the firm’s new regional headquarters in Singapore, Lightspeed’s team there will invest in startups throughout Southeast Asia from the three global funds it c…*
       
 
 
