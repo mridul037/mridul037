@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 
-~ Edsger W. Dijkstra
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ As long as there were no machines, programming was no problem at all; when we ha
 
 </pre>
 **Daily News**
-  - APAC cloud infrastructure revenue reaches $9B in Q2 with Amazon leading the way
+  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service live
      <hr/>
      
-      - *When you look at the Asia-Pacific (APAC) regional cloud infrastructure numbers, it would be easy to think that one of the Chinese cloud giants, particularly Alibaba, would be the leader in that geography, but new numbers from Synergy Research show Amazon lead…*
+      - *SpaceX is set to launch the latest batch of its Starlink satellites on Thursday, with a target lift-off time of 2:19 PM EDT (11:19 AM PDT). The mission will take off from Kennedy Space Center in Florida, and there’s a backup opportunity tomorrow at 1:57 PM ED…*
      
-  - Amazon's first five climate fund investments include Redwood Materials, Rivian
+  - Which 5 cloud startup categories are the hottest?
       <hr/>
       
-      - *Redwood Materials, the recycling startup founded by Tesla’s longtime CTO and co-founder JB Straubel, has landed Amazon as a new investor and customer. Amazon’s investment in Redwood Materials is one of a handful announced Thursday that stems from the e-commer…*
+      - *Hello from the midst of Disrupt 2020: after this short piece for you I am wrapping my prep for a panel with investors from Bessemer, a16z and Canaan about the future of SaaS. Luckily, The Exchange this morning is on a very similar topic. The Exchange explores…*
       
-  - Superhuman's Rahul Vohra asks 6 VCs how to raise funding when the sky is falling
+  - Facebook launches Facebook Business Suite, an app for managing business accounts across Facebook, Instagram and Messenger
       <hr/>
       
-      - *For founders and VCs alike, 2020 has changed the game for good.*
+      - *Facebook this morning launched a new app designed to make it easier for businesses to manage their pages and profiles across Facebook, Instagram and Messenger in a single place. The app, Facebook Business Suite, combines access to the business’s key updates a…*
       
-  - X1 Card is a credit card based on your income, not your credit score
+  - Here’s what’s happening at Disrupt 2020 today
       <hr/>
       
-      - *There are many reasons why you could have a good or a bad credit score. But if you’re just entering the job market, you may end up with reliable income and a low limit on your credit card. X1 Card wants to solve that by setting limits based on your current an…*
+      - *Rise, shine and build your business startup fans. It’s day four of Disrupt 2020, and this is your daily snapshot of just some of the heavy-hitters, events, breakout sessions and all-around opportunity that’s yours for the taking. Looking for the complete line…*
        
-  - A closer look at the new Apple Watches
+  - Darkstore launches FastAF app for same-day product delivery
       <hr/>
        
-       - *I’m very much still working on a full review of the new Apple Watches — specifically the Series 6. As of this posting, I’ve had the wearables in my possession (and on my person) for a little under 24 hours. It’s a special circumstance attributable to the virt…*
+       - *Darkstore, the tech-driven fulfillment solution to enable e-commerce companies to offer same-day delivery, has just released a consumer-facing app called FastAF. Right now, the app is only available in Los Angeles. FastAF is built on top of Darkstore, which a…*
       
 
 
