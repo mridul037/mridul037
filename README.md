@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When I invented the web, I didn't have to ask anyone's permission.
+The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 
-~ Tim Berners-Lee
+~ Richard Stallman
 <pre>
 
 </pre>
