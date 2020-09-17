@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+Less code equals less bugs.
 
-~ L. Peter Deutsch
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
 
 </pre>
 **Daily News**
-  - Fabletics eyes what's next for its activewear empire
+  - Cloudflare's Michelle Zatlyn on getting funding for crazy ideas
      <hr/>
      
-      - *Like plenty of other modern direct-to-consumer companies, influencer marketing has been an essential part of Fabletics’ journey. Actress Kate Hudson co-founded the company and co-CEO Adam Golderberg believes that its network of spokespeople has been key to th…*
+      - *It’s not easy getting funding for any startup, but when Cloudflare launched at one of our early events ten years ago, most investors sure thought its idea was a bit out there. Today, Cloudflare co-founder Michelle Zatlyn joined us at our virtual Disrupt event…*
      
+  - Fabletics eyes what's next for its activewear empire
+      <hr/>
+      
+      - *Like plenty of other modern direct-to-consumer companies, influencer marketing has been an essential part of Fabletics’ journey. Actress Kate Hudson co-founded the company and co-CEO Adam Golderberg believes that its network of spokespeople has been key to th…*
+      
   - Here are the 19 companies presenting at Alchemist Accelerator Demo Day XXV today
       <hr/>
       
@@ -81,16 +86,11 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
       <hr/>
       
       - *Jennifer Doudna, one of the pioneers of the gene-editing technique known as CRISPR, thinks the biotech tool could be an essential one for combating COVID-19 and future pandemics. Due to its capacity to be “reprogrammed” like software, CRISPR could eventually …*
-      
+       
   - Twitter tightens account security for political candidates ahead of US election
       <hr/>
-      
-      - *Twitter is taking steps to tighten account security for a range of users ahead of the US presidential election, including by requiring the use of strong passwords. “We’re taking the additional step of proactively implementing account security measures for a d…*
        
-  - Why hasn't digital learning lived up to its promise?
-      <hr/>
-       
-       - *What is it about digital learning that has schools so keen on reopening despite the health and reputational risks?*
+       - *Twitter is taking steps to tighten account security for a range of users ahead of the US presidential election, including by requiring the use of strong passwords. “We’re taking the additional step of proactively implementing account security measures for a d…*
       
 
 
