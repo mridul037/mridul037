@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Bill Gates
+~ Sean Parent
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Success is a lousy teacher. It seduces smart people into thinking they can't los
 
 </pre>
 **Daily News**
-  - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
+  - Gillmor Gang: In The Bag
      <hr/>
      
-      - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
+      - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
      
+  - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
+      <hr/>
+      
+      - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
+      
   - Lightspeed announces the launch of its Southeast Asia operations
       <hr/>
       
@@ -81,16 +86,11 @@ Success is a lousy teacher. It seduces smart people into thinking they can't los
       <hr/>
       
       - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
-      
+       
   - Daily Crunch: Facebook unveils the Oculus Quest 2
       <hr/>
-      
-      - *Facebook makes its next steps in VR, Apple releases iOS 14 and the PlayStation 5 gets a launch date. This is your Daily Crunch for September 16, 2020. The big story: Facebook unveils the Oculus Quest 2 Facebook announced the smaller, more affordable follow-up…*
        
-  - JAWS architect Glen Gordon is joining Sight Tech Global, a virtual event Dec. 2-3
-      <hr/>
-       
-       - *For people who are blind or visually impaired, JAWS is synonymous with freedom to operate Windows PCs with a remarkable degree of control and precision with output in speech and Braille. The keyboard-driven application makes it possible to navigate GUI-based …*
+       - *Facebook makes its next steps in VR, Apple releases iOS 14 and the PlayStation 5 gets a launch date. This is your Daily Crunch for September 16, 2020. The big story: Facebook unveils the Oculus Quest 2 Facebook announced the smaller, more affordable follow-up…*
       
 
 
