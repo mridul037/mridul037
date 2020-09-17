@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+An evolving system increases its complexity unless work is done to reduce it.
 
-~ Richard Stallman
+~ Manny Lehman (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The free software community rejects the “priesthood of technology”, which ke
 
 </pre>
 **Daily News**
-  - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
+  - Supercell's CEO talks about its majority owner Tencent, finding its next hit, and more
      <hr/>
      
-      - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
+      - *Mobile games maker Supercell has been one of the great, understated, breakthroughs of the European startup world. The Helsinki-based mobile games maker built an empire out of Clash of Clans, raking in tons of money and catching the eye of world class investor…*
      
+  - Finance and the digital divide: a conversation with Tunde Kehinde of Lidya
+      <hr/>
+      
+      - *Small and medium businesses have been some of the hardest hit in the Covid-19 pandemic. And all that has been as true in emerging markets as it has been for SMBs in the developed world. Tunde Kehinde has had a front-row seat witnessing and responding to that …*
+      
+  - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
+      <hr/>
+      
+      - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
+      
   - Blume Ventures' Karthik Reddy on Indian startup ecosystem, geo-political tension with China and coronavirus
       <hr/>
       
       - *Despite the coronavirus outbreak, which has slowed down deal-making across the world, dozens of startups in India have raised considerable amounts in recent months. Unacademy, which raised $110 million in February, closed a new round of $150 million this mont…*
-      
+       
   - SmartNews' U.S. app unveils new features for the elections, COVID-19 and local weather
       <hr/>
-      
-      - *At TechCrunch Disrupt today, SmartNews announced the release of major new features for the American version of its news discovery app, designed to make it easier for users to get updates about the elections, COVID-19 and the weather. Several features focus on…*
-      
-  - Narrator raises $6.2M for a new approach to data modelling that replaces star schema
-      <hr/>
-      
-      - *Snowflake went public this week, and in a mark of the wider ecosystem that is evolving around data warehousing, a startup that has built a completely new concept for modelling warehoused data is announcing funding. Narrator — which uses an 11-column ordering …*
        
-  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
-      <hr/>
-       
-       - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
+       - *At TechCrunch Disrupt today, SmartNews announced the release of major new features for the American version of its news discovery app, designed to make it easier for users to get updates about the elections, COVID-19 and the weather. Several features focus on…*
       
 
 
