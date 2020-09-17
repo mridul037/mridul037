@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 
-~ Sean Parent
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
 
 </pre>
 **Daily News**
-  - Gillmor Gang: In The Bag
+  - Justice Department says WeChat users won't be penalized under Trump's executive order
      <hr/>
      
-      - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
+      - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
      
+  - Gillmor Gang: In The Bag
+      <hr/>
+      
+      - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
+      
   - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
       <hr/>
       
@@ -81,16 +86,11 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
       <hr/>
       
       - *Lightspeed Venture Partners announced the launch of its Southeast Asia operations today. Based out of the firm’s new regional headquarters in Singapore, Lightspeed’s team there will invest in startups throughout Southeast Asia from the three global funds it c…*
-      
+       
   - PlayVS is halfway to recruiting every state into its global esports community
       <hr/>
-      
-      - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
        
-  - Daily Crunch: Facebook unveils the Oculus Quest 2
-      <hr/>
-       
-       - *Facebook makes its next steps in VR, Apple releases iOS 14 and the PlayStation 5 gets a launch date. This is your Daily Crunch for September 16, 2020. The big story: Facebook unveils the Oculus Quest 2 Facebook announced the smaller, more affordable follow-up…*
+       - *Millions of high school kids play online multiplayer games, but they seldom have crosstown rivals in Fortnite or Valorant. PlayVS wants to make that happen with its platform for school-sponsored esports, and it’s growing like crazy, doubling its staff in the …*
       
 
 
