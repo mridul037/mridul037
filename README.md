@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+Everybody should learn to program a computer, because it teaches you how to think.
 
-~ John McCarthy (computer scientist)
+~ Steve Jobs
 <pre>
 
 </pre>
