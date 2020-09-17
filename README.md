@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Unix is simple. It just takes a genius to understand its simplicity.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ Dennis Ritchie
+~ Nathaniel Borenstein
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Unix is simple. It just takes a genius to understand its simplicity.
 
 </pre>
 **Daily News**
-  - TechCrunch statement on sweep at our venue
+  - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
      <hr/>
      
-      - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
+      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
      
+  - TechCrunch statement on sweep at our venue
+      <hr/>
+      
+      - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
+      
   - Justice Department says WeChat users won't be penalized under Trump's executive order
       <hr/>
       
@@ -81,16 +86,11 @@ Unix is simple. It just takes a genius to understand its simplicity.
       <hr/>
       
       - *This may be counterintuitive. I hope so. I remember the day I first started using Twitter. My friend Gabe Rivera suggested it would be a good idea to sign on to the fledgling network. Basically it was a land grab — claim the real estate of my name. I most lik…*
-      
+       
   - The art of pivoting with Phaedra Ellis-Lamkins and Jessica Matthews
       <hr/>
-      
-      - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
        
-  - Lightspeed announces the launch of its Southeast Asia operations
-      <hr/>
-       
-       - *Lightspeed Venture Partners announced the launch of its Southeast Asia operations today. Based out of the firm’s new regional headquarters in Singapore, Lightspeed’s team there will invest in startups throughout Southeast Asia from the three global funds it c…*
+       - *Building and growing a startup is hard, but pivoting said startup into something new and then achieving that same growth is even harder. But it’s not impossible. Phaedra Ellis-Lamkins, founder and CEO of PromisePay, and Jessica Matthews, founder and CEO of Un…*
       
 
 
