@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 
-~ Alan Perlis
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Every program has (at least) two purposes: the one for which it was written and 
 
 </pre>
 **Daily News**
-  - Ansa Biotechnologies wants to usher in a new era of DNA manufacturing
+  - APAC cloud infrastructure revenue reaches $9B in Q2 with Amazon leading the way
      <hr/>
      
-      - *Daniel Arlow has spent the last eighteen years studying genomics and synthetic biology. The arc of his career has taken the first-time founder of the new startup Ansa Biotechnologies from MIT to the famous Keasling Lab at the University of California at Berke…*
+      - *When you look at the Asia-Pacific (APAC) regional cloud infrastructure numbers, it would be easy to think that one of the Chinese cloud giants, particularly Alibaba, would be the leader in that geography, but new numbers from Synergy Research show Amazon lead…*
      
-  - Connected fitness startup Tonal raises another $110 million
+  - Amazon's first five climate fund investments include Redwood Materials, Rivian
       <hr/>
       
-      - *Connected home fitness startup Tonal announced today that it has raised an additional $110 million. The latest round of funding includes existing investor L Catterton and new names, including Delta-v Capital, Amazon’s Alexa Fund and Mousse Partners, along wit…*
+      - *Redwood Materials, the recycling startup founded by Tesla’s longtime CTO and co-founder JB Straubel, has landed Amazon as a new investor and customer. Amazon’s investment in Redwood Materials is one of a handful announced Thursday that stems from the e-commer…*
       
-  - Supercell's CEO talks about its majority owner Tencent, finding its next hit, and more
+  - Superhuman's Rahul Vohra asks 6 VCs how to raise funding when the sky is falling
       <hr/>
       
-      - *Mobile games maker Supercell has been one of the great, understated, breakthroughs of the European startup world. The Helsinki-based mobile games maker built an empire out of Clash of Clans, raking in tons of money and catching the eye of world class investor…*
+      - *For founders and VCs alike, 2020 has changed the game for good.*
       
-  - Finance and the digital divide: a conversation with Tunde Kehinde of Lidya
+  - X1 Card is a credit card based on your income, not your credit score
       <hr/>
       
-      - *Small and medium businesses have been some of the hardest hit in the Covid-19 pandemic. And all that has been as true in emerging markets as it has been for SMBs in the developed world. Tunde Kehinde has had a front-row seat witnessing and responding to that …*
+      - *There are many reasons why you could have a good or a bad credit score. But if you’re just entering the job market, you may end up with reliable income and a low limit on your credit card. X1 Card wants to solve that by setting limits based on your current an…*
        
-  - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
+  - A closer look at the new Apple Watches
       <hr/>
        
-       - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
+       - *I’m very much still working on a full review of the new Apple Watches — specifically the Series 6. As of this posting, I’ve had the wearables in my possession (and on my person) for a little under 24 hours. It’s a special circumstance attributable to the virt…*
       
 
 
