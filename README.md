@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Bill Gates
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Success is a lousy teacher. It seduces smart people into thinking they can't los
 
 </pre>
 **Daily News**
-  - Twitter tightens account security for political candidates ahead of US election
+  - Fabletics eyes what's next for its activewear empire
      <hr/>
      
-      - *Twitter is taking steps to tighten account security for a range of users ahead of the US presidential election, including by requiring the use of strong passwords. “We’re taking the additional step of proactively implementing account security measures for a d…*
+      - *Like plenty of other modern direct-to-consumer companies, influencer marketing has been an essential part of Fabletics’ journey. Actress Kate Hudson co-founded the company and co-CEO Adam Golderberg believes that its network of spokespeople has been key to th…*
      
+  - Here are the 19 companies presenting at Alchemist Accelerator Demo Day XXV today
+      <hr/>
+      
+      - *When Alchemist Accelerator shifted its Demo Day to virtual earlier this year, Alchemist director and founder Ravi Belani told me it was a move he expected the team to stick with for some time. Nearly half a year later it’s time for another Demo Day — and sure…*
+      
+  - Jennifer Doudna sees CRISPR gene-editing tech as a Swiss Army knife for COVID-19 and beyond
+      <hr/>
+      
+      - *Jennifer Doudna, one of the pioneers of the gene-editing technique known as CRISPR, thinks the biotech tool could be an essential one for combating COVID-19 and future pandemics. Due to its capacity to be “reprogrammed” like software, CRISPR could eventually …*
+      
+  - Twitter tightens account security for political candidates ahead of US election
+      <hr/>
+      
+      - *Twitter is taking steps to tighten account security for a range of users ahead of the US presidential election, including by requiring the use of strong passwords. “We’re taking the additional step of proactively implementing account security measures for a d…*
+       
   - Why hasn't digital learning lived up to its promise?
       <hr/>
-      
-      - *What is it about digital learning that has schools so keen on reopening despite the health and reputational risks?*
-      
-  - Startup founders must overcome information overload
-      <hr/>
-      
-      - *One of a founder's biggest early challenges is figuring out how to sift through all the advice they receive.*
-      
-  - Mozilla shutters Firefox Send and Notes
-      <hr/>
-      
-      - *Mozilla today announced that it will shutter two products: Firefox Send, the free file transfer service it already put on hiatus in July, and Firefox Notes, its note-taking extension and mobile app. Firefox Send launched in March 2019. At the time, Mozilla de…*
        
-  - Amazon makes Alexa Routines shareable
-      <hr/>
-       
-       - *Amazon is making it easier for Alexa devices owners to use Routines. The feature, which has been around for years, allows Alexa users to combine multiple tasks into a single voice command of their choosing. For example, you could make a routine that turns off…*
+       - *What is it about digital learning that has schools so keen on reopening despite the health and reputational risks?*
       
 
 
