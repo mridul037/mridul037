@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 
-~ Alan Kay
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I invented the term 'Object-Oriented', and I can tell you I did not have C++ in 
 
 </pre>
 **Daily News**
-  - TikTok rumors beg the question: Did Trump solve anything?
+  - Sophie Hill on the changing face of retail and surviving 2020
      <hr/>
      
-      - *Over the past 24 hours, rumors picked up by Bloomberg, the Wall Street Journal and CNBC have put some boundaries on what a possible deal between Oracle and TikTok’s parent company ByteDance will look like. In its current incarnation floating around the DC pre…*
+      - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
      
-  - Caroline Brochado and Sophia Bendz on the boom in Europe's early- and growth-stage startups
+  - Contestants will compete for a SpaceX trip to the International Space Station in new reality TV show
       <hr/>
       
-      - *As part of Disrupt 2020 we wanted to look at the contrasting positions of both early and later-stage investing in Europe. Who better to unpack this subject than two highly experienced operators in these fields? After a career at Spotify and then as a VC at At…*
+      - *There’s a reality TV competition show in the works that will feature a 2023 trip to the International Space Station as the grand prize, Deadline reports. The production company behind the show, which will be called ‘Space Hero,’ has booked a seat on a SpaceX …*
       
-  - Hulu tests its co-viewing feature 'Watch Party' with ad-supported viewers
+  - Demand Sage raises $3M to make sales and marketing data more accessible
       <hr/>
       
-      - *Hulu was one of the first major streaming services to introduce a “co-viewing” feature that allows friends and family to watch Hulu content together from different locations. The feature, Hulu Watch Party, was initially only available for subscribers on the t…*
+      - *Demand Sage, a new startup from the founders of recently-acquired mobile analytics company Localytics, announced this morning that it has raised $3 million in seed funding led by Eniac Ventures and Underscore VC. When I spoke to CEO Raj Aggarwal, CTO Henry Ci…*
       
-  - Impact, a YC-style accelerator for the entertainment industry, spins out from Imagine Entertainment with backing from Benchmark
+  - Polestar built a better car than Tesla; now it needs to build a better brand
       <hr/>
       
-      - *Hollywood has been better known for making films and TV shows about the tech industry than it has been for being a part of it, but today a new enterprise is launching, backed by a major Silicon Valley venture firm, that hopes to hit pause on that image. Imagi…*
+      - *Polestar is a startup in an unusual situation. Polestar has the car. It has the executives. Polestar has factories, partners, and distribution channels. It’s set for success in a way most startups are not. And yet, success is not guaranteed. I fear Polestar i…*
        
-  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service live
+  - As the Western US burns, a forest carbon capture monitoring service nabs cash from Amazon & Bill Gates backed fund
       <hr/>
        
-       - *SpaceX is set to launch the latest batch of its Starlink satellites on Thursday, with a target lift-off time of 2:19 PM EDT (11:19 AM PDT). The mission will take off from Kennedy Space Center in Florida, and there’s a backup opportunity tomorrow at 1:57 PM ED…*
+       - *Pachama, the forest carbon sequestration monitoring service that tracks how much carbon dioxide is actually captured in forestry offset projects, has raised $5 million in fresh funding from a clutch of high profile investors including Amazon, Breakthrough Ene…*
       
 
 
