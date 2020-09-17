@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Martin Fowler
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ With testing, I know straight away when I added a bug. That lets me fix the bug 
 
 </pre>
 **Daily News**
-  - Sophie Hill on the changing face of retail and surviving 2020
+  - Forage, formerly InsideSherpa, raises $9.3 million Series A for virtual work experiences
      <hr/>
      
-      - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
+      - *Tech’s coveted internships were some of the first roles to be cut as offices closed and businesses shuttered in response to the coronavirus. A number of companies across the country, including Glassdoor, StubHub, Funding Circle, Yelp, Checkr and even the Nati…*
      
+  - With Goat Capital, Justin Kan and Robin Chan want to keep founding alongside the right teams
+      <hr/>
+      
+      - *Justin Kan and Robin Chan have each been angel investing for more than a decade. They’re starting a new fund together now, though, to stay involved as cofounders of more startups. Goat Capital is a hybrid incubator versus a pure seed investment firm, Chan exp…*
+      
+  - Facebook tries to clean up Groups with new policies
+      <hr/>
+      
+      - *Facebook this morning announced a series of new rules designed to further penalize those who violate its Community Standards, specifically around Facebook Groups. It also introduced rules meant to crack down on the spread of misinformation through these more …*
+      
+  - Sophie Hill on the changing face of retail and surviving 2020
+      <hr/>
+      
+      - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
+       
   - Contestants will compete for a SpaceX trip to the International Space Station in new reality TV show
       <hr/>
-      
-      - *There’s a reality TV competition show in the works that will feature a 2023 trip to the International Space Station as the grand prize, Deadline reports. The production company behind the show, which will be called ‘Space Hero,’ has booked a seat on a SpaceX …*
-      
-  - Demand Sage raises $3M to make sales and marketing data more accessible
-      <hr/>
-      
-      - *Demand Sage, a new startup from the founders of recently-acquired mobile analytics company Localytics, announced this morning that it has raised $3 million in seed funding led by Eniac Ventures and Underscore VC. When I spoke to CEO Raj Aggarwal, CTO Henry Ci…*
-      
-  - Polestar built a better car than Tesla; now it needs to build a better brand
-      <hr/>
-      
-      - *Polestar is a startup in an unusual situation. Polestar has the car. It has the executives. Polestar has factories, partners, and distribution channels. It’s set for success in a way most startups are not. And yet, success is not guaranteed. I fear Polestar i…*
        
-  - As the Western US burns, a forest carbon capture monitoring service nabs cash from Amazon & Bill Gates backed fund
-      <hr/>
-       
-       - *Pachama, the forest carbon sequestration monitoring service that tracks how much carbon dioxide is actually captured in forestry offset projects, has raised $5 million in fresh funding from a clutch of high profile investors including Amazon, Breakthrough Ene…*
+       - *There’s a reality TV competition show in the works that will feature a 2023 trip to the International Space Station as the grand prize, Deadline reports. The production company behind the show, which will be called ‘Space Hero,’ has booked a seat on a SpaceX …*
       
 
 
