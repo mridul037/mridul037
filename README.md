@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+The only sin is to make a choice without knowing you are making one.
 
-~ Edsger W. Dijkstra
+~ Jonathan Shewchuk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Testing can be a very effective way to show the presence of bugs, but it is hope
 
 </pre>
 **Daily News**
-  - Forage, formerly InsideSherpa, raises $9.3 million Series A for virtual work experiences
+  - Amazon makes Alexa Routines shareable
      <hr/>
      
-      - *Tech’s coveted internships were some of the first roles to be cut as offices closed and businesses shuttered in response to the coronavirus. A number of companies across the country, including Glassdoor, StubHub, Funding Circle, Yelp, Checkr and even the Nati…*
+      - *Amazon is making it easier for Alexa devices owners to use Routines. The feature, which has been around for years, allows Alexa users to combine multiple tasks into a single voice command of their choosing. For example, you could make a routine that turns off…*
      
-  - With Goat Capital, Justin Kan and Robin Chan want to keep founding alongside the right teams
+  - Canix aims to ease cannabis cultivators' regulatory bookkeeping
       <hr/>
       
-      - *Justin Kan and Robin Chan have each been angel investing for more than a decade. They’re starting a new fund together now, though, to stay involved as cofounders of more startups. Goat Capital is a hybrid incubator versus a pure seed investment firm, Chan exp…*
+      - *Growing cannabis on an industrial scale involves managing margins while continually adhering to compliance laws. For many growers, large and small, this consists of constant data entry from seed to sale. Canix’s solution employs a robust enterprise resource p…*
       
-  - Facebook tries to clean up Groups with new policies
+  - ClearFlame Engine Technologies takes aim at cleaning up diesel engines
       <hr/>
       
-      - *Facebook this morning announced a series of new rules designed to further penalize those who violate its Community Standards, specifically around Facebook Groups. It also introduced rules meant to crack down on the spread of misinformation through these more …*
+      - *Diesel engines are the workhorses of freight transportation and agriculture — and by extension keep the economy fed and well supplied. They also have a dirty side. The founders of ClearFlame Engine Technologies, a four-year-old startup based in Geneva, Illino…*
       
-  - Sophie Hill on the changing face of retail and surviving 2020
+  - Does early-stage health tech need more 'patient' capital?
       <hr/>
       
-      - *Threads is not your average startup and, really, it’s not a startup anymore. It’s over 10 years old, employs more than 150 people, and successfully bridged the Series A gap in Europe closing a round of $20M back in 2018. And so far, it’s surviving 2020.  COVI…*
+      - *Crista Galli Ventures, a new early-stage health tech fund in Europe, officially launched last week. The firm offers “patient capital” — with only a single LP (the Danish family office IPQ Capital) — and promises to provide portfolio companies with deep health…*
        
-  - Contestants will compete for a SpaceX trip to the International Space Station in new reality TV show
+  - Crover’s robot swims in grain silos to monitor environmental conditions
       <hr/>
        
-       - *There’s a reality TV competition show in the works that will feature a 2023 trip to the International Space Station as the grand prize, Deadline reports. The production company behind the show, which will be called ‘Space Hero,’ has booked a seat on a SpaceX …*
+       - *Crover’s robotic platform isn’t the sexiest or most exciting — particularly for a startup that began life with space travel in its sights. But the real future of robotics and automation lies in the dull, dirty and dangerous tasks employers have difficult find…*
       
 
 
