@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Everybody should learn to program a computer, because it teaches you how to think.
+Making things easy is hard.
 
-~ Steve Jobs
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Everybody should learn to program a computer, because it teaches you how to thin
 
 </pre>
 **Daily News**
-  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
+  - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
      <hr/>
      
-      - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
+      - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
      
-  - Interswitch to revive its Africa venture fund, CEO confirms
+  - Blume Ventures' Karthik Reddy on Indian startup ecosystem, geo-political tension with China and coronavirus
       <hr/>
       
-      - *Pan-African fintech company Interswitch plans to fire up its corporate venture arm again—according to CEO Mitchell Elegbe—who spoke at TechCrunch Disrupt on Wednesday. The Nigerian founder didn’t offer much new on the Lagos-based firm’s expected IPO, but he d…*
+      - *Despite the coronavirus outbreak, which has slowed down deal-making across the world, dozens of startups in India have raised considerable amounts in recent months. Unacademy, which raised $110 million in February, closed a new round of $150 million this mont…*
       
-  - Infarm raises $170M in equity and debt to continue building its 'vertical farming' network
+  - SmartNews' U.S. app unveils new features for the elections, COVID-19 and local weather
       <hr/>
       
-      - *Infarm, the vertical farming company that has built a network of urban farms to grow fresh food closer to consumers, has raised $170 million in new investment in a “first close” of a Series C. Leading the round — which is expected to reach $200 million and is…*
+      - *At TechCrunch Disrupt today, SmartNews announced the release of major new features for the American version of its news discovery app, designed to make it easier for users to get updates about the elections, COVID-19 and the weather. Several features focus on…*
       
-  - TechCrunch statement on sweep at our venue
+  - Narrator raises $6.2M for a new approach to data modelling that replaces star schema
       <hr/>
       
-      - *There have been a couple of articles published in the last two days reporting on an impromptu sweep that took place outside of a venue we are using for our TechCrunch Disrupt event in San Francisco this week. We wanted to detail what we know about what happen…*
+      - *Snowflake went public this week, and in a mark of the wider ecosystem that is evolving around data warehousing, a startup that has built a completely new concept for modelling warehoused data is announcing funding. Narrator — which uses an 11-column ordering …*
        
-  - Justice Department says WeChat users won't be penalized under Trump's executive order
+  - Southeast Asia's East Ventures on female VCs, foreign investment, consolidation
       <hr/>
        
-       - *In a Wednesday filing in federal court, the United States government said that users who use or download WeChat “to convey personal or business information” will not be subject to penalties under President Donald Trump’s executive order banning transactions w…*
+       - *Melisa Irene‘s path to becoming a partner at one of Southeast Asia’s most esteemed venture capital firms is an unconventional one. “I always consider myself to be quite lucky,” said Irene, who was promoted to be a partner at East Ventures in January 2019. At …*
       
 
 
