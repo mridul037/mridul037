@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An evolving system increases its complexity unless work is done to reduce it.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Manny Lehman (computer scientist)
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ An evolving system increases its complexity unless work is done to reduce it.
 
 </pre>
 **Daily News**
-  - Supercell's CEO talks about its majority owner Tencent, finding its next hit, and more
+  - Ansa Biotechnologies wants to usher in a new era of DNA manufacturing
      <hr/>
      
-      - *Mobile games maker Supercell has been one of the great, understated, breakthroughs of the European startup world. The Helsinki-based mobile games maker built an empire out of Clash of Clans, raking in tons of money and catching the eye of world class investor…*
+      - *Daniel Arlow has spent the last eighteen years studying genomics and synthetic biology. The arc of his career has taken the first-time founder of the new startup Ansa Biotechnologies from MIT to the famous Keasling Lab at the University of California at Berke…*
      
+  - Connected fitness startup Tonal raises another $110 million
+      <hr/>
+      
+      - *Connected home fitness startup Tonal announced today that it has raised an additional $110 million. The latest round of funding includes existing investor L Catterton and new names, including Delta-v Capital, Amazon’s Alexa Fund and Mousse Partners, along wit…*
+      
+  - Supercell's CEO talks about its majority owner Tencent, finding its next hit, and more
+      <hr/>
+      
+      - *Mobile games maker Supercell has been one of the great, understated, breakthroughs of the European startup world. The Helsinki-based mobile games maker built an empire out of Clash of Clans, raking in tons of money and catching the eye of world class investor…*
+      
   - Finance and the digital divide: a conversation with Tunde Kehinde of Lidya
       <hr/>
       
       - *Small and medium businesses have been some of the hardest hit in the Covid-19 pandemic. And all that has been as true in emerging markets as it has been for SMBs in the developed world. Tunde Kehinde has had a front-row seat witnessing and responding to that …*
-      
+       
   - SmartNews' Kaisei Hamamoto on how the app deals with media polarization
       <hr/>
-      
-      - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
-      
-  - Blume Ventures' Karthik Reddy on Indian startup ecosystem, geo-political tension with China and coronavirus
-      <hr/>
-      
-      - *Despite the coronavirus outbreak, which has slowed down deal-making across the world, dozens of startups in India have raised considerable amounts in recent months. Unacademy, which raised $110 million in February, closed a new round of $150 million this mont…*
        
-  - SmartNews' U.S. app unveils new features for the elections, COVID-19 and local weather
-      <hr/>
-       
-       - *At TechCrunch Disrupt today, SmartNews announced the release of major new features for the American version of its news discovery app, designed to make it easier for users to get updates about the elections, COVID-19 and the weather. Several features focus on…*
+       - *Six years ago, SmartNews took on a major challenge. After launching in Japan in 2012, the news discovery app decided that its first international market would be the United States. During Disrupt, co-founder Kaisei Hamamoto talked about how SmartNews adapts i…*
       
 
 
