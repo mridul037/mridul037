@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+Imagination is more important than knowledge.
 
-~ Ken Thompson
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I’ll throw away code as soon I want to add something to it and I get the feeli
 
 </pre>
 **Daily News**
-  - Steven Yang and Sonny Vu discuss COVID-19’s impact on tech manufacturing
+  - NASA to test precision automated landing system designed for the Moon and Mars on upcoming Blue Origin mission
      <hr/>
      
-      - *Like most of the rest of the world, COVID-19 hit the manufacturing sector by surprise. That China — which continues to comprise the vast majority of electronics manufacturing — was the first global epicenter of the virus certainly didn’t help the industry suf…*
+      - *NASA is going to be testing out a new precision landing system designed for use on the tough terrain of the Moon and Mars for the first time during an upcoming mission of Blue Origin’s New Shepard reusable suborbital rocket. The ‘Safe and Precise Landing – In…*
      
-  - German space agency reveals an autonomous, electric urban mobility prototype for use right here on Earth
+  - What makes Checkout.com different from Stripe
       <hr/>
       
-      - *The German Aerospace Center (DLR) has debuted a prototype of what it calls ‘U-Shift,’ an urban mobility vehicle designed for multiple uses. U-Shift is a fully electric vehicle, designed for autonomous operation, and could serve in a number of capacities inclu…*
+      - *While Checkout.com has kept a low profile for many years, the company raised $380 million within a year and reached an impressive valuation of $5.5 billion. It wants to build a one-stop shop for all things related to payments, such as accepting transactions, …*
       
-  - TikTok and WeChat will be banned in the U.S. from Sunday
+  - In its 4th revision to the SEC, Palantir tries to explain what the hell is going on
       <hr/>
       
-      - *The Commerce Department announced this morning that it will require mobile app stores to remove popular social media apps TikTok and WeChat. New users will not be able to download these apps, and while existing users will still be able to use their existing a…*
+      - *For a company vaunted for its clandestine government work and strong engineering culture, you can’t help but wonder if the government’s bureaucratic norms and paperwork pushing are starting to flood into the Shire. When most companies go public, they file a F…*
       
-  - VCs have to train themselves to 'ask the stupid questions', says Hoxton Ventures' Hussein Kanji
+  - Calling VCs in Zurich & Geneva: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Zurich and Geneva will capture how those cities are faring in terms of inves…*
        
-  - China's vaping giant Relx gears up for US entry
+  - 3 investors discuss the state of SaaS investing in 2020
       <hr/>
        
-       - *The backlash against vaping in the United States has not deterred a Chinese challenger from entering the world’s largest vaping market. Relx, one of China’s largest e-cigarette companies, is seeking to submit its Premarket Tobacco Product Application to the U…*
+       - *Yesterday during Disrupt 2020 I sat down with three investors who know the SaaS startup market very well, hoping to get my head around how hot things are today. Coming on the heels of the epic Snowflake IPO (more to come on that in this weekend’s newsletter),…*
       
 
 
