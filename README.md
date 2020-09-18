@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 
-~ Douglas Crockford
+~ John von Neumann
 <pre>
 
 </pre>
