@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Debugging time increases as a square of the program’s size.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 
-~ Chris Wenham
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Debugging time increases as a square of the program’s size.
 
 </pre>
 **Daily News**
-  - Instagram CEO, ACLU slam TikTok and WeChat app bans for putting US freedoms into the balance
+  - Zoox becomes fourth company to land driverless testing permit in California
      <hr/>
      
-      - *As people begin to process the announcement from the U.S. Department of Commerce detailing how it plans, on grounds of national security, to shut down TikTok and WeChat — starting with app downloads and updates for both, plus all of WeChat’s services, on Sept…*
+      - *Zoox, the automated vehicle technology startup that was acquired by Amazon this year, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads. The permit is not for all public roads in the state, but …*
      
-  - Chime adds $485M at a $14.5B valuation, claims EBITDA profitability
+  - Amid layoffs and allegations of fraud, the FBI has arrested NS8's CEO following its $100+ million summer financing
       <hr/>
       
-      - *In the midst of IPO week we have to add another name to our future debuts’ list, namely Chime, which announced a huge new round of capital today. The $485 million Series F values the consumer fintech giant at $14.5 billion, a huge figure given that Chime was …*
+      - *The tagline from today’s announcement from the United States Attorney’s office for the Southern District of New York says it all: “Adam Rogas Allegedly Raised $123 Million from Investors Using Financial Statements that Showed Tens of Millions of Dollars of Re…*
       
-  - It's game on as Unity begins trading
+  - The stages of traditional fundraising
       <hr/>
       
-      - *Unity Software, which sells a game development toolkit primarily for mobile phone app developers, raised $1.3 billion in its initial public offering. The company, which will begin trading today with the ticker symbol “U”, priced its shares at the top end of i…*
+      - *What you think when you hear "seed funding" and "A rounds" might be different from what investors think. You both need to be on the same page as you move forward.*
       
-  - Outschool, newly profitable, raises a $45M Series B for virtual small group classes
+  - How the NSA is disrupting foreign hackers targeting COVID-19 vaccine research
       <hr/>
       
-      - *Outschool, which started in 2015 as a platform for homeschooled students to bolster their extracurricular activities, has dramatically widened its customer base since the coronavirus pandemic began.The platform saw its total addressable market increase dramat…*
+      - *The headlines aren’t always kind to the National Security Agency, a spy agency that operates almost entirely in the shadows. But a year ago, the NSA launched its new Cybersecurity Directorate, which in the past year has emerged as one of the more visible divi…*
        
-  - NASA to test precision automated landing system designed for the Moon and Mars on upcoming Blue Origin mission
+  - Instagram CEO, ACLU slam TikTok and WeChat app bans for putting US freedoms into the balance
       <hr/>
        
-       - *NASA is going to be testing out a new precision landing system designed for use on the tough terrain of the Moon and Mars for the first time during an upcoming mission of Blue Origin’s New Shepard reusable suborbital rocket. The ‘Safe and Precise Landing – In…*
+       - *As people begin to process the announcement from the U.S. Department of Commerce detailing how it plans, on grounds of national security, to shut down TikTok and WeChat — starting with app downloads and updates for both, plus all of WeChat’s services, on Sept…*
       
 
 
