@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 
-~ Linus Torvalds
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 
 </pre>
 **Daily News**
-  - German space agency reveals an autonomous, electric urban mobility prototype for use right here on Earth
+  - Steven Yang and Sonny Vu discuss COVID-19’s impact on tech manufacturing
      <hr/>
      
-      - *The German Aerospace Center (DLR) has debuted a prototype of what it calls ‘U-Shift,’ an urban mobility vehicle designed for multiple uses. U-Shift is a fully electric vehicle, designed for autonomous operation, and could serve in a number of capacities inclu…*
+      - *Like most of the rest of the world, COVID-19 hit the manufacturing sector by surprise. That China — which continues to comprise the vast majority of electronics manufacturing — was the first global epicenter of the virus certainly didn’t help the industry suf…*
      
+  - German space agency reveals an autonomous, electric urban mobility prototype for use right here on Earth
+      <hr/>
+      
+      - *The German Aerospace Center (DLR) has debuted a prototype of what it calls ‘U-Shift,’ an urban mobility vehicle designed for multiple uses. U-Shift is a fully electric vehicle, designed for autonomous operation, and could serve in a number of capacities inclu…*
+      
   - TikTok and WeChat will be banned in the U.S. from Sunday
       <hr/>
       
@@ -81,16 +86,11 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
       <hr/>
       
       - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
-      
+       
   - China's vaping giant Relx gears up for US entry
       <hr/>
-      
-      - *The backlash against vaping in the United States has not deterred a Chinese challenger from entering the world’s largest vaping market. Relx, one of China’s largest e-cigarette companies, is seeking to submit its Premarket Tobacco Product Application to the U…*
        
-  - Google pulls India's Paytm app from Play Store for repeat policy violations
-      <hr/>
-       
-       - *Google has pulled Indian financial services app Paytm from the Play Store for violating its gambling policies. Paytm is India’s most valued startup and claims over 50 million monthly active users. Its marquee app, which allows users to exchange money with one…*
+       - *The backlash against vaping in the United States has not deterred a Chinese challenger from entering the world’s largest vaping market. Relx, one of China’s largest e-cigarette companies, is seeking to submit its Premarket Tobacco Product Application to the U…*
       
 
 
