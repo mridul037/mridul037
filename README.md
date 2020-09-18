@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ John McCarthy (computer scientist)
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Machines as simple as thermostats can be said to have beliefs.
 
 </pre>
 **Daily News**
-  - VCs have to train themselves to 'ask the stupid questions', says Hoxton Ventures' Hussein Kanji
+  - German space agency reveals an autonomous, electric urban mobility prototype for use right here on Earth
      <hr/>
      
-      - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
+      - *The German Aerospace Center (DLR) has debuted a prototype of what it calls ‘U-Shift,’ an urban mobility vehicle designed for multiple uses. U-Shift is a fully electric vehicle, designed for autonomous operation, and could serve in a number of capacities inclu…*
      
+  - TikTok and WeChat will be banned in the U.S. from Sunday
+      <hr/>
+      
+      - *The Commerce Department announced this morning that it will require mobile app stores to remove popular social media apps TikTok and WeChat. New users will not be able to download these apps, and while existing users will still be able to use their existing a…*
+      
+  - VCs have to train themselves to 'ask the stupid questions', says Hoxton Ventures' Hussein Kanji
+      <hr/>
+      
+      - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
+      
   - China's vaping giant Relx gears up for US entry
       <hr/>
       
       - *The backlash against vaping in the United States has not deterred a Chinese challenger from entering the world’s largest vaping market. Relx, one of China’s largest e-cigarette companies, is seeking to submit its Premarket Tobacco Product Application to the U…*
-      
+       
   - Google pulls India's Paytm app from Play Store for repeat policy violations
       <hr/>
-      
-      - *Google has pulled Indian financial services app Paytm from the Play Store for violating its gambling policies. Paytm is India’s most valued startup and claims over 50 million monthly active users. Its marquee app, which allows users to exchange money with one…*
-      
-  - Ride-hailing was hit hard by COVID-19. Grab's Russell Cohen on how the company adapted.
-      <hr/>
-      
-      - *Ride-hailing services around the world have been hit hard by the COVID-19 pandemic, and Grab was no exception. The company is one of the most highly-valued tech startups in Southeast Asia, where it operates in eight countries. Its transport business suffered …*
        
-  - Apple will launch its online store in India next week
-      <hr/>
-       
-       - *Apple will launch its online store in India on September 23, bringing a range of services directly to customers in the world’s second largest smartphone market for the first time in over 20 years since it began operations in the country. The company, which cu…*
+       - *Google has pulled Indian financial services app Paytm from the Play Store for violating its gambling policies. Paytm is India’s most valued startup and claims over 50 million monthly active users. Its marquee app, which allows users to exchange money with one…*
       
 
 
