@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Debugging time increases as a square of the program’s size.
+A clever person solves a problem. A wise person avoids it.
 
-~ Chris Wenham
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Debugging time increases as a square of the program’s size.
 
 </pre>
 **Daily News**
-  - Check out this never-before-seen clip from HBO's The Perfect Weapon
+  - SaaS Ventures takes the investment road less traveled
      <hr/>
      
-      - *At Disrupt 2020, we got a chance to see some never-before-seen footage from HBO’s upcoming documentary The Perfect Weapon. The documentary, which was executive produced by John Maggio, is based on the book by the same(ish) name written by David Sanger, Washin…*
+      - *Most venture capital firms are based in hubs like Silicon Valley, New York City and Boston. These firms nurture those ecosystems and they’ve done well, but SaaS Ventures decided to go a different route: it went to cities like Chicago, Green Bay, Wisconsin and…*
      
+  - Gaming companies are reportedly the next targets in the US government's Tencent purge
+      <hr/>
+      
+      - *Some of the biggest names in online gaming in the United States have received letters from the U.S. government requesting information about their relationship with the multibillion-dollar Chinese technology company, Tencent, according to reports. Even as the …*
+      
+  - Check out this never-before-seen clip from HBO's The Perfect Weapon
+      <hr/>
+      
+      - *At Disrupt 2020, we got a chance to see some never-before-seen footage from HBO’s upcoming documentary The Perfect Weapon. The documentary, which was executive produced by John Maggio, is based on the book by the same(ish) name written by David Sanger, Washin…*
+      
   - Salesforce announces 12,000 new jobs in the next year just weeks after laying off 1000
       <hr/>
       
       - *In a case of bizarre timing, Salesforce announced it was laying off 1000 employees at the end of last month just a day after announcing a monster quarter with over $5 billion in revenue, putting the company on a $20 billion revenue run rate for the first time…*
-      
+       
   - And the winner of Startup Battlefield at Disrupt 2020 is… Canix
       <hr/>
-      
-      - *We started this competition with 20 impressive startups. After four days of fierce pitching in a wholly new virtual Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in ou…*
-      
-  - Are high churn rates depressing earnings for app developers?
-      <hr/>
-      
-      - *It’s great to improve your subscription app’s retention rates, but don’t do it for the 85/15 split.*
        
-  - MIT engineers develop a totally flat fisheye lens that could make wide-angle cameras easier to produce
-      <hr/>
-       
-       - *Engineers at MIT, in partnership with the University of Massachusetts at Lowell, have devised a way to build a camera lens that avoids the typical spherical curve of ultra-wide-angle glass, while still providing true optical fisheye distortion. The fisheye le…*
+       - *We started this competition with 20 impressive startups. After four days of fierce pitching in a wholly new virtual Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in ou…*
       
 
 
