@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+I think there is a world market for maybe five
+computers.
 
-~ Fred Brooks
+~ Thomas J. Watson
 <pre>
 
 </pre>
@@ -67,30 +68,30 @@ Program building is an entropy-decreasing process, hence inherently metastable. 
 
 </pre>
 **Daily News**
-  - Schools are closing their doors, but OpenDoor isn’t
+  - Benchmark's Peter Fenton: "10 to 20 years of innovation just got pulled forward"
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and myself hosted a live taping at Disrupt for a digital receptio…*
+      - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
      
+  - Meet the five startup Battlefield finalists at Disrupt 2020
+      <hr/>
+      
+      - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
+      
+  - Schools are closing their doors, but OpenDoor isn’t
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and myself hosted a live taping at Disrupt for a digital receptio…*
+      
   - Daily Crunch: Twitter tightens security ahead of election
       <hr/>
       
       - *Twitter takes preemptive steps to avoid election-related hacks, we check out the new Apple Watches and Facebook launches new business tools. This is your Daily Crunch for September 17, 2020. The big story: Twitter tightens security ahead of election Twitter s…*
-      
+       
   - Boston Robotics delivers plan for logistics robots as early as next year
       <hr/>
-      
-      - *Boston Dynamics is just months away from announcing their approach to logistics, the first real vertical it aims to enter, after proving their ability to build robots at scale with the quadrupedal Spot. The company’s new CEO, Robert Playter, sees the company …*
-      
-  - Ron Howard and Brian Grazer say that their accelerator can help diversify Hollywood
-      <hr/>
-      
-      - *Impact Creative Systems (formerly Imagine Impact) is bringing a startup accelerator-style approach to finding fresh creative talent, and it announced this morning that, with funding from venture capital firm Benchmark, it’s spinning out from Imagine Entertain…*
        
-  - Cloudflare's Michelle Zatlyn on getting funding for crazy ideas
-      <hr/>
-       
-       - *It’s not easy getting funding for any startup, but when Cloudflare launched at one of our early events ten years ago, most investors sure thought its idea was a bit out there. Today, Cloudflare co-founder Michelle Zatlyn joined us at our virtual Disrupt event…*
+       - *Boston Dynamics is just months away from announcing their approach to logistics, the first real vertical it aims to enter, after proving their ability to build robots at scale with the quadrupedal Spot. The company’s new CEO, Robert Playter, sees the company …*
       
 
 
