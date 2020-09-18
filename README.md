@@ -23,11 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+The best way to predict the future is to invent it.
 
-~ Michael A. Jackson
+~ Alan Kay
 <pre>
 
 </pre>
@@ -69,11 +67,16 @@ Two things are known about requirements:
 
 </pre>
 **Daily News**
-  - TikTok's Chinese rival Kuaishou becomes a popular online bazaar
+  - Apple will launch its online store in India next week
      <hr/>
      
-      - *In China, short video apps aren’t just for mindless time killing. These services are becoming online bazaars where users can examine products, see how they are grown and made, and ask sellers questions during live sessions. Kuaishou, the main rival of TikTok’…*
+      - *Apple will launch its online store in India on September 23, bringing a range of services directly to customers in the world’s second largest smartphone market for the first time in over 20 years since it began operations in the country. The company, which cu…*
      
+  - TikTok's Chinese rival Kuaishou becomes a popular online bazaar
+      <hr/>
+      
+      - *In China, short video apps aren’t just for mindless time killing. These services are becoming online bazaars where users can examine products, see how they are grown and made, and ask sellers questions during live sessions. Kuaishou, the main rival of TikTok’…*
+      
   - Benchmark's Peter Fenton: "10 to 20 years of innovation just got pulled forward"
       <hr/>
       
@@ -83,16 +86,11 @@ Two things are known about requirements:
       <hr/>
       
       - *TechCrunch hosted an unusual Startup Battlefield this week — the founders, judges, audience and moderator (me) were all in different locations, doing our best to interact over WebEx. But the 20 startups still demonstrated their products and explained their vi…*
-      
+       
   - Schools are closing their doors, but OpenDoor isn’t
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and myself hosted a live taping at Disrupt for a digital receptio…*
        
-  - Daily Crunch: Twitter tightens security ahead of election
-      <hr/>
-       
-       - *Twitter takes preemptive steps to avoid election-related hacks, we check out the new Apple Watches and Facebook launches new business tools. This is your Daily Crunch for September 17, 2020. The big story: Twitter tightens security ahead of election Twitter s…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and myself hosted a live taping at Disrupt for a digital receptio…*
       
 
 
