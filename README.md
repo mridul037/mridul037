@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Imagination is more important than knowledge.
+The hardest part of design is keeping features out.
 
-~ Albert Einstein
+~ Don Norman
 <pre>
 
 </pre>
