@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ John von Neumann
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
