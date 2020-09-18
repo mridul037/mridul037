@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+If you think it's simple, then you have misunderstood the problem.
 
-~ Kevlin Henney
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The act of describing a program in unambiguous detail and the act of programming
 
 </pre>
 **Daily News**
-  - Battery tech superstars JB Straubel of Redwood Materials, Celina Mikolajczak of Panasonic coming to TC Mobility 2020
+  - Are high churn rates depressing earnings for app developers?
      <hr/>
      
-      - *It was a trickle at first that has evolved into a slow and steady stream. Now, a wave of new electric vehicles is building, promising to deliver an unprecedented number of models to North America, Europe and China over the next two to three years. There might…*
+      - *It’s great to improve your subscription app’s retention rates, but don’t do it for the 85/15 split.*
      
+  - MIT engineers develop a totally flat fisheye lens that could make wide-angle cameras easier to produce
+      <hr/>
+      
+      - *Engineers at MIT, in partnership with the University of Massachusetts at Lowell, have devised a way to build a camera lens that avoids the typical spherical curve of ultra-wide-angle glass, while still providing true optical fisheye distortion. The fisheye le…*
+      
+  - Battery tech superstars JB Straubel of Redwood Materials, Celina Mikolajczak of Panasonic coming to TC Mobility 2020
+      <hr/>
+      
+      - *It was a trickle at first that has evolved into a slow and steady stream. Now, a wave of new electric vehicles is building, promising to deliver an unprecedented number of models to North America, Europe and China over the next two to three years. There might…*
+      
   - Zoox becomes fourth company to land driverless testing permit in California
       <hr/>
       
       - *Zoox, the automated vehicle technology startup that was acquired by Amazon this year, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads. The permit is not for all public roads in the state, but …*
-      
+       
   - Amid layoffs and allegations of fraud, the FBI has arrested NS8's CEO following its $100+ million summer financing
       <hr/>
-      
-      - *The tagline from today’s announcement from the United States Attorney’s office for the Southern District of New York says it all: “Adam Rogas Allegedly Raised $123 Million from Investors Using Financial Statements that Showed Tens of Millions of Dollars of Re…*
-      
-  - The stages of traditional fundraising
-      <hr/>
-      
-      - *What you think when you hear "seed funding" and "A rounds" might be different from what investors think. You both need to be on the same page as you move forward.*
        
-  - How the NSA is disrupting foreign hackers targeting COVID-19 vaccine research
-      <hr/>
-       
-       - *The headlines aren’t always kind to the National Security Agency, a spy agency that operates almost entirely in the shadows. But a year ago, the NSA launched its new Cybersecurity Directorate, which in the past year has emerged as one of the more visible divi…*
+       - *The tagline from today’s announcement from the United States Attorney’s office for the Southern District of New York says it all: “Adam Rogas Allegedly Raised $123 Million from Investors Using Financial Statements that Showed Tens of Millions of Dollars of Re…*
       
 
 
