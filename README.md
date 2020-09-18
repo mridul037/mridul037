@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Alan Kay
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
