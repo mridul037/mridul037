@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Fred Brooks
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The general tendency is to over-design the second system, using all the ideas an
 
 </pre>
 **Daily News**
-  - Zoox becomes fourth company to land driverless testing permit in California
+  - Battery tech superstars JB Straubel of Redwood Materials, Celina Mikolajczak of Panasonic coming to TC Mobility 2020
      <hr/>
      
-      - *Zoox, the automated vehicle technology startup that was acquired by Amazon this year, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads. The permit is not for all public roads in the state, but …*
+      - *It was a trickle at first that has evolved into a slow and steady stream. Now, a wave of new electric vehicles is building, promising to deliver an unprecedented number of models to North America, Europe and China over the next two to three years. There might…*
      
+  - Zoox becomes fourth company to land driverless testing permit in California
+      <hr/>
+      
+      - *Zoox, the automated vehicle technology startup that was acquired by Amazon this year, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads. The permit is not for all public roads in the state, but …*
+      
   - Amid layoffs and allegations of fraud, the FBI has arrested NS8's CEO following its $100+ million summer financing
       <hr/>
       
@@ -81,16 +86,11 @@ The general tendency is to over-design the second system, using all the ideas an
       <hr/>
       
       - *What you think when you hear "seed funding" and "A rounds" might be different from what investors think. You both need to be on the same page as you move forward.*
-      
+       
   - How the NSA is disrupting foreign hackers targeting COVID-19 vaccine research
       <hr/>
-      
-      - *The headlines aren’t always kind to the National Security Agency, a spy agency that operates almost entirely in the shadows. But a year ago, the NSA launched its new Cybersecurity Directorate, which in the past year has emerged as one of the more visible divi…*
        
-  - Instagram CEO, ACLU slam TikTok and WeChat app bans for putting US freedoms into the balance
-      <hr/>
-       
-       - *As people begin to process the announcement from the U.S. Department of Commerce detailing how it plans, on grounds of national security, to shut down TikTok and WeChat — starting with app downloads and updates for both, plus all of WeChat’s services, on Sept…*
+       - *The headlines aren’t always kind to the National Security Agency, a spy agency that operates almost entirely in the shadows. But a year ago, the NSA launched its new Cybersecurity Directorate, which in the past year has emerged as one of the more visible divi…*
       
 
 
