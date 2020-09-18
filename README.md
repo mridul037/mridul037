@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Edsger W. Dijkstra
+~ John von Neumann
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A program is like a poem: you cannot write a poem without writing it. Yet people
 
 </pre>
 **Daily News**
-  - Google pulls India's Paytm app from Play Store for repeat policy violations
+  - VCs have to train themselves to 'ask the stupid questions', says Hoxton Ventures' Hussein Kanji
      <hr/>
      
-      - *Google has pulled Indian financial services app Paytm from the Play Store for violating its gambling policies. Paytm is India’s most valued startup and claims over 50 million monthly active users. Its marquee app, which allows users to exchange money with one…*
+      - *If venture capitalists could predict the future, why wouldn’t they just start companies themselves? That’s the question Hussein Kanji, founding partner at Hoxton Ventures, asked rhetorically at Disrupt 2020. “If anyone says that they have predictive power in …*
      
+  - China's vaping giant Relx gears up for US entry
+      <hr/>
+      
+      - *The backlash against vaping in the United States has not deterred a Chinese challenger from entering the world’s largest vaping market. Relx, one of China’s largest e-cigarette companies, is seeking to submit its Premarket Tobacco Product Application to the U…*
+      
+  - Google pulls India's Paytm app from Play Store for repeat policy violations
+      <hr/>
+      
+      - *Google has pulled Indian financial services app Paytm from the Play Store for violating its gambling policies. Paytm is India’s most valued startup and claims over 50 million monthly active users. Its marquee app, which allows users to exchange money with one…*
+      
   - Ride-hailing was hit hard by COVID-19. Grab's Russell Cohen on how the company adapted.
       <hr/>
       
       - *Ride-hailing services around the world have been hit hard by the COVID-19 pandemic, and Grab was no exception. The company is one of the most highly-valued tech startups in Southeast Asia, where it operates in eight countries. Its transport business suffered …*
-      
+       
   - Apple will launch its online store in India next week
       <hr/>
-      
-      - *Apple will launch its online store in India on September 23, bringing a range of services directly to customers in the world’s second largest smartphone market for the first time in over 20 years since it began operations in the country. The company, which cu…*
-      
-  - TikTok's Chinese rival Kuaishou becomes a popular online bazaar
-      <hr/>
-      
-      - *In China, short video apps aren’t just for mindless time killing. These services are becoming online bazaars where users can examine products, see how they are grown and made, and ask sellers questions during live sessions. Kuaishou, the main rival of TikTok’…*
        
-  - Benchmark's Peter Fenton: "10 to 20 years of innovation just got pulled forward"
-      <hr/>
-       
-       - *Earlier today at TechCrunch Disrupt, venture capitalist Peter Fenton joined us to talk about a variety of issues. Among them, we discussed how he’s putting his stamp on Benchmark now that, 15 years after joining the storied firm, he’s its most senior member. …*
+       - *Apple will launch its online store in India on September 23, bringing a range of services directly to customers in the world’s second largest smartphone market for the first time in over 20 years since it began operations in the country. The company, which cu…*
       
 
 
