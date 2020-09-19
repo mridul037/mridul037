@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 
-~ Maurice Wilkes
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 
 </pre>
 **Daily News**
-  - From Unity to Disrupt, tech has an especially optimistic week
+  - Was Snowflake’s IPO mispriced or just misunderstood?
      <hr/>
      
-      - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
      
+  - From Unity to Disrupt, tech has an especially optimistic week
+      <hr/>
+      
+      - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
+      
   - Human Capital: The Black founder's burden
       <hr/>
       
@@ -81,16 +86,11 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
       <hr/>
       
       - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
-      
+       
   - This Week in Apps: iOS 14's surprise arrival, Apple's app bundle, TikTok & WeChat banned from app stores Sunday
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
        
-  - Unity Software has strong opening, gaining 31% after pricing above its raised range
-      <hr/>
-       
-       - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 
