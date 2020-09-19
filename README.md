@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+Every time you improve process, work becomes harder.
 
-~ Donald Knuth
+~ Daniel T. Barry
 <pre>
 
 </pre>
