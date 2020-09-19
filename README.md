@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 
-~ Bill Gates
+~ Philip Greenspun
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Sometimes we do get taken by surprise. For example, when the Internet came along
 
 </pre>
 **Daily News**
-  - Homeland Security issues rare emergency alert over 'critical' Windows bug
+  - President Trump reportedly has approved the Oracle deal for TikTok's US operations
      <hr/>
      
-      - *The bug can give attackers full control of an entire network in seconds.*
+      - *President Donald Trump said has has given his stamp of approval “in concept” on the Oracle bid for the U.S. operations of the wildly popular social media app, TikTok, according to a report from Bloomberg. According to the Bloomberg report Trump said, “I have …*
      
+  - Homeland Security issues rare emergency alert over 'critical' Windows bug
+      <hr/>
+      
+      - *The bug can give attackers full control of an entire network in seconds.*
+      
   - Was Snowflake’s IPO mispriced or just misunderstood?
       <hr/>
       
@@ -81,16 +86,11 @@ Sometimes we do get taken by surprise. For example, when the Internet came along
       <hr/>
       
       - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
-      
+       
   - Human Capital: The Black founder's burden
       <hr/>
-      
-      - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
        
-  - On lying AIs
-      <hr/>
-       
-       - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
+       - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
       
 
 
