@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Steve Jobs
+~ Robert C. Martin
 <pre>
 
 </pre>
