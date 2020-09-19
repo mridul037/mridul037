@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 
-~ Addy Osmani
+~ Steve Jobs
 <pre>
 
 </pre>
