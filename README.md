@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Cleaning code does NOT take time. NOT cleaning code does take time.
+When in doubt, leave it out.
 
-~ Robert C. Martin
+~ Joshua Bloch
 <pre>
 
 </pre>
