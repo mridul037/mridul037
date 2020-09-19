@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
