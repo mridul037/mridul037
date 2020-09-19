@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 
-~ Edsger W. Dijkstra
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The computing scientist’s main challenge is not to get confused by the complex
 
 </pre>
 **Daily News**
-  - Was Snowflake’s IPO mispriced or just misunderstood?
+  - Homeland Security issues rare emergency alert over 'critical' Windows bug
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
+      - *The bug can give attackers full control of an entire network in seconds.*
      
+  - Was Snowflake’s IPO mispriced or just misunderstood?
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
+      
   - From Unity to Disrupt, tech has an especially optimistic week
       <hr/>
       
@@ -81,16 +86,11 @@ The computing scientist’s main challenge is not to get confused by the complex
       <hr/>
       
       - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
-      
+       
   - On lying AIs
       <hr/>
-      
-      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
        
-  - This Week in Apps: iOS 14's surprise arrival, Apple's app bundle, TikTok & WeChat banned from app stores Sunday
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
       
 
 
