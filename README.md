@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm interested in creating images that communicate with people.
+When in doubt, leave it out.
 
-~ Toru Iwatani
+~ Joshua Bloch
 <pre>
 
 </pre>
