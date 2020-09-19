@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Fred Brooks
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First, we must observe that the anomaly is not that software progress is so slow
 
 </pre>
 **Daily News**
-  - Unity Software has strong opening, gaining 31% after pricing above its raised range
+  - On lying AIs
      <hr/>
      
-      - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
+      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
      
+  - This Week in Apps: iOS 14's surprise arrival, Apple's app bundle, TikTok & WeChat banned from app stores Sunday
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
+  - Unity Software has strong opening, gaining 31% after pricing above its raised range
+      <hr/>
+      
+      - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
+      
   - Conan O’Brien on how to embrace an ever-changing media landscape
       <hr/>
       
       - *“Like most of the best things in my life,” Conan O’Brien explains, with a wry smile, “the success of the podcast was a complete surprise.” The answer is a typically self-effacing one from the comedian. Since launching “Conan O’Brien Needs a Friend” nearly two…*
-      
+       
   - Chamath launches SPAC, SPAC, and SPAC as he SPACs the World with SPACs
       <hr/>
-      
-      - *SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…*
-      
-  - Daily Crunch: Partial US TikTok ban is imminent
-      <hr/>
-      
-      - *The Trump administration moves forwards with plans to ban TikTok and WeChat (although TikTok gets a partial extension), Unity goes public and we announce the winner of this year’s Startup Battlefield. This is your Daily Crunch for September 18, 2020. The big …*
        
-  - SaaS Ventures takes the investment road less traveled
-      <hr/>
-       
-       - *Most venture capital firms are based in hubs like Silicon Valley, New York City and Boston. These firms nurture those ecosystems and they’ve done well, but SaaS Ventures decided to go a different route: it went to cities like Chicago, Green Bay, Wisconsin and…*
+       - *SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…*
       
 
 
