@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every time you improve process, work becomes harder.
+First do it, then do it right, then do it better.
 
-~ Daniel T. Barry
+~ Addy Osmani
 <pre>
 
 </pre>
