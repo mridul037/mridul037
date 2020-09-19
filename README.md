@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Even in the games of children there are things to interest the greatest mathematician.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ Gottfried Wilhelm Leibniz
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
