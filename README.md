@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, leave it out.
+Even in the games of children there are things to interest the greatest mathematician.
 
-~ Joshua Bloch
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
