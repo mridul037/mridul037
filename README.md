@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
-~ Alan Perlis
+~ Tony Hoare
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ For all its power, the computer is a harsh taskmaster. Its programs must be corr
 
 </pre>
 **Daily News**
-  - Conan O’Brien on how to embrace an ever-changing media landscape
+  - Unity Software has strong opening, gaining 31% after pricing above its raised range
      <hr/>
      
-      - *“Like most of the best things in my life,” Conan O’Brien explains, with a wry smile, “the success of the podcast was a complete surprise.” The answer is a typically self-effacing one from the comedian. Since launching “Conan O’Brien Needs a Friend” nearly two…*
+      - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
      
+  - Conan O’Brien on how to embrace an ever-changing media landscape
+      <hr/>
+      
+      - *“Like most of the best things in my life,” Conan O’Brien explains, with a wry smile, “the success of the podcast was a complete surprise.” The answer is a typically self-effacing one from the comedian. Since launching “Conan O’Brien Needs a Friend” nearly two…*
+      
   - Chamath launches SPAC, SPAC, and SPAC as he SPACs the World with SPACs
       <hr/>
       
@@ -81,16 +86,11 @@ For all its power, the computer is a harsh taskmaster. Its programs must be corr
       <hr/>
       
       - *The Trump administration moves forwards with plans to ban TikTok and WeChat (although TikTok gets a partial extension), Unity goes public and we announce the winner of this year’s Startup Battlefield. This is your Daily Crunch for September 18, 2020. The big …*
-      
+       
   - SaaS Ventures takes the investment road less traveled
       <hr/>
-      
-      - *Most venture capital firms are based in hubs like Silicon Valley, New York City and Boston. These firms nurture those ecosystems and they’ve done well, but SaaS Ventures decided to go a different route: it went to cities like Chicago, Green Bay, Wisconsin and…*
        
-  - Gaming companies are reportedly the next targets in the US government's Tencent purge
-      <hr/>
-       
-       - *Some of the biggest names in online gaming in the United States have received letters from the U.S. government requesting information about their relationship with the multibillion-dollar Chinese technology company, Tencent, according to reports. Even as the …*
+       - *Most venture capital firms are based in hubs like Silicon Valley, New York City and Boston. These firms nurture those ecosystems and they’ve done well, but SaaS Ventures decided to go a different route: it went to cities like Chicago, Green Bay, Wisconsin and…*
       
 
 
