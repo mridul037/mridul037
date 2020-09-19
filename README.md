@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
-~ Edsger W. Dijkstra
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The competent programmer is fully aware of the strictly limited size of his own 
 
 </pre>
 **Daily News**
-  - On lying AIs
+  - From Unity to Disrupt, tech has an especially optimistic week
      <hr/>
      
-      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
+      - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
      
+  - Human Capital: The Black founder's burden
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
+      
+  - On lying AIs
+      <hr/>
+      
+      - *A yellow-eyed cat tilts its eyes at the camera, gazing up from a grey bedspread. ‘London Trip’, is the AI’s title for this photo-montage ‘Memory’ plucked from the depths of my iPhone camera-roll. It’s selected a sad score of plinking piano and sweeping violin…*
+      
   - This Week in Apps: iOS 14's surprise arrival, Apple's app bundle, TikTok & WeChat banned from app stores Sunday
       <hr/>
       
       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
+       
   - Unity Software has strong opening, gaining 31% after pricing above its raised range
       <hr/>
-      
-      - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
-      
-  - Conan O’Brien on how to embrace an ever-changing media landscape
-      <hr/>
-      
-      - *“Like most of the best things in my life,” Conan O’Brien explains, with a wry smile, “the success of the podcast was a complete surprise.” The answer is a typically self-effacing one from the comedian. Since launching “Conan O’Brien Needs a Friend” nearly two…*
        
-  - Chamath launches SPAC, SPAC, and SPAC as he SPACs the World with SPACs
-      <hr/>
-       
-       - *SPACs are going to rule the world, or at least, Chamath’s future portfolio. Chamath Palihapitiya, the founder of Social Capital, has already tripled down on SPACs, the so-called “blank check” vehicle that takes private companies and flips them onto the public…*
+       - *Whoever said you can’t make money playing video games clearly hasn’t taken a look at Unity Software’s stock price. On its first official day of trading, the company rose more than 31%, opening at $75 per share before closing the day at $68.35. Unity’s share p…*
       
 
 
