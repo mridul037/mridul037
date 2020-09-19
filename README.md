@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every good work of software starts by scratching a developer’s personal itch.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Eric S. Raymond
+~ George Boole
 <pre>
 
 </pre>
