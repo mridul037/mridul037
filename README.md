@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Alan Perlis
+~ Tim Berners-Lee
 <pre>
 
 </pre>
