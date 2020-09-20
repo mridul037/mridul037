@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 
-~ Vint Cerf
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ And programming computers was so fascinating. You create your own little univers
 
 </pre>
 **Daily News**
-  - President Trump reportedly has approved the Oracle deal for TikTok's US operations
+  - The TikTok deal solves quite literally nothing
      <hr/>
      
-      - *President Donald Trump said has has given his stamp of approval “in concept” on the Oracle bid for the U.S. operations of the wildly popular social media app, TikTok, according to a report from Bloomberg. According to the Bloomberg report Trump said, “I have …*
+      - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
      
+  - President Trump reportedly has approved the Oracle deal for TikTok's US operations
+      <hr/>
+      
+      - *President Donald Trump said has has given his stamp of approval “in concept” on the Oracle bid for the U.S. operations of the wildly popular social media app, TikTok, according to a report from Bloomberg. According to the Bloomberg report Trump said, “I have …*
+      
   - Homeland Security issues rare emergency alert over 'critical' Windows bug
       <hr/>
       
@@ -81,16 +86,11 @@ And programming computers was so fascinating. You create your own little univers
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
-      
+       
   - From Unity to Disrupt, tech has an especially optimistic week
       <hr/>
-      
-      - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
        
-  - Human Capital: The Black founder's burden
-      <hr/>
-       
-       - *Welcome back to Human Capital, where we unpack all-things diversity, inclusion and labor in tech. This week, we’re looking at Google’s internal message board problem, as well as some highlights from TechCrunch Disrupt, where I had the pleasure of chatting wit…*
+       - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
       
 
 
