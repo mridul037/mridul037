@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A beautiful program is like a beautiful theorem: It does the job elegantly.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ Butler Lampson
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
