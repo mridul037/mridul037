@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 
-~ Philip Greenspun
+~ Vint Cerf
 <pre>
 
 </pre>
