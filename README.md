@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 
-~ Anonymous
+~ Jonathan Sachs
 <pre>
 
 </pre>
