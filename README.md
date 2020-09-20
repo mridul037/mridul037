@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 
-~ Marijn Haverbeke
+~ Donald Knuth
 <pre>
 
 </pre>
