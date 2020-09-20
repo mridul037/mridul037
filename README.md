@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ Fred Brooks
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Adding people to a software project increases the total effort necessary in thre
 
 </pre>
 **Daily News**
-  - Gangster capitalism and the American theft of Chinese innovation
+  - Trump administration’s WeChat ban is blocked by U.S. district court
      <hr/>
      
-      - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
+      - *A few days ago, the U.S. Commerce Department published a series of rules that aimed to block the downloading of TikTok and WeChat by American users, following an executive order signed by President Trump back in August. TikTok got a last minute reprieve yeste…*
      
+  - Gangster capitalism and the American theft of Chinese innovation
+      <hr/>
+      
+      - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
+      
   - The TikTok deal solves quite literally nothing
       <hr/>
       
@@ -81,16 +86,11 @@ Adding people to a software project increases the total effort necessary in thre
       <hr/>
       
       - *President Donald Trump said has has given his stamp of approval “in concept” on the Oracle bid for the U.S. operations of the wildly popular social media app, TikTok, according to a report from Bloomberg. According to the Bloomberg report Trump said, “I have …*
-      
+       
   - Homeland Security issues rare emergency alert over 'critical' Windows bug
       <hr/>
-      
-      - *The bug can give attackers full control of an entire network in seconds.*
        
-  - Was Snowflake’s IPO mispriced or just misunderstood?
-      <hr/>
-       
-       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
+       - *The bug can give attackers full control of an entire network in seconds.*
       
 
 
