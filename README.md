@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
 
-~ Steve McConnell
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One of the important implications of technical debt is that it must be serviced.
 
 </pre>
 **Daily News**
-  - The TikTok deal solves quite literally nothing
+  - Gangster capitalism and the American theft of Chinese innovation
      <hr/>
      
-      - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
+      - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
      
+  - The TikTok deal solves quite literally nothing
+      <hr/>
+      
+      - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
+      
   - President Trump reportedly has approved the Oracle deal for TikTok's US operations
       <hr/>
       
@@ -81,16 +86,11 @@ One of the important implications of technical debt is that it must be serviced.
       <hr/>
       
       - *The bug can give attackers full control of an entire network in seconds.*
-      
+       
   - Was Snowflake’s IPO mispriced or just misunderstood?
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
        
-  - From Unity to Disrupt, tech has an especially optimistic week
-      <hr/>
-       
-       - *Snowflake, Jfrog, Sumo Logic and Unity each raised price ranges days before IPO, to meet what had seemed like growing enthusiasm from public markets. Each one still popped.*
+       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.  Ready? Let’s talk money, startups and spicy IPO rumors. Was S…*
       
 
 
