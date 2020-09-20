@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+AI is a fundamental risk to the existence of human civilization.
 
-~ Bill Gates
+~ Elon Musk
 <pre>
 
 </pre>
