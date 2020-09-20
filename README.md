@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 
-~ Steve Jobs
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
