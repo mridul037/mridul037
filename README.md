@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 
-~ John McCarthy (computer scientist)
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Mental qualities peculiar to human-like motivational structures, such as love an
 
 </pre>
 **Daily News**
-  - How FaZe Clan is continuing to lead the esports world
+  - Thanks to Google, app store monopoly concerns have now reached India
      <hr/>
      
-      - *The esports world is evolving quickly and so are the professional organizations that drive it. FaZe Clan is among the world’s most popular. At TechCrunch Disrupt 2020 we talked to FaZe Clan CEO Lee Trink, investor Troy Carter, and Nick Kolcheff, better known …*
+      - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
      
+  - How FaZe Clan is continuing to lead the esports world
+      <hr/>
+      
+      - *The esports world is evolving quickly and so are the professional organizations that drive it. FaZe Clan is among the world’s most popular. At TechCrunch Disrupt 2020 we talked to FaZe Clan CEO Lee Trink, investor Troy Carter, and Nick Kolcheff, better known …*
+      
   - Original Content podcast: 'Wireless' shows off Quibi's Turnstyle technology
       <hr/>
       
@@ -81,16 +86,11 @@ Mental qualities peculiar to human-like motivational structures, such as love an
       <hr/>
       
       - *A few days ago, the U.S. Commerce Department published a series of rules that aimed to block the downloading of TikTok and WeChat by American users, following an executive order signed by President Trump back in August. TikTok got a last minute reprieve yeste…*
-      
+       
   - Gangster capitalism and the American theft of Chinese innovation
       <hr/>
-      
-      - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
        
-  - The TikTok deal solves quite literally nothing
-      <hr/>
-       
-       - *Well… that was pointless. After debasing the idea of free commerce in the U.S in the name of a misplaced security concern, stringing along several multi-billion dollar companies that embarrassed themselves in the interest of naked greed, and demanding that th…*
+       - *It used to be “easy” to tell the American and Chinese economies apart. One was innovative, one made clones. One was a free market while the other demanded payments to a political party and its leadership, a corrupt wealth generating scam that by some estimate…*
       
 
 
