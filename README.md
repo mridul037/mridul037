@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Robert C. Martin
+~ Jim Horning
 <pre>
 
 </pre>
