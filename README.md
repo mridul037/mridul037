@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+Sometimes it’s just easier to throw a system away, and start over.
 
-~ Fred Brooks
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
