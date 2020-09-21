@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ John McCarthy (computer scientist)
+~ George Boole
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Machines as simple as thermostats can be said to have beliefs.
 
 </pre>
 **Daily News**
-  - TikTok fact-checks: US IPO, Chinese ownership, $5B in taxes
+  - Kindred Capital closes £81M second fund to back early-stage European startups
      <hr/>
      
-      - *There is no shortage of speculations and reports around TikTok’s future in the U.S. Amid a swirl of rumors, TikTok’s Chinese parent ByteDance issued a statement (in Chinese) on Monday morning, bringing clarity to its ongoing deal that has captured global atte…*
+      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe, has closed its second seed fund at £81 million. That’s only a tad larger than the the firm’s first fund, which invested in 29 companies and was raised in 2018. Portfolio companies…*
      
+  - TikTok fact-checks: US IPO, Chinese ownership, $5B in taxes
+      <hr/>
+      
+      - *There is no shortage of speculations and reports around TikTok’s future in the U.S. Amid a swirl of rumors, TikTok’s Chinese parent ByteDance issued a statement (in Chinese) on Monday morning, bringing clarity to its ongoing deal that has captured global atte…*
+      
   - Indian mobile gaming platform Mobile Premier League raises $90 million
       <hr/>
       
@@ -81,16 +86,11 @@ Machines as simple as thermostats can be said to have beliefs.
       <hr/>
       
       - *"You cannot eliminate encryption safely," said the House Democrat.*
-      
+       
   - Thanks to Google, app store monopoly concerns have now reached India
       <hr/>
-      
-      - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
        
-  - How FaZe Clan is continuing to lead the esports world
-      <hr/>
-       
-       - *The esports world is evolving quickly and so are the professional organizations that drive it. FaZe Clan is among the world’s most popular. At TechCrunch Disrupt 2020 we talked to FaZe Clan CEO Lee Trink, investor Troy Carter, and Nick Kolcheff, better known …*
+       - *Last week, as Epic Games, Facebook, and Microsoft continued to express concerns about Apple’s “monopolistic” hold over what a billion people can download on their iPhones, a similar story unfolded in India, the world’s second largest internet market, between …*
       
 
 
