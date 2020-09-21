@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 
-~ Arthur C. Clarke
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any sufficiently advanced technology is indistinguishable from magic.
 
 </pre>
 **Daily News**
-  - CDC removes updated guidelines around COVID-19 aerosol transmission, but this expert explains why it should reverse the reversal
+  - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
      <hr/>
      
-      - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
+      - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
      
+  - Daily Crunch: This TikTok deal is pretty confusing
+      <hr/>
+      
+      - *Companies send out conflicting messages about the TikTok deal, Microsoft acquires a gaming giant and the WeChat ban is temporarily blocked. This is your Daily Crunch for September 21, 2020. The big story: This TikTok deal is pretty confusing This keeps gettin…*
+      
+  - CDC removes updated guidelines around COVID-19 aerosol transmission, but this expert explains why it should reverse the reversal
+      <hr/>
+      
+      - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
+      
   - Following TechCrunch reporting, Palantir rapidly removes language allowing founders to “unilaterally adjust their total voting power”
       <hr/>
       
       - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
-      
+       
   - Edtech investors are panning for gold
       <hr/>
-      
-      - *The spotlight on edtech grows brighter and harsher: On one end, remote-learning startups are attracting millions in venture capital. On the other, many educators and parents are unimpressed with the technology that enables virtual learning and gaps remain in …*
-      
-  - Twitter and Zoom's algorithmic bias issues
-      <hr/>
-      
-      - *Both Zoom and Twitter found themselves under fire this weekend for their respective issues with algorithmic bias. On Zoom, it’s an issue with the video conferencing service’s virtual backgrounds and on Twitter, it’s an issue with the site’s photo cropping too…*
        
-  - Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global
-      <hr/>
-       
-       - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
+       - *The spotlight on edtech grows brighter and harsher: On one end, remote-learning startups are attracting millions in venture capital. On the other, many educators and parents are unimpressed with the technology that enables virtual learning and gaps remain in …*
       
 
 
