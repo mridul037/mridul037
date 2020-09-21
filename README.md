@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
 
-~ Pete Cordell
+~ Michael A. Jackson
 <pre>
 
 </pre>
