@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes it’s just easier to throw a system away, and start over.
+Computer programs are the most complex things that humans make.
 
-~ Joseph Yoder (computer scientist)
+~ Douglas Crockford
 <pre>
 
 </pre>
