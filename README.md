@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+A computer shall not waste your time or require you to do more work than is strictly necessary.
 
-~ Gary Kildall
+~ Jef Raskin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When a program is clean and neat, nicely structured, and consistent, it can be b
 
 </pre>
 **Daily News**
-  - Osso VR raises $14 million to bring virtual reality to surgical and medical device training
+  - Equity Monday: The TikTok mess, and a grip of neat European VC activity
      <hr/>
      
-      - *It seems that distance learning is even coming for the healthcare industry. As remote work becomes the order of the day in the COVID-19 era, any tool that can bring training and education services to folks across industries is gaining a huge amount of investo…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
      
-  - Nikola's chairman steps down, stock crashes following allegations of fraud
+  - Microsoft set to acquire Bethesda parent ZeniMax for $7.5B
       <hr/>
       
-      - *Nikola Corp. founder and Executive Chairman Trevor Milton is stepping down from the electric truck company effective immediately. This comes in the wake of a report from a noted short-selling accusing the company of fraud. Milton is succeeded by Stephen Girsk…*
+      - *Microsoft this morning announced plans to acquire ZeniMax Media Inc. for $7.5 billion in cash. The gaming holding company is the parent to a number of high profile publishers, including Bethesda Game Studios, id Software, ZeniMax Online Studios, Arkane, Machi…*
       
-  - Amnesty calls for human rights controls on EU digital surveillance exports
+  - ByteDance says it will own a majority of TikTok. Oracle says ByteDance will own 0%. WTF is this deal?
       <hr/>
       
-      - *In a new report, Amnesty International says it’s found evidence of EU companies selling digital surveillance technologies to China — despite the stark human rights risks of technologies like facial recognition ending up in the hands of an authoritarian regime…*
+      - *You know a deal is signed and going to close when the parties keep fact checking each other and no one can agree on what the deal actually says. We’ve been following the TikTok / Oracle deal for sometime here on TechCrunch, and over the weekend, it seemed lik…*
       
-  - With $100M in funding, Playco is already a mobile gaming unicorn
+  - Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon
       <hr/>
       
-      - *Playco is a new mobile gaming startup created by Game Closure co-founder Michael Carter and Zynga co-founder Justin Waldron, as well as game producers Takeshi Otsuka and Teddy Cross. Although the Tokyo-headquartered company is only announcing its existence to…*
+      - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
        
-  - Ireland's data watchdog slammed for letting adtech carry on 'biggest breach of all time'
+  - The Lumos Matrix is the ideal urban bike helmet for a smarter, safer day trip
       <hr/>
        
-       - *A dossier of evidence detailing how the online ad targeting industry profiles Internet users’ intimate characteristics without their knowledge or consent has been published today by the Irish Council for Civil Liberties (ICCL), piling more pressure on the cou…*
+       - *With many of us are still more or less confined to our own homes and limited social spaces for the foreseeable future, and for a lot of you, that has led to a rediscovery of the joys of biking. Bike riding is a great way to spend time outdoors exploring your …*
       
 
 
