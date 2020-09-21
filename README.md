@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Michael A. Jackson
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The beginning of wisdom for a programmer is to recognize the difference between 
 
 </pre>
 **Daily News**
-  - Ireland's data watchdog slammed for letting adtech carry on 'biggest breach of all time'
+  - Osso VR raises $14 million to bring virtual reality to surgical and medical device training
      <hr/>
      
-      - *A dossier of evidence detailing how the online ad targeting industry profiles Internet users’ intimate characteristics without their knowledge or consent has been published today by the Irish Council for Civil Liberties (ICCL), piling more pressure on the cou…*
+      - *It seems that distance learning is even coming for the healthcare industry. As remote work becomes the order of the day in the COVID-19 era, any tool that can bring training and education services to folks across industries is gaining a huge amount of investo…*
      
-  - Language learning service Babbel says it has now sold over 10M subscriptions
+  - Nikola's chairman steps down, stock crashes following allegations of fraud
       <hr/>
       
-      - *Babbel, the popular Berlin-based online language learning service, today announced that it has now sold a total of 10 million subscriptions to its service. For a language learning service, that’s quite a substantial number, especially given that Babbel doesn’…*
+      - *Nikola Corp. founder and Executive Chairman Trevor Milton is stepping down from the electric truck company effective immediately. This comes in the wake of a report from a noted short-selling accusing the company of fraud. Milton is succeeded by Stephen Girsk…*
       
-  - Kindred Capital closes £81M second fund to back early-stage European startups
+  - Amnesty calls for human rights controls on EU digital surveillance exports
       <hr/>
       
-      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe, has closed its second seed fund at £81 million. That’s only a tad larger than the the firm’s first fund, which invested in 29 companies and was raised in 2018. Portfolio companies…*
+      - *In a new report, Amnesty International says it’s found evidence of EU companies selling digital surveillance technologies to China — despite the stark human rights risks of technologies like facial recognition ending up in the hands of an authoritarian regime…*
       
-  - TikTok fact-checks: US IPO, Chinese ownership, $5B in taxes
+  - With $100M in funding, Playco is already a mobile gaming unicorn
       <hr/>
       
-      - *There is no shortage of speculations and reports around TikTok’s future in the U.S. Amid a swirl of rumors, TikTok’s Chinese parent ByteDance issued a statement (in Chinese) on Monday morning, bringing clarity to its ongoing deal that has captured global atte…*
+      - *Playco is a new mobile gaming startup created by Game Closure co-founder Michael Carter and Zynga co-founder Justin Waldron, as well as game producers Takeshi Otsuka and Teddy Cross. Although the Tokyo-headquartered company is only announcing its existence to…*
        
-  - Indian mobile gaming platform Mobile Premier League raises $90 million
+  - Ireland's data watchdog slammed for letting adtech carry on 'biggest breach of all time'
       <hr/>
        
-       - *Mobile Premier League (MPL) has raised $90 million in a new financing round as the two-year-old Bangalore-based esports and mobile gaming platform grows its user base and looks to expand outside of India. SIG, early-stage tech investor RTP Global, and MDI Ven…*
+       - *A dossier of evidence detailing how the online ad targeting industry profiles Internet users’ intimate characteristics without their knowledge or consent has been published today by the Irish Council for Civil Liberties (ICCL), piling more pressure on the cou…*
       
 
 
