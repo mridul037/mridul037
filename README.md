@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
+People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 
-~ Robert C. Martin
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ No matter how slow you are writing clean code, you will always be slower if you 
 
 </pre>
 **Daily News**
-  - Facebook's new Rights Manager tool lets creators protect their photos, including those embedded elsewhere
+  - The Peloton effect
      <hr/>
      
-      - *Facebook today is introducing a new tool that will allow rights holders to protect and manage their photos across both Facebook and Instagram. With the newly launched “Rights Manager for Images,” Facebook is offering creators and publishers access to content …*
+      - *During the most recent quarter, only a few earnings reports stood out from the rest. Zoom’s set of results were one of them, with the video-communications company showing enormous acceleration as the world replaced in-person contact with remote chat. Another …*
      
-  - Equity Monday: The TikTok mess, and a grip of neat European VC activity
+  - Illumina buying cancer-screening spinout Grail in blockbuster $8B biotech deal
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Biotech has become one of the hottest areas of venture investment in recent years, as progress in machine learning, genetics, medical devices, and biology fuse together into new products for the gargantuan health industry. Case in point: Grail, which began in…*
       
-  - Microsoft set to acquire Bethesda parent ZeniMax for $7.5B
+  - NBCUniversal's Peacock is now live on Roku
       <hr/>
       
-      - *Microsoft this morning announced plans to acquire ZeniMax Media Inc. for $7.5 billion in cash. The gaming holding company is the parent to a number of high profile publishers, including Bethesda Game Studios, id Software, ZeniMax Online Studios, Arkane, Machi…*
+      - *NBCUniversal and Roku announced late last week that they’d resolved the dispute that was keeping NBCU’s streaming Peacock app off Roku’s smart TV platform. And as of this morning, Peacock has launched on Roku . When Peacock launched in July, it was not availa…*
       
-  - ByteDance says it will own a majority of TikTok. Oracle says ByteDance will own 0%. WTF is this deal?
+  - A meeting room of one's own: three VCs discuss breaking out of big firms to start their own gigs
       <hr/>
       
-      - *You know a deal is signed and going to close when the parties keep fact checking each other and no one can agree on what the deal actually says. We’ve been following the TikTok / Oracle deal for sometime here on TechCrunch, and over the weekend, it seemed lik…*
+      - *One of the more salient trends in the tech world — arguably the engine that propels it — has been the recurring theme of people who hone talents at bigger companies and then strike out on their own to found their own startups. (Some, like Max Levchin, even hi…*
        
-  - Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon
+  - In its 5th filing with the SEC, Palantir finally admits it is not a democracy
       <hr/>
        
-       - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
+       - *Palantir is not a democracy, and it really, really, really wants you to know that. Palantir’s governance has been under an exacting lens from regulators the past few weeks as it prepares for a public direct listing on September 29th. In revision after revisio…*
       
 
 
