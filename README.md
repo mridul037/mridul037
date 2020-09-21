@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Donald Knuth
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ People think that computer science is the art of geniuses but the actual reality
 
 </pre>
 **Daily News**
-  - The Peloton effect
+  - Pandemic accelerated cord cutting, making 2020 the worst-ever year for pay TV
      <hr/>
      
-      - *During the most recent quarter, only a few earnings reports stood out from the rest. Zoom’s set of results were one of them, with the video-communications company showing enormous acceleration as the world replaced in-person contact with remote chat. Another …*
+      - *The pandemic has accelerated adoption of a number of technologies, from online grocery to multi-platform gaming to streaming services and more. But one industry that has not benefited is traditional pay TV. According to new research from eMarketer, the cable,…*
      
-  - Illumina buying cancer-screening spinout Grail in blockbuster $8B biotech deal
+  - Microsoft commits to putting more water than it consumes back into the ecosystems where it operates by 2030
       <hr/>
       
-      - *Biotech has become one of the hottest areas of venture investment in recent years, as progress in machine learning, genetics, medical devices, and biology fuse together into new products for the gargantuan health industry. Case in point: Grail, which began in…*
+      - *One good trend in 2020 has been large technology companies almost falling over one another to make ever-bolder commitments regarding their ecological impact. A cynic might argue that just doing without most of the things they make could have a much greater im…*
       
-  - NBCUniversal's Peacock is now live on Roku
+  - Group discounts let you bring the team to TC Sessions: Mobility 2020
       <hr/>
       
-      - *NBCUniversal and Roku announced late last week that they’d resolved the dispute that was keeping NBCU’s streaming Peacock app off Roku’s smart TV platform. And as of this morning, Peacock has launched on Roku . When Peacock launched in July, it was not availa…*
+      - *There’s a lot of virtual ground for one person to cover — and real opportunities to uncover — during the two days of TC Sessions: Mobility 2020 (Oct. 6-7). Take advantage of our group discounts, bring the whole team and multiply your results and your ROI. Buy…*
       
-  - A meeting room of one's own: three VCs discuss breaking out of big firms to start their own gigs
+  - Miami-based Marco Financial is launching a revenue-based lending service for Latin American SMEs
       <hr/>
       
-      - *One of the more salient trends in the tech world — arguably the engine that propels it — has been the recurring theme of people who hone talents at bigger companies and then strike out on their own to found their own startups. (Some, like Max Levchin, even hi…*
+      - *Marco Financial, a new Miami-based startup, is looking to take a piece of the roughly $350 billion trade finance market for Latin American exporters with its novel factoring services business.  Small and medium sized businesses in Latin America can have troub…*
        
-  - In its 5th filing with the SEC, Palantir finally admits it is not a democracy
+  - The Peloton effect
       <hr/>
        
-       - *Palantir is not a democracy, and it really, really, really wants you to know that. Palantir’s governance has been under an exacting lens from regulators the past few weeks as it prepares for a public direct listing on September 29th. In revision after revisio…*
+       - *During the most recent quarter, only a few earnings reports stood out from the rest. Zoom’s set of results were one of them, with the video-communications company showing enormous acceleration as the world replaced in-person contact with remote chat. Another …*
       
 
 
