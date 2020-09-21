@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer shall not waste your time or require you to do more work than is strictly necessary.
+No matter how slow you are writing clean code, you will always be slower if you make a mess.
 
-~ Jef Raskin
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A computer shall not waste your time or require you to do more work than is stri
 
 </pre>
 **Daily News**
-  - Equity Monday: The TikTok mess, and a grip of neat European VC activity
+  - Facebook's new Rights Manager tool lets creators protect their photos, including those embedded elsewhere
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Facebook today is introducing a new tool that will allow rights holders to protect and manage their photos across both Facebook and Instagram. With the newly launched “Rights Manager for Images,” Facebook is offering creators and publishers access to content …*
      
+  - Equity Monday: The TikTok mess, and a grip of neat European VC activity
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      
   - Microsoft set to acquire Bethesda parent ZeniMax for $7.5B
       <hr/>
       
@@ -81,16 +86,11 @@ A computer shall not waste your time or require you to do more work than is stri
       <hr/>
       
       - *You know a deal is signed and going to close when the parties keep fact checking each other and no one can agree on what the deal actually says. We’ve been following the TikTok / Oracle deal for sometime here on TechCrunch, and over the weekend, it seemed lik…*
-      
+       
   - Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon
       <hr/>
-      
-      - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
        
-  - The Lumos Matrix is the ideal urban bike helmet for a smarter, safer day trip
-      <hr/>
-       
-       - *With many of us are still more or less confined to our own homes and limited social spaces for the foreseeable future, and for a lot of you, that has led to a rediscovery of the joys of biking. Bike riding is a great way to spend time outdoors exploring your …*
+       - *Last year, Amazon announced its Sidewalk network, a new low-bandwidth, long-distance wireless protocol it developed to help connect smart devices inside and — maybe even more importantly — outside of your home. Sidewalk, which is somewhat akin to a mesh netwo…*
       
 
 
