@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ Fred Brooks
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Conceptual integrity is the most important consideration in system design. It is
 
 </pre>
 **Daily News**
-  - Pandemic accelerated cord cutting, making 2020 the worst-ever year for pay TV
+  - Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global
      <hr/>
      
-      - *The pandemic has accelerated adoption of a number of technologies, from online grocery to multi-platform gaming to streaming services and more. But one industry that has not benefited is traditional pay TV. According to new research from eMarketer, the cable,…*
+      - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
      
-  - Microsoft commits to putting more water than it consumes back into the ecosystems where it operates by 2030
+  - How to make the most of iOS 14 widgets and iPhone home screen customization
       <hr/>
       
-      - *One good trend in 2020 has been large technology companies almost falling over one another to make ever-bolder commitments regarding their ecological impact. A cynic might argue that just doing without most of the things they make could have a much greater im…*
+      - *You’ve probably seen the screenshots going around that show iOS home screens that differ considerably from the stock options that Apple provides. Yes, if you’re an Android user you’re probably laughing at iPhone owners for finally (nearly) catching up to the …*
       
-  - Group discounts let you bring the team to TC Sessions: Mobility 2020
+  - Launcher brings its powerful widget-making app to iOS 14
       <hr/>
       
-      - *There’s a lot of virtual ground for one person to cover — and real opportunities to uncover — during the two days of TC Sessions: Mobility 2020 (Oct. 6-7). Take advantage of our group discounts, bring the whole team and multiply your results and your ROI. Buy…*
+      - *Launcher is bringing its customizable widgets to iOS 14 with new functionality, including the ability to rotate a widget’s icons by date, time or even location. It also supports customizable widget backgrounds, icons of different sizes, or those with no label…*
       
-  - Miami-based Marco Financial is launching a revenue-based lending service for Latin American SMEs
+  - Despite slowdowns, pandemic accelerates shifts in hardware manufacturing
       <hr/>
       
-      - *Marco Financial, a new Miami-based startup, is looking to take a piece of the roughly $350 billion trade finance market for Latin American exporters with its novel factoring services business.  Small and medium sized businesses in Latin America can have troub…*
+      - *The COVID-19 pandemic didn’t hit every factory in China at once. The initial impact to China’s electronics industry arrived around the time the nation was celebrating its new year. Two weeks after announcing 59 known cases of a new form of coronavirus, the na…*
        
-  - The Peloton effect
+  - Pandemic accelerated cord cutting, making 2020 the worst-ever year for pay TV
       <hr/>
        
-       - *During the most recent quarter, only a few earnings reports stood out from the rest. Zoom’s set of results were one of them, with the video-communications company showing enormous acceleration as the world replaced in-person contact with remote chat. Another …*
+       - *The pandemic has accelerated adoption of a number of technologies, from online grocery to multi-platform gaming to streaming services and more. But one industry that has not benefited is traditional pay TV. According to new research from eMarketer, the cable,…*
       
 
 
