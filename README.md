@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
 
-~ Maurice Wilkes
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 
 </pre>
 **Daily News**
-  - Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global
+  - Edtech investors are panning for gold
      <hr/>
      
-      - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
+      - *The spotlight on edtech grows brighter and harsher: On one end, remote-learning startups are attracting millions in venture capital. On the other, many educators and parents are unimpressed with the technology that enables virtual learning and gaps remain in …*
      
+  - Twitter and Zoom's algorithmic bias issues
+      <hr/>
+      
+      - *Both Zoom and Twitter found themselves under fire this weekend for their respective issues with algorithmic bias. On Zoom, it’s an issue with the video conferencing service’s virtual backgrounds and on Twitter, it’s an issue with the site’s photo cropping too…*
+      
+  - Hailing a self-driving taxi when blind. Learn how Waymo answers that challenge at Sight Tech Global
+      <hr/>
+      
+      - *Imagine yourself unable to see well enough to drive, and how that would change your life. I witness that scenario every day at home with my wife, who is legally blind, and a very busy person. She reveres Uber and Lyft because they provided her with the still …*
+      
   - How to make the most of iOS 14 widgets and iPhone home screen customization
       <hr/>
       
       - *You’ve probably seen the screenshots going around that show iOS home screens that differ considerably from the stock options that Apple provides. Yes, if you’re an Android user you’re probably laughing at iPhone owners for finally (nearly) catching up to the …*
-      
+       
   - Launcher brings its powerful widget-making app to iOS 14
       <hr/>
-      
-      - *Launcher is bringing its customizable widgets to iOS 14 with new functionality, including the ability to rotate a widget’s icons by date, time or even location. It also supports customizable widget backgrounds, icons of different sizes, or those with no label…*
-      
-  - Despite slowdowns, pandemic accelerates shifts in hardware manufacturing
-      <hr/>
-      
-      - *The COVID-19 pandemic didn’t hit every factory in China at once. The initial impact to China’s electronics industry arrived around the time the nation was celebrating its new year. Two weeks after announcing 59 known cases of a new form of coronavirus, the na…*
        
-  - Pandemic accelerated cord cutting, making 2020 the worst-ever year for pay TV
-      <hr/>
-       
-       - *The pandemic has accelerated adoption of a number of technologies, from online grocery to multi-platform gaming to streaming services and more. But one industry that has not benefited is traditional pay TV. According to new research from eMarketer, the cable,…*
+       - *Launcher is bringing its customizable widgets to iOS 14 with new functionality, including the ability to rotate a widget’s icons by date, time or even location. It also supports customizable widget backgrounds, icons of different sizes, or those with no label…*
       
 
 
