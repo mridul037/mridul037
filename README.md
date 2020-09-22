@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
-~ Douglas Crockford
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Don't worry about anything. Just do what you can and be the best you can be.
 
 </pre>
 **Daily News**
-  - Green Monday Holdings, the business arm of Hong Kong's vegetarian advocacy group, raises $70 million from TPG, Swire Pacific
+  - Mark Cuban, Marc Benioff, Robert Downey Jr., Gwyneth Paltrow, and Uber CEO Dara Khosrowshahi are investing in toilet paper
      <hr/>
      
-      - *Green Monday Holdings, a manufacturer of plant-based pork substitute products and frozen meals and an operator of a chain of vegetarian-focused retail outlets and cafes, said it has raised $70 million in financing from investors including TPG’s The Rise Fund …*
+      - *A slew of big name entrepreneurs and celebrities are really circling the drain with their latest investment. Led by Greycroft Partners, a who’s who of celebrity investors including: Mark Cuban, Marc Benioff, Iron Man and Pepper Potts (er… Robert Downey Jr. an…*
      
+  - Pure Watercraft ramps up its electric outboard motors with a $23M series A
+      <hr/>
+      
+      - *Electric power only started making sense for land vehicles about ten years ago, but now the technology is ready to make the jump into the water. Pure Watercraft hopes that its electric outboard motor can replace a normal gas one for most boating needs under 5…*
+      
+  - Satellite radar startup ICEYE raises 87 million to continue to grow its operational constellation
+      <hr/>
+      
+      - *Finnish startup ICEYE, which has been building out and operating a constellation of Synthetic-Aperture Radar (SAR) small satellites, has raised an $87 million Series C round of financing. This round of funding was led by existing investor True Ventures, and i…*
+      
+  - Green Monday Holdings, the business arm of Hong Kong's vegetarian advocacy group, raises $70 million from TPG, Swire Pacific
+      <hr/>
+      
+      - *Green Monday Holdings, a manufacturer of plant-based pork substitute products and frozen meals and an operator of a chain of vegetarian-focused retail outlets and cafes, said it has raised $70 million in financing from investors including TPG’s The Rise Fund …*
+       
   - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
       <hr/>
-      
-      - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
-      
-  - Europe's Point Nine outs new ~€100M fund to back early-stage SaaS and digital marketplaces
-      <hr/>
-      
-      - *Point Nine, the pan-European early-stage VC focused on SaaS and digital marketplaces, has raised its fifth fund, totalling just short of €100 million (in fact, “P9 V” is a €99,999,999 fund — get it?). Despite its Berlin, Germany roots, the VC has always opera…*
-      
-  - China's electric carmaker WM Motor pulls in $1.47 billion Series D
-      <hr/>
-      
-      - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
        
-  - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
-      <hr/>
-       
-       - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
+       - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
       
 
 
