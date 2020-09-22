@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+I'm interested in creating images that communicate with people.
 
-~ Edsger W. Dijkstra
+~ Toru Iwatani
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If debugging is the process of removing software bugs, then programming must be 
 
 </pre>
 **Daily News**
-  - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
+  - Big tech has 2 elephants in the room: Privacy and competition
      <hr/>
      
-      - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
+      - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
      
+  - Mirakl raises $300 million for its marketplace platform
+      <hr/>
+      
+      - *French startup Mirakl has raised a $300 million funding round at a $1.5 billion valuation — the company is now a unicorn. Mirakl helps you launch and manage a marketplace on your e-commerce website. Many customers also rely on Mirakl-powered marketplaces for …*
+      
+  - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
+      <hr/>
+      
+      - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
+      
   - Introducing the Expo Pass for TC Sessions: Mobility 2020
       <hr/>
       
       - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
-      
+       
   - HMD is bringing a 5G smartphone and wireless earbuds to the US
       <hr/>
-      
-      - *Over the past four years or so, HMD has carved out a nice little niche for itself with its Nokia-branded handsets. The instant name recognition of a legacy brand was a nice little perch on which to gain some footing in an overcrowded market. Pricing has long …*
-      
-  - Event discovery network IRL raises $16M Series B after refocusing on virtual events
-      <hr/>
-      
-      - *The COVID-19 pandemic impacted the way a number of companies have had to do business. For the event discovery startup, IRL, it meant pivoting into the virtual events space. This April, the startup quickly reacted to government lockdowns and restrictions on in…*
        
-  - Bose introduces a new pair of sleep-focused earbuds
-      <hr/>
-       
-       - *Sleep is tough to come by even when there isn’t a pandemic raging. Even when it doesn’t feel like the world is coming apart at the seams every damn day. Bose’s original Sleepbuds pre-date the current desperate moment of “coronasomnia” (not my turn of phrase, …*
+       - *Over the past four years or so, HMD has carved out a nice little niche for itself with its Nokia-branded handsets. The instant name recognition of a legacy brand was a nice little perch on which to gain some footing in an overcrowded market. Pricing has long …*
       
 
 
