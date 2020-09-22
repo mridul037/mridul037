@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to know that you have found the last bug is never to find the first bug.
+Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 
-~ Harlan Mills
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best way to know that you have found the last bug is never to find the first
 
 </pre>
 **Daily News**
-  - Google launches a work-tracking tool and Airtable rival, Tables
+  - Join Accel’s Andrew Braccia and Sonali De Rycker for a live Q&A today at 2 pm EDT/11 am PDT
      <hr/>
      
-      - *Google’s in-house incubator Area 120 is today introducing a new work-tracking tool, Tables, which aims to make tracking projects more efficient by investing in automation. Instead of simply tracking notes and tasks associated with a project in various documen…*
+      - *Disrupt was just days ago, but the TechCrunch crew is continuing our regular series of public chats with leading founders and venture capitalists under the Extra Crunch Live banner. Today, we’re excited to host Andrew Braccia and Sonali De Rycker from Accel. …*
      
-  - Willow, the startup making the wearable breast pump, raises $55 million
+  - Amazon taps Echelon for the Prime Bike, a $500 Peloton knock-off
       <hr/>
       
-      - *Willow, the startup company making a new, wearable, breast pump for women, is capping off a frenetic 2020 with $55 million in fresh funding as it looks to expand its product line to more offerings for new mothers. The company is coming off a year which saw sa…*
+      - *Amazon teamed up with Echelon to build and sell the Prime Bike. The $500 exercise bike is a virtual clone of the $1900 Peloton bike minus the screen — even the color scheme and design are the same. The bike is available now from Amazon (and Walmart with sligh…*
       
-  - EasySend raises $16M from Intel, more for its no-code approach to automating B2C interfaces
+  - How has Corsair Gaming posted such impressive pre-IPO numbers?
       <hr/>
       
-      - *No-code and low-code software have become increasingly popular ways for companies — especially those that don’t count technology as part of their DNA — to bring in more updated IT processes without the heavy lifting needed to build and integrate services from…*
+      - *After the last few weeks of IPOs, you’d be forgiven if you missed Corsair Gaming’s own public offering. The company is not our usual fare. Here at TechCrunch, we care a lot of about startups, usually technology startups, which often collect capital from priva…*
       
-  - TikTok, WeChat and the growing digital divide between the U.S. and China
+  - Blue Origin targets this Thursday for New Shepard reusable rocket launch with NASA landing system test
       <hr/>
       
-      - *Over the past decade, the dynamic between Chinese and United States tech companies has undergone dramatic shifts. Once seen as a promising market for American companies, that narrative flipped as China’s tech innovation and investment power became increasingl…*
+      - *Blue Origin just announced the timing of its next rocket launch – and it’s surprisingly soon, in just two days on Thursday, September 24. The launch of Blue Origin’s New Shepard vehicle will be its 13th overall for that category of launch craft, and the 7th i…*
        
-  - Made In Space is sending the first ceramic manufacturing facility in space to the ISS next week
+  - Royole returns with another foldable
       <hr/>
        
-       - *In-space manufacturing company Made In Space is pushing the envelope on what can, well, be made in space with its next mission – which is set to launch aboard a Northrop Grumman International Space Station (ISS) resupply mission set for next Tuesday. Aboard t…*
+       - *I first spent time with the Royole Flexpai at a TechCrunch event in China back in 2018. The devices was exciting. It was the first commercially released foldable, after all, before Samsung and Huawei offered their respective takes on the form factor. But ulti…*
       
 
 
