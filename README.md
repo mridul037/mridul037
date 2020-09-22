@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how slow you are writing clean code, you will always be slower if you make a mess.
+In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 
-~ Robert C. Martin
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ No matter how slow you are writing clean code, you will always be slower if you 
 
 </pre>
 **Daily News**
-  - CMU's MoonRanger robot rover will be the first to search for water ice on the Moon in 2022
+  - Papa raises $18 million to expand its business connecting older adults with virtual and in-person companions
      <hr/>
      
-      - *Carnegie Mellon University and spinoff space startup Astrobotic are developing a robotic rover to look for water on the Moon, and the little bot just passed the crucial preliminary design review phase, putting it one step closer to its inaugural mission plann…*
+      - *The Miami-based startup Papa has raised an additional $18 million as it looks to expand its business connecting elderly Americans and families with physical and virtual companions, which the company calls “pals.” The company’s services are already available i…*
      
+  - Gillmor Gang: Watch Party
+      <hr/>
+      
+      - *This Gillmor Gang episode is as much about what we didn’t talk about as what we did. In the run up to the recording session, we somehow suspected we’d talk about Apple’s virtual event on Tuesday. Then, 15 minutes after we finished, RBG lost her battle to keep…*
+      
+  - CMU's MoonRanger robot rover will be the first to search for water ice on the Moon in 2022
+      <hr/>
+      
+      - *Carnegie Mellon University and spinoff space startup Astrobotic are developing a robotic rover to look for water on the Moon, and the little bot just passed the crucial preliminary design review phase, putting it one step closer to its inaugural mission plann…*
+      
   - Chinese propaganda network on Facebook used AI-generated faces
       <hr/>
       
       - *Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign, the company says it took down 155 Facebook …*
-      
+       
   - Pinterest breaks daily download record due to user interest in iOS 14 design ideas
       <hr/>
-      
-      - *The excitement around the ability to customize your iPhone homescreen following the release of iOS 14 has been paying off for Pinterest. According to new third-party estimates, Pinterest’s app has seen record global daily downloads and a swift climb up the Ap…*
-      
-  - Explore the global markets of micromobility at TC Sessions: Mobility
-      <hr/>
-      
-      - *While electric scooters first launched at scale in the U.S., they quickly made their way overseas. Now, there’s a bustling electric scooter market in Europe, China, Latin America and one that’s growing in parts of Africa. At TC Sessions: Mobility on October 6…*
        
-  - WellSaid Labs research takes synthetic speech from seconds-long clips to hours
-      <hr/>
-       
-       - *Millions of homes have voice-enabled devices, but when was the last time you heard a piece of synthesized speech longer than a handful of seconds? WellSaid Labs has pushed the field ahead with a voice engine that can easily and quickly generate hours of voice…*
+       - *The excitement around the ability to customize your iPhone homescreen following the release of iOS 14 has been paying off for Pinterest. According to new third-party estimates, Pinterest’s app has seen record global daily downloads and a swift climb up the Ap…*
       
 
 
