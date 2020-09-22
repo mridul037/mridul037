@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+The act of describing a program in unambiguous detail and the act of programming are one and the same.
 
-~ Bill Gates
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Success is a lousy teacher. It seduces smart people into thinking they can't los
 
 </pre>
 **Daily News**
-  - Join Accel’s Andrew Braccia and Sonali De Rycker for a live Q&A today at 2 pm EDT/11 am PDT
+  - Introducing the Expo Pass for TC Sessions: Mobility 2020
      <hr/>
      
-      - *Disrupt was just days ago, but the TechCrunch crew is continuing our regular series of public chats with leading founders and venture capitalists under the Extra Crunch Live banner. Today, we’re excited to host Andrew Braccia and Sonali De Rycker from Accel. …*
+      - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
      
-  - Amazon taps Echelon for the Prime Bike, a $500 Peloton knock-off
+  - HMD is bringing a 5G smartphone and wireless earbuds to the US
       <hr/>
       
-      - *Amazon teamed up with Echelon to build and sell the Prime Bike. The $500 exercise bike is a virtual clone of the $1900 Peloton bike minus the screen — even the color scheme and design are the same. The bike is available now from Amazon (and Walmart with sligh…*
+      - *Over the past four years or so, HMD has carved out a nice little niche for itself with its Nokia-branded handsets. The instant name recognition of a legacy brand was a nice little perch on which to gain some footing in an overcrowded market. Pricing has long …*
       
-  - How has Corsair Gaming posted such impressive pre-IPO numbers?
+  - Event discovery network IRL raises $16M Series B after refocusing on virtual events
       <hr/>
       
-      - *After the last few weeks of IPOs, you’d be forgiven if you missed Corsair Gaming’s own public offering. The company is not our usual fare. Here at TechCrunch, we care a lot of about startups, usually technology startups, which often collect capital from priva…*
+      - *The COVID-19 pandemic impacted the way a number of companies have had to do business. For the event discovery startup, IRL, it meant pivoting into the virtual events space. This April, the startup quickly reacted to government lockdowns and restrictions on in…*
       
-  - Blue Origin targets this Thursday for New Shepard reusable rocket launch with NASA landing system test
+  - Bose introduces a new pair of sleep-focused earbuds
       <hr/>
       
-      - *Blue Origin just announced the timing of its next rocket launch – and it’s surprisingly soon, in just two days on Thursday, September 24. The launch of Blue Origin’s New Shepard vehicle will be its 13th overall for that category of launch craft, and the 7th i…*
+      - *Sleep is tough to come by even when there isn’t a pandemic raging. Even when it doesn’t feel like the world is coming apart at the seams every damn day. Bose’s original Sleepbuds pre-date the current desperate moment of “coronasomnia” (not my turn of phrase, …*
        
-  - Royole returns with another foldable
+  - HubSpot's new end-to-end sales hub aims to simplify CRM for mid-market customers
       <hr/>
        
-       - *I first spent time with the Royole Flexpai at a TechCrunch event in China back in 2018. The devices was exciting. It was the first commercially released foldable, after all, before Samsung and Huawei offered their respective takes on the form factor. But ulti…*
+       - *HubSpot, the Boston firm that made its name by helping to define the in-bound marketing concept, sees a pandemic landscape that’s changing the way companies sell, forcing more inside sales. Today, the company announced the HubSpot Sales Hub Enterprise at Inbo…*
       
 
 
