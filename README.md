@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+We need to be super careful with AI. Potentially more dangerous than nukes.
 
-~ Dennis Ritchie
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ What we wanted to preserve was not just a good environment in which to do progra
 
 </pre>
 **Daily News**
-  - Europe's Point Nine outs new ~€100M fund to back early-stage SaaS and digital marketplaces
+  - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
      <hr/>
      
-      - *Point Nine, the pan-European early-stage VC focused on SaaS and digital marketplaces, has raised its fifth fund, totalling just short of €100 million (in fact, “P9 V” is a €99,999,999 fund — get it?). Despite its Berlin, Germany roots, the VC has always opera…*
+      - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
      
+  - Europe's Point Nine outs new ~€100M fund to back early-stage SaaS and digital marketplaces
+      <hr/>
+      
+      - *Point Nine, the pan-European early-stage VC focused on SaaS and digital marketplaces, has raised its fifth fund, totalling just short of €100 million (in fact, “P9 V” is a €99,999,999 fund — get it?). Despite its Berlin, Germany roots, the VC has always opera…*
+      
   - China's electric carmaker WM Motor pulls in $1.47 billion Series D
       <hr/>
       
@@ -81,16 +86,11 @@ What we wanted to preserve was not just a good environment in which to do progra
       <hr/>
       
       - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
-      
+       
   - Daily Crunch: This TikTok deal is pretty confusing
       <hr/>
-      
-      - *Companies send out conflicting messages about the TikTok deal, Microsoft acquires a gaming giant and the WeChat ban is temporarily blocked. This is your Daily Crunch for September 21, 2020. The big story: This TikTok deal is pretty confusing This keeps gettin…*
        
-  - CDC removes updated guidelines around COVID-19 aerosol transmission, but this expert explains why it should reverse the reversal
-      <hr/>
-       
-       - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
+       - *Companies send out conflicting messages about the TikTok deal, Microsoft acquires a gaming giant and the WeChat ban is temporarily blocked. This is your Daily Crunch for September 21, 2020. The big story: This TikTok deal is pretty confusing This keeps gettin…*
       
 
 
