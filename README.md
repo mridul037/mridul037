@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+I think one of the most valuable rules is avoid duplication.
 
-~ Butler Lampson
+~ Martin Fowler
 <pre>
 
 </pre>
