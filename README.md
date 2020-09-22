@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 
-~ Richard Stallman
+~ Richard P. Gabriel
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In fact, in the 1980s I often came across newly graduated computer science major
 
 </pre>
 **Daily News**
-  - Papa raises $18 million to expand its business connecting older adults with virtual and in-person companions
+  - Future Teslas will have batteries that double as structure, making them extra stiff while improving efficiency, safety and cost
      <hr/>
      
-      - *The Miami-based startup Papa has raised an additional $18 million as it looks to expand its business connecting elderly Americans and families with physical and virtual companions, which the company calls “pals.” The company’s services are already available i…*
+      - *Tesla has fundamentally redesigned the way that its battery packs integrate into their vehicles, turning them into structural elements of the car, rather than just fuel sources on their own. At Tesla’s Battery Day event on Tuesday, Elon Musk compared this to …*
      
+  - Daily Crunch: Microsoft launches Azure Communication Services
+      <hr/>
+      
+      - *Microsoft takes on Twilio, Google launches a work-tracking tool and Mirakl raises $300 million. This is your Daily Crunch for September 22, 2020. The big story: Microsoft launches Azure Communication Services Microsoft announced today that it’s ready to compe…*
+      
+  - Social networks are doing a voter registration blitz this week
+      <hr/>
+      
+      - *With the most uncertain election in modern American history fast approaching, social networks are doing a final big push to get their users registered to vote. The efforts align with National Voter Registration Day, which punctuates ongoing efforts from compa…*
+      
+  - Papa raises $18 million to expand its business connecting older adults with virtual and in-person companions
+      <hr/>
+      
+      - *The Miami-based startup Papa has raised an additional $18 million as it looks to expand its business connecting elderly Americans and families with physical and virtual companions, which the company calls “pals.” The company’s services are already available i…*
+       
   - Gillmor Gang: Watch Party
       <hr/>
-      
-      - *This Gillmor Gang episode is as much about what we didn’t talk about as what we did. In the run up to the recording session, we somehow suspected we’d talk about Apple’s virtual event on Tuesday. Then, 15 minutes after we finished, RBG lost her battle to keep…*
-      
-  - CMU's MoonRanger robot rover will be the first to search for water ice on the Moon in 2022
-      <hr/>
-      
-      - *Carnegie Mellon University and spinoff space startup Astrobotic are developing a robotic rover to look for water on the Moon, and the little bot just passed the crucial preliminary design review phase, putting it one step closer to its inaugural mission plann…*
-      
-  - Chinese propaganda network on Facebook used AI-generated faces
-      <hr/>
-      
-      - *Facebook removed two networks of fake accounts spreading government propaganda on the platform Tuesday, one originating in China and one in the Philippines. In its latest report on this kind of coordinated campaign, the company says it took down 155 Facebook …*
        
-  - Pinterest breaks daily download record due to user interest in iOS 14 design ideas
-      <hr/>
-       
-       - *The excitement around the ability to customize your iPhone homescreen following the release of iOS 14 has been paying off for Pinterest. According to new third-party estimates, Pinterest’s app has seen record global daily downloads and a swift climb up the Ap…*
+       - *This Gillmor Gang episode is as much about what we didn’t talk about as what we did. In the run up to the recording session, we somehow suspected we’d talk about Apple’s virtual event on Tuesday. Then, 15 minutes after we finished, RBG lost her battle to keep…*
       
 
 
