@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 
-~ Martin Fowler
+~ Dennis Ritchie
 <pre>
 
 </pre>
