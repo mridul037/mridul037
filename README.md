@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The act of describing a program in unambiguous detail and the act of programming are one and the same.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Kevlin Henney
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The act of describing a program in unambiguous detail and the act of programming
 
 </pre>
 **Daily News**
-  - Introducing the Expo Pass for TC Sessions: Mobility 2020
+  - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
      <hr/>
      
-      - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
+      - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
      
+  - Introducing the Expo Pass for TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
+      
   - HMD is bringing a 5G smartphone and wireless earbuds to the US
       <hr/>
       
@@ -81,16 +86,11 @@ The act of describing a program in unambiguous detail and the act of programming
       <hr/>
       
       - *The COVID-19 pandemic impacted the way a number of companies have had to do business. For the event discovery startup, IRL, it meant pivoting into the virtual events space. This April, the startup quickly reacted to government lockdowns and restrictions on in…*
-      
+       
   - Bose introduces a new pair of sleep-focused earbuds
       <hr/>
-      
-      - *Sleep is tough to come by even when there isn’t a pandemic raging. Even when it doesn’t feel like the world is coming apart at the seams every damn day. Bose’s original Sleepbuds pre-date the current desperate moment of “coronasomnia” (not my turn of phrase, …*
        
-  - HubSpot's new end-to-end sales hub aims to simplify CRM for mid-market customers
-      <hr/>
-       
-       - *HubSpot, the Boston firm that made its name by helping to define the in-bound marketing concept, sees a pandemic landscape that’s changing the way companies sell, forcing more inside sales. Today, the company announced the HubSpot Sales Hub Enterprise at Inbo…*
+       - *Sleep is tough to come by even when there isn’t a pandemic raging. Even when it doesn’t feel like the world is coming apart at the seams every damn day. Bose’s original Sleepbuds pre-date the current desperate moment of “coronasomnia” (not my turn of phrase, …*
       
 
 
