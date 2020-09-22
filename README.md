@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+Codes are a puzzle. A game, just like any other game.
 
-~ David Wheeler (computer scientist)
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Compatibility means deliberately repeating other people’s mistakes.
 
 </pre>
 **Daily News**
-  - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
+  - China's electric carmaker WM Motor pulls in $1.47 billion Series D
      <hr/>
      
-      - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
+      - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
      
+  - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
+      <hr/>
+      
+      - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
+      
   - Daily Crunch: This TikTok deal is pretty confusing
       <hr/>
       
@@ -81,16 +86,11 @@ Compatibility means deliberately repeating other people’s mistakes.
       <hr/>
       
       - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
-      
+       
   - Following TechCrunch reporting, Palantir rapidly removes language allowing founders to “unilaterally adjust their total voting power”
       <hr/>
-      
-      - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
        
-  - Edtech investors are panning for gold
-      <hr/>
-       
-       - *The spotlight on edtech grows brighter and harsher: On one end, remote-learning startups are attracting millions in venture capital. On the other, many educators and parents are unimpressed with the technology that enables virtual learning and gaps remain in …*
+       - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
       
 
 
