@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+The best way to know that you have found the last bug is never to find the first bug.
 
-~ Richard Hamming
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Mathematicians stand on each others' shoulders and computer scientists stand on 
 
 </pre>
 **Daily News**
-  - Mark Cuban, Marc Benioff, Robert Downey Jr., Gwyneth Paltrow, and Uber CEO Dara Khosrowshahi are investing in toilet paper
+  - Google launches a work-tracking tool and Airtable rival, Tables
      <hr/>
      
-      - *A slew of big name entrepreneurs and celebrities are really circling the drain with their latest investment. Led by Greycroft Partners, a who’s who of celebrity investors including: Mark Cuban, Marc Benioff, Iron Man and Pepper Potts (er… Robert Downey Jr. an…*
+      - *Google’s in-house incubator Area 120 is today introducing a new work-tracking tool, Tables, which aims to make tracking projects more efficient by investing in automation. Instead of simply tracking notes and tasks associated with a project in various documen…*
      
-  - Pure Watercraft ramps up its electric outboard motors with a $23M series A
+  - Willow, the startup making the wearable breast pump, raises $55 million
       <hr/>
       
-      - *Electric power only started making sense for land vehicles about ten years ago, but now the technology is ready to make the jump into the water. Pure Watercraft hopes that its electric outboard motor can replace a normal gas one for most boating needs under 5…*
+      - *Willow, the startup company making a new, wearable, breast pump for women, is capping off a frenetic 2020 with $55 million in fresh funding as it looks to expand its product line to more offerings for new mothers. The company is coming off a year which saw sa…*
       
-  - Satellite radar startup ICEYE raises 87 million to continue to grow its operational constellation
+  - EasySend raises $16M from Intel, more for its no-code approach to automating B2C interfaces
       <hr/>
       
-      - *Finnish startup ICEYE, which has been building out and operating a constellation of Synthetic-Aperture Radar (SAR) small satellites, has raised an $87 million Series C round of financing. This round of funding was led by existing investor True Ventures, and i…*
+      - *No-code and low-code software have become increasingly popular ways for companies — especially those that don’t count technology as part of their DNA — to bring in more updated IT processes without the heavy lifting needed to build and integrate services from…*
       
-  - Green Monday Holdings, the business arm of Hong Kong's vegetarian advocacy group, raises $70 million from TPG, Swire Pacific
+  - TikTok, WeChat and the growing digital divide between the U.S. and China
       <hr/>
       
-      - *Green Monday Holdings, a manufacturer of plant-based pork substitute products and frozen meals and an operator of a chain of vegetarian-focused retail outlets and cafes, said it has raised $70 million in financing from investors including TPG’s The Rise Fund …*
+      - *Over the past decade, the dynamic between Chinese and United States tech companies has undergone dramatic shifts. Once seen as a promising market for American companies, that narrative flipped as China’s tech innovation and investment power became increasingl…*
        
-  - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
+  - Made In Space is sending the first ceramic manufacturing facility in space to the ISS next week
       <hr/>
        
-       - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
+       - *In-space manufacturing company Made In Space is pushing the envelope on what can, well, be made in space with its next mission – which is set to launch aboard a Northrop Grumman International Space Station (ISS) resupply mission set for next Tuesday. Aboard t…*
       
 
 
