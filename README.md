@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm interested in creating images that communicate with people.
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 
-~ Toru Iwatani
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'm interested in creating images that communicate with people.
 
 </pre>
 **Daily News**
-  - Big tech has 2 elephants in the room: Privacy and competition
+  - WellSaid Labs research takes synthetic speech from seconds-long clips to hours
      <hr/>
      
-      - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
+      - *Millions of homes have voice-enabled devices, but when was the last time you heard a piece of synthesized speech longer than a handful of seconds? WellSaid Labs has pushed the field ahead with a voice engine that can easily and quickly generate hours of voice…*
      
-  - Mirakl raises $300 million for its marketplace platform
+  - We’re updating The TechCrunch List soon. Founders, send in your recommendations of the most helpful lead VCs
       <hr/>
       
-      - *French startup Mirakl has raised a $300 million funding round at a $1.5 billion valuation — the company is now a unicorn. Mirakl helps you launch and manage a marketplace on your e-commerce website. Many customers also rely on Mirakl-powered marketplaces for …*
+      - *Earlier this year, we launched The TechCrunch List, a carefully curated group of VCs who lead rounds recommended by thousands of founders for their acumen and friendliness, grouped by market focus, stage, and geography. Since the launch of the List, we’ve see…*
       
-  - Amazon adds support for Kannada, Malayalam, Tamil and Telugu in local Indian languages push ahead of Diwali
+  - Tech must radically rethink how it treats independent contractors
       <hr/>
       
-      - *More than seven years after Amazon began its e-commerce operations in India, and two years after its shopping service added support for Hindi, the most popular language in the country, the American giant is embracing more local languages to court hundreds of …*
+      - *Where tech has succeeded in creating of hundreds of thousands of independent contractor positions, it also has to lead the way in reimagining how we may treat them and reward them for their work.*
       
-  - Introducing the Expo Pass for TC Sessions: Mobility 2020
+  - Despite a rough year for digital media, Blavity and The Shade Room are thriving
       <hr/>
       
-      - *Don’t let budget woes keep you from participating in TC Sessions: Mobility 2020 on October 6-7. We’re dedicated to making this event accessible to as many members of the mobility community as possible. Case in point: today we’re announcing the new Expo Ticket…*
+      - *Last week at TechCrunch Disrupt, TechCrunch media and advertising reporter Anthony Ha sat down with Blavity CEO Morgan DeBaun and The Shade Room CEO Angelica Nwandu to chat about their respective media companies, 2020 in the media world and how they view a re…*
        
-  - HMD is bringing a 5G smartphone and wireless earbuds to the US
+  - Big tech has 2 elephants in the room: Privacy and competition
       <hr/>
        
-       - *Over the past four years or so, HMD has carved out a nice little niche for itself with its Nokia-branded handsets. The instant name recognition of a legacy brand was a nice little perch on which to gain some footing in an overcrowded market. Pricing has long …*
+       - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
       
 
 
