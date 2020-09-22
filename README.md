@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We need to be super careful with AI. Potentially more dangerous than nukes.
+Don't worry about anything. Just do what you can and be the best you can be.
 
-~ Elon Musk
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We need to be super careful with AI. Potentially more dangerous than nukes.
 
 </pre>
 **Daily News**
-  - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
+  - Green Monday Holdings, the business arm of Hong Kong's vegetarian advocacy group, raises $70 million from TPG, Swire Pacific
      <hr/>
      
-      - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
+      - *Green Monday Holdings, a manufacturer of plant-based pork substitute products and frozen meals and an operator of a chain of vegetarian-focused retail outlets and cafes, said it has raised $70 million in financing from investors including TPG’s The Rise Fund …*
      
+  - TikTok says it removed 104M videos in H1 2020, proposes harmful content coalition with other social apps
+      <hr/>
+      
+      - *As the future of ByteDance’s TikTok ownership continues to get hammered out between tech leviathans, investors and government officials in meeting rooms, the video app today published its latest transparency report. In all, over 104.5 million videos were take…*
+      
   - Europe's Point Nine outs new ~€100M fund to back early-stage SaaS and digital marketplaces
       <hr/>
       
@@ -81,16 +86,11 @@ We need to be super careful with AI. Potentially more dangerous than nukes.
       <hr/>
       
       - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
-      
+       
   - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
       <hr/>
-      
-      - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
        
-  - Daily Crunch: This TikTok deal is pretty confusing
-      <hr/>
-       
-       - *Companies send out conflicting messages about the TikTok deal, Microsoft acquires a gaming giant and the WeChat ban is temporarily blocked. This is your Daily Crunch for September 21, 2020. The big story: This TikTok deal is pretty confusing This keeps gettin…*
+       - *After rolling out in some of Canada’s most high-falutin burger bistros, Impossible Foods is hitting Canada’s fast casual market with new menu items at national chains like White Spot and Triple O’s, Cactus Club Cafe, and Burger Priest. While none of those nam…*
       
 
 
