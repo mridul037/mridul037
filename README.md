@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ Charles Babbage
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ As soon as an Analytical Engine exists, it will necessarily guide the future cou
 
 </pre>
 **Daily News**
-  - China's electric carmaker WM Motor pulls in $1.47 billion Series D
+  - Europe's Point Nine outs new ~€100M fund to back early-stage SaaS and digital marketplaces
      <hr/>
      
-      - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
+      - *Point Nine, the pan-European early-stage VC focused on SaaS and digital marketplaces, has raised its fifth fund, totalling just short of €100 million (in fact, “P9 V” is a €99,999,999 fund — get it?). Despite its Berlin, Germany roots, the VC has always opera…*
      
+  - China's electric carmaker WM Motor pulls in $1.47 billion Series D
+      <hr/>
+      
+      - *Chinese electric vehicle startup WM Motor just pocketed an outsize investment to fuel growth in a competitive landscape increasingly coveted by foreign rival Tesla. The five-year-old company raised 10 billion yuan ($1.47 billion) in a Series D round, it annou…*
+      
   - Impossible Foods nabs some Canadian fast food franchises as it expands in North America
       <hr/>
       
@@ -81,16 +86,11 @@ As soon as an Analytical Engine exists, it will necessarily guide the future cou
       <hr/>
       
       - *Companies send out conflicting messages about the TikTok deal, Microsoft acquires a gaming giant and the WeChat ban is temporarily blocked. This is your Daily Crunch for September 21, 2020. The big story: This TikTok deal is pretty confusing This keeps gettin…*
-      
+       
   - CDC removes updated guidelines around COVID-19 aerosol transmission, but this expert explains why it should reverse the reversal
       <hr/>
-      
-      - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
        
-  - Following TechCrunch reporting, Palantir rapidly removes language allowing founders to “unilaterally adjust their total voting power”
-      <hr/>
-       
-       - *Well, that was fast. This morning, I analyzed Palantir’s newly published 5th amendment of its S-1 filing with the SEC as it pursues a public direct listing on the NYSE. I called the company “not a democracy” after it added new provisions to create a special m…*
+       - *Last week at TechCrunch Disrupt 2020, I got the chance to speak to Dr. Eric Feigl-Ding, an epidemiologist and health economists who is a Senior Fellow of the Federation of American Scientists. Dr. Feigl-Ding has been a frequent and vocal critic of some of the…*
       
 
 
