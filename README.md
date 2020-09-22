@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
 ~ Ted Nelson
 <pre>
@@ -67,11 +67,16 @@ Learning to program has no more to do with designing interactive software than l
 
 </pre>
 **Daily News**
-  - WellSaid Labs research takes synthetic speech from seconds-long clips to hours
+  - Explore the global markets of micromobility at TC Sessions: Mobility
      <hr/>
      
-      - *Millions of homes have voice-enabled devices, but when was the last time you heard a piece of synthesized speech longer than a handful of seconds? WellSaid Labs has pushed the field ahead with a voice engine that can easily and quickly generate hours of voice…*
+      - *While electric scooters first launched at scale in the U.S., they quickly made their way overseas. Now, there’s a bustling electric scooter market in Europe, China, Latin America and one that’s growing in parts of Africa. At TC Sessions: Mobility on October 6…*
      
+  - WellSaid Labs research takes synthetic speech from seconds-long clips to hours
+      <hr/>
+      
+      - *Millions of homes have voice-enabled devices, but when was the last time you heard a piece of synthesized speech longer than a handful of seconds? WellSaid Labs has pushed the field ahead with a voice engine that can easily and quickly generate hours of voice…*
+      
   - We’re updating The TechCrunch List soon. Founders, send in your recommendations of the most helpful lead VCs
       <hr/>
       
@@ -81,16 +86,11 @@ Learning to program has no more to do with designing interactive software than l
       <hr/>
       
       - *Where tech has succeeded in creating of hundreds of thousands of independent contractor positions, it also has to lead the way in reimagining how we may treat them and reward them for their work.*
-      
+       
   - Despite a rough year for digital media, Blavity and The Shade Room are thriving
       <hr/>
-      
-      - *Last week at TechCrunch Disrupt, TechCrunch media and advertising reporter Anthony Ha sat down with Blavity CEO Morgan DeBaun and The Shade Room CEO Angelica Nwandu to chat about their respective media companies, 2020 in the media world and how they view a re…*
        
-  - Big tech has 2 elephants in the room: Privacy and competition
-      <hr/>
-       
-       - *The question of how policymakers should respond to the power of big tech didn’t get a great deal of airtime at TechCrunch Disrupt last week, despite a number of investigations now underway in the United States (hi, Google). It’s also clear that attention- and…*
+       - *Last week at TechCrunch Disrupt, TechCrunch media and advertising reporter Anthony Ha sat down with Blavity CEO Morgan DeBaun and The Shade Room CEO Angelica Nwandu to chat about their respective media companies, 2020 in the media world and how they view a re…*
       
 
 
