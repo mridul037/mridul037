@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think the best way to supervise is by personal example and by frequent code reviews.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Charles Simonyi
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I think the best way to supervise is by personal example and by frequent code re
 
 </pre>
 **Daily News**
-  - Tesla experienced an hour-long network outage early Wednesday
+  - California will require all passenger vehicles sold in the state be zero-emission by 2035
      <hr/>
      
-      - *Tesla owners were locked out of their vehicles and the accompanying app for about an hour Wednesday morning, thanks to an outage that affected the company’s entire network, according to several sources. The Tesla outage was caused by an internal break of thei…*
+      - *California Governor Gavin Newsom issued an executive order on Wednesday requiring sales of all new passenger vehicles be zero-emission by 2035. The new order would be a huge boost for electric vehicles, and vehicles using alternative fuels like hydrogen, and …*
      
+  - Scaling to $100 million ARR: 3 founders share their insights
+      <hr/>
+      
+      - *Last week at TechCrunch Disrupt, Alex Wilhelm hosted a panel titled “Getting to $100 million ARR” on the Extra Crunch Stage. He was joined by three executives, including Vineet Jain, CEO and co-founder at Egnyte, Michal Tsur, president and co-founder at Kaltu…*
+      
+  - Tesla experienced an hour-long network outage early Wednesday
+      <hr/>
+      
+      - *Tesla owners were locked out of their vehicles and the accompanying app for about an hour Wednesday morning, thanks to an outage that affected the company’s entire network, according to several sources. The Tesla outage was caused by an internal break of thei…*
+      
   - TC Sessions Mobility 2020 kicks off in two weeks
       <hr/>
       
       - *Holy cats, it’s less than two weeks until TC Sessions: Mobility 2020 kicks off for two program-packed days focused squarely on mobility and transportation technology. On October 6-7, thousands of people from around the world will gather virtually to talk tren…*
-      
+       
   - Curly the curling robot throws stones like a pro
       <hr/>
-      
-      - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
-      
-  - Top 20 iOS homescreen customization apps reach 5.7M installs after iOS 14 release
-      <hr/>
-      
-      - *The iOS 14 homescreen customization trend is driving a new set of apps to the top of the App Store charts, and delivering record downloads for sources of inspiration, like Pinterest. According to new data from app store market intelligence firm Sensor Tower, …*
        
-  - Selling a startup can come with an emotional cost
-      <hr/>
-       
-       - *Every founder dreams of building a substantial company. For those who make it through the myriad challenges, it typically results in an exit. If it’s through an acquisition, that can mean cashing in your equity, paying back investors and rewarding long-time e…*
+       - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
       
 
 
