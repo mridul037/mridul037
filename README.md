@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Before software can be reusable it first has to be usable.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ Ralph Johnson (computer scientist)
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Before software can be reusable it first has to be usable.
 
 </pre>
 **Daily News**
-  - Singapore-based Syfe, a robo-advisor with a human touch, raises $18.6 million led by Valar Ventures
+  - Apple launches its online store in India
      <hr/>
      
-      - *Syfe, a Singapore-based startup that wants to make investing more accessible in Asia, announced today that it has closed a SGD $25.2 million (USD $18.6 million) Series A led by Valar Ventures, a fintech-focused investment firm. The round also included partici…*
+      - *For the first time in more than 20 years since Apple began its operations in India, the iPhone-maker has started selling its products directly to consumers in the world’s second largest smartphone market. Apple launched its online store in India on Wednesday,…*
      
+  - China says it won't approve TikTok sale, calls it 'extortion'
+      <hr/>
+      
+      - *The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…*
+      
+  - Singapore-based Syfe, a robo-advisor with a human touch, raises $18.6 million led by Valar Ventures
+      <hr/>
+      
+      - *Syfe, a Singapore-based startup that wants to make investing more accessible in Asia, announced today that it has closed a SGD $25.2 million (USD $18.6 million) Series A led by Valar Ventures, a fintech-focused investment firm. The round also included partici…*
+      
   - Elon Musk reveals the Tesla Model S 'Plaid' slated for late 2021
       <hr/>
       
       - *Tesla CEO Elon Musk revealed Tuesday the Model S Plaid, the newest variant to the company’s flagship sedan that boasts some eye-popping performance and range claims, including the ability to travel at least 520 miles on a single charge. The Model S with this …*
-      
+       
   - Tesla claims it can drive battery costs down even lower with new material science innovations
       <hr/>
-      
-      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
-      
-  - Tesla is building a cathode plant and getting into the lithium mining business
-      <hr/>
-      
-      - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
        
-  - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
-      <hr/>
-       
-       - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
+       - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
       
 
 
