@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
 
-~ Alan Kay
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I invented the term 'Object-Oriented', and I can tell you I did not have C++ in 
 
 </pre>
 **Daily News**
-  - Kard raises another $3.5 million for its challenger bank for teens
+  - Selling a startup can come with an emotional cost
      <hr/>
      
-      - *French startup Kard has added $3.5 million (€3 million) to its seed round. The company already raised the same amount last year, which means that Kard has raised $7 million (€6 million) in total for its seed round. Founders Future is leading the round, with L…*
+      - *Every founder dreams of building a substantial company. For those who make it through the myriad challenges, it typically results in an exit. If it’s through an acquisition, that can mean cashing in your equity, paying back investors and rewarding long-time e…*
      
+  - Fundraising lessons from David Rogier of MasterClass
+      <hr/>
+      
+      - *Conventional wisdom says your company should be up and running and have some traction before you raise, but MasterClass co-founder David Rogier says entrepreneurs should try to raise funds before launching.*
+      
+  - Email startup Superhuman debuts a cheaper $10/mo tier for students and academics
+      <hr/>
+      
+      - *Email startup Superhuman has been lauded by plenty in the tech community as a simpler and faster way to navigate email, but at $30 per month, the service’s hefty subscription price has been out of reach for plenty of potential users. Today, the startup is tak…*
+      
+  - Kard raises another $3.5 million for its challenger bank for teens
+      <hr/>
+      
+      - *French startup Kard has added $3.5 million (€3 million) to its seed round. The company already raised the same amount last year, which means that Kard has raised $7 million (€6 million) in total for its seed round. Founders Future is leading the round, with L…*
+       
   - Teachers deserve two screens, and Two Screens for Teachers aims to get them just that
       <hr/>
-      
-      - *The pandemic has caused K-12 classrooms, chaotic at the best of times, to descend into Zoom call chaos. What’s more, thousands of teachers who must wrangle this new, weird system are doing so with just a single monitor, making it difficult to see their studen…*
-      
-  - Google Maps gets a COVID-19 layer
-      <hr/>
-      
-      - *Google today announced an update to Google Maps that will bring a new COVID-19 layer to the service to help you better understand the number of cases in a given area. With the pandemic continuing to spread in many countries — and ahead of what many fear will …*
-      
-  - Spain's top court rejects Glovo's classification of couriers as self-employed
-      <hr/>
-      
-      - *Glovo, a Spain-based delivery platform startup, is facing legal disruption in its home market after the country’s Supreme Court ruled against its classification of delivery couriers as ‘autonomous’ (i.e. self employed) — finding riders are instead in a labour…*
        
-  - Extra Crunch Live: Join Index Ventures VCs Nina Achadjian and Sarah Cannon Sept 29 at 2pm EDT / 11am PDT on the future of startup investing
-      <hr/>
-       
-       - *It seems as if every month introduces a whole new paradigm to VC investing. First COVID-19 triggered a wave of changes as founders learned how to pitch their startups remotely and VCs learned how to judge quality without meeting their potential portfolio comp…*
+       - *The pandemic has caused K-12 classrooms, chaotic at the best of times, to descend into Zoom call chaos. What’s more, thousands of teachers who must wrangle this new, weird system are doing so with just a single monitor, making it difficult to see their studen…*
       
 
 
