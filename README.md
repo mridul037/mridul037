@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+Once you stop learning you start dying.
 
-~ Bill Gates
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Our goals are very simple. We're going to create the software that puts a comput
 
 </pre>
 **Daily News**
-  - How Robinhood and Chime raised $2B+ in the last year
+  - Palantir publishes 2020 revenue guidance of $1.05B, will trade starting Sept 30th
      <hr/>
      
-      - *Last night Robinhood, the American fintech unicorn that provides free securities trading services to consumers via an app, announced that it raised an additional $460 million in its previously-known Series G. That round is now worth $660 million at an $11.7 b…*
+      - *It’s been a long road for Palantir as it has submitted amendment after amendment with the SEC related to its S-1 filing over the past two months. But after weeks of back and forth, it’s official: Palantir’s S-1 has been marked effective, which means that it h…*
      
+  - Blue Origin job listing sheds more light on its space-based orbital habitat ambitions
+      <hr/>
+      
+      - *Blue Origin founder and Amazon CEO Jeff Bezos has made no secret of his ambition to eventually create orbiting space stations that act as places for people to live and work – he outlined a vision based on space settlement designs first conceived by physicist …*
+      
+  - Data breach at New York Sports Clubs owner exposed customer data
+      <hr/>
+      
+      - *Exclusive: The unprotected storage exposed customer addresses and phone numbers.*
+      
+  - How Robinhood and Chime raised $2B+ in the last year
+      <hr/>
+      
+      - *Last night Robinhood, the American fintech unicorn that provides free securities trading services to consumers via an app, announced that it raised an additional $460 million in its previously-known Series G. That round is now worth $660 million at an $11.7 b…*
+       
   - WhyLabs brings more transparancy to ML ops
       <hr/>
-      
-      - *WhyLabs, a new machine learning startup that was spun out of the Allen Institute, is coming out of stealth today. Founded by a group of former Amazon machine learning engineers, Alessya Visnjic, Sam Gracie and Andy Dang, together with Madrona Venture Group pr…*
-      
-  - EU's antitrust probe of Google-Fitbit gets more time
-      <hr/>
-      
-      - *European antitrust regulators now have until almost the end of the year to take a decision on whether to green light Google’s planned acquisition of Fitbit. The tech giant announced its intention to buy the fitness tracking wearable maker in November 2019, sa…*
-      
-  - Spotify adds an interactive feature for podcasts with launch of 'Polls'
-      <hr/>
-      
-      - *Spotify today is introducing a new feature designed to make podcasts more interactive. The company says it’s beginning to test “Polls,” a tool that will allow listeners to engage with podcasts by answering questions posed by the podcast hosts during the show.…*
        
-  - The Galaxy S20 FE is Samsung’s new $699 budget flagship
-      <hr/>
-       
-       - *One thing Samsung knows for certain: it’s interested in budget flagships. The category makes sense these days, as users are increasingly unwilling to spend north of $1,000 on new phones. That’s doubly the case during the COVID-19 pandemic, with people leaving…*
+       - *WhyLabs, a new machine learning startup that was spun out of the Allen Institute, is coming out of stealth today. Founded by a group of former Amazon machine learning engineers, Alessya Visnjic, Sam Gracie and Andy Dang, together with Madrona Venture Group pr…*
       
 
 
