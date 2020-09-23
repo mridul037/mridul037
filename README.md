@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+It’s all talk until the code runs.
 
-~ Seymour Cray
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The trouble with programmers is that you can never tell what a programmer is doi
 
 </pre>
 **Daily News**
-  - Elon Musk reveals the Tesla Model S 'Plaid' slated for late 2021
+  - Singapore-based Syfe, a robo-advisor with a human touch, raises $18.6 million led by Valar Ventures
      <hr/>
      
-      - *Tesla CEO Elon Musk revealed Tuesday the Model S Plaid, the newest variant to the company’s flagship sedan that boasts some eye-popping performance and range claims, including the ability to travel at least 520 miles on a single charge. The Model S with this …*
+      - *Syfe, a Singapore-based startup that wants to make investing more accessible in Asia, announced today that it has closed a SGD $25.2 million (USD $18.6 million) Series A led by Valar Ventures, a fintech-focused investment firm. The round also included partici…*
      
+  - Elon Musk reveals the Tesla Model S 'Plaid' slated for late 2021
+      <hr/>
+      
+      - *Tesla CEO Elon Musk revealed Tuesday the Model S Plaid, the newest variant to the company’s flagship sedan that boasts some eye-popping performance and range claims, including the ability to travel at least 520 miles on a single charge. The Model S with this …*
+      
   - Tesla claims it can drive battery costs down even lower with new material science innovations
       <hr/>
       
@@ -81,16 +86,11 @@ The trouble with programmers is that you can never tell what a programmer is doi
       <hr/>
       
       - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
-      
+       
   - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
       <hr/>
-      
-      - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
        
-  - TransferWise reports accelerating revenue growth to 70% in its March, 2020 fiscal year
-      <hr/>
-       
-       - *TransferWise, a European fintech unicorn, announced the financial results of its fiscal year ending March, 2020. The company posted strong growth, continued profit and new customer records. TransferWise was most recently valued at $5 billion during a secondar…*
+       - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
       
 
 
