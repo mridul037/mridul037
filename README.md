@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 
-~ James Gleick
+~ David Gelernter
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Computer programs are the most intricate, delicately balanced and finely interwo
 
 </pre>
 **Daily News**
-  - Sling TV launches a co-watching feature for live TV, Sling Watch Party
+  - Sneaker culture staple GOAT hits $1.75 billion valuation on new $100 million round
      <hr/>
      
-      - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
+      - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
      
+  - Sling TV launches a co-watching feature for live TV, Sling Watch Party
+      <hr/>
+      
+      - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
+      
   - TikTok files for injunction against pending Trump app ban
       <hr/>
       
@@ -81,16 +86,11 @@ Computer programs are the most intricate, delicately balanced and finely interwo
       <hr/>
       
       - *An email to affected merchants said the breach happened on September 15.*
-      
+       
   - Tesla sues Trump Administration to end tariffs on the 'brain' of its vehicles
       <hr/>
-      
-      - *Tesla is suing the Trump Administration over tariffs on a computer chip and other parts it imports from China, joining an increasingly long list of similar lawsuits filed by hundreds of companies, including automakers Ford, Mercedes-Benz and Volvo. Tesla, whi…*
        
-  - California will require all passenger vehicles sold in the state be zero-emission by 2035
-      <hr/>
-       
-       - *California Governor Gavin Newsom issued an executive order on Wednesday requiring sales of all new passenger vehicles be zero-emission by 2035. The new order would be a huge boost for electric vehicles, and vehicles using alternative fuels like hydrogen, and …*
+       - *Tesla is suing the Trump Administration over tariffs on a computer chip and other parts it imports from China, joining an increasingly long list of similar lawsuits filed by hundreds of companies, including automakers Ford, Mercedes-Benz and Volvo. Tesla, whi…*
       
 
 
