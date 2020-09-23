@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+Controlling complexity is the essence of computer programming.
 
-~ Steve Jobs
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ You can't just ask customers what they want and then try to give that to them. B
 
 </pre>
 **Daily News**
-  - Apple launches its online store in India
+  - Apple partner Servify raises $23 million to expand its devices after-sales and management platform overseas
      <hr/>
      
-      - *For the first time in more than 20 years since Apple began its operations in India, the iPhone-maker has started selling its products directly to consumers in the world’s second largest smartphone market. Apple launched its online store in India on Wednesday,…*
+      - *Servify, a Mumbai-headquartered startup that operates a device lifecycle management platform and works deeply with brands including Apple and Samsung in a number of geographies, has raised $23 million in a new financing round. The Series C financing round for…*
      
+  - VW's Traton Group strikes a deal with TuSimple to develop autonomous trucks
+      <hr/>
+      
+      - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
+      
+  - Uncapped picks up another £26M to offer revenue-based finance to European entrepreneurs
+      <hr/>
+      
+      - *Uncapped, the London-headquartered and Warsaw-based startup that offers “revenue-based” finance to European businesses so that founders don’t have to give up equity stipulated by venture capital, has raised £26 million in new funding. The round was led by Mou…*
+      
+  - Apple launches its online store in India
+      <hr/>
+      
+      - *For the first time in more than 20 years since Apple began its operations in India, the iPhone-maker has started selling its products directly to consumers in the world’s second largest smartphone market. Apple launched its online store in India on Wednesday,…*
+       
   - China says it won't approve TikTok sale, calls it 'extortion'
       <hr/>
-      
-      - *The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…*
-      
-  - Singapore-based Syfe, a robo-advisor with a human touch, raises $18.6 million led by Valar Ventures
-      <hr/>
-      
-      - *Syfe, a Singapore-based startup that wants to make investing more accessible in Asia, announced today that it has closed a SGD $25.2 million (USD $18.6 million) Series A led by Valar Ventures, a fintech-focused investment firm. The round also included partici…*
-      
-  - Elon Musk reveals the Tesla Model S 'Plaid' slated for late 2021
-      <hr/>
-      
-      - *Tesla CEO Elon Musk revealed Tuesday the Model S Plaid, the newest variant to the company’s flagship sedan that boasts some eye-popping performance and range claims, including the ability to travel at least 520 miles on a single charge. The Model S with this …*
        
-  - Tesla claims it can drive battery costs down even lower with new material science innovations
-      <hr/>
-       
-       - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
+       - *The September 20 deadline for a purported TikTok sale has already passed, but the parties involved have yet to settle terms on the deal. ByteDance and TikTok’s bidders Oracle and Walmart presented conflicting messages on the future ownership of the app, confu…*
       
 
 
