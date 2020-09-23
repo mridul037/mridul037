@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It’s all talk until the code runs.
+Before software can be reusable it first has to be usable.
 
-~ Ward Cunningham
+~ Ralph Johnson (computer scientist)
 <pre>
 
 </pre>
