@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for comp
 
 </pre>
 **Daily News**
-  - Salsify nabs $155M as its commerce experience platform sees a big surge of business from Covid-19
+  - Facebook denies it will pull service in Europe over data transfer ban
      <hr/>
      
-      - *As traditional brands grapple with a new world where selling online is as much or perhaps even more important than how you are positioned in a physical store, a startup that helps them get all their inventory, marketing and selling strategies all on one page …*
+      - *Facebook’s head of global policy has denied the tech giant could close its service to Europeans if local regulators order it to suspend data transfers to the US following a landmark Court of Justice ruling in July that has cemented the schism between US surve…*
      
+  - Endel raises $5M to create personalized 'sound environments' that improve productivity and sleep
+      <hr/>
+      
+      - *The pitch for Berlin-based Endel is pretty straightforward, according to its co-founder and CEO Oleg Stavitsky. “The way I usually describe Endel is: This is a technology that is built to help you focus, relax and sleep,” Stavitsky told me. “Of course, the wa…*
+      
+  - Salsify nabs $155M as its commerce experience platform sees a big surge of business from Covid-19
+      <hr/>
+      
+      - *As traditional brands grapple with a new world where selling online is as much or perhaps even more important than how you are positioned in a physical store, a startup that helps them get all their inventory, marketing and selling strategies all on one page …*
+      
   - New research shows European startups are spending drastically less on a US launch, for the same gains
       <hr/>
       
       - *It used to be the case that in order to scale glocally, European companies needed to spend big on launching in the US to achieve the kind of growth they wanted. That usually meant re-locating large swathes of the team to the San Francisco / Bay Area, or New Y…*
-      
+       
   - 'AI-powered' fitness app Freeletics scores $25M Series B
       <hr/>
-      
-      - *Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG. The fresh injection of capital follows $45 million in Ser…*
-      
-  - Apple partner Servify raises $23 million to expand its devices after-sales and management platform overseas
-      <hr/>
-      
-      - *Servify, a Mumbai-headquartered startup that operates a device lifecycle management platform and works deeply with brands including Apple and Samsung in a number of geographies, has raised $23 million in a new financing round. The Series C financing round for…*
        
-  - VW's Traton Group strikes a deal with TuSimple to develop autonomous trucks
-      <hr/>
-       
-       - *The Traton Group, Volkswagen AG’s heavy-truck business, has taken a minority stake in TuSimple as part of an agreement between the two companies to develop self-driving trucks. Neither company disclosed the financial terms of the partnership or the percentage…*
+       - *Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG. The fresh injection of capital follows $45 million in Ser…*
       
 
 
