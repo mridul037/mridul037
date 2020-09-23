@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It’s all talk until the code runs.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Ward Cunningham
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It’s all talk until the code runs.
 
 </pre>
 **Daily News**
-  - Tesla claims it can drive battery costs down even lower with new material science innovations
+  - Elon Musk reveals the Tesla Model S 'Plaid' slated for late 2021
      <hr/>
      
-      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
+      - *Tesla CEO Elon Musk revealed Tuesday the Model S Plaid, the newest variant to the company’s flagship sedan that boasts some eye-popping performance and range claims, including the ability to travel at least 520 miles on a single charge. The Model S with this …*
      
+  - Tesla claims it can drive battery costs down even lower with new material science innovations
+      <hr/>
+      
+      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
+      
   - Tesla is building a cathode plant and getting into the lithium mining business
       <hr/>
       
@@ -81,16 +86,11 @@ It’s all talk until the code runs.
       <hr/>
       
       - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
-      
+       
   - TransferWise reports accelerating revenue growth to 70% in its March, 2020 fiscal year
       <hr/>
-      
-      - *TransferWise, a European fintech unicorn, announced the financial results of its fiscal year ending March, 2020. The company posted strong growth, continued profit and new customer records. TransferWise was most recently valued at $5 billion during a secondar…*
        
-  - Caura, an app to take the hassle out of car ownership, launches from Echo co-founder Sai Lakshmi
-      <hr/>
-       
-       - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
+       - *TransferWise, a European fintech unicorn, announced the financial results of its fiscal year ending March, 2020. The company posted strong growth, continued profit and new customer records. TransferWise was most recently valued at $5 billion during a secondar…*
       
 
 
