@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Donald Knuth
+~ James Gleick
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I’ll use dirty tricks for two reasons. One is, if it’s really going to give 
 
 </pre>
 **Daily News**
-  - California will require all passenger vehicles sold in the state be zero-emission by 2035
+  - Sling TV launches a co-watching feature for live TV, Sling Watch Party
      <hr/>
      
-      - *California Governor Gavin Newsom issued an executive order on Wednesday requiring sales of all new passenger vehicles be zero-emission by 2035. The new order would be a huge boost for electric vehicles, and vehicles using alternative fuels like hydrogen, and …*
+      - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
      
-  - Scaling to $100 million ARR: 3 founders share their insights
+  - TikTok files for injunction against pending Trump app ban
       <hr/>
       
-      - *Last week at TechCrunch Disrupt, Alex Wilhelm hosted a panel titled “Getting to $100 million ARR” on the Extra Crunch Stage. He was joined by three executives, including Vineet Jain, CEO and co-founder at Egnyte, Michal Tsur, president and co-founder at Kaltu…*
+      - *TikTok’s fight with the Trump administration doesn’t yet appear to be over, regardless of what the deal that was signed between its parent company ByteDance and Oracle says over the weekend. Earlier today, the company filed a motion to stop the Commerce Depar…*
       
-  - Tesla experienced an hour-long network outage early Wednesday
+  - Shopify says two support staff stole customer data from sellers
       <hr/>
       
-      - *Tesla owners were locked out of their vehicles and the accompanying app for about an hour Wednesday morning, thanks to an outage that affected the company’s entire network, according to several sources. The Tesla outage was caused by an internal break of thei…*
+      - *An email to affected merchants said the breach happened on September 15.*
       
-  - TC Sessions Mobility 2020 kicks off in two weeks
+  - Tesla sues Trump Administration to end tariffs on the 'brain' of its vehicles
       <hr/>
       
-      - *Holy cats, it’s less than two weeks until TC Sessions: Mobility 2020 kicks off for two program-packed days focused squarely on mobility and transportation technology. On October 6-7, thousands of people from around the world will gather virtually to talk tren…*
+      - *Tesla is suing the Trump Administration over tariffs on a computer chip and other parts it imports from China, joining an increasingly long list of similar lawsuits filed by hundreds of companies, including automakers Ford, Mercedes-Benz and Volvo. Tesla, whi…*
        
-  - Curly the curling robot throws stones like a pro
+  - California will require all passenger vehicles sold in the state be zero-emission by 2035
       <hr/>
        
-       - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
+       - *California Governor Gavin Newsom issued an executive order on Wednesday requiring sales of all new passenger vehicles be zero-emission by 2035. The new order would be a huge boost for electric vehicles, and vehicles using alternative fuels like hydrogen, and …*
       
 
 
