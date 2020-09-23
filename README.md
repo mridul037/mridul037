@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+I think the best way to supervise is by personal example and by frequent code reviews.
 
-~ Danny Hillis
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One of the greatest joys in computer programming is discovering a new, faster, m
 
 </pre>
 **Daily News**
-  - Selling a startup can come with an emotional cost
+  - Tesla experienced an hour-long network outage early Wednesday
      <hr/>
      
-      - *Every founder dreams of building a substantial company. For those who make it through the myriad challenges, it typically results in an exit. If it’s through an acquisition, that can mean cashing in your equity, paying back investors and rewarding long-time e…*
+      - *Tesla owners were locked out of their vehicles and the accompanying app for about an hour Wednesday morning, thanks to an outage that affected the company’s entire network, according to several sources. The Tesla outage was caused by an internal break of thei…*
      
-  - Fundraising lessons from David Rogier of MasterClass
+  - TC Sessions Mobility 2020 kicks off in two weeks
       <hr/>
       
-      - *Conventional wisdom says your company should be up and running and have some traction before you raise, but MasterClass co-founder David Rogier says entrepreneurs should try to raise funds before launching.*
+      - *Holy cats, it’s less than two weeks until TC Sessions: Mobility 2020 kicks off for two program-packed days focused squarely on mobility and transportation technology. On October 6-7, thousands of people from around the world will gather virtually to talk tren…*
       
-  - Email startup Superhuman debuts a cheaper $10/mo tier for students and academics
+  - Curly the curling robot throws stones like a pro
       <hr/>
       
-      - *Email startup Superhuman has been lauded by plenty in the tech community as a simpler and faster way to navigate email, but at $30 per month, the service’s hefty subscription price has been out of reach for plenty of potential users. Today, the startup is tak…*
+      - *Robots have shown themselves to excel at any number of sports and activities, though they do best when they have a single task. Fortunately some sports, such as curling, consist mostly of one task, and Korean researchers have made a robot that throws the ston…*
       
-  - Kard raises another $3.5 million for its challenger bank for teens
+  - Top 20 iOS homescreen customization apps reach 5.7M installs after iOS 14 release
       <hr/>
       
-      - *French startup Kard has added $3.5 million (€3 million) to its seed round. The company already raised the same amount last year, which means that Kard has raised $7 million (€6 million) in total for its seed round. Founders Future is leading the round, with L…*
+      - *The iOS 14 homescreen customization trend is driving a new set of apps to the top of the App Store charts, and delivering record downloads for sources of inspiration, like Pinterest. According to new data from app store market intelligence firm Sensor Tower, …*
        
-  - Teachers deserve two screens, and Two Screens for Teachers aims to get them just that
+  - Selling a startup can come with an emotional cost
       <hr/>
        
-       - *The pandemic has caused K-12 classrooms, chaotic at the best of times, to descend into Zoom call chaos. What’s more, thousands of teachers who must wrangle this new, weird system are doing so with just a single monitor, making it difficult to see their studen…*
+       - *Every founder dreams of building a substantial company. For those who make it through the myriad challenges, it typically results in an exit. If it’s through an acquisition, that can mean cashing in your equity, paying back investors and rewarding long-time e…*
       
 
 
