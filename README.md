@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Even in the games of children there are things to interest the greatest mathematician.
+It’s all talk until the code runs.
 
-~ Gottfried Wilhelm Leibniz
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Even in the games of children there are things to interest the greatest mathemat
 
 </pre>
 **Daily News**
-  - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
+  - Tesla claims it can drive battery costs down even lower with new material science innovations
      <hr/>
      
-      - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
+      - *Amid a packed afternoon of announcements from Tesla around innovations the company is pursuing to slash the cost of electric vehicle production and energy storage through better battery design, the company said it’s made new advancements in material science f…*
      
+  - Tesla is building a cathode plant and getting into the lithium mining business
+      <hr/>
+      
+      - *A little more than a year ago, during Tesla’s 2019 shareholder’s meeting, CEO Elon Musk said the company “might get into the business of mining minerals used in electric vehicle batteries.” Today, during Tesla’s so-called Battery Day event, Musk confirmed tha…*
+      
+  - Tesla says its battery innovations will deliver its goal of a $25,000 mass market electric car
+      <hr/>
+      
+      - *Tesla held its ‘Battery Day’ event on Tuesday to discuss a variety of innovations it has developed and is pursuing in battery technology for its vehicles. At the event, Tesla CEO Elon Musk and SVP of Powertrain and Energy Engineering Drew Baglino detailed new…*
+      
   - TransferWise reports accelerating revenue growth to 70% in its March, 2020 fiscal year
       <hr/>
       
       - *TransferWise, a European fintech unicorn, announced the financial results of its fiscal year ending March, 2020. The company posted strong growth, continued profit and new customer records. TransferWise was most recently valued at $5 billion during a secondar…*
-      
+       
   - Caura, an app to take the hassle out of car ownership, launches from Echo co-founder Sai Lakshmi
       <hr/>
-      
-      - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
-      
-  - Tesla introduces its tabless battery design on the road to 10 terawatt hours of production
-      <hr/>
-      
-      - *For Tesla to reach the ambitious goal of 10 to 20 terawatt hours of battery production per year that the company has set, it will need to advance the battery and its production. Today, during Tesla’s self-described Battery Day event, the company laid out a se…*
        
-  - Future Teslas will have batteries that double as structure, making them extra stiff while improving efficiency, safety and cost
-      <hr/>
-       
-       - *Tesla has fundamentally redesigned the way that its battery packs integrate into their vehicles, turning them into structural elements of the car, rather than just fuel sources on their own. At Tesla’s Battery Day event on Tuesday, Elon Musk compared this to …*
+       - *Caura, a new U.K. startup that aims to take the hassle out of car ownership, is breaking cover today. Founded by Sai Lakshmi, who previously co-founded Echo, the medication management service acquired by LloydsPharmacy owner McKesson, Caura is an iOS app desi…*
       
 
 
