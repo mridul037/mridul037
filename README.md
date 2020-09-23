@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+First do it, then do it right, then do it better.
 
-~ Bjarne Stroustrup
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are only two kinds of languages: the ones people complain about and the on
 
 </pre>
 **Daily News**
-  - Five years after creating Traefik application proxy, open source project hits 2B downloads
+  - Yext launches Hitchhikers, a self-serve version of its site search tool
      <hr/>
      
-      - *Five years ago, Traefik Labs founder and CEO Emile Vauge was working on a project deploying thousands of microservices and he was lacking a cloud native application proxy that could handle this kind of scale. So like any good developer, he created one himself…*
+      - *Yext is making its site search product Yext Answers available to a broader set of customers today with the launch of a new program that it calls Hitchhikers. The company launched Yext Answers in October 2019 with the goal of making a brand’s website — rather …*
      
-  - Amazon removes the $500 Prime Bike, says it has nothing to do with the Peloton knock-off
+  - Submer is dunking servers in goo to save the planet
       <hr/>
       
-      - *Yesterday, a fitness equipment maker called Echelon Fitness announced its latest product, the so-called Prime Bike. At $500, it’s nearly a clone of Peloton’s $1,900 product. The company said it had developed the bike “in collaboration with Amazon”. Amazon is …*
+      - *Digital technologies now serve as the central nervous system for the global economy, and making that nervous system work depends on networks of massive data centers that hoover up enormous amounts of power to keep businesses operating around the world. It’s n…*
       
-  - Founded by former SpaceX engineers, First Resonance pitches tools to make things the SpaceX way
+  - MWC plans to go forward in person in 2021, but pushes show back to late-June
       <hr/>
       
-      - *After operating in stealth mode for about two years, First Resonance, a company founded by former SpaceX engineers, is finally showing the world their software toolkit designed to let manufacturers make things using the processes employed by their former boss…*
+      - *Over the past several months, it’s become painfully clear that COVID-19 isn’t a problem that we’re going to leave behind in 2021. After hemming and hawing a bit, the CTA ultimately pulled the trigger for an online-only version of the show in January. Other te…*
       
-  - Zoom's earliest investors are betting millions on a better Zoom for schools
+  - Venture capitalists have found a new home to brag and debate: PrimeTime VC
       <hr/>
       
-      - *Zoom was never created to be a consumer product. Nonetheless, the video-conferencing company’s accessibility made it the answer to every social situation threatened by the pandemic, from happy hours to meetings. Months later, we’re realizing that force-feedin…*
+      - *Last week, we talked a bit about how investors are seeking new techniques to bring humanity back to their deal flow and sourcing mechanisms, beyond the boring Zoom call. The newest strategy I’ve seen is PrimeTime VC, a game show that pits venture capitalists …*
        
-  - Facebook denies it will pull service in Europe over data transfer ban
+  - Dear Sophie: Possible to still get through I-751 and citizenship after divorce?
       <hr/>
        
-       - *Facebook’s head of global policy has denied the tech giant could close its service to Europeans if local regulators order it to suspend data transfers to the US following a landmark Court of Justice ruling in July that has cemented the schism between US surve…*
+       - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
       
 
 
