@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Addy Osmani
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First do it, then do it right, then do it better.
 
 </pre>
 **Daily News**
-  - Yext launches Hitchhikers, a self-serve version of its site search tool
+  - How Robinhood and Chime raised $2B+ in the last year
      <hr/>
      
-      - *Yext is making its site search product Yext Answers available to a broader set of customers today with the launch of a new program that it calls Hitchhikers. The company launched Yext Answers in October 2019 with the goal of making a brand’s website — rather …*
+      - *Last night Robinhood, the American fintech unicorn that provides free securities trading services to consumers via an app, announced that it raised an additional $460 million in its previously-known Series G. That round is now worth $660 million at an $11.7 b…*
      
-  - Submer is dunking servers in goo to save the planet
+  - WhyLabs brings more transparancy to ML ops
       <hr/>
       
-      - *Digital technologies now serve as the central nervous system for the global economy, and making that nervous system work depends on networks of massive data centers that hoover up enormous amounts of power to keep businesses operating around the world. It’s n…*
+      - *WhyLabs, a new machine learning startup that was spun out of the Allen Institute, is coming out of stealth today. Founded by a group of former Amazon machine learning engineers, Alessya Visnjic, Sam Gracie and Andy Dang, together with Madrona Venture Group pr…*
       
-  - MWC plans to go forward in person in 2021, but pushes show back to late-June
+  - EU's antitrust probe of Google-Fitbit gets more time
       <hr/>
       
-      - *Over the past several months, it’s become painfully clear that COVID-19 isn’t a problem that we’re going to leave behind in 2021. After hemming and hawing a bit, the CTA ultimately pulled the trigger for an online-only version of the show in January. Other te…*
+      - *European antitrust regulators now have until almost the end of the year to take a decision on whether to green light Google’s planned acquisition of Fitbit. The tech giant announced its intention to buy the fitness tracking wearable maker in November 2019, sa…*
       
-  - Venture capitalists have found a new home to brag and debate: PrimeTime VC
+  - Spotify adds an interactive feature for podcasts with launch of 'Polls'
       <hr/>
       
-      - *Last week, we talked a bit about how investors are seeking new techniques to bring humanity back to their deal flow and sourcing mechanisms, beyond the boring Zoom call. The newest strategy I’ve seen is PrimeTime VC, a game show that pits venture capitalists …*
+      - *Spotify today is introducing a new feature designed to make podcasts more interactive. The company says it’s beginning to test “Polls,” a tool that will allow listeners to engage with podcasts by answering questions posed by the podcast hosts during the show.…*
        
-  - Dear Sophie: Possible to still get through I-751 and citizenship after divorce?
+  - The Galaxy S20 FE is Samsung’s new $699 budget flagship
       <hr/>
        
-       - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
+       - *One thing Samsung knows for certain: it’s interested in budget flagships. The category makes sense these days, as users are increasingly unwilling to spend north of $1,000 on new phones. That’s doubly the case during the COVID-19 pandemic, with people leaving…*
       
 
 
