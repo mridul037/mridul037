@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Edsger W. Dijkstra
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The competent programmer is fully aware of the strictly limited size of his own 
 
 </pre>
 **Daily News**
-  - Facebook denies it will pull service in Europe over data transfer ban
+  - Five years after creating Traefik application proxy, open source project hits 2B downloads
      <hr/>
      
-      - *Facebook’s head of global policy has denied the tech giant could close its service to Europeans if local regulators order it to suspend data transfers to the US following a landmark Court of Justice ruling in July that has cemented the schism between US surve…*
+      - *Five years ago, Traefik Labs founder and CEO Emile Vauge was working on a project deploying thousands of microservices and he was lacking a cloud native application proxy that could handle this kind of scale. So like any good developer, he created one himself…*
      
-  - Endel raises $5M to create personalized 'sound environments' that improve productivity and sleep
+  - Amazon removes the $500 Prime Bike, says it has nothing to do with the Peloton knock-off
       <hr/>
       
-      - *The pitch for Berlin-based Endel is pretty straightforward, according to its co-founder and CEO Oleg Stavitsky. “The way I usually describe Endel is: This is a technology that is built to help you focus, relax and sleep,” Stavitsky told me. “Of course, the wa…*
+      - *Yesterday, a fitness equipment maker called Echelon Fitness announced its latest product, the so-called Prime Bike. At $500, it’s nearly a clone of Peloton’s $1,900 product. The company said it had developed the bike “in collaboration with Amazon”. Amazon is …*
       
-  - Salsify nabs $155M as its commerce experience platform sees a big surge of business from Covid-19
+  - Founded by former SpaceX engineers, First Resonance pitches tools to make things the SpaceX way
       <hr/>
       
-      - *As traditional brands grapple with a new world where selling online is as much or perhaps even more important than how you are positioned in a physical store, a startup that helps them get all their inventory, marketing and selling strategies all on one page …*
+      - *After operating in stealth mode for about two years, First Resonance, a company founded by former SpaceX engineers, is finally showing the world their software toolkit designed to let manufacturers make things using the processes employed by their former boss…*
       
-  - New research shows European startups are spending drastically less on a US launch, for the same gains
+  - Zoom's earliest investors are betting millions on a better Zoom for schools
       <hr/>
       
-      - *It used to be the case that in order to scale glocally, European companies needed to spend big on launching in the US to achieve the kind of growth they wanted. That usually meant re-locating large swathes of the team to the San Francisco / Bay Area, or New Y…*
+      - *Zoom was never created to be a consumer product. Nonetheless, the video-conferencing company’s accessibility made it the answer to every social situation threatened by the pandemic, from happy hours to meetings. Months later, we’re realizing that force-feedin…*
        
-  - 'AI-powered' fitness app Freeletics scores $25M Series B
+  - Facebook denies it will pull service in Europe over data transfer ban
       <hr/>
        
-       - *Freeletics, the “AI-powered” fitness coaching app, has closed $25 million in Series B funding. Leading the round is U.S.-based JAZZ Venture Partners and Causeway Media Partners, with support from KKCG. The fresh injection of capital follows $45 million in Ser…*
+       - *Facebook’s head of global policy has denied the tech giant could close its service to Europeans if local regulators order it to suspend data transfers to the US following a landmark Court of Justice ruling in July that has cemented the schism between US surve…*
       
 
 
