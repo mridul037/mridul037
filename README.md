@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+What is simplicity? Simplicity is the shortest path to a solution.
 
-~ David Gelernter
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Beauty is more important in computing than anywhere else in technology because s
 
 </pre>
 **Daily News**
-  - Sneaker culture staple GOAT hits $1.75 billion valuation on new $100 million round
+  - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
      <hr/>
      
-      - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
+      - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
      
+  - Daily Crunch: Shopify confirms data breach
+      <hr/>
+      
+      - *Shopify blames “rogue” employees for a data breach, Google Maps adds COVID-19 data and China pushes back against the TikTok deal. This is your Daily Crunch for September 23, 2020. The big story: Shopify confirms data breach The e-commerce platform blamed two …*
+      
+  - The eighth-generation iPad is a fine choice for casual users
+      <hr/>
+      
+      - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
+      
+  - Sneaker culture staple GOAT hits $1.75 billion valuation on new $100 million round
+      <hr/>
+      
+      - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
+       
   - Sling TV launches a co-watching feature for live TV, Sling Watch Party
       <hr/>
-      
-      - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
-      
-  - TikTok files for injunction against pending Trump app ban
-      <hr/>
-      
-      - *TikTok’s fight with the Trump administration doesn’t yet appear to be over, regardless of what the deal that was signed between its parent company ByteDance and Oracle says over the weekend. Earlier today, the company filed a motion to stop the Commerce Depar…*
-      
-  - Shopify says two support staff stole customer data from sellers
-      <hr/>
-      
-      - *An email to affected merchants said the breach happened on September 15.*
        
-  - Tesla sues Trump Administration to end tariffs on the 'brain' of its vehicles
-      <hr/>
-       
-       - *Tesla is suing the Trump Administration over tariffs on a computer chip and other parts it imports from China, joining an increasingly long list of similar lawsuits filed by hundreds of companies, including automakers Ford, Mercedes-Benz and Volvo. Tesla, whi…*
+       - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
       
 
 
