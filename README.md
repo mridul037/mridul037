@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+If you think your users are idiots, only idiots will use it.
 
-~ Elon Musk
+~ Linus Torvalds
 <pre>
 
 </pre>
