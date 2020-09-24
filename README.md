@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Roy Fielding
+~ L. Peter Deutsch
 <pre>
 
 </pre>
