@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The competent programmer is fully aware of the strictly limited size of his own 
 
 </pre>
 **Daily News**
-  - Atlanta gets a billion dollar startup business as Greenlight's family-focused fintech nabs $215 million
+  - EV charging network ChargePoint to go public via SPAC
      <hr/>
      
-      - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
+      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
      
-  - Roli’s light-up learning keyboard goes up for pre-order at $299
+  - Learning how to ask questions is an essential skill for startup founders
       <hr/>
       
-      - *Roli is cool startup that makes fascinating music products. The Seaboard led the way, with a clever take on the keyboard that allowed players to bend notes like guitar strings. Blocks were even more fascinating — the modular light pads offered innovative cont…*
+      - *As I interviewed founders about the most valuable learning resources that allowed them to grow into the leaders they are today, I realized that many leaned heavily on carefully-crafted approaches to asking questions.*
       
-  - As tech stocks dip, is insurtech startup Root targeting an IPO?
+  - Entrepreneurship and investing as social good
       <hr/>
       
-      - *During the week’s news cycle one particular bit of reporting slipped under our radar: Root Insurance is tipped by Reuters to be prepping an IPO that could value the neo-insurance provider at around $6 billion. Coming after two 2020 insurtech IPOs, Root’s step…*
+      - *Democratized access to startups yields more opportunity for investors to find ventures that align with their values while diversifying their profiles can provide tremendous results.*
       
-  - LinkedIn launches Stories, plus Zoom, BlueJeans and Teams video integrations as part of wider redesign
+  - Spotify and Chernin Entertainment enter first-look deal to turn podcasts into TV shows and movies
       <hr/>
       
-      - *With the employment market remaining sluggish as the world continues to struggle with Covid-19, a company that has built its popular businesses largely around recruitment is launching a redesign that pushes engagement in other ways as it waits for the job eco…*
+      - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
        
-  - Nori is pitching carbon trading... on the blockchain!
+  - Atlanta gets a billion dollar startup business as Greenlight's family-focused fintech nabs $215 million
       <hr/>
        
-       - *Cryptocurrency meets carbon trading. That’s the pitch from Nori, a new Seattle-based startup, that just raised $4 million in funding from cryptocurrency focused investors including Placeholder, North Island Ventures, Tenacious Ventures, and a big, privately h…*
+       - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
       
 
 
