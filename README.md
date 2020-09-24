@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+The next best thing to having good ideas is recognizing good ideas from your users.
 
-~ Fred Brooks
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The fundamental problem with program maintenance is that fixing a defect has a s
 
 </pre>
 **Daily News**
-  - EV charging network ChargePoint to go public via SPAC
+  - Drive predictable B2B revenue growth with insights from big data and CDPs
      <hr/>
      
-      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
+      - *Your CDP feeds your AI, and AIs love a big data feast. The more data you give it, the more accurate the predictions will be*
      
+  - EV charging network ChargePoint to go public via SPAC
+      <hr/>
+      
+      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
+      
   - Learning how to ask questions is an essential skill for startup founders
       <hr/>
       
@@ -81,16 +86,11 @@ The fundamental problem with program maintenance is that fixing a defect has a s
       <hr/>
       
       - *Democratized access to startups yields more opportunity for investors to find ventures that align with their values while diversifying their profiles can provide tremendous results.*
-      
+       
   - Spotify and Chernin Entertainment enter first-look deal to turn podcasts into TV shows and movies
       <hr/>
-      
-      - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
        
-  - Atlanta gets a billion dollar startup business as Greenlight's family-focused fintech nabs $215 million
-      <hr/>
-       
-       - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
+       - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
       
 
 
