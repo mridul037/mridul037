@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 
-~ Ken Thompson
+~ David Gelernter
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Documenting is very, very hard; it’s time-consuming. To do it right, you’ve 
 
 </pre>
 **Daily News**
-  - Here's everything Amazon announced at its latest hardware event
+  - Coinbase UX teardown: 5 fails and how to fix them
      <hr/>
      
-      - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
+      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
      
-  - Netflix finally comes to the Amazon Echo Show
+  - Why isn't Robinhood a verb yet?
       <hr/>
       
-      - *Amazon announced the Echo Show line in 2017, and today, it’s finally gaining access to Netflix. The video service joins Hulu and Prime Video as the only officially supported video streaming apps.6 The news came from Amazon’s yearly Echo event where the compan…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and your humble servant gathered to chat through a host of rounds…*
       
-  - Amazon redesigns Fire TV, introduces new Fire TV Stick and low-cost Fire TV Stick Lite
+  - Hootsuite says it will terminate its ICE contract 'without delay'
       <hr/>
       
-      - *Amazon today announced a redesign Fire TV experience along with an updated Fire TV Stick and a new, lower-cost Fire TV Stick Lite. The updated interface for the Alexa-enabled smart TV platform will introduce a handful of new features, including support video …*
+      - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
       
-  - 3 founders on why they pursued alternative startup ownership structures
+  - Announcing the final agenda for TC Sessions: Mobility 2020
       <hr/>
       
-      - *There is no one-size-fits all model for building a startup. At TechCrunch Disrupt, we heard from a handful of founders about alternative approaches to creating a sustainable company that ensures more than just VCs and early founders benefit from its success. …*
+      - *TC Sessions: Mobility is back and we’re excited to give the final look of what and who is coming to the main stage. Before we get into who is coming, let’s tackle one important change from our 2019 inaugural event: this year, TC Sessions: Mobility will be vir…*
        
-  - Amazon announces Luna+ game-streaming platform
+  - Here's everything Amazon announced at its latest hardware event
       <hr/>
        
-       - *At its Devices and Services event, Amazon launched its own cloud gaming competitor to Google Stadia and Microsoft xCloud. The company is launching the product in early access at an introductory price of $5.99 per month Users will be able to stream titles wire…*
+       - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
       
 
 
