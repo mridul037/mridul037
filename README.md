@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+If Microsoft ever does applications for Linux it means I've won.
 
-~ Alan Kay
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I invented the term 'Object-Oriented', and I can tell you I did not have C++ in 
 
 </pre>
 **Daily News**
-  - Facebook gives more details about its efforts against hate speech before Myanmar's general election
+  - Mobileye signs driver-assistance deal with Geely, one of China's largest privately-held auto makers
      <hr/>
      
-      - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
+      - *Mobileye’s computer vision technology will be used in a new premium electric vehicle called Zero Concept from Geely Auto Group, one of China’s largest privately-held automobile manufacturers. Mobileye’s owner Intel made the announcement today at the Beijing A…*
      
+  - Facebook gives more details about its efforts against hate speech before Myanmar's general election
+      <hr/>
+      
+      - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
+      
   - New report finds VC investment into ClimateTech growing five times faster than overall VC
       <hr/>
       
@@ -81,16 +86,11 @@ I invented the term 'Object-Oriented', and I can tell you I did not have C++ in 
       <hr/>
       
       - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
-      
+       
   - Daily Crunch: Shopify confirms data breach
       <hr/>
-      
-      - *Shopify blames “rogue” employees for a data breach, Google Maps adds COVID-19 data and China pushes back against the TikTok deal. This is your Daily Crunch for September 23, 2020. The big story: Shopify confirms data breach The e-commerce platform blamed two …*
        
-  - The eighth-generation iPad is a fine choice for casual users
-      <hr/>
-       
-       - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
+       - *Shopify blames “rogue” employees for a data breach, Google Maps adds COVID-19 data and China pushes back against the TikTok deal. This is your Daily Crunch for September 23, 2020. The big story: Shopify confirms data breach The e-commerce platform blamed two …*
       
 
 
