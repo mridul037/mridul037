@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 
-~ Ward Cunningham
+~ Marvin Minsky
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ What is simplicity? Simplicity is the shortest path to a solution.
 
 </pre>
 **Daily News**
-  - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
+  - New report finds VC investment into ClimateTech growing five times faster than overall VC
      <hr/>
      
-      - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
+      - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
      
+  - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
+      <hr/>
+      
+      - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
+      
   - Daily Crunch: Shopify confirms data breach
       <hr/>
       
@@ -81,16 +86,11 @@ What is simplicity? Simplicity is the shortest path to a solution.
       <hr/>
       
       - *It happens to the best of us. Some newer, flashier model comes along and we’re no longer the latest and greatest new thing. The iPad’s had a plenty good run, of course. Ten years ago, the device redefined what a tablet is and has maintained a dominant spot at…*
-      
+       
   - Sneaker culture staple GOAT hits $1.75 billion valuation on new $100 million round
       <hr/>
-      
-      - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
        
-  - Sling TV launches a co-watching feature for live TV, Sling Watch Party
-      <hr/>
-       
-       - *Live TV streaming service Sling TV is joining in on the co-watching trend. The company today announced the launch of its own version of a co-viewing feature, which allows friends and family in different locations to watch live TV together at the same time. Wh…*
+       - *In this case, money, it really is the shoes. GOAT, the proprietor of online and physical retail locations for reselling the collectible kicks and kits that are the currency of street cred and cultural cool among the youths, is now worth a whopping $1.75 billi…*
       
 
 
