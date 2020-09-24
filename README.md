@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to know that you have found the last bug is never to find the first bug.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
-~ Harlan Mills
+~ Tony Hoare
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best way to know that you have found the last bug is never to find the first
 
 </pre>
 **Daily News**
-  - United Airlines is making COVID-19 tests available to passengers, powered in part by Color
+  - NUVIA raises $240M from Mithril to make climate-ready enterprise chips
      <hr/>
      
-      - *There’s still no clear path back to any sense of ‘business-as-usual’ as the COVID-19 pandemic continues, but United Airlines is embarking on a new pilot project to see if easy access to COVID-19 testing immediately prior to a flight can help ease freedom of m…*
+      - *Climate change is on everyone’s minds these days, what with the outer Bay Area on fire, orange skies above San Francisco, and a hurricane season that is bearing down on the East Coast with alacrity (and that’s just the United States in the past two weeks). A …*
      
-  - India's ShareChat raises $40 million, says its short-video platform Moj now reaches 80 million users
+  - E-commerce platform Whitebox raises $18M
       <hr/>
       
-      - *ShareChat, an Indian social network that focuses entirely on serving users in non-English languages, said on Thursday it has raised $40 million from a clutch of investors after the Indian startup added tens of millions of new users in recent months. The five-…*
+      - *Whitebox, a startup that manages e-commerce logistics and fulfillment for a variety for brands, has raised $18 million in Series B funding. While discussing the new funding, CEO Marcus Startzel repeated a point he made after Whitebox raised its $5 million Ser…*
       
-  - Ohio-based collaboration service for biotech and pharma research, Within3, raises $100 million
+  - Bowery Farming adds executives as it expands to sell produce in 650 stores
       <hr/>
       
-      - *Within3, a collaboration and communication service for the biotech and pharma industries, has raised over $100 million in new financing, the company said. The investment came from Insight Partners with participation from Silversmith Capital Partners. Most of …*
+      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
       
-  - Snyk acquires DeepCode to boost its code review smarts
+  - Airship acquires SMS commerce company ReplyBuy
       <hr/>
       
-      - *Switzerland-based machine learning code review startup DeepCode — which bills itself as ‘Grammarly for coders’ — has been acquired by Snyk, a post-unicorn valuation cybersecurity startup which is focused on helping developers secure their code. Financial term…*
+      - *Airship is announcing that it has acquired mobile commerce startup ReplyBuy. The startup (which was a finalist at TechCrunch’s 1st and Future startup competition in 2016) works with customers like entertainment venues and professional and college sports teams…*
        
-  - YouTube will add mail-in voting info box next to videos that discuss voting by mail
+  - Spectrum Labs raises $10M for its AI-based platform to combat online toxicity
       <hr/>
        
-       - *YouTube has been relatively quiet about its strategy to battle the flow of misinformation leading into the 2020 U.S. election, but the platform has a few new measures in store. The video sharing site will begin attaching a box with vetted facts about mail-in …*
+       - *With the US presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips, and misleading ads, will be used, and often abused, to influence people’s d…*
       
 
 
