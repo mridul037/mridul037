@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
-~ Rick Osborne
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
 
 </pre>
 **Daily News**
-  - Fitbit Sense review
+  - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
      <hr/>
      
-      - *The Versa helped Fitbit reverse its fortunes after a long, gradual slide. The company was slow to embrace the smartwatch, and stumbled somewhat out of the gate with the Ionic. But the Versa found a perfect sweet spot that build atop generations of wearable he…*
+      - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
      
-  - Coinbase UX teardown: 5 fails and how to fix them
+  - Launch Center Pro lets you build custom icons to customize your iOS 14 home screen
       <hr/>
       
-      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
+      - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
       
-  - Why isn't Robinhood a verb yet?
+  - Daily Crunch: Amazon unveils its own game-streaming platform
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha Mascarenhas, Danny Crichton and your humble servant gathered to chat through a host of rounds…*
+      - *Amazon announces a new game service and plenty of hardware upgrades, tech companies team up against app stores and United Airlines tests a program for rapid COVID-19 testing. This is your Daily Crunch for September 24, 2020. The big story: Amazon unveils its …*
       
-  - Hootsuite says it will terminate its ICE contract 'without delay'
+  - Don't buy the hype: Free VPNs are bad for your privacy
       <hr/>
       
-      - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
+      - *Many free VPNs promise to protect your privacy. Don't believe it.*
        
-  - Announcing the final agenda for TC Sessions: Mobility 2020
+  - Fitbit Sense review
       <hr/>
        
-       - *TC Sessions: Mobility is back and we’re excited to give the final look of what and who is coming to the main stage. Before we get into who is coming, let’s tackle one important change from our 2019 inaugural event: this year, TC Sessions: Mobility will be vir…*
+       - *The Versa helped Fitbit reverse its fortunes after a long, gradual slide. The company was slow to embrace the smartwatch, and stumbled somewhat out of the gate with the Ionic. But the Versa found a perfect sweet spot that build atop generations of wearable he…*
       
 
 
