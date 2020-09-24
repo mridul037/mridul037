@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+Premature abstraction is as bad as premature optimization.
 
-~ L. Peter Deutsch
+~ Luciano Ramalho
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Software is a discipline of detail, and that is a deep, horrendous fundamental p
 
 </pre>
 **Daily News**
-  - WeWork sells majority stake in Chinese entity, seeks localization
+  - Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime
      <hr/>
      
-      - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
+      - *Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today, one of the startups that has been building data intellig…*
      
+  - Small business challenger bank Finom raises another $12 million to expand in Europe
+      <hr/>
+      
+      - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
+      
+  - WeWork sells majority stake in Chinese entity, seeks localization
+      <hr/>
+      
+      - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
+      
   - Mobileye signs driver-assistance deal with Geely, one of China's largest privately-held auto makers
       <hr/>
       
       - *Mobileye’s computer vision technology will be used in a new premium electric vehicle called Zero Concept from Geely Auto Group, one of China’s largest privately-held automobile manufacturers. Mobileye’s owner Intel made the announcement today at the Beijing A…*
-      
+       
   - Facebook gives more details about its efforts against hate speech before Myanmar's general election
       <hr/>
-      
-      - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
-      
-  - New report finds VC investment into ClimateTech growing five times faster than overall VC
-      <hr/>
-      
-      - *VC and corporate investment into ClimateTech grew at a faster rate than overall VC investment as a whole between 2013 – 2019, according to a major new report — to the tune of $60 billion of early-stage capital. The new research by PwC (“The State of Climate T…*
        
-  - Peterson Ventures, a  firm that quietly backed Allbirds and Bonobos, just closed a $65 million fund
-      <hr/>
-       
-       - *Peterson Ventures, a 12-year-old, Salt Lake City, Ut.-based seed-stage fund, has long operated fairly quietly, but many of its bets have become known brands in the respective worlds of consumer and enterprise software investing. Among these is the shoe compan…*
+       - *About three weeks ago, Facebook announced will increase its efforts against hate speech and misinformation in Myanmar before the country’s general election on November 8, 2020. Today, it gave some more details about what the company is doing to prevent the sp…*
       
 
 
