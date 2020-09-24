@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+The most important part of writing a program is designing the data structures.
 
-~ Gerald Weinberg
+~ Dan Bricklin
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When program developers are not territorial about their code and encourage other
 
 </pre>
 **Daily News**
-  - UK launches COVID-19 exposure notification app for England and Wales
+  - YouTube will add mail-in voting info box next to videos that discuss voting by mail
      <hr/>
      
-      - *The last two regions of the UK now have an official coronavirus contacts tracing app, after the UK government pushed the button to launch the NHS COVID-19 app across England and Wales today. Northern Ireland and Scotland launched their own official apps to au…*
+      - *YouTube has been relatively quiet about its strategy to battle the flow of misinformation leading into the 2020 U.S. election, but the platform has a few new measures in store. The video sharing site will begin attaching a box with vetted facts about mail-in …*
      
+  - UK launches COVID-19 exposure notification app for England and Wales
+      <hr/>
+      
+      - *The last two regions of the UK now have an official coronavirus contacts tracing app, after the UK government pushed the button to launch the NHS COVID-19 app across England and Wales today. Northern Ireland and Scotland launched their own official apps to au…*
+      
   - Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime
       <hr/>
       
@@ -81,16 +86,11 @@ When program developers are not territorial about their code and encourage other
       <hr/>
       
       - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
-      
+       
   - WeWork sells majority stake in Chinese entity, seeks localization
       <hr/>
-      
-      - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
        
-  - Mobileye signs driver-assistance deal with Geely, one of China's largest privately-held auto makers
-      <hr/>
-       
-       - *Mobileye’s computer vision technology will be used in a new premium electric vehicle called Zero Concept from Geely Auto Group, one of China’s largest privately-held automobile manufacturers. Mobileye’s owner Intel made the announcement today at the Beijing A…*
+       - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
       
 
 
