@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The next best thing to having good ideas is recognizing good ideas from your users.
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 
-~ Eric S. Raymond
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The next best thing to having good ideas is recognizing good ideas from your use
 
 </pre>
 **Daily News**
-  - Drive predictable B2B revenue growth with insights from big data and CDPs
+  - Amazon announces Luna+ game-streaming platform
      <hr/>
      
-      - *Your CDP feeds your AI, and AIs love a big data feast. The more data you give it, the more accurate the predictions will be*
+      - *At its Devices and Services event, Amazon launched its own cloud gaming competitor to Google Stadia and Microsoft xCloud. The company is launching the product in early access at an introductory price of $5.99 per month Users will be able to stream titles wire…*
      
-  - EV charging network ChargePoint to go public via SPAC
+  - Amazon redesigns the Echo line with spherical speakers and swiveling screens
       <hr/>
       
-      - *Several electric vehicle startups, including Canoo, Fisker Inc., Lordstown Motors and Nikola Corp., have gone public this year by merging with a special purpose acquisition company. Now, an electric vehicle charging company is joining the growing list of SPAC…*
+      - *Amazon today announced a lot of new products including the new Echo speaker line. And the products looks dramatically different. Gone are the cylinders. They’re spheres now and look like nothing else on the market. The lights are now on the bottom, while ther…*
       
-  - Learning how to ask questions is an essential skill for startup founders
+  - Amazon’s new Echo Show 10 follows you as you move
       <hr/>
       
-      - *As I interviewed founders about the most valuable learning resources that allowed them to grow into the leaders they are today, I realized that many leaned heavily on carefully-crafted approaches to asking questions.*
+      - *So this is crazy. Amazon’s new Echo Show 10 swivels on its base to follow you around the room. The on-board camera is capable of recognizing a person and spins around to follow them — essentially taking the person tracking feature found on Facebook’s Portal a…*
       
-  - Entrepreneurship and investing as social good
+  - Ring's newest security camera is a $249 autonomous indoor drone shipping in 2021
       <hr/>
       
-      - *Democratized access to startups yields more opportunity for investors to find ventures that align with their values while diversifying their profiles can provide tremendous results.*
+      - *Ring built its entire business on reinventing the doorbell – and now it’s taking a similar approach to the humble home security camera, with the Ring Always Home Cam, set to be available sometime next year. You might not guess from its name, but this security…*
        
-  - Spotify and Chernin Entertainment enter first-look deal to turn podcasts into TV shows and movies
+  - Ring to offer opt-in end-to-end encryption for videos beginning later this year
       <hr/>
        
-       - *More Spotify podcasts could soon become TV shows or movies thanks to a new, multi-year partnership announced today between the streaming music provider and film and television production company, Chernin Entertainment. The agreement will allow Chernin to iden…*
+       - *Ring will be stepping up its efforts to make its security products secure for users by enabling end-to-end video encryption later this year. The company will be providing this toggle in a new page in tits app’s Control Center, which will provide more informat…*
       
 
 
