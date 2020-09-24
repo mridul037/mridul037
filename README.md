@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Tim Berners-Lee
+~ Rick Osborne
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I just had to take the hypertext idea and connect it to the TCP and DNS ideas an
 
 </pre>
 **Daily News**
-  - Coinbase UX teardown: 5 fails and how to fix them
+  - Fitbit Sense review
      <hr/>
      
-      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
+      - *The Versa helped Fitbit reverse its fortunes after a long, gradual slide. The company was slow to embrace the smartwatch, and stumbled somewhat out of the gate with the Ionic. But the Versa found a perfect sweet spot that build atop generations of wearable he…*
      
+  - Coinbase UX teardown: 5 fails and how to fix them
+      <hr/>
+      
+      - *Digital currency exchange Coinbase has probably done more than most to push cryptocurrencies closer to the mainstream, earning an $8 billion valuation by private investors along the way. The company is reportedly eyeing a public listing next year, and is inar…*
+      
   - Why isn't Robinhood a verb yet?
       <hr/>
       
@@ -81,16 +86,11 @@ I just had to take the hypertext idea and connect it to the TCP and DNS ideas an
       <hr/>
       
       - *After disagreements within the company spilled over into public controversy, Hootsuite says it won’t go forward with a contract with U.S. Immigration and Customs Enforcement. Through an external spokesperson, the company told TechCrunch it “can confirm the te…*
-      
+       
   - Announcing the final agenda for TC Sessions: Mobility 2020
       <hr/>
-      
-      - *TC Sessions: Mobility is back and we’re excited to give the final look of what and who is coming to the main stage. Before we get into who is coming, let’s tackle one important change from our 2019 inaugural event: this year, TC Sessions: Mobility will be vir…*
        
-  - Here's everything Amazon announced at its latest hardware event
-      <hr/>
-       
-       - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
+       - *TC Sessions: Mobility is back and we’re excited to give the final look of what and who is coming to the main stage. Before we get into who is coming, let’s tackle one important change from our 2019 inaugural event: this year, TC Sessions: Mobility will be vir…*
       
 
 
