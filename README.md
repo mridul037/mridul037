@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ Tony Hoare
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are two ways of constructing a software design: One way is to make it so s
 
 </pre>
 **Daily News**
-  - NUVIA raises $240M from Mithril to make climate-ready enterprise chips
+  - Atlanta gets a billion dollar startup business as Greenlight's family-focused fintech nabs $215 million
      <hr/>
      
-      - *Climate change is on everyone’s minds these days, what with the outer Bay Area on fire, orange skies above San Francisco, and a hurricane season that is bearing down on the East Coast with alacrity (and that’s just the United States in the past two weeks). A …*
+      - *Greenlight Financial Technology, the fintech company that pitches parents on kid-friendly bank accounts, has raised $215 million in a new round of funding. The round gives the Atlanta-based startup a $1.2 billion valuation thanks to backing from Canapi Ventur…*
      
-  - E-commerce platform Whitebox raises $18M
+  - Roli’s light-up learning keyboard goes up for pre-order at $299
       <hr/>
       
-      - *Whitebox, a startup that manages e-commerce logistics and fulfillment for a variety for brands, has raised $18 million in Series B funding. While discussing the new funding, CEO Marcus Startzel repeated a point he made after Whitebox raised its $5 million Ser…*
+      - *Roli is cool startup that makes fascinating music products. The Seaboard led the way, with a clever take on the keyboard that allowed players to bend notes like guitar strings. Blocks were even more fascinating — the modular light pads offered innovative cont…*
       
-  - Bowery Farming adds executives as it expands to sell produce in 650 stores
+  - As tech stocks dip, is insurtech startup Root targeting an IPO?
       <hr/>
       
-      - *Bowery Farming has added to its executive team as it expands its retail footprint to 650 stores, the company said. From three indoor farms in Kearny, N.J. and Nottingham, Md., the New York-based company is pitching a smattering of leafy greens and herbs. Irvi…*
+      - *During the week’s news cycle one particular bit of reporting slipped under our radar: Root Insurance is tipped by Reuters to be prepping an IPO that could value the neo-insurance provider at around $6 billion. Coming after two 2020 insurtech IPOs, Root’s step…*
       
-  - Airship acquires SMS commerce company ReplyBuy
+  - LinkedIn launches Stories, plus Zoom, BlueJeans and Teams video integrations as part of wider redesign
       <hr/>
       
-      - *Airship is announcing that it has acquired mobile commerce startup ReplyBuy. The startup (which was a finalist at TechCrunch’s 1st and Future startup competition in 2016) works with customers like entertainment venues and professional and college sports teams…*
+      - *With the employment market remaining sluggish as the world continues to struggle with Covid-19, a company that has built its popular businesses largely around recruitment is launching a redesign that pushes engagement in other ways as it waits for the job eco…*
        
-  - Spectrum Labs raises $10M for its AI-based platform to combat online toxicity
+  - Nori is pitching carbon trading... on the blockchain!
       <hr/>
        
-       - *With the US presidential election now 40 days away, all eyes are focused on how online conversations, in conjunction with other hallmarks of online life like viral videos, news clips, and misleading ads, will be used, and often abused, to influence people’s d…*
+       - *Cryptocurrency meets carbon trading. That’s the pitch from Nori, a new Seattle-based startup, that just raised $4 million in funding from cryptocurrency focused investors including Placeholder, North Island Ventures, Tenacious Ventures, and a big, privately h…*
       
 
 
