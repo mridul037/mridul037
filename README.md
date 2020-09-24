@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important part of writing a program is designing the data structures.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ Dan Bricklin
+~ Pamela Zave
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The most important part of writing a program is designing the data structures.
 
 </pre>
 **Daily News**
-  - YouTube will add mail-in voting info box next to videos that discuss voting by mail
+  - Snyk acquires DeepCode to boost its code review smarts
      <hr/>
      
-      - *YouTube has been relatively quiet about its strategy to battle the flow of misinformation leading into the 2020 U.S. election, but the platform has a few new measures in store. The video sharing site will begin attaching a box with vetted facts about mail-in …*
+      - *Switzerland-based machine learning code review startup DeepCode — which bills itself as ‘Grammarly for coders’ — has been acquired by Snyk, a post-unicorn valuation cybersecurity startup which is focused on helping developers secure their code. Financial term…*
      
+  - YouTube will add mail-in voting info box next to videos that discuss voting by mail
+      <hr/>
+      
+      - *YouTube has been relatively quiet about its strategy to battle the flow of misinformation leading into the 2020 U.S. election, but the platform has a few new measures in store. The video sharing site will begin attaching a box with vetted facts about mail-in …*
+      
   - UK launches COVID-19 exposure notification app for England and Wales
       <hr/>
       
@@ -81,16 +86,11 @@ The most important part of writing a program is designing the data structures.
       <hr/>
       
       - *Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today, one of the startups that has been building data intellig…*
-      
+       
   - Small business challenger bank Finom raises another $12 million to expand in Europe
       <hr/>
-      
-      - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
        
-  - WeWork sells majority stake in Chinese entity, seeks localization
-      <hr/>
-       
-       - *Four years after its foray into the Chinese market followed by rapid and cash-hemorrhaging expansion, WeWork decided to wind down its involvement in the country. WeWork’s Chinese unit has secured a $200 million investment led by Shanghai-based equity firm Tru…*
+       - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
       
 
 
