@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of software engineering is to control complexity, not to create it.
+The best way to know that you have found the last bug is never to find the first bug.
 
-~ Pamela Zave
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The purpose of software engineering is to control complexity, not to create it.
 
 </pre>
 **Daily News**
-  - Snyk acquires DeepCode to boost its code review smarts
+  - United Airlines is making COVID-19 tests available to passengers, powered in part by Color
      <hr/>
      
-      - *Switzerland-based machine learning code review startup DeepCode — which bills itself as ‘Grammarly for coders’ — has been acquired by Snyk, a post-unicorn valuation cybersecurity startup which is focused on helping developers secure their code. Financial term…*
+      - *There’s still no clear path back to any sense of ‘business-as-usual’ as the COVID-19 pandemic continues, but United Airlines is embarking on a new pilot project to see if easy access to COVID-19 testing immediately prior to a flight can help ease freedom of m…*
      
+  - India's ShareChat raises $40 million, says its short-video platform Moj now reaches 80 million users
+      <hr/>
+      
+      - *ShareChat, an Indian social network that focuses entirely on serving users in non-English languages, said on Thursday it has raised $40 million from a clutch of investors after the Indian startup added tens of millions of new users in recent months. The five-…*
+      
+  - Ohio-based collaboration service for biotech and pharma research, Within3, raises $100 million
+      <hr/>
+      
+      - *Within3, a collaboration and communication service for the biotech and pharma industries, has raised over $100 million in new financing, the company said. The investment came from Insight Partners with participation from Silversmith Capital Partners. Most of …*
+      
+  - Snyk acquires DeepCode to boost its code review smarts
+      <hr/>
+      
+      - *Switzerland-based machine learning code review startup DeepCode — which bills itself as ‘Grammarly for coders’ — has been acquired by Snyk, a post-unicorn valuation cybersecurity startup which is focused on helping developers secure their code. Financial term…*
+       
   - YouTube will add mail-in voting info box next to videos that discuss voting by mail
       <hr/>
-      
-      - *YouTube has been relatively quiet about its strategy to battle the flow of misinformation leading into the 2020 U.S. election, but the platform has a few new measures in store. The video sharing site will begin attaching a box with vetted facts about mail-in …*
-      
-  - UK launches COVID-19 exposure notification app for England and Wales
-      <hr/>
-      
-      - *The last two regions of the UK now have an official coronavirus contacts tracing app, after the UK government pushed the button to launch the NHS COVID-19 app across England and Wales today. Northern Ireland and Scotland launched their own official apps to au…*
-      
-  - Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime
-      <hr/>
-      
-      - *Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today, one of the startups that has been building data intellig…*
        
-  - Small business challenger bank Finom raises another $12 million to expand in Europe
-      <hr/>
-       
-       - *B2B financial service start-up Finom — which provides online financial services for SMEs, freelancers, and the self-employed in Europe — has raised an additional $12 million (€10.3 million) to add to its previous Seed round of €6.5 million last April. The tot…*
+       - *YouTube has been relatively quiet about its strategy to battle the flow of misinformation leading into the 2020 U.S. election, but the platform has a few new measures in store. The video sharing site will begin attaching a box with vetted facts about mail-in …*
       
 
 
