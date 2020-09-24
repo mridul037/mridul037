@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 
-~ Fred Brooks
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Human beings are not accustomed to being perfect, and few areas of human activit
 
 </pre>
 **Daily News**
-  - Amazon announces Luna+ game-streaming platform
+  - Here's everything Amazon announced at its latest hardware event
      <hr/>
      
-      - *At its Devices and Services event, Amazon launched its own cloud gaming competitor to Google Stadia and Microsoft xCloud. The company is launching the product in early access at an introductory price of $5.99 per month Users will be able to stream titles wire…*
+      - *From new Ring flying indoor drone cameras to an adorable new kids version of one of its most popular Amazon home products, Jeff Bezos’ Seattle retailer unveiled a slew of new hardware goodies just ahead of the holiday shopping season. Echo updates Amazon kick…*
      
-  - Amazon redesigns the Echo line with spherical speakers and swiveling screens
+  - Netflix finally comes to the Amazon Echo Show
       <hr/>
       
-      - *Amazon today announced a lot of new products including the new Echo speaker line. And the products looks dramatically different. Gone are the cylinders. They’re spheres now and look like nothing else on the market. The lights are now on the bottom, while ther…*
+      - *Amazon announced the Echo Show line in 2017, and today, it’s finally gaining access to Netflix. The video service joins Hulu and Prime Video as the only officially supported video streaming apps.6 The news came from Amazon’s yearly Echo event where the compan…*
       
-  - Amazon’s new Echo Show 10 follows you as you move
+  - Amazon redesigns Fire TV, introduces new Fire TV Stick and low-cost Fire TV Stick Lite
       <hr/>
       
-      - *So this is crazy. Amazon’s new Echo Show 10 swivels on its base to follow you around the room. The on-board camera is capable of recognizing a person and spins around to follow them — essentially taking the person tracking feature found on Facebook’s Portal a…*
+      - *Amazon today announced a redesign Fire TV experience along with an updated Fire TV Stick and a new, lower-cost Fire TV Stick Lite. The updated interface for the Alexa-enabled smart TV platform will introduce a handful of new features, including support video …*
       
-  - Ring's newest security camera is a $249 autonomous indoor drone shipping in 2021
+  - 3 founders on why they pursued alternative startup ownership structures
       <hr/>
       
-      - *Ring built its entire business on reinventing the doorbell – and now it’s taking a similar approach to the humble home security camera, with the Ring Always Home Cam, set to be available sometime next year. You might not guess from its name, but this security…*
+      - *There is no one-size-fits all model for building a startup. At TechCrunch Disrupt, we heard from a handful of founders about alternative approaches to creating a sustainable company that ensures more than just VCs and early founders benefit from its success. …*
        
-  - Ring to offer opt-in end-to-end encryption for videos beginning later this year
+  - Amazon announces Luna+ game-streaming platform
       <hr/>
        
-       - *Ring will be stepping up its efforts to make its security products secure for users by enabling end-to-end video encryption later this year. The company will be providing this toggle in a new page in tits app’s Control Center, which will provide more informat…*
+       - *At its Devices and Services event, Amazon launched its own cloud gaming competitor to Google Stadia and Microsoft xCloud. The company is launching the product in early access at an introductory price of $5.99 per month Users will be able to stream titles wire…*
       
 
 
