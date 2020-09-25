@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once the computers got control, we might never get it back.
+I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 
-~ Marvin Minsky
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Once the computers got control, we might never get it back.
 
 </pre>
 **Daily News**
-  - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
+  - Cambridge Analytica's former boss gets 7-year ban on being a business director
      <hr/>
      
-      - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
+      - *The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — has been banned from running limited companies for seven year…*
      
+  - This new Southeast Asian fund has its eye on Chinese cross-border firms
+      <hr/>
+      
+      - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
+      
+  - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
+      <hr/>
+      
+      - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
+      
   - Google Meet and other Google services go down (Updated)
       <hr/>
       
       - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
-      
+       
   - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
       <hr/>
-      
-      - *Since the start of the coronavirus pandemic, America’s roughly 640 billionaires have seen their fortunes soar by $845 billion in combined assets or 29% collectively, widening the already yawning gap between the very richest and the rest of U.S. Many of those …*
-      
-  - The eSIM maker powering Xiaomi's IoT devices raises $15M
-      <hr/>
-      
-      - *Connectivity is vital to a future managed and shaped by smart hardware, and Chinese startup Showmac Tech is proposing eSIMs as the infrastructure solution for seamless and stable communication between devices and the service providers behind. Xiaomi accepted …*
        
-  - Anduril among companies tapped to build the Air Force's 'internet of things' for war
-      <hr/>
-       
-       - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
+       - *Since the start of the coronavirus pandemic, America’s roughly 640 billionaires have seen their fortunes soar by $845 billion in combined assets or 29% collectively, widening the already yawning gap between the very richest and the rest of U.S. Many of those …*
       
 
 
