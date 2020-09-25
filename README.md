@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Ray Ozzie
+~ Jim Coplien
 <pre>
 
 </pre>
