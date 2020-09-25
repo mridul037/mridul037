@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Donald Knuth
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We have seen that computer programming is an art, because it applies accumulated
 
 </pre>
 **Daily News**
-  - Want to hire and retain high-quality developers? Give them stimulating work
+  - Apple Watch Series 6 review
      <hr/>
      
-      - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
+      - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
      
+  - Nikola's Steve Girsky eyes his next transportation investment
+      <hr/>
+      
+      - *Steve Girksy, the former GM vice chairman, consultant and investor whose special purpose acquisition company (SPAC) merged with hydrogen electric startup Nikola this summer, is in talks to back self-driving trucks startup TuSimple, according to four people fa…*
+      
+  - Privacy data management innovations reduce risk, create new revenue channels
+      <hr/>
+      
+      - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
+      
+  - Want to hire and retain high-quality developers? Give them stimulating work
+      <hr/>
+      
+      - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
+       
   - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
       <hr/>
-      
-      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
-      
-  - Apple is (temporarily) waiving its App Store fee for Facebook's online events
-      <hr/>
-      
-      - *Last month, Facebook introduced support for paid online events — and since many of the businesses offering those events have struggled during the coronavirus pandemic, the company also said it would not collect fees for the next year. At the same time, it com…*
-      
-  - Don’t miss the Q&A sessions at TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *It’s nearly October, startup fans and that means TC Sessions: Mobility 2020 is right around the corner. On October 6 & 7, you’ll experience an incredible two-day agenda packed with the top leaders, visionaries, makers and investors, and they’re ready to drop …*
        
-  - Twitter warns developers that their private keys and account tokens may have been exposed
-      <hr/>
-       
-       - *The social media giant said developer private keys may have been stored in the browser's cache by mistake.*
+       - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
       
 
 
