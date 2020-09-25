@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It’s all talk until the code runs.
+Programming is the ultimate field for someone who likes to tinker.
 
-~ Ward Cunningham
+~ Ray Ozzie
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It’s all talk until the code runs.
 
 </pre>
 **Daily News**
-  - Cambridge Analytica's former boss gets 7-year ban on being a business director
+  - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
      <hr/>
      
-      - *The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — has been banned from running limited companies for seven year…*
+      - *It’s not over until it’s over for Apple and its ongoing tax headache in Europe. Today the European Commission announced that it plans to appeal the July 2020 ruling that overturned the original $15 billion fine that it leveled against Apple and Ireland over S…*
      
+  - Cambridge Analytica's former boss gets 7-year ban on being a business director
+      <hr/>
+      
+      - *The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — has been banned from running limited companies for seven year…*
+      
   - This new Southeast Asian fund has its eye on Chinese cross-border firms
       <hr/>
       
@@ -81,16 +86,11 @@ It’s all talk until the code runs.
       <hr/>
       
       - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
-      
+       
   - Google Meet and other Google services go down (Updated)
       <hr/>
-      
-      - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
        
-  - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
-      <hr/>
-       
-       - *Since the start of the coronavirus pandemic, America’s roughly 640 billionaires have seen their fortunes soar by $845 billion in combined assets or 29% collectively, widening the already yawning gap between the very richest and the rest of U.S. Many of those …*
+       - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
       
 
 
