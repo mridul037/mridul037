@@ -23,11 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 
-~ Michael A. Jackson
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -69,11 +67,16 @@ Two things are known about requirements:
 
 </pre>
 **Daily News**
-  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
+  - Want to hire and retain high-quality developers? Give them stimulating work
      <hr/>
      
-      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
+      - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
      
+  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
+      <hr/>
+      
+      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
+      
   - Apple is (temporarily) waiving its App Store fee for Facebook's online events
       <hr/>
       
@@ -83,16 +86,11 @@ Two things are known about requirements:
       <hr/>
       
       - *It’s nearly October, startup fans and that means TC Sessions: Mobility 2020 is right around the corner. On October 6 & 7, you’ll experience an incredible two-day agenda packed with the top leaders, visionaries, makers and investors, and they’re ready to drop …*
-      
+       
   - Twitter warns developers that their private keys and account tokens may have been exposed
       <hr/>
-      
-      - *The social media giant said developer private keys may have been stored in the browser's cache by mistake.*
        
-  - The highest valued company in Bessemer's annual cloud report has defied convention by staying private
-      <hr/>
-       
-       - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
+       - *The social media giant said developer private keys may have been stored in the browser's cache by mistake.*
       
 
 
