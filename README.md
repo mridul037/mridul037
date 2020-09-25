@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 
-~ Fred Brooks
+~ Danny Hillis
 <pre>
 
 </pre>
