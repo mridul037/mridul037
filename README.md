@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ Linus Torvalds
+~ John Locke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
 
 </pre>
 **Daily News**
-  - Apple Watch Series 6 review
+  - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
      <hr/>
      
-      - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
+      - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
      
+  - Apple Watch Series 6 review
+      <hr/>
+      
+      - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
+      
   - Nikola's Steve Girsky eyes his next transportation investment
       <hr/>
       
@@ -81,16 +86,11 @@ I'm doing a free operating system (just a hobby, won't be big and professional l
       <hr/>
       
       - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
-      
+       
   - Want to hire and retain high-quality developers? Give them stimulating work
       <hr/>
-      
-      - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
        
-  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
-      <hr/>
-       
-       - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
+       - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
       
 
 
