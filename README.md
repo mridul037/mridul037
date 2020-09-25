@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The way to arrest entropy in software is to refactor it.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Joseph Yoder (computer scientist)
+~ Jim Horning
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The way to arrest entropy in software is to refactor it.
 
 </pre>
 **Daily News**
-  - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
+  - Google Meet and other Google services go down (Updated)
      <hr/>
      
-      - *Since the start of the coronavirus pandemic, America’s roughly 640 billionaires have seen their fortunes soar by $845 billion in combined assets or 29% collectively, widening the already yawning gap between the very richest and the rest of U.S. Many of those …*
+      - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
      
+  - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
+      <hr/>
+      
+      - *Since the start of the coronavirus pandemic, America’s roughly 640 billionaires have seen their fortunes soar by $845 billion in combined assets or 29% collectively, widening the already yawning gap between the very richest and the rest of U.S. Many of those …*
+      
   - The eSIM maker powering Xiaomi's IoT devices raises $15M
       <hr/>
       
@@ -81,16 +86,11 @@ The way to arrest entropy in software is to refactor it.
       <hr/>
       
       - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
-      
+       
   - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
       <hr/>
-      
-      - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
        
-  - Launch Center Pro lets you build custom icons to customize your iOS 14 home screen
-      <hr/>
-       
-       - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
+       - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
       
 
 
