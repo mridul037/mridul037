@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Richard Hamming
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
 
 </pre>
 **Daily News**
-  - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
+  - Anduril among companies tapped to build the Air Force's 'internet of things' for war
      <hr/>
      
-      - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
+      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
      
+  - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
+      <hr/>
+      
+      - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
+      
   - Launch Center Pro lets you build custom icons to customize your iOS 14 home screen
       <hr/>
       
@@ -81,16 +86,11 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
       <hr/>
       
       - *Amazon announces a new game service and plenty of hardware upgrades, tech companies team up against app stores and United Airlines tests a program for rapid COVID-19 testing. This is your Daily Crunch for September 24, 2020. The big story: Amazon unveils its …*
-      
+       
   - Don't buy the hype: Free VPNs are bad for your privacy
       <hr/>
-      
-      - *Many free VPNs promise to protect your privacy. Don't believe it.*
        
-  - Fitbit Sense review
-      <hr/>
-       
-       - *The Versa helped Fitbit reverse its fortunes after a long, gradual slide. The company was slow to embrace the smartwatch, and stumbled somewhat out of the gate with the Ionic. But the Versa found a perfect sweet spot that build atop generations of wearable he…*
+       - *Many free VPNs promise to protect your privacy. Don't believe it.*
       
 
 
