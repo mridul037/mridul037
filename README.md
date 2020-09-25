@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Jim Coplien
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ You should name a variable using the same care with which you name a first-born 
 
 </pre>
 **Daily News**
-  - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
+  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *It’s not over until it’s over for Apple and its ongoing tax headache in Europe. Today the European Commission announced that it plans to appeal the July 2020 ruling that overturned the original $15 billion fine that it leveled against Apple and Ireland over S…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
      
+  - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
+      <hr/>
+      
+      - *It’s not over until it’s over for Apple and its ongoing tax headache in Europe. Today the European Commission announced that it plans to appeal the July 2020 ruling that overturned the original $15 billion fine that it leveled against Apple and Ireland over S…*
+      
   - Cambridge Analytica's former boss gets 7-year ban on being a business director
       <hr/>
       
@@ -81,16 +86,11 @@ You should name a variable using the same care with which you name a first-born 
       <hr/>
       
       - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
-      
+       
   - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
       <hr/>
-      
-      - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
        
-  - Google Meet and other Google services go down (Updated)
-      <hr/>
-       
-       - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
+       - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
       
 
 
