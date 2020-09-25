@@ -23,9 +23,11 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is at least as difficult as developing a mathematical theory.
+Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 
-~ Daniel T. Barry
+~ Michael A. Jackson
 <pre>
 
 </pre>
@@ -67,30 +69,30 @@ Programming is at least as difficult as developing a mathematical theory.
 
 </pre>
 **Daily News**
-  - Don’t miss the Q&A sessions at TC Sessions: Mobility 2020
+  - HumanForest suspends London e-bike sharing service, cuts jobs after customer accident
      <hr/>
      
-      - *It’s nearly October, startup fans and that means TC Sessions: Mobility 2020 is right around the corner. On October 6 & 7, you’ll experience an incredible two-day agenda packed with the top leaders, visionaries, makers and investors, and they’re ready to drop …*
+      - *UK-based startup HumanForest has suspended its nascent ‘free’ e-bike service in London this week, after experiencing “mechanical” issues and after a user had an accident on one of its bikes, TechCrunch has learned. The suspension has also seen the company mak…*
      
+  - Apple is (temporarily) waiving its App Store fee for Facebook's online events
+      <hr/>
+      
+      - *Last month, Facebook introduced support for paid online events — and since many of the businesses offering those events have struggled during the coronavirus pandemic, the company also said it would not collect fees for the next year. At the same time, it com…*
+      
+  - Don’t miss the Q&A sessions at TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *It’s nearly October, startup fans and that means TC Sessions: Mobility 2020 is right around the corner. On October 6 & 7, you’ll experience an incredible two-day agenda packed with the top leaders, visionaries, makers and investors, and they’re ready to drop …*
+      
   - Twitter warns developers that their private keys and account tokens may have been exposed
       <hr/>
       
       - *The social media giant said developer private keys may have been stored in the browser's cache by mistake.*
-      
+       
   - The highest valued company in Bessemer's annual cloud report has defied convention by staying private
       <hr/>
-      
-      - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
-      
-  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
-      <hr/>
-      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
        
-  - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
-      <hr/>
-       
-       - *It’s not over until it’s over for Apple and its ongoing tax headache in Europe. Today the European Commission announced that it plans to appeal the July 2020 ruling that overturned the original $15 billion fine that it leveled against Apple and Ireland over S…*
+       - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
       
 
 
