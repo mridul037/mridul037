@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 
-~ David Wheeler (computer scientist)
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Compatibility means deliberately repeating other people’s mistakes.
 
 </pre>
 **Daily News**
-  - Google Meet and other Google services go down (Updated)
+  - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
      <hr/>
      
-      - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
+      - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
      
+  - Google Meet and other Google services go down (Updated)
+      <hr/>
+      
+      - *Google’s engineers aren’t having a good day today. This afternoon, a number of Google services went offline or are barely reachable. These services include Google Meet, Drive, Docs, Analytics, Classroom and Calendar, for example. While Google’s own status das…*
+      
   - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
       <hr/>
       
@@ -81,16 +86,11 @@ Compatibility means deliberately repeating other people’s mistakes.
       <hr/>
       
       - *Connectivity is vital to a future managed and shaped by smart hardware, and Chinese startup Showmac Tech is proposing eSIMs as the infrastructure solution for seamless and stable communication between devices and the service providers behind. Xiaomi accepted …*
-      
+       
   - Anduril among companies tapped to build the Air Force's 'internet of things' for war
       <hr/>
-      
-      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
        
-  - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
-      <hr/>
-       
-       - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
+       - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
       
 
 
