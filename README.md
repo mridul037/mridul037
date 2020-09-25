@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 
-~ Ivan Sutherland
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 
 </pre>
 **Daily News**
-  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
+  - The highest valued company in Bessemer's annual cloud report has defied convention by staying private
      <hr/>
      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
+      - *This year’s Bessemer Venture Partners’ annual Cloud 100 Benchmark report was published recently and my colleague Alex Wilhelm looked at some broad trends in the report, but digging into the data, I decided to concentrate on the Top 10 companies by valuation. …*
      
+  - Calling Helsinki VCs: Be featured in The Great TechCrunch Survey of European VC
+      <hr/>
+      
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Helsinki will capture how the city is faring, and what changes are being wro…*
+      
   - European Commission to appeal decision that reversed Apple's $15B State Aid tax bill in Ireland
       <hr/>
       
@@ -81,16 +86,11 @@ A display connected to a digital computer gives us a chance to gain familiarity 
       <hr/>
       
       - *The former CEO of Cambridge Analytica, the disgraced data company that worked for the 2016 Trump campaign and shut down in 2018 over a voter manipulation scandal involving masses of Facebook data — has been banned from running limited companies for seven year…*
-      
+       
   - This new Southeast Asian fund has its eye on Chinese cross-border firms
       <hr/>
-      
-      - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
        
-  - Indonesian cloud kitchen startup Yummy gets $12 million Series B led by SoftBank Ventures Asia
-      <hr/>
-       
-       - *Yummy Corporation, which claims to be the largest cloud kitchen management company in Indonesia, has raised $12 million in Series B funding, led by SoftBank Ventures Asia. Co-founder and chief executive officer Mario Suntanu told TechCrunch that the capital w…*
+       - *As U.S.-China relations remain tense, Southeast Asia becomes the darling for investors and tech companies from both sides as they seek overseas expansion. Behemoths like Google, Facebook, Alibaba, Tencent and ByteDance have elbowed into the region. Some set u…*
       
 
 
