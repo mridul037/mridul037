@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+The way to arrest entropy in software is to refactor it.
 
 ~ Joseph Yoder (computer scientist)
 <pre>
@@ -67,30 +67,30 @@ Managing a large project is a qualitatively different problem from managing a sm
 
 </pre>
 **Daily News**
-  - Anduril among companies tapped to build the Air Force's 'internet of things' for war
+  - Writer Anand Giridharadas on tech's billionaires: "Are they even on the same team as us?"
      <hr/>
      
-      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
+      - *Since the start of the coronavirus pandemic, America’s roughly 640 billionaires have seen their fortunes soar by $845 billion in combined assets or 29% collectively, widening the already yawning gap between the very richest and the rest of U.S. Many of those …*
      
+  - The eSIM maker powering Xiaomi's IoT devices raises $15M
+      <hr/>
+      
+      - *Connectivity is vital to a future managed and shaped by smart hardware, and Chinese startup Showmac Tech is proposing eSIMs as the infrastructure solution for seamless and stable communication between devices and the service providers behind. Xiaomi accepted …*
+      
+  - Anduril among companies tapped to build the Air Force's 'internet of things' for war
+      <hr/>
+      
+      - *Palmer Luckey’s young defense company has been selected by the Air Force for work on a cutting-edge, multibillion dollar nervous system for war. Luckey announced the news that Anduril was one of the selected vendors for the project, known as the Advanced Batt…*
+      
   - You can now return Apple’s Solo Loop for a new size, without sending back the Watch
       <hr/>
       
       - *Call it Apple Bandgate, if you must. It’s the latest online dustup, following Apple’s recent Watch Series 6 release. The announcement of the Solo Loop was more or less glossed over during last week’s big event, because, well, watch bands don’t often take cent…*
-      
+       
   - Launch Center Pro lets you build custom icons to customize your iOS 14 home screen
       <hr/>
-      
-      - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
-      
-  - Daily Crunch: Amazon unveils its own game-streaming platform
-      <hr/>
-      
-      - *Amazon announces a new game service and plenty of hardware upgrades, tech companies team up against app stores and United Airlines tests a program for rapid COVID-19 testing. This is your Daily Crunch for September 24, 2020. The big story: Amazon unveils its …*
        
-  - Don't buy the hype: Free VPNs are bad for your privacy
-      <hr/>
-       
-       - *Many free VPNs promise to protect your privacy. Don't believe it.*
+       - *Launch Center Pro, an iOS utility that offered widgets and custom icons long before they were allowed on the iPhone’s home screen, is bringing its design tools to iOS 14. The app aims to capitalize on the recent trend toward home screen personalization by off…*
       
 
 
