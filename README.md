@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
+The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 
-~ John Locke
+~ Grady Booch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The acts of the mind, wherein it exerts its power over simple ideas, are chiefly
 
 </pre>
 **Daily News**
-  - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
+  - NASA commissions report to show its economic impact: $64B and 312K jobs
      <hr/>
      
-      - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
+      - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
      
+  - 4 things to remember when adapting AI/ML learning models during a pandemic
+      <hr/>
+      
+      - *The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.*
+      
+  - Human Capital: Moving away from 'master/slave' terminology
+      <hr/>
+      
+      - *TGIF, am I right? Welcome back to Human Capital, where we explore some of the latest news in labor, diversity and inclusion in tech. This week, we’re looking at the use of “master/slave” terminology in computer programming and the current state of gig workers…*
+      
+  - Alexis Ohanian files for a new $150M fund, with a nod to his Olympian family
+      <hr/>
+      
+      - *According to an SEC filing, Alexis Ohanian, the co-founder of Reddit and early-stage VC firm Initialized Capital, is raising a new fund, named 776, with a target of $150 million. The filing comes three months after the entrepreneur left Initialized Capital an…*
+       
   - Apple Watch Series 6 review
       <hr/>
-      
-      - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
-      
-  - Nikola's Steve Girsky eyes his next transportation investment
-      <hr/>
-      
-      - *Steve Girksy, the former GM vice chairman, consultant and investor whose special purpose acquisition company (SPAC) merged with hydrogen electric startup Nikola this summer, is in talks to back self-driving trucks startup TuSimple, according to four people fa…*
-      
-  - Privacy data management innovations reduce risk, create new revenue channels
-      <hr/>
-      
-      - *Investments in privacy tools and management practices now are almost certain to deliver major business dividends in the future.*
        
-  - Want to hire and retain high-quality developers? Give them stimulating work
-      <hr/>
-       
-       - *Not only is it the right way to treat your team, but when developers are more stimulated, the standard of their work goes up, along with productivity levels and general morale.*
+       - *When it comes to smartwatches, it’s Apple against the world. It’s not that there aren’t plenty of other products to choose from — it’s more that the company has just utterly dominated the space to such a point that any other device is relegated to the realm o…*
       
 
 
