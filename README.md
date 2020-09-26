@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Never trust a computer you can’t throw out a window.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
-~ Steve Wozniak
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
