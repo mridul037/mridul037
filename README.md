@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-JavaScript is the world's most misunderstood programming language.
+Just because you've implemented something doesn't mean you understand it.
 
-~ Douglas Crockford
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
