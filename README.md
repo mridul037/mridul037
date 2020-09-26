@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 
-~ Gerald Weinberg
+~ Steve Jobs
 <pre>
 
 </pre>
