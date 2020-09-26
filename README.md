@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 
-~ Tom DeMarco
+~ Douglas Crockford
 <pre>
 
 </pre>
