@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Ideas don't disappear. They change form, they merge with other ideas.
+Any product that needs a manual to work is broken.
 
-~ Bob Frankston
+~ Elon Musk
 <pre>
 
 </pre>
