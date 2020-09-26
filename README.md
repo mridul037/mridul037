@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+Never trust a computer you can’t throw out a window.
 
-~ Edsger W. Dijkstra
+~ Steve Wozniak
 <pre>
 
 </pre>
