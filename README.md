@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The Domain Name Server (DNS) is the Achilles heel of the Web.
+A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 
-~ Tim Berners-Lee
+~ John Gall (author)
 <pre>
 
 </pre>
