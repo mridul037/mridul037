@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Steve Jobs
+~ Tim Berners-Lee
 <pre>
 
 </pre>
