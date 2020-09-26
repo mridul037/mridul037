@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 
-~ Alan Perlis
+~ Albert Einstein
 <pre>
 
 </pre>
