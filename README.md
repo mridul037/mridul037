@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+A language that doesn't affect the way you think about programming, is not worth knowing.
 
-~ Vannevar Bush
+~ Alan Perlis
 <pre>
 
 </pre>
