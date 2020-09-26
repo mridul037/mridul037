@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 
-~ Alan Perlis
+~ Bill Gates
 <pre>
 
 </pre>
