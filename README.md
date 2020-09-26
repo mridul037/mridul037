@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Daniel T. Barry
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 
 </pre>
 **Daily News**
-  - Daily Crunch: Reviewing the new Apple Watch
+  - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
      <hr/>
      
-      - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
+      - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
      
+  - Daily Crunch: Reviewing the new Apple Watch
+      <hr/>
+      
+      - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
+      
   - Black founders face a unique set of challenges
       <hr/>
       
@@ -81,16 +86,11 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
       <hr/>
       
       - *Perhaps anticipating budget pushback from the federal government, NASA has released its first ever agency-wide economic report, documenting the agency’s impact on the nation’s jobs and cash flow. Everyone knew NASA was impactful, but now we know exactly how i…*
-      
+       
   - 4 things to remember when adapting AI/ML learning models during a pandemic
       <hr/>
-      
-      - *The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.*
        
-  - Human Capital: Moving away from 'master/slave' terminology
-      <hr/>
-       
-       - *TGIF, am I right? Welcome back to Human Capital, where we explore some of the latest news in labor, diversity and inclusion in tech. This week, we’re looking at the use of “master/slave” terminology in computer programming and the current state of gig workers…*
+       - *The progress seen in AI/machine learning leading up to and during the pandemic cannot be ignored, but this crisis brings with it a unique opportunity for updates and innovation in modeling.*
       
 
 
