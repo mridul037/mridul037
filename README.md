@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Cleaning code does NOT take time. NOT cleaning code does take time.
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 
-~ Robert C. Martin
+~ Gerald Weinberg
 <pre>
 
 </pre>
