@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+Young man, in mathematics you don't understand things. You just get used to them.
 
 ~ John von Neumann
 <pre>
