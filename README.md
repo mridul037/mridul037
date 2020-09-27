@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good judgement comes from experience. Experience comes from bad judgement.
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 
-~ Jim Horning
+~ Gerald Weinberg
 <pre>
 
 </pre>
