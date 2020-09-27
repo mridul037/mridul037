@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+Codes are a puzzle. A game, just like any other game.
 
-~ Linus Torvalds
+~ Alan Turing
 <pre>
 
 </pre>
