@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, leave it out.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Joshua Bloch
+~ Tom DeMarco
 <pre>
 
 </pre>
