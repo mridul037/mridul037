@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+The way to arrest entropy in software is to refactor it.
 
-~ Daniel T. Barry
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
