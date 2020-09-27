@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 
-~ Gerald Weinberg
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When program developers are not territorial about their code and encourage other
 
 </pre>
 **Daily News**
-  - Is your startup the next Tik Tok?
+  - This is how police request customer data from Amazon
      <hr/>
      
-      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. And I don’t mean building an app that gets the world addicted to short-form videos. I mean, where you build a hu…*
+      - *Anyone can access portions of a web portal, used by law enforcement to request customer data from Amazon, even though the portal is supposed to require a verified email address and password. Amazon’s law enforcement request portal allows police and federal ag…*
      
+  - Is your startup the next Tik Tok?
+      <hr/>
+      
+      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. And I don’t mean building an app that gets the world addicted to short-form videos. I mean, where you build a hu…*
+      
   - This Week in Apps: Redesigning the iOS 14 home screen, app makers form 'fairness' coalition, latest on TikTok ban
       <hr/>
       
@@ -81,16 +86,11 @@ When program developers are not territorial about their code and encourage other
       <hr/>
       
       - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
-      
+       
   - Daily Crunch: Reviewing the new Apple Watch
       <hr/>
-      
-      - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
        
-  - Black founders face a unique set of challenges
-      <hr/>
-       
-       - *The notion that Black people in America need to work twice as hard as others to succeed may be a depressing sentiment, but it has been deeply ingrained into the psyches of many African-Americans. At TechCrunch Disrupt, several Black founders spoke about some …*
+       - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
       
 
 
