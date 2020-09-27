@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What is simplicity? Simplicity is the shortest path to a solution.
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 
-~ Ward Cunningham
+~ Linus Torvalds
 <pre>
 
 </pre>
