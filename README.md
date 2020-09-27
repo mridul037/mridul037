@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Edsger W. Dijkstra
+~ Daniel T. Barry
 <pre>
 
 </pre>
