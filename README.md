@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 
-~ Gerald Weinberg
+~ John von Neumann
 <pre>
 
 </pre>
