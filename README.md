@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 
-~ John Ousterhout
+~ Henry Petroski
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A program that produces incorrect results twice as fast is infinitely slower.
 
 </pre>
 **Daily News**
-  - GV bets on young team behind high school social app HAGS
+  - N26 hires Adrienne Gormley as its new Chief Operating Officer
      <hr/>
      
-      - *As high schools pivot to hybrid models and students see less in-person face time with friends, the current social app sphere seems to be missing a way to build deeper bonds with classmates. HAGS is building a social network designed around high school network…*
+      - *Fintech startup N26 is announcing some changes in the leadership team with two new C-Level hires. First, Adrienne Gormley, pictured above, is joining the company as Chief Operating Officer, replacing Martin Schilling who left the company in March 2020. Second…*
      
+  - Google Play to better enforce in-app purchase policies, ease use of third-party Android app stores
+      <hr/>
+      
+      - *Under threat of regulation, Google announced today it’s updating its Google Play billing policies to better clarify which types of transactions will be subject to Google’s commissions on in-app purchases. While the more detailed language doesn’t actually chan…*
+      
+  - GV bets on young team behind high school social app HAGS
+      <hr/>
+      
+      - *As high schools pivot to hybrid models and students see less in-person face time with friends, the current social app sphere seems to be missing a way to build deeper bonds with classmates. HAGS is building a social network designed around high school network…*
+      
   - 2 strategies for creating top-of-funnel marketing content
       <hr/>
       
       - *Utilizing content marketing and digital PR can make huge strides in getting your brand name out there.*
-      
+       
   - A quarter of US adults now get news from YouTube, Pew Research study finds
       <hr/>
-      
-      - *Around a quarter of U.S. adults, or roughly 26%, say they get news by watching YouTube videos, according to a new study from Pew Research Center, which examined the Google-owned video platform’s growing influence over news distribution in the U.S., as well as…*
-      
-  - One week until we discover the future of transportation at TC Sessions: Mobility
-      <hr/>
-      
-      - *Were you Born to be Wild? Then get your electric motor running, head out on the virtual highway to look for adventure, because we’re just one week away from TC Sessions: Mobility 2020. Join thousands of global attendees October 6-7 for two programming-packed …*
        
-  - Mental health startup eQuoo will be distributed by Unilever in new global youth campaign
-      <hr/>
-       
-       - *Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany, as a client. It’s now been selected …*
+       - *Around a quarter of U.S. adults, or roughly 26%, say they get news by watching YouTube videos, according to a new study from Pew Research Center, which examined the Google-owned video platform’s growing influence over news distribution in the U.S., as well as…*
       
 
 
