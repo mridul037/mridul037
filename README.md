@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+A program that produces incorrect results twice as fast is infinitely slower.
 
-~ Dennis Ritchie
+~ John Ousterhout
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Another danger is that commercial pressures of one sort or another will divert t
 
 </pre>
 **Daily News**
-  - One week until we discover the future of transportation at TC Sessions: Mobility
+  - GV bets on young team behind high school social app HAGS
      <hr/>
      
-      - *Were you Born to be Wild? Then get your electric motor running, head out on the virtual highway to look for adventure, because we’re just one week away from TC Sessions: Mobility 2020. Join thousands of global attendees October 6-7 for two programming-packed …*
+      - *As high schools pivot to hybrid models and students see less in-person face time with friends, the current social app sphere seems to be missing a way to build deeper bonds with classmates. HAGS is building a social network designed around high school network…*
      
+  - 2 strategies for creating top-of-funnel marketing content
+      <hr/>
+      
+      - *Utilizing content marketing and digital PR can make huge strides in getting your brand name out there.*
+      
+  - A quarter of US adults now get news from YouTube, Pew Research study finds
+      <hr/>
+      
+      - *Around a quarter of U.S. adults, or roughly 26%, say they get news by watching YouTube videos, according to a new study from Pew Research Center, which examined the Google-owned video platform’s growing influence over news distribution in the U.S., as well as…*
+      
+  - One week until we discover the future of transportation at TC Sessions: Mobility
+      <hr/>
+      
+      - *Were you Born to be Wild? Then get your electric motor running, head out on the virtual highway to look for adventure, because we’re just one week away from TC Sessions: Mobility 2020. Join thousands of global attendees October 6-7 for two programming-packed …*
+       
   - Mental health startup eQuoo will be distributed by Unilever in new global youth campaign
       <hr/>
-      
-      - *Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany, as a client. It’s now been selected …*
-      
-  - Healthcare giant UHS hit by ransomware attack, sources say
-      <hr/>
-      
-      - *Sources say the Ryuk ransomware is to blame.*
-      
-  - Adobe beefs up developer tools to make it easer to build apps on Experience Cloud
-      <hr/>
-      
-      - *Adobe has had a developer program for years called Adobe.io, but today at the Adobe Developers Live virtual conference, the company announced some new tools with a fresh emphasis on helping developers build custom apps on the Adobe Experience Cloud. Jason Woo…*
        
-  - SoftBank will bring Bear’s serving robots to Japan, amid restaurant labor shortages
-      <hr/>
-       
-       - *SoftBank has been quite bullish on Bear Robotics this year, beginning with leadership in a $32 million Series A back in January. It’s easy to see why the investment firm believes that this is the breakthrough moment for the Bay Area-based startup, as the COVI…*
+       - *Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany, as a client. It’s now been selected …*
       
 
 
