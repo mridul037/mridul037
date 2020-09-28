@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The separation of architectural effort from implementation is a very powerful wa
 
 </pre>
 **Daily News**
-  - Tech giants are ignoring questions over the legality of their EU-US data transfers
+  - SoftBank will bring Bear’s serving robots to Japan, amid restaurant labor shortages
      <hr/>
      
-      - *A survey of responses from more than 30 companies to questions about how they’re approaching EU-US data transfers in the wake of a landmark ruling (aka Schrems II) by Europe’s top court in July, which struck down the flagship Privacy Shield over US surveillan…*
+      - *SoftBank has been quite bullish on Bear Robotics this year, beginning with leadership in a $32 million Series A back in January. It’s easy to see why the investment firm believes that this is the breakthrough moment for the Bay Area-based startup, as the COVI…*
      
-  - Roku introduces a new Ultra player, a 2-in-1 'Streambar,' and a new OS with support for AirPlay 2
+  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service
       <hr/>
       
-      - *Streaming media device maker Roku is updating its lineup in advance of the holiday season with the addition of two new products: a redesigned version of its high-end Roku Ultra which, for the first time, adds Dolby Vision support as well as Bluetooth. The com…*
+      - *SpaceX is launching 60 additional satellites to join the over 500 already on orbit as part of its Starlink global broadband internet constellation. The launch is set to take off at 10:22 AM EDT (7:22 AM PDT) and will fly from Kennedy Space Center in Florida. …*
       
-  - Skydio partners with EagleView for autonomous residential roof inspections via drone
+  - Calling VCs in Rome and Milan: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *Skydio only just recently announced its expansion into the enterprise and commercial market with hardware and software tools for its autonomous drone technology, and now it’s taking the lid off a brand new big partnership with one commercial partner. Skydio w…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Rome and Milan will capture how the cities are faring, and what changes are …*
       
-  - Klaxoon launches Board, an interactive meeting product for video calls
+  - Equity Monday: Palantir might have a very eventful hump day
       <hr/>
       
-      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
        
-  - Amazon's Prime Day mega sale event will take place October 13-14
+  - Tech giants are ignoring questions over the legality of their EU-US data transfers
       <hr/>
        
-       - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
+       - *A survey of responses from more than 30 companies to questions about how they’re approaching EU-US data transfers in the wake of a landmark ruling (aka Schrems II) by Europe’s top court in July, which struck down the flagship Privacy Shield over US surveillan…*
       
 
 
