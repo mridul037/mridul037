@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Daniel T. Barry
+~ Harlan Mills
 <pre>
 
 </pre>
