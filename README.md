@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ John von Neumann
+~ Elon Musk
 <pre>
 
 </pre>
