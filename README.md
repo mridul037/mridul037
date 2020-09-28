@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important single aspect of software development is to be clear about what you are trying to build.
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 
-~ Bjarne Stroustrup
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The most important single aspect of software development is to be clear about wh
 
 </pre>
 **Daily News**
-  - Klaxoon launches Board, an interactive meeting product for video calls
+  - Tech giants are ignoring questions over the legality of their EU-US data transfers
      <hr/>
      
-      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
+      - *A survey of responses from more than 30 companies to questions about how they’re approaching EU-US data transfers in the wake of a landmark ruling (aka Schrems II) by Europe’s top court in July, which struck down the flagship Privacy Shield over US surveillan…*
      
+  - Roku introduces a new Ultra player, a 2-in-1 'Streambar,' and a new OS with support for AirPlay 2
+      <hr/>
+      
+      - *Streaming media device maker Roku is updating its lineup in advance of the holiday season with the addition of two new products: a redesigned version of its high-end Roku Ultra which, for the first time, adds Dolby Vision support as well as Bluetooth. The com…*
+      
+  - Skydio partners with EagleView for autonomous residential roof inspections via drone
+      <hr/>
+      
+      - *Skydio only just recently announced its expansion into the enterprise and commercial market with hardware and software tools for its autonomous drone technology, and now it’s taking the lid off a brand new big partnership with one commercial partner. Skydio w…*
+      
+  - Klaxoon launches Board, an interactive meeting product for video calls
+      <hr/>
+      
+      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
+       
   - Amazon's Prime Day mega sale event will take place October 13-14
       <hr/>
-      
-      - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
-      
-  - Uber wins latest London licence appeal
-      <hr/>
-      
-      - *Uber has won its appeal against having its licence to operate withdrawn in London. In today’s judgement the court decided it was satisfied with process improvements made by the ride-hailing company, including around its communication with the city’s transport…*
-      
-  - Noyo raises $12.5M Series A to keep building its health insurance API business
-      <hr/>
-      
-      - *This morning, Noyo, a startup that provides APIs that link players in the health insurance space, announced that it has closed a $12.5 million Series A round of funding.  The new capital comes less than a year after the startup disclosed that it had raised ar…*
        
-  - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
-      <hr/>
-       
-       - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
+       - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
       
 
 
