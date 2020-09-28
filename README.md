@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
 
-~ Fred Brooks
+~ Gary Kildall
 <pre>
 
 </pre>
