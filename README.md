@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 
-~ Richard Hamming
+~ Butler Lampson
 <pre>
 
 </pre>
