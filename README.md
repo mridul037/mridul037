@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 
-~ Gary Kildall
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
