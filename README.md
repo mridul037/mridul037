@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Anonymous
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A few months writing code can save you a few hours in design.
 
 </pre>
 **Daily News**
-  - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
+  - Amazon's Prime Day mega sale event will take place October 13-14
      <hr/>
      
-      - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
+      - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
      
+  - Uber wins latest London licence appeal
+      <hr/>
+      
+      - *Uber has won its appeal against having its licence to operate withdrawn in London. In today’s judgement the court decided it was satisfied with process improvements made by the ride-hailing company, including around its communication with the city’s transport…*
+      
+  - Noyo raises $12.5M Series A to keep building its health insurance API business
+      <hr/>
+      
+      - *This morning, Noyo, a startup that provides APIs that link players in the health insurance space, announced that it has closed a $12.5 million Series A round of funding.  The new capital comes less than a year after the startup disclosed that it had raised ar…*
+      
+  - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
+      <hr/>
+      
+      - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
+       
   - Trump administration’s TikTok ban has been delayed, court rules
       <hr/>
-      
-      - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
-      
-  - This is how police request customer data from Amazon
-      <hr/>
-      
-      - *Anyone can access portions of a web portal, used by law enforcement to request customer data from Amazon, even though the portal is supposed to require a verified email address and password. Amazon’s law enforcement request portal allows police and federal ag…*
-      
-  - Is your startup the next Tik Tok?
-      <hr/>
-      
-      - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. And I don’t mean building an app that gets the world addicted to short-form videos. I mean, where you build a hu…*
        
-  - This Week in Apps: Redesigning the iOS 14 home screen, app makers form 'fairness' coalition, latest on TikTok ban
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
       
 
 
