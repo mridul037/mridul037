@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 
-~ Anonymous
+~ Daniel T. Barry
 <pre>
 
 </pre>
