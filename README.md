@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 
-~ Edsger W. Dijkstra
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The competent programmer is fully aware of the strictly limited size of his own 
 
 </pre>
 **Daily News**
-  - SoftBank will bring Bear’s serving robots to Japan, amid restaurant labor shortages
+  - One week until we discover the future of transportation at TC Sessions: Mobility
      <hr/>
      
-      - *SoftBank has been quite bullish on Bear Robotics this year, beginning with leadership in a $32 million Series A back in January. It’s easy to see why the investment firm believes that this is the breakthrough moment for the Bay Area-based startup, as the COVI…*
+      - *Were you Born to be Wild? Then get your electric motor running, head out on the virtual highway to look for adventure, because we’re just one week away from TC Sessions: Mobility 2020. Join thousands of global attendees October 6-7 for two programming-packed …*
      
-  - Watch SpaceX launch 60 more Starlink satellites for its broadband internet service
+  - Mental health startup eQuoo will be distributed by Unilever in new global youth campaign
       <hr/>
       
-      - *SpaceX is launching 60 additional satellites to join the over 500 already on orbit as part of its Starlink global broadband internet constellation. The launch is set to take off at 10:22 AM EDT (7:22 AM PDT) and will fly from Kennedy Space Center in Florida. …*
+      - *Last December (yes, in the before-times) UK-based mental health startup eQuoo had a round of announcements, becoming the NHS approved mental health game, as well as signing Barmer, the largest insurance company in Germany, as a client. It’s now been selected …*
       
-  - Calling VCs in Rome and Milan: Be featured in The Great TechCrunch Survey of European VC
+  - Healthcare giant UHS hit by ransomware attack, sources say
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Rome and Milan will capture how the cities are faring, and what changes are …*
+      - *Sources say the Ryuk ransomware is to blame.*
       
-  - Equity Monday: Palantir might have a very eventful hump day
+  - Adobe beefs up developer tools to make it easer to build apps on Experience Cloud
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Adobe has had a developer program for years called Adobe.io, but today at the Adobe Developers Live virtual conference, the company announced some new tools with a fresh emphasis on helping developers build custom apps on the Adobe Experience Cloud. Jason Woo…*
        
-  - Tech giants are ignoring questions over the legality of their EU-US data transfers
+  - SoftBank will bring Bear’s serving robots to Japan, amid restaurant labor shortages
       <hr/>
        
-       - *A survey of responses from more than 30 companies to questions about how they’re approaching EU-US data transfers in the wake of a landmark ruling (aka Schrems II) by Europe’s top court in July, which struck down the flagship Privacy Shield over US surveillan…*
+       - *SoftBank has been quite bullish on Bear Robotics this year, beginning with leadership in a $32 million Series A back in January. It’s easy to see why the investment firm believes that this is the breakthrough moment for the Bay Area-based startup, as the COVI…*
       
 
 
