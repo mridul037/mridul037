@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 
-~ Seymour Cray
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The trouble with programmers is that you can never tell what a programmer is doi
 
 </pre>
 **Daily News**
-  - Amazon's Prime Day mega sale event will take place October 13-14
+  - Klaxoon launches Board, an interactive meeting product for video calls
      <hr/>
      
-      - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
+      - *A few weeks after teasing its new product, French startup Klaxoon is launching Board, a visual interface that lets you work together during a video call. Instead of staring at other people’s faces, you get a shared canvas that you can use for presentations an…*
      
+  - Amazon's Prime Day mega sale event will take place October 13-14
+      <hr/>
+      
+      - *Holiday shopping season is getting a big head start this year. Amazon today announced that it will hold Prime Day — its annual mega global sale event on a big range of items, including toys, TVs, electronics, fashion, beauty, kitchen, home, and Amazon Devices…*
+      
   - Uber wins latest London licence appeal
       <hr/>
       
@@ -81,16 +86,11 @@ The trouble with programmers is that you can never tell what a programmer is doi
       <hr/>
       
       - *This morning, Noyo, a startup that provides APIs that link players in the health insurance space, announced that it has closed a $12.5 million Series A round of funding.  The new capital comes less than a year after the startup disclosed that it had raised ar…*
-      
+       
   - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
       <hr/>
-      
-      - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
        
-  - Trump administration’s TikTok ban has been delayed, court rules
-      <hr/>
-       
-       - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
+       - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
       
 
 
