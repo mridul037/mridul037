@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Elon Musk
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There certainly will be job disruption. Because what's going to happen is robots
 
 </pre>
 **Daily News**
-  - This is how police request customer data from Amazon
+  - Philippines payment processing startup PayMongo lands $12 million Series A led by Stripe
      <hr/>
      
-      - *Anyone can access portions of a web portal, used by law enforcement to request customer data from Amazon, even though the portal is supposed to require a verified email address and password. Amazon’s law enforcement request portal allows police and federal ag…*
+      - *Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to …*
      
+  - Trump administration’s TikTok ban has been delayed, court rules
+      <hr/>
+      
+      - *A U.S. federal court has said a ban on TikTok will not go into effect on Monday as scheduled. The move to delay the anticipated ban will allow Americans to continue using the app while the court considers the ban’s legality and whether the app poses a risk to…*
+      
+  - This is how police request customer data from Amazon
+      <hr/>
+      
+      - *Anyone can access portions of a web portal, used by law enforcement to request customer data from Amazon, even though the portal is supposed to require a verified email address and password. Amazon’s law enforcement request portal allows police and federal ag…*
+      
   - Is your startup the next Tik Tok?
       <hr/>
       
       - *Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. And I don’t mean building an app that gets the world addicted to short-form videos. I mean, where you build a hu…*
-      
+       
   - This Week in Apps: Redesigning the iOS 14 home screen, app makers form 'fairness' coalition, latest on TikTok ban
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
-  - Postmates cuts losses in Q2 as it heads towards tie-up with Uber
-      <hr/>
-      
-      - *Popular food delivery service Postmates is in the process of merging with Uber in a blockbuster $2.65 billion deal that would see it join forces with its food delivery competitor, Uber Eats. The deal remains under antitrust scrutiny, and has not yet been appr…*
        
-  - Daily Crunch: Reviewing the new Apple Watch
-      <hr/>
-       
-       - *We’ve got an in-depth review of the Apple Watch Series 6, Apple gives Facebook a temporary break on App Store fees and Alexis Ohanian is raising a new fund. This is your Daily Crunch for September 25, 2020. The big story: Reviewing the new Apple Watch Brian H…*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 
