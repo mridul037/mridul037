@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+The most important single aspect of software development is to be clear about what you are trying to build.
 
-~ Steve Jobs
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
