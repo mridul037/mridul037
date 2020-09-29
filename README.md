@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ Douglas Crockford
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Software is usually expected to be modified over the course of its productive li
 
 </pre>
 **Daily News**
-  - Exotec raises $90 million for its warehouse robots
+  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
      <hr/>
      
-      - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
+      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
      
+  - Exotec raises $90 million for its warehouse robots
+      <hr/>
+      
+      - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
+      
   - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
       <hr/>
       
@@ -81,16 +86,11 @@ Software is usually expected to be modified over the course of its productive li
       <hr/>
       
       - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
-      
+       
   - Microsoft outage leaves users unable to access Office, Outlook, Teams
       <hr/>
-      
-      - *Users are unable to login to several Microsoft services.*
        
-  - Gillmor Gang: Over 2 U
-      <hr/>
-       
-       - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
+       - *Users are unable to login to several Microsoft services.*
       
 
 
