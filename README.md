@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+Once you stop learning you start dying.
 
-~ Donald Knuth
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We should forget about small efficiencies, say about 97% of the time: premature 
 
 </pre>
 **Daily News**
-  - Serious injuries at Amazon fulfillment centers topped 14,000, despite the company's safety claims
+  - Spin workers just ratified their first union contract
      <hr/>
      
-      - *As Amazon‘s biggest shopping day of the year approaches, a new report reveals that the company’s investments in automation and safety have not stemmed surging numbers of serious injuries in the company’s warehouses and fulfillment centers. Even as Amazon spen…*
+      - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
      
+  - Amazon launches a virtual tours and experience platform, Amazon Explore
+      <hr/>
+      
+      - *Amazon today is launching a new service called Amazon Explore that allows customers to book live, virtual experiences led by local experts. The experiences may be focused on creativity, learning DIY skills, taking virtual tours of far-off places or cultural l…*
+      
+  - Ford drops the price of its all-electric Mustang Mach-E to stay "fully competitive"
+      <hr/>
+      
+      - *Ford has slashed the price of its upcoming all-electric Mustang Mach-E crossover by as much as $3,000 as the automaker seeks to stay competitive in an increasingly crowded and unsettled sector of the automotive market. The price reductions, which were shared …*
+      
+  - Serious injuries at Amazon fulfillment centers topped 14,000, despite the company's safety claims
+      <hr/>
+      
+      - *As Amazon‘s biggest shopping day of the year approaches, a new report reveals that the company’s investments in automation and safety have not stemmed surging numbers of serious injuries in the company’s warehouses and fulfillment centers. Even as Amazon spen…*
+       
   - Duolingo CEO explains language app's surge in bookings
       <hr/>
-      
-      - *Language learning apps, like many educational technology platforms, soared when millions of students went home in response to safety concerns from the coronavirus pandemic. It makes sense: Everyone became an online learner in some capacity, and for non-frontl…*
-      
-  - How Twilio built its own conference platform
-      <hr/>
-      
-      - *Twilio’s annual customer conference was supposed to happen in May, but like everyone else who had live events scheduled for this year, it ran smack-dab into COVID-19 and was forced to cancel. That left the company wondering how to reimagine the event online. …*
-      
-  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
-      <hr/>
-      
-      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
        
-  - Starlink puts towns devastated by wildfires online for disaster relief workers
-      <hr/>
-       
-       - *SpaceX’s Starlink has showed its utility in connecting far-flung locations to the internet quickly and relatively simply in Washington, where like much of the west coast wildfires have caused enormous damage to rural areas. A couple small towns in the state h…*
+       - *Language learning apps, like many educational technology platforms, soared when millions of students went home in response to safety concerns from the coronavirus pandemic. It makes sense: Everyone became an online learner in some capacity, and for non-frontl…*
       
 
 
