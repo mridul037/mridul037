@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Ward Cunningham
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Shipping first time code is like going into debt. A little debt speeds developme
 
 </pre>
 **Daily News**
-  - Trym raises $3.1M seed to grow its cannabis cultivation platform
+  - iRobot cofounder Helen Greiner named CEO of robotic gardening startup, Tertill
      <hr/>
      
-      - *Commercial cannabis operations often rely on software platforms to track and forecast crops from seed to sale. Trym today is announcing a large $3.1M seed round that will help the company expand its software offering. Trym’s solution offers commercial growers…*
+      - *Boston-based robotic gardening startup Tertill this morning announced that it has appointed Helen Greiner as CEO and Chairman. The executive is best known for cofounding iRobot in 1990 along with fellow MIT Artificial Intelligence Lab members Rodney Brooks an…*
      
+  - Trym raises $3.1M seed to grow its cannabis cultivation platform
+      <hr/>
+      
+      - *Commercial cannabis operations often rely on software platforms to track and forecast crops from seed to sale. Trym today is announcing a large $3.1M seed round that will help the company expand its software offering. Trym’s solution offers commercial growers…*
+      
   - Self-cleaning water bottle company LARQ raises a $10M Series A
       <hr/>
       
@@ -81,16 +86,11 @@ Shipping first time code is like going into debt. A little debt speeds developme
       <hr/>
       
       - *Shipping has long been one of the more antiquated, and least technological, segments in the world of commerce, with its physical aspects — rooted in massive cargo tankers, giant fleets of aircraft and trucks, and trains of linked-up containers — underscoring …*
-      
+       
   - Crypto exchange Bitpanda closes $52M Series A from Valar Ventures, backed by Peter Thiel
       <hr/>
-      
-      - *Bitpanda, a crypto assets platform, has closed a $52 million Series A funding round form Valar Ventures, a venture capital firm backed by Peter Thiel. Vienna-based VC Speedinvest also participated, alongside other unnamed investors. Claiming 1.3 million users…*
        
-  - Online course platform Thinkific raises $22M
-      <hr/>
-       
-       - *It’s been a big year for online learning companies — and it sounds like Thinkific is no exception. The Vancouver-based startup is announcing that it has raised $22 million in new funding. Thinkific different from businesses like MasterClass (which raised $100…*
+       - *Bitpanda, a crypto assets platform, has closed a $52 million Series A funding round form Valar Ventures, a venture capital firm backed by Peter Thiel. Vienna-based VC Speedinvest also participated, alongside other unnamed investors. Claiming 1.3 million users…*
       
 
 
