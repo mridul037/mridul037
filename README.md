@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+Any product that needs a manual to work is broken.
 
-~ Carl Friedrich Gauss
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I am never satisfied until I have said as much as possible in a few words, and w
 
 </pre>
 **Daily News**
-  - TikTok launches a U.S. elections guide in its app
+  - Biden campaign calls out Facebook for spreading Team Trump's dangerous voting lies
      <hr/>
      
-      - *Though TikTok is in the middle of fighting off the Trump administration’s attempt to ban its app in the U.S. over data privacy concerns, the company today is launching a new feature focused on the 2020 U.S. elections. TikTok announced this morning it’s introd…*
+      - *In a new letter to its chief executive on the eve of the first presidential debate, the Biden campaign slammed Facebook for its failure to act on false claims about voting in the U.S. election. In the scathing letter, published by Axios, Biden Campaign Manage…*
      
-  - Extra Crunch Live: Join us today at 2pm EDT / 11am PDT to discuss the future of startup investing with Index Ventures VCs Nina Achadjian and Sarah Cannon
+  - Polaris and Zero Motorcycles reach deal to bring electric off roaders to market
       <hr/>
       
-      - *The venture capital world is rapidly changing, and thank heavens we have two of the smartest VCs on the future of investing, productivity tools, and remote work joining us today to make sense of all the noise. On Extra Crunch Live today, Sarah Cannon and Nina…*
+      - *Polaris is a name synonymous with powersports — just head to any of the hundreds of snowmobile trails in Wisconsin, Minnesota or other sufficiently wintry place for evidence. Now, it’s teaming up with Zero Motorcycles, Santa Cruz-based maker of electric motor…*
       
-  - Datasaur snags $3.9M investment to build intelligent machine learning labeling platform
+  - Pivoting during a pandemic
       <hr/>
       
-      - *As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch, announced a $3.9 million investment today…*
+      - *For me, the last six months has shown that people are resilient, and that when faced with a common threat or the need to suddenly rethink everything they might know, we quickly rise to the occasion.*
       
-  - D-Wave launches its 5,000+ qubit Advantage system
+  - Facebook introduces Accounts Center, a tool for managing a growing number of cross-app settings
       <hr/>
       
-      - *D-Wave today announced the launch of its new Advantage quantum computers. These new systems, with over 5,000 qubits and 15-way qubit connectivity, are now available in the company’s Leap cloud computing platform. That’s up from about 2,000 qubits in the previ…*
+      - *Despite being under antitrust investigations in U.S. and E.U., Facebook today is rolling out a new feature that highlights the extent to which its suite of apps now interoperate. The company this morning introduced a consumer-facing tool called “Accounts Cent…*
        
-  - Google offers Europe more checks Fitbit data won't be used for ads
+  - TikTok launches a U.S. elections guide in its app
       <hr/>
        
-       - *Google has offered a second round of concessions to try to persuade European regulators to clear its acquisition of wearables maker Fitbit . The deal has been stalled by concerns over its impact on consumer privacy and competition in the wearables market. Las…*
+       - *Though TikTok is in the middle of fighting off the Trump administration’s attempt to ban its app in the U.S. over data privacy concerns, the company today is launching a new feature focused on the 2020 U.S. elections. TikTok announced this morning it’s introd…*
       
 
 
