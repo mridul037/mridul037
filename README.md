@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 
-~ Fred Brooks
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
