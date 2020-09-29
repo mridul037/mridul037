@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
 
-~ Maurice Wilkes
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Since 1954, the raw speed of computers, as measured by the time it takes to do a
 
 </pre>
 **Daily News**
-  - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
+  - Exotec raises $90 million for its warehouse robots
      <hr/>
      
-      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
+      - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
      
+  - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
+      <hr/>
+      
+      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
+      
   - Indonesian fintech startup BukuWarung gets new funding to add financial services for small merchants
       <hr/>
       
@@ -81,16 +86,11 @@ Since 1954, the raw speed of computers, as measured by the time it takes to do a
       <hr/>
       
       - *Users are unable to login to several Microsoft services.*
-      
+       
   - Gillmor Gang: Over 2 U
       <hr/>
-      
-      - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
        
-  - Daily Crunch: Judge delays TikTok ban
-      <hr/>
-       
-       - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
+       - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
       
 
 
