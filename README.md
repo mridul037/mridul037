@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ John McCarthy (computer scientist)
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Machines as simple as thermostats can be said to have beliefs.
 
 </pre>
 **Daily News**
-  - Datasaur snags $3.9M investment to build intelligent machine learning labeling platform
+  - TikTok launches a U.S. elections guide in its app
      <hr/>
      
-      - *As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch, announced a $3.9 million investment today…*
+      - *Though TikTok is in the middle of fighting off the Trump administration’s attempt to ban its app in the U.S. over data privacy concerns, the company today is launching a new feature focused on the 2020 U.S. elections. TikTok announced this morning it’s introd…*
      
+  - Extra Crunch Live: Join us today at 2pm EDT / 11am PDT to discuss the future of startup investing with Index Ventures VCs Nina Achadjian and Sarah Cannon
+      <hr/>
+      
+      - *The venture capital world is rapidly changing, and thank heavens we have two of the smartest VCs on the future of investing, productivity tools, and remote work joining us today to make sense of all the noise. On Extra Crunch Live today, Sarah Cannon and Nina…*
+      
+  - Datasaur snags $3.9M investment to build intelligent machine learning labeling platform
+      <hr/>
+      
+      - *As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch, announced a $3.9 million investment today…*
+      
   - D-Wave launches its 5,000+ qubit Advantage system
       <hr/>
       
       - *D-Wave today announced the launch of its new Advantage quantum computers. These new systems, with over 5,000 qubits and 15-way qubit connectivity, are now available in the company’s Leap cloud computing platform. That’s up from about 2,000 qubits in the previ…*
-      
+       
   - Google offers Europe more checks Fitbit data won't be used for ads
       <hr/>
-      
-      - *Google has offered a second round of concessions to try to persuade European regulators to clear its acquisition of wearables maker Fitbit . The deal has been stalled by concerns over its impact on consumer privacy and competition in the wearables market. Las…*
-      
-  - Amazon introduces the Amazon One, a way to pay with your palm when entering stores
-      <hr/>
-      
-      - *In the middle of a pandemic when customers are often wearing plastic gloves to stores alongside their face masks, Amazon’s physical retail team is introducing a new biometric device that will allow shoppers to pay at Amazon Go stores using their palm. The com…*
        
-  - Rally raises $17M to expand a platform that lets you invest in (but not buy) collectibles
-      <hr/>
-       
-       - *When people ponder the investment opportunity around collectibles, they probably think about things like wine auctions, sales of very expensive, old cars or baseball cards, or maybe a pocket watch that made an unlikely appearance on an antiques TV show, hopin…*
+       - *Google has offered a second round of concessions to try to persuade European regulators to clear its acquisition of wearables maker Fitbit . The deal has been stalled by concerns over its impact on consumer privacy and competition in the wearables market. Las…*
       
 
 
