@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
 
-~ Alan Turing
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A computer would deserve to be called intelligent if it could deceive a human in
 
 </pre>
 **Daily News**
-  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
+  - Travel activities platform KKDay raises $75 million Series C as it focuses on "staycations"
      <hr/>
      
-      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
+      - *With lockdowns around the world, the COVID-19 pandemic has hit the travel industry especially hard. In Asia, however, several startups are adapting by focusing on domestic activities (or “staycations”) instead of international travel. They include Taipei-base…*
      
+  - Multis is a business bank account for cryptocurrencies
+      <hr/>
+      
+      - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
+      
+  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
+      <hr/>
+      
+      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
+      
   - Exotec raises $90 million for its warehouse robots
       <hr/>
       
       - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
-      
+       
   - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
       <hr/>
-      
-      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
-      
-  - Indonesian fintech startup BukuWarung gets new funding to add financial services for small merchants
-      <hr/>
-      
-      - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
        
-  - Microsoft outage leaves users unable to access Office, Outlook, Teams
-      <hr/>
-       
-       - *Users are unable to login to several Microsoft services.*
+       - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
       
 
 
