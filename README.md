@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any product that needs a manual to work is broken.
+I think one of the most valuable rules is avoid duplication.
 
-~ Elon Musk
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any product that needs a manual to work is broken.
 
 </pre>
 **Daily News**
-  - Biden campaign calls out Facebook for spreading Team Trump's dangerous voting lies
+  - 9 VCs in Madrid and Barcelona discuss the COVID-19 era and look to the future
      <hr/>
      
-      - *In a new letter to its chief executive on the eve of the first presidential debate, the Biden campaign slammed Facebook for its failure to act on false claims about voting in the U.S. election. In the scathing letter, published by Axios, Biden Campaign Manage…*
+      - *Spain’s startup ecosystem has two main hubs: Madrid and Barcelona. Most observers place Barcelona first and Madrid second, but the gap appears to close every year. Barcelona has benefitted from attracting expats in search of sun, beach and lifestyle who tend …*
      
-  - Polaris and Zero Motorcycles reach deal to bring electric off roaders to market
+  - Collective, a back office platform that caters to 'businesses of one,' just landed a hefty seed round
       <hr/>
       
-      - *Polaris is a name synonymous with powersports — just head to any of the hundreds of snowmobile trails in Wisconsin, Minnesota or other sufficiently wintry place for evidence. Now, it’s teaming up with Zero Motorcycles, Santa Cruz-based maker of electric motor…*
+      - *Americans and other global citizens are increasingly self-employed, thanks to great software, the need for flexibility, and because skilled services especially can pay fairly well, among other reasons. In fact, exactly one year ago, the Freelancers Union and …*
       
-  - Pivoting during a pandemic
+  - Shipt shoppers are organizing a walkout in protest of new pay model
       <hr/>
       
-      - *For me, the last six months has shown that people are resilient, and that when faced with a common threat or the need to suddenly rethink everything they might know, we quickly rise to the occasion.*
+      - *Shipt shoppers are organizing a handful of actions in protest of Shipt’s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to wal…*
       
-  - Facebook introduces Accounts Center, a tool for managing a growing number of cross-app settings
+  - Healthcare entrepreneurs should prepare for an upcoming VC/PE bubble
       <hr/>
       
-      - *Despite being under antitrust investigations in U.S. and E.U., Facebook today is rolling out a new feature that highlights the extent to which its suite of apps now interoperate. The company this morning introduced a consumer-facing tool called “Accounts Cent…*
+      - *Now is potentially a prime time to create a healthcare startup, but the road ahead will not be an easy one for emerging solution providers.*
        
-  - TikTok launches a U.S. elections guide in its app
+  - Greylock and MLT are trying to diversify tech's wealth cycle
       <hr/>
        
-       - *Though TikTok is in the middle of fighting off the Trump administration’s attempt to ban its app in the U.S. over data privacy concerns, the company today is launching a new feature focused on the 2020 U.S. elections. TikTok announced this morning it’s introd…*
+       - *Greylock Partners has teamed up with Management Leadership for Tomorrow to address issues of diversity and inclusion in the technology industry. “Our view is this has to be a comprehensive approach,” MLT Founder and CEO John Rice told TechCrunch. “This is not…*
       
 
 
