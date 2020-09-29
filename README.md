@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
 
-~ Albert Einstein
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Once you stop learning you start dying.
 
 </pre>
 **Daily News**
-  - Spin workers just ratified their first union contract
+  - Palantir’s reference price values it at roughly $16 billion
      <hr/>
      
-      - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
+      - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
      
+  - Daily Crunch: Amazon lets you pay with your palm
+      <hr/>
+      
+      - *Amazon unveils a new biometric ID technology, the Biden campaign takes aim at Facebook and iRobot’s co-founder joins a robotic gardening startup. This is your Daily Crunch for September 29, 2020. The big story: Amazon lets you pay with your palm The company a…*
+      
+  - Spin workers just ratified their first union contract
+      <hr/>
+      
+      - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
+      
   - Amazon launches a virtual tours and experience platform, Amazon Explore
       <hr/>
       
       - *Amazon today is launching a new service called Amazon Explore that allows customers to book live, virtual experiences led by local experts. The experiences may be focused on creativity, learning DIY skills, taking virtual tours of far-off places or cultural l…*
-      
+       
   - Ford drops the price of its all-electric Mustang Mach-E to stay "fully competitive"
       <hr/>
-      
-      - *Ford has slashed the price of its upcoming all-electric Mustang Mach-E crossover by as much as $3,000 as the automaker seeks to stay competitive in an increasingly crowded and unsettled sector of the automotive market. The price reductions, which were shared …*
-      
-  - Serious injuries at Amazon fulfillment centers topped 14,000, despite the company's safety claims
-      <hr/>
-      
-      - *As Amazon‘s biggest shopping day of the year approaches, a new report reveals that the company’s investments in automation and safety have not stemmed surging numbers of serious injuries in the company’s warehouses and fulfillment centers. Even as Amazon spen…*
        
-  - Duolingo CEO explains language app's surge in bookings
-      <hr/>
-       
-       - *Language learning apps, like many educational technology platforms, soared when millions of students went home in response to safety concerns from the coronavirus pandemic. It makes sense: Everyone became an online learner in some capacity, and for non-frontl…*
+       - *Ford has slashed the price of its upcoming all-electric Mustang Mach-E crossover by as much as $3,000 as the automaker seeks to stay competitive in an increasingly crowded and unsettled sector of the automotive market. The price reductions, which were shared …*
       
 
 
