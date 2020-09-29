@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 
-~ Jeremy S. Anderson
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are two major products that come out of Berkeley: LSD and UNIX. We don't b
 
 </pre>
 **Daily News**
-  - Huboo, the 'full stack' fulfilment provider, picks up £14M Series A
+  - Crypto exchange Bitpanda closes $52M Series A from Valar Ventures, backed by Peter Thiel
      <hr/>
      
-      - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
+      - *Bitpanda, a crypto assets platform, has closed a $52 million Series A funding round form Valar Ventures, a venture capital firm backed by Peter Thiel. Vienna-based VC Speedinvest also participated, alongside other unnamed investors. Claiming 1.3 million users…*
      
+  - Online course platform Thinkific raises $22M
+      <hr/>
+      
+      - *It’s been a big year for online learning companies — and it sounds like Thinkific is no exception. The Vancouver-based startup is announcing that it has raised $22 million in new funding. Thinkific different from businesses like MasterClass (which raised $100…*
+      
+  - Huboo, the 'full stack' fulfilment provider, picks up £14M Series A
+      <hr/>
+      
+      - *Huboo, the U.K.-headquartered startup that offers an end-to-end fulfilment service for online retailers of all sizes, has raised £14 million in Series A funding. The round is led by Stride.VC, with participation from Hearst Ventures. Existing investors, inclu…*
+      
   - Travel activities platform KKDay raises $75 million Series C as it focuses on "staycations"
       <hr/>
       
       - *With lockdowns around the world, the COVID-19 pandemic has hit the travel industry especially hard. In Asia, however, several startups are adapting by focusing on domestic activities (or “staycations”) instead of international travel. They include Taipei-base…*
-      
+       
   - Multis is a business bank account for cryptocurrencies
       <hr/>
-      
-      - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
-      
-  - Russian surveillance tech startup NtechLab nets $13M from sovereign wealth funds
-      <hr/>
-      
-      - *NtechLab, a startup that helps analyze footage captured by Moscow’s 100,000 surveillance cameras, just closed an investment of more than 1RUB billion ($13 million) to further global expansion. The five-year-old company sells software that recognizes faces, si…*
        
-  - Exotec raises $90 million for its warehouse robots
-      <hr/>
-       
-       - *French startup Exotec has raised a $90 million Series C round led by 83North, with existing investors Iris Capital and Breega also participating. Other existing investors include 360 Capital. The company has been working on semi-automated warehouses for e-com…*
+       - *Meet Multis, a French startup that is building business bank accounts, except that it lets you store, send and receive cryptocurrencies. The startup just raised a $2.2 million seed round. Investors in today’s funding round include White Star Capital, Y Combin…*
       
 
 
