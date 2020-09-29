@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+From an artistic standpoint, the best software comes from the realm of intuition.
 
-~ Danny Hillis
+~ Bob Carr
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Every computer language has its Shakespeares, and it is a joy to read their code
 
 </pre>
 **Daily News**
-  - Gillmor Gang: Over 2 U
+  - XtalPi lands massive $319M SoftBank-led round C to continue its high-tech drug discovery
      <hr/>
      
-      - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
+      - *XtalPi, an American-Chinese biotech firm that focuses on AI-assisted drug discovery, has raised a $319 million round C from a slate of enthusiastic investors led by SoftBank’s Vision Fund. It joins numerous others with 9-figure rounds in what is clearly a val…*
      
+  - Indonesian fintech startup BukuWarung gets new funding to add financial services for small merchants
+      <hr/>
+      
+      - *A month after completing Y Combinator’s accelerator program, BukuWarung, an financial tech startup that serves small businesses in Indonesia, announced it has raised new funding from a roster of high-profile investors, including partners of DST Global, Soma C…*
+      
+  - Microsoft outage leaves users unable to access Office, Outlook, Teams
+      <hr/>
+      
+      - *Users are unable to login to several Microsoft services.*
+      
+  - Gillmor Gang: Over 2 U
+      <hr/>
+      
+      - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
+       
   - Daily Crunch: Judge delays TikTok ban
       <hr/>
-      
-      - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
-      
-  - Amazon launches a $4.99-per-month 'personal shopper' service for men's fashion
-      <hr/>
-      
-      - *Amazon is introducing a personal shopping service for men’s fashion. The service, now available to Prime members, is an expansion of the existing Personal Shopper by Prime Wardrobe, a $4.99 per month Stitch Fix rival, originally aimed at women. With Personal …*
-      
-  - Get a free Extra Crunch membership when you buy TC Sessions: Mobility 2020 tickets
-      <hr/>
-      
-      - *TC Sessions: Mobility is coming up next week, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and…*
        
-  - Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020
-      <hr/>
-       
-       - *Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery. But is the world —…*
+       - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
       
 
 
