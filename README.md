@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+I have no special talent. I am only passionately curious.
 
-~ Alan Turing
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The idea behind digital computers may be explained by saying that these machines
 
 </pre>
 **Daily News**
-  - iRobot cofounder Helen Greiner named CEO of robotic gardening startup, Tertill
+  - Rally raises $17M to expand a platform that lets you invest in (but not buy) collectibles
      <hr/>
      
-      - *Boston-based robotic gardening startup Tertill this morning announced that it has appointed Helen Greiner as CEO and Chairman. The executive is best known for cofounding iRobot in 1990 along with fellow MIT Artificial Intelligence Lab members Rodney Brooks an…*
+      - *When people ponder the investment opportunity around collectibles, they probably think about things like wine auctions, sales of very expensive, old cars or baseball cards, or maybe a pocket watch that made an unlikely appearance on an antiques TV show, hopin…*
      
-  - Trym raises $3.1M seed to grow its cannabis cultivation platform
+  - Businesses reducing trash and plastic consumption are beginning to look like treasure to some VCs
       <hr/>
       
-      - *Commercial cannabis operations often rely on software platforms to track and forecast crops from seed to sale. Trym today is announcing a large $3.1M seed round that will help the company expand its software offering. Trym’s solution offers commercial growers…*
+      - *Zuleyka Strasner didn’t set out to become an advocate for zero-waste consumption. The former manager of partner operations at Felicis Ventures had initially pursued a career in politics in the UK before a move to San Francisco with her husband. It was on thei…*
       
-  - Self-cleaning water bottle company LARQ raises a $10M Series A
+  - New program wants to be the Y Combinator for emerging fund managers
       <hr/>
       
-      - *After launching its first bottle in 2018, LARQ has drummed up a good deal of interest among consumers looking for ways to wean themselves off of plastic bottles. Last year alone, the Bay Area-based startup managed to sell 75,000 bottles, with help from retail…*
+      - *Rolling funds, the rise of solo capitalists, crowd syndicates, and team-based seed funds all scream one thing in unison: venture capital is growing and getting unbundled at the same time. While the asset class remains largely exclusive and skewed white and ma…*
       
-  - PayCargo raises $35M from Insight for its cloud-based platform targeting the freight industry
+  - Axis Security raises $32M to help companies stay secure while working from home
       <hr/>
       
-      - *Shipping has long been one of the more antiquated, and least technological, segments in the world of commerce, with its physical aspects — rooted in massive cargo tankers, giant fleets of aircraft and trucks, and trains of linked-up containers — underscoring …*
+      - *Axis Security launched last year with the idea of helping customers to enable contractors and third parties to remotely access a company’s systems in a safe way, but when the pandemic hit, they saw another use case, one which had been on their road map: helpi…*
        
-  - Crypto exchange Bitpanda closes $52M Series A from Valar Ventures, backed by Peter Thiel
+  - Disney+ adds a co-watching feature called GroupWatch
       <hr/>
        
-       - *Bitpanda, a crypto assets platform, has closed a $52 million Series A funding round form Valar Ventures, a venture capital firm backed by Peter Thiel. Vienna-based VC Speedinvest also participated, alongside other unnamed investors. Claiming 1.3 million users…*
+       - *Disney+ is the latest streaming service to introduce a way for friends and family to watch movies and TV together while in different locations. With the pandemic closing movie theaters and making any kind of indoor socializing pretty risky, the Netflix Party …*
       
 
 
