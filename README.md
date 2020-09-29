@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
-~ Addy Osmani
+~ Alan Turing
 <pre>
 
 </pre>
