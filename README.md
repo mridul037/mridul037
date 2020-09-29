@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have no special talent. I am only passionately curious.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ Albert Einstein
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I have no special talent. I am only passionately curious.
 
 </pre>
 **Daily News**
-  - Rally raises $17M to expand a platform that lets you invest in (but not buy) collectibles
+  - Datasaur snags $3.9M investment to build intelligent machine learning labeling platform
      <hr/>
      
-      - *When people ponder the investment opportunity around collectibles, they probably think about things like wine auctions, sales of very expensive, old cars or baseball cards, or maybe a pocket watch that made an unlikely appearance on an antiques TV show, hopin…*
+      - *As machine learning has grown, one of the major bottlenecks remains labeling things so the machine learning application understands the data it’s working with. Datasaur, a member of the Y Combinator Winter 2020 batch, announced a $3.9 million investment today…*
      
-  - Businesses reducing trash and plastic consumption are beginning to look like treasure to some VCs
+  - D-Wave launches its 5,000+ qubit Advantage system
       <hr/>
       
-      - *Zuleyka Strasner didn’t set out to become an advocate for zero-waste consumption. The former manager of partner operations at Felicis Ventures had initially pursued a career in politics in the UK before a move to San Francisco with her husband. It was on thei…*
+      - *D-Wave today announced the launch of its new Advantage quantum computers. These new systems, with over 5,000 qubits and 15-way qubit connectivity, are now available in the company’s Leap cloud computing platform. That’s up from about 2,000 qubits in the previ…*
       
-  - New program wants to be the Y Combinator for emerging fund managers
+  - Google offers Europe more checks Fitbit data won't be used for ads
       <hr/>
       
-      - *Rolling funds, the rise of solo capitalists, crowd syndicates, and team-based seed funds all scream one thing in unison: venture capital is growing and getting unbundled at the same time. While the asset class remains largely exclusive and skewed white and ma…*
+      - *Google has offered a second round of concessions to try to persuade European regulators to clear its acquisition of wearables maker Fitbit . The deal has been stalled by concerns over its impact on consumer privacy and competition in the wearables market. Las…*
       
-  - Axis Security raises $32M to help companies stay secure while working from home
+  - Amazon introduces the Amazon One, a way to pay with your palm when entering stores
       <hr/>
       
-      - *Axis Security launched last year with the idea of helping customers to enable contractors and third parties to remotely access a company’s systems in a safe way, but when the pandemic hit, they saw another use case, one which had been on their road map: helpi…*
+      - *In the middle of a pandemic when customers are often wearing plastic gloves to stores alongside their face masks, Amazon’s physical retail team is introducing a new biometric device that will allow shoppers to pay at Amazon Go stores using their palm. The com…*
        
-  - Disney+ adds a co-watching feature called GroupWatch
+  - Rally raises $17M to expand a platform that lets you invest in (but not buy) collectibles
       <hr/>
        
-       - *Disney+ is the latest streaming service to introduce a way for friends and family to watch movies and TV together while in different locations. With the pandemic closing movie theaters and making any kind of indoor socializing pretty risky, the Netflix Party …*
+       - *When people ponder the investment opportunity around collectibles, they probably think about things like wine auctions, sales of very expensive, old cars or baseball cards, or maybe a pocket watch that made an unlikely appearance on an antiques TV show, hopin…*
       
 
 
