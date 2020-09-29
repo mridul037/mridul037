@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+It is easier to change the specification to fit the program than vice versa.
 
-~ Donald Knuth
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ By understanding a machine-oriented language, the programmer will tend to use a 
 
 </pre>
 **Daily News**
-  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
+  - Serious injuries at Amazon fulfillment centers topped 14,000, despite the company's safety claims
      <hr/>
      
-      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
+      - *As Amazon‘s biggest shopping day of the year approaches, a new report reveals that the company’s investments in automation and safety have not stemmed surging numbers of serious injuries in the company’s warehouses and fulfillment centers. Even as Amazon spen…*
      
+  - Duolingo CEO explains language app's surge in bookings
+      <hr/>
+      
+      - *Language learning apps, like many educational technology platforms, soared when millions of students went home in response to safety concerns from the coronavirus pandemic. It makes sense: Everyone became an online learner in some capacity, and for non-frontl…*
+      
+  - How Twilio built its own conference platform
+      <hr/>
+      
+      - *Twilio’s annual customer conference was supposed to happen in May, but like everyone else who had live events scheduled for this year, it ran smack-dab into COVID-19 and was forced to cancel. That left the company wondering how to reimagine the event online. …*
+      
+  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
+      <hr/>
+      
+      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
+       
   - Starlink puts towns devastated by wildfires online for disaster relief workers
       <hr/>
-      
-      - *SpaceX’s Starlink has showed its utility in connecting far-flung locations to the internet quickly and relatively simply in Washington, where like much of the west coast wildfires have caused enormous damage to rural areas. A couple small towns in the state h…*
-      
-  - 9 VCs in Madrid and Barcelona discuss the COVID-19 era and look to the future
-      <hr/>
-      
-      - *Spain’s startup ecosystem has two main hubs: Madrid and Barcelona. Most observers place Barcelona first and Madrid second, but the gap appears to close every year. Barcelona has benefitted from attracting expats in search of sun, beach and lifestyle who tend …*
-      
-  - Collective, a back office platform that caters to 'businesses of one,' just landed a hefty seed round
-      <hr/>
-      
-      - *Americans and other global citizens are increasingly self-employed, thanks to great software, the need for flexibility, and because skilled services especially can pay fairly well, among other reasons. In fact, exactly one year ago, the Freelancers Union and …*
        
-  - Shipt shoppers are organizing a walkout in protest of new pay model
-      <hr/>
-       
-       - *Shipt shoppers are organizing a handful of actions in protest of Shipt’s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to wal…*
+       - *SpaceX’s Starlink has showed its utility in connecting far-flung locations to the internet quickly and relatively simply in Washington, where like much of the west coast wildfires have caused enormous damage to rural areas. A couple small towns in the state h…*
       
 
 
