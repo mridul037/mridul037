@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 
-~ Martin Fowler
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I think one of the most valuable rules is avoid duplication.
 
 </pre>
 **Daily News**
-  - 9 VCs in Madrid and Barcelona discuss the COVID-19 era and look to the future
+  - With a Warby Parker playbook, SISU raises funding from Greycroft to face-off against cosmetic clinics
      <hr/>
      
-      - *Spain’s startup ecosystem has two main hubs: Madrid and Barcelona. Most observers place Barcelona first and Madrid second, but the gap appears to close every year. Barcelona has benefitted from attracting expats in search of sun, beach and lifestyle who tend …*
+      - *With so many people getting ‘botox’ and ‘filler’ treatments to their faces these days (or are they, during the pandemic?), it’s probably no wonder that Venture Capital has decided to look at the space. In the same way that the small and scattered market of sp…*
      
+  - Starlink puts towns devastated by wildfires online for disaster relief workers
+      <hr/>
+      
+      - *SpaceX’s Starlink has showed its utility in connecting far-flung locations to the internet quickly and relatively simply in Washington, where like much of the west coast wildfires have caused enormous damage to rural areas. A couple small towns in the state h…*
+      
+  - 9 VCs in Madrid and Barcelona discuss the COVID-19 era and look to the future
+      <hr/>
+      
+      - *Spain’s startup ecosystem has two main hubs: Madrid and Barcelona. Most observers place Barcelona first and Madrid second, but the gap appears to close every year. Barcelona has benefitted from attracting expats in search of sun, beach and lifestyle who tend …*
+      
   - Collective, a back office platform that caters to 'businesses of one,' just landed a hefty seed round
       <hr/>
       
       - *Americans and other global citizens are increasingly self-employed, thanks to great software, the need for flexibility, and because skilled services especially can pay fairly well, among other reasons. In fact, exactly one year ago, the Freelancers Union and …*
-      
+       
   - Shipt shoppers are organizing a walkout in protest of new pay model
       <hr/>
-      
-      - *Shipt shoppers are organizing a handful of actions in protest of Shipt’s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to wal…*
-      
-  - Healthcare entrepreneurs should prepare for an upcoming VC/PE bubble
-      <hr/>
-      
-      - *Now is potentially a prime time to create a healthcare startup, but the road ahead will not be an easy one for emerging solution providers.*
        
-  - Greylock and MLT are trying to diversify tech's wealth cycle
-      <hr/>
-       
-       - *Greylock Partners has teamed up with Management Leadership for Tomorrow to address issues of diversity and inclusion in the technology industry. “Our view is this has to be a comprehensive approach,” MLT Founder and CEO John Rice told TechCrunch. “This is not…*
+       - *Shipt shoppers are organizing a handful of actions in protest of Shipt’s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to wal…*
       
 
 
