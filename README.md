@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Bob Carr
+~ Fred Brooks
 <pre>
 
 </pre>
