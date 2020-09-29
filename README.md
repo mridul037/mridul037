@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have no special talent. I am only passionately curious.
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 
-~ Albert Einstein
+~ Jeremy S. Anderson
 <pre>
 
 </pre>
