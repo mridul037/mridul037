@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 
-~ Butler Lampson
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Nobody knows how to build really complicated hardware systems, so designing hard
 
 </pre>
 **Daily News**
-  - Daily Crunch: Judge delays TikTok ban
+  - Gillmor Gang: Over 2 U
      <hr/>
      
-      - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
+      - *The pandemic shook up our and virtually every other video news production process as Zoom became the focus of our daily lives; slowly but surely we’ve altered the production process to reflect Zoom’s easy on boarding and semi-casual approach to virtualized me…*
      
+  - Daily Crunch: Judge delays TikTok ban
+      <hr/>
+      
+      - *Americans can continue using TikTok for now, Google updates its developer policies and Uber gets approval to resume operations in London. This is your Daily Crunch for September 28, 2020. The big story: Judge delays TikTok ban The saga continues! The Trump ad…*
+      
   - Amazon launches a $4.99-per-month 'personal shopper' service for men's fashion
       <hr/>
       
@@ -81,16 +86,11 @@ Nobody knows how to build really complicated hardware systems, so designing hard
       <hr/>
       
       - *TC Sessions: Mobility is coming up next week, and we’ve decided to sweeten the deal for what’s included with your event pass. Buy your ticket now and you’ll get a free annual membership to Extra Crunch, our membership program focused on startups, founders and…*
-      
+       
   - Hear from Postmates, Refraction AI and FedEx about autonomous delivery at TC Sessions: Mobility 2020
       <hr/>
-      
-      - *Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery. But is the world —…*
        
-  - Cannabis vape companies experiencing sales boom during pandemic
-      <hr/>
-       
-       - *The global pandemic is driving interest towards cannabis, and device makers are recording record sales. From startups to major players, several leading manufacturers told TechCrunch that their companies are seeing a boom in sales since the start of the crisis…*
+       - *Small startups and logistics giants alike are working on how to use automated vehicle technology and robotics for delivery. Some have even accelerated their efforts, with mixed results, as the COVID-19 pandemic drove up demand for delivery. But is the world —…*
       
 
 
