@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+Sometimes it’s just easier to throw a system away, and start over.
 
-~ L. Peter Deutsch
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Language systems stand on a tripod. There’s the language, there’s the librar
 
 </pre>
 **Daily News**
-  - A new Google Assistant feature, 'Hold for Me,' waits on hold so you don't have to
+  - How 3 remote-friendly tech companies plan to return to the office
      <hr/>
      
-      - *Google has been pushing forward the capabilities of what a smartphone can do when it comes to one of the device’s most basic — if these days, often overlooked — features: phone calls. In previous years, the company launched Call Screen to vet your incoming ca…*
+      - *Six months ago, millions of workers left their offices for the last time without realizing it. Many would be laid off because of the pandemic, but for those fortunate to keep their jobs, some of their employers still haven’t determined whether they will open …*
      
+  - Investors give Baltimore's Facet Wealth $25 million to sell businesses on financial planning as a benefit
+      <hr/>
+      
+      - *Yesterday, Baltimore-based fintech company Facet Wealth said it raised $25 million in financing as it readies a new business line pitching financial planning as an employment benefit to businesses looking to recruit top talent. Employment benefit packages are…*
+      
+  - A new Google Assistant feature, 'Hold for Me,' waits on hold so you don't have to
+      <hr/>
+      
+      - *Google has been pushing forward the capabilities of what a smartphone can do when it comes to one of the device’s most basic — if these days, often overlooked — features: phone calls. In previous years, the company launched Call Screen to vet your incoming ca…*
+      
   - AOC flagged 'material risks' to Palantir investors in letter to SEC
       <hr/>
       
       - *In a newly released letter, New York Rep. Alexandria Ocasio-Cortez issued words of warning to the SEC over Palantir’s efforts to take the company public, cautioning the regulatory body over details the progressive congresswoman says were “omitted” in the comp…*
-      
+       
   - Pixel 5 and 4a 5g get the same, improved cameras with rear ultrawide lens, Night Sight portraits and more
       <hr/>
-      
-      - *Google made its newest smartphones official today, unveiling the much-leaked Pixel 4a 5g and Pixel 5. Both smartphones will get the same, improved cameras, despite a $200 price different between the models, which is great news for people who are specifically …*
-      
-  - Google unveils the $99 Nest Audio smart speaker
-      <hr/>
-      
-      - *Four years after the introduction of Google Home, Google showcased its successor to the company’s mid-range smart speaker. In keeping with the broader rebranding of the company’s smart home products, the device is now called Nest Audio. The smart speaker will…*
        
-  - Google launches the $499 Pixel 4a 5G
-      <hr/>
-       
-       - *As expected, Google today announced the 5G version of its Pixel 4a phone at its annual hardware event. Given all the previous leaks, there were no real surprises left and Google had already announced the $499 price. The new phone, together with the new Pixel …*
+       - *Google made its newest smartphones official today, unveiling the much-leaked Pixel 4a 5g and Pixel 5. Both smartphones will get the same, improved cameras, despite a $200 price different between the models, which is great news for people who are specifically …*
       
 
 
