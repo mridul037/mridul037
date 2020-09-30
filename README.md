@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
 
-~ Ken Thompson
+~ Vannevar Bush
 <pre>
 
 </pre>
