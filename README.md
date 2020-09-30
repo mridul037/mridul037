@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+One man's constant is another man's variable.
 
-~ David Parnas
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A computer is a stupid machine with the ability to do incredibly smart things, w
 
 </pre>
 **Daily News**
-  - Facebook names VP of product growth Alex Schultz as new CMO
+  - E-scooter startup Neuron Mobility adds $12M to its Series A for expansion in Australia and New Zealand
      <hr/>
      
-      - *To fill its empty CMO position, Facebook just promoted a longtime Facebook executive focused on product growth to the C-suite. Former VP of product growth and analytics Alex Schultz, who has been with the company since 2007, announced the move Tuesday in a Fa…*
+      - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
      
+  - Facebook names VP of product growth Alex Schultz as new CMO
+      <hr/>
+      
+      - *To fill its empty CMO position, Facebook just promoted a longtime Facebook executive focused on product growth to the C-suite. Former VP of product growth and analytics Alex Schultz, who has been with the company since 2007, announced the move Tuesday in a Fa…*
+      
   - Swarm prices out its orbital IoT network's hardware and services
       <hr/>
       
@@ -81,16 +86,11 @@ A computer is a stupid machine with the ability to do incredibly smart things, w
       <hr/>
       
       - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
-      
+       
   - Daily Crunch: Amazon lets you pay with your palm
       <hr/>
-      
-      - *Amazon unveils a new biometric ID technology, the Biden campaign takes aim at Facebook and iRobot’s co-founder joins a robotic gardening startup. This is your Daily Crunch for September 29, 2020. The big story: Amazon lets you pay with your palm The company a…*
        
-  - Spin workers just ratified their first union contract
-      <hr/>
-       
-       - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
+       - *Amazon unveils a new biometric ID technology, the Biden campaign takes aim at Facebook and iRobot’s co-founder joins a robotic gardening startup. This is your Daily Crunch for September 29, 2020. The big story: Amazon lets you pay with your palm The company a…*
       
 
 
