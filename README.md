@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 
-~ John Carmack
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The situation is so much better for programmers today - a cheap used PC, a linux
 
 </pre>
 **Daily News**
-  - Xbox Game Pass Ultimate subscribers will get EA Play on November 10th
+  - Silverlake adds a $2 billion long-only hedge fund backed by Abu Dhabi to its tech finance toolkit
      <hr/>
      
-      - *Earlier this month, Microsoft announced that Xbox Game Pass Ultimate subscribers would be able to access EA Play for no additional cost. The company shared more details about the rollout. Console players will be able to activate their complimentary EA Play su…*
+      - *Silver Lake Partners, the multi-billion dollar tech-focused investment firm, is adding a long-only hedge fund backed by Abu Dhabi’s sovereign wealth fund, Mubadala, to its array of investment vehicles to finance technology companies. The move into multi-strat…*
      
-  - Apple removes two RSS feed readers from China App Store
+  - Watch Google’s Pixel 5 event live right here
       <hr/>
       
-      - *It looks like Apple is scouring its Chinese App Store for any remaining services that may not sit well with Chinese censors. Two RSS reader apps, Reeder and Fiery Feeds, said this week that their iOS apps have been removed in China over content that is consid…*
+      - *Google is holding an event to unveil its new phone, the Google Pixel 5. It is going to be a virtual event, and you can steam it live. The event starts at 11 a.m. PDT (2 p.m. in New York, 7 p.m. in London, 8 p.m. in Paris). Rumor has it that there could be […]*
       
-  - Apple to release new emojis with iOS 14.2
+  - Memo Bank details its offering for its business bank accounts
       <hr/>
       
-      - *While the current version of iOS is iOS 14.0.1, Apple is already testing iOS 14.2. The company released an early beta version of the update yesterday, and it includes a new set of emojis, as Emojipedia spotted. Apple already shared an early look of the new em…*
+      - *French startup Memo Bank has unveiled three different plans for its new customers. The company is building a business bank for small and medium companies that generate between €2 million and €50 million in annual turnover. Earlier this year, Memo Bank obtaine…*
       
-  - Lee Fixel's Addition leads $35 million investment in India's Inshorts
+  - Hailo challenges Intel and Google with its new AI modules for edge devices
       <hr/>
       
-      - *Inshorts, which operates a popular news aggregator app in India, has raised $35 million in a new financing round led by Lee Fixel’s Addition as the Indian startup looks to scale its adjacent, social network platform. For Fixel, who wrote several high-profile …*
+      - *Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything f…*
        
-  - Emjoy picks up $3M to get more women tuned into sexual self-care
+  - Xbox Game Pass Ultimate subscribers will get EA Play on November 10th
       <hr/>
        
-       - *Barcelona-based Emjoy, an audio app for women that sells a narrative of sexual self-care and empowerment, has picked up $3 million in seed funding led by JME Ventures, with existing investor Nauta Capital participating. The femtech startup believes it has lit…*
+       - *Earlier this month, Microsoft announced that Xbox Game Pass Ultimate subscribers would be able to access EA Play for no additional cost. The company shared more details about the rollout. Console players will be able to activate their complimentary EA Play su…*
       
 
 
