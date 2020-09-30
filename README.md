@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 
-~ David Leinweber
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you give someone a program, you will frustrate them for a day; if you teach t
 
 </pre>
 **Daily News**
-  - The joke is on consumers as Liquid Death raises $23 million more
+  - Papaya Global raises $40M for a payroll and HR platform aimed at global workforces
      <hr/>
      
-      - *In what began as a kind of funny, savvy marketing stunt that has since gained traction, a nearly three-year-old, Santa Monica-based startup that sells water from the Austrian Alps under the brand Liquid Death, has raised $23 million in Series B funding. Backe…*
+      - *Workforces are getting more global, and people who work day in, day out for organizations don’t always sit day in, day out in a single office, in a single country, to get a job done. Today, one of the startups building HR to help companies provision services …*
      
+  - Salesforce creates for profit platform to help governments distribute COVID vaccine when it's ready
+      <hr/>
+      
+      - *For more than 20 years, Salesforce has been selling cloud business software, but it has also used the same platform to build ways to track other elements besides sales, marketing and service information including Work.com, the platform it created earlier this…*
+      
+  - TravelPerk launches an open API platform to extend its work trip SaaS
+      <hr/>
+      
+      - *Business travel SaaS startup, TravelPerk, has launched an open API-based platform — letting its customers and partners build custom integration and apps. The initial APIs covers HR and expense management use-cases but more are set to be added as usage and dem…*
+      
+  - The joke is on consumers as Liquid Death raises $23 million more
+      <hr/>
+      
+      - *In what began as a kind of funny, savvy marketing stunt that has since gained traction, a nearly three-year-old, Santa Monica-based startup that sells water from the Austrian Alps under the brand Liquid Death, has raised $23 million in Series B funding. Backe…*
+       
   - E-scooter startup Neuron Mobility adds $12M to its Series A for expansion in Australia and New Zealand
       <hr/>
-      
-      - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
-      
-  - Facebook names VP of product growth Alex Schultz as new CMO
-      <hr/>
-      
-      - *To fill its empty CMO position, Facebook just promoted a longtime Facebook executive focused on product growth to the C-suite. Former VP of product growth and analytics Alex Schultz, who has been with the company since 2007, announced the move Tuesday in a Fa…*
-      
-  - Swarm prices out its orbital IoT network's hardware and services
-      <hr/>
-      
-      - *Swarm’s new network of satellites is intended to provide low-bandwidth, low-power connectivity to “Internet of Things” devices all over the world, and the company just announced how much its technology will actually cost. A $119 board will be sold to be integ…*
        
-  - Palantir’s reference price values it at roughly $16 billion
-      <hr/>
-       
-       - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
+       - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
       
 
 
