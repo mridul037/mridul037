@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 
-~ Fred Brooks
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When a task cannot be partitioned because of sequential constraints, the applica
 
 </pre>
 **Daily News**
-  - Dear Sophie: Will October 2020 Visa Bulletin changes expedite my immigration case?
+  - Aurora Labs ramps 'self-healing' software with $23M from LG Technology Ventures, Porsche SE, Toyota Tsusho
      <hr/>
      
-      - *I’ve been waiting for years for my green card. Is there any way to expedite my case? What does the October shift in Visa Bulletin priority dates mean for me?*
+      - *The automotive market is grappling with increasingly complex software systems, and in turn greater risks of glitches that can cause costly and unsafe disruptions and damage an automaker’s credibility. Just look at today’s new cars, trucks and SUVs compared to…*
      
-  - Online garden shop Bloomscape raises $15M Series B, acquires plant care app Vera
+  - 'The Real Facebook Oversight Board' launches to counter Facebook's 'Oversight Board'
       <hr/>
       
-      - *If you thought to invest in more plants or started growing a small garden during 2020’s coronavirus lockdowns, you weren’t alone. According to Bloomscape, a company that ships live plants straight from greenhouses to customers’ homes, a number of people becom…*
+      - *Today a group of academics, researchers and civil rights leaders go live on with ‘The Real Facebook Oversight Board’ which is designed to criticize and discuss the role of the platform in the upcoming US election. The group includes Facebook’s ex-head of elec…*
       
-  - Dfinity's valuation soars to $9.5Bn after revealing its governance system and token economics
+  - Asana up 39% and Palantir still holding as both direct listings hit the public markets
       <hr/>
       
-      - *We’ve been tracking one of the few genuinely interesting stories to come out of the blockchain world, ever since Dfinity raised $102M from Andreessen Horowitz and Polychain Capital for a decentralised ‘Internet Computer’ to rival AWS in August last year. It l…*
+      - *Two direct listings in one day. Lots to talk about. Asana started trading just a bit after noon Eastern today, quickly zooming to roughly $29 a share in early trading this afternoon. We are still waiting for the first trades of Palantir to hit the market. Asa…*
       
-  - Twitch launches a rights-cleared music catalog for streamers, Soundtrack by Twitch
+  - Twilio launches an app for frontline workers, a free 1:1 video toolkit and a new IoT platform
       <hr/>
       
-      - *Twitch today is introducing a new tool, Soundtrack by Twitch, that will allows it creators to add licensed music within their streams. The feature, which has been in development over the past year, is meant to not only make it easier to find rights-cleared mu…*
+      - *Twilio is hosting its annual Signal conference today and as usual, the company is using the event to launch a host of new products and features. For the most part, especially if you’re a web or mobile developer, these are not groundbreaking new features. The …*
        
-  - Applicants say a DC Bar website bug exposed their personal data and background checks
+  - Dear Sophie: Will October 2020 Visa Bulletin changes expedite my immigration case?
       <hr/>
        
-       - *Prospective lawyers say the DC Bar has not told applicants about the security incident.*
+       - *I’ve been waiting for years for my green card. Is there any way to expedite my case? What does the October shift in Visa Bulletin priority dates mean for me?*
       
 
 
