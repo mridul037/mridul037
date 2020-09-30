@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 
-~ Ward Cunningham
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Shipping first time code is like going into debt. A little debt speeds developme
 
 </pre>
 **Daily News**
-  - Aurora Labs ramps 'self-healing' software with $23M from LG Technology Ventures, Porsche SE, Toyota Tsusho
+  - Pixel 5 and 4a 5g get the same, improved cameras with rear ultrawide lens, Night Sight portraits and more
      <hr/>
      
-      - *The automotive market is grappling with increasingly complex software systems, and in turn greater risks of glitches that can cause costly and unsafe disruptions and damage an automaker’s credibility. Just look at today’s new cars, trucks and SUVs compared to…*
+      - *Google made its newest smartphones official today, unveiling the much-leaked Pixel 4a 5g and Pixel 5. Both smartphones will get the same, improved cameras, despite a $200 price different between the models, which is great news for people who are specifically …*
      
-  - 'The Real Facebook Oversight Board' launches to counter Facebook's 'Oversight Board'
+  - Google unveils the $99 Nest Audio smart speaker
       <hr/>
       
-      - *Today a group of academics, researchers and civil rights leaders go live on with ‘The Real Facebook Oversight Board’ which is designed to criticize and discuss the role of the platform in the upcoming US election. The group includes Facebook’s ex-head of elec…*
+      - *Four years after the introduction of Google Home, Google showcased its successor to the company’s mid-range smart speaker. In keeping with the broader rebranding of the company’s smart home products, the device is now called Nest Audio. The smart speaker will…*
       
-  - Asana up 39% and Palantir still holding as both direct listings hit the public markets
+  - Google launches the $499 Pixel 4a 5G
       <hr/>
       
-      - *Two direct listings in one day. Lots to talk about. Asana started trading just a bit after noon Eastern today, quickly zooming to roughly $29 a share in early trading this afternoon. We are still waiting for the first trades of Palantir to hit the market. Asa…*
+      - *As expected, Google today announced the 5G version of its Pixel 4a phone at its annual hardware event. Given all the previous leaks, there were no real surprises left and Google had already announced the $499 price. The new phone, together with the new Pixel …*
       
-  - Twilio launches an app for frontline workers, a free 1:1 video toolkit and a new IoT platform
+  - Google’s Pixel 5 get reverse wireless charging and 5G for $699
       <hr/>
       
-      - *Twilio is hosting its annual Signal conference today and as usual, the company is using the event to launch a host of new products and features. For the most part, especially if you’re a web or mobile developer, these are not groundbreaking new features. The …*
+      - *Here it is, the centerpiece of this morning’s confusing-titled Launch Night In. The Pixel 5 is Google’s latest mobile flagship. Launching months after the budget-minded Pixel 4a (and same day as the Pixel 4a 5G) , the new handset sports a a 100% recycled alum…*
        
-  - Dear Sophie: Will October 2020 Visa Bulletin changes expedite my immigration case?
+  - The new Chromecast adds a remote and the new Google TV interface for $49
       <hr/>
        
-       - *I’ve been waiting for years for my green card. Is there any way to expedite my case? What does the October shift in Visa Bulletin priority dates mean for me?*
+       - *It’s been a while since Google gave its Chromecast line a proper bit of love — perhaps not surprising for a fairly mature device now marking its seventh year. At today’s big Launch Night In event, however, the company’s bringing the popular TV dongle a much-n…*
       
 
 
