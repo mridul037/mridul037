@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Edsger W. Dijkstra
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Don't blame me for the fact that competent programming will be too difficult for
 
 </pre>
 **Daily News**
-  - Homer nabs $50M from Lego, Sesame Workshop and Gymboree for its early learning apps
+  - See what's new from Chargepoint, Wejo, Waymo and Planet M at TechCrunch's mobility event next week
      <hr/>
      
-      - *For better or worse, tablets and smartphones have become a cornerstone of how many smaller children pass the time. Today, a company that builds literacy and other educational apps to help make that time more worthwhile is announcing a large round of funding f…*
+      - *We’re in the final run up to TC Sessions: Mobility 2020 on October 6-7, and the great stuff just keeps on coming. We’ve stacked the two-day agenda with plenty of programming to keep you engaged, informed and on track to build a stronger business. You’ll alway…*
      
-  - Coralogix lands $25M Series B to rethink log analysis and monitoring
+  - Brands building for scale should look to hypercultural Latinx consumers
       <hr/>
       
-      - *Logging and monitoring tends to be an expensive endeavor because of the sheer amount of data involved. Companies are therefore forced to pick and choose what they monitor, limiting what they can see. Coralogix wants to change that by offering a more flexible …*
+      - *Hypercultural Latinx consumers are different from their mostly white counterparts in the way they vigorously engage with technology, their obsession with being online at all times and their unique shopping habits.*
       
-  - Prosus Ventures leads $13 million investment in Pakistan's ride-hailing giant Bykea
+  - Vista-owned backup and recovery company Datto files to go public
       <hr/>
       
-      - *Bykea, which leads the ride-hailing market in Pakistan, has raised $13 million in a new financing round as the five-year-old startup looks to deepen its penetration in the South Asian country and become a “super app.” The startup’s new financing round, a Seri…*
+      - *When Vista Equity Partners acquired backup and disaster recovery firm Datto in 2017, it was easy to think that was the end of the company’s story. It would be comfortably absorbed into the private equity portfolio continuing to make money for the firm, but th…*
       
-  - Element acquires Gitter to get more developers on board with the open Matrix messaging protocol
+  - Europe eyeing limits on how big tech can use data and bundle apps -- reports
       <hr/>
       
-      - *Some interesting news for lovers of open, decentralized communications tech: Element, the company behind the eponymous Matrix -based Slack competitor (formerly known as Riot) has acquired developer-focused chat platform, Gitter, from dev services giant GitLab…*
+      - *European lawmakers are considering new rules for Internet giants that could include forcing them to share data with smaller rivals and/or put narrow limits on how they can use data in a bid to level the digital playing field. Other ideas in the mix are a ban …*
        
-  - Juno Bio launches a vaginal microbiome test kit -- targeting the women's health data gap
+  - Homer nabs $50M from Lego, Sesame Workshop and Gymboree for its early learning apps
       <hr/>
        
-       - *Entrepreneur First -backed Juno Bio has launched a home test kit for women wanting to get a better understanding of their vaginal microbiome while also contributing data to further research into women’s health. The vaginal microbiome refers to the community o…*
+       - *For better or worse, tablets and smartphones have become a cornerstone of how many smaller children pass the time. Today, a company that builds literacy and other educational apps to help make that time more worthwhile is announcing a large round of funding f…*
       
 
 
