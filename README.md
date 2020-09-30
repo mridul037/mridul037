@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+With artificial intelligence we are summoning the demon.
 
-~ Bjarne Stroustrup
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ An organisation that treats its programmers as morons will soon have programmers
 
 </pre>
 **Daily News**
-  - After breach, Twitter hires a new cybersecurity chief
+  - Homer nabs $50M from Lego, Sesame Workshop and Gymboree for its early learning apps
      <hr/>
      
-      - *Rinki Sethi previously served at Rubrik, IBM, Palo Alto Networks, and Intuit.*
+      - *For better or worse, tablets and smartphones have become a cornerstone of how many smaller children pass the time. Today, a company that builds literacy and other educational apps to help make that time more worthwhile is announcing a large round of funding f…*
      
-  - VTEX raises $225M at a $1.7B valuation for e-commerce solutions aimed at retailers and brands
+  - Coralogix lands $25M Series B to rethink log analysis and monitoring
       <hr/>
       
-      - *Retailers and consumer brands are focused more than ever in their histories on using e-commerce channels to connect with customers: the global health pandemic has disrupted much of their traditional business in places like physical stores, event venues and re…*
+      - *Logging and monitoring tends to be an expensive endeavor because of the sheer amount of data involved. Companies are therefore forced to pick and choose what they monitor, limiting what they can see. Coralogix wants to change that by offering a more flexible …*
       
-  - Facebook introduces cross-app communication between Messenger and Instagram, plus other features
+  - Prosus Ventures leads $13 million investment in Pakistan's ride-hailing giant Bykea
       <hr/>
       
-      - *Facebook announced today it will begin rolling out new functionality that will allow Instagram and Messenger users to communicate across apps, in addition to bringing a host of Messenger -inspired features to the Instagram inbox. On Instagram, users will be p…*
+      - *Bykea, which leads the ride-hailing market in Pakistan, has raised $13 million in a new financing round as the five-year-old startup looks to deepen its penetration in the South Asian country and become a “super app.” The startup’s new financing round, a Seri…*
       
-  - Silverlake adds a $2 billion long-only hedge fund backed by Abu Dhabi to its tech finance toolkit
+  - Element acquires Gitter to get more developers on board with the open Matrix messaging protocol
       <hr/>
       
-      - *Silver Lake Partners, the multi-billion dollar tech-focused investment firm, is adding a long-only hedge fund backed by Abu Dhabi’s sovereign wealth fund, Mubadala, to its array of investment vehicles to finance technology companies. The move into multi-strat…*
+      - *Some interesting news for lovers of open, decentralized communications tech: Element, the company behind the eponymous Matrix -based Slack competitor (formerly known as Riot) has acquired developer-focused chat platform, Gitter, from dev services giant GitLab…*
        
-  - Watch Google’s Pixel 5 event live right here
+  - Juno Bio launches a vaginal microbiome test kit -- targeting the women's health data gap
       <hr/>
        
-       - *Google is holding an event to unveil its new phone, the Google Pixel 5. It is going to be a virtual event, and you can steam it live. The event starts at 11 a.m. PDT (2 p.m. in New York, 7 p.m. in London, 8 p.m. in Paris). Rumor has it that there could be […]*
+       - *Entrepreneur First -backed Juno Bio has launched a home test kit for women wanting to get a better understanding of their vaginal microbiome while also contributing data to further research into women’s health. The vaginal microbiome refers to the community o…*
       
 
 
