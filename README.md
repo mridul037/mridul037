@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 
-~ Elon Musk
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
