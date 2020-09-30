@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 
-~ Donald Knuth
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 
 </pre>
 **Daily News**
-  - See what's new from Chargepoint, Wejo, Waymo and Planet M at TechCrunch's mobility event next week
+  - Dear Sophie: Will October 2020 Visa Bulletin changes expedite my immigration case?
      <hr/>
      
-      - *We’re in the final run up to TC Sessions: Mobility 2020 on October 6-7, and the great stuff just keeps on coming. We’ve stacked the two-day agenda with plenty of programming to keep you engaged, informed and on track to build a stronger business. You’ll alway…*
+      - *I’ve been waiting for years for my green card. Is there any way to expedite my case? What does the October shift in Visa Bulletin priority dates mean for me?*
      
-  - Brands building for scale should look to hypercultural Latinx consumers
+  - Online garden shop Bloomscape raises $15M Series B, acquires plant care app Vera
       <hr/>
       
-      - *Hypercultural Latinx consumers are different from their mostly white counterparts in the way they vigorously engage with technology, their obsession with being online at all times and their unique shopping habits.*
+      - *If you thought to invest in more plants or started growing a small garden during 2020’s coronavirus lockdowns, you weren’t alone. According to Bloomscape, a company that ships live plants straight from greenhouses to customers’ homes, a number of people becom…*
       
-  - Vista-owned backup and recovery company Datto files to go public
+  - Dfinity's valuation soars to $9.5Bn after revealing its governance system and token economics
       <hr/>
       
-      - *When Vista Equity Partners acquired backup and disaster recovery firm Datto in 2017, it was easy to think that was the end of the company’s story. It would be comfortably absorbed into the private equity portfolio continuing to make money for the firm, but th…*
+      - *We’ve been tracking one of the few genuinely interesting stories to come out of the blockchain world, ever since Dfinity raised $102M from Andreessen Horowitz and Polychain Capital for a decentralised ‘Internet Computer’ to rival AWS in August last year. It l…*
       
-  - Europe eyeing limits on how big tech can use data and bundle apps -- reports
+  - Twitch launches a rights-cleared music catalog for streamers, Soundtrack by Twitch
       <hr/>
       
-      - *European lawmakers are considering new rules for Internet giants that could include forcing them to share data with smaller rivals and/or put narrow limits on how they can use data in a bid to level the digital playing field. Other ideas in the mix are a ban …*
+      - *Twitch today is introducing a new tool, Soundtrack by Twitch, that will allows it creators to add licensed music within their streams. The feature, which has been in development over the past year, is meant to not only make it easier to find rights-cleared mu…*
        
-  - Homer nabs $50M from Lego, Sesame Workshop and Gymboree for its early learning apps
+  - Applicants say a DC Bar website bug exposed their personal data and background checks
       <hr/>
        
-       - *For better or worse, tablets and smartphones have become a cornerstone of how many smaller children pass the time. Today, a company that builds literacy and other educational apps to help make that time more worthwhile is announcing a large round of funding f…*
+       - *Prospective lawyers say the DC Bar has not told applicants about the security incident.*
       
 
 
