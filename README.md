@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
-~ Vannevar Bush
+~ Charles Babbage
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If scientific reasoning were limited to the logical processes of arithmetic, we 
 
 </pre>
 **Daily News**
-  - Palantir’s reference price values it at roughly $16 billion
+  - Facebook names VP of product growth Alex Schultz as new CMO
      <hr/>
      
-      - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
+      - *To fill its empty CMO position, Facebook just promoted a longtime Facebook executive focused on product growth to the C-suite. Former VP of product growth and analytics Alex Schultz, who has been with the company since 2007, announced the move Tuesday in a Fa…*
      
+  - Swarm prices out its orbital IoT network's hardware and services
+      <hr/>
+      
+      - *Swarm’s new network of satellites is intended to provide low-bandwidth, low-power connectivity to “Internet of Things” devices all over the world, and the company just announced how much its technology will actually cost. A $119 board will be sold to be integ…*
+      
+  - Palantir’s reference price values it at roughly $16 billion
+      <hr/>
+      
+      - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
+      
   - Daily Crunch: Amazon lets you pay with your palm
       <hr/>
       
       - *Amazon unveils a new biometric ID technology, the Biden campaign takes aim at Facebook and iRobot’s co-founder joins a robotic gardening startup. This is your Daily Crunch for September 29, 2020. The big story: Amazon lets you pay with your palm The company a…*
-      
+       
   - Spin workers just ratified their first union contract
       <hr/>
-      
-      - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
-      
-  - Amazon launches a virtual tours and experience platform, Amazon Explore
-      <hr/>
-      
-      - *Amazon today is launching a new service called Amazon Explore that allows customers to book live, virtual experiences led by local experts. The experiences may be focused on creativity, learning DIY skills, taking virtual tours of far-off places or cultural l…*
        
-  - Ford drops the price of its all-electric Mustang Mach-E to stay "fully competitive"
-      <hr/>
-       
-       - *Ford has slashed the price of its upcoming all-electric Mustang Mach-E crossover by as much as $3,000 as the automaker seeks to stay competitive in an increasingly crowded and unsettled sector of the automotive market. The price reductions, which were shared …*
+       - *A group of 40 workers at Ford-owned Spin just successfully ratified their first union contract. This comes after this group of shift leads, maintenance specialists, operations specialists, community ambassadors, and scooter deployers and collectors joined Tea…*
       
 
 
