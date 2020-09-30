@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 
-~ Linus Torvalds
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Really, I'm not out to destroy Microsoft. That will just be a completely uninten
 
 </pre>
 **Daily News**
-  - Silverlake adds a $2 billion long-only hedge fund backed by Abu Dhabi to its tech finance toolkit
+  - After breach, Twitter hires a new cybersecurity chief
      <hr/>
      
-      - *Silver Lake Partners, the multi-billion dollar tech-focused investment firm, is adding a long-only hedge fund backed by Abu Dhabi’s sovereign wealth fund, Mubadala, to its array of investment vehicles to finance technology companies. The move into multi-strat…*
+      - *Rinki Sethi previously served at Rubrik, IBM, Palo Alto Networks, and Intuit.*
      
+  - VTEX raises $225M at a $1.7B valuation for e-commerce solutions aimed at retailers and brands
+      <hr/>
+      
+      - *Retailers and consumer brands are focused more than ever in their histories on using e-commerce channels to connect with customers: the global health pandemic has disrupted much of their traditional business in places like physical stores, event venues and re…*
+      
+  - Facebook introduces cross-app communication between Messenger and Instagram, plus other features
+      <hr/>
+      
+      - *Facebook announced today it will begin rolling out new functionality that will allow Instagram and Messenger users to communicate across apps, in addition to bringing a host of Messenger -inspired features to the Instagram inbox. On Instagram, users will be p…*
+      
+  - Silverlake adds a $2 billion long-only hedge fund backed by Abu Dhabi to its tech finance toolkit
+      <hr/>
+      
+      - *Silver Lake Partners, the multi-billion dollar tech-focused investment firm, is adding a long-only hedge fund backed by Abu Dhabi’s sovereign wealth fund, Mubadala, to its array of investment vehicles to finance technology companies. The move into multi-strat…*
+       
   - Watch Google’s Pixel 5 event live right here
       <hr/>
-      
-      - *Google is holding an event to unveil its new phone, the Google Pixel 5. It is going to be a virtual event, and you can steam it live. The event starts at 11 a.m. PDT (2 p.m. in New York, 7 p.m. in London, 8 p.m. in Paris). Rumor has it that there could be […]*
-      
-  - Memo Bank details its offering for its business bank accounts
-      <hr/>
-      
-      - *French startup Memo Bank has unveiled three different plans for its new customers. The company is building a business bank for small and medium companies that generate between €2 million and €50 million in annual turnover. Earlier this year, Memo Bank obtaine…*
-      
-  - Hailo challenges Intel and Google with its new AI modules for edge devices
-      <hr/>
-      
-      - *Hailo, a Tel Aviv-based startup best known for its high-performance AI chips, today announced the launch of its M.2 and Mini PCIe high-AI acceleration modules. Based around its Hailo-8 chip, these new models are meant to be used in edge devices for anything f…*
        
-  - Xbox Game Pass Ultimate subscribers will get EA Play on November 10th
-      <hr/>
-       
-       - *Earlier this month, Microsoft announced that Xbox Game Pass Ultimate subscribers would be able to access EA Play for no additional cost. The company shared more details about the rollout. Console players will be able to activate their complimentary EA Play su…*
+       - *Google is holding an event to unveil its new phone, the Google Pixel 5. It is going to be a virtual event, and you can steam it live. The event starts at 11 a.m. PDT (2 p.m. in New York, 7 p.m. in London, 8 p.m. in Paris). Rumor has it that there could be […]*
       
 
 
