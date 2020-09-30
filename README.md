@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 
-~ Charles Simonyi
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'll bet you that from ten feet away I can tell if a program is bad. I might not
 
 </pre>
 **Daily News**
-  - Pixel 5 and 4a 5g get the same, improved cameras with rear ultrawide lens, Night Sight portraits and more
+  - A new Google Assistant feature, 'Hold for Me,' waits on hold so you don't have to
      <hr/>
      
-      - *Google made its newest smartphones official today, unveiling the much-leaked Pixel 4a 5g and Pixel 5. Both smartphones will get the same, improved cameras, despite a $200 price different between the models, which is great news for people who are specifically …*
+      - *Google has been pushing forward the capabilities of what a smartphone can do when it comes to one of the device’s most basic — if these days, often overlooked — features: phone calls. In previous years, the company launched Call Screen to vet your incoming ca…*
      
+  - AOC flagged 'material risks' to Palantir investors in letter to SEC
+      <hr/>
+      
+      - *In a newly released letter, New York Rep. Alexandria Ocasio-Cortez issued words of warning to the SEC over Palantir’s efforts to take the company public, cautioning the regulatory body over details the progressive congresswoman says were “omitted” in the comp…*
+      
+  - Pixel 5 and 4a 5g get the same, improved cameras with rear ultrawide lens, Night Sight portraits and more
+      <hr/>
+      
+      - *Google made its newest smartphones official today, unveiling the much-leaked Pixel 4a 5g and Pixel 5. Both smartphones will get the same, improved cameras, despite a $200 price different between the models, which is great news for people who are specifically …*
+      
   - Google unveils the $99 Nest Audio smart speaker
       <hr/>
       
       - *Four years after the introduction of Google Home, Google showcased its successor to the company’s mid-range smart speaker. In keeping with the broader rebranding of the company’s smart home products, the device is now called Nest Audio. The smart speaker will…*
-      
+       
   - Google launches the $499 Pixel 4a 5G
       <hr/>
-      
-      - *As expected, Google today announced the 5G version of its Pixel 4a phone at its annual hardware event. Given all the previous leaks, there were no real surprises left and Google had already announced the $499 price. The new phone, together with the new Pixel …*
-      
-  - Google’s Pixel 5 get reverse wireless charging and 5G for $699
-      <hr/>
-      
-      - *Here it is, the centerpiece of this morning’s confusing-titled Launch Night In. The Pixel 5 is Google’s latest mobile flagship. Launching months after the budget-minded Pixel 4a (and same day as the Pixel 4a 5G) , the new handset sports a a 100% recycled alum…*
        
-  - The new Chromecast adds a remote and the new Google TV interface for $49
-      <hr/>
-       
-       - *It’s been a while since Google gave its Chromecast line a proper bit of love — perhaps not surprising for a fairly mature device now marking its seventh year. At today’s big Launch Night In event, however, the company’s bringing the popular TV dongle a much-n…*
+       - *As expected, Google today announced the 5G version of its Pixel 4a phone at its annual hardware event. Given all the previous leaks, there were no real surprises left and Google had already announced the $499 price. The new phone, together with the new Pixel …*
       
 
 
