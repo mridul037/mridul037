@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ L. Peter Deutsch
+~ David Leinweber
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I would make a strong case that programming languages have not improved qualitat
 
 </pre>
 **Daily News**
-  - E-scooter startup Neuron Mobility adds $12M to its Series A for expansion in Australia and New Zealand
+  - The joke is on consumers as Liquid Death raises $23 million more
      <hr/>
      
-      - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
+      - *In what began as a kind of funny, savvy marketing stunt that has since gained traction, a nearly three-year-old, Santa Monica-based startup that sells water from the Austrian Alps under the brand Liquid Death, has raised $23 million in Series B funding. Backe…*
      
+  - E-scooter startup Neuron Mobility adds $12M to its Series A for expansion in Australia and New Zealand
+      <hr/>
+      
+      - *Neuron Mobility, a Singapore-based e-scooter rental startup, announced today that it has added $12 million to its Series A. Led by Square Peg, an Australian venture capital firm and GSR Ventures, this increases the round’s new total to $30.5 million. The comp…*
+      
   - Facebook names VP of product growth Alex Schultz as new CMO
       <hr/>
       
@@ -81,16 +86,11 @@ I would make a strong case that programming languages have not improved qualitat
       <hr/>
       
       - *Swarm’s new network of satellites is intended to provide low-bandwidth, low-power connectivity to “Internet of Things” devices all over the world, and the company just announced how much its technology will actually cost. A $119 board will be sold to be integ…*
-      
+       
   - Palantir’s reference price values it at roughly $16 billion
       <hr/>
-      
-      - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
        
-  - Daily Crunch: Amazon lets you pay with your palm
-      <hr/>
-       
-       - *Amazon unveils a new biometric ID technology, the Biden campaign takes aim at Facebook and iRobot’s co-founder joins a robotic gardening startup. This is your Daily Crunch for September 29, 2020. The big story: Amazon lets you pay with your palm The company a…*
+       - *Palantir is preparing for its public debut tomorrow morning on the NYSE after 17 years, and now we are getting some data on how the company’s shares are being valued by investors. NYSE announced that the the company, which will be traded under the ticker PLTR…*
       
 
 
