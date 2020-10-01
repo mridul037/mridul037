@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer shall not waste your time or require you to do more work than is strictly necessary.
+Computer programs are the most complex things that humans make.
 
-~ Jef Raskin
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A computer shall not waste your time or require you to do more work than is stri
 
 </pre>
 **Daily News**
-  - Imperva to acquire database security startup jSonar
+  - Motif Foodworks preps commercial production for its first ingredient, improving the flavor of beef substitutes
      <hr/>
      
-      - *Cybersecurity giant Imperva will acquire jSonar, a database security startup that recently landed $50 million from Goldman Sachs. Financial terms of the deal weren’t disclosed. The acquisition of jSonar, which provides security and compliance to databases on-…*
+      - *Motif Foodworks, the Ginkgo Bioworks spinout focused on developing new plant-based flavorings and food ingredients, is readying commercial scale production of its first product an ingredient to improve the flavor of beef substitutes. The expansion of Motif’s …*
      
-  - Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M
+  - Cisco acquires PortShift to raise its game in DevOps and Kubernetes security
       <hr/>
       
-      - *SOPHiA GENETICS, the shoutily and poorly capitalized named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care, has raised $110 million in new fund…*
+      - *Cisco is making another acquisition to expand its reach in security solutions, this time specifically targeting DevOps and the world of container management. It is acquiring PortShift, an Israeli startup that has built a Kubernetes-native security platform. T…*
       
-  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
+  - Altinity grabs $4M seed to build cloud version of ClickHouse open source data warehouse
       <hr/>
       
-      - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
+      - *Earlier this month, cloud data warehouse Snowflake turned heads when it debuted on the stock market. Today, Altinity, the commercial company behind the open source ClickHouse data warehouse announced a $4 million seed round from Accel along with a new cloud s…*
       
-  - Google to pay out $1B to publishers to license content for new Google News Showcase
+  - Microsoft adds the $549 Laptop Go to its growing Surface lineup
       <hr/>
       
-      - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
+      - *Microsoft just added a couple of key additions to its ever-growing lineup of Surface devices. There are a bunch of new accessories and an update to the Surface Pro X, which you can read about here. The biggest news of the morning, however, is the arrival of t…*
        
-  - Cazoo, the UK used car sales portal, raises another $311M, now valued at over $2B
+  - Microsoft updates its Arm-based Surface Pro X  tablet with a faster CPU
       <hr/>
        
-       - *A lot of people are opting to use cars instead of taking public transportation in the UK at the moment, as a way of ensuring more social distancing, and today one of the startups that’s built a more efficient way of selling and buying cars is announcing a big…*
+       - *Microsoft today announced the second generation of its Arm-based Surface Pro X tablet. The first generation of the Pro X launched last October and since then, Microsoft worked with Qualcomm to design the second generation of the SQ2 processor that powers it. …*
       
 
 
