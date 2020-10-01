@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-~ René Descartes
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Thus it is observable that the buildings which a single architect has planned an
 
 </pre>
 **Daily News**
-  - Allbirds CEO Joey Zwillinger on the startup's $100 million round, profitability, and SPAC mania
+  - eFounders unveils its next batch of enterprise SaaS startups
      <hr/>
      
-      - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
+      - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
      
+  - Allbirds CEO Joey Zwillinger on the startup's $100 million round, profitability, and SPAC mania
+      <hr/>
+      
+      - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
+      
   - Indian startups explore forming an alliance and alternative app store to fight Google’s ‘monopoly’
       <hr/>
       
@@ -81,16 +86,11 @@ Thus it is observable that the buildings which a single architect has planned an
       <hr/>
       
       - *The markets are closed and the verdicts are in: investors liked what they saw in Palantir and Asana . The two companies, which debuted this morning in dual (and duel) direct listings, continued to prove that enterprise tech companies without the brand recogni…*
-      
+       
   - Dustin Moskovitz discusses Asana’s first trading day
       <hr/>
-      
-      - *It’s a big day for Asana, the work management tool that debuted on the NYSE this morning in a direct listing. Founded back in 2009 by Dustin Moskovitz and Justin Rosenstein, the company has assiduously grown over the years, taking in about $213 million in ven…*
        
-  - Everything Google announced at today's hardware event
-      <hr/>
-       
-       - *This year, Google’s annual hardware event consisted of a brisk 30 minutes of pre-recorded promotional videos, but the company managed to pack a number of new product announcements into that time. To make things easy for you, here’s a quick rundown of everythi…*
+       - *It’s a big day for Asana, the work management tool that debuted on the NYSE this morning in a direct listing. Founded back in 2009 by Dustin Moskovitz and Justin Rosenstein, the company has assiduously grown over the years, taking in about $213 million in ven…*
       
 
 
