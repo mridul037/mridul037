@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 
-~ David Wheeler (computer scientist)
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Compatibility means deliberately repeating other people’s mistakes.
 
 </pre>
 **Daily News**
-  - Lots of happy people as Palantir and Asana spike on first day of trading
+  - Indian startups explore forming an alliance and alternative app store to fight Google’s ‘monopoly’
      <hr/>
      
-      - *The markets are closed and the verdicts are in: investors liked what they saw in Palantir and Asana . The two companies, which debuted this morning in dual (and duel) direct listings, continued to prove that enterprise tech companies without the brand recogni…*
+      - *Google, which reaches more internet users than any other firm in India and commands 99% of the nation’s smartphone market, has stumbled upon an odd challenge in the world’s second largest internet market: Scores of top local entrepreneurs. Dozens of top start…*
      
+  - Lots of happy people as Palantir and Asana spike on first day of trading
+      <hr/>
+      
+      - *The markets are closed and the verdicts are in: investors liked what they saw in Palantir and Asana . The two companies, which debuted this morning in dual (and duel) direct listings, continued to prove that enterprise tech companies without the brand recogni…*
+      
   - Dustin Moskovitz discusses Asana’s first trading day
       <hr/>
       
@@ -81,16 +86,11 @@ Compatibility means deliberately repeating other people’s mistakes.
       <hr/>
       
       - *This year, Google’s annual hardware event consisted of a brisk 30 minutes of pre-recorded promotional videos, but the company managed to pack a number of new product announcements into that time. To make things easy for you, here’s a quick rundown of everythi…*
-      
+       
   - How 3 remote-friendly tech companies plan to return to the office
       <hr/>
-      
-      - *Six months ago, millions of workers left their offices for the last time without realizing it. Many would be laid off because of the pandemic, but for those fortunate to keep their jobs, some of their employers still haven’t determined whether they will open …*
        
-  - Investors give Baltimore's Facet Wealth $25 million to sell businesses on financial planning as a benefit
-      <hr/>
-       
-       - *Yesterday, Baltimore-based fintech company Facet Wealth said it raised $25 million in financing as it readies a new business line pitching financial planning as an employment benefit to businesses looking to recruit top talent. Employment benefit packages are…*
+       - *Six months ago, millions of workers left their offices for the last time without realizing it. Many would be laid off because of the pandemic, but for those fortunate to keep their jobs, some of their employers still haven’t determined whether they will open …*
       
 
 
