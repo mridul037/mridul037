@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We need to be super careful with AI. Potentially more dangerous than nukes.
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 
-~ Elon Musk
+~ Ray Ozzie
 <pre>
 
 </pre>
