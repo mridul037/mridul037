@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 
-~ Elon Musk
+~ Linus Torvalds
 <pre>
 
 </pre>
