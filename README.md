@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
 
-~ Bill Gates
+~ John von Neumann
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A great programmer thinks about the program on a constant basis, whether driving
 
 </pre>
 **Daily News**
-  - Google to pay out $1B to publishers to license content for new Google News Showcase
+  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
      <hr/>
      
-      - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
+      - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
      
+  - Google to pay out $1B to publishers to license content for new Google News Showcase
+      <hr/>
+      
+      - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
+      
   - Cazoo, the UK used car sales portal, raises another $311M, now valued at over $2B
       <hr/>
       
@@ -81,16 +86,11 @@ A great programmer thinks about the program on a constant basis, whether driving
       <hr/>
       
       - *As more companies and brands put the internet at the core of how they run their businesses these days, it’s giving a strong push to the growth of startups that are building tools to help them. In the latest development, Sendinblue, an eight-year-old French st…*
-      
+       
   - eFounders unveils its next batch of enterprise SaaS startups
       <hr/>
-      
-      - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
        
-  - Allbirds CEO Joey Zwillinger on the startup's $100 million round, profitability, and SPAC mania
-      <hr/>
-       
-       - *As people spend less time out and about and more time wondering longingly when a vaccine will arrive, comfortable lifestyle shoes are only gaining traction. One obvious beneficiary is Allbirds, the San Francisco-based maker of sustainable shoes and, more newl…*
+       - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
       
 
 
