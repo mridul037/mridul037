@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+We could, for instance, begin with cleaning up our language by no longer calling a bug a bug but by calling it an error. It is much more honest because it squarely puts the blame where it belongs, viz. with the programmer who made the error. The animistic metaphor of the bug that maliciously sneaked in while the programmer was not looking is intellectually dishonest as it disguises that the error is the programmer's own creation. The nice thing of this simple change of vocabulary is that it has such a profound effect: while, before, a program with only one bug used to be "almost correct", afterwards a program with an error is just "wrong".
 
-~ James Gleick
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer programs are the most intricate, delicately balanced and finely interwo
 
 </pre>
 **Daily News**
-  - Section 230 will be on the chopping block at the next big tech hearing
+  - There’s a way to pick the absolute best images for your content: Apply AI
      <hr/>
      
-      - *It looks like we’re in for another big tech CEO hearing. The Senate Commerce Committee voted Thursday to move forward with subpoenas for Twitter’s Jack Dorsey, Facebook’s Mark Zuckerberg and Sundar Pichai, the CEO of Alphabet. The unusual decision to subpoena…*
+      - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
      
+  - Facebook sues two companies engaged in data scraping operations
+      <hr/>
+      
+      - *Facebook today says it has filed a lawsuit in the U.S. against two companies that had engaged in an international “data scraping” operation. The operation extended across Facebook properties, including both Facebook and Instagram, as well as other large websi…*
+      
+  - Section 230 will be on the chopping block at the next big tech hearing
+      <hr/>
+      
+      - *It looks like we’re in for another big tech CEO hearing. The Senate Commerce Committee voted Thursday to move forward with subpoenas for Twitter’s Jack Dorsey, Facebook’s Mark Zuckerberg and Sundar Pichai, the CEO of Alphabet. The unusual decision to subpoena…*
+      
   - What if the kernel is corrupt?
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s VC-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, Alex is on a much deserved vacation (but not from Twitter, it seems) so Danny Crichton and I chatted through the …*
-      
+       
   - Oracle's TikTok and Zoom deals won't move cloud market share needle significantly
       <hr/>
-      
-      - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
-      
-  - Latin America's digital transformation is making up for lost time
-      <hr/>
-      
-      - *If we look beyond the data at the bigger picture instead of searching for mythical creatures, the promise of digitalization in Latin America is clear.*
        
-  - Facebook won't accept ads that 'delegitimize' U.S. election results
-      <hr/>
-       
-       - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
+       - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
       
 
 
