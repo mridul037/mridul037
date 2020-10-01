@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
 
-~ Maurice Wilkes
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 
 </pre>
 **Daily News**
-  - Facebook won't accept ads that 'delegitimize' U.S. election results
+  - Oracle's TikTok and Zoom deals won't move cloud market share needle significantly
      <hr/>
      
-      - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
+      - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
      
+  - Latin America's digital transformation is making up for lost time
+      <hr/>
+      
+      - *If we look beyond the data at the bigger picture instead of searching for mythical creatures, the promise of digitalization in Latin America is clear.*
+      
+  - Facebook won't accept ads that 'delegitimize' U.S. election results
+      <hr/>
+      
+      - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
+      
   - Last chance to demo at TC Sessions: Mobility 2020: Sales end tomorrow
       <hr/>
       
       - *Opportunity alert! We’re just five short days away from TC Sessions: Mobility 2020, a two-day event focused on building the future of transportation. Thousands of attendees from around the world will be looking for the latest technologies and up-and-coming st…*
-      
+       
   - Working for social justice isn't a 'distraction' for mission-focused companies
       <hr/>
-      
-      - *People do their best work and form championship teams when they feel good about supporting their teammates and colleagues, not when they remain silent on their behalf.*
-      
-  - Google Maps gets improved Live View AR directions
-      <hr/>
-      
-      - *Google today announced a few updates to Live View, the augmented reality walking directions in its Google Maps app that officially launched last year. Live View uses your phone’s camera and GPS to tell you exactly where to go, making it a nice addition to the…*
        
-  - Bullpen Capital raises $130 million more to fund the far afield and misunderstood
-      <hr/>
-       
-       - *Bullpen Capital, a now 10-year-old, venture fund in Menlo Park that focuses on what it calls post-seed investing — it backs startups that have already raised up to $5 million and “aren’t quite ready for a $10 million check but another $5 million would make th…*
+       - *People do their best work and form championship teams when they feel good about supporting their teammates and colleagues, not when they remain silent on their behalf.*
       
 
 
