@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer programs are the most complex things that humans make.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Douglas Crockford
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer programs are the most complex things that humans make.
 
 </pre>
 **Daily News**
-  - Motif Foodworks preps commercial production for its first ingredient, improving the flavor of beef substitutes
+  - SAP continues to build out customer experience business with Emarsys acquisition
      <hr/>
      
-      - *Motif Foodworks, the Ginkgo Bioworks spinout focused on developing new plant-based flavorings and food ingredients, is readying commercial scale production of its first product an ingredient to improve the flavor of beef substitutes. The expansion of Motif’s …*
+      - *SAP seemed to be all in on customer experience when it acquired Qualtrics for $8 billion in 2018. It continued on that journey today when it announced it was acquiring Austrian cloud marketing company Emarsys for an undisclosed amount of money. Emarsys, which…*
      
+  - Macrometa, an edge computing service for app developers, lands $7M seed round led by DNX
+      <hr/>
+      
+      - *As people continue to work and study from home because of the COVID-19 pandemic, interest in edge computing has increased. Macrometa, a Palo Alto-based that provides edge computing infrastructure for app developers, announced today it has closed a $7 million …*
+      
+  - Motif Foodworks preps commercial production for its first ingredient, improving the flavor of beef substitutes
+      <hr/>
+      
+      - *Motif Foodworks, the Ginkgo Bioworks spinout focused on developing new plant-based flavorings and food ingredients, is readying commercial scale production of its first product an ingredient to improve the flavor of beef substitutes. The expansion of Motif’s …*
+      
   - Cisco acquires PortShift to raise its game in DevOps and Kubernetes security
       <hr/>
       
       - *Cisco is making another acquisition to expand its reach in security solutions, this time specifically targeting DevOps and the world of container management. It is acquiring PortShift, an Israeli startup that has built a Kubernetes-native security platform. T…*
-      
+       
   - Altinity grabs $4M seed to build cloud version of ClickHouse open source data warehouse
       <hr/>
-      
-      - *Earlier this month, cloud data warehouse Snowflake turned heads when it debuted on the stock market. Today, Altinity, the commercial company behind the open source ClickHouse data warehouse announced a $4 million seed round from Accel along with a new cloud s…*
-      
-  - Microsoft adds the $549 Laptop Go to its growing Surface lineup
-      <hr/>
-      
-      - *Microsoft just added a couple of key additions to its ever-growing lineup of Surface devices. There are a bunch of new accessories and an update to the Surface Pro X, which you can read about here. The biggest news of the morning, however, is the arrival of t…*
        
-  - Microsoft updates its Arm-based Surface Pro X  tablet with a faster CPU
-      <hr/>
-       
-       - *Microsoft today announced the second generation of its Arm-based Surface Pro X tablet. The first generation of the Pro X launched last October and since then, Microsoft worked with Qualcomm to design the second generation of the SQ2 processor that powers it. …*
+       - *Earlier this month, cloud data warehouse Snowflake turned heads when it debuted on the stock market. Today, Altinity, the commercial company behind the open source ClickHouse data warehouse announced a $4 million seed round from Accel along with a new cloud s…*
       
 
 
