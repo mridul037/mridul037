@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+The only sin is to make a choice without knowing you are making one.
 
-~ Seymour Cray
+~ Jonathan Shewchuk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The trouble with programmers is that you can never tell what a programmer is doi
 
 </pre>
 **Daily News**
-  - SAP continues to build out customer experience business with Emarsys acquisition
+  - Google now has three mid-range Pixel phones
      <hr/>
      
-      - *SAP seemed to be all in on customer experience when it acquired Qualtrics for $8 billion in 2018. It continued on that journey today when it announced it was acquiring Austrian cloud marketing company Emarsys for an undisclosed amount of money. Emarsys, which…*
+      - *The Pixel has always been a mixed bag. The first-generation product was announced roughly this time four years ago, with Google finally offering a full-throated entry into the smartphone space after years of device partnerships. Of course, by 2016, the market…*
      
-  - Macrometa, an edge computing service for app developers, lands $7M seed round led by DNX
+  - Microsoft enhances customer data platform as pandemic drives need for personalization
       <hr/>
       
-      - *As people continue to work and study from home because of the COVID-19 pandemic, interest in edge computing has increased. Macrometa, a Palo Alto-based that provides edge computing infrastructure for app developers, announced today it has closed a $7 million …*
+      - *When Microsoft introduced its customer data platform last February the focus was on simply connecting silos of data to help customers get the data into the system, but as the pandemic has taken hold this year, customers need deeper insight into their customer…*
       
-  - Motif Foodworks preps commercial production for its first ingredient, improving the flavor of beef substitutes
+  - Twitter confirms some service flakiness today -- now fixed
       <hr/>
       
-      - *Motif Foodworks, the Ginkgo Bioworks spinout focused on developing new plant-based flavorings and food ingredients, is readying commercial scale production of its first product an ingredient to improve the flavor of beef substitutes. The expansion of Motif’s …*
+      - *Twitter users around the world have reported some short partial outages today, with the platform not displaying certain tweets or not able to retrieve any at all. TC’s own geographically distributed staff reported issues with accessing tweets in Europe, India…*
       
-  - Cisco acquires PortShift to raise its game in DevOps and Kubernetes security
+  - News apps in the US and China use algorithms to drive engagement, discovery
       <hr/>
       
-      - *Cisco is making another acquisition to expand its reach in security solutions, this time specifically targeting DevOps and the world of container management. It is acquiring PortShift, an Israeli startup that has built a Kubernetes-native security platform. T…*
+      - *Algorithms are reshaping many parts of our lives, including how news gets to us. Around the world, entrepreneurs make use of algorithms to program their ideal news apps, and while they normally agree on universal objectives like fighting fake news, their view…*
        
-  - Altinity grabs $4M seed to build cloud version of ClickHouse open source data warehouse
+  - SAP continues to build out customer experience business with Emarsys acquisition
       <hr/>
        
-       - *Earlier this month, cloud data warehouse Snowflake turned heads when it debuted on the stock market. Today, Altinity, the commercial company behind the open source ClickHouse data warehouse announced a $4 million seed round from Accel along with a new cloud s…*
+       - *SAP seemed to be all in on customer experience when it acquired Qualtrics for $8 billion in 2018. It continued on that journey today when it announced it was acquiring Austrian cloud marketing company Emarsys for an undisclosed amount of money. Emarsys, which…*
       
 
 
