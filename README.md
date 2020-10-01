@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+A computer shall not waste your time or require you to do more work than is strictly necessary.
 
-~ John von Neumann
+~ Jef Raskin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any one who considers arithmetical methods of producing random digits is, of cou
 
 </pre>
 **Daily News**
-  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
+  - Imperva to acquire database security startup jSonar
      <hr/>
      
-      - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
+      - *Cybersecurity giant Imperva will acquire jSonar, a database security startup that recently landed $50 million from Goldman Sachs. Financial terms of the deal weren’t disclosed. The acquisition of jSonar, which provides security and compliance to databases on-…*
      
+  - Combining machine learning tools for medical imaging with genetic sequencing nets Sophia Genetics $110M
+      <hr/>
+      
+      - *SOPHiA GENETICS, the shoutily and poorly capitalized named startup that’s combining machine learning tools for medical imaging and genetic sequencing to come up with a more holistic view of diseases for better patient care, has raised $110 million in new fund…*
+      
+  - Jüsto adds another $5 million in funding to build its online, delivery-only grocery store for Latin America
+      <hr/>
+      
+      - *As it begins expanding beyond its home base in Mexico City, the on-demand, online only grocery store Jüsto has  added another $5 million in early stage funding. The new money came from Bimbo Ventures, the strategic investment arm of one of the world’s largest…*
+      
   - Google to pay out $1B to publishers to license content for new Google News Showcase
       <hr/>
       
       - *Google has long had a frenemy position with the world of news: it can direct a lot of traffic to online publishers, but that’s only if people bother to click on links after getting the gist of the story from Google itself  (and that’s before considering the A…*
-      
+       
   - Cazoo, the UK used car sales portal, raises another $311M, now valued at over $2B
       <hr/>
-      
-      - *A lot of people are opting to use cars instead of taking public transportation in the UK at the moment, as a way of ensuring more social distancing, and today one of the startups that’s built a more efficient way of selling and buying cars is announcing a big…*
-      
-  - France's Sendinblue, an all-in-one digital marketing platform, raises $160M
-      <hr/>
-      
-      - *As more companies and brands put the internet at the core of how they run their businesses these days, it’s giving a strong push to the growth of startups that are building tools to help them. In the latest development, Sendinblue, an eight-year-old French st…*
        
-  - eFounders unveils its next batch of enterprise SaaS startups
-      <hr/>
-       
-       - *Since 2011, European startup studio eFounders has launched 27 companies with a focus on software-as-a-service companies trying to improve the way we work. Some of them have been quite successful, such as Front and Aircall. And the company is working on its ne…*
+       - *A lot of people are opting to use cars instead of taking public transportation in the UK at the moment, as a way of ensuring more social distancing, and today one of the startups that’s built a more efficient way of selling and buying cars is announcing a big…*
       
 
 
