@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ Donald Knuth
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ People think that computer science is the art of geniuses but the actual reality
 
 </pre>
 **Daily News**
-  - Last chance to demo at TC Sessions: Mobility 2020: Sales end tomorrow
+  - Facebook won't accept ads that 'delegitimize' U.S. election results
      <hr/>
      
-      - *Opportunity alert! We’re just five short days away from TC Sessions: Mobility 2020, a two-day event focused on building the future of transportation. Thousands of attendees from around the world will be looking for the latest technologies and up-and-coming st…*
+      - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
      
+  - Last chance to demo at TC Sessions: Mobility 2020: Sales end tomorrow
+      <hr/>
+      
+      - *Opportunity alert! We’re just five short days away from TC Sessions: Mobility 2020, a two-day event focused on building the future of transportation. Thousands of attendees from around the world will be looking for the latest technologies and up-and-coming st…*
+      
   - Working for social justice isn't a 'distraction' for mission-focused companies
       <hr/>
       
@@ -81,16 +86,11 @@ People think that computer science is the art of geniuses but the actual reality
       <hr/>
       
       - *Google today announced a few updates to Live View, the augmented reality walking directions in its Google Maps app that officially launched last year. Live View uses your phone’s camera and GPS to tell you exactly where to go, making it a nice addition to the…*
-      
+       
   - Bullpen Capital raises $130 million more to fund the far afield and misunderstood
       <hr/>
-      
-      - *Bullpen Capital, a now 10-year-old, venture fund in Menlo Park that focuses on what it calls post-seed investing — it backs startups that have already raised up to $5 million and “aren’t quite ready for a $10 million check but another $5 million would make th…*
        
-  - Ethel's Club founder is launching Somewhere Good, a social platform that centers people of color
-      <hr/>
-       
-       - *Naj Austin, founder and CEO of subscription-based physical and digital community Ethel’s Club, is building Somewhere Good to be a one-stop shop for people of color. Beyond being a place for people of color to connect, it’s also about creating a safe space for…*
+       - *Bullpen Capital, a now 10-year-old, venture fund in Menlo Park that focuses on what it calls post-seed investing — it backs startups that have already raised up to $5 million and “aren’t quite ready for a $10 million check but another $5 million would make th…*
       
 
 
