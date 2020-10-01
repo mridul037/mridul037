@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Fred Brooks
+~ James Gleick
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The management question, therefore, is not whether to build a pilot system and t
 
 </pre>
 **Daily News**
-  - Oracle's TikTok and Zoom deals won't move cloud market share needle significantly
+  - Section 230 will be on the chopping block at the next big tech hearing
      <hr/>
      
-      - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
+      - *It looks like we’re in for another big tech CEO hearing. The Senate Commerce Committee voted Thursday to move forward with subpoenas for Twitter’s Jack Dorsey, Facebook’s Mark Zuckerberg and Sundar Pichai, the CEO of Alphabet. The unusual decision to subpoena…*
      
+  - What if the kernel is corrupt?
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s VC-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, Alex is on a much deserved vacation (but not from Twitter, it seems) so Danny Crichton and I chatted through the …*
+      
+  - Oracle's TikTok and Zoom deals won't move cloud market share needle significantly
+      <hr/>
+      
+      - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
+      
   - Latin America's digital transformation is making up for lost time
       <hr/>
       
       - *If we look beyond the data at the bigger picture instead of searching for mythical creatures, the promise of digitalization in Latin America is clear.*
-      
+       
   - Facebook won't accept ads that 'delegitimize' U.S. election results
       <hr/>
-      
-      - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
-      
-  - Last chance to demo at TC Sessions: Mobility 2020: Sales end tomorrow
-      <hr/>
-      
-      - *Opportunity alert! We’re just five short days away from TC Sessions: Mobility 2020, a two-day event focused on building the future of transportation. Thousands of attendees from around the world will be looking for the latest technologies and up-and-coming st…*
        
-  - Working for social justice isn't a 'distraction' for mission-focused companies
-      <hr/>
-       
-       - *People do their best work and form championship teams when they feel good about supporting their teammates and colleagues, not when they remain silent on their behalf.*
+       - *Following a particularly dark and vivid display of the threats to the 2020 U.S. election during Tuesday’s first presidential debate, Facebook has further clarified its new rules around election-related ads. Facebook is now expanding its political advertising …*
       
 
 
