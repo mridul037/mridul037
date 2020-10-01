@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only sin is to make a choice without knowing you are making one.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Jonathan Shewchuk
+~ Robert C. Martin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The only sin is to make a choice without knowing you are making one.
 
 </pre>
 **Daily News**
-  - Google now has three mid-range Pixel phones
+  - Ethel's Club founder is launching Somewhere Good, a social platform that centers people of color
      <hr/>
      
-      - *The Pixel has always been a mixed bag. The first-generation product was announced roughly this time four years ago, with Google finally offering a full-throated entry into the smartphone space after years of device partnerships. Of course, by 2016, the market…*
+      - *Naj Austin, founder and CEO of subscription-based physical and digital community Ethel’s Club, is building Somewhere Good to be a one-stop shop for people of color. Beyond being a place for people of color to connect, it’s also about creating a safe space for…*
      
-  - Microsoft enhances customer data platform as pandemic drives need for personalization
+  - IonQ claims it has built the most powerful quantum computer yet
       <hr/>
       
-      - *When Microsoft introduced its customer data platform last February the focus was on simply connecting silos of data to help customers get the data into the system, but as the pandemic has taken hold this year, customers need deeper insight into their customer…*
+      - *Trapped-ion quantum computing startup IonQ today announced the launch of its latest quantum computer, which features what IonQ calls “32 perfect qubits with low gate errors.” Using IBM’s preferred quantum benchmark, IonQ expects to hit a quantum volume of 4,0…*
       
-  - Twitter confirms some service flakiness today -- now fixed
+  - Teenage Engineering's OB-4 'magic radio' is a weird and beautiful wireless speaker
       <hr/>
       
-      - *Twitter users around the world have reported some short partial outages today, with the platform not displaying certain tweets or not able to retrieve any at all. TC’s own geographically distributed staff reported issues with accessing tweets in Europe, India…*
+      - *I’ve found a new object of desire which, once acquired, I would probably never use. It’s this OB-4 “magic radio” from Teenage Engineering, a design group that creates tech with a playful but premium approach. This wireless speaker not only looks lovely but ha…*
       
-  - News apps in the US and China use algorithms to drive engagement, discovery
+  - Facebook Groups to gain suite of new tools for managing discussions, surfacing public content
       <hr/>
       
-      - *Algorithms are reshaping many parts of our lives, including how news gets to us. Around the world, entrepreneurs make use of algorithms to program their ideal news apps, and while they normally agree on universal objectives like fighting fake news, their view…*
+      - *Facebook is introducing a suite of new features for Facebook Groups, the private social networking product now used by over 1.8 billion people every month. At the company’s digitally hosted Facebook Communities Summit today, Facebook detailed a set of upcomin…*
        
-  - SAP continues to build out customer experience business with Emarsys acquisition
+  - Ro makes the weight loss product Plenity commercially available to everyone in the U.S.
       <hr/>
        
-       - *SAP seemed to be all in on customer experience when it acquired Qualtrics for $8 billion in 2018. It continued on that journey today when it announced it was acquiring Austrian cloud marketing company Emarsys for an undisclosed amount of money. Emarsys, which…*
+       - *In what could be the first step in the development of a significant new line of business for the telemedicine prescription provider Ro, the company is finally announcing the general commercial availability of weight loss product, Plenity. Developed by Gelesis…*
       
 
 
