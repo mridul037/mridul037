@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+It's not so important what you work on, so long as you're not wasting your time.
 
-~ Charles Simonyi
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
