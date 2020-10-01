@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We could, for instance, begin with cleaning up our language by no longer calling a bug a bug but by calling it an error. It is much more honest because it squarely puts the blame where it belongs, viz. with the programmer who made the error. The animistic metaphor of the bug that maliciously sneaked in while the programmer was not looking is intellectually dishonest as it disguises that the error is the programmer's own creation. The nice thing of this simple change of vocabulary is that it has such a profound effect: while, before, a program with only one bug used to be "almost correct", afterwards a program with an error is just "wrong".
+Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 
-~ Edsger W. Dijkstra
+~ Jim Horning
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We could, for instance, begin with cleaning up our language by no longer calling
 
 </pre>
 **Daily News**
-  - There’s a way to pick the absolute best images for your content: Apply AI
+  - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
      <hr/>
      
-      - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
+      - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
      
+  - Digital vote-by-mail applications in most states are inaccessible to people with disabilities
+      <hr/>
+      
+      - *The 2020 election is without a doubt going to be the biggest one in history for voting by mail, but people with disabilities may find it rather difficult to apply for their ballot, since according to an audit by Deque, most states don’t actually have an acces…*
+      
+  - Daily Crunch: Google commits $1B to pay publishers
+      <hr/>
+      
+      - *Google is paying a lot of money for its news licensing program, Microsoft announces an affordable laptop and Facebook says it won’t accept ads casting doubts on the election. This is your Daily Crunch for October 1, 2020. The big story: Google commits $1B to …*
+      
+  - There’s a way to pick the absolute best images for your content: Apply AI
+      <hr/>
+      
+      - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
+       
   - Facebook sues two companies engaged in data scraping operations
       <hr/>
-      
-      - *Facebook today says it has filed a lawsuit in the U.S. against two companies that had engaged in an international “data scraping” operation. The operation extended across Facebook properties, including both Facebook and Instagram, as well as other large websi…*
-      
-  - Section 230 will be on the chopping block at the next big tech hearing
-      <hr/>
-      
-      - *It looks like we’re in for another big tech CEO hearing. The Senate Commerce Committee voted Thursday to move forward with subpoenas for Twitter’s Jack Dorsey, Facebook’s Mark Zuckerberg and Sundar Pichai, the CEO of Alphabet. The unusual decision to subpoena…*
-      
-  - What if the kernel is corrupt?
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s VC-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week, Alex is on a much deserved vacation (but not from Twitter, it seems) so Danny Crichton and I chatted through the …*
        
-  - Oracle's TikTok and Zoom deals won't move cloud market share needle significantly
-      <hr/>
-       
-       - *While the overall cloud infrastructure market is booming having reached $30 billion last quarter worldwide, Oracle is struggling with market share in the low single digits. It is hoping that the Zoom and TikTok deals can jump start those numbers, but trying t…*
+       - *Facebook today says it has filed a lawsuit in the U.S. against two companies that had engaged in an international “data scraping” operation. The operation extended across Facebook properties, including both Facebook and Instagram, as well as other large websi…*
       
 
 
