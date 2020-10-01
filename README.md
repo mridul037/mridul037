@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's not so important what you work on, so long as you're not wasting your time.
+A computer shall not waste your time or require you to do more work than is strictly necessary.
 
-~ Paul Graham (programmer)
+~ Jef Raskin
 <pre>
 
 </pre>
