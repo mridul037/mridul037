@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+Compatibility means deliberately repeating other people’s mistakes.
 
-~ Tim Berners-Lee
+~ David Wheeler (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ What's very important from my point of view is that there is one web. Anyone tha
 
 </pre>
 **Daily News**
-  - Singapore's GIC to invest $752 million in Reliance Retail
+  - Google wakes up from its VR daydream
      <hr/>
      
-      - *GIC, Singapore’s sovereign wealth fund, will invest $752 million in Mukesh Ambani’s Reliance Retail, the Indian firm said Saturday midnight. The Government of Singapore Investment Corp is the fifth high-profile investor to back Reliance Retail, India’s larges…*
+      - *Daydream, Google’s mobile-focused virtual reality platform is losing official support from Google, Android Police reports. The company confirmed that it will no longer be updating the Daydream software, with the publication noting that “Daydream may not even …*
      
-  - Which neobanks will rise or fall?
+  - A security flaw in Grindr let anyone easily hijack user accounts
       <hr/>
       
-      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
+      - *Secret tokens used to reset account passwords were leaking to the browser.*
       
-  - Plaid improves its account linking flow
+  - Uber sells $500M stake in its freight business as the ride-hailing giant works to conserve cash
       <hr/>
       
-      - *Plaid, the company building a universal banking API that lets you connect an app or service with a bank account, has updated Plaid Link. Plaid Link is the interface that you see when you add your bank account to any app or service that uses Plaid, such as Cas…*
+      - *One year ago, Uber’s business model could be categorized as an “all of the above approach,” a strategy to generate revenue from all forms of transportation, including ride-hailing, micromobility, logistics, and package and food delivery. The COVID-19 pandemic…*
       
-  - Writer pens a $5M seed round for its AI style guide that flags bias and tone
+  - Human Capital: Coinbase and Clubhouse aside, Ethel’s Club founder wants to take us 'Somewhere Good'
       <hr/>
       
-      - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
+      - *Welcome back to Human Capital, a weekly digest about diversity, inclusion and the human labor that powers tech. This week, we’re looking at a number of topics because a lot went down. Coinbase CEO Brian Armstrong took a controversial stance on social, Clubhou…*
        
-  - Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper
+  - Singapore's GIC to invest $752 million in Reliance Retail
       <hr/>
        
-       - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
+       - *GIC, Singapore’s sovereign wealth fund, will invest $752 million in Mukesh Ambani’s Reliance Retail, the Indian firm said Saturday midnight. The Government of Singapore Investment Corp is the fifth high-profile investor to back Reliance Retail, India’s larges…*
       
 
 
