@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Compatibility means deliberately repeating other people’s mistakes.
+Talk is cheap. Show me the code.
 
-~ David Wheeler (computer scientist)
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Compatibility means deliberately repeating other people’s mistakes.
 
 </pre>
 **Daily News**
-  - Google wakes up from its VR daydream
+  - Twitter is building 'Birdwatch,' a system to fight misinformation by adding more context to tweets
      <hr/>
      
-      - *Daydream, Google’s mobile-focused virtual reality platform is losing official support from Google, Android Police reports. The company confirmed that it will no longer be updating the Daydream software, with the publication noting that “Daydream may not even …*
+      - *Twitter is developing a new product called “Birdwatch,” which the company confirms is an attempt at addressing misinformation across its platform by providing more context for tweets, in the form of notes. Tweets can be added to “Birdwatch” — meaning flagged …*
      
+  - Google wakes up from its VR daydream
+      <hr/>
+      
+      - *Daydream, Google’s mobile-focused virtual reality platform is losing official support from Google, Android Police reports. The company confirmed that it will no longer be updating the Daydream software, with the publication noting that “Daydream may not even …*
+      
   - A security flaw in Grindr let anyone easily hijack user accounts
       <hr/>
       
@@ -81,16 +86,11 @@ Compatibility means deliberately repeating other people’s mistakes.
       <hr/>
       
       - *One year ago, Uber’s business model could be categorized as an “all of the above approach,” a strategy to generate revenue from all forms of transportation, including ride-hailing, micromobility, logistics, and package and food delivery. The COVID-19 pandemic…*
-      
+       
   - Human Capital: Coinbase and Clubhouse aside, Ethel’s Club founder wants to take us 'Somewhere Good'
       <hr/>
-      
-      - *Welcome back to Human Capital, a weekly digest about diversity, inclusion and the human labor that powers tech. This week, we’re looking at a number of topics because a lot went down. Coinbase CEO Brian Armstrong took a controversial stance on social, Clubhou…*
        
-  - Singapore's GIC to invest $752 million in Reliance Retail
-      <hr/>
-       
-       - *GIC, Singapore’s sovereign wealth fund, will invest $752 million in Mukesh Ambani’s Reliance Retail, the Indian firm said Saturday midnight. The Government of Singapore Investment Corp is the fifth high-profile investor to back Reliance Retail, India’s larges…*
+       - *Welcome back to Human Capital, a weekly digest about diversity, inclusion and the human labor that powers tech. This week, we’re looking at a number of topics because a lot went down. Coinbase CEO Brian Armstrong took a controversial stance on social, Clubhou…*
       
 
 
