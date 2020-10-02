@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The Domain Name Server (DNS) is the Achilles heel of the Web.
+No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 
-~ Tim Berners-Lee
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The Domain Name Server (DNS) is the Achilles heel of the Web.
 
 </pre>
 **Daily News**
-  - Nintendo’s new RC Mario Kart looks terrific
+  - Paired picks up $1M funding and launches its relationship app for couples
      <hr/>
      
-      - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
+      - *Paired, a new app for couples, is launching today and disclosing $1 million in funding. Backing the startup, which wants to support “happier and healthier” relationships, is Taavet Hinrikus of TransferWise, the co-founders of Runtastic (which was sold to Adid…*
      
+  - Blossom Capital appoints Carmen Alfonso Rico as its newest partner
+      <hr/>
+      
+      - *Blossom Capital, the early-stage venture capital firm founded by Ophelia Brown, has recruited its latest partner: Carmen Alfonso Rico has joined from Samaipata VC, where she led the U.K. office. Before that she was at Felix Capital and is also a co-founder of…*
+      
+  - Nintendo’s new RC Mario Kart looks terrific
+      <hr/>
+      
+      - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
+      
   - A PC gaming site had to ban political troll mods for games, because nowhere is safe
       <hr/>
       
       - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
-      
+       
   - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
       <hr/>
-      
-      - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
-      
-  - Digital vote-by-mail applications in most states are inaccessible to people with disabilities
-      <hr/>
-      
-      - *The 2020 election is without a doubt going to be the biggest one in history for voting by mail, but people with disabilities may find it rather difficult to apply for their ballot, since according to an audit by Deque, most states don’t actually have an acces…*
        
-  - Daily Crunch: Google commits $1B to pay publishers
-      <hr/>
-       
-       - *Google is paying a lot of money for its news licensing program, Microsoft announces an affordable laptop and Facebook says it won’t accept ads casting doubts on the election. This is your Daily Crunch for October 1, 2020. The big story: Google commits $1B to …*
+       - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
       
 
 
