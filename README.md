@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Daniel T. Barry
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A team of highly competent programmers who are also highly territorial, egotisti
 
 </pre>
 **Daily News**
-  - Which neobanks will rise or fall?
+  - Singapore's GIC to invest $752 million in Reliance Retail
      <hr/>
      
-      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
+      - *GIC, Singapore’s sovereign wealth fund, will invest $752 million in Mukesh Ambani’s Reliance Retail, the Indian firm said Saturday midnight. The Government of Singapore Investment Corp is the fifth high-profile investor to back Reliance Retail, India’s larges…*
      
+  - Which neobanks will rise or fall?
+      <hr/>
+      
+      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
+      
   - Plaid improves its account linking flow
       <hr/>
       
@@ -81,16 +86,11 @@ A team of highly competent programmers who are also highly territorial, egotisti
       <hr/>
       
       - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
-      
+       
   - Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper
       <hr/>
-      
-      - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
        
-  - Coinbase lets you withdraw funds to your debit card
-      <hr/>
-       
-       - *Cryptocurrency exchange Coinbase is adding a new way to withdraw funds from your Coinbase account. If you’ve added a compatible debit card to your account, you can transfer USD, EUR or GBP to your bank account nearly instantly. There are some drawbacks, and t…*
+       - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
       
 
 
