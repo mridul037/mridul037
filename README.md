@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+Codes are a puzzle. A game, just like any other game.
 
-~ Edsger W. Dijkstra
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The purpose of abstraction is not to be vague, but to create a new semantic leve
 
 </pre>
 **Daily News**
-  - Elon Musk says an update for its Starship spacecraft development program is coming in 3 weeks
+  - Tesla delivers 139,300 vehicles in Q3, beating expectations
      <hr/>
      
-      - *SpaceX will provide an update about what’s happening with their Starship spacecraft in roughly three weeks, according to CEO and founder Elon Musk. Starship is a next-generation, fully reusable spacecraft that the company is developing with the aim of replaci…*
+      - *Tesla delivered 139,300 vehicles in the third quarter, slightly above Wall Street’s expectations and a notable improvement from last quarter as well as the same period a year ago. Tesla’s numbers in the third quarter marked a 43% improvement from the same per…*
      
+  - Asana's strong direct listing lights alternative path to public market for SaaS startups
+      <hr/>
+      
+      - *This week’s pair of direct listings from Asana and Palantir were historic moments for each firm, but they also served as public business experiments. For Palantir, the event tested how far corporate governance could be twisted while leaving an underlying rema…*
+      
+  - Elon Musk says an update for its Starship spacecraft development program is coming in 3 weeks
+      <hr/>
+      
+      - *SpaceX will provide an update about what’s happening with their Starship spacecraft in roughly three weeks, according to CEO and founder Elon Musk. Starship is a next-generation, fully reusable spacecraft that the company is developing with the aim of replaci…*
+      
   - Air quality monitoring service Airly raises $2 million as fires, pollution force consumers to take note
       <hr/>
       
       - *As smoke from fires chokes the skies Western U.S. and pollution chokes much of the world, air quality has become yet another issue for civilization to address. Industrialization and natural disasters wrought by climate change are spewing more toxic matter int…*
-      
+       
   - Indianapolis-based Malomo raises $2.8 million to turn order tracking into a branded customer experience
       <hr/>
-      
-      - *Yaw Aning, named Malomo, the service he launched for small businesses to turn their order-tracking services into branded customer experiences, as a tribute to his mother, who was a small business owner herself. “Malomo” means flowers in Swahili and it was the…*
-      
-  - Zynga completes its acquisition of hyper-casual game maker Rollic
-      <hr/>
-      
-      - *Zynga announced in August that it would be acquiring Istanbul-based Rollic, developer and publisher of hyper-casual gaming hits like Go Knots 3D and Tangle Master 3D. Today, it says the deal has closed. To be clear, Zynga doesn’t completely own Rollic yet. In…*
        
-  - American stocks drop in wake of President's COVID-19 diagnosis
-      <hr/>
-       
-       - *American stocks are selling in the wake of President Trump, and members of his family and a key staff member, testing positive for COVID-19. The news, which came overnight, is weighing heavily on all major American indices, but heaviest on tech shares. As of …*
+       - *Yaw Aning, named Malomo, the service he launched for small businesses to turn their order-tracking services into branded customer experiences, as a tribute to his mother, who was a small business owner herself. “Malomo” means flowers in Swahili and it was the…*
       
 
 
