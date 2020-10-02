@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 
-~ Fred Brooks
+~ David Parnas
 <pre>
 
 </pre>
