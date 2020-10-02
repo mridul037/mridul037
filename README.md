@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Gary Kildall
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I don't comment on the code itself because I feel that properly written code is 
 
 </pre>
 **Daily News**
-  - A PC gaming site had to ban political troll mods for games, because nowhere is safe
+  - Nintendo’s new RC Mario Kart looks terrific
      <hr/>
      
-      - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
+      - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
      
+  - A PC gaming site had to ban political troll mods for games, because nowhere is safe
+      <hr/>
+      
+      - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
+      
   - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
       <hr/>
       
@@ -81,16 +86,11 @@ I don't comment on the code itself because I feel that properly written code is 
       <hr/>
       
       - *The 2020 election is without a doubt going to be the biggest one in history for voting by mail, but people with disabilities may find it rather difficult to apply for their ballot, since according to an audit by Deque, most states don’t actually have an acces…*
-      
+       
   - Daily Crunch: Google commits $1B to pay publishers
       <hr/>
-      
-      - *Google is paying a lot of money for its news licensing program, Microsoft announces an affordable laptop and Facebook says it won’t accept ads casting doubts on the election. This is your Daily Crunch for October 1, 2020. The big story: Google commits $1B to …*
        
-  - There’s a way to pick the absolute best images for your content: Apply AI
-      <hr/>
-       
-       - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
+       - *Google is paying a lot of money for its news licensing program, Microsoft announces an affordable laptop and Facebook says it won’t accept ads casting doubts on the election. This is your Daily Crunch for October 1, 2020. The big story: Google commits $1B to …*
       
 
 
