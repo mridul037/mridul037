@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+The Domain Name Server (DNS) is the Achilles heel of the Web.
 
-~ Fred Brooks
+~ Tim Berners-Lee
 <pre>
 
 </pre>
