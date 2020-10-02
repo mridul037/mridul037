@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Jim Horning
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Hardware is the part you can replace. Software is the part you have to keep, bec
 
 </pre>
 **Daily News**
-  - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
+  - A PC gaming site had to ban political troll mods for games, because nowhere is safe
      <hr/>
      
-      - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
+      - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
      
+  - Spain's startup ecosystem: 9 investors on remote work, green shoots and 2020 trends
+      <hr/>
+      
+      - *As reported in the first half of our Spain-focused VC survey, the nation’s startup ecosystem continues to grow and is keeping pace with ecosystems in more developed European countries such as U.K., France, Sweden and Germany. While main hubs Madrid and Barcel…*
+      
   - Digital vote-by-mail applications in most states are inaccessible to people with disabilities
       <hr/>
       
@@ -81,16 +86,11 @@ Hardware is the part you can replace. Software is the part you have to keep, bec
       <hr/>
       
       - *Google is paying a lot of money for its news licensing program, Microsoft announces an affordable laptop and Facebook says it won’t accept ads casting doubts on the election. This is your Daily Crunch for October 1, 2020. The big story: Google commits $1B to …*
-      
+       
   - There’s a way to pick the absolute best images for your content: Apply AI
       <hr/>
-      
-      - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
        
-  - Facebook sues two companies engaged in data scraping operations
-      <hr/>
-       
-       - *Facebook today says it has filed a lawsuit in the U.S. against two companies that had engaged in an international “data scraping” operation. The operation extended across Facebook properties, including both Facebook and Instagram, as well as other large websi…*
+       - *Is there a data-driven — or even better, an AI-driven — process for gaining deeper insight into which images are more likely to engage users?*
       
 
 
