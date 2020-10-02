@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Gottfried Wilhelm Leibniz
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
