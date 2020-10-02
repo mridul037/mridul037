@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 
-~ Tim Berners-Lee
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very
 
 </pre>
 **Daily News**
-  - Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper
+  - Which neobanks will rise or fall?
      <hr/>
      
-      - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
+      - *Neobanks have created a new tech stack, completely changing the services, products and speed at which they are delivered, and creating more fluidity in payments and currencies.*
      
+  - Plaid improves its account linking flow
+      <hr/>
+      
+      - *Plaid, the company building a universal banking API that lets you connect an app or service with a bank account, has updated Plaid Link. Plaid Link is the interface that you see when you add your bank account to any app or service that uses Plaid, such as Cas…*
+      
+  - Writer pens a $5M seed round for its AI style guide that flags bias and tone
+      <hr/>
+      
+      - *Anyone who writes online or in a word processor has likely gotten used to the inevitable squiggly line denoting a misspelled word or clumsy phrase. But what if you use a word that’s loaded, a phrase that’s too formal or not formal enough, or refer to a group …*
+      
+  - Propy, a blockchain-verified platform for selling houses, raises funding from Tim Draper
+      <hr/>
+      
+      - *For several years, blockchain technology has been touted as a way to verify the sale of property. Any kind of property. And so entrepreneurs busily began the process of trying to create a startup that could complete a property deal on the blockchain. One that…*
+       
   - Coinbase lets you withdraw funds to your debit card
       <hr/>
-      
-      - *Cryptocurrency exchange Coinbase is adding a new way to withdraw funds from your Coinbase account. If you’ve added a compatible debit card to your account, you can transfer USD, EUR or GBP to your bank account nearly instantly. There are some drawbacks, and t…*
-      
-  - Kaleido's Unscreen is dead simple drag-and-drop background removal for video
-      <hr/>
-      
-      - *Removing the background of a video you’ve shot can be a real pain if you don’t have the kind of tools and setup used by professionals — and even then it isn’t as easy as it should be. Kaleido’s one-step background removal tool for images, remove.bg, has gradu…*
-      
-  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
-      <hr/>
-      
-      - *SpaceX is set to launch a GPS-III satellite for the U.S. Space Force using a Falcon 9 rocket, with a target launch time of 9:43 PM EDT (6:43 PM PDT). That opens a 15-minute launch window, and so far weather is looking relatively good, which will hopefully hel…*
        
-  - With $2.7M in fresh funding, Sora hopes to bring virtual high school to the mainstream
-      <hr/>
-       
-       - *Long before the coronavirus, Sora, a startup run by a team of Atlanta entrepreneurs, was toying with the idea of live, virtual high school. The program would focus on student autonomy and organize its curriculum around projects that learners wanted to work on…*
+       - *Cryptocurrency exchange Coinbase is adding a new way to withdraw funds from your Coinbase account. If you’ve added a compatible debit card to your account, you can transfer USD, EUR or GBP to your bank account nearly instantly. There are some drawbacks, and t…*
       
 
 
