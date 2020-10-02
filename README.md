@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No code is faster than no code.
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 
-~ Kevlin Henney
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ No code is faster than no code.
 
 </pre>
 **Daily News**
-  - American stocks drop in wake of President's COVID-19 diagnosis
+  - Elon Musk says an update for its Starship spacecraft development program is coming in 3 weeks
      <hr/>
      
-      - *American stocks are selling in the wake of President Trump, and members of his family and a key staff member, testing positive for COVID-19. The news, which came overnight, is weighing heavily on all major American indices, but heaviest on tech shares. As of …*
+      - *SpaceX will provide an update about what’s happening with their Starship spacecraft in roughly three weeks, according to CEO and founder Elon Musk. Starship is a next-generation, fully reusable spacecraft that the company is developing with the aim of replaci…*
      
-  - Twitter may let users choose how to crop image previews after bias scrutiny
+  - Air quality monitoring service Airly raises $2 million as fires, pollution force consumers to take note
       <hr/>
       
-      - *In an interesting development in the wake of a bias controversy over its cropping algorithm Twitter has said it’s considering giving users decision making power over how tweet previews look, saying it wants to decrease its reliance on machine learning-based i…*
+      - *As smoke from fires chokes the skies Western U.S. and pollution chokes much of the world, air quality has become yet another issue for civilization to address. Industrialization and natural disasters wrought by climate change are spewing more toxic matter int…*
       
-  - Paired picks up $1M funding and launches its relationship app for couples
+  - Indianapolis-based Malomo raises $2.8 million to turn order tracking into a branded customer experience
       <hr/>
       
-      - *Paired, a new app for couples, is launching today and disclosing $1 million in funding. Backing the startup, which wants to support “happier and healthier” relationships, is Taavet Hinrikus of TransferWise, the co-founders of Runtastic (which was sold to Adid…*
+      - *Yaw Aning, named Malomo, the service he launched for small businesses to turn their order-tracking services into branded customer experiences, as a tribute to his mother, who was a small business owner herself. “Malomo” means flowers in Swahili and it was the…*
       
-  - Blossom Capital appoints Carmen Alfonso Rico as its newest partner
+  - Zynga completes its acquisition of hyper-casual game maker Rollic
       <hr/>
       
-      - *Blossom Capital, the early-stage venture capital firm founded by Ophelia Brown, has recruited its latest partner: Carmen Alfonso Rico has joined from Samaipata VC, where she led the U.K. office. Before that she was at Felix Capital and is also a co-founder of…*
+      - *Zynga announced in August that it would be acquiring Istanbul-based Rollic, developer and publisher of hyper-casual gaming hits like Go Knots 3D and Tangle Master 3D. Today, it says the deal has closed. To be clear, Zynga doesn’t completely own Rollic yet. In…*
        
-  - Nintendo’s new RC Mario Kart looks terrific
+  - American stocks drop in wake of President's COVID-19 diagnosis
       <hr/>
        
-       - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
+       - *American stocks are selling in the wake of President Trump, and members of his family and a key staff member, testing positive for COVID-19. The news, which came overnight, is weighing heavily on all major American indices, but heaviest on tech shares. As of …*
       
 
 
