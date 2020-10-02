@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+Programs must be written for people to read, and only incidentally for machines to execute.
 
-~ Linus Torvalds
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Talk is cheap. Show me the code.
 
 </pre>
 **Daily News**
-  - Twitter is building 'Birdwatch,' a system to fight misinformation by adding more context to tweets
+  - 2 Kindred Capital partners discuss the firm's focus and equitable venture model
      <hr/>
      
-      - *Twitter is developing a new product called “Birdwatch,” which the company confirms is an attempt at addressing misinformation across its platform by providing more context for tweets, in the form of notes. Tweets can be added to “Birdwatch” — meaning flagged …*
+      - *Kindred Capital, the London-based VC that backs early-stage founders in Europe and Israel, recently closed its second seed fund at £81 million. Out if its first fund raised in 2018, the firm has backed 29 companies. They include Five, which is building softwa…*
      
+  - Daily Crunch: Twitter confronts image-cropping concerns
+      <hr/>
+      
+      - *Twitter addresses questions of bias in its image-cropping algorithms, we take a look at Mario Kart Live and the stock market takes a hit after President Trump’s COVID-19 diagnosis. This is your Daily Crunch for October 2, 2020. The big story: Twitter confront…*
+      
+  - Index Ventures’ Nina Achadjian and Sarah Cannon: 'There's basically an infinite bid' for growth-stage startups
+      <hr/>
+      
+      - *The venture world is swimming in capital these days, and the flood doesn’t appear to be abating. That’s changing the game for venture capitalists and their firms, which transformed from solo practitioners focused on one stage and a single geographical area to…*
+      
+  - Twitter is building 'Birdwatch,' a system to fight misinformation by adding more context to tweets
+      <hr/>
+      
+      - *Twitter is developing a new product called “Birdwatch,” which the company confirms is an attempt at addressing misinformation across its platform by providing more context for tweets, in the form of notes. Tweets can be added to “Birdwatch” — meaning flagged …*
+       
   - Google wakes up from its VR daydream
       <hr/>
-      
-      - *Daydream, Google’s mobile-focused virtual reality platform is losing official support from Google, Android Police reports. The company confirmed that it will no longer be updating the Daydream software, with the publication noting that “Daydream may not even …*
-      
-  - A security flaw in Grindr let anyone easily hijack user accounts
-      <hr/>
-      
-      - *Secret tokens used to reset account passwords were leaking to the browser.*
-      
-  - Uber sells $500M stake in its freight business as the ride-hailing giant works to conserve cash
-      <hr/>
-      
-      - *One year ago, Uber’s business model could be categorized as an “all of the above approach,” a strategy to generate revenue from all forms of transportation, including ride-hailing, micromobility, logistics, and package and food delivery. The COVID-19 pandemic…*
        
-  - Human Capital: Coinbase and Clubhouse aside, Ethel’s Club founder wants to take us 'Somewhere Good'
-      <hr/>
-       
-       - *Welcome back to Human Capital, a weekly digest about diversity, inclusion and the human labor that powers tech. This week, we’re looking at a number of topics because a lot went down. Coinbase CEO Brian Armstrong took a controversial stance on social, Clubhou…*
+       - *Daydream, Google’s mobile-focused virtual reality platform is losing official support from Google, Android Police reports. The company confirmed that it will no longer be updating the Daydream software, with the publication noting that “Daydream may not even …*
       
 
 
