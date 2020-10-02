@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A number of studies have shown testing not very effective at finding bugs.
+Premature abstraction is as bad as premature optimization.
 
-~ Daniel T. Barry
+~ Luciano Ramalho
 <pre>
 
 </pre>
