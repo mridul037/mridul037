@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+No code is faster than no code.
 
-~ Edsger W. Dijkstra
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If debugging is the process of removing software bugs, then programming must be 
 
 </pre>
 **Daily News**
-  - Twitter may let users choose how to crop image previews after bias scrutiny
+  - American stocks drop in wake of President's COVID-19 diagnosis
      <hr/>
      
-      - *In an interesting development in the wake of a bias controversy over its cropping algorithm Twitter has said it’s considering giving users decision making power over how tweet previews look, saying it wants to decrease its reliance on machine learning-based i…*
+      - *American stocks are selling in the wake of President Trump, and members of his family and a key staff member, testing positive for COVID-19. The news, which came overnight, is weighing heavily on all major American indices, but heaviest on tech shares. As of …*
      
+  - Twitter may let users choose how to crop image previews after bias scrutiny
+      <hr/>
+      
+      - *In an interesting development in the wake of a bias controversy over its cropping algorithm Twitter has said it’s considering giving users decision making power over how tweet previews look, saying it wants to decrease its reliance on machine learning-based i…*
+      
   - Paired picks up $1M funding and launches its relationship app for couples
       <hr/>
       
@@ -81,16 +86,11 @@ If debugging is the process of removing software bugs, then programming must be 
       <hr/>
       
       - *Blossom Capital, the early-stage venture capital firm founded by Ophelia Brown, has recruited its latest partner: Carmen Alfonso Rico has joined from Samaipata VC, where she led the U.K. office. Before that she was at Felix Capital and is also a co-founder of…*
-      
+       
   - Nintendo’s new RC Mario Kart looks terrific
       <hr/>
-      
-      - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
        
-  - A PC gaming site had to ban political troll mods for games, because nowhere is safe
-      <hr/>
-       
-       - *NexusMods, a large platform and gathering place for modding PC games, has banned all content relating to the U.S. elections following a flood of troll content, saying “we’ve decided to wipe our hands clean of this mess.” Not exactly headline news, no, but a r…*
+       - *In a year, Nintendo would have demoed, in person, Mario Kart Live: Home Circuit. The company would have invited select members of the press into some rented event space and let us experience the game first-hand, like it had with Labo and Ring Fit Adventures. …*
       
 
 
