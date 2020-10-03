@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 
-~ Ada Lovelace
+~ Maurice Wilkes
 <pre>
 
 </pre>
