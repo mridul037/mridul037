@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 
-~ Chris Sacca
+~ George Boole
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Simplicity is hard to build, easy to use, and hard to charge for. Complexity is 
 
 </pre>
 **Daily News**
-  - The next big tech hearing is scheduled for October 28
+  - Google research lets sign language switch 'active speaker' in video calls
      <hr/>
      
-      - *A day after the Senate Commerce Committee moved forward with plans to subpoena the CEOs of Twitter, Facebook and Google, it looks like some of the most powerful leaders in tech will testify willingly. Twitter announced late Friday that Jack Dorsey would appea…*
+      - *An aspect of video calls that many of us take for granted is the way they can switch between feeds to highlight whoever’s speaking. Great — if speaking is how you communicate. Silent speech like sign language doesn’t trigger those algorithms, unfortunately, b…*
      
+  - The next big tech hearing is scheduled for October 28
+      <hr/>
+      
+      - *A day after the Senate Commerce Committee moved forward with plans to subpoena the CEOs of Twitter, Facebook and Google, it looks like some of the most powerful leaders in tech will testify willingly. Twitter announced late Friday that Jack Dorsey would appea…*
+      
   - Twitter will make users remove tweets hoping Trump dies of COVID-19
       <hr/>
       
@@ -81,16 +86,11 @@ Simplicity is hard to build, easy to use, and hard to charge for. Complexity is 
       <hr/>
       
       - *Kindred Capital, the London-based VC that backs early-stage founders in Europe and Israel, recently closed its second seed fund at £81 million. Out if its first fund raised in 2018, the firm has backed 29 companies. They include Five, which is building softwa…*
-      
+       
   - Daily Crunch: Twitter confronts image-cropping concerns
       <hr/>
-      
-      - *Twitter addresses questions of bias in its image-cropping algorithms, we take a look at Mario Kart Live and the stock market takes a hit after President Trump’s COVID-19 diagnosis. This is your Daily Crunch for October 2, 2020. The big story: Twitter confront…*
        
-  - Index Ventures’ Nina Achadjian and Sarah Cannon: 'There's basically an infinite bid' for growth-stage startups
-      <hr/>
-       
-       - *The venture world is swimming in capital these days, and the flood doesn’t appear to be abating. That’s changing the game for venture capitalists and their firms, which transformed from solo practitioners focused on one stage and a single geographical area to…*
+       - *Twitter addresses questions of bias in its image-cropping algorithms, we take a look at Mario Kart Live and the stock market takes a hit after President Trump’s COVID-19 diagnosis. This is your Daily Crunch for October 2, 2020. The big story: Twitter confront…*
       
 
 
