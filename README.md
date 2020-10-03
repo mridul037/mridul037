@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ Danny Hillis
+~ Daniel T. Barry
 <pre>
 
 </pre>
