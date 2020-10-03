@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+There are few sources of energy so powerful as a procrastinating grad student.
 
-~ George Boole
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
