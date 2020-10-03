@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 
-~ Daniel T. Barry
+~ Jamie Zawinski
 <pre>
 
 </pre>
