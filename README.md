@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One accurate measurement is worth more than a thousand expert opinions.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Grace Hopper
+~ Donald Knuth
 <pre>
 
 </pre>
