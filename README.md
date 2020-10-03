@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 
-~ Daniel T. Barry
+~ Tim Berners-Lee
 <pre>
 
 </pre>
