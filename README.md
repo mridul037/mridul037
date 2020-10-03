@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ Daniel T. Barry
+~ George Carrette
 <pre>
 
 </pre>
