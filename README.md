@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Tim Berners-Lee
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
