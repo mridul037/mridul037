@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 
-~ Jamie Zawinski
+~ Fred Brooks
 <pre>
 
 </pre>
