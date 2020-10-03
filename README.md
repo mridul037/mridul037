@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 
-~ Sean Parent
+~ Martin Fowler
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
 
 </pre>
 **Daily News**
-  - Controversial former Uber exec Emil Michael has registered plans for a $250 million SPAC
+  - This Week in Apps: Google Play gets new rules, Apple launches app marketing tools, EU looks to reign in tech giants
      <hr/>
      
-      - *SPACs, or special purpose acquisition companies, are all the rage right now, and people are emerging from all corners to raise them. Among the latest entrants — and someone who might be of interest to Silicon Valley watchers — is Emil Michael, a former Uber e…*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - Controversial former Uber exec Emil Michael has registered plans for a $250 million SPAC
+      <hr/>
+      
+      - *SPACs, or special purpose acquisition companies, are all the rage right now, and people are emerging from all corners to raise them. Among the latest entrants — and someone who might be of interest to Silicon Valley watchers — is Emil Michael, a former Uber e…*
+      
   - Google research lets sign language switch 'active speaker' in video calls
       <hr/>
       
@@ -81,16 +86,11 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
       <hr/>
       
       - *A day after the Senate Commerce Committee moved forward with plans to subpoena the CEOs of Twitter, Facebook and Google, it looks like some of the most powerful leaders in tech will testify willingly. Twitter announced late Friday that Jack Dorsey would appea…*
-      
+       
   - Twitter will make users remove tweets hoping Trump dies of COVID-19
       <hr/>
-      
-      - *President Donald Trump’s positive COVID-19 result has made Twitter a busy place in the past 24 hours, including some tweets that have publicly wished — some subtly and others more directly — that he die from the disease caused by coronavirus. Twitter put out …*
        
-  - 2 Kindred Capital partners discuss the firm's focus and equitable venture model
-      <hr/>
-       
-       - *Kindred Capital, the London-based VC that backs early-stage founders in Europe and Israel, recently closed its second seed fund at £81 million. Out if its first fund raised in 2018, the firm has backed 29 companies. They include Five, which is building softwa…*
+       - *President Donald Trump’s positive COVID-19 result has made Twitter a busy place in the past 24 hours, including some tweets that have publicly wished — some subtly and others more directly — that he die from the disease caused by coronavirus. Twitter put out …*
       
 
 
