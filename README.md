@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+We need to be super careful with AI. Potentially more dangerous than nukes.
 
-~ Fred Brooks
+~ Elon Musk
 <pre>
 
 </pre>
