@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+Object-oriented design is the roman numerals of computing.
 
-~ Edsger W. Dijkstra
+~ Rob Pike
 <pre>
 
 </pre>
