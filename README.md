@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Jonathan Sachs
+~ Daniel T. Barry
 <pre>
 
 </pre>
