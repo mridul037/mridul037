@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 
-~ Alan Perlis
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A language that doesn't affect the way you think about programming, is not worth
 
 </pre>
 **Daily News**
-  - Einride raises $10 million to fast track its autonomous electric cargo pods
+  - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
      <hr/>
      
-      - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
+      - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
      
+  - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
+      <hr/>
+      
+      - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
+      
+  - Einride raises $10 million to fast track its autonomous electric cargo pods
+      <hr/>
+      
+      - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
+      
   - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
       <hr/>
       
       - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
-      
+       
   - Accel VCs Sonali De Rycker and Andrew Braccia say European deal pace is 'incredibly active'
       <hr/>
-      
-      - *The other week TechCrunch’s Extra Crunch Live series sat down with Accel VCs Sonali De Rycker and Andrew Braccia to chat about the state of the global startup investing ecosystem. Given their firm’s broad geographic footprint, we wanted to know what was going…*
-      
-  - Digging into the next wave of tech IPOs
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. Let’s talk money, startups and spicy IPO rumors.*
        
-  - Meet Cocoa Press, the Philly startup making a 3D printer for chocolate
-      <hr/>
-       
-       - *Evan Weinstein, the founder of the Philadelphia-based startup, Cocoa Press, which makes a 3D printer for chocolate, doesn’t have much of a sweet tooth. But the young founder was fascinated by 3D printing technologies and was looking for a way to move the tech…*
+       - *The other week TechCrunch’s Extra Crunch Live series sat down with Accel VCs Sonali De Rycker and Andrew Braccia to chat about the state of the global startup investing ecosystem. Given their firm’s broad geographic footprint, we wanted to know what was going…*
       
 
 
