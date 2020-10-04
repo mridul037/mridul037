@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 
-~ Poul-Henning Kamp
+~ John Warnock
 <pre>
 
 </pre>
