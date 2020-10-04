@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think programming is very much a religious experience for a lot of people.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Gary Kildall
+~ Sean Parent
 <pre>
 
 </pre>
