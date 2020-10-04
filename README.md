@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
 
-~ Simon Peyton Jones
+~ Danny Hillis
 <pre>
 
 </pre>
