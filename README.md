@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I care not only what the code says but how it looks.
+A language that doesn't affect the way you think about programming, is not worth knowing.
 
-~ Peter Roizen
+~ Alan Perlis
 <pre>
 
 </pre>
