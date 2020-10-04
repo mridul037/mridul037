@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 
-~ John Warnock
+~ Terry Winograd
 <pre>
 
 </pre>
