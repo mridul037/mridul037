@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Donald Knuth
+~ Tim Berners-Lee
 <pre>
 
 </pre>
