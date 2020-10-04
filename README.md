@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is no reason anyone would want a computer in their home.
+I care not only what the code says but how it looks.
 
-~ Ken Olsen
+~ Peter Roizen
 <pre>
 
 </pre>
