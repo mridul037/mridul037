@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 
-~ Brian Kernighan
+~ Simon Peyton Jones
 <pre>
 
 </pre>
