@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ Linus Torvalds
+~ John von Neumann
 <pre>
 
 </pre>
