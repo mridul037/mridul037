@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is not the task of the University to offer what society asks for, but to give what society needs.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Edsger W. Dijkstra
+~ Linus Torvalds
 <pre>
 
 </pre>
