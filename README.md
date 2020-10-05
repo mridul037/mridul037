@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 
-~ Fred Brooks
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 
 </pre>
 **Daily News**
-  - Printing giant Vistaprint acquires 99designs
+  - Quantum photonics startup Nu Quantum raises £2.1M  from Amadeus Capital Partners
      <hr/>
      
-      - *Vistaprint announced today that its parent company Cimpress has acquired freelance design marketplace 99designs. The companies say that 99designs will become part of Vistaprint while also operating as a separate brand, with 99designs CEO Patrick Llewelyn cont…*
+      - *For Quantum cryptography and simulation to become real, the technology requires high-performance light-emitting and light-detecting components that operate at the single-photon level and at ambient temperature. One of the few companies operating in this rarif…*
      
-  - TC Sessions: Mobility 2020 starts tomorrow
+  - Accessibility's nextgen breakthroughs will be literally in your head
       <hr/>
       
-      - *TC Sessions: Mobility 2020, kicks off in full swing tomorrow! Don’t miss out on two full days devoted to the technology and people that make things fly, roll, haul or deliver. Today’s the last day you can save on the price of admission, which starts at just $…*
+      - *Predicting the future of technology for people with visual impairments is easier than you might think. In 2003, I wrote an article entitled “In the Palm of Your Hand” for the Journal of Visual Impairment & Blindness from the American Foundation for the Blind.…*
       
-  - Strike Graph raises $3.9M to help automate security audits
+  - Venmo launches its first credit card, offering up to 3% cash back, personalized rewards
       <hr/>
       
-      - *Compliance automation isn’t exactly the most exciting topic, but security audits are big business and companies that aim to get a SOC 2, ISO 207001 or FedRamp certification can often spend six figures to get through the process with the help of an auditing se…*
+      - *Last October, Venmo announced it would launch its first credit card sometime in 2020. Today, the PayPal-owned company is making good on those promises with the debut of the Venmo Credit Card, initially rolling out to select customers. The Visa card offers 3% …*
       
-  - Camera that will film a spacewalk in VR delivered to the International Space Station
+  - Six favorite Techstars startups ahead of its next rush of demo days
       <hr/>
       
-      - *One of the payloads aboard the International Space Station resupply mission that launched last Friday will providing a new perspective on one of the most enervating human experiences – the spacewalk. It’s a custom-made, 3D camera designed to capture content i…*
+      - *With TechCrunch Disrupt happening last month, I fell behind on watching accelerator demo days. It’s time to correct that oversight. In August and September, the Techstars network of startup accelerators held demo days for various classes of startups, grouped …*
        
-  - Instagram expands shopping on IGTV, plans test of shopping on Reels
+  - Printing giant Vistaprint acquires 99designs
       <hr/>
        
-       - *Instagram this morning announced the global expansion of its Instagram Shopping service across IGTV. The product, which lets you watch a video then checkout with a few taps, offers creators and influencers a way to more directly monetize their user base on In…*
+       - *Vistaprint announced today that its parent company Cimpress has acquired freelance design marketplace 99designs. The companies say that 99designs will become part of Vistaprint while also operating as a separate brand, with 99designs CEO Patrick Llewelyn cont…*
       
 
 
