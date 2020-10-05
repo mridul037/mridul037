@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 
-~ Tom Cargill
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The first 90 percent of the code accounts for the first 90 percent of the develo
 
 </pre>
 **Daily News**
-  - Feds arrest former Amazon employee after company reported him to FBI for fraud
+  - Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack
      <hr/>
      
-      - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
+      - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
      
+  - Feds arrest former Amazon employee after company reported him to FBI for fraud
+      <hr/>
+      
+      - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
+      
   - Gillmor Gang: Airborne
       <hr/>
       
@@ -81,16 +86,11 @@ The first 90 percent of the code accounts for the first 90 percent of the develo
       <hr/>
       
       - *The Sustainable Ocean Alliance and its Ocean Solutions Accelerator take on the problems facing our planet’s waters, and the latest cohort of companies in the latter show a fresh slate of issues to address and resources to utilize. From reef rehabilitation to …*
-      
+       
   - Dear Sophie: Now that a judge has paused Trump's H-1B visa ban, how can I qualify my employees?
       <hr/>
-      
-      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
        
-  - Quantum photonics startup Nu Quantum raises £2.1M  from Amadeus Capital Partners
-      <hr/>
-       
-       - *For Quantum cryptography and simulation to become real, the technology requires high-performance light-emitting and light-detecting components that operate at the single-photon level and at ambient temperature. One of the few companies operating in this rarif…*
+       - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
       
 
 
