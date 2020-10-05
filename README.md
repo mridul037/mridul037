@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+Nine women can't make a baby in one month.
 
-~ Donald Knuth
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We have seen that computer programming is an art, because it applies accumulated
 
 </pre>
 **Daily News**
-  - Heura's plant-based 'chicken' hits UK shops
+  - GrubMarket raises $60M at a $500M+ valuation as food delivery stays center stage
      <hr/>
      
-      - *Heura, a vegan-friendly alternative to chicken that’s been cooked up by a Barcelona-based startup, has launched its first products in the UK. It’s working with local distributors The Vegan Kind and Planet Organic to sell three of its most popular products in …*
+      - *Companies that have leveraged technology to make the procurement and delivery of food more accessible to more people have been seeing a big surge of business this year, as millions of consumers are encouraged (or outright mandated, due to Covid-19) to sociall…*
      
+  - Corsair's TBT100 Thunderbolt 3 dock offers the right expandability in a well-designed package
+      <hr/>
+      
+      - *Gaming peripheral expert Corsair has released a new Thunderbolt 3 docking station that boasts a number of useful ports, paired with aesthetics that should fit in perfectly with any of Apple’s Space Gray hardware kit. The TBT100 dock offers plenty of expandabi…*
+      
+  - Nest Audio review
+      <hr/>
+      
+      - *The Nest Audio is a surprisingly hefty thing. It’s compact, but dense, packing a lot into a footprint not much taller than an iPhone. At 2.65 pounds, it’s 2.5x the weight of the original Home. It’s clear that, above all, Google was interested in offering up s…*
+      
+  - Heura's plant-based 'chicken' hits UK shops
+      <hr/>
+      
+      - *Heura, a vegan-friendly alternative to chicken that’s been cooked up by a Barcelona-based startup, has launched its first products in the UK. It’s working with local distributors The Vegan Kind and Planet Organic to sell three of its most popular products in …*
+       
   - Cooler Screens raises $80M to bring interactive screens into cooler aisles
       <hr/>
-      
-      - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
-      
-  - Crowdcube and Seedrs agree to merge, creating a significant private equity marketplace
-      <hr/>
-      
-      - *The two main crowd-equity fundraising platforms in the UK, Crowdcube and Seedrs, have agreed terms on a long-rumoured merger, thus creating one of the world’s largest private equity marketplaces. The merger is being structured as an acquisition by Crowdcube o…*
-      
-  - Google delays mandating Play Store's 30% cut in India to April 2022
-      <hr/>
-      
-      - *Google is postponing the enforcement of its new Play Store billing policy in India to April 2022, days after more than 150 startups in the world’s second largest internet market forged an informal coalition to express concerns over the 30% charge the Android-…*
        
-  - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
-      <hr/>
-       
-       - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
+       - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
       
 
 
