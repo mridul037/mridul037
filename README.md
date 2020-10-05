@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ Fred Brooks
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Nine women can't make a baby in one month.
 
 </pre>
 **Daily News**
-  - GrubMarket raises $60M at a $500M+ valuation as food delivery stays center stage
+  - Equity Monday: Ola, DeFi, and how to turn cooler cabinets into ads
      <hr/>
      
-      - *Companies that have leveraged technology to make the procurement and delivery of food more accessible to more people have been seeing a big surge of business this year, as millions of consumers are encouraged (or outright mandated, due to Covid-19) to sociall…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
      
+  - As it closes in on ARM, Nvidia announces UK supercomputer dedicated to medical research
+      <hr/>
+      
+      - *As Nvidia continues to work through its deal to acquire ARM for $40 billion from SoftBank, the computing giant is making another big move to lay out its commitment to investing in UK technology. Today the company announced plans to develop Cambridge-1, a new …*
+      
+  - The Little Black Door app makes luxury wardrobes shareable, resalable, and sustainable
+      <hr/>
+      
+      - *When Lexi Willetts and Marina Pengilly realized they could make as much as £30,000 a year reselling their luxury clothes and accessories online, they resolved to create a solution for modern women who are already well-versed in the behaviors of Instagram and …*
+      
+  - GrubMarket raises $60M at a $500M+ valuation as food delivery stays center stage
+      <hr/>
+      
+      - *Companies that have leveraged technology to make the procurement and delivery of food more accessible to more people have been seeing a big surge of business this year, as millions of consumers are encouraged (or outright mandated, due to Covid-19) to sociall…*
+       
   - Corsair's TBT100 Thunderbolt 3 dock offers the right expandability in a well-designed package
       <hr/>
-      
-      - *Gaming peripheral expert Corsair has released a new Thunderbolt 3 docking station that boasts a number of useful ports, paired with aesthetics that should fit in perfectly with any of Apple’s Space Gray hardware kit. The TBT100 dock offers plenty of expandabi…*
-      
-  - Nest Audio review
-      <hr/>
-      
-      - *The Nest Audio is a surprisingly hefty thing. It’s compact, but dense, packing a lot into a footprint not much taller than an iPhone. At 2.65 pounds, it’s 2.5x the weight of the original Home. It’s clear that, above all, Google was interested in offering up s…*
-      
-  - Heura's plant-based 'chicken' hits UK shops
-      <hr/>
-      
-      - *Heura, a vegan-friendly alternative to chicken that’s been cooked up by a Barcelona-based startup, has launched its first products in the UK. It’s working with local distributors The Vegan Kind and Planet Organic to sell three of its most popular products in …*
        
-  - Cooler Screens raises $80M to bring interactive screens into cooler aisles
-      <hr/>
-       
-       - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
+       - *Gaming peripheral expert Corsair has released a new Thunderbolt 3 docking station that boasts a number of useful ports, paired with aesthetics that should fit in perfectly with any of Apple’s Space Gray hardware kit. The TBT100 dock offers plenty of expandabi…*
       
 
 
