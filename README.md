@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Bjarne Stroustrup
+~ Daniel T. Barry
 <pre>
 
 </pre>
