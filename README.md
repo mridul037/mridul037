@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Young man, in mathematics you don't understand things. You just get used to them.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ John von Neumann
+~ Friedrich Bauer
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Young man, in mathematics you don't understand things. You just get used to them
 
 </pre>
 **Daily News**
-  - Google delays mandating Play Store's 30% cut in India to April 2022
+  - Crowdcube and Seedrs agree to merge, creating a significant private equity marketplace
      <hr/>
      
-      - *Google is postponing the enforcement of its new Play Store billing policy in India to April 2022, days after more than 150 startups in the world’s second largest internet market forged an informal coalition to express concerns over the 30% charge the Android-…*
+      - *The two main crowd-equity fundraising platforms in the UK, Crowdcube and Seedrs, have agreed terms on a long-rumoured merger, thus creating one of the world’s largest private equity marketplaces. The merger is being structured as an acquisition by Crowdcube o…*
      
+  - Google delays mandating Play Store's 30% cut in India to April 2022
+      <hr/>
+      
+      - *Google is postponing the enforcement of its new Play Store billing policy in India to April 2022, days after more than 150 startups in the world’s second largest internet market forged an informal coalition to express concerns over the 30% charge the Android-…*
+      
   - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
       <hr/>
       
@@ -81,16 +86,11 @@ Young man, in mathematics you don't understand things. You just get used to them
       <hr/>
       
       - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
-      
+       
   - Einride raises $10 million to fast track its autonomous electric cargo pods
       <hr/>
-      
-      - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
        
-  - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
-      <hr/>
-       
-       - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
+       - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
       
 
 
