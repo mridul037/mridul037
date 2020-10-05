@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+Nine women can't make a baby in one month.
 
-~ Dennis Ritchie
+~ Fred Brooks
 <pre>
 
 </pre>
