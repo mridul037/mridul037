@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Ted Nelson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ They were saying computers deal with numbers. This was absolutely nonsense. Comp
 
 </pre>
 **Daily News**
-  - Equity Monday: Ola, DeFi, and how to turn cooler cabinets into ads
+  - Printing giant Vistaprint acquires 99designs
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Vistaprint announced today that its parent company Cimpress has acquired freelance design marketplace 99designs. The companies say that 99designs will become part of Vistaprint while also operating as a separate brand, with 99designs CEO Patrick Llewelyn cont…*
      
-  - As it closes in on ARM, Nvidia announces UK supercomputer dedicated to medical research
+  - TC Sessions: Mobility 2020 starts tomorrow
       <hr/>
       
-      - *As Nvidia continues to work through its deal to acquire ARM for $40 billion from SoftBank, the computing giant is making another big move to lay out its commitment to investing in UK technology. Today the company announced plans to develop Cambridge-1, a new …*
+      - *TC Sessions: Mobility 2020, kicks off in full swing tomorrow! Don’t miss out on two full days devoted to the technology and people that make things fly, roll, haul or deliver. Today’s the last day you can save on the price of admission, which starts at just $…*
       
-  - The Little Black Door app makes luxury wardrobes shareable, resalable, and sustainable
+  - Strike Graph raises $3.9M to help automate security audits
       <hr/>
       
-      - *When Lexi Willetts and Marina Pengilly realized they could make as much as £30,000 a year reselling their luxury clothes and accessories online, they resolved to create a solution for modern women who are already well-versed in the behaviors of Instagram and …*
+      - *Compliance automation isn’t exactly the most exciting topic, but security audits are big business and companies that aim to get a SOC 2, ISO 207001 or FedRamp certification can often spend six figures to get through the process with the help of an auditing se…*
       
-  - GrubMarket raises $60M at a $500M+ valuation as food delivery stays center stage
+  - Camera that will film a spacewalk in VR delivered to the International Space Station
       <hr/>
       
-      - *Companies that have leveraged technology to make the procurement and delivery of food more accessible to more people have been seeing a big surge of business this year, as millions of consumers are encouraged (or outright mandated, due to Covid-19) to sociall…*
+      - *One of the payloads aboard the International Space Station resupply mission that launched last Friday will providing a new perspective on one of the most enervating human experiences – the spacewalk. It’s a custom-made, 3D camera designed to capture content i…*
        
-  - Corsair's TBT100 Thunderbolt 3 dock offers the right expandability in a well-designed package
+  - Instagram expands shopping on IGTV, plans test of shopping on Reels
       <hr/>
        
-       - *Gaming peripheral expert Corsair has released a new Thunderbolt 3 docking station that boasts a number of useful ports, paired with aesthetics that should fit in perfectly with any of Apple’s Space Gray hardware kit. The TBT100 dock offers plenty of expandabi…*
+       - *Instagram this morning announced the global expansion of its Instagram Shopping service across IGTV. The product, which lets you watch a video then checkout with a few taps, offers creators and influencers a way to more directly monetize their user base on In…*
       
 
 
