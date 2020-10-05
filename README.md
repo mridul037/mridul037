@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 
-~ Anonymous
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ You can have the project: Done On Time. Done On Budget. Done Properly - Pick two
 
 </pre>
 **Daily News**
-  - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
+  - Google delays mandating Play Store's 30% cut in India to April 2022
      <hr/>
      
-      - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
+      - *Google is postponing the enforcement of its new Play Store billing policy in India to April 2022, days after more than 150 startups in the world’s second largest internet market forged an informal coalition to express concerns over the 30% charge the Android-…*
      
+  - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
+      <hr/>
+      
+      - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
+      
   - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
       <hr/>
       
@@ -81,16 +86,11 @@ You can have the project: Done On Time. Done On Budget. Done Properly - Pick two
       <hr/>
       
       - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
-      
+       
   - Original Content podcast: Netflix's 'Away' deftly balances space exploration and human drama
       <hr/>
-      
-      - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
        
-  - Accel VCs Sonali De Rycker and Andrew Braccia say European deal pace is 'incredibly active'
-      <hr/>
-       
-       - *The other week TechCrunch’s Extra Crunch Live series sat down with Accel VCs Sonali De Rycker and Andrew Braccia to chat about the state of the global startup investing ecosystem. Given their firm’s broad geographic footprint, we wanted to know what was going…*
+       - *“Away,” a new drama on Netflix, tells the story of the first manned expedition to Mars — Emma Green (played by Hilary Swank) leads an international team of astronauts on the three-year mission, while her husband Matt (Josh Charles) is part of the support team…*
       
 
 
