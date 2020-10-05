@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Life is too short to run proprietary software.
+We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 
-~ Bdale Garbee
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Life is too short to run proprietary software.
 
 </pre>
 **Daily News**
-  - Cooler Screens raises $80M to bring interactive screens into cooler aisles
+  - Heura's plant-based 'chicken' hits UK shops
      <hr/>
      
-      - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
+      - *Heura, a vegan-friendly alternative to chicken that’s been cooked up by a Barcelona-based startup, has launched its first products in the UK. It’s working with local distributors The Vegan Kind and Planet Organic to sell three of its most popular products in …*
      
+  - Cooler Screens raises $80M to bring interactive screens into cooler aisles
+      <hr/>
+      
+      - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
+      
   - Crowdcube and Seedrs agree to merge, creating a significant private equity marketplace
       <hr/>
       
@@ -81,16 +86,11 @@ Life is too short to run proprietary software.
       <hr/>
       
       - *Google is postponing the enforcement of its new Play Store billing policy in India to April 2022, days after more than 150 startups in the world’s second largest internet market forged an informal coalition to express concerns over the 30% charge the Android-…*
-      
+       
   - Ola fails to get ride-hailing license renewed in London, says it will appeal and continues to operate
       <hr/>
-      
-      - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
        
-  - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
-      <hr/>
-       
-       - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
+       - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
       
 
 
