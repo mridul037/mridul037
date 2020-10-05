@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+When we don’t understand a process, we fall into magical thinking about results.
 
-~ Ted Nelson
+~ Jef Raskin
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A user interface should be so simple that a beginner in an emergency can underst
 
 </pre>
 **Daily News**
-  - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
+  - Daily Crunch: Venmo launches a credit card
      <hr/>
      
-      - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
+      - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
      
+  - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
+      <hr/>
+      
+      - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
+      
   - Embedded finance might represent fintech's future
       <hr/>
       
@@ -81,16 +86,11 @@ A user interface should be so simple that a beginner in an emergency can underst
       <hr/>
       
       - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
-      
+       
   - Feds arrest former Amazon employee after company reported him to FBI for fraud
       <hr/>
-      
-      - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
        
-  - Gillmor Gang: Airborne
-      <hr/>
-       
-       - *Lorne Michaels is the showrunner, to use a binge term, for Saturday Night Live. The show returned for its first season under the watchful gaze of pandemic rule, and the results were thankfully successful. Last season struggled in the early days of the virus, …*
+       - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
       
 
 
