@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+A programming language is low level when its programs require attention to the irrelevant.
 
-~ Michael Hawley
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ What I like about programming is that it really helps you think about how we com
 
 </pre>
 **Daily News**
-  - Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack
+  - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
      <hr/>
      
-      - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
+      - *With the president hospitalized, his doctors evading basic questions and an election 29 days away, chaos reigned after Trump tested positive for the virus that’s killed more than 200,000 Americans. Now, after a four-day stay at Walter Reed medical center, the…*
      
+  - Embedded finance might represent fintech's future
+      <hr/>
+      
+      - *The fintech industry is on a tear. Popular consumer services like Robinhood to Coinbase and Revolut have managed to attract millions of customers, but the most interesting trend right now is embedded finance. Tech companies that don’t necessarily provide fina…*
+      
+  - Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack
+      <hr/>
+      
+      - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
+      
   - Feds arrest former Amazon employee after company reported him to FBI for fraud
       <hr/>
       
       - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
-      
+       
   - Gillmor Gang: Airborne
       <hr/>
-      
-      - *Lorne Michaels is the showrunner, to use a binge term, for Saturday Night Live. The show returned for its first season under the watchful gaze of pandemic rule, and the results were thankfully successful. Last season struggled in the early days of the virus, …*
-      
-  - Ocean Solutions Accelerator's third wave tackles a new set of aquatic challenges
-      <hr/>
-      
-      - *The Sustainable Ocean Alliance and its Ocean Solutions Accelerator take on the problems facing our planet’s waters, and the latest cohort of companies in the latter show a fresh slate of issues to address and resources to utilize. From reef rehabilitation to …*
        
-  - Dear Sophie: Now that a judge has paused Trump's H-1B visa ban, how can I qualify my employees?
-      <hr/>
-       
-       - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
+       - *Lorne Michaels is the showrunner, to use a binge term, for Saturday Night Live. The show returned for its first season under the watchful gaze of pandemic rule, and the results were thankfully successful. Last season struggled in the early days of the virus, …*
       
 
 
