@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A number of studies have shown testing not very effective at finding bugs.
+You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 
-~ Daniel T. Barry
+~ Anonymous
 <pre>
 
 </pre>
