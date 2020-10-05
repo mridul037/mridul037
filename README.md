@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+Life is too short to run proprietary software.
 
-~ Richard Hamming
+~ Bdale Garbee
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I always spend a day a week learning new stuff. That means I spend 20% more of m
 
 </pre>
 **Daily News**
-  - Quantum photonics startup Nu Quantum raises £2.1M  from Amadeus Capital Partners
+  - Dear Sophie: Now that a judge has paused Trump's H-1B visa ban, how can I qualify my employees?
      <hr/>
      
-      - *For Quantum cryptography and simulation to become real, the technology requires high-performance light-emitting and light-detecting components that operate at the single-photon level and at ambient temperature. One of the few companies operating in this rarif…*
+      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
      
+  - Quantum photonics startup Nu Quantum raises £2.1M  from Amadeus Capital Partners
+      <hr/>
+      
+      - *For Quantum cryptography and simulation to become real, the technology requires high-performance light-emitting and light-detecting components that operate at the single-photon level and at ambient temperature. One of the few companies operating in this rarif…*
+      
   - Accessibility's nextgen breakthroughs will be literally in your head
       <hr/>
       
@@ -81,16 +86,11 @@ I always spend a day a week learning new stuff. That means I spend 20% more of m
       <hr/>
       
       - *Last October, Venmo announced it would launch its first credit card sometime in 2020. Today, the PayPal-owned company is making good on those promises with the debut of the Venmo Credit Card, initially rolling out to select customers. The Visa card offers 3% …*
-      
+       
   - Six favorite Techstars startups ahead of its next rush of demo days
       <hr/>
-      
-      - *With TechCrunch Disrupt happening last month, I fell behind on watching accelerator demo days. It’s time to correct that oversight. In August and September, the Techstars network of startup accelerators held demo days for various classes of startups, grouped …*
        
-  - Printing giant Vistaprint acquires 99designs
-      <hr/>
-       
-       - *Vistaprint announced today that its parent company Cimpress has acquired freelance design marketplace 99designs. The companies say that 99designs will become part of Vistaprint while also operating as a separate brand, with 99designs CEO Patrick Llewelyn cont…*
+       - *With TechCrunch Disrupt happening last month, I fell behind on watching accelerator demo days. It’s time to correct that oversight. In August and September, the Techstars network of startup accelerators held demo days for various classes of startups, grouped …*
       
 
 
