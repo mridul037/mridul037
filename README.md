@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+Life is too short to run proprietary software.
 
-~ Friedrich Bauer
+~ Bdale Garbee
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Software engineering is the part of computer science which is too difficult for 
 
 </pre>
 **Daily News**
-  - Crowdcube and Seedrs agree to merge, creating a significant private equity marketplace
+  - Cooler Screens raises $80M to bring interactive screens into cooler aisles
      <hr/>
      
-      - *The two main crowd-equity fundraising platforms in the UK, Crowdcube and Seedrs, have agreed terms on a long-rumoured merger, thus creating one of the world’s largest private equity marketplaces. The merger is being structured as an acquisition by Crowdcube o…*
+      - *Cooler Screens, which replaces the glass doors in store cooler aisles with interactive digital displays, is announcing that it has raised more than $80 million in Series C funding. The startup has now raised more than $100 million in funding. The latest round…*
      
+  - Crowdcube and Seedrs agree to merge, creating a significant private equity marketplace
+      <hr/>
+      
+      - *The two main crowd-equity fundraising platforms in the UK, Crowdcube and Seedrs, have agreed terms on a long-rumoured merger, thus creating one of the world’s largest private equity marketplaces. The merger is being structured as an acquisition by Crowdcube o…*
+      
   - Google delays mandating Play Store's 30% cut in India to April 2022
       <hr/>
       
@@ -81,16 +86,11 @@ Software engineering is the part of computer science which is too difficult for 
       <hr/>
       
       - *Just six days after Uber won its appeal against London transportation regulators to continue operating in London for another 18 months, one of its bigger rivals has found itself in the hot seat. Ola, the India-based ride-hailing startup, is not getting its Tr…*
-      
+       
   - Lime and Scoot veterans have built Ridepanda, a one-stop micromobility marketplace
       <hr/>
-      
-      - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
        
-  - Einride raises $10 million to fast track its autonomous electric cargo pods
-      <hr/>
-       
-       - *For the past four years, Swedish startup Einride has captured interest, investment and even a few customer contracts for its unusual-looking pods — electric and autonomous vehicles that are designed to carry freight. But progress in developing, testing and va…*
+       - *Chinmay Malaviya and Charlie Depman found themselves at the center of the shared micromobility industry just as it took off, working for companies like Bird, Lime and Scoot. They experienced a rollercoaster ride of venture funding and skyrocketing demand, pro…*
       
 
 
