@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 
-~ Fred Brooks
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Program building is an entropy-decreasing process, hence inherently metastable. 
 
 </pre>
 **Daily News**
-  - A quick peek into Opendoor's financial results
+  - 4 sustainable industries where founders and VCs can see green by going green
      <hr/>
      
-      - *As investing whirlwind Chamath Palihapitiya continues to make headlines with his full-court press to take private tech companies public via SPACs while markets are hot, one of his targets has disclosed financial information that helps us better understand the…*
+      - *Now’s the time for sustainable investments to shine. There are billions of dollars in funding in both public and private markets dedicated to new sustainable investing and demand for consumers for a more conscious capitalism has never been stronger. As founde…*
      
+  - A clean energy company now has a market cap rivaling ExxonMobil
+      <hr/>
+      
+      - *The news last week that NextEra Energy, a U.S. utility and renewable energy company, briefly overtook ExxonMobil and Saudi Aramco to become the world’s most valuable energy producer shows just how valuable sustainable businesses have become. It’s yet another …*
+      
+  - A quick peek into Opendoor's financial results
+      <hr/>
+      
+      - *As investing whirlwind Chamath Palihapitiya continues to make headlines with his full-court press to take private tech companies public via SPACs while markets are hot, one of his targets has disclosed financial information that helps us better understand the…*
+      
   - To fill funding gaps, VCs boost efforts to find India's standout early-stage startups
       <hr/>
       
       - *After demonstrating scale, growth and financial improvement, one founder of a two-year-old agritech startup based in India told me that he’s now confronting a new challenge: Unlike his peers in edtech, fintech or e-commerce, there are very few investors he co…*
-      
+       
   - Twitter tests a new way to find accounts to follow
       <hr/>
-      
-      - *Twitter is testing a new way to follow accounts. The company announced today it’s rolling out a new feature, “Suggested Follows,” that will pop up a list of other accounts you may want to follow on the profile page of someone you had just followed. The featur…*
-      
-  - I’m a software engineer at Uber and I’m voting against Prop 22
-      <hr/>
-      
-      - *I’ve been a software engineer at Uber for two years, and I’ve also been a ride-share driver.*
        
-  - Cambridge Analytica sought to use Facebook data to predict partisanship for voter targeting, UK investigation confirms
-      <hr/>
-       
-       - *The UK’s data watchdog has sent a letter to parliament In lieu of a final report on a wide-ranging investigation into online political advertising which saw it raid the offices of Cambridge Analytica in 2018 after it emerged that the disgraced (and now defunc…*
+       - *Twitter is testing a new way to follow accounts. The company announced today it’s rolling out a new feature, “Suggested Follows,” that will pop up a list of other accounts you may want to follow on the profile page of someone you had just followed. The featur…*
       
 
 
