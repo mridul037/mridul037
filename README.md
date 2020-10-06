@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Ken Thompson
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One of my most productive days was throwing away 1,000 lines of code.
 
 </pre>
 **Daily News**
-  - Picker, an app to discover products recommended by people you follow, picks up €1.3M seed
+  - Calling Amsterdam VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *Picker, an app that lets you discover and buy products recommended by people you follow, has raised €1.3 million in seed funding. Backing the Barcelona-based startup is Berlin’s Btov. The company has received €2 million in funding to date, mainly from various…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Amsterdam will capture how the city is faring, and what changes are being wr…*
      
+  - Picker, an app to discover products recommended by people you follow, picks up €1.3M seed
+      <hr/>
+      
+      - *Picker, an app that lets you discover and buy products recommended by people you follow, has raised €1.3 million in seed funding. Backing the Barcelona-based startup is Berlin’s Btov. The company has received €2 million in funding to date, mainly from various…*
+      
   - G Suite is now Google Workspace
       <hr/>
       
@@ -81,16 +86,11 @@ One of my most productive days was throwing away 1,000 lines of code.
       <hr/>
       
       - *Mobile cryptocurrency wallet BRD announced today that it now has more than six million users worldwide, thanks to strong growth in India and Latin America. With this momentum, the company expects to reach 10 million users by early 2021. Founded in 2015, Zuric…*
-      
+       
   - Faraday Future plans to go public through a SPAC deal
       <hr/>
-      
-      - *Faraday Future, the electric vehicle startup with a messy and complicated past, is planning to go public through a special-purchase acquisition company (SPAC) deal. The company’s chief executive Carsten Breitfeld told Reuters that the company is working on a …*
        
-  - Instagram's 10th birthday release introduces a Stories Map, custom icons and more
-      <hr/>
-       
-       - *Instagram today is celebrating its 10th birthday with the launch of several new features, including a private “Stories Map,” offering a retrospective of the Stories you’ve shared over the last three years, a pair of well-being updates, and the previously anno…*
+       - *Faraday Future, the electric vehicle startup with a messy and complicated past, is planning to go public through a special-purchase acquisition company (SPAC) deal. The company’s chief executive Carsten Breitfeld told Reuters that the company is working on a …*
       
 
 
