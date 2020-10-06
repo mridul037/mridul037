@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good software, like good wine, takes time.
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 
-~ Joel Spolsky
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Good software, like good wine, takes time.
 
 </pre>
 **Daily News**
-  - Spacebit books a second trip to the Moon via NASA's commercial lunar payload program
+  - SpaceX successfully launches another Starlink mission, with over 700 satellites launched to date
      <hr/>
      
-      - *UK-based robotic rover startup Spacebit has booked a second payload delivery to the Moon, aboard the Nova-C lander that Intuitive Machines is planning to send in 2021 as part of NASA’s Commercial Lunar Payload Services (CLPS) program. Spacebit already has a b…*
+      - *SpaceX has launched yet another flight of 60 of its Starlink broadband internet satellites. The launch took off from Kennedy Space Center in Florida at 7:29 AM EDT (4:29 AM PDT) this morning, after having been delayed three times earlier due to scrubs – twice…*
      
+  - Tipalti receives $150M at a $2B+ valuation after its accounts payable platform sees a surge in use
+      <hr/>
+      
+      - *Digital transformation has been one of the big enterprise themes of 2020: organizations are doubling down on cloud services both to link up suddenly remote teams and centralize apps, documents and data in a more efficient way. Today, one of the startups that …*
+      
+  - Spotify’s new Soundtrap capture app offers collaborative voice notes for songwriters
+      <hr/>
+      
+      - *Acquired in 2017, Soundtrap more or less serves a similar role as Anchor under the larger Spotify banner — albeit largely focused on music creation, instead of podcasting. The company’s software of the same name is a cloud-based service designed to let musici…*
+      
+  - Spacebit books a second trip to the Moon via NASA's commercial lunar payload program
+      <hr/>
+      
+      - *UK-based robotic rover startup Spacebit has booked a second payload delivery to the Moon, aboard the Nova-C lander that Intuitive Machines is planning to send in 2021 as part of NASA’s Commercial Lunar Payload Services (CLPS) program. Spacebit already has a b…*
+       
   - Security flaw left 'smart' chastity sex toy users at risk of permanent lock-in
       <hr/>
-      
-      - *The bug allowed anyone to permanently lock in the chastity device user's penis.*
-      
-  - Dialpad raises $100M Series E at a $1.2B valuation
-      <hr/>
-      
-      - *Dialpad, the business-centric voice, video and contact-center service, today announced that it has raised a $100 million Series E funding round led by OMERS Growth Equity. Andreessen Horowitz, Google Ventures, ICONIQ Capital and Work-Bench also participated. …*
-      
-  - Europe's top court confirms no mass surveillance without limits
-      <hr/>
-      
-      - *Europe’s top court has delivered another slap-down to indiscriminate government mass surveillance regimes. In a ruling today the CJEU has made it clear that national security concerns do not exclude EU Member States from the need to comply with general princi…*
        
-  - Ÿnsect, the makers of the world’s most expensive bug farm, raises another $224 million
-      <hr/>
-       
-       - *Ÿnsect, the startup building the world’s most high tech bug colony, have added $224 million in equity and debt to an already impressive $148 million cash haul as it looks to commercialize its business. Investors backing the company include the Los Angeles-bas…*
+       - *The bug allowed anyone to permanently lock in the chastity device user's penis.*
       
 
 
