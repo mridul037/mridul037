@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A clever person solves a problem. A wise person avoids it.
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 
-~ Albert Einstein
+~ Henry Petroski
 <pre>
 
 </pre>
