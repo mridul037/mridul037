@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When we don’t understand a process, we fall into magical thinking about results.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Jef Raskin
+~ William Wulf
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When we don’t understand a process, we fall into magical thinking about result
 
 </pre>
 **Daily News**
-  - Daily Crunch: Venmo launches a credit card
+  - John McAfee arrested after DOJ indicts crypto millionaire for tax evasion
      <hr/>
      
-      - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
+      - *Cybersecurity entrepreneur and crypto personality John McAfee’s wild ride could be coming to an end after he was arrested in Spain today, now facing extradition to the US over charges spanning tax evasion and fraud. The SEC accuses McAfee of being paid more t…*
      
+  - Daily Crunch: Venmo launches a credit card
+      <hr/>
+      
+      - *Venmo’s first credit card is here, a former Amazon employee is arrested for fraud and we review the Nest Audio smart speaker. This is your Daily Crunch for October 5, 2020. The big story: Venmo launches a credit card PayPal -owned mobile payment app Venmo alr…*
+      
   - Trump's battle with COVID-19 is fueling a fresh misinformation frenzy
       <hr/>
       
@@ -81,16 +86,11 @@ When we don’t understand a process, we fall into magical thinking about result
       <hr/>
       
       - *The fintech industry is on a tear. Popular consumer services like Robinhood to Coinbase and Revolut have managed to attract millions of customers, but the most interesting trend right now is embedded finance. Tech companies that don’t necessarily provide fina…*
-      
+       
   - Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack
       <hr/>
-      
-      - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
        
-  - Feds arrest former Amazon employee after company reported him to FBI for fraud
-      <hr/>
-       
-       - *Amazon today disclosed that a former employee has been arrested for committing fraud against the online retailer. The company says it reported Vu Anh Nguyen to the Federal Bureau of Investigation in July 2020 fro falsely issuing refunds for products ordered o…*
+       - *It has been over four years since Project Jacquard, Google’s smart fabric technology, made its debut at the I/O developer conference. Launched out of what was then Google’s ATAP unit, Jacquard is currently best known for being available on Levi’s jeans jacket…*
       
 
 
