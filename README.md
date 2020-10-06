@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 
-~ L. Peter Deutsch
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Every now and then I feel a temptation to design a programming language but then
 
 </pre>
 **Daily News**
-  - 4 sustainable industries where founders and VCs can see green by going green
+  - Daily Crunch: G Suite becomes Google Workspace
      <hr/>
      
-      - *Now’s the time for sustainable investments to shine. There are billions of dollars in funding in both public and private markets dedicated to new sustainable investing and demand for consumers for a more conscious capitalism has never been stronger. As founde…*
+      - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
      
-  - A clean energy company now has a market cap rivaling ExxonMobil
+  - Steps from the House Judiciary Committee are too little, too late when it comes to big tech
       <hr/>
       
-      - *The news last week that NextEra Energy, a U.S. utility and renewable energy company, briefly overtook ExxonMobil and Saudi Aramco to become the world’s most valuable energy producer shows just how valuable sustainable businesses have become. It’s yet another …*
+      - *The U.S. House Judiciary Committee has finally released its omnibus report  on its investigation into the monopoly powers held by Apple, Amazon, Alphabet, and Facebook and its findings will do nothing to stem the power of big tech. For startups, the most rele…*
       
-  - A quick peek into Opendoor's financial results
+  - Facebook says it will ban QAnon across its platforms
       <hr/>
       
-      - *As investing whirlwind Chamath Palihapitiya continues to make headlines with his full-court press to take private tech companies public via SPACs while markets are hot, one of his targets has disclosed financial information that helps us better understand the…*
+      - *Facebook expanded a ban on QAnon-related content on its various social platforms Tuesday, deepening a previous prohibition on QAnon-related groups that had “discussed potential violence,” according to the company. Today’s move by Facebook to not only ban viol…*
       
-  - To fill funding gaps, VCs boost efforts to find India's standout early-stage startups
+  - Google's new logos are bad
       <hr/>
       
-      - *After demonstrating scale, growth and financial improvement, one founder of a two-year-old agritech startup based in India told me that he’s now confronting a new challenge: Unlike his peers in edtech, fintech or e-commerce, there are very few investors he co…*
+      - *Google really whiffed with the new logos for its “reimagination” of G Suite as Google Workspace, replacing icons that are familiar, recognizable, and in Gmail’s case iconic if you will, with little rainbow blobs that everyone will now struggle to tell apart i…*
        
-  - Twitter tests a new way to find accounts to follow
+  - What micromobility is missing
       <hr/>
        
-       - *Twitter is testing a new way to follow accounts. The company announced today it’s rolling out a new feature, “Suggested Follows,” that will pop up a list of other accounts you may want to follow on the profile page of someone you had just followed. The featur…*
+       - *AT TC Sessions: Mobility, we heard from Tortoise co-founder and president Dmitry Shevelenko, Elemental Excelerator director of Innovation, Mobility, Danielle Harris and Superpedestrian VP of Strategy and Policy, Avra van der Zee about the next opportunities i…*
       
 
 
