@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Linus Torvalds
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you need more than 3 levels of indentation, you're screwed anyway, and should
 
 </pre>
 **Daily News**
-  - SpaceX successfully launches another Starlink mission, with over 700 satellites launched to date
+  - Inside Root's IPO filing
      <hr/>
      
-      - *SpaceX has launched yet another flight of 60 of its Starlink broadband internet satellites. The launch took off from Kennedy Space Center in Florida at 7:29 AM EDT (4:29 AM PDT) this morning, after having been delayed three times earlier due to scrubs – twice…*
+      - *Last night, Root filed to go public, adding a second name to the insurtech IPO rolls in 2020. Lemonade was first out the gate this summer, taking its rental and home insurance business public at an attractive valuation, compared to its revenues and margins as…*
      
-  - Tipalti receives $150M at a $2B+ valuation after its accounts payable platform sees a surge in use
+  - Ambani sells over $750 million Reliance Retail stake to Abu Dhabi Investment Authority
       <hr/>
       
-      - *Digital transformation has been one of the big enterprise themes of 2020: organizations are doubling down on cloud services both to link up suddenly remote teams and centralize apps, documents and data in a more efficient way. Today, one of the startups that …*
+      - *Abu Dhabi Investment Authority, which invested $750 million in Indian telecom giant Jio Platforms in June this year, has returned to invest just as much capital in Mukesh Ambani’s other venture. Reliance Retail, India’s largest retail chain, said on Tuesday t…*
       
-  - Spotify’s new Soundtrap capture app offers collaborative voice notes for songwriters
+  - Scratchpad announces $3.6M seed to put work space on top of Salesforce
       <hr/>
       
-      - *Acquired in 2017, Soundtrap more or less serves a similar role as Anchor under the larger Spotify banner — albeit largely focused on music creation, instead of podcasting. The company’s software of the same name is a cloud-based service designed to let musici…*
+      - *One thing that annoys sales people is entering data into a CRM like Salesforce because it’s time spent not selling. Part of the problem is Salesforce is a database and as such is not necessarily designed for speed. Scratchpad wants to simplify that process by…*
       
-  - Spacebit books a second trip to the Moon via NASA's commercial lunar payload program
+  - Chargebee raises $55 million to help businesses move to subscriptions
       <hr/>
       
-      - *UK-based robotic rover startup Spacebit has booked a second payload delivery to the Moon, aboard the Nova-C lander that Intuitive Machines is planning to send in 2021 as part of NASA’s Commercial Lunar Payload Services (CLPS) program. Spacebit already has a b…*
+      - *Chargebee, which helps businesses set up and manage their billing, subscription, revenue operations and compliance, said on Tuesday it has raised $55 million in a new financing round as it looks to accelerate its expansion in global markets. The new financing…*
        
-  - Security flaw left 'smart' chastity sex toy users at risk of permanent lock-in
+  - Tokyo-based virtual reality game developer Thirdverse gets $8.5 million Series A
       <hr/>
        
-       - *The bug allowed anyone to permanently lock in the chastity device user's penis.*
+       - *Thirdverse, the virtual reality game developer behind “Swords of Gargantua,” has raised $8.5 million in Series A funding. The round was led by JAFCO, with participation from Presence Capital, Sisu Ventures, Incubate Fund and KDDI. Based in Tokyo, Thirdverse w…*
       
 
 
