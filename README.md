@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+First, solve the problem. Then, write the code.
 
-~ Fred Brooks
+~ John Johnson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If each part of the task must be separately coordinated with each other part, th
 
 </pre>
 **Daily News**
-  - Top five mobility startups to showcase at TC Sessions: Mobility 2020
+  - Nivelo nabs $2.5M seed to reduce risk in digital ACH payments
      <hr/>
      
-      - *Tonight, 10 disruptive mobility companies pitched on the virtual TechCrunch stage for a spot at TC Sessions: Mobility 2020. Each company pitched for one minute followed by a Q&A with our expert panel of judges – Shahin Farshchi (Lux Capital), Natalia Quintero…*
+      - *As we plunge deeper into the pandemic, online transactions have become increasingly important, and ACH transactions, the ones that help us get direct deposit of our paychecks or pay our bills are growing ever more essential. Nivelo, an early stage startup fro…*
      
+  - Google is providing cash awards to 76 startups through a racial equity initiative announced in June
+      <hr/>
+      
+      - *In June of this year, as more of the world began to awaken to the many ways that people of color are systematically discriminated against amid months of protest, a wide number of companies announced initiatives aimed at improving the representation of underre…*
+      
+  - Top five mobility startups to showcase at TC Sessions: Mobility 2020
+      <hr/>
+      
+      - *Tonight, 10 disruptive mobility companies pitched on the virtual TechCrunch stage for a spot at TC Sessions: Mobility 2020. Each company pitched for one minute followed by a Q&A with our expert panel of judges – Shahin Farshchi (Lux Capital), Natalia Quintero…*
+      
   - Here’s what’s happening today at TC Sessions: Mobility 2020
       <hr/>
       
       - *Mobility enthusiasts from around the world, welcome to Day One of TC Sessions: Mobility 2020! Get ready for two days of programming dedicated to the people and technology behind the transformation of transportation. Mobility’s a rapidly evolving revolution, a…*
-      
+       
   - Facebook's Portal adds support for Netflix, Zoom and other features
       <hr/>
-      
-      - *Facebook announced this morning it’s bringing a number of new features and services to its family of Portal devices, including support for Netflix and Zoom. The company will also introduce easier ways to launch Netflix and other video streaming apps via one-t…*
-      
-  - Scribe Therapeutics launches a platform for engineering CRISPR-based therapeutics
-      <hr/>
-      
-      - *A new company called Scribe Therapeutics founded by two former members of CRISPR pioneer Jennifer Doudna’s UC Berkely genetics lab (alongside Doudna herself) launched on Tuesday, debuting a platform designed specifically to help develop and engineer new there…*
        
-  - Remotion raises $13M to create a workplace video platform for short, spontaneous conversations
-      <hr/>
-       
-       - *One of the broader trends of the pandemic has been the unbundling of Zoom with startups pulling out a feature or two and designing entire products centered around a specific vision of remote work. One of the more tempting product ideas has been the developmen…*
+       - *Facebook announced this morning it’s bringing a number of new features and services to its family of Portal devices, including support for Netflix and Zoom. The company will also introduce easier ways to launch Netflix and other video streaming apps via one-t…*
       
 
 
