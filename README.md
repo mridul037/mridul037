@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Donald Knuth
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Beware of bugs in the above code; I have only proved it correct, not tried it.
 
 </pre>
 **Daily News**
-  - Calling Amsterdam VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Europe's top court confirms no mass surveillance without limits
      <hr/>
      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Amsterdam will capture how the city is faring, and what changes are being wr…*
+      - *Europe’s top court has delivered another slap-down to indiscriminate government mass surveillance regimes. In a ruling today the CJEU has made it clear that national security concerns do not exclude EU Member States from the need to comply with general princi…*
      
+  - Ÿnsect, the makers of the world’s most expensive bug farm, raises another $224 million
+      <hr/>
+      
+      - *Ÿnsect, the startup building the world’s most high tech bug colony, have added $224 million in equity and debt to an already impressive $148 million cash haul as it looks to commercialize its business. Investors backing the company include the Los Angeles-bas…*
+      
+  - Calling Amsterdam VCs: Be featured in The Great TechCrunch Survey of European VC
+      <hr/>
+      
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Amsterdam will capture how the city is faring, and what changes are being wr…*
+      
   - Picker, an app to discover products recommended by people you follow, picks up €1.3M seed
       <hr/>
       
       - *Picker, an app that lets you discover and buy products recommended by people you follow, has raised €1.3 million in seed funding. Backing the Barcelona-based startup is Berlin’s Btov. The company has received €2 million in funding to date, mainly from various…*
-      
+       
   - G Suite is now Google Workspace
       <hr/>
-      
-      - *Google is rebranding G Suite, its set of online productivity and collaboration tools for businesses that include the likes of Gmail, Drive, Docs and Meet. The new name is Google Workspace, a name the company already hinted at when it first introduced a set of…*
-      
-  - Cryptocurrency wallet BRD reaches 6 million users, driven by growth in Latin America and India
-      <hr/>
-      
-      - *Mobile cryptocurrency wallet BRD announced today that it now has more than six million users worldwide, thanks to strong growth in India and Latin America. With this momentum, the company expects to reach 10 million users by early 2021. Founded in 2015, Zuric…*
        
-  - Faraday Future plans to go public through a SPAC deal
-      <hr/>
-       
-       - *Faraday Future, the electric vehicle startup with a messy and complicated past, is planning to go public through a special-purchase acquisition company (SPAC) deal. The company’s chief executive Carsten Breitfeld told Reuters that the company is working on a …*
+       - *Google is rebranding G Suite, its set of online productivity and collaboration tools for businesses that include the likes of Gmail, Drive, Docs and Meet. The new name is Google Workspace, a name the company already hinted at when it first introduced a set of…*
       
 
 
