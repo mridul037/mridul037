@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 
-~ Elon Musk
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ AI is a fundamental risk to the existence of human civilization.
 
 </pre>
 **Daily News**
-  - Standing by developers through Google v. Oracle
+  - A quick peek into Opendoor's financial results
      <hr/>
      
-      - *We should give developers the right to freely reimplement APIs, as developer ability to shift applications and skills between software ecosystems benefits everyone - we all get better software to accomplish more.*
+      - *As investing whirlwind Chamath Palihapitiya continues to make headlines with his full-court press to take private tech companies public via SPACs while markets are hot, one of his targets has disclosed financial information that helps us better understand the…*
      
-  - Why startups are going public now
+  - To fill funding gaps, VCs boost efforts to find India's standout early-stage startups
       <hr/>
       
-      - *After all those years of startups not going public, 2020 is a little bit different. It feels like more companies are filing, and more companies are seeing their debuts through. We’re even seeing direct listings and SPAC-led deals, along with a trove of tradit…*
+      - *After demonstrating scale, growth and financial improvement, one founder of a two-year-old agritech startup based in India told me that he’s now confronting a new challenge: Unlike his peers in edtech, fintech or e-commerce, there are very few investors he co…*
       
-  - SpaceX awarded contract to help develop U.S. missile-tracking satellite network
+  - Twitter tests a new way to find accounts to follow
       <hr/>
       
-      - *SpaceX has secured a contract valued at just shy of $150 million by the U.S. Space Development Agency, a branch of the U.S. military that is tasked with building out America’s space-based defense capabilities. The contract covers creation and delivery of “spa…*
+      - *Twitter is testing a new way to follow accounts. The company announced today it’s rolling out a new feature, “Suggested Follows,” that will pop up a list of other accounts you may want to follow on the profile page of someone you had just followed. The featur…*
       
-  - Snap announced its latest slate of Originals programming
+  - I’m a software engineer at Uber and I’m voting against Prop 22
       <hr/>
       
-      - *Snap, the social media platform for Gen Z, launched its latest slate of Snap Originals today, in a sign that not every media company has failed to capture the imagination of an audience with short form content. Even as Quibi’s billion dollar gambit continues …*
+      - *I’ve been a software engineer at Uber for two years, and I’ve also been a ride-share driver.*
        
-  - Salesforce Ventures launches $100M Impact Fund to invest in cloud startups with social mission
+  - Cambridge Analytica sought to use Facebook data to predict partisanship for voter targeting, UK investigation confirms
       <hr/>
        
-       - *When Salesforce Ventures launched the first $50 million Impact Fund in 2017, it wanted to invest not only in promising cloud businesses, but startups with a socially positive mission. Today, the company launched the second Impact Fund, this time doubling its …*
+       - *The UK’s data watchdog has sent a letter to parliament In lieu of a final report on a wide-ranging investigation into online political advertising which saw it raid the offices of Cambridge Analytica in 2018 after it emerged that the disgraced (and now defunc…*
       
 
 
