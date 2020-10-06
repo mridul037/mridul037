@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 
 ~ L. Peter Deutsch
 <pre>
