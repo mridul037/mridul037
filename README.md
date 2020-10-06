@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+Good software, like good wine, takes time.
 
-~ Tom DeMarco
+~ Joel Spolsky
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The manager's function is not to make people work, but to make it possible for p
 
 </pre>
 **Daily News**
-  - Europe's top court confirms no mass surveillance without limits
+  - Spacebit books a second trip to the Moon via NASA's commercial lunar payload program
      <hr/>
      
-      - *Europe’s top court has delivered another slap-down to indiscriminate government mass surveillance regimes. In a ruling today the CJEU has made it clear that national security concerns do not exclude EU Member States from the need to comply with general princi…*
+      - *UK-based robotic rover startup Spacebit has booked a second payload delivery to the Moon, aboard the Nova-C lander that Intuitive Machines is planning to send in 2021 as part of NASA’s Commercial Lunar Payload Services (CLPS) program. Spacebit already has a b…*
      
+  - Security flaw left 'smart' chastity sex toy users at risk of permanent lock-in
+      <hr/>
+      
+      - *The bug allowed anyone to permanently lock in the chastity device user's penis.*
+      
+  - Dialpad raises $100M Series E at a $1.2B valuation
+      <hr/>
+      
+      - *Dialpad, the business-centric voice, video and contact-center service, today announced that it has raised a $100 million Series E funding round led by OMERS Growth Equity. Andreessen Horowitz, Google Ventures, ICONIQ Capital and Work-Bench also participated. …*
+      
+  - Europe's top court confirms no mass surveillance without limits
+      <hr/>
+      
+      - *Europe’s top court has delivered another slap-down to indiscriminate government mass surveillance regimes. In a ruling today the CJEU has made it clear that national security concerns do not exclude EU Member States from the need to comply with general princi…*
+       
   - Ÿnsect, the makers of the world’s most expensive bug farm, raises another $224 million
       <hr/>
-      
-      - *Ÿnsect, the startup building the world’s most high tech bug colony, have added $224 million in equity and debt to an already impressive $148 million cash haul as it looks to commercialize its business. Investors backing the company include the Los Angeles-bas…*
-      
-  - Calling Amsterdam VCs: Be featured in The Great TechCrunch Survey of European VC
-      <hr/>
-      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Amsterdam will capture how the city is faring, and what changes are being wr…*
-      
-  - Picker, an app to discover products recommended by people you follow, picks up €1.3M seed
-      <hr/>
-      
-      - *Picker, an app that lets you discover and buy products recommended by people you follow, has raised €1.3 million in seed funding. Backing the Barcelona-based startup is Berlin’s Btov. The company has received €2 million in funding to date, mainly from various…*
        
-  - G Suite is now Google Workspace
-      <hr/>
-       
-       - *Google is rebranding G Suite, its set of online productivity and collaboration tools for businesses that include the likes of Gmail, Drive, Docs and Meet. The new name is Google Workspace, a name the company already hinted at when it first introduced a set of…*
+       - *Ÿnsect, the startup building the world’s most high tech bug colony, have added $224 million in equity and debt to an already impressive $148 million cash haul as it looks to commercialize its business. Investors backing the company include the Los Angeles-bas…*
       
 
 
