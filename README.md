@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, solve the problem. Then, write the code.
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 
-~ John Johnson
+~ Steve Jobs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First, solve the problem. Then, write the code.
 
 </pre>
 **Daily News**
-  - Nivelo nabs $2.5M seed to reduce risk in digital ACH payments
+  - Google adds 'Stories' to its search app for iOS and Android
      <hr/>
      
-      - *As we plunge deeper into the pandemic, online transactions have become increasingly important, and ACH transactions, the ones that help us get direct deposit of our paychecks or pay our bills are growing ever more essential. Nivelo, an early stage startup fro…*
+      - *Google announced today it’s introducing a Stories feature to its Google app for iOS and Android, which now reaches over 800 million people per month. In a new carousel within the app, users in supported markets will be presented with a row of tappable visual …*
      
-  - Google is providing cash awards to 76 startups through a racial equity initiative announced in June
+  - Tone raises $4M to help e-commerce brands text with their customers
       <hr/>
       
-      - *In June of this year, as more of the world began to awaken to the many ways that people of color are systematically discriminated against amid months of protest, a wide number of companies announced initiatives aimed at improving the representation of underre…*
+      - *While many companies are using chatbots and other forms of automation to manage their communication with customers, Boston-based Tone is betting that humans will remain a key part of the equation. “The traditional models of bots and humans is, ‘Hello, I’m a b…*
       
-  - Top five mobility startups to showcase at TC Sessions: Mobility 2020
+  - Apple will announce the next iPhone on October 13
       <hr/>
       
-      - *Tonight, 10 disruptive mobility companies pitched on the virtual TechCrunch stage for a spot at TC Sessions: Mobility 2020. Each company pitched for one minute followed by a Q&A with our expert panel of judges – Shahin Farshchi (Lux Capital), Natalia Quintero…*
+      - *Apple just sent out invites for its upcoming hardware event, all but confirming the arrival of the next iPhone. The event is scheduled nearly a month to the day after the its last big event, which gave us the Apple Watch Series 6 and two new iPads. A new iPho…*
       
-  - Here’s what’s happening today at TC Sessions: Mobility 2020
+  - Google Assistant comes to gaze-powered accessible devices
       <hr/>
       
-      - *Mobility enthusiasts from around the world, welcome to Day One of TC Sessions: Mobility 2020! Get ready for two days of programming dedicated to the people and technology behind the transformation of transportation. Mobility’s a rapidly evolving revolution, a…*
+      - *People who rely on gaze-tracking to interact with their devices on an everyday basis now have a powerful new tool in their arsenal: Google Assistant. Substituting gaze for its original voice-based interface, the Assistant’s multiple integrations and communica…*
        
-  - Facebook's Portal adds support for Netflix, Zoom and other features
+  - Despite pandemic, Amazon Prime Day expected to generate nearly $10B in global sales
       <hr/>
        
-       - *Facebook announced this morning it’s bringing a number of new features and services to its family of Portal devices, including support for Netflix and Zoom. The company will also introduce easier ways to launch Netflix and other video streaming apps via one-t…*
+       - *A new forecast released today estimates Amazon’s delayed Prime Day sales event will top last year’s by bringing in an estimated nearly $10 billion in worldwide sales when it runs later this month. According to eMarketer, which released its first-ever Prime Da…*
       
 
 
