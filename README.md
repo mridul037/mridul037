@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Ed Adams of IBM found that 80% of the reliability problems are caused by only 2%
 
 </pre>
 **Daily News**
-  - Inside Root's IPO filing
+  - Top five mobility startups to showcase at TC Sessions: Mobility 2020
      <hr/>
      
-      - *Last night, Root filed to go public, adding a second name to the insurtech IPO rolls in 2020. Lemonade was first out the gate this summer, taking its rental and home insurance business public at an attractive valuation, compared to its revenues and margins as…*
+      - *Tonight, 10 disruptive mobility companies pitched on the virtual TechCrunch stage for a spot at TC Sessions: Mobility 2020. Each company pitched for one minute followed by a Q&A with our expert panel of judges – Shahin Farshchi (Lux Capital), Natalia Quintero…*
      
-  - Ambani sells over $750 million Reliance Retail stake to Abu Dhabi Investment Authority
+  - Here’s what’s happening today at TC Sessions: Mobility 2020
       <hr/>
       
-      - *Abu Dhabi Investment Authority, which invested $750 million in Indian telecom giant Jio Platforms in June this year, has returned to invest just as much capital in Mukesh Ambani’s other venture. Reliance Retail, India’s largest retail chain, said on Tuesday t…*
+      - *Mobility enthusiasts from around the world, welcome to Day One of TC Sessions: Mobility 2020! Get ready for two days of programming dedicated to the people and technology behind the transformation of transportation. Mobility’s a rapidly evolving revolution, a…*
       
-  - Scratchpad announces $3.6M seed to put work space on top of Salesforce
+  - Facebook's Portal adds support for Netflix, Zoom and other features
       <hr/>
       
-      - *One thing that annoys sales people is entering data into a CRM like Salesforce because it’s time spent not selling. Part of the problem is Salesforce is a database and as such is not necessarily designed for speed. Scratchpad wants to simplify that process by…*
+      - *Facebook announced this morning it’s bringing a number of new features and services to its family of Portal devices, including support for Netflix and Zoom. The company will also introduce easier ways to launch Netflix and other video streaming apps via one-t…*
       
-  - Chargebee raises $55 million to help businesses move to subscriptions
+  - Scribe Therapeutics launches a platform for engineering CRISPR-based therapeutics
       <hr/>
       
-      - *Chargebee, which helps businesses set up and manage their billing, subscription, revenue operations and compliance, said on Tuesday it has raised $55 million in a new financing round as it looks to accelerate its expansion in global markets. The new financing…*
+      - *A new company called Scribe Therapeutics founded by two former members of CRISPR pioneer Jennifer Doudna’s UC Berkely genetics lab (alongside Doudna herself) launched on Tuesday, debuting a platform designed specifically to help develop and engineer new there…*
        
-  - Tokyo-based virtual reality game developer Thirdverse gets $8.5 million Series A
+  - Remotion raises $13M to create a workplace video platform for short, spontaneous conversations
       <hr/>
        
-       - *Thirdverse, the virtual reality game developer behind “Swords of Gargantua,” has raised $8.5 million in Series A funding. The round was led by JAFCO, with participation from Presence Capital, Sisu Ventures, Incubate Fund and KDDI. Based in Tokyo, Thirdverse w…*
+       - *One of the broader trends of the pandemic has been the unbundling of Zoom with startups pulling out a feature or two and designing entire products centered around a specific vision of remote work. One of the more tempting product ideas has been the developmen…*
       
 
 
