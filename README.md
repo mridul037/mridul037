@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 
-~ William Wulf
+~ Terry Winograd
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ More computing sins are committed in the name of efficiency (without necessarily
 
 </pre>
 **Daily News**
-  - Transportation VCs suggest frayed US-China ties will impact mobility markets
+  - Here's the curtain raise on the Sight Tech Global agenda
      <hr/>
      
-      - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
+      - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
      
-  - Adding Claire Díaz-Ortiz to its partnership, Magma Partners launches initiative to invest in female founders in LatAm
+  - Media roundup: Google to cut big checks for news publishers, Substack continues to draw top creators, more
       <hr/>
       
-      - *Claire Díaz-Ortiz has been many things over the course of her career — an angel investor, an early Twitter employee (who notably got the Pope on Twitter), the founder of a nonprofit, a published author and an entrepreneur. Now, the globe-trotting, multi-hyphe…*
+      - *Welcome back to Extra Crunch’s Media Roundup, where I round up the stories that entrepreneurs in the content and advertising business should be thinking about — trends, larger platform shifts, as well as noteworthy funding rounds. This time, we’ve got some ba…*
       
-  - Tech-publisher coalition backs new push for browser-level privacy controls
+  - YouTube Premium subscribers get a new perk with launch of testing program
       <hr/>
       
-      - *Remember ‘Do Not Track‘? The tracker-loving adtech industry hopes you don’t recall that decade+ doomed attempt to bake user-friendly privacy controls into browsers. But a coalition of privacy-forward tech companies, publishers and advocacy groups has taken th…*
+      - *YouTube has long allowed its users to test new features and products before they go live to a wider audience. But in a recent change, YouTube’s latest series of experiments are being limited to those who subscribe the Premium tier of YouTube’s service. Curren…*
       
-  - Dear Sophie: Is it easier and faster to get an O-1A than an EB-1A?
+  - Decrypted: The major ransomware attack you probably didn't hear about
       <hr/>
       
-      - *Here’s a summary of the pros and cons of O-1A and EB-1A visas.*
+      - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
        
-  - Google Assistant gets an incognito-like guest mode
+  - Transportation VCs suggest frayed US-China ties will impact mobility markets
       <hr/>
        
-       - *Google is launching a few new privacy features today that include a refreshed Safety Center that’s now live in the U.S. and coming soon globally, as well as more prominent alerts when the company expects that your account has been tampered with. The most inte…*
+       - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
       
 
 
