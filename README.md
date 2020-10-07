@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Alan Kay
+~ William Wulf
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best way to predict the future is to invent it.
 
 </pre>
 **Daily News**
-  - Tech-publisher coalition backs new push for browser-level privacy controls
+  - Transportation VCs suggest frayed US-China ties will impact mobility markets
      <hr/>
      
-      - *Remember ‘Do Not Track‘? The tracker-loving adtech industry hopes you don’t recall that decade+ doomed attempt to bake user-friendly privacy controls into browsers. But a coalition of privacy-forward tech companies, publishers and advocacy groups has taken th…*
+      - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
      
+  - Adding Claire Díaz-Ortiz to its partnership, Magma Partners launches initiative to invest in female founders in LatAm
+      <hr/>
+      
+      - *Claire Díaz-Ortiz has been many things over the course of her career — an angel investor, an early Twitter employee (who notably got the Pope on Twitter), the founder of a nonprofit, a published author and an entrepreneur. Now, the globe-trotting, multi-hyphe…*
+      
+  - Tech-publisher coalition backs new push for browser-level privacy controls
+      <hr/>
+      
+      - *Remember ‘Do Not Track‘? The tracker-loving adtech industry hopes you don’t recall that decade+ doomed attempt to bake user-friendly privacy controls into browsers. But a coalition of privacy-forward tech companies, publishers and advocacy groups has taken th…*
+      
   - Dear Sophie: Is it easier and faster to get an O-1A than an EB-1A?
       <hr/>
       
       - *Here’s a summary of the pros and cons of O-1A and EB-1A visas.*
-      
+       
   - Google Assistant gets an incognito-like guest mode
       <hr/>
-      
-      - *Google is launching a few new privacy features today that include a refreshed Safety Center that’s now live in the U.S. and coming soon globally, as well as more prominent alerts when the company expects that your account has been tampered with. The most inte…*
-      
-  - Former Apple engineer and autocorrect creator builds his first app, a word game called Up Spell
-      <hr/>
-      
-      - *Former Apple software engineer and designer Ken Kocienda, whose work included the original iPhone and the development of touchscreen autocorrect, has created his first iOS app, Up Spell. The fast-paced, fun word game challenges users to spell all the words yo…*
        
-  - YC grad DigitalBrain snags $3.4M seed to streamline customer service tasks
-      <hr/>
-       
-       - *Most startup founders have a tough road to their first round of funding, but the founders of Digital Brain had it a bit tougher than most. The two young founders survived by entering and winning hackathons to pay their rent and put on food on the table. One o…*
+       - *Google is launching a few new privacy features today that include a refreshed Safety Center that’s now live in the U.S. and coming soon globally, as well as more prominent alerts when the company expects that your account has been tampered with. The most inte…*
       
 
 
