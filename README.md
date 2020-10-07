@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 
-~ Alan Turing
+~ John Gall (author)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The idea behind digital computers may be explained by saying that these machines
 
 </pre>
 **Daily News**
-  - Amazon sends legal notice to India's Future Group over deal with Ambani's Reliance Retail
+  - Startups joining SK Telecom's accelerator include AI-driven mapping and vision for delivery robots
      <hr/>
      
-      - *Amazon has sent a legal notice to Future Retail, India’s second largest retail chain, for breaching the terms of its contract by selling a significant portion of the business to Ambani’s Reliance Retail. Future Group announced in late August that it was selli…*
+      - *We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless c…*
      
+  - Facebook: Trump can't recruit 'army' of poll watchers under new voter intimidation rules
+      <hr/>
+      
+      - *In a blog post Wednesday, Facebook said it will no longer allow content that encourages poll watching that uses “militarized” language or intends to “intimidate, exert control, or display power over election officials or voters.” Facebook credited the update …*
+      
+  - Amazon sends legal notice to India's Future Group over deal with Ambani's Reliance Retail
+      <hr/>
+      
+      - *Amazon has sent a legal notice to Future Retail, India’s second largest retail chain, for breaching the terms of its contract by selling a significant portion of the business to Ambani’s Reliance Retail. Future Group announced in late August that it was selli…*
+      
   - Here's the curtain raise on the Sight Tech Global agenda
       <hr/>
       
       - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
-      
+       
   - Media roundup: Google to cut big checks for news publishers, Substack continues to draw top creators, more
       <hr/>
-      
-      - *Welcome back to Extra Crunch’s Media Roundup, where I round up the stories that entrepreneurs in the content and advertising business should be thinking about — trends, larger platform shifts, as well as noteworthy funding rounds. This time, we’ve got some ba…*
-      
-  - YouTube Premium subscribers get a new perk with launch of testing program
-      <hr/>
-      
-      - *YouTube has long allowed its users to test new features and products before they go live to a wider audience. But in a recent change, YouTube’s latest series of experiments are being limited to those who subscribe the Premium tier of YouTube’s service. Curren…*
        
-  - Decrypted: The major ransomware attack you probably didn't hear about
-      <hr/>
-       
-       - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
+       - *Welcome back to Extra Crunch’s Media Roundup, where I round up the stories that entrepreneurs in the content and advertising business should be thinking about — trends, larger platform shifts, as well as noteworthy funding rounds. This time, we’ve got some ba…*
       
 
 
