@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The hardest part of design is keeping features out.
+With artificial intelligence we are summoning the demon.
 
-~ Don Norman
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The hardest part of design is keeping features out.
 
 </pre>
 **Daily News**
-  - Quarantine drives interest in autonomous delivery, but it's still miles from mainstream
+  - Greycroft has rounded up $678 million in capital across two new funds
      <hr/>
      
-      - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
+      - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
      
+  - Quarantine drives interest in autonomous delivery, but it's still miles from mainstream
+      <hr/>
+      
+      - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
+      
   - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
       <hr/>
       
@@ -81,16 +86,11 @@ The hardest part of design is keeping features out.
       <hr/>
       
       - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
-      
+       
   - Steps from the House Judiciary Committee are too little, too late when it comes to big tech
       <hr/>
-      
-      - *The U.S. House Judiciary Committee has finally released its omnibus report  on its investigation into the monopoly powers held by Apple, Amazon, Alphabet, and Facebook and its findings will do nothing to stem the power of big tech. For startups, the most rele…*
        
-  - Facebook says it will ban QAnon across its platforms
-      <hr/>
-       
-       - *Facebook expanded a ban on QAnon-related content on its various social platforms Tuesday, deepening a previous prohibition on QAnon-related groups that had “discussed potential violence,” according to the company. Today’s move by Facebook to not only ban viol…*
+       - *The U.S. House Judiciary Committee has finally released its omnibus report  on its investigation into the monopoly powers held by Apple, Amazon, Alphabet, and Facebook and its findings will do nothing to stem the power of big tech. For startups, the most rele…*
       
 
 
