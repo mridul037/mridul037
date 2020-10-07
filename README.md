@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+The best way to predict the future is to invent it.
 
-~ Wayne Ratliff
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If I had followed my heart instead of advice, dBASE would be much closer to perf
 
 </pre>
 **Daily News**
-  - Former Apple engineer and autocorrect creator builds his first app, a word game called Up Spell
+  - Tech-publisher coalition backs new push for browser-level privacy controls
      <hr/>
      
-      - *Former Apple software engineer and designer Ken Kocienda, whose work included the original iPhone and the development of touchscreen autocorrect, has created his first iOS app, Up Spell. The fast-paced, fun word game challenges users to spell all the words yo…*
+      - *Remember ‘Do Not Track‘? The tracker-loving adtech industry hopes you don’t recall that decade+ doomed attempt to bake user-friendly privacy controls into browsers. But a coalition of privacy-forward tech companies, publishers and advocacy groups has taken th…*
      
+  - Dear Sophie: Is it easier and faster to get an O-1A than an EB-1A?
+      <hr/>
+      
+      - *Here’s a summary of the pros and cons of O-1A and EB-1A visas.*
+      
+  - Google Assistant gets an incognito-like guest mode
+      <hr/>
+      
+      - *Google is launching a few new privacy features today that include a refreshed Safety Center that’s now live in the U.S. and coming soon globally, as well as more prominent alerts when the company expects that your account has been tampered with. The most inte…*
+      
+  - Former Apple engineer and autocorrect creator builds his first app, a word game called Up Spell
+      <hr/>
+      
+      - *Former Apple software engineer and designer Ken Kocienda, whose work included the original iPhone and the development of touchscreen autocorrect, has created his first iOS app, Up Spell. The fast-paced, fun word game challenges users to spell all the words yo…*
+       
   - YC grad DigitalBrain snags $3.4M seed to streamline customer service tasks
       <hr/>
-      
-      - *Most startup founders have a tough road to their first round of funding, but the founders of Digital Brain had it a bit tougher than most. The two young founders survived by entering and winning hackathons to pay their rent and put on food on the table. One o…*
-      
-  - Instagram's Threads app now lets you message everyone, like its Direct app once did
-      <hr/>
-      
-      - *Last year, Instagram announced it was ending support for its standalone mobile messaging app known as Direct, which had allowed users to quickly create and share messages with friends. Shortly thereafter, the company launched Threads, a new messaging app focu…*
-      
-  - Zira raises $3.1M for its shift-scheduling service that helps manage hourly workers
-      <hr/>
-      
-      - *This morning Zira raised $3.1 million in a seed round. The startup provides software that helps businesses schedule their hourly workforce in a more intelligent manner. Software often fails to reach non-information workers, so it’s nice to see a startup focus…*
        
-  - Here's your first look at Boom Supersonic's faster-than-sound XB-1 demonstrator aircraft
-      <hr/>
-       
-       - *Boom Supersonic is closer than ever to its goal of introducing supersonic commercial aviation back tot he global stage – the Colorado-based startup unveiled the final design of its XB-1 demonstrator aircraft today. This is a fully functional prototype airplan…*
+       - *Most startup founders have a tough road to their first round of funding, but the founders of Digital Brain had it a bit tougher than most. The two young founders survived by entering and winning hackathons to pay their rent and put on food on the table. One o…*
       
 
 
