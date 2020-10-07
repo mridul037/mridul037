@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 
-~ Gary Kildall
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When a program is clean and neat, nicely structured, and consistent, it can be b
 
 </pre>
 **Daily News**
-  - Elvie adds a non-electric breast pump and cups to its growing femtech portfolio
+  - Truecaller tops 250 million users
      <hr/>
      
-      - *Femtech hardware maker Elvie has added a softer, hands-free breast pump that uses natural suction to its portfolio two years after launching its debut ‘next-gen’ connected breast pump. The Elvie Curve is described as “a wearable, silicone breast pump that all…*
+      - *Popular caller-identification service Truecaller has amassed 250 million monthly active users and 200 million daily active users, demonstrating an accelerated pace of growth in recent quarters even as a global pandemic has hurt most businesses, it said on Wed…*
      
+  - Dictionary app Reverso launches desktop app
+      <hr/>
+      
+      - *Language learning company Reverso is launching its desktop app for macOS and Windows. Like on mobile, it lets you access a translation dictionary and get examples in context. The company has attracted 40,000 downloads in two days. While Google Translate is ma…*
+      
+  - Elvie adds a non-electric breast pump and cups to its growing femtech portfolio
+      <hr/>
+      
+      - *Femtech hardware maker Elvie has added a softer, hands-free breast pump that uses natural suction to its portfolio two years after launching its debut ‘next-gen’ connected breast pump. The Elvie Curve is described as “a wearable, silicone breast pump that all…*
+      
   - Helsinki rides the Slush wave toward a booming startup future
       <hr/>
       
       - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
-      
+       
   - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
       <hr/>
-      
-      - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
-      
-  - Greycroft has rounded up $678 million in capital across two new funds
-      <hr/>
-      
-      - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
        
-  - Quarantine drives interest in autonomous delivery, but it's still miles from mainstream
-      <hr/>
-       
-       - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
+       - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
       
 
 
