@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ Tom DeMarco
+~ Nathaniel Borenstein
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The business of software building isn't really high-tech at all. It's most of al
 
 </pre>
 **Daily News**
-  - Daily Crunch: G Suite becomes Google Workspace
+  - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
      <hr/>
      
-      - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
+      - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
      
+  - Daily Crunch: G Suite becomes Google Workspace
+      <hr/>
+      
+      - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
+      
   - Steps from the House Judiciary Committee are too little, too late when it comes to big tech
       <hr/>
       
@@ -81,16 +86,11 @@ The business of software building isn't really high-tech at all. It's most of al
       <hr/>
       
       - *Facebook expanded a ban on QAnon-related content on its various social platforms Tuesday, deepening a previous prohibition on QAnon-related groups that had “discussed potential violence,” according to the company. Today’s move by Facebook to not only ban viol…*
-      
+       
   - Google's new logos are bad
       <hr/>
-      
-      - *Google really whiffed with the new logos for its “reimagination” of G Suite as Google Workspace, replacing icons that are familiar, recognizable, and in Gmail’s case iconic if you will, with little rainbow blobs that everyone will now struggle to tell apart i…*
        
-  - What micromobility is missing
-      <hr/>
-       
-       - *AT TC Sessions: Mobility, we heard from Tortoise co-founder and president Dmitry Shevelenko, Elemental Excelerator director of Innovation, Mobility, Danielle Harris and Superpedestrian VP of Strategy and Policy, Avra van der Zee about the next opportunities i…*
+       - *Google really whiffed with the new logos for its “reimagination” of G Suite as Google Workspace, replacing icons that are familiar, recognizable, and in Gmail’s case iconic if you will, with little rainbow blobs that everyone will now struggle to tell apart i…*
       
 
 
