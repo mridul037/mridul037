@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Fred Brooks
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One must assume that there will be lots of bugs, and plan an orderly procedure f
 
 </pre>
 **Daily News**
-  - European antitrust regulators settle with Broadcom a year after 'interim measures' flex
+  - Zira raises $3.1M for its shift-scheduling service that helps manage hourly workers
      <hr/>
      
-      - *A European antitrust probe of chipmaker Broadcom has been settled at an impressive clip, a little over a year after formally kicking off. The Commission announced today it has accepted commitments from the U.S. chipmaker to suspend all existing agreements con…*
+      - *This morning Zira raised $3.1 million in a seed round. The startup provides software that helps businesses schedule their hourly workforce in a more intelligent manner. Software often fails to reach non-information workers, so it’s nice to see a startup focus…*
      
-  - Uber still sees micromobility and AVs in its future, and could push Prop 22 beyond California
+  - Here's your first look at Boom Supersonic's faster-than-sound XB-1 demonstrator aircraft
       <hr/>
       
-      - *Uber made headlines earlier this year when it offloaded Jump, the shared bike and scooter unit that once appeared to be a critical piece of its transportation. Despite that move, Uber still sees micromobility as “really important” to the company, according to…*
+      - *Boom Supersonic is closer than ever to its goal of introducing supersonic commercial aviation back tot he global stage – the Colorado-based startup unveiled the final design of its XB-1 demonstrator aircraft today. This is a fully functional prototype airplan…*
       
-  - Apple brings Health Records to iPhone in the UK and Canada
+  - See what’s happening on day two of TC Sessions: Mobility 2020
       <hr/>
       
-      - *Apple has added support for the Health Records feature of its Health app on iPhones in two new markets – the UK and Canada. The electronic medical records feature originally debuted in the U.S. in 2018, and the company says that it’s now supported by over 500…*
+      - *Grab your caffeinated beverage of choice and get ready for Day Two of TC Sessions: Mobility 2020! Yesterday featured an incredible lineup packed with trends, insights and opportunities designed to help you build a stronger business. Buckle up folks because we…*
       
-  - Envisics nabs $50M for its in-car holographic display tech at a $250M+ valuation
+  - Unqork's $207M Series C underscores growing enterprise demand for no-code apps
       <hr/>
       
-      - *The jury is still out on what might become the most viable business models for augmented reality technology, but in the meantime a startup out of the UK is betting one big area will be in vehicles, in the form of holographic displays. And today it is announci…*
+      - *This week, Unqork, a startup that helps other companies build business apps with a no-code platform, raised a $207 million Series C. The new capital valued the firm at around $2 billion. Even given how much attention 2020 has brought to no-code startups and t…*
        
-  - Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging
+  - DoorDash introduces a new corporate product, DoorDash for Work
       <hr/>
        
-       - *Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.6 million seed funding round. Investors include Clos de la …*
+       - *Delivery service DoorDash is giving employers a way to feed their remote employees through a new suite of products called DoorDash for Work. There are four main products, starting with DashPass for Work, where employers can fund employee memberships to DashPa…*
       
 
 
