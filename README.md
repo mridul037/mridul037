@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Terry Winograd
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The techniques of artificial intelligence are to the mind what bureaucracy is to
 
 </pre>
 **Daily News**
-  - Here's the curtain raise on the Sight Tech Global agenda
+  - Amazon sends legal notice to India's Future Group over deal with Ambani's Reliance Retail
      <hr/>
      
-      - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
+      - *Amazon has sent a legal notice to Future Retail, India’s second largest retail chain, for breaching the terms of its contract by selling a significant portion of the business to Ambani’s Reliance Retail. Future Group announced in late August that it was selli…*
      
+  - Here's the curtain raise on the Sight Tech Global agenda
+      <hr/>
+      
+      - *The goal of Sight Tech Global, a virtual, global event on December 2-3, 2020, is to gather the world’s top experts who are applying advanced technologies, notably AI, to the future of accessibility and assistive tech for people who are blind or visually impai…*
+      
   - Media roundup: Google to cut big checks for news publishers, Substack continues to draw top creators, more
       <hr/>
       
@@ -81,16 +86,11 @@ The techniques of artificial intelligence are to the mind what bureaucracy is to
       <hr/>
       
       - *YouTube has long allowed its users to test new features and products before they go live to a wider audience. But in a recent change, YouTube’s latest series of experiments are being limited to those who subscribe the Premium tier of YouTube’s service. Curren…*
-      
+       
   - Decrypted: The major ransomware attack you probably didn't hear about
       <hr/>
-      
-      - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
        
-  - Transportation VCs suggest frayed US-China ties will impact mobility markets
-      <hr/>
-       
-       - *On Tuesday, during TechCrunch’s annual Mobility event, we had the opportunity to interview three investors who spend much of their time focused narrowly on shifts in the transportation industry and we talked with the three — Amy Gu of Hemi Ventures, Reilly Br…*
+       - *This week we look at one of the biggest hacks of the year that you probably didn't know about.*
       
 
 
