@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 
-~ Richard Stallman
+~ Douglas Crockford
 <pre>
 
 </pre>
