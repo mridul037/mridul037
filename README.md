@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Terry Winograd
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The main activity of programming is not the origination of new independent progr
 
 </pre>
 **Daily News**
-  - Helsinki rides the Slush wave toward a booming startup future
+  - Elvie adds a non-electric breast pump and cups to its growing femtech portfolio
      <hr/>
      
-      - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
+      - *Femtech hardware maker Elvie has added a softer, hands-free breast pump that uses natural suction to its portfolio two years after launching its debut ‘next-gen’ connected breast pump. The Elvie Curve is described as “a wearable, silicone breast pump that all…*
      
+  - Helsinki rides the Slush wave toward a booming startup future
+      <hr/>
+      
+      - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
+      
   - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
       <hr/>
       
@@ -81,16 +86,11 @@ The main activity of programming is not the origination of new independent progr
       <hr/>
       
       - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
-      
+       
   - Quarantine drives interest in autonomous delivery, but it's still miles from mainstream
       <hr/>
-      
-      - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
        
-  - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
-      <hr/>
-       
-       - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
+       - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
       
 
 
