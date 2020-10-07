@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Nathaniel Borenstein
+~ Pete Cordell
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It should be noted that no ethically-trained software engineer would ever consen
 
 </pre>
 **Daily News**
-  - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
+  - Quarantine drives interest in autonomous delivery, but it's still miles from mainstream
      <hr/>
      
-      - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
+      - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
      
+  - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
+      <hr/>
+      
+      - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
+      
   - Daily Crunch: G Suite becomes Google Workspace
       <hr/>
       
@@ -81,16 +86,11 @@ It should be noted that no ethically-trained software engineer would ever consen
       <hr/>
       
       - *The U.S. House Judiciary Committee has finally released its omnibus report  on its investigation into the monopoly powers held by Apple, Amazon, Alphabet, and Facebook and its findings will do nothing to stem the power of big tech. For startups, the most rele…*
-      
+       
   - Facebook says it will ban QAnon across its platforms
       <hr/>
-      
-      - *Facebook expanded a ban on QAnon-related content on its various social platforms Tuesday, deepening a previous prohibition on QAnon-related groups that had “discussed potential violence,” according to the company. Today’s move by Facebook to not only ban viol…*
        
-  - Google's new logos are bad
-      <hr/>
-       
-       - *Google really whiffed with the new logos for its “reimagination” of G Suite as Google Workspace, replacing icons that are familiar, recognizable, and in Gmail’s case iconic if you will, with little rainbow blobs that everyone will now struggle to tell apart i…*
+       - *Facebook expanded a ban on QAnon-related content on its various social platforms Tuesday, deepening a previous prohibition on QAnon-related groups that had “discussed potential violence,” according to the company. Today’s move by Facebook to not only ban viol…*
       
 
 
