@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Fred Brooks
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The management question, therefore, is not whether to build a pilot system and t
 
 </pre>
 **Daily News**
-  - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
+  - Helsinki rides the Slush wave toward a booming startup future
      <hr/>
      
-      - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
+      - *In September 2020, Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital …*
      
+  - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
+      <hr/>
+      
+      - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
+      
   - Greycroft has rounded up $678 million in capital across two new funds
       <hr/>
       
@@ -81,16 +86,11 @@ The management question, therefore, is not whether to build a pilot system and t
       <hr/>
       
       - *The prospect of truly zero contact delivery seems closer — and more important — than ever with the pandemic changing how we think of last mile logistics. Autonomous delivery executives from FedEx, Postmates, and Refraction AI joined us to talk about the emerg…*
-      
+       
   - Arm CEO Simon Segars discusses AI, data centers, getting acquired by Nvidia and more
       <hr/>
-      
-      - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
        
-  - Daily Crunch: G Suite becomes Google Workspace
-      <hr/>
-       
-       - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
+       - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
       
 
 
