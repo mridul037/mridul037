@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+Your most unhappy customers are your greatest source of learning.
 
-~ Elon Musk
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ With artificial intelligence we are summoning the demon.
 
 </pre>
 **Daily News**
-  - Greycroft has rounded up $678 million in capital across two new funds
+  - India approves Apple partners and Samsung for $143 billion smartphone manufacturing plan
      <hr/>
      
-      - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
+      - *Samsung and three major contract manufacturing partners of Apple are among 16 firms to win $6.65 billion incentives under India’s federal plan to boost domestic smartphone production over the next five years. These companies had applied for the incentive prog…*
      
+  - Greycroft has rounded up $678 million in capital across two new funds
+      <hr/>
+      
+      - *Greycroft, the New York and L.A.-based venture firm founded in 2006 by investors Alan Patricof, Dana Settle, and Ian Sigalow, has closed on two new funds totaling $678 million in capital commitments. One of those funds is its sixth flagship early-stage fund a…*
+      
   - Quarantine drives interest in autonomous delivery, but it's still miles from mainstream
       <hr/>
       
@@ -81,16 +86,11 @@ With artificial intelligence we are summoning the demon.
       <hr/>
       
       - *Nvidia is in the process of acquiring chip designer Arm for $40 billion. Coincidentally, both companies are also holding their respective developer conferences this week. After he finished his keynote at the Arm DevSummit, I sat down with Arm CEO Simon Segars…*
-      
+       
   - Daily Crunch: G Suite becomes Google Workspace
       <hr/>
-      
-      - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
        
-  - Steps from the House Judiciary Committee are too little, too late when it comes to big tech
-      <hr/>
-       
-       - *The U.S. House Judiciary Committee has finally released its omnibus report  on its investigation into the monopoly powers held by Apple, Amazon, Alphabet, and Facebook and its findings will do nothing to stem the power of big tech. For startups, the most rele…*
+       - *Google rebrands G Suite, Apple announces its next event date and John McAfee is arrested. This is your Daily Crunch for October 6, 2020. The big story: G Suite becomes Google Workspace To a large extent, Google Workspace is just a rebranding of G Suite, compl…*
       
 
 
