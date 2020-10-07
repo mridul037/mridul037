@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 
-~ Linus Torvalds
+~ Wayne Ratliff
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 
 </pre>
 **Daily News**
-  - Zira raises $3.1M for its shift-scheduling service that helps manage hourly workers
+  - Former Apple engineer and autocorrect creator builds his first app, a word game called Up Spell
      <hr/>
      
-      - *This morning Zira raised $3.1 million in a seed round. The startup provides software that helps businesses schedule their hourly workforce in a more intelligent manner. Software often fails to reach non-information workers, so it’s nice to see a startup focus…*
+      - *Former Apple software engineer and designer Ken Kocienda, whose work included the original iPhone and the development of touchscreen autocorrect, has created his first iOS app, Up Spell. The fast-paced, fun word game challenges users to spell all the words yo…*
      
+  - YC grad DigitalBrain snags $3.4M seed to streamline customer service tasks
+      <hr/>
+      
+      - *Most startup founders have a tough road to their first round of funding, but the founders of Digital Brain had it a bit tougher than most. The two young founders survived by entering and winning hackathons to pay their rent and put on food on the table. One o…*
+      
+  - Instagram's Threads app now lets you message everyone, like its Direct app once did
+      <hr/>
+      
+      - *Last year, Instagram announced it was ending support for its standalone mobile messaging app known as Direct, which had allowed users to quickly create and share messages with friends. Shortly thereafter, the company launched Threads, a new messaging app focu…*
+      
+  - Zira raises $3.1M for its shift-scheduling service that helps manage hourly workers
+      <hr/>
+      
+      - *This morning Zira raised $3.1 million in a seed round. The startup provides software that helps businesses schedule their hourly workforce in a more intelligent manner. Software often fails to reach non-information workers, so it’s nice to see a startup focus…*
+       
   - Here's your first look at Boom Supersonic's faster-than-sound XB-1 demonstrator aircraft
       <hr/>
-      
-      - *Boom Supersonic is closer than ever to its goal of introducing supersonic commercial aviation back tot he global stage – the Colorado-based startup unveiled the final design of its XB-1 demonstrator aircraft today. This is a fully functional prototype airplan…*
-      
-  - See what’s happening on day two of TC Sessions: Mobility 2020
-      <hr/>
-      
-      - *Grab your caffeinated beverage of choice and get ready for Day Two of TC Sessions: Mobility 2020! Yesterday featured an incredible lineup packed with trends, insights and opportunities designed to help you build a stronger business. Buckle up folks because we…*
-      
-  - Unqork's $207M Series C underscores growing enterprise demand for no-code apps
-      <hr/>
-      
-      - *This week, Unqork, a startup that helps other companies build business apps with a no-code platform, raised a $207 million Series C. The new capital valued the firm at around $2 billion. Even given how much attention 2020 has brought to no-code startups and t…*
        
-  - DoorDash introduces a new corporate product, DoorDash for Work
-      <hr/>
-       
-       - *Delivery service DoorDash is giving employers a way to feed their remote employees through a new suite of products called DoorDash for Work. There are four main products, starting with DashPass for Work, where employers can fund employee memberships to DashPa…*
+       - *Boom Supersonic is closer than ever to its goal of introducing supersonic commercial aviation back tot he global stage – the Colorado-based startup unveiled the final design of its XB-1 demonstrator aircraft today. This is a fully functional prototype airplan…*
       
 
 
