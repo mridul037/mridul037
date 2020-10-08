@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Linus Torvalds
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Most good programmers do programming not because they expect to get paid or get 
 
 </pre>
 **Daily News**
-  - Enhanced computer vision, sensors raise manufacturing stakes for robots as a service
+  - Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI
      <hr/>
      
-      - *Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.*
+      - *TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020. Interestingly, w…*
      
-  - Blissfully expands from SaaS management into wider IT services aimed at midmarket
+  - Tech's role in the COVID-19 response: Assist, don't reinvent
       <hr/>
       
-      - *When Blissfully launched in 2016, it was focused on helping companies understand their SaaS usage inside their organizations, but over time the company has seen that there is a wider need, especially in midmarket companies, and today it announced it was expan…*
+      - *The pandemic has affected just about every business in the world, but tech has also geared up to fight back in its own way, as we found out from speakers at Disrupt 2020. But technology has opted to take a back seat to frontline workers and find ways to suppo…*
       
-  - Millennial Media's Paul Palmieri launches Tradeswell, a startup promising to fix e-commerce margins
+  - Affirm files confidentially to go public
       <hr/>
       
-      - *A new startup called Tradeswell said it’s using artificial intelligence to help direct-to-consumer and e-commerce brands build healthier businesses. The company is led by Paul Palmieri, who previously took mobile advertising company Millennial Media public an…*
+      - *This afternoon Affirm, a startup focused on providing point-of-sale credit to consumers making online purchases, announced that it has filed to go public. The filing is confidential, so there’s little to be gleaned about the company’s performance from the new…*
       
-  - Instacart raises $200M more at $17.7B valuation
+  - These 3 factors are holding back podcast monetization
       <hr/>
       
-      - *Instacart announced today that it has raised $200 million in a new funding round featuring prior investors. D1 Capital and Valiant Peregrine Fund led the investment. Instacart is now worth $17.7 billion, post-money, or $17.5 billion pre-money. The plan is to …*
+      - *If we want podcasting to continue to scale beyond its current and projected advertising revenue heights, we need to resolve some fundamental challenges.*
        
-  - Waymo starts to open driverless ride-hailing service to the public
+  - Podcast advertising has a business intelligence gap
       <hr/>
        
-       - *Waymo, the Google self-driving-project-turned-Alphabet unit, is beginning to open up its driverless ride-hailing service to the public. The company said that starting today members of its Waymo One service will be able to take family and friends along on thei…*
+       - *Widespread misinformation and misconceptions are delaying ad revenue growth for podcast creators, publishers and networks.*
       
 
 
