@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best minds of my generation are thinking about how to make people click ads.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Jeff Hammerbacher
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best minds of my generation are thinking about how to make people click ads.
 
 </pre>
 **Daily News**
-  - Second U.S. Presidential debate will be done remotely via live-streamed video
+  - Kroger, one of America's largest grocery chains, experiments with ghost kitchens and delivery in the Midwest
      <hr/>
      
-      - *The next U.S. Presidential debate between President Trump and Democratic candidate and former VP Joe Biden will be done remotely, the U.S. Commission on Presidential Debates (CPD) announced today. This follows an intense news cycle that came immediately after…*
+      - *The Kroger Co., one of the biggest grocery chains in the Midwest is dipping its toe into on-demand delivery and the ghost kitchen craze through a partnership with an Indianapolis-based startup, ClusterTruck. Supermarkets would seem to be logical places to sit…*
      
-  - Dr Lal PathLabs, one of India's largest blood test labs, exposed patient data
+  - U.S. Space Force is getting an immersive space sim training tool built in part by the VFX studio behind 'The Mandalorian'
       <hr/>
       
-      - *Exclusive: The lab giant left patients and test data on the internet without a password.*
+      - *The U.S. Space Force obviously won’t be able to train most of their service people in actual space, so they relatively new arm of America’s defense forces has tasked Slingshot Aerospace to create a VR space sim, in partnership with The Third Floor, a Hollywoo…*
       
-  - Google must negotiate to pay for French news, appeals court confirms
+  - IBM plans to spin off infrastructure services as a separate $19B business
       <hr/>
       
-      - *Google’s appeal against an order by France’s competition watchdog to negotiate with publishers for reuse of snippets of their content has failed. As we reported in April, the French authority was acting on a new ‘neighbouring right’ for news which was transpo…*
+      - *IBM, a company that originally made its name out of its leadership in building a myriad of enterprise hardware (quite literally: its name is an abbreviation for International Business Machines), is taking one more step away from that legacy and deeper into th…*
       
-  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
+  - MessageBird, the 'omnichannel platform-as-a-service,' raises $200M Series C at $3B valuation
       <hr/>
       
-      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
+      - *MessageBird, the Amsterdam-headquartered cloud communications company, has raised $200 million in Series C funding in a round led by Silicon Valley’s Spark Capital. The new investment gives 2011-founded MessageBird a whopping $3 billion valuation, and include…*
        
-  - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
+  - Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production
       <hr/>
        
-       - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
+       - *Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.6 million Series A funding round, which c…*
       
 
 
