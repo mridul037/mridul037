@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Linus Torvalds
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 
 </pre>
 **Daily News**
-  - Zero’s SR/S doubles as an EV sport motorcycle and sport-tourer
+  - Understanding Airbnb's summer recovery
      <hr/>
      
-      - *Zero’s 2020 SR/S could be your EV sport bike or sport-tourer. Unveiled earlier this year, the all electric motorcycle brings performance attributes of both classes — with a unique list of pros and cons compared to gas-powered peers. The SR/S also adds to the …*
+      - *New numbers concerning Airbnb’s summer performance were reported this week, with The Information adding to the performance figures that Bloomberg previously detailed earlier this year. Airbnb announced that it filed privately to pursue a debut this August. We…*
      
-  - Investors, founders report hot market for API startups
+  - Lime revamps its app to include competitors, starting with Wheels ebikes
       <hr/>
       
-      - *Startups that deliver their service via an API are having a moment. Or perhaps a year. Speaking with founders and investors this year, it has become clear that the API model of delivering a product is more than an occasional hit-maker for companies like Twili…*
+      - *Lime might best known for its bright green micromobility devices, or more recently, its ownership of the iconic red Jump electric bikes. But now, the company is expanding in a way that could see it “housing” numerous other micromobility brands on its own app.…*
       
-  - Revolut lets you track your subscriptions, adds savings bonus in the US
+  - Virgin Hyperloop to safety test its hyperloop technology at new West Virginia certification center
       <hr/>
       
-      - *Fintech startup Revolut has rolled out a handful of additional features over the past few days. The financial app lets you track all your subscriptions that you pay with your Revolut account or your card. In the U.S., Revolut is adding a savings bonus based o…*
+      - *Virgin Hyperloop announced a key step in its long-term goal of making hyperloop transportation a reality in the U.S. on Thursday. The company revealed it will be doing its certification testing at a new West Virginia facility. This will be crucial to the crea…*
       
-  - Neocis, the maker of dental surgery robots, roots out another $72 million
+  - A developer of therapy devices for athletes is now worth $700 million thanks to superstar backers like Naomi Osaka
       <hr/>
       
-      - *Since the robotic dental surgery assistant Yomi first came on the market in 2019 more than 2,700 patients have stared up at its plastic sheathed metal arms, and now the company behind it, Neocis, has raised $72 million to bring it into more dentists’ offices.…*
+      - *A crew of high-wattage celebrity athletes have teamed up to invest $47.8 million into Hyperice, a developer of medical devices designed to help players and fitness buffs recover after workouts or games. Backing the company are some of the biggest names in bas…*
        
-  - Betaworks and Betalab unveil their first four startups working to ‘fix the internet’
+  - As IBM spins out legacy infrastructure management biz, CEO goes all in on the cloud
       <hr/>
        
-       - *Back in March, startup studio Betaworks announced that was partnering with James Murdoch’s Lupa Systems to create a new program called Betalab, which would fund and mentor early-stage startups that would try to “Fix the Internet.” In the initial announcement,…*
+       - *When IBM announced this morning that it was spinning out its legacy infrastructure services business, it was a clear signal that new CEO Arvand Krishna, who took the reins in April, was ready to fully commit his company to the cloud. The move was a continuati…*
       
 
 
