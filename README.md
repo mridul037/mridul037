@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 
-~ Albert Einstein
+~ John Carmack
 <pre>
 
 </pre>
