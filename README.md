@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 
-~ David Gelernter
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Beauty is more important in computing than anywhere else in technology because s
 
 </pre>
 **Daily News**
-  - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
+  - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
      <hr/>
      
-      - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
+      - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
      
+  - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
+      <hr/>
+      
+      - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
+      
   - Lydia partners with Tink to improve open banking features
       <hr/>
       
@@ -81,16 +86,11 @@ Beauty is more important in computing than anywhere else in technology because s
       <hr/>
       
       - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
-      
+       
   - Bringing micromobility to Africa
       <hr/>
-      
-      - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
        
-  - Daily Crunch: Big tech responds to antitrust report
-      <hr/>
-       
-       - *The major tech platforms push back against the House antitrust report, Google Assistant gets a “guest” mode and we interview a freshly minted Nobel laureate. This is your Daily Crunch for October 7, 2020. The big story: Big tech responds to antitrust report T…*
+       - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
       
 
 
