@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ Linus Torvalds
+~ Maurice Wilkes
 <pre>
 
 </pre>
