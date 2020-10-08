@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+People under pressure don’t work better; they just work faster.
 
-~ Fred Brooks
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Very good professional programmers are ten times as productive as poor ones, at 
 
 </pre>
 **Daily News**
-  - Understanding Airbnb's summer recovery
+  - Microsoft is building a price comparison engine into its Edge browser
      <hr/>
      
-      - *New numbers concerning Airbnb’s summer performance were reported this week, with The Information adding to the performance figures that Bloomberg previously detailed earlier this year. Airbnb announced that it filed privately to pursue a debut this August. We…*
+      - *With its Edge browser now stable, Microsoft’s current focus for its Chromium-based browser is to build features that differentiate it from the competition. With the holiday season coming up fast (though who knows what that will actually look like this year), …*
      
-  - Lime revamps its app to include competitors, starting with Wheels ebikes
+  - Headroom, which uses AI to supercharge videoconferencing, raises $5M
       <hr/>
       
-      - *Lime might best known for its bright green micromobility devices, or more recently, its ownership of the iconic red Jump electric bikes. But now, the company is expanding in a way that could see it “housing” numerous other micromobility brands on its own app.…*
+      - *Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should? To…*
       
-  - Virgin Hyperloop to safety test its hyperloop technology at new West Virginia certification center
+  - Delivery startup goPuff raises $380M at a $3.9B valuation
       <hr/>
       
-      - *Virgin Hyperloop announced a key step in its long-term goal of making hyperloop transportation a reality in the U.S. on Thursday. The company revealed it will be doing its certification testing at a new West Virginia facility. This will be crucial to the crea…*
+      - *GoPuff is a Philadelphia-headquartered startup that delivers products like over-the-counter medicine, baby food and alcohol (basically, the stuff you’d buy at a convenience store) in 30 minutes or less. Yakir Gola, who serves as co-CEO with his co-founder Raf…*
       
-  - A developer of therapy devices for athletes is now worth $700 million thanks to superstar backers like Naomi Osaka
+  - Density's Open Area radar tracks people in a space, precisely but anonymously
       <hr/>
       
-      - *A crew of high-wattage celebrity athletes have teamed up to invest $47.8 million into Hyperice, a developer of medical devices designed to help players and fitness buffs recover after workouts or games. Backing the company are some of the biggest names in bas…*
+      - *Everyone in the world is rethinking shared spaces right about now, and part of that rethink is understanding how they’re used, minute by minute and day by day. Density’s tiny ceiling-mounted radar finds and tracks people unobtrusively but with great precision…*
        
-  - As IBM spins out legacy infrastructure management biz, CEO goes all in on the cloud
+  - Harbor, the app that gamifies emergency preparedness, launches
       <hr/>
        
-       - *When IBM announced this morning that it was spinning out its legacy infrastructure services business, it was a clear signal that new CEO Arvand Krishna, who took the reins in April, was ready to fully commit his company to the cloud. The move was a continuati…*
+       - *Harbor, an emergency-preparedness company that just raised $5 million in seed, has today publicly launched its app. The app gamifies the process of preparing your home and family for whatever crisis may befall them, including common emergencies like house fir…*
       
 
 
