@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+I'm interested in creating images that communicate with people.
 
-~ John Carmack
+~ Toru Iwatani
 <pre>
 
 </pre>
