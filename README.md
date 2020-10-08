@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Fred Brooks
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ To achieve conceptual integrity, a design must proceed from one mind or a small 
 
 </pre>
 **Daily News**
-  - Kroger, one of America's largest grocery chains, experiments with ghost kitchens and delivery in the Midwest
+  - Zero’s SR/S doubles as an EV sport motorcycle and sport-tourer
      <hr/>
      
-      - *The Kroger Co., one of the biggest grocery chains in the Midwest is dipping its toe into on-demand delivery and the ghost kitchen craze through a partnership with an Indianapolis-based startup, ClusterTruck. Supermarkets would seem to be logical places to sit…*
+      - *Zero’s 2020 SR/S could be your EV sport bike or sport-tourer. Unveiled earlier this year, the all electric motorcycle brings performance attributes of both classes — with a unique list of pros and cons compared to gas-powered peers. The SR/S also adds to the …*
      
-  - U.S. Space Force is getting an immersive space sim training tool built in part by the VFX studio behind 'The Mandalorian'
+  - Investors, founders report hot market for API startups
       <hr/>
       
-      - *The U.S. Space Force obviously won’t be able to train most of their service people in actual space, so they relatively new arm of America’s defense forces has tasked Slingshot Aerospace to create a VR space sim, in partnership with The Third Floor, a Hollywoo…*
+      - *Startups that deliver their service via an API are having a moment. Or perhaps a year. Speaking with founders and investors this year, it has become clear that the API model of delivering a product is more than an occasional hit-maker for companies like Twili…*
       
-  - IBM plans to spin off infrastructure services as a separate $19B business
+  - Revolut lets you track your subscriptions, adds savings bonus in the US
       <hr/>
       
-      - *IBM, a company that originally made its name out of its leadership in building a myriad of enterprise hardware (quite literally: its name is an abbreviation for International Business Machines), is taking one more step away from that legacy and deeper into th…*
+      - *Fintech startup Revolut has rolled out a handful of additional features over the past few days. The financial app lets you track all your subscriptions that you pay with your Revolut account or your card. In the U.S., Revolut is adding a savings bonus based o…*
       
-  - MessageBird, the 'omnichannel platform-as-a-service,' raises $200M Series C at $3B valuation
+  - Neocis, the maker of dental surgery robots, roots out another $72 million
       <hr/>
       
-      - *MessageBird, the Amsterdam-headquartered cloud communications company, has raised $200 million in Series C funding in a round led by Silicon Valley’s Spark Capital. The new investment gives 2011-founded MessageBird a whopping $3 billion valuation, and include…*
+      - *Since the robotic dental surgery assistant Yomi first came on the market in 2019 more than 2,700 patients have stared up at its plastic sheathed metal arms, and now the company behind it, Neocis, has raised $72 million to bring it into more dentists’ offices.…*
        
-  - Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production
+  - Betaworks and Betalab unveil their first four startups working to ‘fix the internet’
       <hr/>
        
-       - *Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.6 million Series A funding round, which c…*
+       - *Back in March, startup studio Betaworks announced that was partnering with James Murdoch’s Lupa Systems to create a new program called Betalab, which would fund and mentor early-stage startups that would try to “Fix the Internet.” In the initial announcement,…*
       
 
 
