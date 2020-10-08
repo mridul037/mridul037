@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 
-~ Addy Osmani
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First do it, then do it right, then do it better.
 
 </pre>
 **Daily News**
-  - No-code is the new blockchain
+  - Domestic terrorism suspects who plotted to kidnap Whitmer shared plans in Facebook groups
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha was on vacation, so Danny and your humble servant had to endeavour alone. She’s back next wee…*
+      - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
      
+  - Daily Crunch: Waymo opens up driverless ride-hailing
+      <hr/>
+      
+      - *Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for October 8, 2020. The big story: Waymo opens up driverless ride-hailing Waymo hit a m…*
+      
+  - No-code is the new blockchain
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha was on vacation, so Danny and your humble servant had to endeavour alone. She’s back next wee…*
+      
   - These tiny sensors can hitch a ride on mothback
       <hr/>
       
       - *Everyone is familiar with carrier pigeons, but what about carrier moths? This research project uses the nocturnal insects as a delivery service for tiny electronic packages that weigh less than a hundredth of an ounce. The system was created by graduate stude…*
-      
+       
   - Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI
       <hr/>
-      
-      - *TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020. Interestingly, w…*
-      
-  - Tech's role in the COVID-19 response: Assist, don't reinvent
-      <hr/>
-      
-      - *The pandemic has affected just about every business in the world, but tech has also geared up to fight back in its own way, as we found out from speakers at Disrupt 2020. But technology has opted to take a back seat to frontline workers and find ways to suppo…*
        
-  - Affirm files confidentially to go public
-      <hr/>
-       
-       - *This afternoon Affirm, a startup focused on providing point-of-sale credit to consumers making online purchases, announced that it has filed to go public. The filing is confidential, so there’s little to be gleaned about the company’s performance from the new…*
+       - *TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020. Interestingly, w…*
       
 
 
