@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Cool URIs don't change.
+Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 
-~ Tim Berners-Lee
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Cool URIs don't change.
 
 </pre>
 **Daily News**
-  - Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI
+  - No-code is the new blockchain
      <hr/>
      
-      - *TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020. Interestingly, w…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha was on vacation, so Danny and your humble servant had to endeavour alone. She’s back next wee…*
      
+  - These tiny sensors can hitch a ride on mothback
+      <hr/>
+      
+      - *Everyone is familiar with carrier pigeons, but what about carrier moths? This research project uses the nocturnal insects as a delivery service for tiny electronic packages that weigh less than a hundredth of an ounce. The system was created by graduate stude…*
+      
+  - Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI
+      <hr/>
+      
+      - *TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020. Interestingly, w…*
+      
   - Tech's role in the COVID-19 response: Assist, don't reinvent
       <hr/>
       
       - *The pandemic has affected just about every business in the world, but tech has also geared up to fight back in its own way, as we found out from speakers at Disrupt 2020. But technology has opted to take a back seat to frontline workers and find ways to suppo…*
-      
+       
   - Affirm files confidentially to go public
       <hr/>
-      
-      - *This afternoon Affirm, a startup focused on providing point-of-sale credit to consumers making online purchases, announced that it has filed to go public. The filing is confidential, so there’s little to be gleaned about the company’s performance from the new…*
-      
-  - These 3 factors are holding back podcast monetization
-      <hr/>
-      
-      - *If we want podcasting to continue to scale beyond its current and projected advertising revenue heights, we need to resolve some fundamental challenges.*
        
-  - Podcast advertising has a business intelligence gap
-      <hr/>
-       
-       - *Widespread misinformation and misconceptions are delaying ad revenue growth for podcast creators, publishers and networks.*
+       - *This afternoon Affirm, a startup focused on providing point-of-sale credit to consumers making online purchases, announced that it has filed to go public. The filing is confidential, so there’s little to be gleaned about the company’s performance from the new…*
       
 
 
