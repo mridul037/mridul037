@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 
-~ George Carrette
+~ David Gelernter
 <pre>
 
 </pre>
