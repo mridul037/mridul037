@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Douglas Crockford
+~ James Gleick
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Readability of code is now my first priority. It’s more important than being f
 
 </pre>
 **Daily News**
-  - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
+  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
      <hr/>
      
-      - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
+      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
      
+  - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
+      <hr/>
+      
+      - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
+      
   - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
       <hr/>
       
@@ -81,16 +86,11 @@ Readability of code is now my first priority. It’s more important than being f
       <hr/>
       
       - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
-      
+       
   - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
       <hr/>
-      
-      - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
        
-  - Bringing micromobility to Africa
-      <hr/>
-       
-       - *When you look at maps of micromobility across the world, it appears there’s not a ton of activity throughout Africa. Well, that’s because there’s not, Gura Ride founder and CEO Tony Adesina said at TC Sessions: Mobility. In Africa, there are “very few” microm…*
+       - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
       
 
 
