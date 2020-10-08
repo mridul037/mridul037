@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+The best minds of my generation are thinking about how to make people click ads.
 
-~ James Gleick
+~ Jeff Hammerbacher
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer programs are the most intricate, delicately balanced and finely interwo
 
 </pre>
 **Daily News**
-  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
+  - Second U.S. Presidential debate will be done remotely via live-streamed video
      <hr/>
      
-      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
+      - *The next U.S. Presidential debate between President Trump and Democratic candidate and former VP Joe Biden will be done remotely, the U.S. Commission on Presidential Debates (CPD) announced today. This follows an intense news cycle that came immediately after…*
      
+  - Dr Lal PathLabs, one of India's largest blood test labs, exposed patient data
+      <hr/>
+      
+      - *Exclusive: The lab giant left patients and test data on the internet without a password.*
+      
+  - Google must negotiate to pay for French news, appeals court confirms
+      <hr/>
+      
+      - *Google’s appeal against an order by France’s competition watchdog to negotiate with publishers for reuse of snippets of their content has failed. As we reported in April, the French authority was acting on a new ‘neighbouring right’ for news which was transpo…*
+      
+  - Consumers spent a record $28 billion in apps in Q3, aided by pandemic
+      <hr/>
+      
+      - *Mobile usage continues to remain high amidst the COVID-19 pandemic, which has prompted social distancing measures and lockdown policies, and has pushed consumers to connect online for work, school and socializing. This, in turn, has helped drive record spendi…*
+       
   - German energy company E.ON forms EUR250 million venture fund focused on smart grid tech
       <hr/>
-      
-      - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
-      
-  - Tech for Campaigns, created to get Democrats elected, on the parties' biggest differences
-      <hr/>
-      
-      - *Yesterday, a 450-page “investigation on competition in digital markets” was published by the House based on 16 months of evidence gathering, including interviews with employees and past employees and others with first-hand knowledge of the inner workings of F…*
-      
-  - Lydia partners with Tink to improve open banking features
-      <hr/>
-      
-      - *French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super a…*
        
-  - Lanturn, a Singaporean tech-enabled corporate services provider, raises $3 million seed round
-      <hr/>
-       
-       - *Running a small- to medium-sized business means a small staff needs to juggle a plethora of tasks, like bookkeeping, tax records and regulatory filings. Singaporean startup Lanturn streamlines their workload with a combination of corporate services and an int…*
+       - *The German energy company E.ON, which counts over 50 million commercial, residential, and industrial customers, has created a new EUR250 million ($265 million) investment fund called Future Energy Ventures to invest in “asset-light” tech startups. As utilitie…*
       
 
 
