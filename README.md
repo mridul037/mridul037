@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Even in the games of children there are things to interest the greatest mathematician.
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 
-~ Gottfried Wilhelm Leibniz
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Even in the games of children there are things to interest the greatest mathemat
 
 </pre>
 **Daily News**
-  - Millennial Media's Paul Palmieri launches Tradeswell, a startup promising to fix e-commerce margins
+  - Enhanced computer vision, sensors raise manufacturing stakes for robots as a service
      <hr/>
      
-      - *A new startup called Tradeswell said it’s using artificial intelligence to help direct-to-consumer and e-commerce brands build healthier businesses. The company is led by Paul Palmieri, who previously took mobile advertising company Millennial Media public an…*
+      - *Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.*
      
+  - Blissfully expands from SaaS management into wider IT services aimed at midmarket
+      <hr/>
+      
+      - *When Blissfully launched in 2016, it was focused on helping companies understand their SaaS usage inside their organizations, but over time the company has seen that there is a wider need, especially in midmarket companies, and today it announced it was expan…*
+      
+  - Millennial Media's Paul Palmieri launches Tradeswell, a startup promising to fix e-commerce margins
+      <hr/>
+      
+      - *A new startup called Tradeswell said it’s using artificial intelligence to help direct-to-consumer and e-commerce brands build healthier businesses. The company is led by Paul Palmieri, who previously took mobile advertising company Millennial Media public an…*
+      
   - Instacart raises $200M more at $17.7B valuation
       <hr/>
       
       - *Instacart announced today that it has raised $200 million in a new funding round featuring prior investors. D1 Capital and Valiant Peregrine Fund led the investment. Instacart is now worth $17.7 billion, post-money, or $17.5 billion pre-money. The plan is to …*
-      
+       
   - Waymo starts to open driverless ride-hailing service to the public
       <hr/>
-      
-      - *Waymo, the Google self-driving-project-turned-Alphabet unit, is beginning to open up its driverless ride-hailing service to the public. The company said that starting today members of its Waymo One service will be able to take family and friends along on thei…*
-      
-  - General Motors finally gets serious about in-car tech, taps the Unreal Engine for next-gen interface
-      <hr/>
-      
-      - *The upcoming GMC Hummer EV will feature a new in-car user interface powered by the Unreal Engine. This powerful platform underpins the latest video games and is well-suited to provide vehicle occupants with a dynamic and robust experience. Epic Games made the…*
        
-  - The Zebra reaches $100M run rate, turns profitable as insurtech booms
-      <hr/>
-       
-       - *EBMARGO From a cluster of insurance marketplace startups raising capital earlier this year, to neoinsurance provider Lemonade going public this summer at a strong valuation, Hippo’s huge new round and Root’s impending unicorn IPO, 2020 has proven to be a busy…*
+       - *Waymo, the Google self-driving-project-turned-Alphabet unit, is beginning to open up its driverless ride-hailing service to the public. The company said that starting today members of its Waymo One service will be able to take family and friends along on thei…*
       
 
 
