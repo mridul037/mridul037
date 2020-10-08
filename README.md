@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+First do it, then do it right, then do it better.
 
-~ Dennis Ritchie
+~ Addy Osmani
 <pre>
 
 </pre>
