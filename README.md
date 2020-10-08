@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 
-~ Joseph Yoder (computer scientist)
+~ Albert Einstein
 <pre>
 
 </pre>
