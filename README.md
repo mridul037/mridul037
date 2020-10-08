@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People under pressure don’t work better; they just work faster.
+Even in the games of children there are things to interest the greatest mathematician.
 
-~ Tom DeMarco
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ People under pressure don’t work better; they just work faster.
 
 </pre>
 **Daily News**
-  - Microsoft is building a price comparison engine into its Edge browser
+  - Millennial Media's Paul Palmieri launches Tradeswell, a startup promising to fix e-commerce margins
      <hr/>
      
-      - *With its Edge browser now stable, Microsoft’s current focus for its Chromium-based browser is to build features that differentiate it from the competition. With the holiday season coming up fast (though who knows what that will actually look like this year), …*
+      - *A new startup called Tradeswell said it’s using artificial intelligence to help direct-to-consumer and e-commerce brands build healthier businesses. The company is led by Paul Palmieri, who previously took mobile advertising company Millennial Media public an…*
      
-  - Headroom, which uses AI to supercharge videoconferencing, raises $5M
+  - Instacart raises $200M more at $17.7B valuation
       <hr/>
       
-      - *Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should? To…*
+      - *Instacart announced today that it has raised $200 million in a new funding round featuring prior investors. D1 Capital and Valiant Peregrine Fund led the investment. Instacart is now worth $17.7 billion, post-money, or $17.5 billion pre-money. The plan is to …*
       
-  - Delivery startup goPuff raises $380M at a $3.9B valuation
+  - Waymo starts to open driverless ride-hailing service to the public
       <hr/>
       
-      - *GoPuff is a Philadelphia-headquartered startup that delivers products like over-the-counter medicine, baby food and alcohol (basically, the stuff you’d buy at a convenience store) in 30 minutes or less. Yakir Gola, who serves as co-CEO with his co-founder Raf…*
+      - *Waymo, the Google self-driving-project-turned-Alphabet unit, is beginning to open up its driverless ride-hailing service to the public. The company said that starting today members of its Waymo One service will be able to take family and friends along on thei…*
       
-  - Density's Open Area radar tracks people in a space, precisely but anonymously
+  - General Motors finally gets serious about in-car tech, taps the Unreal Engine for next-gen interface
       <hr/>
       
-      - *Everyone in the world is rethinking shared spaces right about now, and part of that rethink is understanding how they’re used, minute by minute and day by day. Density’s tiny ceiling-mounted radar finds and tracks people unobtrusively but with great precision…*
+      - *The upcoming GMC Hummer EV will feature a new in-car user interface powered by the Unreal Engine. This powerful platform underpins the latest video games and is well-suited to provide vehicle occupants with a dynamic and robust experience. Epic Games made the…*
        
-  - Harbor, the app that gamifies emergency preparedness, launches
+  - The Zebra reaches $100M run rate, turns profitable as insurtech booms
       <hr/>
        
-       - *Harbor, an emergency-preparedness company that just raised $5 million in seed, has today publicly launched its app. The app gamifies the process of preparing your home and family for whatever crisis may befall them, including common emergencies like house fir…*
+       - *EBMARGO From a cluster of insurance marketplace startups raising capital earlier this year, to neoinsurance provider Lemonade going public this summer at a strong valuation, Hippo’s huge new round and Root’s impending unicorn IPO, 2020 has proven to be a busy…*
       
 
 
