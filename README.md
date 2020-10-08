@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ Henry Ford
+~ George Carrette
 <pre>
 
 </pre>
