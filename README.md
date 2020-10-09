@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+The most important single aspect of software development is to be clear about what you are trying to build.
 
-~ Kent Beck
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
