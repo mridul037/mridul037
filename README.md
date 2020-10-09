@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 
-~ Douglas Crockford
+~ Bill Gates
 <pre>
 
 </pre>
@@ -68,11 +67,16 @@ make it smaller. If we could just get it down to what it does really well and re
 
 </pre>
 **Daily News**
-  - Pakistan bans TikTok over 'immoral and indecent' videos
+  - Funding for female founders falls to 2017 levels as pandemic shakes up the VC market
      <hr/>
      
-      - *Pakistan has banned popular short video app TikTok in the nation, citing circulation of videos that it deemed “immoral and indecent.” The move comes months after the South Asian country raised serious concerns about the nature of videos that spread on ByteDan…*
+      - *So much for progress. New data out this week from PitchBook indicates that the number of rounds raised by female-founded and co-founded companies fell year-over-year, with dollars invested in those rounds collapsing to 2017-era levels. The Exchange explores s…*
      
+  - Pakistan bans TikTok over 'immoral and indecent' videos
+      <hr/>
+      
+      - *Pakistan has banned popular short video app TikTok in the nation, citing circulation of videos that it deemed “immoral and indecent.” The move comes months after the South Asian country raised serious concerns about the nature of videos that spread on ByteDan…*
+      
   - Join Yext's Howard Lerman for a Q&A October 13 at 2 pm ET/11 am PT
       <hr/>
       
@@ -82,16 +86,11 @@ make it smaller. If we could just get it down to what it does really well and re
       <hr/>
       
       - *The advent of low-cost Android smartphones and the world’s cheapest mobile data has paved the way for millions of social media influencers in India to amass a following of tens of millions of users in recent years. These influencers, also known as creators, s…*
-      
+       
   - Devialet announces wireless earbuds
       <hr/>
-      
-      - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
        
-  - Hong Kong logistics unicorn Lalamove unveils foray into the US
-      <hr/>
-       
-       - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
+       - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
       
 
 
