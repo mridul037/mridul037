@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't worry about anything. Just do what you can and be the best you can be.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Douglas Crockford
+~ John von Neumann
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Don't worry about anything. Just do what you can and be the best you can be.
 
 </pre>
 **Daily News**
-  - Amid a boom in SPACs, relatively few women investors
+  - Hong Kong logistics unicorn Lalamove unveils foray into the US
      <hr/>
      
-      - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
+      - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
      
+  - Amid a boom in SPACs, relatively few women investors
+      <hr/>
+      
+      - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
+      
   - Domestic terrorism suspects who plotted to kidnap Whitmer shared plans in Facebook groups
       <hr/>
       
@@ -81,16 +86,11 @@ Don't worry about anything. Just do what you can and be the best you can be.
       <hr/>
       
       - *Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for October 8, 2020. The big story: Waymo opens up driverless ride-hailing Waymo hit a m…*
-      
+       
   - No-code is the new blockchain
       <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha was on vacation, so Danny and your humble servant had to endeavour alone. She’s back next wee…*
        
-  - These tiny sensors can hitch a ride on mothback
-      <hr/>
-       
-       - *Everyone is familiar with carrier pigeons, but what about carrier moths? This research project uses the nocturnal insects as a delivery service for tiny electronic packages that weigh less than a hundredth of an ounce. The system was created by graduate stude…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. This week Natasha was on vacation, so Danny and your humble servant had to endeavour alone. She’s back next wee…*
       
 
 
