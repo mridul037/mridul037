@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 
-~ Harlan Mills
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 
 </pre>
 **Daily News**
-  - YCharts sells to PE firm in all-cash transaction as it looks to pass $15M ARR this year
+  - Odell Beckham Jr. turned to Mojichat's advertising features during his inaugural live-stream
      <hr/>
      
-      - *This morning, YCharts, a financial data and charting service, announced that it has been purchased by LLR Partners, a private equity firm. The companies are dubbing the transaction a “growth recapitalization,” indicating that the smaller firm won’t be strippe…*
+      - *Mojiit, the Los Angeles-based company behind the popular avatar generation service Mojichat, has landed one of its highest profile users with the launch of Odell Beckham Jr.’s livestream over the weekend. As Odell Beckham Jr. did his first livestream with the…*
      
+  - Polestar CEO defends the Polestar 2’s recall and 233-mile EPA rating
+      <hr/>
+      
+      - *Polestar is a young automaker spun out of Volvo and Geely. Now, just four years old, it has two cars on the market with more launching soon. Like many startups, the company is weathering early storms coming from government regulators and early recalls. Earlie…*
+      
+  - YCharts sells to PE firm in all-cash transaction as it looks to pass $15M ARR this year
+      <hr/>
+      
+      - *This morning, YCharts, a financial data and charting service, announced that it has been purchased by LLR Partners, a private equity firm. The companies are dubbing the transaction a “growth recapitalization,” indicating that the smaller firm won’t be strippe…*
+      
   - Porsche is researching synthetic fuels to make gas-powered cars sustainable
       <hr/>
       
       - *The road to sustainable vehicles likely ends at electric cars, yet the route to this goal isn’t clear. There are multiple ways to get there, and Porsche is looking at synthetic fuels as a potential path. These so-called eFuels are produced from CO2 and hydrog…*
-      
+       
   - Funding for female founders falls to 2017 levels as pandemic shakes up the VC market
       <hr/>
-      
-      - *So much for progress. New data out this week from PitchBook indicates that the number of rounds raised by female-founded and co-founded companies fell year-over-year, with dollars invested in those rounds collapsing to 2017-era levels. The Exchange explores s…*
-      
-  - Pakistan bans TikTok over 'immoral and indecent' videos
-      <hr/>
-      
-      - *Pakistan has banned popular short video app TikTok in the nation, citing circulation of videos that it deemed “immoral and indecent.” The move comes months after the South Asian country raised serious concerns about the nature of videos that spread on ByteDan…*
        
-  - Join Yext's Howard Lerman for a Q&A October 13 at 2 pm ET/11 am PT
-      <hr/>
-       
-       - *Heading into the third quarter and earnings season, TechCrunch is excited to announce that Yext CEO Howard Lerman will join us for a live Q&A next Tuesday as part of our continuing Extra Crunch Live series. The series recently hosted pairs of investors from A…*
+       - *So much for progress. New data out this week from PitchBook indicates that the number of rounds raised by female-founded and co-founded companies fell year-over-year, with dollars invested in those rounds collapsing to 2017-era levels. The Exchange explores s…*
       
 
 
