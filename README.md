@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
 ~ Edsger W. Dijkstra
 <pre>
@@ -67,30 +67,30 @@ Don't blame me for the fact that competent programming will be too difficult for
 
 </pre>
 **Daily News**
-  - How Roblox completely transformed its tech stack
+  - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
      <hr/>
      
-      - *Picture yourself in the role of CIO at Roblox in 2017. At that point, the gaming platform and publishing system that launched in 2005 was growing fast, but its underlying technology was aging, consisting of a single data center in Chicago and a bunch of third…*
+      - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
      
+  - Human Capital: Uber engineer explains why he spoke out against Prop 22
+      <hr/>
+      
+      - *Welcome back to Human Capital where we discuss the latest in labor, and diversity and inclusion in tech. This week’s eyebrow-raising moment came Wednesday when the U.S. Department of Labor essentially accused Microsoft of reverse racism (not a real thing) for…*
+      
+  - How Roblox completely transformed its tech stack
+      <hr/>
+      
+      - *Picture yourself in the role of CIO at Roblox in 2017. At that point, the gaming platform and publishing system that launched in 2005 was growing fast, but its underlying technology was aging, consisting of a single data center in Chicago and a bunch of third…*
+      
   - Why Amazon and Panasonic are betting on this battery recycling startup
       <hr/>
       
       - *JB Straubel, the Tesla co-founder and former CTO, is often cast as the humble and pioneering engineer, the quiet one who toiled away in the background for 15 years on some of the company’s most important technologies. That characterization — which intensified…*
-      
+       
   - Facebook and Instagram will pin vote-by-mail explainers to top of feeds
       <hr/>
-      
-      - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
-      
-  - New Chinese browser offers a glimpse beyond the Great Firewall - with caveats
-      <hr/>
-      
-      - *China now has a tool that lets users access YouTube, Facebook, Twitter, Instagram, Google, and other internet services that have otherwise long been banned in the country. Called Tuber, the mobile browser recently debuted on China’s third-party Android stores…*
        
-  - Top mobility VCs on the risks and rewards in partnering with giants like Amazon
-      <hr/>
-       
-       - *At our recent TechCrunch Mobility event, we spoke with Amy Gu, the founder and managing partner of Hemi Ventures, Olaf Sakkers, a founding partner at Maniv Mobility and Reilly Brennan, the founding general partner at Trucks VC. We discussed a wide range of th…*
+       - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
       
 
 
