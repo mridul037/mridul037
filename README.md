@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When we don’t understand a process, we fall into magical thinking about results.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ Jef Raskin
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When we don’t understand a process, we fall into magical thinking about result
 
 </pre>
 **Daily News**
-  - Changing how retweets work, Twitter seeks to slow down election misinformation
+  - Facebook and Instagram will pin vote-by-mail explainers to top of feeds
      <hr/>
      
-      - *Twitter announced a major set of changes to the way its platform would work Friday as the social network braces for the most contentious, uncertain and potentially high stakes election in modern U.S. history. In what will likely be the most noticeable change,…*
+      - *Starting this weekend, everyone of voting age in the U.S. will begin seeing informational videos at the top of Instagram and Facebook offering tips and state-specific guidance on how to vote through the mail. The videos will be offered in both English and Spa…*
      
+  - New Chinese browser offers a glimpse beyond the Great Firewall - with caveats
+      <hr/>
+      
+      - *China now has a tool that lets users access YouTube, Facebook, Twitter, Instagram, Google, and other internet services that have otherwise long been banned in the country. Called Tuber, the mobile browser recently debuted on China’s third-party Android stores…*
+      
+  - Top mobility VCs on the risks and rewards in partnering with giants like Amazon
+      <hr/>
+      
+      - *At our recent TechCrunch Mobility event, we spoke with Amy Gu, the founder and managing partner of Hemi Ventures, Olaf Sakkers, a founding partner at Maniv Mobility and Reilly Brennan, the founding general partner at Trucks VC. We discussed a wide range of th…*
+      
+  - Changing how retweets work, Twitter seeks to slow down election misinformation
+      <hr/>
+      
+      - *Twitter announced a major set of changes to the way its platform would work Friday as the social network braces for the most contentious, uncertain and potentially high stakes election in modern U.S. history. In what will likely be the most noticeable change,…*
+       
   - Odell Beckham Jr. turned to Mojichat's advertising features during his inaugural live-stream
       <hr/>
-      
-      - *Mojiit, the Los Angeles-based company behind the popular avatar generation service Mojichat, has landed one of its highest profile users with the launch of Odell Beckham Jr.’s livestream over the weekend. As Odell Beckham Jr. did his first livestream with the…*
-      
-  - Polestar CEO defends the Polestar 2’s recall and 233-mile EPA rating
-      <hr/>
-      
-      - *Polestar is a young automaker spun out of Volvo and Geely. Now, just four years old, it has two cars on the market with more launching soon. Like many startups, the company is weathering early storms coming from government regulators and early recalls. Earlie…*
-      
-  - YCharts sells to PE firm in all-cash transaction as it looks to pass $15M ARR this year
-      <hr/>
-      
-      - *This morning, YCharts, a financial data and charting service, announced that it has been purchased by LLR Partners, a private equity firm. The companies are dubbing the transaction a “growth recapitalization,” indicating that the smaller firm won’t be strippe…*
        
-  - Porsche is researching synthetic fuels to make gas-powered cars sustainable
-      <hr/>
-       
-       - *The road to sustainable vehicles likely ends at electric cars, yet the route to this goal isn’t clear. There are multiple ways to get there, and Porsche is looking at synthetic fuels as a potential path. These so-called eFuels are produced from CO2 and hydrog…*
+       - *Mojiit, the Los Angeles-based company behind the popular avatar generation service Mojichat, has landed one of its highest profile users with the launch of Odell Beckham Jr.’s livestream over the weekend. As Odell Beckham Jr. did his first livestream with the…*
       
 
 
