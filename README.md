@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It’s all talk until the code runs.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Ward Cunningham
+~ Marvin Minsky
 <pre>
 
 </pre>
