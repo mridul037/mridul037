@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important single aspect of software development is to be clear about what you are trying to build.
+The key to keeping software costs down is to write code that is easily modified.
 
-~ Bjarne Stroustrup
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The most important single aspect of software development is to be clear about wh
 
 </pre>
 **Daily News**
-  - Devialet announces wireless earbuds
+  - Join Yext's Howard Lerman for a Q&A October 13 at 2 pm ET/11 am PT
      <hr/>
      
-      - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
+      - *Heading into the third quarter and earnings season, TechCrunch is excited to announce that Yext CEO Howard Lerman will join us for a live Q&A next Tuesday as part of our continuing Extra Crunch Live series. The series recently hosted pairs of investors from A…*
      
+  - High-profile startup execs back Indian influencers platform CreatorOS
+      <hr/>
+      
+      - *The advent of low-cost Android smartphones and the world’s cheapest mobile data has paved the way for millions of social media influencers in India to amass a following of tens of millions of users in recent years. These influencers, also known as creators, s…*
+      
+  - Devialet announces wireless earbuds
+      <hr/>
+      
+      - *High-end speaker manufacturer Devialet is launching its first pair of earbuds called Devialet Gemini. The in-ear earbuds feature active noise canceling and cost £279 in the U.K. — they will be available in the coming weeks. The Devialet Gemini are completely …*
+      
   - Hong Kong logistics unicorn Lalamove unveils foray into the US
       <hr/>
       
       - *Lalamove, an on-demand logistics service active in China, Southeast Asia, and Latin America, has officially entered the U.S. seven years after launch. As the COVID-19 pandemic keeps millions of Americans home, Hong Kong-based Lalamove believes it can seize th…*
-      
+       
   - Amid a boom in SPACs, relatively few women investors
       <hr/>
-      
-      - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
-      
-  - Domestic terrorism suspects who plotted to kidnap Whitmer shared plans in Facebook groups
-      <hr/>
-      
-      - *According to details from a shocking new affidavit, the FBI uncovered a group planning “violent action against multiple state governments,” including a detailed plot to capture or kill Michigan Governor Gretchen Whitmer. The domestic terror group organized ac…*
        
-  - Daily Crunch: Waymo opens up driverless ride-hailing
-      <hr/>
-       
-       - *Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for October 8, 2020. The big story: Waymo opens up driverless ride-hailing Waymo hit a m…*
+       - *If you’ve been following the SPAC boom, you may have noticed something about these blank-check vehicles that are springing up left and right in order to take public privately held companies. They are being organized mostly by men. It’s not surprising, given t…*
       
 
 
