@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think you should always bear in mind that entropy is not on your side.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ Elon Musk
+~ Brian Kernighan
 <pre>
 
 </pre>
