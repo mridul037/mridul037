@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are few sources of energy so powerful as a procrastinating grad student.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ Paul Graham (programmer)
+~ Jamie Zawinski
 <pre>
 
 </pre>
