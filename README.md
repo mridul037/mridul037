@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+Maintenance cost is strongly affected by the number of users. More users find more bugs.
 
-~ Marvin Minsky
+~ Fred Brooks
 <pre>
 
 </pre>
