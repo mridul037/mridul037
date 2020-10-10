@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 
-~ Brian Kernighan
+~ David Parnas
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Debugging is twice as hard as writing the code in the first place. Therefore, if
 
 </pre>
 **Daily News**
-  - Brian Armstrong's new problem: 60-plus free agents
+  - A prison video visitation service exposed private calls between inmates and their attorneys
      <hr/>
      
-      - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
+      - *Exclusive: Calls supposed to be protected by attorney-client privilege were recorded and transcribed.*
      
+  - Original Content podcast: Netflix's 'Enola Holmes' is thoroughly mediocre
+      <hr/>
+      
+      - *There’s nothing excessively bad about “Enola Holmes,” a new film about Sherlock Holmes’ younger sister Enola. But there’s nothing particularly good, either. The film was originally planned for a theatrical release from Warner Bros., but Netflix picked it up e…*
+      
+  - Brian Armstrong's new problem: 60-plus free agents
+      <hr/>
+      
+      - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
+      
   - Judge denies Epic's request to force Apple to bring Fortnite back to App Store
       <hr/>
       
       - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
-      
+       
   - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
       <hr/>
-      
-      - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
-      
-  - Human Capital: Uber engineer explains why he spoke out against Prop 22
-      <hr/>
-      
-      - *Welcome back to Human Capital where we discuss the latest in labor, and diversity and inclusion in tech. This week’s eyebrow-raising moment came Wednesday when the U.S. Department of Labor essentially accused Microsoft of reverse racism (not a real thing) for…*
        
-  - How Roblox completely transformed its tech stack
-      <hr/>
-       
-       - *Picture yourself in the role of CIO at Roblox in 2017. At that point, the gaming platform and publishing system that launched in 2005 was growing fast, but its underlying technology was aging, consisting of a single data center in Chicago and a bunch of third…*
+       - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
       
 
 
