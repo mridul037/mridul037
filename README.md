@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Maintenance cost is strongly affected by the number of users. More users find more bugs.
+No code is faster than no code.
 
-~ Fred Brooks
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Maintenance cost is strongly affected by the number of users. More users find mo
 
 </pre>
 **Daily News**
-  - A prison video visitation service exposed private calls between inmates and their attorneys
+  - This Week in Apps: Antitrust investigation dubs App Store a monopoly, Microsoft adopts 'app fairness' rules, pandemic boosts Q3 app revenues
      <hr/>
      
-      - *Exclusive: Calls supposed to be protected by attorney-client privilege were recorded and transcribed.*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - A prison video visitation service exposed private calls between inmates and their attorneys
+      <hr/>
+      
+      - *Exclusive: Calls supposed to be protected by attorney-client privilege were recorded and transcribed.*
+      
   - Original Content podcast: Netflix's 'Enola Holmes' is thoroughly mediocre
       <hr/>
       
@@ -81,16 +86,11 @@ Maintenance cost is strongly affected by the number of users. More users find mo
       <hr/>
       
       - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
-      
+       
   - Judge denies Epic's request to force Apple to bring Fortnite back to App Store
       <hr/>
-      
-      - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
        
-  - Dear Sophie: How can employers hire & comply with all this new H-1B craziness?
-      <hr/>
-       
-       - *Although both the DOL and DHS rules will likely be challenged, they will likely remain in effect for some time before any litigation has an impact.*
+       - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
       
 
 
