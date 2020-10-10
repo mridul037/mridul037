@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 
-~ Butler Lampson
+~ Marvin Minsky
 <pre>
 
 </pre>
