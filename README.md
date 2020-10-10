@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
-~ Richard Feynman
+~ Donald Knuth
 <pre>
 
 </pre>
