@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+Once the computers got control, we might never get it back.
 
-~ Steve Jobs
+~ Marvin Minsky
 <pre>
 
 </pre>
