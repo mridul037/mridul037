@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once the computers got control, we might never get it back.
+I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
 
-~ Marvin Minsky
+~ Tim Berners-Lee
 <pre>
 
 </pre>
