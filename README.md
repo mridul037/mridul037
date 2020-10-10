@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
-~ Marijn Haverbeke
+~ P. J. Plauger
 <pre>
 
 </pre>
