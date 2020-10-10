@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do.
+What I cannot build, I do not understand.
 
-~ Donald Knuth
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Science is what we understand well enough to explain to a computer. Art is every
 
 </pre>
 **Daily News**
-  - Public investors stay in love with tech, as Root and Affirm file to IPO
+  - Venture capital gets less diverse in 2020
      <hr/>
      
-      - *Why there are so many tech IPOs right now.*
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
      
+  - Public investors stay in love with tech, as Root and Affirm file to IPO
+      <hr/>
+      
+      - *Why there are so many tech IPOs right now.*
+      
   - This Week in Apps: Antitrust investigation dubs App Store a monopoly, Microsoft adopts 'app fairness' rules, pandemic boosts Q3 app revenues
       <hr/>
       
@@ -81,16 +86,11 @@ Science is what we understand well enough to explain to a computer. Art is every
       <hr/>
       
       - *Exclusive: Calls supposed to be protected by attorney-client privilege were recorded and transcribed.*
-      
+       
   - Original Content podcast: Netflix's 'Enola Holmes' is thoroughly mediocre
       <hr/>
-      
-      - *There’s nothing excessively bad about “Enola Holmes,” a new film about Sherlock Holmes’ younger sister Enola. But there’s nothing particularly good, either. The film was originally planned for a theatrical release from Warner Bros., but Netflix picked it up e…*
        
-  - Brian Armstrong's new problem: 60-plus free agents
-      <hr/>
-       
-       - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
+       - *There’s nothing excessively bad about “Enola Holmes,” a new film about Sherlock Holmes’ younger sister Enola. But there’s nothing particularly good, either. The film was originally planned for a theatrical release from Warner Bros., but Netflix picked it up e…*
       
 
 
