@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ David Parnas
+~ Butler Lampson
 <pre>
 
 </pre>
