@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No code is faster than no code.
+What I cannot build, I do not understand.
 
-~ Kevlin Henney
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ No code is faster than no code.
 
 </pre>
 **Daily News**
-  - This Week in Apps: Antitrust investigation dubs App Store a monopoly, Microsoft adopts 'app fairness' rules, pandemic boosts Q3 app revenues
+  - Public investors stay in love with tech, as Root and Affirm file to IPO
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *Why there are so many tech IPOs right now.*
      
+  - This Week in Apps: Antitrust investigation dubs App Store a monopoly, Microsoft adopts 'app fairness' rules, pandemic boosts Q3 app revenues
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - A prison video visitation service exposed private calls between inmates and their attorneys
       <hr/>
       
@@ -81,16 +86,11 @@ No code is faster than no code.
       <hr/>
       
       - *There’s nothing excessively bad about “Enola Holmes,” a new film about Sherlock Holmes’ younger sister Enola. But there’s nothing particularly good, either. The film was originally planned for a theatrical release from Warner Bros., but Netflix picked it up e…*
-      
+       
   - Brian Armstrong's new problem: 60-plus free agents
       <hr/>
-      
-      - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
        
-  - Judge denies Epic's request to force Apple to bring Fortnite back to App Store
-      <hr/>
-       
-       - *The California judge in the legal skirmish between Epic Games and Apple has denied Epic’s request that Apple be forced to reinstate Fortnite in the App Store, but did affirm that Apple can not take action against the Epic Games developer accounts used to brin…*
+       - *A lot has been made of the open memo that CEO Brian Armstrong published nearly two weekends ago, essentially barring political activism at work because he sees it as a distraction. He also made it clear that employees who disagreed with the decision — and he …*
       
 
 
