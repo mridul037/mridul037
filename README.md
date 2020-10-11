@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+Documentation is a love letter that you write to your future self.
 
-~ Martin Fowler
+~ Damian Conway
 <pre>
 
 </pre>
