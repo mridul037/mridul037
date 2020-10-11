@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Alan Perlis
+~ Tim Berners-Lee
 <pre>
 
 </pre>
