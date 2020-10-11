@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+I think one of the most valuable rules is avoid duplication.
 
-~ Elon Musk
+~ Martin Fowler
 <pre>
 
 </pre>
