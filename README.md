@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ Rob Pike
+~ Leslie Lamport
 <pre>
 
 </pre>
