@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Danny Hillis
+~ Alan Perlis
 <pre>
 
 </pre>
