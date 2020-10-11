@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Gary Kildall
+~ Doug Linder
 <pre>
 
 </pre>
