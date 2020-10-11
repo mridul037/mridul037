@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
 
-~ Leslie Lamport
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A distributed system is one in which the failure of a computer you didn’t even
 
 </pre>
 **Daily News**
-  - Venture capital gets less diverse in 2020
+  - Twilio is buying customer data startup Segment for between $3B and $4B
      <hr/>
      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
+      - *Sources have told TechCrunch that Twilio intends to acquire customer data startup Segment for between $3 and $4 billion. Forbes broke the story on Friday night, reporting a price tag of $3.2 billion. We have heard from a couple of industry sources that the de…*
      
+  - Hands on with Telepath, the social network taking aim at abuse, fake news and, to some extent, 'free speech'
+      <hr/>
+      
+      - *There’s no doubt that modern social networks have let us down. Filled with hate speech and abuse, moderation and anti-abuse tools were an afterthought they’re now trying to cram in. Meanwhile, personalization engines deliver us only what will keep us engaged,…*
+      
+  - Venture capital gets less diverse in 2020
+      <hr/>
+      
+      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
+      
   - Public investors stay in love with tech, as Root and Affirm file to IPO
       <hr/>
       
       - *Why there are so many tech IPOs right now.*
-      
+       
   - This Week in Apps: Antitrust investigation dubs App Store a monopoly, Microsoft adopts 'app fairness' rules, pandemic boosts Q3 app revenues
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
-      
-  - A prison video visitation service exposed private calls between inmates and their attorneys
-      <hr/>
-      
-      - *Exclusive: Calls supposed to be protected by attorney-client privilege were recorded and transcribed.*
        
-  - Original Content podcast: Netflix's 'Enola Holmes' is thoroughly mediocre
-      <hr/>
-       
-       - *There’s nothing excessively bad about “Enola Holmes,” a new film about Sherlock Holmes’ younger sister Enola. But there’s nothing particularly good, either. The film was originally planned for a theatrical release from Warner Bros., but Netflix picked it up e…*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 
