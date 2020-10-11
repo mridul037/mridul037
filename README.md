@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 
-~ Tim Berners-Lee
+~ George Carrette
 <pre>
 
 </pre>
