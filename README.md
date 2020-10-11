@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ Damian Conway
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Documentation is a love letter that you write to your future self.
 
 </pre>
 **Daily News**
-  - Twilio is buying customer data startup Segment for between $3B and $4B
+  - India's Razorpay becomes unicorn after new $100 million funding round
      <hr/>
      
-      - *Sources have told TechCrunch that Twilio intends to acquire customer data startup Segment for between $3 and $4 billion. Forbes broke the story on Friday night, reporting a price tag of $3.2 billion. We have heard from a couple of industry sources that the de…*
+      - *Bangalore-headquartered Razorpay, one of the handful of Indian fintech startups that has demonstrated accelerated growth in recent years, has joined the coveted unicorn club after raising $100 million in a new financing round, the payments processing startup …*
      
+  - Twilio is buying customer data startup Segment for between $3B and $4B
+      <hr/>
+      
+      - *Sources have told TechCrunch that Twilio intends to acquire customer data startup Segment for between $3 and $4 billion. Forbes broke the story on Friday night, reporting a price tag of $3.2 billion. We have heard from a couple of industry sources that the de…*
+      
   - Hands on with Telepath, the social network taking aim at abuse, fake news and, to some extent, 'free speech'
       <hr/>
       
@@ -81,16 +86,11 @@ Documentation is a love letter that you write to your future self.
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading.*
-      
+       
   - Public investors stay in love with tech, as Root and Affirm file to IPO
       <hr/>
-      
-      - *Why there are so many tech IPOs right now.*
        
-  - This Week in Apps: Antitrust investigation dubs App Store a monopoly, Microsoft adopts 'app fairness' rules, pandemic boosts Q3 app revenues
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *Why there are so many tech IPOs right now.*
       
 
 
