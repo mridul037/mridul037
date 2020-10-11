@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 
-~ Linus Torvalds
+~ Bill Gates
 <pre>
 
 </pre>
