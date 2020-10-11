@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Debugging is like being the detective in a crime movie where you are also the murderer.
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 
-~ Filipe Fortes
+~ Anders Hejlsberg
 <pre>
 
 </pre>
