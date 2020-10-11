@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, solve the problem. Then, write the code.
+The hardest part of design is keeping features out.
 
-~ John Johnson
+~ Don Norman
 <pre>
 
 </pre>
