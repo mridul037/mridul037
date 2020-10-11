@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+Computer programs are the most complex things that humans make.
 
-~ Bob Frankston
+~ Douglas Crockford
 <pre>
 
 </pre>
