@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+Never memorize something that you can look up.
 
-~ Daniel T. Barry
+~ Albert Einstein
 <pre>
 
 </pre>
