@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 
-~ Douglas Crockford
+~ Daniel T. Barry
 <pre>
 
 </pre>
