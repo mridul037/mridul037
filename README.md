@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ John Ousterhout
+~ Jamie Zawinski
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A program that produces incorrect results twice as fast is infinitely slower.
 
 </pre>
 **Daily News**
-  - Equity Monday: Twilio buys Segment, and Airkit raises  $28M for its low-code platform
+  - Facebook, in a reversal, will now ban Holocaust denial content under its hate speech policy
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *Facebook this morning announced a significant change in how it approaches Holocaust denial content on its social network. For years, the company has been criticized for not taking down this extremely offensive form of content in favor of allowing free speech …*
      
-  - Twilio confirms it is buying Segment for $3.2B in an all-stock deal
+  - Facebook EU-US data transfer complaint: Schrems gets a judicial review of the Irish DPC's procedure
       <hr/>
       
-      - *Twilio today announced its biggest acquisition to date, spearheading a strong move into customer data management alongside its existing API-based tools for building and running customer communications services. Twilio is paying $3.2 billion “in Twilio Class A…*
+      - *Another twist in a multi-year complaint saga related to the legality of Facebook’s data transfers: European privacy campaigner, Max Schrems, has today been granted a judicial review of the Irish regulator’s handling of his complaint. He’s expecting the hearin…*
       
-  - China's digital yuan tests leap forward in Shenzhen
+  - Quince launches out of beta with new 'manufacturer-to-customer' model
       <hr/>
       
-      - *Shenzhen, known for its maker community and manufacturing resources, is taking the lead in trialing China’s digital yuan. Last week, the city issued 10 million yuan worth of digital currency to 50,000 randomly selected residents. The government doled out the …*
+      - *The retail landscape is shifting rapidly. While D2C brands have changed the way we shop, Quince is looking to change retail even more dramatically. The brand, which raised $8.5 million in seed funding last year (and only revealed as much today), is looking to…*
       
-  - Thailand's logistics startup Flash Express raises $200 million
+  - Nest launches its $129 thermostat with a new design, swipe and touch interface on the side
       <hr/>
       
-      - *Flash Express, a two-year-old logistics startup that works with e-commerce firms in Thailand, said on Monday it has raised $200 million in a new financing round as it looks to double down on a rapidly growing market spurred by demand due to the coronavirus pa…*
+      - *Google’s Nest unit today launched its newest thermostat. At $129, the new thermostat is the company’s most affordable one yet, but it’s also the first to feature a new swipe and tap interface on its side, as well as Google’s Soli radar technology to sense roo…*
        
-  - The Otto Wilde Grill delivers the drama of delicious restaurant steak at home
+  - Equity Monday: Twilio buys Segment, and Airkit raises  $28M for its low-code platform
       <hr/>
        
-       - *Like many folks this year, I have been cooking a lot. Though I’ve always loved food and have had a deep and abiding interest for the art of cooking, I’ve definitely pushed myself to learn how to do a lot of things from scratch in the kitchen this year. From c…*
+       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
 
 
