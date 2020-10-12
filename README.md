@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Donald Knuth
+~ Mario Fusco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A programmer who subconsciously views himself as an artist will enjoy what he do
 
 </pre>
 **Daily News**
-  - Hoping to be LatAm's top digital bank for SMBs, Xepelin launches a lending and revenue management service
+  - With thousands of subscribers, The Juggernaut raises $2 million for South Asian-focused news outlet
      <hr/>
      
-      - *There’s another entrant in the startup race to provide financial services to Latin America’s small and medium-sized businesses. Financial services have been a huge opportunity for startups coming out of Brazil, Colombia, and Mexico in recent years, and now Xe…*
+      - *As paid newsletters grow in popularity, Snigdha Sur, the founder of South Asian-focused media company The Juggernaut, has no qualms about avoiding the approach entirely. In October 2017, Sur started The Juggernaut as a free newsletter, called InkMango. As she…*
      
-  - If data is labor, can collective bargaining limit big tech?
+  - How startups should budget in uncertain times
       <hr/>
       
-      - *What if consumer platforms had to do business with large coalitions representing ordinary peoples to get the right to exploit their data?*
+      - *My guiding principle at this time is surely familiar: control burn until income streams are more predictable. Many startups find themselves in a similar position these days: ramen or sushi?*
       
-  - 4-year founder vesting is dead
+  - eBay takes a bite at StockX and GOAT with sneaker authentication for sales $100+ in the U.S.
       <hr/>
       
-      - *A growing number of founders are starting to realize that a 4-year vesting schedule can damage their startup irreparably.*
+      - *eBay is announcing today that it’s going to start authenticating sneaker sales over $100 in the U.S. This is a clear bite into the dominance of StockX and GOAT in the limited sneaker universe. The authentication will be done by Sneaker Con, the company that r…*
       
-  - France’s Health Data Hub to move to European cloud infrastructure to avoid EU-US data transfers
+  - Twilio's $3.2B Segment acquisition about helping developers build data-fueled apps
       <hr/>
       
-      - *France’s data regulator CNIL has issued some recommendations for French services that handle health data, as Mediapart first reported. Those services should avoid using American cloud hosting companies altogether, such as Microsoft Azure, Amazon Web Services …*
+      - *The pandemic has forced businesses to change the way they interact with customers. Whether it’s how they deliver goods and services, or how they communicate, there is one common denominator, and that’s that everything is being forced to be digitally driven mu…*
        
-  - Yotascale raises a $13M Series B to help companies track and manage their cloud spends
+  - Hoping to be LatAm's top digital bank for SMBs, Xepelin launches a lending and revenue management service
       <hr/>
        
-       - *These days when you found a startup, you don’t go out and buy a rack of servers. And you don’t build an in-house datacenter team. Instead, you farm out your infrastructure needs to the major cloud platforms, namely Amazon AWS, Microsoft Azure and Google Cloud…*
+       - *There’s another entrant in the startup race to provide financial services to Latin America’s small and medium-sized businesses. Financial services have been a huge opportunity for startups coming out of Brazil, Colombia, and Mexico in recent years, and now Xe…*
       
 
 
