@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most errors are introduced during requirements specification!
+From an artistic standpoint, the best software comes from the realm of intuition.
 
-~ Daniel T. Barry
+~ Bob Carr
 <pre>
 
 </pre>
