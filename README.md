@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Never memorize something that you can look up.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Albert Einstein
+~ Daniel T. Barry
 <pre>
 
 </pre>
