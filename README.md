@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+The most important part of writing a program is designing the data structures.
 
-~ Mario Fusco
+~ Dan Bricklin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The code you write makes you a programmer. The code you delete makes you a good 
 
 </pre>
 **Daily News**
-  - With thousands of subscribers, The Juggernaut raises $2 million for South Asian-focused news outlet
+  - Walt Disney announces reorganization to focus on streaming
      <hr/>
      
-      - *As paid newsletters grow in popularity, Snigdha Sur, the founder of South Asian-focused media company The Juggernaut, has no qualms about avoiding the approach entirely. In October 2017, Sur started The Juggernaut as a free newsletter, called InkMango. As she…*
+      - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
      
+  - If the ad industry is serious about transparency, let’s open-source our SDKs
+      <hr/>
+      
+      - *Showing exactly how the code within the SDK has been written is the best way to reassure developers and partners that there are no hidden functions or unwanted features.*
+      
+  - Family tracking app Life360 launches 'Bubbles,' a location-sharing feature inspired by teens on TikTok
+      <hr/>
+      
+      - *Helicopter parenting turned into surveillance with the debut of family tracking apps like Life360. While the app can alleviate parental fears when setting younger kids loose in the neighborhood, Life360’s teenage users have hated the app’s location tracking f…*
+      
+  - With thousands of subscribers, The Juggernaut raises $2 million for South Asian-focused news outlet
+      <hr/>
+      
+      - *As paid newsletters grow in popularity, Snigdha Sur, the founder of South Asian-focused media company The Juggernaut, has no qualms about avoiding the approach entirely. In October 2017, Sur started The Juggernaut as a free newsletter, called InkMango. As she…*
+       
   - How startups should budget in uncertain times
       <hr/>
-      
-      - *My guiding principle at this time is surely familiar: control burn until income streams are more predictable. Many startups find themselves in a similar position these days: ramen or sushi?*
-      
-  - eBay takes a bite at StockX and GOAT with sneaker authentication for sales $100+ in the U.S.
-      <hr/>
-      
-      - *eBay is announcing today that it’s going to start authenticating sneaker sales over $100 in the U.S. This is a clear bite into the dominance of StockX and GOAT in the limited sneaker universe. The authentication will be done by Sneaker Con, the company that r…*
-      
-  - Twilio's $3.2B Segment acquisition about helping developers build data-fueled apps
-      <hr/>
-      
-      - *The pandemic has forced businesses to change the way they interact with customers. Whether it’s how they deliver goods and services, or how they communicate, there is one common denominator, and that’s that everything is being forced to be digitally driven mu…*
        
-  - Hoping to be LatAm's top digital bank for SMBs, Xepelin launches a lending and revenue management service
-      <hr/>
-       
-       - *There’s another entrant in the startup race to provide financial services to Latin America’s small and medium-sized businesses. Financial services have been a huge opportunity for startups coming out of Brazil, Colombia, and Mexico in recent years, and now Xe…*
+       - *My guiding principle at this time is surely familiar: control burn until income streams are more predictable. Many startups find themselves in a similar position these days: ramen or sushi?*
       
 
 
