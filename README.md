@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Jamie Zawinski
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Some people, when confronted with a problem, think ‘I know, I’ll use regular
 
 </pre>
 **Daily News**
-  - Facebook, in a reversal, will now ban Holocaust denial content under its hate speech policy
+  - 2020 IPO report card: are tech's newest public companies meeting expectations?
      <hr/>
      
-      - *Facebook this morning announced a significant change in how it approaches Holocaust denial content on its social network. For years, the company has been criticized for not taking down this extremely offensive form of content in favor of allowing free speech …*
+      - *As the American election looms and the IPO cycle slows some, it’s a good time to review how well the public offerings we have seen thus far have performed. The Exchange explores startups, markets and money. Read it every morning on Extra Crunch, or get The Ex…*
      
-  - Facebook EU-US data transfer complaint: Schrems gets a judicial review of the Irish DPC's procedure
+  - Calling Lisbon VCs: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
-      - *Another twist in a multi-year complaint saga related to the legality of Facebook’s data transfers: European privacy campaigner, Max Schrems, has today been granted a judicial review of the Irish regulator’s handling of his complaint. He’s expecting the hearin…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Lisbon will capture how the city is faring, and what changes are being wroug…*
       
-  - Quince launches out of beta with new 'manufacturer-to-customer' model
+  - Microsoft and partners aim to shrink the 'data desert' limiting accessible AI
       <hr/>
       
-      - *The retail landscape is shifting rapidly. While D2C brands have changed the way we shop, Quince is looking to change retail even more dramatically. The brand, which raised $8.5 million in seed funding last year (and only revealed as much today), is looking to…*
+      - *AI-based tools like computer vision and voice interfaces have the potential to be life-changing for people with disabilities, but the truth is those AI models are usually built with very little data sourced from those people. Microsoft is working with several…*
       
-  - Nest launches its $129 thermostat with a new design, swipe and touch interface on the side
+  - Snapdocs raises $60M to manage the mortgage process in the cloud
       <hr/>
       
-      - *Google’s Nest unit today launched its newest thermostat. At $129, the new thermostat is the company’s most affordable one yet, but it’s also the first to feature a new swipe and tap interface on its side, as well as Google’s Soli radar technology to sense roo…*
+      - *The US economy may be in a precarious state right now with a presidential election looming on the horizon and the country still in the grips of the coronavirus pandemic. But partly thanks to lower interest rates, the housing market continues to rise, and toda…*
        
-  - Equity Monday: Twilio buys Segment, and Airkit raises  $28M for its low-code platform
+  - Facebook, in a reversal, will now ban Holocaust denial content under its hate speech policy
       <hr/>
        
-       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+       - *Facebook this morning announced a significant change in how it approaches Holocaust denial content on its social network. For years, the company has been criticized for not taking down this extremely offensive form of content in favor of allowing free speech …*
       
 
 
