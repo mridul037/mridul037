@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 
-~ Donald Knuth
+~ Laurence J. Peter
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I’ve got this need to program. I wake up in the morning with sentences of a li
 
 </pre>
 **Daily News**
-  - Amazon launches an AR app that works with new QR codes on its boxes
+  - France’s Health Data Hub to move to European cloud infrastructure to avoid EU-US data transfers
      <hr/>
      
-      - *Amazon has quietly launched a new augmented reality application that works with QR codes on the company’s shipping boxes to create “interactive, shareable” AR experiences. Called simply “Amazon Augmented Reality,” the retailer describes the app as a “fun way …*
+      - *France’s data regulator CNIL has issued some recommendations for French services that handle health data, as Mediapart first reported. Those services should avoid using American cloud hosting companies altogether, such as Microsoft Azure, Amazon Web Services …*
      
-  - What to expect from Apple’s ‘Hi Speed’ iPhone event
+  - Yotascale raises a $13M Series B to help companies track and manage their cloud spends
       <hr/>
       
-      - *For starters, iPhones, of course. That one was easy. The company skipped out on new mobile devices during its recent Apple Watch event, owing to COVID-19-related delays. And, of course, the fact that the events are all pre-taped and virtual now means companie…*
+      - *These days when you found a startup, you don’t go out and buy a rack of servers. And you don’t build an in-house datacenter team. Instead, you farm out your infrastructure needs to the major cloud platforms, namely Amazon AWS, Microsoft Azure and Google Cloud…*
       
-  - 2020 IPO report card: are tech's newest public companies meeting expectations?
+  - Free-to-play gaming giant Roblox confidentially files to go public
       <hr/>
       
-      - *As the American election looms and the IPO cycle slows some, it’s a good time to review how well the public offerings we have seen thus far have performed. The Exchange explores startups, markets and money. Read it every morning on Extra Crunch, or get The Ex…*
+      - *The gaming company Roblox announced today that it had confidentially filed paperwork with the SEC to make its public debut. In February, the company which operates a free-to-play gaming empire with tens of million of users, was valued at $4 billion after a Se…*
       
-  - Calling Lisbon VCs: Be featured in The Great TechCrunch Survey of European VC
+  - Bumble balances gender representation of C-Suite with two new hires
       <hr/>
       
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Lisbon will capture how the city is faring, and what changes are being wroug…*
+      - *Women-friendly dating and networking app Bumble announced today it’s expanding its C-Suite with two new hires: Anu Subramanian as Bumble’s Chief Financial Officer, who hails from Univision, and Selby Drummond as Chief Brand Officer, who is joining from Snap. …*
        
-  - Microsoft and partners aim to shrink the 'data desert' limiting accessible AI
+  - Seraphim Capital's SpaceTech accelerator releases details of its newest SpaceCamp cohort
       <hr/>
        
-       - *AI-based tools like computer vision and voice interfaces have the potential to be life-changing for people with disabilities, but the truth is those AI models are usually built with very little data sourced from those people. Microsoft is working with several…*
+       - *The UK’s Seraphim Capital, the country’s only SpaceTech accelerator, has released details of its newest cohort as part of its SpaceCamp programme, timed with the end of World Space Week last week. 4pi Lab Raised so far: Undisclosed amount / Non-Equity Assista…*
       
 
 
