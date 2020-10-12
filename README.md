@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 
-~ Harlan Mills
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 
 </pre>
 **Daily News**
-  - 2020 IPO report card: are tech's newest public companies meeting expectations?
+  - Amazon launches an AR app that works with new QR codes on its boxes
      <hr/>
      
-      - *As the American election looms and the IPO cycle slows some, it’s a good time to review how well the public offerings we have seen thus far have performed. The Exchange explores startups, markets and money. Read it every morning on Extra Crunch, or get The Ex…*
+      - *Amazon has quietly launched a new augmented reality application that works with QR codes on the company’s shipping boxes to create “interactive, shareable” AR experiences. Called simply “Amazon Augmented Reality,” the retailer describes the app as a “fun way …*
      
+  - What to expect from Apple’s ‘Hi Speed’ iPhone event
+      <hr/>
+      
+      - *For starters, iPhones, of course. That one was easy. The company skipped out on new mobile devices during its recent Apple Watch event, owing to COVID-19-related delays. And, of course, the fact that the events are all pre-taped and virtual now means companie…*
+      
+  - 2020 IPO report card: are tech's newest public companies meeting expectations?
+      <hr/>
+      
+      - *As the American election looms and the IPO cycle slows some, it’s a good time to review how well the public offerings we have seen thus far have performed. The Exchange explores startups, markets and money. Read it every morning on Extra Crunch, or get The Ex…*
+      
   - Calling Lisbon VCs: Be featured in The Great TechCrunch Survey of European VC
       <hr/>
       
       - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Lisbon will capture how the city is faring, and what changes are being wroug…*
-      
+       
   - Microsoft and partners aim to shrink the 'data desert' limiting accessible AI
       <hr/>
-      
-      - *AI-based tools like computer vision and voice interfaces have the potential to be life-changing for people with disabilities, but the truth is those AI models are usually built with very little data sourced from those people. Microsoft is working with several…*
-      
-  - Snapdocs raises $60M to manage the mortgage process in the cloud
-      <hr/>
-      
-      - *The US economy may be in a precarious state right now with a presidential election looming on the horizon and the country still in the grips of the coronavirus pandemic. But partly thanks to lower interest rates, the housing market continues to rise, and toda…*
        
-  - Facebook, in a reversal, will now ban Holocaust denial content under its hate speech policy
-      <hr/>
-       
-       - *Facebook this morning announced a significant change in how it approaches Holocaust denial content on its social network. For years, the company has been criticized for not taking down this extremely offensive form of content in favor of allowing free speech …*
+       - *AI-based tools like computer vision and voice interfaces have the potential to be life-changing for people with disabilities, but the truth is those AI models are usually built with very little data sourced from those people. Microsoft is working with several…*
       
 
 
