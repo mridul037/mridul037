@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 
-~ Jonathan Sachs
+~ Dennis Ritchie
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I don't like using any tools or programs I didn't write myself or that I don't h
 
 </pre>
 **Daily News**
-  - Apple launches new ecosystem of accessories and wireless chargers with MagSafe
+  - iPhones won't come with headphones or power adapters in the box from now on
      <hr/>
      
-      - *Apple just announced the iPhone 12, and it features some new capabilities hidden in the rear of the phone. Thanks to alignment magnets, you can snap accessories to the back of your phone. And the company is releasing new accessories that work with this magnet…*
+      - *That drawer full of bad headphones and extra power adapters for your phone won’t get any more cluttered if you decide to pick up a new iPhone 12. Apple will no longer include those items in the box, part of a redoubled effort to reduce its environmental footp…*
      
+  - Beats announces $50 Bluetooth earbuds
+      <hr/>
+      
+      - *Apple clearly has plenty to announce during today’s big iPhone event. That means, as usual, its Beats line didn’t really get any love. The company is much more content to focus on its own audio offerings, instead. But the Apple-owned brand had some news to sh…*
+      
+  - Should you replace your developer portal with a hybrid integration platform?
+      <hr/>
+      
+      - *The growing use of hybrid integration systems is drastically reducing adoption complications, improving user experiences and minimizing technical complexity — while increasing security.*
+      
+  - Apple launches new ecosystem of accessories and wireless chargers with MagSafe
+      <hr/>
+      
+      - *Apple just announced the iPhone 12, and it features some new capabilities hidden in the rear of the phone. Thanks to alignment magnets, you can snap accessories to the back of your phone. And the company is releasing new accessories that work with this magnet…*
+       
   - Apple's new 'Intercom' feature will let you shout across your Apple devices
       <hr/>
-      
-      - *Apple today introduced a new feature designed for use with its HomePod speakers, including its just-introduced HomePod Mini: Intercom. Similar to Alexa’s “announce” feature, Intercom will allow HomePod owners to leverage their smart speakers — and other Apple…*
-      
-  - This is the iPhone 12
-      <hr/>
-      
-      - *It took a bit longer than usual (thank COVID-19 from some insurmountable manufacturing delays), but the iPhone 12 is here. And as expected, it comes bearing 5G. The latest version of Apple’s smartphone also arrives in a variety of different sizes, as the comp…*
-      
-  - Apple reveals the $99 HomePod Mini
-      <hr/>
-      
-      - *Today, during its iPhone hardware event, Apple unveiled the $99 HomePod Mini. The HomePod Mini is clearly a reach for a broader swath of new users. The original HomePod managed to impress audiophiles but its high price served as a high barrier of entry to new…*
        
-  - Watch Apple unveil the new iPhone live right here
-      <hr/>
-       
-       - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
+       - *Apple today introduced a new feature designed for use with its HomePod speakers, including its just-introduced HomePod Mini: Intercom. Similar to Alexa’s “announce” feature, Intercom will allow HomePod owners to leverage their smart speakers — and other Apple…*
       
 
 
