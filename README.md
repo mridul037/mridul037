@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A language that doesn’t have everything is actually easier to program in than some that do.
+The most important single aspect of software development is to be clear about what you are trying to build.
 
-~ Dennis Ritchie
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
