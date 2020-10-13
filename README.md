@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 
-~ Fred Brooks
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Very good professional programmers are ten times as productive as poor ones, at 
 
 </pre>
 **Daily News**
-  - Malaysian on-demand work platform GoGet lands $2 million Series A
+  - Why are VCs launching SPACs? Amish Jani of FirstMark shares his firm's rationale
      <hr/>
      
-      - *GoGet, a Malaysian on-demand work platform, announced today that it has raised a $2 million Series A led by Monk’s Hill Ventures. The platform currently has 20,000 gig workers, who are called “GoGetters,” and has onboarded 5,000 businesses, including Lazada M…*
+      - *It’s happening slowly but surely. With every passing week, more venture firms are beginning to announce SPACs. The veritable blitz of SPACs formed by investor Chamath Palihapitiya notwithstanding, we’ve now seen a SPAC (or plans for a SPAC) revealed by Ribbit…*
      
+  - Malaysian on-demand work platform GoGet lands $2 million Series A
+      <hr/>
+      
+      - *GoGet, a Malaysian on-demand work platform, announced today that it has raised a $2 million Series A led by Monk’s Hill Ventures. The platform currently has 20,000 gig workers, who are called “GoGetters,” and has onboarded 5,000 businesses, including Lazada M…*
+      
   - OnePlus co-founder Carl Pei leaves the company to start a new venture
       <hr/>
       
@@ -81,16 +86,11 @@ Very good professional programmers are ten times as productive as poor ones, at 
       <hr/>
       
       - *Alphabet (you know… Google) has taken the wraps off the latest “moonshot” from its X labs: A robotic buggy that cruises over crops, inspecting each plant individually and, perhaps, generating the kind of “big data” that agriculture needs to keep up with the d…*
-      
+       
   - Walt Disney announces reorganization to focus on streaming
       <hr/>
-      
-      - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
        
-  - If the ad industry is serious about transparency, let’s open-source our SDKs
-      <hr/>
-       
-       - *Showing exactly how the code within the SDK has been written is the best way to reassure developers and partners that there are no hidden functions or unwanted features.*
+       - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
       
 
 
