@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+Programming increases goes as a power of program size.
 
-~ Ken Thompson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One of my most productive days was throwing away 1,000 lines of code.
 
 </pre>
 **Daily News**
-  - Apple's iPhone 12 Pro camera upgrades sharpen focus on serious photographers
+  - PopSockets is working on MagSafe-compatible iPhone accessories
      <hr/>
      
-      - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
+      - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
      
+  - Discuss the unbundling of early-stage VC with Unusual Ventures' Sarah Leary & John Vrionis
+      <hr/>
+      
+      - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
+      
+  - Two Screens For Teachers will outfit all educators in Seattle Public Schools with a second monitor
+      <hr/>
+      
+      - *The admirable effort Two Screens For Teachers, which as you may guess is about getting teachers a second screen to use at home, has put together enough funds to get every educator in the Seattle Public School system a new monitor who needs one. They’re hoping…*
+      
+  - Apple's iPhone 12 Pro camera upgrades sharpen focus on serious photographers
+      <hr/>
+      
+      - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
+       
   - Snapchat among first to leverage iPhone 12 Pro's LiDAR Scanner for AR
       <hr/>
-      
-      - *Apple introduced its latest flagship iPhone models, the iPhone 12 Pro and 12 Pro Max, at its iPhone event on Tuesday. Among other things, the devices sport a new LiDAR Scanner designed to allow for more immersive augmented reality (AR) experiences. Snapchat t…*
-      
-  - Apple's stock dips and Verizon's recovers during iPhone event
-      <hr/>
-      
-      - *Earlier today Apple announced a slew of new hardware. In case you’ve not yet caught up, there’s a $99 HomePod Mini coming, new iPhones, a new method for shouting at your electronics, the return of MagSafe, some cost-cutting masquerading as environmentalism an…*
-      
-  - Apple’s iPhone 12, 12 mini, 12 Pro and 12 Pro Max: what’s the difference?
-      <hr/>
-      
-      - *Gone are the days a company like Apple could simply roll out a single flagship handset or two. Consumer demands have evolved quite a bit in the more than 13 years since the company released its first smartphone, and its offerings have had to evolve with it. T…*
        
-  - Apple unveils its flagship 5G phones, the iPhone 12 Pro and Pro Max
-      <hr/>
-       
-       - *At Apple’s iPhone event on Tuesday, the company introduced a range of new phones, led by the just-announced flagships: the iPhone 12 Pro, starting at $999, and iPhone 12 Pro Max, starting at $1099. The new 5G-ready devices sport an all-screen Super Retina XDR…*
+       - *Apple introduced its latest flagship iPhone models, the iPhone 12 Pro and 12 Pro Max, at its iPhone event on Tuesday. Among other things, the devices sport a new LiDAR Scanner designed to allow for more immersive augmented reality (AR) experiences. Snapchat t…*
       
 
 
