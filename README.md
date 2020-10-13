@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+For most software, efficiency just does not matter.
 
-~ Richard Stallman
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I figure that since proprietary software developers use copyright to stop us fro
 
 </pre>
 **Daily News**
-  - Astroscale raises $51 million in Series E funding to fuel its orbital sustainability ambitions
+  - Genemod raises cash for its lab inventory management service used by research institutions around the US
      <hr/>
      
-      - *On-orbit service and logistics startup Astroscale has raised a $51 million Series E funding round, bringing its total raised to date to $191 million thus far. The Japan-based company has been focused on delivering new solutions for orbital end-of-life – meani…*
+      - *Genemod, a software for laboratory inventory management used by institutions like the University of Washington School of Medicine; the University of California, Berkeley, and the National Institutes of Health; has raised $1.7 million from a clutch of top vent…*
      
-  - Kayhan Space wants to be the air traffic control service for satellites in space
+  - London Business School and LocalGlobe launch new VC course aimed at women, Black and Asian candidates
       <hr/>
       
-      - *Kayhan Space, the Boulder, Colo. and Atlanta-based company launched from Techstars virtual space-focused accelerator, wants nothing more than to be the air traffic control service for satellites in space. Founded by two childhood friends, Araz Feyzi and Siama…*
+      - *With the UK’s Black Tech Fest on this week it’s timely that a new executive education course aimed at those wanting to enter the venture capital industry has been launched to serve previously under-represented groups, especially women, Black, Asian and other …*
       
-  - Kegg, a connected fertility tracker and kegel trainer for women, launches out of beta
+  - Join Yext’s Howard Lerman for a live Q&A today at 2 pm ET/11 am PT
       <hr/>
       
-      - *Fertility tracking has seen an explosion of startup activity in recent years. Femtech startup Lady Technologies is adding to this rich mix with the full U.S. launch of a dual-purpose device, called kegg, that’s designed to measure hormonal changes in a woman’…*
+      - *Today’s the day! This afternoon at 2 pm ET/11 am PT, Yext CEO Howard Lerman will join TechCrunch for a live chat. The conversation is part of our continuing Extra Crunch Live series, now in its second season. What are we up to in the second installment of the…*
       
-  - Commercializing the open source FingerprintJS browser fingerprinting tech nabs Chicago entrepreneur $4M
+  - The iPhone 12 and HomePod mini leak ahead of today’s big Apple event
       <hr/>
       
-      - *Chicago-based serial entrepreneur Dan Pinto has raised new cash and launched a new company looking to commercialize a years-old open source project that purports to solve one of the web’s hardest problems — fraud prevention. The company he launched in January…*
+      - *I guess maybe don’t read this if you like being surprised. Though you already read the headline and saw the first image, so you might as well keep keep going, right? And this is an Apple event we’re talking about, so surely there will be a surprise or two lef…*
        
-  - Watch Blue Origin launch its reusable New Shepard rocket live, with a key NASA system test on board
+  - Nuvemshop, a Latin American answer to Shopify, raises $30 million
       <hr/>
        
-       - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
+       - *After several failed startup attempts and nine years spent building Nuvemshop into Latin America’s answer to Shopify, the four co-founders of the company have managed to raise $30 million in venture capital funding as they look to expand their business. The n…*
       
 
 
