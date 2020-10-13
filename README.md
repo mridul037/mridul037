@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Codes are a puzzle. A game, just like any other game.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Alan Turing
+~ Fred Brooks
 <pre>
 
 </pre>
