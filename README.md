@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Really care about the tools you use because they are what make you your best.
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 
-~ Addy Osmani
+~ Jonathan Sachs
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Really care about the tools you use because they are what make you your best.
 
 </pre>
 **Daily News**
-  - Spendesk raises another $18 million for its corporate card and expense service
+  - Apple launches new ecosystem of accessories and wireless chargers with MagSafe
      <hr/>
      
-      - *French startup Spendesk has added $18 million to its Series B round. The company already raised $38.4 million as part of its Series B last year, which means that it raised $56.4 million as part of this round. Eight Roads Ventures is investing in today’s exten…*
+      - *Apple just announced the iPhone 12, and it features some new capabilities hidden in the rear of the phone. Thanks to alignment magnets, you can snap accessories to the back of your phone. And the company is releasing new accessories that work with this magnet…*
      
-  - Edge computing startup Edgify secures $6.5M Seed from Octopus, Mangrove and semiconductor
+  - Apple's new 'Intercom' feature will let you shout across your Apple devices
       <hr/>
       
-      - *Edgify, which builds AI for edge computing, has secured a $6.5m seed funding round backed by Octopus Ventures, Mangrove Capital Partners and an unnamed semiconductor giant. The name was not released but TechCrunch understands it nay be Intel Corp. or Qualcomm…*
+      - *Apple today introduced a new feature designed for use with its HomePod speakers, including its just-introduced HomePod Mini: Intercom. Similar to Alexa’s “announce” feature, Intercom will allow HomePod owners to leverage their smart speakers — and other Apple…*
       
-  - Men's health subscription startup Numan closes £10M Series A funding round
+  - This is the iPhone 12
       <hr/>
       
-      - *Launched almost 18 months ago, Numan joined the growing list of sites aiming at men’s health, such as Roman and Hims, for example. Numan launched aiming to promote accessible medical remedies for Erectile Dysfunction but has since expanded into other areas to…*
+      - *It took a bit longer than usual (thank COVID-19 from some insurmountable manufacturing delays), but the iPhone 12 is here. And as expected, it comes bearing 5G. The latest version of Apple’s smartphone also arrives in a variety of different sizes, as the comp…*
       
-  - Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing
+  - Apple reveals the $99 HomePod Mini
       <hr/>
       
-      - *A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing. The new fin…*
+      - *Today, during its iPhone hardware event, Apple unveiled the $99 HomePod Mini. The HomePod Mini is clearly a reach for a broader swath of new users. The original HomePod managed to impress audiophiles but its high price served as a high barrier of entry to new…*
        
-  - Live from Apple's virtual 2020 iPhone event
+  - Watch Apple unveil the new iPhone live right here
       <hr/>
        
-       - *Apple’s big iPhone event is finally here – virtual, which is to be expected these day. This is already the second virtual event Apple has hosted this fall, following one in September at which it revealed the Apple Watch Series 6 and a new iPad Air. This time …*
+       - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
       
 
 
