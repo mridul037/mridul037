@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only sin is to make a choice without knowing you are making one.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Jonathan Shewchuk
+~ Ryan Singer
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The only sin is to make a choice without knowing you are making one.
 
 </pre>
 **Daily News**
-  - Kahoot picks up $215M from SoftBank for its user-generated, gamified e-learning platform
+  - South Korea pushes for AI semiconductors as global demand grows
      <hr/>
      
-      - *After announcing a modest $28 million raise earlier this year, the user-generated gamified e-learning platform Kahoot today announced a much bigger round to double down on the current surge in demand for remote education. The Norwegian startup — which has clo…*
+      - *The South Korean government has made no secret of its ambition to be a key player in the global artificial intelligence industry, including making the semiconductors powering AI functionalities. This week, the country’s information and communications technolo…*
      
+  - Qatalog, the 'virtual workspace' rebundling SaaS tools to help teams function better, raises $15M
+      <hr/>
+      
+      - *Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding. Leading the round is European venture capital firm Atomico, with p…*
+      
+  - Kahoot picks up $215M from SoftBank for its user-generated, gamified e-learning platform
+      <hr/>
+      
+      - *After announcing a modest $28 million raise earlier this year, the user-generated gamified e-learning platform Kahoot today announced a much bigger round to double down on the current surge in demand for remote education. The Norwegian startup — which has clo…*
+      
   - Landscape site launches with the aim of becoming the 'Glassdoor for VC'
       <hr/>
       
       - *You’ve probably heard of Glassdoor, which exists to allow employees to rate companies anonymously. Now a UK entrepreneur has decided to address the thorny issue of rating venture capitalists. Landscape, a new review platform for tech startup founders to disco…*
-      
+       
   - Watch Apple unveil the new iPhone live right here
       <hr/>
-      
-      - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
-      
-  - Hong Kong and New York-based Easyship joins Shopify Plus' tech partner program
-      <hr/>
-      
-      - *Easyship, a logistics startup that allows e-commerce sellers to add multiple carriers to their stores, announced it has joined the Shopify Plus Technology Partner Program. Easyship is headquartered in Hong Kong and New York. Co-founder Tommaso Tamburnotti tol…*
        
-  - Why are VCs launching SPACs? Amish Jani of FirstMark shares his firm's rationale
-      <hr/>
-       
-       - *It’s happening slowly but surely. With every passing week, more venture firms are beginning to announce SPACs. The veritable blitz of SPACs formed by investor Chamath Palihapitiya notwithstanding, we’ve now seen a SPAC (or plans for a SPAC) revealed by Ribbit…*
+       - *Apple is set to announce new iPhone models today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Rumor has it that…*
       
 
 
