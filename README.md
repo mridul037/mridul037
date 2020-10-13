@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+If you learn how to solve problems, you can go through life and do pretty well.
 
-~ Alan Kay
+~ Gary Kildall
 <pre>
 
 </pre>
