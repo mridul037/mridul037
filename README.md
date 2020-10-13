@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+Everything should be made as simple as possible. But to do that you have to master complexity.
 
-~ Eric S. Raymond
+~ Butler Lampson
 <pre>
 
 </pre>
