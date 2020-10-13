@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+Codes are a puzzle. A game, just like any other game.
 
-~ Anonymous
+~ Alan Turing
 <pre>
 
 </pre>
