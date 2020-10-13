@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Dennis Ritchie
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer science research is different from these more traditional disciplines. 
 
 </pre>
 **Daily News**
-  - iPhones won't come with headphones or power adapters in the box from now on
+  - Apple's stock dips and Verizon's recovers during iPhone event
      <hr/>
      
-      - *That drawer full of bad headphones and extra power adapters for your phone won’t get any more cluttered if you decide to pick up a new iPhone 12. Apple will no longer include those items in the box, part of a redoubled effort to reduce its environmental footp…*
+      - *Earlier today Apple announced a slew of new hardware. In case you’ve not yet caught up, there’s a $99 HomePod Mini coming, new iPhones, a new method for shouting at your electronics, the return of MagSafe, some cost-cutting masquerading as environmentalism an…*
      
-  - Beats announces $50 Bluetooth earbuds
+  - Apple’s iPhone 12, 12 mini, 12 Pro and 12 Pro Max: what’s the difference?
       <hr/>
       
-      - *Apple clearly has plenty to announce during today’s big iPhone event. That means, as usual, its Beats line didn’t really get any love. The company is much more content to focus on its own audio offerings, instead. But the Apple-owned brand had some news to sh…*
+      - *Gone are the days a company like Apple could simply roll out a single flagship handset or two. Consumer demands have evolved quite a bit in the more than 13 years since the company released its first smartphone, and its offerings have had to evolve with it. T…*
       
-  - Should you replace your developer portal with a hybrid integration platform?
+  - Apple unveils its flagship 5G phones, the iPhone 12 Pro and Pro Max
       <hr/>
       
-      - *The growing use of hybrid integration systems is drastically reducing adoption complications, improving user experiences and minimizing technical complexity — while increasing security.*
+      - *At Apple’s iPhone event on Tuesday, the company introduced a range of new phones, led by the just-announced flagships: the iPhone 12 Pro, starting at $999, and iPhone 12 Pro Max, starting at $1099. The new 5G-ready devices sport an all-screen Super Retina XDR…*
       
-  - Apple launches new ecosystem of accessories and wireless chargers with MagSafe
+  - Here's everything Apple announced at its "Hi, Speed" iPhone event today
       <hr/>
       
-      - *Apple just announced the iPhone 12, and it features some new capabilities hidden in the rear of the phone. Thanks to alignment magnets, you can snap accessories to the back of your phone. And the company is releasing new accessories that work with this magnet…*
+      - *Just shy of one month after their last event, Apple was back today with another one. Everyone had a pretty good feeling this would be the one where they announced this year’s new iPhone… instead, Apple announced four new iPhones, plus a new HomePod for good m…*
        
-  - Apple's new 'Intercom' feature will let you shout across your Apple devices
+  - iPhones won't come with headphones or power adapters in the box from now on
       <hr/>
        
-       - *Apple today introduced a new feature designed for use with its HomePod speakers, including its just-introduced HomePod Mini: Intercom. Similar to Alexa’s “announce” feature, Intercom will allow HomePod owners to leverage their smart speakers — and other Apple…*
+       - *That drawer full of bad headphones and extra power adapters for your phone won’t get any more cluttered if you decide to pick up a new iPhone 12. Apple will no longer include those items in the box, part of a redoubled effort to reduce its environmental footp…*
       
 
 
