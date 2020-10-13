@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-For most software, efficiency just does not matter.
+All too many of our software systems are, architecturally, little more than shantytowns.
 
-~ Daniel T. Barry
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ For most software, efficiency just does not matter.
 
 </pre>
 **Daily News**
-  - Genemod raises cash for its lab inventory management service used by research institutions around the US
+  - WordPress can now turn blog posts into tweetstorms automatically
      <hr/>
      
-      - *Genemod, a software for laboratory inventory management used by institutions like the University of Washington School of Medicine; the University of California, Berkeley, and the National Institutes of Health; has raised $1.7 million from a clutch of top vent…*
+      - *Earlier this year, WordPress .com introduced an easier way to post your Twitter threads, also known as tweetstorms, to your blog with the introduction of “unroll” option for Twitter embeds. Today, the company is addressing the flip side of tweetstorm publicat…*
      
+  - BLCK VC launches educational initiative to bring more Blacks into investing ecosystem
+      <hr/>
+      
+      - *It is no secret that Black founders face an uphill battle in Silicon Valley with just a sliver of the investment pie being devoted to people of color. BLCK VC along with partners Operator Collective, Salesforce Ventures and Berkeley Haas School of Business ar…*
+      
+  - HBO is making a limited series about Elon Musk and the founding of SpaceX
+      <hr/>
+      
+      - *HBO is in the process of developing a six-episode limited series about the founding days of SpaceX and Elon Musk, Variety reports. The show will be based on Ashlee Vance’s biography of the Tesla CEO and SpaceX founder, but billionaire entrepreneur himself is …*
+      
+  - Genemod raises cash for its lab inventory management service used by research institutions around the US
+      <hr/>
+      
+      - *Genemod, a software for laboratory inventory management used by institutions like the University of Washington School of Medicine; the University of California, Berkeley, and the National Institutes of Health; has raised $1.7 million from a clutch of top vent…*
+       
   - London Business School and LocalGlobe launch new VC course aimed at women, Black and Asian candidates
       <hr/>
-      
-      - *With the UK’s Black Tech Fest on this week it’s timely that a new executive education course aimed at those wanting to enter the venture capital industry has been launched to serve previously under-represented groups, especially women, Black, Asian and other …*
-      
-  - Join Yext’s Howard Lerman for a live Q&A today at 2 pm ET/11 am PT
-      <hr/>
-      
-      - *Today’s the day! This afternoon at 2 pm ET/11 am PT, Yext CEO Howard Lerman will join TechCrunch for a live chat. The conversation is part of our continuing Extra Crunch Live series, now in its second season. What are we up to in the second installment of the…*
-      
-  - The iPhone 12 and HomePod mini leak ahead of today’s big Apple event
-      <hr/>
-      
-      - *I guess maybe don’t read this if you like being surprised. Though you already read the headline and saw the first image, so you might as well keep keep going, right? And this is an Apple event we’re talking about, so surely there will be a surprise or two lef…*
        
-  - Nuvemshop, a Latin American answer to Shopify, raises $30 million
-      <hr/>
-       
-       - *After several failed startup attempts and nine years spent building Nuvemshop into Latin America’s answer to Shopify, the four co-founders of the company have managed to raise $30 million in venture capital funding as they look to expand their business. The n…*
+       - *With the UK’s Black Tech Fest on this week it’s timely that a new executive education course aimed at those wanting to enter the venture capital industry has been launched to serve previously under-represented groups, especially women, Black, Asian and other …*
       
 
 
