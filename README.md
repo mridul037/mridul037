@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming increases goes as a power of program size.
+I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 
-~ Fred Brooks
+~ David Parnas
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Programming increases goes as a power of program size.
 
 </pre>
 **Daily News**
-  - PopSockets is working on MagSafe-compatible iPhone accessories
+  - Daily Crunch: Apple introduces the iPhone 12
      <hr/>
      
-      - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
+      - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
      
+  - PopSockets is working on MagSafe-compatible iPhone accessories
+      <hr/>
+      
+      - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
+      
   - Discuss the unbundling of early-stage VC with Unusual Ventures' Sarah Leary & John Vrionis
       <hr/>
       
@@ -81,16 +86,11 @@ Programming increases goes as a power of program size.
       <hr/>
       
       - *The admirable effort Two Screens For Teachers, which as you may guess is about getting teachers a second screen to use at home, has put together enough funds to get every educator in the Seattle Public School system a new monitor who needs one. They’re hoping…*
-      
+       
   - Apple's iPhone 12 Pro camera upgrades sharpen focus on serious photographers
       <hr/>
-      
-      - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
        
-  - Snapchat among first to leverage iPhone 12 Pro's LiDAR Scanner for AR
-      <hr/>
-       
-       - *Apple introduced its latest flagship iPhone models, the iPhone 12 Pro and 12 Pro Max, at its iPhone event on Tuesday. Among other things, the devices sport a new LiDAR Scanner designed to allow for more immersive augmented reality (AR) experiences. Snapchat t…*
+       - *Apple’s iPhone 12 Pro heaps improvements on the already-formidable power of its camera system, adding features that will be prized by “serious” photographers — that is to say, the type who like to really mess around with their shots after the fact. Of course …*
       
 
 
