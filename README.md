@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 
-~ John Warnock
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
 
 </pre>
 **Daily News**
-  - Why are VCs launching SPACs? Amish Jani of FirstMark shares his firm's rationale
+  - Hong Kong and New York-based Easyship joins Shopify Plus' tech partner program
      <hr/>
      
-      - *It’s happening slowly but surely. With every passing week, more venture firms are beginning to announce SPACs. The veritable blitz of SPACs formed by investor Chamath Palihapitiya notwithstanding, we’ve now seen a SPAC (or plans for a SPAC) revealed by Ribbit…*
+      - *Easyship, a logistics startup that allows e-commerce sellers to add multiple carriers to their stores, announced it has joined the Shopify Plus Technology Partner Program. Easyship is headquartered in Hong Kong and New York. Co-founder Tommaso Tamburnotti tol…*
      
+  - Why are VCs launching SPACs? Amish Jani of FirstMark shares his firm's rationale
+      <hr/>
+      
+      - *It’s happening slowly but surely. With every passing week, more venture firms are beginning to announce SPACs. The veritable blitz of SPACs formed by investor Chamath Palihapitiya notwithstanding, we’ve now seen a SPAC (or plans for a SPAC) revealed by Ribbit…*
+      
   - Malaysian on-demand work platform GoGet lands $2 million Series A
       <hr/>
       
@@ -81,16 +86,11 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
       <hr/>
       
       - *Carl Pei, who co-founded the smartphone giant OnePlus in his 20s, is leaving the company, two sources familiar with the matter told TechCrunch. Pei played an instrumental role in designing the OnePlus smartphone lineup over the years, including the recently l…*
-      
+       
   - Alphabet's latest moonshot is a field-roving, plant-inspecting robo-buggy
       <hr/>
-      
-      - *Alphabet (you know… Google) has taken the wraps off the latest “moonshot” from its X labs: A robotic buggy that cruises over crops, inspecting each plant individually and, perhaps, generating the kind of “big data” that agriculture needs to keep up with the d…*
        
-  - Walt Disney announces reorganization to focus on streaming
-      <hr/>
-       
-       - *Disney is going all-in on streaming media.  On Monday, the company announced a massive reorganization of its media and entertainment business that will focus on developing productions that will debut on its streaming and broadcast services. Disney’s media bus…*
+       - *Alphabet (you know… Google) has taken the wraps off the latest “moonshot” from its X labs: A robotic buggy that cruises over crops, inspecting each plant individually and, perhaps, generating the kind of “big data” that agriculture needs to keep up with the d…*
       
 
 
