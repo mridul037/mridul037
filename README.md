@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Everything should be made as simple as possible. But to do that you have to master complexity.
+I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-~ Butler Lampson
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Everything should be made as simple as possible. But to do that you have to mast
 
 </pre>
 **Daily News**
-  - Kegg, a connected fertility tracker and kegel trainer for women, launches out of beta
+  - Astroscale raises $51 million in Series E funding to fuel its orbital sustainability ambitions
      <hr/>
      
-      - *Fertility tracking has seen an explosion of startup activity in recent years. Femtech startup Lady Technologies is adding to this rich mix with the full U.S. launch of a dual-purpose device, called kegg, that’s designed to measure hormonal changes in a woman’…*
+      - *On-orbit service and logistics startup Astroscale has raised a $51 million Series E funding round, bringing its total raised to date to $191 million thus far. The Japan-based company has been focused on delivering new solutions for orbital end-of-life – meani…*
      
+  - Kayhan Space wants to be the air traffic control service for satellites in space
+      <hr/>
+      
+      - *Kayhan Space, the Boulder, Colo. and Atlanta-based company launched from Techstars virtual space-focused accelerator, wants nothing more than to be the air traffic control service for satellites in space. Founded by two childhood friends, Araz Feyzi and Siama…*
+      
+  - Kegg, a connected fertility tracker and kegel trainer for women, launches out of beta
+      <hr/>
+      
+      - *Fertility tracking has seen an explosion of startup activity in recent years. Femtech startup Lady Technologies is adding to this rich mix with the full U.S. launch of a dual-purpose device, called kegg, that’s designed to measure hormonal changes in a woman’…*
+      
   - Commercializing the open source FingerprintJS browser fingerprinting tech nabs Chicago entrepreneur $4M
       <hr/>
       
       - *Chicago-based serial entrepreneur Dan Pinto has raised new cash and launched a new company looking to commercialize a years-old open source project that purports to solve one of the web’s hardest problems — fraud prevention. The company he launched in January…*
-      
+       
   - Watch Blue Origin launch its reusable New Shepard rocket live, with a key NASA system test on board
       <hr/>
-      
-      - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
-      
-  - Cyberpion raises $8.25M in seed funding to help businesses secure assets beyond their firewall
-      <hr/>
-      
-      - *Hijacking a company’s DNS or injecting code into third-party tools are the kind of attacks that many companies aren’t equipped to handle. Cyberpion, a new security startup founded by a number of experienced security experts, aims to help enterprises identify …*
        
-  - South Korea pushes for AI semiconductors as global demand grows
-      <hr/>
-       
-       - *The South Korean government has made no secret of its ambition to be a key player in the global artificial intelligence industry, including making the semiconductors powering AI functionalities. This week, the country’s information and communications technolo…*
+       - *Blue Origin is set to return to active flight today, after a hiatus of nearly a year since its last launch in December 2019. Today’s launch is a mission for the company’s New Shepard reusable sub-orbital rocket – a record-setting sixth flight for this particu…*
       
 
 
