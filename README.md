@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Ryan Singer
+~ Henry Ford
 <pre>
 
 </pre>
