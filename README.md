@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
 
-~ John von Neumann
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If people do not believe that mathematics is simple, it is only because they do 
 
 </pre>
 **Daily News**
-  - Gillmor Gang: Home Stretch
+  - As investors and founders mature, Vienna emerges as a European startup hub
      <hr/>
      
-      - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
+      - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
      
+  - Gillmor Gang: Home Stretch
+      <hr/>
+      
+      - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
+      
   - Daily Crunch: Apple introduces the iPhone 12
       <hr/>
       
@@ -81,16 +86,11 @@ If people do not believe that mathematics is simple, it is only because they do 
       <hr/>
       
       - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
-      
+       
   - Discuss the unbundling of early-stage VC with Unusual Ventures' Sarah Leary & John Vrionis
       <hr/>
-      
-      - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
        
-  - Two Screens For Teachers will outfit all educators in Seattle Public Schools with a second monitor
-      <hr/>
-       
-       - *The admirable effort Two Screens For Teachers, which as you may guess is about getting teachers a second screen to use at home, has put together enough funds to get every educator in the Seattle Public School system a new monitor who needs one. They’re hoping…*
+       - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
       
 
 
