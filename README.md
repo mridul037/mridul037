@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
-~ Danny Hillis
+~ Tony Hoare
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ With the right programming, a computer can become a theater, a musical instrumen
 
 </pre>
 **Daily News**
-  - Suspect provenance of Hunter Biden data cache prompts skepticism and social media bans
+  - Daily Crunch: Zoom launches its events marketplace
      <hr/>
      
-      - *A cache of emails and other selected data purportedly from a laptop owned by Hunter Biden were published today by the New York Post. Ordinarily a major leak related to a figure involved in a controversy of Presidential importance would be on every front page …*
+      - *Zoom has a new marketplace and new integrations, Spotify gets a new format and we review Microsoft’s Surface Laptop Go. This is your Daily Crunch for October 14, 2020. The big story: Zoom launches its events marketplace Zoom’s new OnZoom marketplace allows an…*
      
+  - The Wing co-founder admits the coworking space upheld 'the kind of social inequality we set out to upend'
+      <hr/>
+      
+      - *Audrey Gelman, the former CEO of The Wing who resigned in June, today posted a letter she sent to former employees of The Wing last week. In it, Gelman apologized for not taking action to combat mistreatment of women of color at The Wing. She also acknowledge…*
+      
+  - Google keeps it simple with the Pixel 5
+      <hr/>
+      
+      - *I’m going to be totally honest with you. I don’t really understand Google’s phone strategy right now. And for what it’s worth, I’m not really sure Google does either. I wrote about it here, but I’ll save you from having to read an additional 800 words on top …*
+      
+  - Suspect provenance of Hunter Biden data cache prompts skepticism and social media bans
+      <hr/>
+      
+      - *A cache of emails and other selected data purportedly from a laptop owned by Hunter Biden were published today by the New York Post. Ordinarily a major leak related to a figure involved in a controversy of Presidential importance would be on every front page …*
+       
   - Mycons makes it easy to create and buy custom icons for your iOS homescreen
       <hr/>
-      
-      - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
-      
-  - Elon Musk tweets the Model S will be priced at $69,420 because he’s a child
-      <hr/>
-      
-      - *The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk, just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn’t done on a whim and a joint. The price cut is likely in response to Lu…*
-      
-  - Trump’s latest immigration restrictions are bad news for American workers
-      <hr/>
-      
-      - *To shutter employment-based visa programs, even temporarily, is to shut out the innovation and entrepreneurialism our economy desperately needs.*
        
-  - Tesla to begin production on 7-seat Model Y in November, with deliveries in early December
-      <hr/>
-       
-       - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
+       - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
       
 
 
