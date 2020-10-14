@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Hal Abelson
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The reason that we think computer science is about computers is pretty much the 
 
 </pre>
 **Daily News**
-  - Twentyeight Health is a telemedicine company expanding access to women's health and reproductive care
+  - Spotify introduces a new music-and-spoken word format, open to all creators
      <hr/>
      
-      - *New York’s Twentyeight Health is taking the wildly telemedicine services for women’s health popularized by companies like Nurx and bringing them to a patient population that previously hadn’t had access.  The mission to provide women who are Medicaid or under…*
+      - *Spotify today is launching a new feature that combines spoken word audio commentary with music tracks. The new format will allow Spotify to reproduce the radio-like experience of listening to a DJ or a music journalist offering their perspective on the music.…*
      
-  - Dataloop raises $11M Series A round for its AI data management platform
+  - With a new focus on marketing software, NewsCred relaunches as Welcome
       <hr/>
       
-      - *Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million. This includes a $5…*
+      - *The company formerly known as NewsCred has a new name and a new product: Welcome. Co-founder and CEO Shafqat Islam explained that this follows a broader shift in the company’s strategy. While previously known as a content marketing business, Islam said NewsCr…*
       
-  - Getaround raises a $140 million Series E amid rebound in short-distance travel
+  - Twitter hack probe leads to call for cybersecurity rules for social media giants
       <hr/>
       
-      - *Amid a rebound in short-distance travel, Getaround, a Silicon Valley car rental startup, has raised some new money to meet demand. The startup, which allows customers to instantly rent cars near them in over 100 cities, announced today that it has raised $140…*
+      - *An investigation into this summer’s Twitter hack by the New York State Department of Financial Services (NYSDFS) has ended with a stinging rebuke for how easily Twitter let itself be duped by a “simple” social engineering technique — and with a wider call for…*
       
-  - Vivun announces $18M Series A to keep growing pre-sales platform
+  - Shure's SRH1540 headphones can upgrade your home setup with quality sound and all-day comfort
       <hr/>
       
-      - *Vivun’s co-founder and CEO, Matt Darrow used to run pre-sales at Zuora and he saw that pre-sales team members had a lot of insight into customers. He believed if he could capture that insight, it would turn into valuable data to be shared across the company. …*
+      - *We’re going checking out a range of different headphones on TC this week and next as part of our ‘Headphone Week’ series, and today I’m checking out the Shure SRH1540 ($499). These aren’t new – they’ve been a stand-by among audiophiles in their price range fo…*
        
-  - Frontegg raises $5M to help SaaS companies build SaaS faster
+  - Celonis acquires Czech startup Integromat to accelerate move to process automation
       <hr/>
        
-       - *Frontegg, a Tel Aviv-based startup that helps SaaS companies build their products faster by giving them access to a set of enterprise-ready building blocks for often-used features like authentication and notifications, today announced that it has raised a $5 …*
+       - *Celonis began as a company to help customers understand how work flowed through your company by building a process map. This was valuable in itself, but the next logical step was to not only analyze the processes, but find ways to make them more efficient. To…*
       
 
 
