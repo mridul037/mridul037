@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of computing is insight, not numbers.
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 
-~ Richard Hamming
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The purpose of computing is insight, not numbers.
 
 </pre>
 **Daily News**
-  - Microsoft reverse engineers a budget computer with the Surface Laptop Go
+  - Elon Musk tweets the Model S will be priced at $69,420 because he’s a child
      <hr/>
      
-      - *The Surface Laptop Go joined me in the woods last week. It lived in my backpack for a few days and came along for a 20-mile hike through footpaths and across bridges of questionable integrity. It is, without a doubt, light. It’s certainly lighter than the Mac…*
+      - *The Tesla Model S is about to get a bit less expensive. Tesla CEO and resident meme maker, Elon Musk, just tweeted that the Model S sedan will soon be priced at $69,420. This pricing wasn’t done on a whim and a joint. The price cut is likely in response to Lu…*
      
-  - Virgin Galactic readies first spaceflight from Spaceport America for 'later this this fall'
+  - Trump’s latest immigration restrictions are bad news for American workers
       <hr/>
       
-      - *Virgin Galactic is getting ready to fly its first mission to space from its Spaceport America facility in New Mexico. This is the site that the company will use to host all of its commercial flights, and making it to space from this launch locale is crucial t…*
+      - *To shutter employment-based visa programs, even temporarily, is to shut out the innovation and entrepreneurialism our economy desperately needs.*
       
-  - NASA loads 14 companies with $370M for 'tipping point' technologies
+  - Tesla to begin production on 7-seat Model Y in November, with deliveries in early December
       <hr/>
       
-      - *NASA has announced more than a third of a billion dollars worth of “Tipping Point” contracts awarded to over a dozen companies pursuing potentially transformative space technologies. The projects range from in-space testing of cryogenic tech to a 4G LTE netwo…*
+      - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
       
-  - Sanity, a platform to build and manage content flows on sites, raises $9.3M from Ev Williams, Threshold and more
+  - Fall sale: Get 10% off an annual Extra Crunch membership
       <hr/>
       
-      - *There are more than 2 billion websites in existence in the world today, millions of apps, and a growing range of digital screens where people and businesses present constantly changing arrays of information to each other. But all that opportunity also has a f…*
+      - *From now until October 25, TechCrunch readers in the U.S. can save 10% on an annual plan for Extra Crunch. If you aren’t familiar, Extra Crunch is our membership program focused on startups, founders and investors with more than 100 exclusive articles publish…*
        
-  - Virgin Orbit aims for December for second attempt at orbital demonstration launch
+  - Microsoft reverse engineers a budget computer with the Surface Laptop Go
       <hr/>
        
-       - *Would-be small satellite launch service provider Virgin Orbit is aiming to redo its key orbital demonstration launch this December, which would be a remarkable turnaround after its attempt in March didn’t manage to reach orbit as the company had hoped. The co…*
+       - *The Surface Laptop Go joined me in the woods last week. It lived in my backpack for a few days and came along for a 20-mile hike through footpaths and across bridges of questionable integrity. It is, without a doubt, light. It’s certainly lighter than the Mac…*
       
 
 
