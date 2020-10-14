@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 
 ~ Alan Perlis
 <pre>
@@ -67,30 +67,30 @@ A year spent in artificial intelligence is enough to make one believe in God.
 
 </pre>
 **Daily News**
-  - Spotify introduces a new music-and-spoken word format, open to all creators
+  - M1 Finance closes $45M Series C mere months after it raised its $33M Series B
      <hr/>
      
-      - *Spotify today is launching a new feature that combines spoken word audio commentary with music tracks. The new format will allow Spotify to reproduce the radio-like experience of listening to a DJ or a music journalist offering their perspective on the music.…*
+      - *Just months after it announced a $33 million Series B, Chicago-based M1 Finance today disclosed a $45 Series C. The new financing event was led by Left Lane Capital, the same investor that led M1’s Series B. Bear in mind that so-called inside rounds are now a…*
      
-  - With a new focus on marketing software, NewsCred relaunches as Welcome
+  - Lucid reveals the price of its base Air sedan -- $77,400 minus $7,500 US tax credit
       <hr/>
       
-      - *The company formerly known as NewsCred has a new name and a new product: Welcome. Co-founder and CEO Shafqat Islam explained that this follows a broader shift in the company’s strategy. While previously known as a content marketing business, Islam said NewsCr…*
+      - *Electric car company Lucid finally revealed the price of its least expensive vehicle and it will start at $77,400. US buyers also qualify for a $7,500 tax credit making the vehicle eventually cost $69,900. This version of the Lucid Air comes rightfully less e…*
       
-  - Twitter hack probe leads to call for cybersecurity rules for social media giants
+  - Atlassian Smarts adds machine learning layer across the company's platform of services
       <hr/>
       
-      - *An investigation into this summer’s Twitter hack by the New York State Department of Financial Services (NYSDFS) has ended with a stinging rebuke for how easily Twitter let itself be duped by a “simple” social engineering technique — and with a wider call for…*
+      - *Atlassian has been offering collaboration tools, often favored by developers and IT for some time with such stalwarts as Jira for help desk tickets, Confluence to organize your work and BitBucket to organize your development deliverables, but what it lacked w…*
       
-  - Shure's SRH1540 headphones can upgrade your home setup with quality sound and all-day comfort
+  - Databricks crossed $350M run rate in Q3, up from $200M one year ago
       <hr/>
       
-      - *We’re going checking out a range of different headphones on TC this week and next as part of our ‘Headphone Week’ series, and today I’m checking out the Shure SRH1540 ($499). These aren’t new – they’ve been a stand-by among audiophiles in their price range fo…*
+      - *The Exchange regularly covers companies as they approach and crest the $100 million revenue mark. Our goal in tracking startups growing at scale is to scout future IPO candidates and better understand the late-stage financing market. Today we’re digging into …*
        
-  - Celonis acquires Czech startup Integromat to accelerate move to process automation
+  - Zoom launches its events platform and marketplace, brings apps to your calls
       <hr/>
        
-       - *Celonis began as a company to help customers understand how work flowed through your company by building a process map. This was valuable in itself, but the next logical step was to not only analyze the processes, but find ways to make them more efficient. To…*
+       - *Zoom is hosting its virtual Zoomtopia user conference this week. Given the attention the company has received as the de facto standard video meeting service since the start of the pandemic, it’s no surprise that the company is using the event to launch a numb…*
       
 
 
