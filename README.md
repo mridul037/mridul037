@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+All too many of our software systems are, architecturally, little more than shantytowns.
 
-~ Richard Stallman
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I consider that the golden rule requires that if I like a program I must share i
 
 </pre>
 **Daily News**
-  - Latest Space Station crew docks in record time following successful launch
+  - Lab-grown meat project gets first taste of EU public funds
      <hr/>
      
-      - *Typically, there’s a bit of a delay between when astronauts launch from Earth to the International Space Station, and when they actually dock with the orbital lab. This has to do with the relative orbits of the launch spacecraft and the ISS, as well as their …*
+      - *A cultured meat research program led by a Spanish biotech firm has been awarded a €2.7M grant under the European Union’s Horizon 2020 R&D funding framework. The consortium project, called ‘Meat4All’, says it’s the first lab-grown meat research effort to get p…*
      
-  - Engageli comes out of stealth with $14.5M and a new approach to teaching by video remotely
+  - Pitching tech to optimize building design for sustainability, Atlanta-based Cove.tool raises $5.7 million
       <hr/>
       
-      - *Zoom, Microsoft Teams and Google Meet have become standard tools for teachers who have had to run lessons remotely since the start of the Covid-19 pandemic. But they’re not apps necessarily designed for classrooms, and that fact has opened a gap in the market…*
+      - *Patrick Chopson and Sandeep Ahuja started cove.tool, an Atlanta-based company developing software to optimize building design for sustainability and cost, because of problems they’d faced in their careers as architects. Along with Patrick’s brother, Daniel Ch…*
       
-  - Menlo Micro, a startup bringing semiconductor tech to the humble switch, is ready for its closeup
+  - Merging Airbnb and the traditional hotel model, Mexico City's Casai raises $23 million to grow in Latin America
       <hr/>
       
-      - *Sixteen years ago a group of material scientists and engineers at General Electric banded together to reinvent the circuit breaker. Now, Menlo Microsystems, the spinoff commercializing that technology, is ready to bring its revolutionary new switches to marke…*
+      - *With travel and tourism rising across Latin America, Casai, a startup combining Airbnb single unit rentals with hotel room amenities, has raised $23 million to expand its business across Latin America. The company, which initially was as hit hard by regional …*
       
-  - Huawei plans to divest budget phone unit Honor: reports
+  - Augury taps $55M for tech that predicts machine faults from vibration, sound and temperature
       <hr/>
       
-      - *Besieged by U.S. tech sanctions, Huawei may be looking to shake up its smartphone business that has taken a hit after losing core semiconductor parts and software services. The Chinese giant is in talks with Digital China Group to sell parts of Honor, its low…*
+      - *On the heels of Amazon about to launch a new enterprise service to detect whether a machine is working well or not based on external physical changes in sound, vibration and temperature, a startup that has already built a big business in the space is announci…*
        
-  - As investors and founders mature, Vienna emerges as a European startup hub
+  - Lead Edge Capital just closed on $950 million from a whopping 500 investors
       <hr/>
        
-       - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
+       - *Lead Edge Capital, a software-focused venture firm with one office in New York and another in California, was founded just 11 years ago. Yet it’s already managing $3  billion in assets through a process that founder Mitchell Green half-kiddingly refers to as …*
       
 
 
