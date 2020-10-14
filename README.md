@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Joe Armstrong (programmer)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The problem with object-oriented languages is they’ve got all this implicit en
 
 </pre>
 **Daily News**
-  - True Ventures has $840 million more to invest in nascent and breakout startups
+  - Sanity, a platform to build and manage content flows on sites, raises $9.3M from Ev Williams, Threshold and more
      <hr/>
      
-      - *True Ventures, the now 15-year-old firm with offices in Palo Alto, Calif., and San Francisco, is taking the wraps off two new funds this morning: it has closed its seventh early-stage fund with $465 million, and capped its fourth opportunity-type fund — used …*
+      - *There are more than 2 billion websites in existence in the world today, millions of apps, and a growing range of digital screens where people and businesses present constantly changing arrays of information to each other. But all that opportunity also has a f…*
      
-  - Zoom to start first phase of E2E encryption rollout next week
+  - Virgin Orbit aims for December for second attempt at orbital demonstration launch
       <hr/>
       
-      - *Zoom will begin rolling out end-to-end encryption to users of its videoconferencing platform from next week, it said today. The platform, whose fortunes have been supercharged by the pandemic-driven boom in remote working and socializing this year, has been w…*
+      - *Would-be small satellite launch service provider Virgin Orbit is aiming to redo its key orbital demonstration launch this December, which would be a remarkable turnaround after its attempt in March didn’t manage to reach orbit as the company had hoped. The co…*
       
-  - OpenView Venture Partners raises $450M for sixth fund, its largest to date
+  - Plenty has raised over $500 million to grow fruits and veggies indoors
       <hr/>
       
-      - *This morning OpenView Venture Partners announced that it has closed $450 million for its new, sixth fund. The capital pool is its largest to date, coming in at roughly 50% larger than its preceding fund five. OpenView is based in Boston, but invests globally.…*
+      - *Plenty‌ ‌Unlimited‌ has raised $140 million in new funding to build more vertical farms around the U.S. The new funding, which brings the company’s total cash haul to an abundant $500 million, was led by existing investor Softbank Vision Fund also included th…*
       
-  - Toronto will trial automated shuttles from Local Motors in new pilot program
+  - Google Analytics update uses machine learning to surface more critical customer data
       <hr/>
       
-      - *The city of Toronto is going to start operating autonomous shuttles on a trial basis, through an agreement with Local Motors that will see that company’s Olli 2.0 all-electric self-driving shuttle ferry passengers beginning in Spring 2021. The trial is being …*
+      - *If you ever doubted the hunger brands have for more and better information about consumers, you only need to look at Twilio buying customer data startup Segment this week for $3.2 billion. Google sees this the same thing as everyone else, and today it introdu…*
        
-  - M1 Finance closes $45M Series C mere months after it raised its $33M Series B
+  - Spotify launches an automatically updating iOS 14 widget
       <hr/>
        
-       - *Just months after it announced a $33 million Series B, Chicago-based M1 Finance today disclosed a $45 Series C. The new financing event was led by Left Lane Capital, the same investor that led M1’s Series B. Bear in mind that so-called inside rounds are now a…*
+       - *Spotify today has released its highly-anticipated iOS 14 widget with the latest app update. The new widget, which comes in both the small and medium sizes for the time being, allows you to quickly access your recently played artists, albums and podcasts with …*
       
 
 
