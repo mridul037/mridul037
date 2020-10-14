@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Maurice Wilkes
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ By June 1949 people had begun to realize that it was not so easy to get programs
 
 </pre>
 **Daily News**
-  - As investors and founders mature, Vienna emerges as a European startup hub
+  - Huawei plans to divest budget phone unit Honor: reports
      <hr/>
      
-      - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
+      - *Besieged by U.S. tech sanctions, Huawei may be looking to shake up its smartphone business that has taken a hit after losing core semiconductor parts and software services. The Chinese giant is in talks with Digital China Group to sell parts of Honor, its low…*
      
+  - As investors and founders mature, Vienna emerges as a European startup hub
+      <hr/>
+      
+      - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
+      
   - Gillmor Gang: Home Stretch
       <hr/>
       
@@ -81,16 +86,11 @@ By June 1949 people had begun to realize that it was not so easy to get programs
       <hr/>
       
       - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
-      
+       
   - PopSockets is working on MagSafe-compatible iPhone accessories
       <hr/>
-      
-      - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
        
-  - Discuss the unbundling of early-stage VC with Unusual Ventures' Sarah Leary & John Vrionis
-      <hr/>
-       
-       - *This year has been everything but business as usual for the venture and tech community. And we still have a presidential election ahead of us. So, why not listen to the aptly-named experts over at Unusual Ventures? Partners Sarah Leary (co-founder of Nextdoor…*
+       - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
       
 
 
