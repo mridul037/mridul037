@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Fred Brooks
+~ Mario Fusco
 <pre>
 
 </pre>
