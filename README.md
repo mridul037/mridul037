@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 
-~ Robert C. Martin
+~ Douglas Crockford
 <pre>
 
 </pre>
