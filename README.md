@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 
-~ Harlan Mills
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ An interactive debugger is an outstanding example of what is not needed - it enc
 
 </pre>
 **Daily News**
-  - Menlo Micro, a startup bringing semiconductor tech to the humble switch, is ready for its closeup
+  - Latest Space Station crew docks in record time following successful launch
      <hr/>
      
-      - *Sixteen years ago a group of material scientists and engineers at General Electric banded together to reinvent the circuit breaker. Now, Menlo Microsystems, the spinoff commercializing that technology, is ready to bring its revolutionary new switches to marke…*
+      - *Typically, there’s a bit of a delay between when astronauts launch from Earth to the International Space Station, and when they actually dock with the orbital lab. This has to do with the relative orbits of the launch spacecraft and the ISS, as well as their …*
      
+  - Engageli comes out of stealth with $14.5M and a new approach to teaching by video remotely
+      <hr/>
+      
+      - *Zoom, Microsoft Teams and Google Meet have become standard tools for teachers who have had to run lessons remotely since the start of the Covid-19 pandemic. But they’re not apps necessarily designed for classrooms, and that fact has opened a gap in the market…*
+      
+  - Menlo Micro, a startup bringing semiconductor tech to the humble switch, is ready for its closeup
+      <hr/>
+      
+      - *Sixteen years ago a group of material scientists and engineers at General Electric banded together to reinvent the circuit breaker. Now, Menlo Microsystems, the spinoff commercializing that technology, is ready to bring its revolutionary new switches to marke…*
+      
   - Huawei plans to divest budget phone unit Honor: reports
       <hr/>
       
       - *Besieged by U.S. tech sanctions, Huawei may be looking to shake up its smartphone business that has taken a hit after losing core semiconductor parts and software services. The Chinese giant is in talks with Digital China Group to sell parts of Honor, its low…*
-      
+       
   - As investors and founders mature, Vienna emerges as a European startup hub
       <hr/>
-      
-      - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
-      
-  - Gillmor Gang: Home Stretch
-      <hr/>
-      
-      - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
        
-  - Daily Crunch: Apple introduces the iPhone 12
-      <hr/>
-       
-       - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
+       - *According to Austrian Startup Monitor, entrepreneurs have founded more than 2,200 startups in Austria since 2008, with the number of tech companies growing 12% per year since then, significantly faster than the 3% growth rate for traditional companies. Home t…*
       
 
 
