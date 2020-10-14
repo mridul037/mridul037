@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ Michael Hawley
+~ Maurice Wilkes
 <pre>
 
 </pre>
