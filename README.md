@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+The purpose of computing is insight, not numbers.
 
-~ Edsger W. Dijkstra
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If debugging is the process of removing software bugs, then programming must be 
 
 </pre>
 **Daily News**
-  - Sanity, a platform to build and manage content flows on sites, raises $9.3M from Ev Williams, Threshold and more
+  - Microsoft reverse engineers a budget computer with the Surface Laptop Go
      <hr/>
      
-      - *There are more than 2 billion websites in existence in the world today, millions of apps, and a growing range of digital screens where people and businesses present constantly changing arrays of information to each other. But all that opportunity also has a f…*
+      - *The Surface Laptop Go joined me in the woods last week. It lived in my backpack for a few days and came along for a 20-mile hike through footpaths and across bridges of questionable integrity. It is, without a doubt, light. It’s certainly lighter than the Mac…*
      
+  - Virgin Galactic readies first spaceflight from Spaceport America for 'later this this fall'
+      <hr/>
+      
+      - *Virgin Galactic is getting ready to fly its first mission to space from its Spaceport America facility in New Mexico. This is the site that the company will use to host all of its commercial flights, and making it to space from this launch locale is crucial t…*
+      
+  - NASA loads 14 companies with $370M for 'tipping point' technologies
+      <hr/>
+      
+      - *NASA has announced more than a third of a billion dollars worth of “Tipping Point” contracts awarded to over a dozen companies pursuing potentially transformative space technologies. The projects range from in-space testing of cryogenic tech to a 4G LTE netwo…*
+      
+  - Sanity, a platform to build and manage content flows on sites, raises $9.3M from Ev Williams, Threshold and more
+      <hr/>
+      
+      - *There are more than 2 billion websites in existence in the world today, millions of apps, and a growing range of digital screens where people and businesses present constantly changing arrays of information to each other. But all that opportunity also has a f…*
+       
   - Virgin Orbit aims for December for second attempt at orbital demonstration launch
       <hr/>
-      
-      - *Would-be small satellite launch service provider Virgin Orbit is aiming to redo its key orbital demonstration launch this December, which would be a remarkable turnaround after its attempt in March didn’t manage to reach orbit as the company had hoped. The co…*
-      
-  - Plenty has raised over $500 million to grow fruits and veggies indoors
-      <hr/>
-      
-      - *Plenty‌ ‌Unlimited‌ has raised $140 million in new funding to build more vertical farms around the U.S. The new funding, which brings the company’s total cash haul to an abundant $500 million, was led by existing investor Softbank Vision Fund also included th…*
-      
-  - Google Analytics update uses machine learning to surface more critical customer data
-      <hr/>
-      
-      - *If you ever doubted the hunger brands have for more and better information about consumers, you only need to look at Twilio buying customer data startup Segment this week for $3.2 billion. Google sees this the same thing as everyone else, and today it introdu…*
        
-  - Spotify launches an automatically updating iOS 14 widget
-      <hr/>
-       
-       - *Spotify today has released its highly-anticipated iOS 14 widget with the latest app update. The new widget, which comes in both the small and medium sizes for the time being, allows you to quickly access your recently played artists, albums and podcasts with …*
+       - *Would-be small satellite launch service provider Virgin Orbit is aiming to redo its key orbital demonstration launch this December, which would be a remarkable turnaround after its attempt in March didn’t manage to reach orbit as the company had hoped. The co…*
       
 
 
