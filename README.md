@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ David Parnas
+~ Douglas Crockford
 <pre>
 
 </pre>
