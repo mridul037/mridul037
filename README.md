@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Mario Fusco
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The code you write makes you a programmer. The code you delete makes you a good 
 
 </pre>
 **Daily News**
-  - Huawei plans to divest budget phone unit Honor: reports
+  - Menlo Micro, a startup bringing semiconductor tech to the humble switch, is ready for its closeup
      <hr/>
      
-      - *Besieged by U.S. tech sanctions, Huawei may be looking to shake up its smartphone business that has taken a hit after losing core semiconductor parts and software services. The Chinese giant is in talks with Digital China Group to sell parts of Honor, its low…*
+      - *Sixteen years ago a group of material scientists and engineers at General Electric banded together to reinvent the circuit breaker. Now, Menlo Microsystems, the spinoff commercializing that technology, is ready to bring its revolutionary new switches to marke…*
      
+  - Huawei plans to divest budget phone unit Honor: reports
+      <hr/>
+      
+      - *Besieged by U.S. tech sanctions, Huawei may be looking to shake up its smartphone business that has taken a hit after losing core semiconductor parts and software services. The Chinese giant is in talks with Digital China Group to sell parts of Honor, its low…*
+      
   - As investors and founders mature, Vienna emerges as a European startup hub
       <hr/>
       
@@ -81,16 +86,11 @@ The code you write makes you a programmer. The code you delete makes you a good 
       <hr/>
       
       - *On this edition of the Gillmor Gang, the live recording session was briefly interrupted by a rolling upgrade from Zoom. We’ve been using Zoom to virtualize what we’ve been doing for years with a combination of video switching hardware (Newtek’s TriCaster), a …*
-      
+       
   - Daily Crunch: Apple introduces the iPhone 12
       <hr/>
-      
-      - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
        
-  - PopSockets is working on MagSafe-compatible iPhone accessories
-      <hr/>
-       
-       - *PopSockets will support Apple’s MagSafe technology, TechCrunch has confirmed — meaning you’ll soon be able to pop on and off these ubiquitous iPhone accessories without worrying about the sticker on the back losing its adhesiveness over time and needing a rin…*
+       - *Apple embraces 5G, Facebook Messenger gets better integrated with Instagram and Kahoot raises $215 million. This is your Daily Crunch for October 13, 2020. The big story: Apple introduces the iPhone 12 Apple’s big event today kicked off with the announcement …*
       
 
 
