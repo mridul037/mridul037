@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 
-~ Henry Ford
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If we’d asked the customers what they wanted, they would have said “faster h
 
 </pre>
 **Daily News**
-  - Mycons makes it easy to create and buy custom icons for your iOS homescreen
+  - Suspect provenance of Hunter Biden data cache prompts skepticism and social media bans
      <hr/>
      
-      - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
+      - *A cache of emails and other selected data purportedly from a laptop owned by Hunter Biden were published today by the New York Post. Ordinarily a major leak related to a figure involved in a controversy of Presidential importance would be on every front page …*
      
+  - Mycons makes it easy to create and buy custom icons for your iOS homescreen
+      <hr/>
+      
+      - *A new app called Mycons, launched today, is tapping into the iOS 14 homescreen customization trend by making it easier for anyone, including non-designers, to quickly create their own custom icons, as well as shop premade icon-and-wallpaper packs from designe…*
+      
   - Elon Musk tweets the Model S will be priced at $69,420 because he’s a child
       <hr/>
       
@@ -81,16 +86,11 @@ If we’d asked the customers what they wanted, they would have said “faster h
       <hr/>
       
       - *To shutter employment-based visa programs, even temporarily, is to shut out the innovation and entrepreneurialism our economy desperately needs.*
-      
+       
   - Tesla to begin production on 7-seat Model Y in November, with deliveries in early December
       <hr/>
-      
-      - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
        
-  - Fall sale: Get 10% off an annual Extra Crunch membership
-      <hr/>
-       
-       - *From now until October 25, TechCrunch readers in the U.S. can save 10% on an annual plan for Extra Crunch. If you aren’t familiar, Extra Crunch is our membership program focused on startups, founders and investors with more than 100 exclusive articles publish…*
+       - *Elon Musk has shared some updated info about the timeline for the seven-seat version of the Model Y, Tesla’s more affordable electric SUV. The Model Y began deliveries to customers in March of this year in the U.S., but Musk said in June that he anticipated t…*
       
 
 
