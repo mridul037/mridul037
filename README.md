@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 
-~ Douglas Crockford
+~ John von Neumann
 <pre>
 
 </pre>
