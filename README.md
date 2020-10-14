@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-All too many of our software systems are, architecturally, little more than shantytowns.
+The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
 
-~ Joseph Yoder (computer scientist)
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ All too many of our software systems are, architecturally, little more than shan
 
 </pre>
 **Daily News**
-  - Lab-grown meat project gets first taste of EU public funds
+  - Twentyeight Health is a telemedicine company expanding access to women's health and reproductive care
      <hr/>
      
-      - *A cultured meat research program led by a Spanish biotech firm has been awarded a €2.7M grant under the European Union’s Horizon 2020 R&D funding framework. The consortium project, called ‘Meat4All’, says it’s the first lab-grown meat research effort to get p…*
+      - *New York’s Twentyeight Health is taking the wildly telemedicine services for women’s health popularized by companies like Nurx and bringing them to a patient population that previously hadn’t had access.  The mission to provide women who are Medicaid or under…*
      
-  - Pitching tech to optimize building design for sustainability, Atlanta-based Cove.tool raises $5.7 million
+  - Dataloop raises $11M Series A round for its AI data management platform
       <hr/>
       
-      - *Patrick Chopson and Sandeep Ahuja started cove.tool, an Atlanta-based company developing software to optimize building design for sustainability and cost, because of problems they’d faced in their careers as architects. Along with Patrick’s brother, Daniel Ch…*
+      - *Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million. This includes a $5…*
       
-  - Merging Airbnb and the traditional hotel model, Mexico City's Casai raises $23 million to grow in Latin America
+  - Getaround raises a $140 million Series E amid rebound in short-distance travel
       <hr/>
       
-      - *With travel and tourism rising across Latin America, Casai, a startup combining Airbnb single unit rentals with hotel room amenities, has raised $23 million to expand its business across Latin America. The company, which initially was as hit hard by regional …*
+      - *Amid a rebound in short-distance travel, Getaround, a Silicon Valley car rental startup, has raised some new money to meet demand. The startup, which allows customers to instantly rent cars near them in over 100 cities, announced today that it has raised $140…*
       
-  - Augury taps $55M for tech that predicts machine faults from vibration, sound and temperature
+  - Vivun announces $18M Series A to keep growing pre-sales platform
       <hr/>
       
-      - *On the heels of Amazon about to launch a new enterprise service to detect whether a machine is working well or not based on external physical changes in sound, vibration and temperature, a startup that has already built a big business in the space is announci…*
+      - *Vivun’s co-founder and CEO, Matt Darrow used to run pre-sales at Zuora and he saw that pre-sales team members had a lot of insight into customers. He believed if he could capture that insight, it would turn into valuable data to be shared across the company. …*
        
-  - Lead Edge Capital just closed on $950 million from a whopping 500 investors
+  - Frontegg raises $5M to help SaaS companies build SaaS faster
       <hr/>
        
-       - *Lead Edge Capital, a software-focused venture firm with one office in New York and another in California, was founded just 11 years ago. Yet it’s already managing $3  billion in assets through a process that founder Mitchell Green half-kiddingly refers to as …*
+       - *Frontegg, a Tel Aviv-based startup that helps SaaS companies build their products faster by giving them access to a set of enterprise-ready building blocks for often-used features like authentication and notifications, today announced that it has raised a $5 …*
       
 
 
