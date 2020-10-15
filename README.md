@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 
-~ Richard Stallman
+~ John von Neumann
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I figure that since proprietary software developers use copyright to stop us fro
 
 </pre>
 **Daily News**
-  - Khosla Ventures seeks $1.1 billion for its latest fund
+  - Jared Leto, Scooter Braun and Troy Carter are backing Moment House, a startup recreating live events... digitally
      <hr/>
      
-      - *Khosla Ventures, the eponymous venture firm helmed by longtime Silicon Valley rainmaker, Vinod Khosla, is raising  $1.1 billion for its latest venture fund, according to documents from the Securities and Exchange Commission. The filing was first spotted by Ar…*
+      - *A pitch to offer artists a way to give geo-fenced, live events to fans around the world has brought the new Los Angeles startup Moment House $1.5 million in seed funding. The money came from heavy hitters in the Los Angeles entertainment and investment scene …*
      
+  - Khosla Ventures seeks $1.1 billion for its latest fund
+      <hr/>
+      
+      - *Khosla Ventures, the eponymous venture firm helmed by longtime Silicon Valley rainmaker, Vinod Khosla, is raising  $1.1 billion for its latest venture fund, according to documents from the Securities and Exchange Commission. The filing was first spotted by Ar…*
+      
   - Brighteye Ventures sees $54M first close of its second fund to back edtech startups in Europe
       <hr/>
       
@@ -81,16 +86,11 @@ I figure that since proprietary software developers use copyright to stop us fro
       <hr/>
       
       - *Zoom has a new marketplace and new integrations, Spotify gets a new format and we review Microsoft’s Surface Laptop Go. This is your Daily Crunch for October 14, 2020. The big story: Zoom launches its events marketplace Zoom’s new OnZoom marketplace allows an…*
-      
+       
   - The Wing co-founder admits the coworking space upheld 'the kind of social inequality we set out to upend'
       <hr/>
-      
-      - *Audrey Gelman, the former CEO of The Wing who resigned in June, today posted a letter she sent to former employees of The Wing last week. In it, Gelman apologized for not taking action to combat mistreatment of women of color at The Wing. She also acknowledge…*
        
-  - Google keeps it simple with the Pixel 5
-      <hr/>
-       
-       - *I’m going to be totally honest with you. I don’t really understand Google’s phone strategy right now. And for what it’s worth, I’m not really sure Google does either. I wrote about it here, but I’ll save you from having to read an additional 800 words on top …*
+       - *Audrey Gelman, the former CEO of The Wing who resigned in June, today posted a letter she sent to former employees of The Wing last week. In it, Gelman apologized for not taking action to combat mistreatment of women of color at The Wing. She also acknowledge…*
       
 
 
