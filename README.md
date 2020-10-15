@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Daniel T. Barry
+~ Jim Horning
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The cost to repair an error goes up dramatically as project moves towards comple
 
 </pre>
 **Daily News**
-  - Audio learning startup Knowable switches to a $9.99-per-month subscription model
+  - Duplex, Google's conversational A.I, has updated 3M+ business listings since pandemic
      <hr/>
      
-      - *Knowable, the Andreessen Horowitz-backed startup focused on audio learning, is switching business models. When the company launched last year, it charged users on a per-class basis. Starting today, it’s shifting entirely to a subscription model, where listene…*
+      - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
      
+  - With 'absurd' timing, FCC announces intention to revisit Section 230
+      <hr/>
+      
+      - *FCC Chairman Ajit Pai has announced his intention to pursue a reform of Section 230 of the Communications Act, which among other things limits the liability of internet platforms for content they host. Commissioner Rosenworcel described the timing — immediate…*
+      
+  - Google introduces song matching via humming, whistling or singing
+      <hr/>
+      
+      - *Google has added a new feature that lets you figure out what song is stuck in your head by humming, whistling or singing – a much more useful version of the kind of song-matching audio feature that it and competitors like Apple’s Shazam have offered previousl…*
+      
+  - Audio learning startup Knowable switches to a $9.99-per-month subscription model
+      <hr/>
+      
+      - *Knowable, the Andreessen Horowitz-backed startup focused on audio learning, is switching business models. When the company launched last year, it charged users on a per-class basis. Starting today, it’s shifting entirely to a subscription model, where listene…*
+       
   - Google launches a slew of Search updates
       <hr/>
-      
-      - *Google today announced a number of improvements to its core search engine, with a strong focus on how the company is using AI to help its users. These include the ability to better answer questions with very specific answers, very broad questions and a new al…*
-      
-  - Small business payments and marketing startup Fivestars raises $52.5M
-      <hr/>
-      
-      - *It’s a difficult time for small businesses — to put it mildly. And Fivestars CEO Victor Ho said that many of the big digital platforms aren’t really helping. Ho argued that those platforms — whether they offer delivery services, user reviews or marketing tool…*
-      
-  - When was the last time you worked out your soul?
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back today, with Natasha and Danny and I gathered to parse over what was really a blast of n…*
        
-  - Brighteye Ventures' Alex Latsis talks European edtech funding in 2020
-      <hr/>
-       
-       - *Brighteye Ventures, the European edtech venture capital firm, recently announced the $54 million first close of its second fund, bringing total assets under management above $112 million. Out of the new fund, the 2017-founded VC will invest in 15-20 companies…*
+       - *Google today announced a number of improvements to its core search engine, with a strong focus on how the company is using AI to help its users. These include the ability to better answer questions with very specific answers, very broad questions and a new al…*
       
 
 
