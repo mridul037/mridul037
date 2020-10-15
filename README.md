@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Much of the essence of building a program is in fact the debugging of the specification.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Fred Brooks
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Much of the essence of building a program is in fact the debugging of the specif
 
 </pre>
 **Daily News**
-  - Alibaba-affiliated marketplace to leave Taiwan, again
+  - Uber is hiring hundreds of engineers in India to cut costs
      <hr/>
      
-      - *Separated by a strait, the internet in Taiwan and mainland China are two different worlds. Even mainland tech giants Alibaba and Tencent have had little success entering the island, often running into regulatory hurdles. Less than a year after Taobao launched…*
+      - *Uber said on Thursday it is working to hire 225 engineers in India, strengthening its tech team in the key overseas market months after it eliminated thousands of jobs globally. The ride-hailing firm, which competes with Ola in India, said today it has hired …*
      
+  - Alibaba-affiliated marketplace to leave Taiwan, again
+      <hr/>
+      
+      - *Separated by a strait, the internet in Taiwan and mainland China are two different worlds. Even mainland tech giants Alibaba and Tencent have had little success entering the island, often running into regulatory hurdles. Less than a year after Taobao launched…*
+      
   - Menlo Ventures just closed its fifteenth early-stage fund with $500 million
       <hr/>
       
@@ -81,16 +86,11 @@ Much of the essence of building a program is in fact the debugging of the specif
       <hr/>
       
       - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
-      
+       
   - South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition
       <hr/>
-      
-      - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
        
-  - WarnerMedia to discontinue HBO and WB TV channels in India, and select other South Asia markets
-      <hr/>
-       
-       - *WarnerMedia will discontinue HBO and WB TV channels in India, Pakistan, Maldives, and Bangladesh later this year as the entertainment conglomerate struggles to find a sustainable business model in South Asian despite operating in the region for over a decade.…*
+       - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
       
 
 
