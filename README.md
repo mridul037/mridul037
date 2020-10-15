@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 
-~ Ken Thompson
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Documenting is very, very hard; it’s time-consuming. To do it right, you’ve 
 
 </pre>
 **Daily News**
-  - Brighteye Ventures' Alex Latsis talks European edtech funding in 2020
+  - Audio learning startup Knowable switches to a $9.99-per-month subscription model
      <hr/>
      
-      - *Brighteye Ventures, the European edtech venture capital firm, recently announced the $54 million first close of its second fund, bringing total assets under management above $112 million. Out of the new fund, the 2017-founded VC will invest in 15-20 companies…*
+      - *Knowable, the Andreessen Horowitz-backed startup focused on audio learning, is switching business models. When the company launched last year, it charged users on a per-class basis. Starting today, it’s shifting entirely to a subscription model, where listene…*
      
-  - Proterra, which makes big honkin battery systems and electric buses, raises $200 million
+  - Google launches a slew of Search updates
       <hr/>
       
-      - *Proterra, the battery system technology developer for heavy-duty electric vehicles, said it has raised $200 million in a new round of funding. The new cash comes from Cowen Sustainable Investment Advisors, which led the round, along with money from Soros Fund…*
+      - *Google today announced a number of improvements to its core search engine, with a strong focus on how the company is using AI to help its users. These include the ability to better answer questions with very specific answers, very broad questions and a new al…*
       
-  - Tesla's decision to scrap its PR department could create a PR nightmare
+  - Small business payments and marketing startup Fivestars raises $52.5M
       <hr/>
       
-      - *This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.*
+      - *It’s a difficult time for small businesses — to put it mildly. And Fivestars CEO Victor Ho said that many of the big digital platforms aren’t really helping. Ho argued that those platforms — whether they offer delivery services, user reviews or marketing tool…*
       
-  - Cruise can now test driverless vehicles on the streets of San Francisco
+  - When was the last time you worked out your soul?
       <hr/>
       
-      - *Cruise, the self-driving car subsidiary of GM that also has backing from SoftBank Vision Fund, Honda and T. Rowe Price & Associates, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads in San Fran…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. The whole crew was back today, with Natasha and Danny and I gathered to parse over what was really a blast of n…*
        
-  - Nanoleaf adds large and small triangles to its revamped Shape product line
+  - Brighteye Ventures' Alex Latsis talks European edtech funding in 2020
       <hr/>
        
-       - *Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the company’s original offering, but sports better connectors, a simpler mounting solution, and most importantly, these panels can work with different…*
+       - *Brighteye Ventures, the European edtech venture capital firm, recently announced the $54 million first close of its second fund, bringing total assets under management above $112 million. Out of the new fund, the 2017-founded VC will invest in 15-20 companies…*
       
 
 
