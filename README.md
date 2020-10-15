@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+Much of the essence of building a program is in fact the debugging of the specification.
 
-~ Donald Knuth
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I’ve got this need to program. I wake up in the morning with sentences of a li
 
 </pre>
 **Daily News**
-  - Luxury watch maker Breitling issues digital certificates on the Ethereum blockchain
+  - Alibaba-affiliated marketplace to leave Taiwan, again
      <hr/>
      
-      - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
+      - *Separated by a strait, the internet in Taiwan and mainland China are two different worlds. Even mainland tech giants Alibaba and Tencent have had little success entering the island, often running into regulatory hurdles. Less than a year after Taobao launched…*
      
+  - Menlo Ventures just closed its fifteenth early-stage fund with $500 million
+      <hr/>
+      
+      - *Menlo Ventures, the 44-year-old venture firm with offices in Menlo Park and San Francisco, is taking the wraps of its fifteenth early-stage fund today, a vehicle it closed with $500 million in capital commitments. It’s the same amount that Menlo announced las…*
+      
+  - Luxury watch maker Breitling issues digital certificates on the Ethereum blockchain
+      <hr/>
+      
+      - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
+      
   - South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition
       <hr/>
       
       - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
-      
+       
   - WarnerMedia to discontinue HBO and WB TV channels in India, and select other South Asia markets
       <hr/>
-      
-      - *WarnerMedia will discontinue HBO and WB TV channels in India, Pakistan, Maldives, and Bangladesh later this year as the entertainment conglomerate struggles to find a sustainable business model in South Asian despite operating in the region for over a decade.…*
-      
-  - WizVille Local Monitor helps small shops track Google Maps ratings of competitors
-      <hr/>
-      
-      - *French startup WizVille is launching a new product called Local Monitor to help restaurant owners, haircut places, bakeries and all kinds of small shops track their Google Maps ratings and the ratings of their competitors. While there are plenty of ratings se…*
        
-  - Rosita Longevity wants to teach seniors how to live long, healthy lives
-      <hr/>
-       
-       - *Longevity, as far as startups are concerned, tends to be a moonshot-y space where technologies like biotech and AI are experimentally applied in a sort of modern day alchemical quest — and the great hope is to (somehow) ‘hack’ biology and substantially extend…*
+       - *WarnerMedia will discontinue HBO and WB TV channels in India, Pakistan, Maldives, and Bangladesh later this year as the entertainment conglomerate struggles to find a sustainable business model in South Asian despite operating in the region for over a decade.…*
       
 
 
