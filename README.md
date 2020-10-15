@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Bjarne Stroustrup
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Anybody who comes to you and says he has a perfect language is either naïve or 
 
 </pre>
 **Daily News**
-  - WizVille Local Monitor helps small shops track Google Maps ratings of competitors
+  - South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition
      <hr/>
      
-      - *French startup WizVille is launching a new product called Local Monitor to help restaurant owners, haircut places, bakeries and all kinds of small shops track their Google Maps ratings and the ratings of their competitors. While there are plenty of ratings se…*
+      - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
      
+  - WarnerMedia to discontinue HBO and WB TV channels in India, and select other South Asia markets
+      <hr/>
+      
+      - *WarnerMedia will discontinue HBO and WB TV channels in India, Pakistan, Maldives, and Bangladesh later this year as the entertainment conglomerate struggles to find a sustainable business model in South Asian despite operating in the region for over a decade.…*
+      
+  - WizVille Local Monitor helps small shops track Google Maps ratings of competitors
+      <hr/>
+      
+      - *French startup WizVille is launching a new product called Local Monitor to help restaurant owners, haircut places, bakeries and all kinds of small shops track their Google Maps ratings and the ratings of their competitors. While there are plenty of ratings se…*
+      
   - Rosita Longevity wants to teach seniors how to live long, healthy lives
       <hr/>
       
       - *Longevity, as far as startups are concerned, tends to be a moonshot-y space where technologies like biotech and AI are experimentally applied in a sort of modern day alchemical quest — and the great hope is to (somehow) ‘hack’ biology and substantially extend…*
-      
+       
   - Gogoro's Eeyo 1s e-bike goes on sale in France, its first European market
       <hr/>
-      
-      - *Gogoro announced today that its Eeyo 1s is now available for sale in France, the smart electric bike’s first European market. Another model, the Eeyo 1, will launch over the next few months in France, Belgium, Monaco, Germany, Switzerland, Austria and the Cze…*
-      
-  - Jared Leto, Scooter Braun and Troy Carter are backing Moment House, a startup recreating live events... digitally
-      <hr/>
-      
-      - *A pitch to offer artists a way to give geo-fenced, live events to fans around the world has brought the new Los Angeles startup Moment House $1.5 million in seed funding. The money came from heavy hitters in the Los Angeles entertainment and investment scene …*
        
-  - Khosla Ventures seeks $1.1 billion for its latest fund
-      <hr/>
-       
-       - *Khosla Ventures, the eponymous venture firm helmed by longtime Silicon Valley rainmaker, Vinod Khosla, is raising  $1.1 billion for its latest venture fund, according to documents from the Securities and Exchange Commission. The filing was first spotted by Ar…*
+       - *Gogoro announced today that its Eeyo 1s is now available for sale in France, the smart electric bike’s first European market. Another model, the Eeyo 1, will launch over the next few months in France, Belgium, Monaco, Germany, Switzerland, Austria and the Cze…*
       
 
 
