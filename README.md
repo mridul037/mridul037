@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 
-~ Marijn Haverbeke
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming, it turns out, is hard. The fundamental rules are typically simple a
 
 </pre>
 **Daily News**
-  - Bipedal robot developer Agility announces $20M raise
+  - Brazil's Black Silicon Valley could be an epicenter of innovation in Latin America
      <hr/>
      
-      - *Agility, the Oregon State University spinoff behind Digit and Cassie, announced this morning that it has raised $20 million in funding. The latest round, led by DCVC and Playground Global, brings the startup’s total funding up to $29 million. Other recent inv…*
+      - *There is no doubt that the new wave of innovation will come from the emerging markets, and the African Diaspora can play an important role.*
      
-  - Pew: Most prolific Twitter users tend to be Democrats, but majority of users still rarely tweet
+  - Temporal raises $18.75M for its microservices orchestration platform
       <hr/>
       
-      - *A new study from Pew Research Center, released today, digs into the different ways that U.S. Democrats and Republicans use Twitter. Based on data collected between Nov. 11, 2019 and Sept. 14, 2020, the study finds that members of both parties tweet fairly inf…*
+      - *Temporal, a Seattle-based startup that is building an open-source, stateful microservices orchestration platform, today announced that it has raised an $18.75 million Series A round led by Sequoia Ventures. Existing investors Addition Ventures and Amplify Par…*
       
-  - Alpaca raises $10M Series A for its API-powered equities trading service
+  - Whisper announces $35M Series B to change hearing aids with AI and subscription model
       <hr/>
       
-      - *This morning Alpaca, a startup that helps other companies add commission-free equities trading to their own products, announced a $10 million Series A. The new capital event was led by Portag3, and included prior investors Social Leverage, Spark Capital, Fath…*
+      - *A few years ago, Whisper president and co-founder Andrew Song was talking to his grandfather about his hearing aids. Even though he spent thousands of dollars on a medical device designed to improve his hearing, and in the process his quality of life, he wasn…*
       
-  - AirBuddy’s AirPod integration for the Mac gets updated with more iOS-style features
+  - Stellar blockchain will soon support USDC stablecoin
       <hr/>
       
-      - *The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were brought near — bringing simple ecosystem integration to the deskt…*
+      - *USDC, the stablecoin co-founded by Circle and Coinbase, first started as an Ethereum-based token. After adding support for the Algorand blockchain, Centre, the consortium that manages USDC, is announcing that Stellar will be the third blockchain that supports…*
        
-  - News that Calm seeks more funding at a higher valuation is not transcendental thinking
+  - Nvidia will power world's fastest AI supercomputer, to be located in Europe
       <hr/>
        
-       - *Earlier this week, Bloomberg reported that meditation app Calm is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should not surprise. Calm has raised capital at high prices before, i…*
+       - *Nvidia is is going to be powering the world’s fastest AI supercomputer, a new system dubbed ‘Leonardo’ that’s being built by the Italian multi-university consortium CINECA, a global supercomutin leader. The Leonardo system will offer as much as 10 exaflops of…*
       
 
 
