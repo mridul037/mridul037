@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+Once you stop learning you start dying.
 
-~ Fred Brooks
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The first false assumption that underlies the scheduling of systems programming 
 
 </pre>
 **Daily News**
-  - Brazil's Black Silicon Valley could be an epicenter of innovation in Latin America
+  - Tesla's decision to scrap its PR department could create a PR nightmare
      <hr/>
      
-      - *There is no doubt that the new wave of innovation will come from the emerging markets, and the African Diaspora can play an important role.*
+      - *This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.*
      
-  - Temporal raises $18.75M for its microservices orchestration platform
+  - Cruise can now test driverless vehicles on the streets of San Francisco
       <hr/>
       
-      - *Temporal, a Seattle-based startup that is building an open-source, stateful microservices orchestration platform, today announced that it has raised an $18.75 million Series A round led by Sequoia Ventures. Existing investors Addition Ventures and Amplify Par…*
+      - *Cruise, the self-driving car subsidiary of GM that also has backing from SoftBank Vision Fund, Honda and T. Rowe Price & Associates, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads in San Fran…*
       
-  - Whisper announces $35M Series B to change hearing aids with AI and subscription model
+  - Nanoleaf adds large and small triangles to its revamped Shape product line
       <hr/>
       
-      - *A few years ago, Whisper president and co-founder Andrew Song was talking to his grandfather about his hearing aids. Even though he spent thousands of dollars on a medical device designed to improve his hearing, and in the process his quality of life, he wasn…*
+      - *Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the company’s original offering, but sports better connectors, a simpler mounting solution, and most importantly, these panels can work with different…*
       
-  - Stellar blockchain will soon support USDC stablecoin
+  - Google will let everyone migrate from Hangouts to Chat for free in 2021
       <hr/>
       
-      - *USDC, the stablecoin co-founded by Circle and Coinbase, first started as an Ethereum-based token. After adding support for the Algorand blockchain, Centre, the consortium that manages USDC, is announcing that Stellar will be the third blockchain that supports…*
+      - *Google’s strategy around its messaging apps is nothing if not messy right now (hello Hangouts, Meet, Chat, Duo and Co.), but it looks like things will get a bit easier come next year. We already knew that Hangouts’ time was coming to an end and as Google anno…*
        
-  - Nvidia will power world's fastest AI supercomputer, to be located in Europe
+  - New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes
       <hr/>
        
-       - *Nvidia is is going to be powering the world’s fastest AI supercomputer, a new system dubbed ‘Leonardo’ that’s being built by the Italian multi-university consortium CINECA, a global supercomutin leader. The Leonardo system will offer as much as 10 exaflops of…*
+       - *Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients, using a machine learning-based approach that cou…*
       
 
 
