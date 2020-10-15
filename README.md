@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 
-~ Alan Perlis
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ For all its power, the computer is a harsh taskmaster. Its programs must be corr
 
 </pre>
 **Daily News**
-  - Spain's Savana Medica raises $15 million to bring its AI toolkit turning clinical notes into care insights to the US
+  - AirBuddy’s AirPod integration for the Mac gets updated with more iOS-style features
      <hr/>
      
-      - *Savana, a machine learning-based service that turns clinical notes into structured patient information for physicians and pharmacists, has raised $15 million to take its technology from Spain to the U.S., the company said. The investment was led by Cathay Inn…*
+      - *The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were brought near — bringing simple ecosystem integration to the deskt…*
      
-  - France and the Netherlands signal support for EU body to clip the wings of big tech
+  - News that Calm seeks more funding at a higher valuation is not transcendental thinking
       <hr/>
       
-      - *The French and Dutch governments have signalled support for EU rules that can proactively intervene against so-called gatekeepers, aka “structuring platforms” or “large digital platforms with significant network effects acting as gatekeepers” — or, more collo…*
+      - *Earlier this week, Bloomberg reported that meditation app Calm is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should not surprise. Calm has raised capital at high prices before, i…*
       
-  - Popmenu earns raves from investors for its marketing and delivery software for restaurants
+  - Koyeb raises $1.6 million for its serverless data-processing engine
       <hr/>
       
-      - *Brendan Sweeney didn’t know anything about the restaurant business before he and his co-founders launched the Atlanta-based startup Popmenu. What Sweeney did know was that it was nuts that while every other business was using incredible graphics, curated text…*
+      - *French startup Koyeb has raised a $1.6 million (€1.4 million) pre-seed round. The company focuses on data-processing workflows across multiple cloud providers. It hides many complexities using a serverless model. Jean-David Chamboredon and Juliette Mopin from…*
       
-  - Mario Kart Live: Home Circuit Review
+  - Extend banks $40M to bring a new approach to the old game of extended warranties
       <hr/>
       
-      - *Nintendo’s new RC Mario Kart looks terrific*
+      - *Extended warranties — those offers to add an extra year or two to an existing product warranty to give you a little more peace of mind in case something goes wrong with something you’ve purchased — have long been a part of the sales process when you’re buying…*
        
-  - Stripe acquires Nigeria's Paystack for $200M+ to expand into the African continent
+  - Snapchat launches its TikTok rival, Sounds on Snapchat
       <hr/>
        
-       - *When Stripe announced earlier this year that it had picked up another $600 million in funding, it said one big reason for the funding was to expand its API-based payments services into more geographies. Today the company is coming good on that plan in the for…*
+       - *Snapchat this summer announced it would soon release a new music-powered feature that would allow users to set their Snaps to music. Today, the company made good on that promise with the launch of “Sounds on Snapchat” on iOS, a feature that lets users enhance…*
       
 
 
