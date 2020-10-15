@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Making things easy is hard.
+Programs must be written for people to read, and only incidentally for machines to execute.
 
-~ Ted Nelson
+~ Hal Abelson
 <pre>
 
 </pre>
