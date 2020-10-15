@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once you stop learning you start dying.
+Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 
-~ Albert Einstein
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Once you stop learning you start dying.
 
 </pre>
 **Daily News**
-  - Tesla's decision to scrap its PR department could create a PR nightmare
+  - Brighteye Ventures' Alex Latsis talks European edtech funding in 2020
      <hr/>
      
-      - *This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.*
+      - *Brighteye Ventures, the European edtech venture capital firm, recently announced the $54 million first close of its second fund, bringing total assets under management above $112 million. Out of the new fund, the 2017-founded VC will invest in 15-20 companies…*
      
+  - Proterra, which makes big honkin battery systems and electric buses, raises $200 million
+      <hr/>
+      
+      - *Proterra, the battery system technology developer for heavy-duty electric vehicles, said it has raised $200 million in a new round of funding. The new cash comes from Cowen Sustainable Investment Advisors, which led the round, along with money from Soros Fund…*
+      
+  - Tesla's decision to scrap its PR department could create a PR nightmare
+      <hr/>
+      
+      - *This decision will affect the engineers and developers, marketing teams and all employees who put their all into the technology and company image, only to have it eventually misrepresented in the media.*
+      
   - Cruise can now test driverless vehicles on the streets of San Francisco
       <hr/>
       
       - *Cruise, the self-driving car subsidiary of GM that also has backing from SoftBank Vision Fund, Honda and T. Rowe Price & Associates, has been issued a permit from California regulators that will allow it to test driverless vehicles on public roads in San Fran…*
-      
+       
   - Nanoleaf adds large and small triangles to its revamped Shape product line
       <hr/>
-      
-      - *Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the company’s original offering, but sports better connectors, a simpler mounting solution, and most importantly, these panels can work with different…*
-      
-  - Google will let everyone migrate from Hangouts to Chat for free in 2021
-      <hr/>
-      
-      - *Google’s strategy around its messaging apps is nothing if not messy right now (hello Hangouts, Meet, Chat, Duo and Co.), but it looks like things will get a bit easier come next year. We already knew that Hangouts’ time was coming to an end and as Google anno…*
        
-  - New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes
-      <hr/>
-       
-       - *Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients, using a machine learning-based approach that cou…*
+       - *Nanoleaf launched the next generation of its light panels in July. Called Shape, this new product looks like the company’s original offering, but sports better connectors, a simpler mounting solution, and most importantly, these panels can work with different…*
       
 
 
