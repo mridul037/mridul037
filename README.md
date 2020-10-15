@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 
-~ Richard Stallman
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I consider that the golden rule requires that if I like a program I must share i
 
 </pre>
 **Daily News**
-  - AirBuddy’s AirPod integration for the Mac gets updated with more iOS-style features
+  - Bipedal robot developer Agility announces $20M raise
      <hr/>
      
-      - *The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were brought near — bringing simple ecosystem integration to the deskt…*
+      - *Agility, the Oregon State University spinoff behind Digit and Cassie, announced this morning that it has raised $20 million in funding. The latest round, led by DCVC and Playground Global, brings the startup’s total funding up to $29 million. Other recent inv…*
      
+  - Pew: Most prolific Twitter users tend to be Democrats, but majority of users still rarely tweet
+      <hr/>
+      
+      - *A new study from Pew Research Center, released today, digs into the different ways that U.S. Democrats and Republicans use Twitter. Based on data collected between Nov. 11, 2019 and Sept. 14, 2020, the study finds that members of both parties tweet fairly inf…*
+      
+  - Alpaca raises $10M Series A for its API-powered equities trading service
+      <hr/>
+      
+      - *This morning Alpaca, a startup that helps other companies add commission-free equities trading to their own products, announced a $10 million Series A. The new capital event was led by Portag3, and included prior investors Social Leverage, Spark Capital, Fath…*
+      
+  - AirBuddy’s AirPod integration for the Mac gets updated with more iOS-style features
+      <hr/>
+      
+      - *The AirBuddy app is celebrating another successful Apple week by opening up preorders on v2.0. The original, which arrived in early 2019, brought a pop-up to the Mac when a pair of AirPods were brought near — bringing simple ecosystem integration to the deskt…*
+       
   - News that Calm seeks more funding at a higher valuation is not transcendental thinking
       <hr/>
-      
-      - *Earlier this week, Bloomberg reported that meditation app Calm is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should not surprise. Calm has raised capital at high prices before, i…*
-      
-  - Koyeb raises $1.6 million for its serverless data-processing engine
-      <hr/>
-      
-      - *French startup Koyeb has raised a $1.6 million (€1.4 million) pre-seed round. The company focuses on data-processing workflows across multiple cloud providers. It hides many complexities using a serverless model. Jean-David Chamboredon and Juliette Mopin from…*
-      
-  - Extend banks $40M to bring a new approach to the old game of extended warranties
-      <hr/>
-      
-      - *Extended warranties — those offers to add an extra year or two to an existing product warranty to give you a little more peace of mind in case something goes wrong with something you’ve purchased — have long been a part of the sales process when you’re buying…*
        
-  - Snapchat launches its TikTok rival, Sounds on Snapchat
-      <hr/>
-       
-       - *Snapchat this summer announced it would soon release a new music-powered feature that would allow users to set their Snaps to music. Today, the company made good on that promise with the launch of “Sounds on Snapchat” on iOS, a feature that lets users enhance…*
+       - *Earlier this week, Bloomberg reported that meditation app Calm is looking into raising $150 million more at a valuation of around $2.2 billion, more than double its last private price. This should not surprise. Calm has raised capital at high prices before, i…*
       
 
 
