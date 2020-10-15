@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ Fred Brooks
+~ Brian Kernighan
 <pre>
 
 </pre>
