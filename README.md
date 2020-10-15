@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
 
-~ Brian Kernighan
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The most effective debugging tool is still careful thought, coupled with judicio
 
 </pre>
 **Daily News**
-  - Uber is hiring hundreds of engineers in India to cut costs
+  - Stripe acquires Nigeria's Paystack for $200M+ to expand into the African continent
      <hr/>
      
-      - *Uber said on Thursday it is working to hire 225 engineers in India, strengthening its tech team in the key overseas market months after it eliminated thousands of jobs globally. The ride-hailing firm, which competes with Ola in India, said today it has hired …*
+      - *When Stripe announced earlier this year that it had picked up another $600 million in funding, it said one big reason for the funding was to expand its API-based payments services into more geographies. Today the company is coming good on that plan in the for…*
      
+  - Uber is hiring hundreds of engineers in India to cut costs
+      <hr/>
+      
+      - *Uber said on Thursday it is working to hire 225 engineers in India, strengthening its tech team in the key overseas market months after it eliminated thousands of jobs globally. The ride-hailing firm, which competes with Ola in India, said today it has hired …*
+      
   - Alibaba-affiliated marketplace to leave Taiwan, again
       <hr/>
       
@@ -81,16 +86,11 @@ The most effective debugging tool is still careful thought, coupled with judicio
       <hr/>
       
       - *Menlo Ventures, the 44-year-old venture firm with offices in Menlo Park and San Francisco, is taking the wraps of its fifteenth early-stage fund today, a vehicle it closed with $500 million in capital commitments. It’s the same amount that Menlo announced las…*
-      
+       
   - Luxury watch maker Breitling issues digital certificates on the Ethereum blockchain
       <hr/>
-      
-      - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
        
-  - South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition
-      <hr/>
-       
-       - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
+       - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
       
 
 
