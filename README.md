@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 
 ~ Donald Knuth
 <pre>
@@ -67,11 +67,16 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 
 </pre>
 **Daily News**
-  - South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition
+  - Luxury watch maker Breitling issues digital certificates on the Ethereum blockchain
      <hr/>
      
-      - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
+      - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
      
+  - South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition
+      <hr/>
+      
+      - *Sit quietly for a moment and pay attention to the different sounds around you. You might hear appliances beeping, cars honking, a dog barking, someone sneezing. These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS pl…*
+      
   - WarnerMedia to discontinue HBO and WB TV channels in India, and select other South Asia markets
       <hr/>
       
@@ -81,16 +86,11 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
       <hr/>
       
       - *French startup WizVille is launching a new product called Local Monitor to help restaurant owners, haircut places, bakeries and all kinds of small shops track their Google Maps ratings and the ratings of their competitors. While there are plenty of ratings se…*
-      
+       
   - Rosita Longevity wants to teach seniors how to live long, healthy lives
       <hr/>
-      
-      - *Longevity, as far as startups are concerned, tends to be a moonshot-y space where technologies like biotech and AI are experimentally applied in a sort of modern day alchemical quest — and the great hope is to (somehow) ‘hack’ biology and substantially extend…*
        
-  - Gogoro's Eeyo 1s e-bike goes on sale in France, its first European market
-      <hr/>
-       
-       - *Gogoro announced today that its Eeyo 1s is now available for sale in France, the smart electric bike’s first European market. Another model, the Eeyo 1, will launch over the next few months in France, Belgium, Monaco, Germany, Switzerland, Austria and the Cze…*
+       - *Longevity, as far as startups are concerned, tends to be a moonshot-y space where technologies like biotech and AI are experimentally applied in a sort of modern day alchemical quest — and the great hope is to (somehow) ‘hack’ biology and substantially extend…*
       
 
 
