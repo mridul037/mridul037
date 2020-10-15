@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 
-~ Fred Brooks
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The management question, therefore, is not whether to build a pilot system and t
 
 </pre>
 **Daily News**
-  - Stripe acquires Nigeria's Paystack for $200M+ to expand into the African continent
+  - Spain's Savana Medica raises $15 million to bring its AI toolkit turning clinical notes into care insights to the US
      <hr/>
      
-      - *When Stripe announced earlier this year that it had picked up another $600 million in funding, it said one big reason for the funding was to expand its API-based payments services into more geographies. Today the company is coming good on that plan in the for…*
+      - *Savana, a machine learning-based service that turns clinical notes into structured patient information for physicians and pharmacists, has raised $15 million to take its technology from Spain to the U.S., the company said. The investment was led by Cathay Inn…*
      
-  - Uber is hiring hundreds of engineers in India to cut costs
+  - France and the Netherlands signal support for EU body to clip the wings of big tech
       <hr/>
       
-      - *Uber said on Thursday it is working to hire 225 engineers in India, strengthening its tech team in the key overseas market months after it eliminated thousands of jobs globally. The ride-hailing firm, which competes with Ola in India, said today it has hired …*
+      - *The French and Dutch governments have signalled support for EU rules that can proactively intervene against so-called gatekeepers, aka “structuring platforms” or “large digital platforms with significant network effects acting as gatekeepers” — or, more collo…*
       
-  - Alibaba-affiliated marketplace to leave Taiwan, again
+  - Popmenu earns raves from investors for its marketing and delivery software for restaurants
       <hr/>
       
-      - *Separated by a strait, the internet in Taiwan and mainland China are two different worlds. Even mainland tech giants Alibaba and Tencent have had little success entering the island, often running into regulatory hurdles. Less than a year after Taobao launched…*
+      - *Brendan Sweeney didn’t know anything about the restaurant business before he and his co-founders launched the Atlanta-based startup Popmenu. What Sweeney did know was that it was nuts that while every other business was using incredible graphics, curated text…*
       
-  - Menlo Ventures just closed its fifteenth early-stage fund with $500 million
+  - Mario Kart Live: Home Circuit Review
       <hr/>
       
-      - *Menlo Ventures, the 44-year-old venture firm with offices in Menlo Park and San Francisco, is taking the wraps of its fifteenth early-stage fund today, a vehicle it closed with $500 million in capital commitments. It’s the same amount that Menlo announced las…*
+      - *Nintendo’s new RC Mario Kart looks terrific*
        
-  - Luxury watch maker Breitling issues digital certificates on the Ethereum blockchain
+  - Stripe acquires Nigeria's Paystack for $200M+ to expand into the African continent
       <hr/>
        
-       - *Breitling is partnering with Arianee to issue a new kind of certificates of authenticity for its luxury watches. Instead of relying on physical certificates, the watchmaker gives you a unique digital passport that certifies the origin of the watch. Behind the…*
+       - *When Stripe announced earlier this year that it had picked up another $600 million in funding, it said one big reason for the funding was to expand its API-based payments services into more geographies. Today the company is coming good on that plan in the for…*
       
 
 
