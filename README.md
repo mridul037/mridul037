@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 
-~ Rob Pike
+~ Laurence J. Peter
 <pre>
 
 </pre>
