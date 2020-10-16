@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+JavaScript, purely by accident, has become the most popular programming language in the world.
 
-~ Donald Knuth
+~ Douglas Crockford
 <pre>
 
 </pre>
