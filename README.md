@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ John Warnock
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ As with most projects, the last two percent takes fifty percent of the time.
 
 </pre>
 **Daily News**
-  - OnePlus co-founder Carl Pei confirms he has left the company
+  - EU's Google-Fitbit antitrust decision deadline pushed into 2021
      <hr/>
      
-      - *OnePlus co-founder Carl Pei has left the company, he confirmed on Friday. Pei, 31, said he plans to take some time off before pursuing his next step. “After nearly 7 years at OnePlus, I’ve made the difficult decision to say goodbye,” wrote Pei in a post on On…*
+      - *The deadline for Europe to make a call on the Google -Fitbit merger has been pushed out again — with EU regulators now having until January 8, 2021, to take a decision. The latest change to the provisional deadline, spotted earlier by Reuters, could be the re…*
      
-  - How COVID-19 and the resulting recession are impacting female founders
+  - Datto sets initial IPO price range, indicating a valuation of around $4B
       <hr/>
       
-      - *Last week The Exchange dug into recent data concerning the amount of venture capital raised by female founders. As a refresher, the numbers were not good. In Q3 2020, PitchBook data reported that US-based female founders raised $434 million across 136 rounds.…*
+      - *It was just a few weeks ago that Datto, what TechCrunch called a “backup and disaster recovery firm,” filed to go public. This week the firm set an initial range for its debut. The Vista Equity Partners -backed company was picked up by the private equity firm…*
       
-  - Marshall Major IV wireless headphones offer great sound, plus 80+ hours of battery life and wireless charging
+  - Crypto-driven marketplace Zora raises $2M to build a sustainable creator economy
       <hr/>
       
-      - *Marshall’s new Major IV headphones ($149.99) combine lightweight comfort with wireless charging, and up to 80 hours of playback for an iconic headset that’s affordable and flexible. At home or on the go, these are a great option with unique features that you …*
+      - *Dee Goens and Jacob Horne have both the exact and precisely opposite background that you’d expect to see from two people building a way for creators to build a sustainable economy for their followers to participate in. Coinbase, crypto hack projects at univer…*
       
-  - IAB Europe's ad tracking consent framework found to fail GDPR standard
+  - The need for true equity in equity compensation
       <hr/>
       
-      - *A flagship framework for gathering Internet users’ consent for targeting with behavioral ads — which is designed by ad industry body, the IAB Europe — fails to meet the required legal standards of data protection, according to findings by its EU data supervis…*
+      - *I believe creating a broader picture of compensation is essential for startups, global conglomerates and every company in between.*
        
-  - Future raises $24M Series B for its $150/mo workout coaching app amid at-home fitness boom
+  - FloorFound is bringing online return and resale to direct to consumer furniture businesses
       <hr/>
        
-       - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
+       - *Over the next five years consumers will return an estimated 40 million to 50 million pieces of furniture that more than likely will end up in landfills, creating tons of unnecessary waste, according to Chris Richter, the founder of a new Austin-based furnitur…*
       
 
 
