@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+The next best thing to having good ideas is recognizing good ideas from your users.
 
-~ Ada Lovelace
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The Analytical Engine does not occupy common ground with mere 'calculating machi
 
 </pre>
 **Daily News**
-  - Atlanta'-based Speedscale now has $2.2 million more to grow its API test automation business
+  - IAB Europe's ad tracking consent framework found to fail GDPR standard
      <hr/>
      
-      - *It only took a few weeks after its Y Combinator demo day debut for the Atlanta-based API test automation company Speedscale to raise its first $2.2 million. Founded by longtime developers and Georgia Institute of Technology alumni, Ken Ahrens, Matthew LeRay a…*
+      - *A flagship framework for gathering Internet users’ consent for targeting with behavioral ads — which is designed by ad industry body, the IAB Europe — fails to meet the required legal standards of data protection, according to findings by its EU data supervis…*
      
+  - Future raises $24M Series B for its $150/mo workout coaching app amid at-home fitness boom
+      <hr/>
+      
+      - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
+      
+  - Shure's Aonic 50 wireless noise cancelling headphones offer best-in-class audio quality
+      <hr/>
+      
+      - *The noise-cancelling over-ear headphone category is an increasingly competitive one, and consumers have never been more spoiled for choice. Shure entered the market this year with the Aonic 50, a premium-priced headset ($399) that offers active noise cancelli…*
+      
+  - Atlanta'-based Speedscale now has $2.2 million more to grow its API test automation business
+      <hr/>
+      
+      - *It only took a few weeks after its Y Combinator demo day debut for the Atlanta-based API test automation company Speedscale to raise its first $2.2 million. Founded by longtime developers and Georgia Institute of Technology alumni, Ken Ahrens, Matthew LeRay a…*
+       
   - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
       <hr/>
-      
-      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
-      
-  - Twitter changes its hacked materials policy in wake of New York Post controversy
-      <hr/>
-      
-      - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
-      
-  - Miniso, the Japanese-looking variety store from China, sees shares jump in US IPO
-      <hr/>
-      
-      - *Investors are jumping aboard a value store chain that is bringing Japanese-inspired lifestyle goods to consumers around the world. The company, Miniso, raised $608 million from an initial public offering in New York on Thursday. It debuted at $24.40, above it…*
        
-  - Sony’s $5,000 3D display (probably) isn’t for you
-      <hr/>
-       
-       - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
+       - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
       
 
 
