@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Bjarne Stroustrup
+~ Doug Linder
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ There are only two kinds of languages: the ones people complain about and the on
 
 </pre>
 **Daily News**
-  - Sony’s $5,000 3D display (probably) isn’t for you
+  - Miniso, the Japanese-looking variety store from China, sees shares jump in US IPO
      <hr/>
      
-      - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
+      - *Investors are jumping aboard a value store chain that is bringing Japanese-inspired lifestyle goods to consumers around the world. The company, Miniso, raised $608 million from an initial public offering in New York on Thursday. It debuted at $24.40, above it…*
      
+  - Sony’s $5,000 3D display (probably) isn’t for you
+      <hr/>
+      
+      - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
+      
   - FAA streamlines commercial launch rules to keep the rockets flying
       <hr/>
       
@@ -81,16 +86,11 @@ There are only two kinds of languages: the ones people complain about and the on
       <hr/>
       
       - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
-      
+       
   - B&O’s BeoPlay H4 headphones offer great looks and comfort, but no noise canceling
       <hr/>
-      
-      - *It’s easy to be smitten with the H4 at first sight. They’re a great-looking pair of headphones — one of the best I’ve seen. They sport a simple, streamlined design that feels both like an homage to older models, but modern enough to avoid the nostalgia trap. …*
        
-  - Daily Crunch: Stripe acquires Nigeria's Paystack
-      <hr/>
-       
-       - *Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria’s Paystack Stripe has made its biggest acquisition to date. It an…*
+       - *It’s easy to be smitten with the H4 at first sight. They’re a great-looking pair of headphones — one of the best I’ve seen. They sport a simple, streamlined design that feels both like an homage to older models, but modern enough to avoid the nostalgia trap. …*
       
 
 
