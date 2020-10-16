@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+I have no special talent. I am only passionately curious.
 
-~ Philip Greenspun
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ SQL, Lisp, and Haskell are the only programming languages that I've seen where o
 
 </pre>
 **Daily News**
-  - Twitter is now allowing users to share that controversial New York Post story
+  - Google Assistant, Maps, and Search can now help you figure out where to vote
      <hr/>
      
-      - *Twitter has taken another step back from its initial decision to block users from sharing links to or images of a New York Post story reporting on emails and other data supposedly originating on a laptop belonging to Democratic presidential nominee Joe Biden’…*
+      - *Election Day approaches! Still not sure where the nearest polling place or ballot drop box is? Google wants to help. This morning the company rolled out a handful of features across Google Assistant, Google Maps, and Google Search, all meant to kick in when a…*
      
+  - Daily Crunch: Twitter walks back New York Post decision
+      <hr/>
+      
+      - *A New York Post story forces social platforms to make (and in Twitter’s case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is your Daily Crunch for October 16, 2020. The big story: Twitte…*
+      
+  - Twitter is now allowing users to share that controversial New York Post story
+      <hr/>
+      
+      - *Twitter has taken another step back from its initial decision to block users from sharing links to or images of a New York Post story reporting on emails and other data supposedly originating on a laptop belonging to Democratic presidential nominee Joe Biden’…*
+      
   - Lawmatics raises $2.5M to help lawyers market themselves
       <hr/>
       
       - *Lawmatics, a San Diego startup that’s building marketing and CRM software for lawyers, is announcing that it has raised $2.5 million in seed funding. CEO Matt Siegel used to practice law himself, and he told me that even though tech companies have a wide rang…*
-      
+       
   - Human Capital: Prop 22 puts the 'future of labor' at stake
       <hr/>
-      
-      - *Welcome back to Human Capital, where we look at the latest in tech labor and diversity and inclusion. Because election day is quickly approaching and given that California’s Prop 22 puts the “future of labor” at stake, as Instacart worker and co-organizer at …*
-      
-  - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
-      <hr/>
-      
-      - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
        
-  - Private equity firms can offer enterprise startups a viable exit option
-      <hr/>
-       
-       - *Four years ago, Ping Identity was at a crossroads. A venerable player in the single sign-on market, its product was not a market leader, and after 14 years and $128 million in venture capital, it needed to find a new path. While the company had once discussed…*
+       - *Welcome back to Human Capital, where we look at the latest in tech labor and diversity and inclusion. Because election day is quickly approaching and given that California’s Prop 22 puts the “future of labor” at stake, as Instacart worker and co-organizer at …*
       
 
 
