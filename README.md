@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 
-~ Alan Turing
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
