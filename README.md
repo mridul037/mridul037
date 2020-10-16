@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 
-~ Maurice Wilkes
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 
 </pre>
 **Daily News**
-  - EU's Google-Fitbit antitrust decision deadline pushed into 2021
+  - We need universal digital ad transparency now
      <hr/>
      
-      - *The deadline for Europe to make a call on the Google -Fitbit merger has been pushed out again — with EU regulators now having until January 8, 2021, to take a decision. The latest change to the provisional deadline, spotted earlier by Reuters, could be the re…*
+      - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
      
+  - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
+      <hr/>
+      
+      - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
+      
+  - EU's Google-Fitbit antitrust decision deadline pushed into 2021
+      <hr/>
+      
+      - *The deadline for Europe to make a call on the Google -Fitbit merger has been pushed out again — with EU regulators now having until January 8, 2021, to take a decision. The latest change to the provisional deadline, spotted earlier by Reuters, could be the re…*
+      
   - Datto sets initial IPO price range, indicating a valuation of around $4B
       <hr/>
       
       - *It was just a few weeks ago that Datto, what TechCrunch called a “backup and disaster recovery firm,” filed to go public. This week the firm set an initial range for its debut. The Vista Equity Partners -backed company was picked up by the private equity firm…*
-      
+       
   - Crypto-driven marketplace Zora raises $2M to build a sustainable creator economy
       <hr/>
-      
-      - *Dee Goens and Jacob Horne have both the exact and precisely opposite background that you’d expect to see from two people building a way for creators to build a sustainable economy for their followers to participate in. Coinbase, crypto hack projects at univer…*
-      
-  - The need for true equity in equity compensation
-      <hr/>
-      
-      - *I believe creating a broader picture of compensation is essential for startups, global conglomerates and every company in between.*
        
-  - FloorFound is bringing online return and resale to direct to consumer furniture businesses
-      <hr/>
-       
-       - *Over the next five years consumers will return an estimated 40 million to 50 million pieces of furniture that more than likely will end up in landfills, creating tons of unnecessary waste, according to Chris Richter, the founder of a new Austin-based furnitur…*
+       - *Dee Goens and Jacob Horne have both the exact and precisely opposite background that you’d expect to see from two people building a way for creators to build a sustainable economy for their followers to participate in. Coinbase, crypto hack projects at univer…*
       
 
 
