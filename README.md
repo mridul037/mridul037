@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
-~ Daniel T. Barry
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A team of highly competent programmers who are also highly territorial, egotisti
 
 </pre>
 **Daily News**
-  - Analogue takes on the TurboGrafx-16 with its Duo retro console
+  - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
      <hr/>
      
-      - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
+      - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
      
+  - Private equity firms can offer enterprise startups a viable exit option
+      <hr/>
+      
+      - *Four years ago, Ping Identity was at a crossroads. A venerable player in the single sign-on market, its product was not a market leader, and after 14 years and $128 million in venture capital, it needed to find a new path. While the company had once discussed…*
+      
+  - Analogue takes on the TurboGrafx-16 with its Duo retro console
+      <hr/>
+      
+      - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
+      
   - We need universal digital ad transparency now
       <hr/>
       
       - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
-      
+       
   - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
       <hr/>
-      
-      - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
-      
-  - EU's Google-Fitbit antitrust decision deadline pushed into 2021
-      <hr/>
-      
-      - *The deadline for Europe to make a call on the Google -Fitbit merger has been pushed out again — with EU regulators now having until January 8, 2021, to take a decision. The latest change to the provisional deadline, spotted earlier by Reuters, could be the re…*
        
-  - Datto sets initial IPO price range, indicating a valuation of around $4B
-      <hr/>
-       
-       - *It was just a few weeks ago that Datto, what TechCrunch called a “backup and disaster recovery firm,” filed to go public. This week the firm set an initial range for its debut. The Vista Equity Partners -backed company was picked up by the private equity firm…*
+       - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
       
 
 
