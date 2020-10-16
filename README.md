@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 
-~ Anonymous
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A few months writing code can save you a few hours in design.
 
 </pre>
 **Daily News**
-  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
+  - Atlanta'-based Speedscale now has $2.2 million more to grow its API test automation business
      <hr/>
      
-      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
+      - *It only took a few weeks after its Y Combinator demo day debut for the Atlanta-based API test automation company Speedscale to raise its first $2.2 million. Founded by longtime developers and Georgia Institute of Technology alumni, Ken Ahrens, Matthew LeRay a…*
      
+  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
+      <hr/>
+      
+      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
+      
   - Twitter changes its hacked materials policy in wake of New York Post controversy
       <hr/>
       
@@ -81,16 +86,11 @@ A few months writing code can save you a few hours in design.
       <hr/>
       
       - *Investors are jumping aboard a value store chain that is bringing Japanese-inspired lifestyle goods to consumers around the world. The company, Miniso, raised $608 million from an initial public offering in New York on Thursday. It debuted at $24.40, above it…*
-      
+       
   - Sony’s $5,000 3D display (probably) isn’t for you
       <hr/>
-      
-      - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
        
-  - FAA streamlines commercial launch rules to keep the rockets flying
-      <hr/>
-       
-       - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
+       - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
       
 
 
