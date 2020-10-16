@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A good programmer is someone who looks both ways before crossing a one-way street.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Doug Linder
+~ Ryan Singer
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A good programmer is someone who looks both ways before crossing a one-way stree
 
 </pre>
 **Daily News**
-  - Miniso, the Japanese-looking variety store from China, sees shares jump in US IPO
+  - Twitter changes its hacked materials policy in wake of New York Post controversy
      <hr/>
      
-      - *Investors are jumping aboard a value store chain that is bringing Japanese-inspired lifestyle goods to consumers around the world. The company, Miniso, raised $608 million from an initial public offering in New York on Thursday. It debuted at $24.40, above it…*
+      - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
      
+  - Miniso, the Japanese-looking variety store from China, sees shares jump in US IPO
+      <hr/>
+      
+      - *Investors are jumping aboard a value store chain that is bringing Japanese-inspired lifestyle goods to consumers around the world. The company, Miniso, raised $608 million from an initial public offering in New York on Thursday. It debuted at $24.40, above it…*
+      
   - Sony’s $5,000 3D display (probably) isn’t for you
       <hr/>
       
@@ -81,16 +86,11 @@ A good programmer is someone who looks both ways before crossing a one-way stree
       <hr/>
       
       - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
-      
+       
   - Twitter is investigating widespread outage reports
       <hr/>
-      
-      - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
        
-  - B&O’s BeoPlay H4 headphones offer great looks and comfort, but no noise canceling
-      <hr/>
-       
-       - *It’s easy to be smitten with the H4 at first sight. They’re a great-looking pair of headphones — one of the best I’ve seen. They sport a simple, streamlined design that feels both like an homage to older models, but modern enough to avoid the nostalgia trap. …*
+       - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
       
 
 
