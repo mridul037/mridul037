@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+The cheapest, fastest, and most reliable components are those that aren’t there.
 
-~ Ryan Singer
+~ Gordon Bell
 <pre>
 
 </pre>
