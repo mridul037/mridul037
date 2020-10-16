@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 
-~ Vannevar Bush
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Whenever logical processes of thought are employed, there is an opportunity for 
 
 </pre>
 **Daily News**
-  - Twitter is investigating widespread outage reports
+  - Sony’s $5,000 3D display (probably) isn’t for you
      <hr/>
      
-      - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
+      - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
      
+  - FAA streamlines commercial launch rules to keep the rockets flying
+      <hr/>
+      
+      - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
+      
+  - Twitter is investigating widespread outage reports
+      <hr/>
+      
+      - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
+      
   - B&O’s BeoPlay H4 headphones offer great looks and comfort, but no noise canceling
       <hr/>
       
       - *It’s easy to be smitten with the H4 at first sight. They’re a great-looking pair of headphones — one of the best I’ve seen. They sport a simple, streamlined design that feels both like an homage to older models, but modern enough to avoid the nostalgia trap. …*
-      
+       
   - Daily Crunch: Stripe acquires Nigeria's Paystack
       <hr/>
-      
-      - *Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria’s Paystack Stripe has made its biggest acquisition to date. It an…*
-      
-  - Startup founders set up hacker homes to recreate Silicon Valley synergy
-      <hr/>
-      
-      - *“We joke that we’ve got so many people in the house that have different pieces of expertise that you just yell down the hallway if you have a problem."*
        
-  - Duplex, Google's conversational A.I, has updated 3M+ business listings since pandemic
-      <hr/>
-       
-       - *Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing, for example. When the pandemic b…*
+       - *Stripe makes a big acquisition, Google rolls out search improvements and Snapchat adds a TikTok-y feature. This is your Daily Crunch for October 15, 2020. The big story: Stripe acquires Nigeria’s Paystack Stripe has made its biggest acquisition to date. It an…*
       
 
 
