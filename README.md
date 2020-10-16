@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Fred Brooks
+~ Alan Turing
 <pre>
 
 </pre>
