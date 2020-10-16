@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cheapest, fastest, and most reliable components are those that aren’t there.
+A few months writing code can save you a few hours in design.
 
-~ Gordon Bell
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The cheapest, fastest, and most reliable components are those that aren’t ther
 
 </pre>
 **Daily News**
-  - Twitter changes its hacked materials policy in wake of New York Post controversy
+  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
      <hr/>
      
-      - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
+      - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
      
+  - Twitter changes its hacked materials policy in wake of New York Post controversy
+      <hr/>
+      
+      - *Twitter has announced an update to its hacked materials policy — saying it will no longer remove hacked content unless it’s directly shared by hackers or those “acting in concert with them”. Instead of blocking such content/links from being shared on its serv…*
+      
   - Miniso, the Japanese-looking variety store from China, sees shares jump in US IPO
       <hr/>
       
@@ -81,16 +86,11 @@ The cheapest, fastest, and most reliable components are those that aren’t ther
       <hr/>
       
       - *Sony just announced a $5,000 3D display, but odds are it’s probably not for you. Primarily known for its consumer goods, the company is targeting creative professionals with the Spatial Reality Display — more specifically, those working in fields like compute…*
-      
+       
   - FAA streamlines commercial launch rules to keep the rockets flying
       <hr/>
-      
-      - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
        
-  - Twitter is investigating widespread outage reports
-      <hr/>
-       
-       - *If you’re reading this, you probably didn’t get here from Twitter . The service has been experiencing widespread reports of outages for at least an hour. The issue has impact a range of different activities on the site, ranging from newsfeeds to the ability t…*
+       - *The FAA has published its updated rules for commercial space launches and reentries, streamlining and modernizing the large and complicated set of regulations. With rockets launching in greater numbers and variety, and from more providers, it makes sense to g…*
       
 
 
