@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Elon Musk
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ AI is a fundamental risk to the existence of human civilization.
 
 </pre>
 **Daily News**
-  - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
+  - Lawmatics raises $2.5M to help lawyers market themselves
      <hr/>
      
-      - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
+      - *Lawmatics, a San Diego startup that’s building marketing and CRM software for lawyers, is announcing that it has raised $2.5 million in seed funding. CEO Matt Siegel used to practice law himself, and he told me that even though tech companies have a wide rang…*
      
+  - Human Capital: Prop 22 puts the 'future of labor' at stake
+      <hr/>
+      
+      - *Welcome back to Human Capital, where we look at the latest in tech labor and diversity and inclusion. Because election day is quickly approaching and given that California’s Prop 22 puts the “future of labor” at stake, as Instacart worker and co-organizer at …*
+      
+  - PearPop lets TikTok celebrities monetize by sharing shoutouts and screentime with fans
+      <hr/>
+      
+      - *PearPop a new Los Angeles-based company, is on its way to racking up nearly 25,000 users in less than a month, and has already landed seed funding from the firm Rocket One Capital. The company’s premise is simple. Allow fans to bid for shared screen time with…*
+      
   - Private equity firms can offer enterprise startups a viable exit option
       <hr/>
       
       - *Four years ago, Ping Identity was at a crossroads. A venerable player in the single sign-on market, its product was not a market leader, and after 14 years and $128 million in venture capital, it needed to find a new path. While the company had once discussed…*
-      
+       
   - Analogue takes on the TurboGrafx-16 with its Duo retro console
       <hr/>
-      
-      - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
-      
-  - We need universal digital ad transparency now
-      <hr/>
-      
-      - *We propose a new standard for universal ad disclosure that should be met by every platform that publishes digital ads.*
        
-  - Elon Musk's Las Vegas Loop might only carry a fraction of the passengers it promised
-      <hr/>
-       
-       - *If the company struggles to deliver capacity -- and revenue -- from its small-scale Convention Center system, the future of those ambitions could be in doubt.*
+       - *Analogue’s beautiful, functional retro gaming consoles provide a sort of “archival quality” alternative to the cheap mini-consoles proliferating these days. The latest system to be resurrected by the company is the ill-fated, but still well-thought-of TurboGr…*
       
 
 
