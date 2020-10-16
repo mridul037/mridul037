@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The next best thing to having good ideas is recognizing good ideas from your users.
+As with most projects, the last two percent takes fifty percent of the time.
 
-~ Eric S. Raymond
+~ John Warnock
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The next best thing to having good ideas is recognizing good ideas from your use
 
 </pre>
 **Daily News**
-  - IAB Europe's ad tracking consent framework found to fail GDPR standard
+  - OnePlus co-founder Carl Pei confirms he has left the company
      <hr/>
      
-      - *A flagship framework for gathering Internet users’ consent for targeting with behavioral ads — which is designed by ad industry body, the IAB Europe — fails to meet the required legal standards of data protection, according to findings by its EU data supervis…*
+      - *OnePlus co-founder Carl Pei has left the company, he confirmed on Friday. Pei, 31, said he plans to take some time off before pursuing his next step. “After nearly 7 years at OnePlus, I’ve made the difficult decision to say goodbye,” wrote Pei in a post on On…*
      
+  - How COVID-19 and the resulting recession are impacting female founders
+      <hr/>
+      
+      - *Last week The Exchange dug into recent data concerning the amount of venture capital raised by female founders. As a refresher, the numbers were not good. In Q3 2020, PitchBook data reported that US-based female founders raised $434 million across 136 rounds.…*
+      
+  - Marshall Major IV wireless headphones offer great sound, plus 80+ hours of battery life and wireless charging
+      <hr/>
+      
+      - *Marshall’s new Major IV headphones ($149.99) combine lightweight comfort with wireless charging, and up to 80 hours of playback for an iconic headset that’s affordable and flexible. At home or on the go, these are a great option with unique features that you …*
+      
+  - IAB Europe's ad tracking consent framework found to fail GDPR standard
+      <hr/>
+      
+      - *A flagship framework for gathering Internet users’ consent for targeting with behavioral ads — which is designed by ad industry body, the IAB Europe — fails to meet the required legal standards of data protection, according to findings by its EU data supervis…*
+       
   - Future raises $24M Series B for its $150/mo workout coaching app amid at-home fitness boom
       <hr/>
-      
-      - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
-      
-  - Shure's Aonic 50 wireless noise cancelling headphones offer best-in-class audio quality
-      <hr/>
-      
-      - *The noise-cancelling over-ear headphone category is an increasingly competitive one, and consumers have never been more spoiled for choice. Shure entered the market this year with the Aonic 50, a premium-priced headset ($399) that offers active noise cancelli…*
-      
-  - Atlanta'-based Speedscale now has $2.2 million more to grow its API test automation business
-      <hr/>
-      
-      - *It only took a few weeks after its Y Combinator demo day debut for the Atlanta-based API test automation company Speedscale to raise its first $2.2 million. Founded by longtime developers and Georgia Institute of Technology alumni, Ken Ahrens, Matthew LeRay a…*
        
-  - UK's ICO downgrades British Airways data breach fine to £20M, after originally setting it at £184M
-      <hr/>
-       
-       - *One of the biggest data breaches in UK corporate history has been closed off by regulators not with a bang, but a whimper — as a result of Covid-19. Today the Information Commissioner’s Office, the UK’s data watchdog, announced that it would be fining British…*
+       - *With thousands of gyms across the country forced to close down during the pandemic, there’s been an unprecedented opportunity for fitness companies pitching an at-home solution. This moment has propelled public companies like Peloton to stratospheric highs — …*
       
 
 
