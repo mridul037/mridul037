@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ John McCarthy (computer scientist)
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
