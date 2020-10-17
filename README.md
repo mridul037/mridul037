@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The limits of my language mean the limits of my world.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ Ludwig Wittgenstein
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
