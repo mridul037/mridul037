@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you think your users are idiots, only idiots will use it.
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 
-~ Linus Torvalds
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you think your users are idiots, only idiots will use it.
 
 </pre>
 **Daily News**
-  - Three views on the future of media startups
+  - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
      <hr/>
      
-      - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - Original Content podcast: It's hard to resist the silliness of 'Emily in Paris'
+      <hr/>
+      
+      - *“Emily in Paris,” a new series on Netflix, has provoked skeptical responses from actual Parisians who are happy to point out the abundant clichés in its story of a young American (played by Lily Collins) who takes a last-minute transfer to a marketing agency …*
+      
+  - Three views on the future of media startups
+      <hr/>
+      
+      - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
+      
   - Pear hosted its invite-only demo day online year; here's what you might have missed
       <hr/>
       
       - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
-      
+       
   - Google Assistant, Maps, and Search can now help you figure out where to vote
       <hr/>
-      
-      - *Election Day approaches! Still not sure where the nearest polling place or ballot drop box is? Google wants to help. This morning the company rolled out a handful of features across Google Assistant, Google Maps, and Google Search, all meant to kick in when a…*
-      
-  - Daily Crunch: Twitter walks back New York Post decision
-      <hr/>
-      
-      - *A New York Post story forces social platforms to make (and in Twitter’s case, reverse) some difficult choices, Sony announces a new 3D display and fitness startup Future raises $24 million. This is your Daily Crunch for October 16, 2020. The big story: Twitte…*
        
-  - Twitter is now allowing users to share that controversial New York Post story
-      <hr/>
-       
-       - *Twitter has taken another step back from its initial decision to block users from sharing links to or images of a New York Post story reporting on emails and other data supposedly originating on a laptop belonging to Democratic presidential nominee Joe Biden’…*
+       - *Election Day approaches! Still not sure where the nearest polling place or ballot drop box is? Google wants to help. This morning the company rolled out a handful of features across Google Assistant, Google Maps, and Google Search, all meant to kick in when a…*
       
 
 
