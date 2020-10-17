@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ John von Neumann
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Any one who considers arithmetical methods of producing random digits is, of cou
 
 </pre>
 **Daily News**
-  - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
+  - Solve the 'dead equity' problem with a longer founder vesting schedule
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
      
+  - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - Original Content podcast: It's hard to resist the silliness of 'Emily in Paris'
       <hr/>
       
@@ -81,16 +86,11 @@ Any one who considers arithmetical methods of producing random digits is, of cou
       <hr/>
       
       - *The Equity crew this week chewed through a trio of media stories, each dealing with private companies and their successes. The Wall Street Journal recently reported that Axios was growing rapidly and near profitability. The paper also broke news that Morning …*
-      
+       
   - Pear hosted its invite-only demo day online year; here's what you might have missed
       <hr/>
-      
-      - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
        
-  - Google Assistant, Maps, and Search can now help you figure out where to vote
-      <hr/>
-       
-       - *Election Day approaches! Still not sure where the nearest polling place or ballot drop box is? Google wants to help. This morning the company rolled out a handful of features across Google Assistant, Google Maps, and Google Search, all meant to kick in when a…*
+       - *Pear, the eight-year-old, Palo Alto, Calif.-based seed-stage venture firm that has, from its outset, attracted the attention of VCs who think the firm has an eye for nascent talent, staged its seventh annual demo day earlier this week, and while it was virtua…*
       
 
 
