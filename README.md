@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No code is faster than no code.
+The limits of my language mean the limits of my world.
 
-~ Kevlin Henney
+~ Ludwig Wittgenstein
 <pre>
 
 </pre>
