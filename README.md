@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Donald Knuth
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
