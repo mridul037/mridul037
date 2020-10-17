@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+Any sufficiently advanced technology is indistinguishable from magic.
 
-~ Edsger W. Dijkstra
+~ Arthur C. Clarke
 <pre>
 
 </pre>
