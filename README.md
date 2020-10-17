@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 
-~ Linus Torvalds
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
