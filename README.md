@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Gary Kildall
+~ Brian Kernighan
 <pre>
 
 </pre>
