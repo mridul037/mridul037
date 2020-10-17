@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 
-~ Daniel T. Barry
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
