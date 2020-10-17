@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Tom DeMarco
+~ Daniel T. Barry
 <pre>
 
 </pre>
