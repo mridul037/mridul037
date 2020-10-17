@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any sufficiently advanced technology is indistinguishable from magic.
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Arthur C. Clarke
+~ Daniel T. Barry
 <pre>
 
 </pre>
