@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Alan Turing
+~ Brian Kernighan
 <pre>
 
 </pre>
