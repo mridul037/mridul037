@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+Just because you've implemented something doesn't mean you understand it.
 
-~ Bob Carr
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
