@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ Gary Kildall
+~ Ted Nelson
 <pre>
 
 </pre>
