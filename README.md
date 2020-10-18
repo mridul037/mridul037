@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
 
-~ Vannevar Bush
+~ Kent Beck
 <pre>
 
 </pre>
