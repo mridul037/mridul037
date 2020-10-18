@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 
-~ Fred Brooks
+~ Gary Kildall
 <pre>
 
 </pre>
