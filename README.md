@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+When in doubt, leave it out.
 
-~ Elon Musk
+~ Joshua Bloch
 <pre>
 
 </pre>
