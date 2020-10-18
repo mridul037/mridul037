@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ Ted Nelson
+~ Tom Cargill
 <pre>
 
 </pre>
