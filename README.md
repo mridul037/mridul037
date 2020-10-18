@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Just because you've implemented something doesn't mean you understand it.
+The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 
-~ Brian Cantwell Smith
+~ Fred Brooks
 <pre>
 
 </pre>
