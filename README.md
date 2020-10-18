@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+Fancy algorithms are slow when n is small, and n is usually small.
 
-~ Bill Gates
+~ Rob Pike
 <pre>
 
 </pre>
