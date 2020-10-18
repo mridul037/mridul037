@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
-~ Edsger W. Dijkstra
+~ Alan Turing
 <pre>
 
 </pre>
