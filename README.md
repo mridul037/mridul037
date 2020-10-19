@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+We need to be super careful with AI. Potentially more dangerous than nukes.
 
-~ Tim Berners-Lee
+~ Elon Musk
 <pre>
 
 </pre>
