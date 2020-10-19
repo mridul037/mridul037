@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A few months writing code can save you a few hours in design.
+One accurate measurement is worth more than a thousand expert opinions.
 
-~ Anonymous
+~ Grace Hopper
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A few months writing code can save you a few hours in design.
 
 </pre>
 **Daily News**
-  - EU switches on cross-border interoperability for first batch of COVID-19 contacts tracing apps
+  - Raspberry Pi Foundation launches Compute Module 4 for industrial users
      <hr/>
      
-      - *The European Union has switched on cross-border interoperability for a first batch of COVID-19 contacts tracing apps that use Bluetooth proximity to calculate the exposure risk of smartphone users after a pilot of the system last month. National apps whose ba…*
+      - *The Raspberry Pi Foundation is launching a new product today — the Compute Module 4. If you’ve been keeping an eye on the Raspberry Pi releases, you know that the flagship Raspberry Pi 4 was released in June 2019. The Compute Module 4 features the same proces…*
      
+  - Stitcher's podcasts arrive on Pandora with acquisition's completion
+      <hr/>
+      
+      - *SiriusXM today completed its previously announced $325 million acquisition of podcast platform Stitcher from E.W. Scripps, and has now launched Stitcher’s podcasts on Pandora across all tiers of the streaming service. The deal brings top Stitcher titles to Pa…*
+      
+  - EU switches on cross-border interoperability for first batch of COVID-19 contacts tracing apps
+      <hr/>
+      
+      - *The European Union has switched on cross-border interoperability for a first batch of COVID-19 contacts tracing apps that use Bluetooth proximity to calculate the exposure risk of smartphone users after a pilot of the system last month. National apps whose ba…*
+      
   - Are VCs cutting checks in the closing days of the 2020 election?
       <hr/>
       
       - *Before the 2016 election, Vice Ventures founder and general partner Catharine Dockery was bullish about the future of recreational cannabis in the United States. “We saw quite a bit more optimism around national legalization, with the feeling that a wave of s…*
-      
+       
   - The OpenStack Foundation becomes the Open Infrastructure Foundation
       <hr/>
-      
-      - *This has been a long time coming, but the OpenStack foundation today announced that it is changing its name to ‘Open Infrastructure Foundation,” starting in 2021. The announcement, which the foundation made at its virtual developer conference, doesn’t exactly…*
-      
-  - AMC offers private theater rentals starting at $99, as cinemas continue to struggle
-      <hr/>
-      
-      - *Like countless other sectors of the entertainment industry, movie theaters have been devastated by a global pandemic with seemingly no end in sight. Initial closings stretched on for months, as distributors have delayed their biggest films, or simply cut out …*
        
-  - Apple launches a U.S.-only music video station, Apple Music TV
-      <hr/>
-       
-       - *Apple is expanding its investment in music with today’s launch of “Apple Music TV.” The new music video station offers a free, 24-hour livestream of popular music videos and other music content, including, exclusive video premieres, curated music video blocks…*
+       - *This has been a long time coming, but the OpenStack foundation today announced that it is changing its name to ‘Open Infrastructure Foundation,” starting in 2021. The announcement, which the foundation made at its virtual developer conference, doesn’t exactly…*
       
 
 
