@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 
-~ Donald Knuth
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 
 </pre>
 **Daily News**
-  - Singapore tech-based real estate agency Propseller raises $1.2 million seed round
+  - Google Cloud launches Lending DocAI, its first dedicated mortgage industry tool
      <hr/>
      
-      - *Propseller, a Singapore-based real estate agency that combines a tech platform with in-house agents to close transactions more quickly, announced today it has raised $1.2 million in seed funding. The round included investment from Iterative; Hustle Fund; XA N…*
+      - *Google Cloud today announced the launch of Lending DocAI, its first dedicated service for the mortgage industry. The tool, which is now in preview, is meant to help mortgage companies speed up the process of evaluating a borrower’s income and asset documents,…*
      
+  - Singapore tech-based real estate agency Propseller raises $1.2 million seed round
+      <hr/>
+      
+      - *Propseller, a Singapore-based real estate agency that combines a tech platform with in-house agents to close transactions more quickly, announced today it has raised $1.2 million in seed funding. The round included investment from Iterative; Hustle Fund; XA N…*
+      
   - Ready, Set, Raise, an accelerator for women built by women, announces third class
       <hr/>
       
@@ -81,16 +86,11 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
       <hr/>
       
       - *Pakistan Telecommunication Authority said on Monday it has lifted the ban on TikTok, 11 days after the South Asian nation’s telecom authority blocked the popular short video app in the country over problematic videos on the platform. The authority, however, w…*
-      
+       
   - SpaceX successfully launches 60 more Starlink satellites, bringing total delivered to orbit to more than 800
       <hr/>
-      
-      - *SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that we…*
        
-  - Instagram's handling of kids' data is now being probed in the EU
-      <hr/>
-       
-       - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
+       - *SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that we…*
       
 
 
