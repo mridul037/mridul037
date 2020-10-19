@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 
-~ Edsger W. Dijkstra
+~ Richard P. Gabriel
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I mean, if 10 years from now, when you are doing something quick and dirty, you 
 
 </pre>
 **Daily News**
-  - Google Cloud launches Lending DocAI, its first dedicated mortgage industry tool
+  - Pimloc gets $1.8M for its AI-based visual search and redaction tool
      <hr/>
      
-      - *Google Cloud today announced the launch of Lending DocAI, its first dedicated service for the mortgage industry. The tool, which is now in preview, is meant to help mortgage companies speed up the process of evaluating a borrower’s income and asset documents,…*
+      - *UK-based Pimloc has closed a £1.4 million (~$1.8M) seed funding round led by Amadeus Capital Partners. Existing investor Speedinvest and other unnamed shareholders also participated in the round. The 2016-founded computer vision startup launched a AI -powered…*
      
-  - Singapore tech-based real estate agency Propseller raises $1.2 million seed round
+  - Mobile by Peak Design is a new, complete mobile mounting solution for everyday convenience
       <hr/>
       
-      - *Propseller, a Singapore-based real estate agency that combines a tech platform with in-house agents to close transactions more quickly, announced today it has raised $1.2 million in seed funding. The round included investment from Iterative; Hustle Fund; XA N…*
+      - *After a steady stream of successful product launches and Kickstarter campaigns, Peak Design is back with a new one – Mobile by Peak Design. The startup that created a rich ecosystem of photography and packing gear is tackling mobile devices next, and has devi…*
       
-  - Ready, Set, Raise, an accelerator for women built by women, announces third class
+  - Equity Monday: Three neat venture rounds, and Alibaba's latest
       <hr/>
       
-      - *In 2018, Leslie Feinzaig, the founder of Female Founders Alliance, launched a free, equity-free accelerator for women called Ready, Set, Raise. The goal was to provide under-networked female founders the coaching and connections needed to raise money. This ye…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
       
-  - Pakistan lifts ban on TikTok
+  - Facebook introduces a new Messenger API with support for Instagram
       <hr/>
       
-      - *Pakistan Telecommunication Authority said on Monday it has lifted the ban on TikTok, 11 days after the South Asian nation’s telecom authority blocked the popular short video app in the country over problematic videos on the platform. The authority, however, w…*
+      - *Following the updates to Instagram and Messenger that delivered cross-app communication and other features, Facebook today announced its Messenger API has also been updated to allow businesses to manage their communications across Instagram, in addition to Me…*
        
-  - SpaceX successfully launches 60 more Starlink satellites, bringing total delivered to orbit to more than 800
+  - Google Cloud launches Lending DocAI, its first dedicated mortgage industry tool
       <hr/>
        
-       - *SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that we…*
+       - *Google Cloud today announced the launch of Lending DocAI, its first dedicated service for the mortgage industry. The tool, which is now in preview, is meant to help mortgage companies speed up the process of evaluating a borrower’s income and asset documents,…*
       
 
 
