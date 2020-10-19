@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Gary Kildall
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It's fun to sit at a terminal and let the code flow. It sounds strange, but it j
 
 </pre>
 **Daily News**
-  - SpaceX successfully launches 60 more Starlink satellites, bringing total delivered to orbit to more than 800
+  - Singapore tech-based real estate agency Propseller raises $1.2 million seed round
      <hr/>
      
-      - *SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that we…*
+      - *Propseller, a Singapore-based real estate agency that combines a tech platform with in-house agents to close transactions more quickly, announced today it has raised $1.2 million in seed funding. The round included investment from Iterative; Hustle Fund; XA N…*
      
+  - Ready, Set, Raise, an accelerator for women built by women, announces third class
+      <hr/>
+      
+      - *In 2018, Leslie Feinzaig, the founder of Female Founders Alliance, launched a free, equity-free accelerator for women called Ready, Set, Raise. The goal was to provide under-networked female founders the coaching and connections needed to raise money. This ye…*
+      
+  - Pakistan lifts ban on TikTok
+      <hr/>
+      
+      - *Pakistan Telecommunication Authority said on Monday it has lifted the ban on TikTok, 11 days after the South Asian nation’s telecom authority blocked the popular short video app in the country over problematic videos on the platform. The authority, however, w…*
+      
+  - SpaceX successfully launches 60 more Starlink satellites, bringing total delivered to orbit to more than 800
+      <hr/>
+      
+      - *SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that we…*
+       
   - Instagram's handling of kids' data is now being probed in the EU
       <hr/>
-      
-      - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
-      
-  - Alibaba Group will spend $3.6 billion to take control of Chinese supermarket giant Sun Art
-      <hr/>
-      
-      - *Alibaba Group said today it will spend about $3.6 billion to take a controlling stake in Sun Art, one of China’s largest big-box and supermarket chains. After the transaction is complete, Alibaba Group will own 72% of Sun Art. As in other countries, COVID-19 …*
-      
-  - VCs reload ahead of the election as unicorns power ahead
-      <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. There was a steady drumbeat of bullish news for unicorns this week.*
        
-  - Solve the 'dead equity' problem with a longer founder vesting schedule
-      <hr/>
-       
-       - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
+       - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
       
 
 
