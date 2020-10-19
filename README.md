@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 
-~ Fred Brooks
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When a task cannot be partitioned because of sequential constraints, the applica
 
 </pre>
 **Daily News**
-  - Instagram's handling of kids' data is now being probed in the EU
+  - SpaceX successfully launches 60 more Starlink satellites, bringing total delivered to orbit to more than 800
      <hr/>
      
-      - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
+      - *SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that we…*
      
+  - Instagram's handling of kids' data is now being probed in the EU
+      <hr/>
+      
+      - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
+      
   - Alibaba Group will spend $3.6 billion to take control of Chinese supermarket giant Sun Art
       <hr/>
       
@@ -81,16 +86,11 @@ When a task cannot be partitioned because of sequential constraints, the applica
       <hr/>
       
       - *Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment. There was a steady drumbeat of bullish news for unicorns this week.*
-      
+       
   - Solve the 'dead equity' problem with a longer founder vesting schedule
       <hr/>
-      
-      - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
        
-  - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
-      <hr/>
-       
-       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+       - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
       
 
 
