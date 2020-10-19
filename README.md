@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+It's not so important what you work on, so long as you're not wasting your time.
 
-~ Edsger W. Dijkstra
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
