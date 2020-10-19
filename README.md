@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ Buckminster Fuller
+~ Jamie Zawinski
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ When I am working on a problem I never think about beauty. I think only how to s
 
 </pre>
 **Daily News**
-  - Who regulates social media?
+  - Amazon Echo Dot with Clock review: A mostly aesthetic update
      <hr/>
      
-      - *Social media platforms have repeatedly found themselves in the United States government’s crosshairs over the last few years, as it has been progressively revealed just how much power they really wield, and to what purposes they’ve chosen to wield it. But unl…*
+      - *It’s been a busy few weeks for smart speakers. Amazon kicked things off in late September with newer, rounder versions of both the Echo and Echo Dot. Less than a week later, Google updated the Home, after four years, with the rebranded Nest Audio. And then, l…*
      
+  - Who regulates social media?
+      <hr/>
+      
+      - *Social media platforms have repeatedly found themselves in the United States government’s crosshairs over the last few years, as it has been progressively revealed just how much power they really wield, and to what purposes they’ve chosen to wield it. But unl…*
+      
   - Juniper Networks acquires Boston-area AI SD-WAN startup 128 Technology for $450M
       <hr/>
       
@@ -81,16 +86,11 @@ When I am working on a problem I never think about beauty. I think only how to s
       <hr/>
       
       - *Relativity Space has bagged its first public government contract, and with a major defense contractor at that. The launch startup’s 3D-printed rockets are a great match for a particularly complex mission Lockheed is undertaking for NASA’s Tipping Point progra…*
-      
+       
   - Disney+ UX teardown: Wins, fails and fixes
       <hr/>
-      
-      - *Disney announced earlier this month that it’s going all-in on streaming media. As part of this new strategy, the company is undergoing a major reorganisation of its media and entertainment business that will focus on developing productions that will debut on …*
        
-  - U.S. charges Russian hackers blamed for Ukraine power outages and the NotPetya ransomware attack
-      <hr/>
-       
-       - *Prosecutors accused the hackers of launching the "most disruptive and destructive series of computer attacks ever attributed to a single group."*
+       - *Disney announced earlier this month that it’s going all-in on streaming media. As part of this new strategy, the company is undergoing a major reorganisation of its media and entertainment business that will focus on developing productions that will debut on …*
       
 
 
