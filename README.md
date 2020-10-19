@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Rob Pike
+~ Marvin Minsky
 <pre>
 
 </pre>
