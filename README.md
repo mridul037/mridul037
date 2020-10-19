@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
+When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
 
-~ John Carmack
+~ Buckminster Fuller
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If you want to set off and go develop some grand new thing, you don't need milli
 
 </pre>
 **Daily News**
-  - Juniper Networks acquires Boston-area AI SD-WAN startup 128 Technology for $450M
+  - Who regulates social media?
      <hr/>
      
-      - *Today Juniper Networks announced it was acquiring smart wide area networking startup 128 Technology for $450 million. This marks the second AI-fueled networking company Juniper has acquired in the last year and a half after purchasing Mist Systems in March 20…*
+      - *Social media platforms have repeatedly found themselves in the United States government’s crosshairs over the last few years, as it has been progressively revealed just how much power they really wield, and to what purposes they’ve chosen to wield it. But unl…*
      
+  - Juniper Networks acquires Boston-area AI SD-WAN startup 128 Technology for $450M
+      <hr/>
+      
+      - *Today Juniper Networks announced it was acquiring smart wide area networking startup 128 Technology for $450 million. This marks the second AI-fueled networking company Juniper has acquired in the last year and a half after purchasing Mist Systems in March 20…*
+      
   - Lockheed picks Relativity's 3D-printed rocket for experimental NASA mission
       <hr/>
       
@@ -81,16 +86,11 @@ If you want to set off and go develop some grand new thing, you don't need milli
       <hr/>
       
       - *Disney announced earlier this month that it’s going all-in on streaming media. As part of this new strategy, the company is undergoing a major reorganisation of its media and entertainment business that will focus on developing productions that will debut on …*
-      
+       
   - U.S. charges Russian hackers blamed for Ukraine power outages and the NotPetya ransomware attack
       <hr/>
-      
-      - *Prosecutors accused the hackers of launching the "most disruptive and destructive series of computer attacks ever attributed to a single group."*
        
-  - Late-stage deals made Q3 2020 a standout VC quarter for US-based startups
-      <hr/>
-       
-       - *Remember back in March when the VC game was done for the year, checkbooks were snapping shut and startup layoffs led the headlines? So much for all that. Q3’s venture capital numbers are in and they are anything but weak. In retrospect, the Q2 VC slowdown loo…*
+       - *Prosecutors accused the hackers of launching the "most disruptive and destructive series of computer attacks ever attributed to a single group."*
       
 
 
