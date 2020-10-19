@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+I'm interested in creating images that communicate with people.
 
-~ Alan Perlis
+~ Toru Iwatani
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It is easier to change the specification to fit the program than vice versa.
 
 </pre>
 **Daily News**
-  - Alibaba Group will spend $3.6 billion to take control of Chinese supermarket giant Sun Art
+  - Instagram's handling of kids' data is now being probed in the EU
      <hr/>
      
-      - *Alibaba Group said today it will spend about $3.6 billion to take a controlling stake in Sun Art, one of China’s largest big-box and supermarket chains. After the transaction is complete, Alibaba Group will own 72% of Sun Art. As in other countries, COVID-19 …*
+      - *Facebook’s lead data regulator in Europe has opened another two probes into its business empire — both focused on how the Instagram platform processes children’s information. The action by Ireland’s Data Protection Commission (DPC), reported earlier by the Te…*
      
+  - Alibaba Group will spend $3.6 billion to take control of Chinese supermarket giant Sun Art
+      <hr/>
+      
+      - *Alibaba Group said today it will spend about $3.6 billion to take a controlling stake in Sun Art, one of China’s largest big-box and supermarket chains. After the transaction is complete, Alibaba Group will own 72% of Sun Art. As in other countries, COVID-19 …*
+      
   - VCs reload ahead of the election as unicorns power ahead
       <hr/>
       
@@ -81,16 +86,11 @@ It is easier to change the specification to fit the program than vice versa.
       <hr/>
       
       - *The four-year vesting schedule that the typical startup uses today is a problem waiting to happen. Here's how you can fix it forever.*
-      
+       
   - This Week in Apps: Apple's big event, lidar comes to iPhone, Android gets a new IDE
       <hr/>
-      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
        
-  - Original Content podcast: It's hard to resist the silliness of 'Emily in Paris'
-      <hr/>
-       
-       - *“Emily in Paris,” a new series on Netflix, has provoked skeptical responses from actual Parisians who are happy to point out the abundant clichés in its story of a young American (played by Lily Collins) who takes a last-minute transfer to a marketing agency …*
+       - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
       
 
 
