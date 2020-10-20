@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 
-~ Donald Knuth
+~ Simon Peyton Jones
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 
 </pre>
 **Daily News**
-  - Dublin's LearnUpon raises $56M for its online learning management system for enterprises
+  - Vectary, a design platform for 3D and AR, raises $7.3M from EQT and Blueyard
      <hr/>
      
-      - *One big technology by-product of the Covid-19 pandemic has been a much stronger focus on online education solutions — providing the tools for students to continue learning when the public health situation is preventing them from going into physical classrooms…*
+      - *Vectary, a design platform for 3D and Augmented Reality (AR), has raised a $7.3 million round led by European fund EQT Ventures. Existing investor BlueYard (Berlin) also participated. Vectary makes high-quality 3D design more accessible for consumers, garneri…*
      
-  - Trilo lets merchants offer rewards to customers choosing bank-to-bank payments
+  - Perch raises $123.5M to grow its stable of D2C brands that sell on Amazon
       <hr/>
       
-      - *Open banking enables bank-to-bank payments, meaning that (in theory) merchants should be able to accept payments without having to hand over fees to Visa or Mastercard or other payment providers, such as Stripe. The challenge, however, isn’t just implementing…*
+      - *While Amazon gradually builds out its own-branded line of products, third-party sellers continue to account for a significant part of the transaction volume and growth on its marketplace — by one estimate, accounting for $200 billion of the $335 billion in gr…*
       
-  - Eat Just partners with Proterra to launch a new subsidiary in Asia
+  - Tiliter bags $7.5M for its 'plug and play' cashierless checkout tech
       <hr/>
       
-      - *Eat Just, the plant-based food startup, is launching a new Asian subsidiary through a partnership with Proterra Investment Partners Asia. The agreement includes building Eat Just’s first factory in Asia, which will be based in Singapore. As part of the deal, …*
+      - *Tiliter, an Australian startup that’s using computer vision to power cashierless checkout tech that replaces the need for barcodes on products, has closed a $7.5 million Series A round of funding led by Investec Emerging Companies. The 2017-founded company is…*
       
-  - Intel agrees to sell its NAND business to SK Hynix for $9 billion
+  - Math learning platform Knowledgehook raises £13.5M Series A to expand globally
       <hr/>
       
-      - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
+      - *Given the nature of the COVID-19 pandemic, millions of students have switched to online learning. So whereas EdTech used to be somewhat of an also-ran in the venture stakes, it has now become one fo the hottest spaces on the planet. It’s therefore of title su…*
        
-  - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
+  - Dublin's LearnUpon raises $56M for its online learning management system for enterprises
       <hr/>
        
-       - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
+       - *One big technology by-product of the Covid-19 pandemic has been a much stronger focus on online education solutions — providing the tools for students to continue learning when the public health situation is preventing them from going into physical classrooms…*
       
 
 
