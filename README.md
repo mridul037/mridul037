@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+Just because you've implemented something doesn't mean you understand it.
 
-~ John Carmack
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
