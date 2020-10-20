@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In theory, there is no difference between theory and practice. But, in practice, there is.
+Programming is the ultimate field for someone who likes to tinker.
 
-~ Jan L. A. van de Snepscheut
+~ Ray Ozzie
 <pre>
 
 </pre>
