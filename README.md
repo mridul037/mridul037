@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 
-~ Alan Kay
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Most software today is very much like an Egyptian pyramid with millions of brick
 
 </pre>
 **Daily News**
-  - Intel agrees to sell its NAND business to SK Hynix for $9 billion
+  - Eat Just partners with Proterra to launch a new subsidiary in Asia
      <hr/>
      
-      - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
+      - *Eat Just, the plant-based food startup, is launching a new Asian subsidiary through a partnership with Proterra Investment Partners Asia. The agreement includes building Eat Just’s first factory in Asia, which will be based in Singapore. As part of the deal, …*
      
+  - Intel agrees to sell its NAND business to SK Hynix for $9 billion
+      <hr/>
+      
+      - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
+      
   - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
       <hr/>
       
@@ -81,16 +86,11 @@ Most software today is very much like an Egyptian pyramid with millions of brick
       <hr/>
       
       - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
-      
+       
   - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
       <hr/>
-      
-      - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
        
-  - Lee Fixel burnishes his reputation, raising his second massive fund in 2020
-      <hr/>
-       
-       - *On Friday, former Tiger Global Management investor Lee Fixel registered plans for the second fund of his new investment firm, Addition, just four months after closing the first. But investors who were shut out of that $1.3 billion debut fund and who might hav…*
+       - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
       
 
 
