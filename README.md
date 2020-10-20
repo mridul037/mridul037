@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+The entire history of software engineering is that of the rise in levels of abstraction.
 
-~ Ted Nelson
+~ Grady Booch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Right now you are a prisoner of each application you use. You have only the opti
 
 </pre>
 **Daily News**
-  - Soleadify secures seed funding for database what tracks 40M business using machine learning
+  - Genies updates its software development kit and partners with Gucci, Giphy
      <hr/>
      
-      - *Usually, databases about companies have to be painstakingly updated by humans. Soleadify is a startup that uses machine learning to create profiles for businesses in any industry. The first of the company’s products is a business search engine that keeps over…*
+      - *Genies, has updated its software development kit and added Giphy and Gucci as new partners to enable their users to create personalized Genie avatars. The company released the first version of its sdk in 2018 when it raised a $10 million to directly challenge…*
      
-  - Handshake raises $80M more to build a more diversity-focused LinkedIn for college students
+  - Security testing firm NSS Labs ceases operations, citing coronavirus
       <hr/>
       
-      - *College graduates this year (and perhaps in the near-term) have been looking for work in what is one of the most challenging job markets in a decade due to the coronavirus and its impacts on the economy and how people can interact with each other. Today, a st…*
+      - *The company shuttered on October 15.*
       
-  - Austin-based Verifiable raises $3 million for its api toolkit to verify healthcare credentials
+  - Stotles secures funding for platform which brings transparency to government tenders, contracts
       <hr/>
       
-      - *Before Nick Macario launched Verifiable, the Austin-based company that just raised $3 million for its api toolkit that verifies healthcare credentials, he ran a series of other businesses designed to offer public credentials for professionals. His first foray…*
+      - *The public sector usually publishes its business opportunities in the form of ‘tenders,’ to increase transparency to the public. However, this data is scattered, and larger businesses have access to more information, giving them opportunities to grab contract…*
       
-  - Splunk acquires Plumbr and Rigor to build out its observability platform
+  - Venn, a network hoping to be gaming's answer to MTV, raises $26 million
       <hr/>
       
-      - *Data platform Splunk today announced that it has acquired two startups, Plumbr and Rigor, to build out its new Observability Suite, which is also launching today. Plumbr is an application performance monitoring service, while Rigor focuses on digital experien…*
+      - *VENN , the streaming network hoping to be gaming culture’s answer to MTV, has raised $26 million to bring its mix of video game-themed entertainment and streaming celebrity features to the masses. The financing came from previous investor Bitkraft, one of the…*
        
-  - Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge
+  - Justice Department will reportedly file its antitrust lawsuit against Google today
       <hr/>
        
-       - *In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT, and more), different price points, and varying capabilitie…*
+       - *The Justice Department is expected to file its long-awaited antitrust lawsuit against Google later today, according to a report from The Wall Street Journal. In the suit, the Justice Department is expected to argue that Google used anticompetitive practices t…*
       
 
 
