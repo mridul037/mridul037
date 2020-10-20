@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Maurice Wilkes
+~ Mario Fusco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Since 1954, the raw speed of computers, as measured by the time it takes to do a
 
 </pre>
 **Daily News**
-  - Robotic kitchen startup YPC raises a $1.8M seed round
+  - Microsoft Azure announces its first region in Austria
      <hr/>
      
-      - *Montreal-based YPC Technologies today announced that it has raised a $1.8 million seed round. Led by Hike Ventures and Real Ventures, the funding includes participation from Toyota AI Ventures and Uphill Capital, among others, designed to help the company pil…*
+      - *Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy, this part of Europe now has its fair share of Az…*
      
-  - As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio
+  - Call analytics platform Invoca expands into sales, e-commerce and customer experience
       <hr/>
       
-      - *Even as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game’s early development team. Blizzard vets Tim Morten, the former pr…*
+      - *Invoca, which helps companies extract and use data from customer phone calls, is expanding today with the launch of products for e-commerce, customer experience and sales teams, as well as a new Invoca Exchange, where businesses can find all of the platform’s…*
       
-  - As startups accelerate in record Q3, Europe and Asia rack up huge VC results
+  - Google calls DOJ's antitrust lawsuit "deeply flawed" in GIF-laden blog response
       <hr/>
       
-      - *Venture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates. The two continents enjoyed more venture capital investment into their local startups than in some time, underscoring that strong VC results the United States saw in…*
+      - *Google was clearly anticipating today’s U.S. Department of Justice antitrust complaint filing – the company posted an extensive rebuttal of the lawsuit to its Keyword company blog. The post, penned by SVP of Global Affairs and Google Chief Legal Officer Kent …*
       
-  - Leading a $15 million round, Prosus Ventures makes the challenger bank Klar its first bet in Mexico
+  - Google Photos revives its prints subscription service, expands same-day print options
       <hr/>
       
-      - *Klar, a new online bank based in Mexico City, has become the first big bet that Prosus Ventures (the firm formerly known as Naspers Ventures) is taking in Latin America outside of Brazil. Founded by Stefan Moller, a former consultant at Bain & Co. who advised…*
+      - *Google Photos is reviving its photo printing subscription service and introducing same-day prints. The company earlier this year had briefly tested a new program that used A.I. to suggest the month’s 10 best photos, which were then shipped to your home automa…*
        
-  - Sym raises $9M Series A for its security workflow platform
+  - Beam is building a web browser that gathers knowledge from your web activity
       <hr/>
        
-       - *Sym, a new platform that makes it easier for developers to integrate security and privacy workflows into their process, today announced that it has raised a $9 million Series A round led by Amplify Partners. Earlier this year, the company announced its $3 mil…*
+       - *Remember Netscape Navigator and Internet Explorer? Those applications from the 1990s used emphatic metaphors in their names to talk about a simple task — browsing the web. Today, nobody would say that Google Chrome is a web explorer. Browsing the web has beco…*
       
 
 
