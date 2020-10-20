@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-~ Rob Pike
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Object-oriented design is the roman numerals of computing.
 
 </pre>
 **Daily News**
-  - How to 'watch' NASA's OSIRIS-REx snatch a sample from near-Earth asteroid Bennu
+  - Snap shares explode after blowing past earnings expectations
      <hr/>
      
-      - *NASA’s OSIRIS-REx probe is about to touch down on an asteroid for a smash-and-grab mission, and you can follow its progress live — kind of. The craft is scheduled to perform its collection operation this afternoon, and we’ll know within minutes if all went ac…*
+      - *Snap shares were up nearly 20% in after-hours trading after the company showcased a massive earnings beat, besting analyst expectations on both revenue and earnings per share for Q3. The company was already hovering above an all-time-high, with Tuesday’s beat…*
      
-  - Equity Shot: The DoJ, Google, and the suit could mean for startups
+  - Here's why Netflix shares are off after reporting earnings
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. It’s a big day in tech because the US Federal Government is going after Google on anti-competitive grounds. Sure, the timing appea…*
+      - *Shares of consumer video service Netflix are down sharply after the bell today, following the company’s Q3 earnings report. Why is Netflix suddenly worth about 5% less than before? A mixed earnings report, a disappointing new paying customer number, and sligh…*
       
-  - 7 investors discuss augmented reality and VR startup opportunities in 2020
+  - Netflix user growth slows as production ramps up again
       <hr/>
       
-      - *For all of the investors preaching that augmented reality technology will likely be the successor to the modern smartphone, today, most venture capitalists are still quite wary to back AR plays. The reasons are plentiful, but all tend to circle around the ide…*
+      - *After the COVID-19 pandemic drove impressive subscriber growth earlier this year, Netflix’s numbers have come back down to Earth. The streaming service added 15.77 million net new subscribers in the first quarter of the year, followed by 10.09 million in Q2. …*
       
-  - Root targets $6B+ valuation in pending IPO, a boon for insurtech startups
+  - Adobe brings its misinformation-fighting content attribution tool to the Photoshop beta
       <hr/>
       
-      - *This morning Root Insurance, a neo-insurance provider that has attracted ample private capital for its auto-insurance business, is targeting a valuation of as much as $6.34 billion in its pending IPO. The former startup follows insurtech leader Lemonade to th…*
+      - *Adobe’s work on a chain of custody that could link online images back to their origins is inching closer to becoming a reality. The prototype, part of the Content Authenticity Initiative (CAI), will soon appear in the beta of Photoshop, Adobe’s ubiquitous ima…*
        
-  - Egnyte introduces new features to help deal with security/governance during pandemic
+  - How to 'watch' NASA's OSIRIS-REx snatch a sample from near-Earth asteroid Bennu
       <hr/>
        
-       - *The pandemic has put stress on companies dealing with a workforce that is mostly — and sometimes suddenly — working from home. That has led to rising needs for security and governance tooling, something that Egnyte is looking to meet with new features aimed a…*
+       - *NASA’s OSIRIS-REx probe is about to touch down on an asteroid for a smash-and-grab mission, and you can follow its progress live — kind of. The craft is scheduled to perform its collection operation this afternoon, and we’ll know within minutes if all went ac…*
       
 
 
