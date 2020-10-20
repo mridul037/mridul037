@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 
-~ Mario Fusco
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The code you write makes you a programmer. The code you delete makes you a good 
 
 </pre>
 **Daily News**
-  - Microsoft Azure announces its first region in Austria
+  - Egnyte introduces new features to help deal with security/governance during pandemic
      <hr/>
      
-      - *Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy, this part of Europe now has its fair share of Az…*
+      - *The pandemic has put stress on companies dealing with a workforce that is mostly — and sometimes suddenly — working from home. That has led to rising needs for security and governance tooling, something that Egnyte is looking to meet with new features aimed a…*
      
-  - Call analytics platform Invoca expands into sales, e-commerce and customer experience
+  - Amazon launches a program to pay consumers for their data on non-Amazon purchases
       <hr/>
       
-      - *Invoca, which helps companies extract and use data from customer phone calls, is expanding today with the launch of products for e-commerce, customer experience and sales teams, as well as a new Invoca Exchange, where businesses can find all of the platform’s…*
+      - *Amazon has launched a new program that directly pays consumers for information about what they’re purchasing outside of Amazon.com and for responding to short surveys. The program, Amazon Shopper Panel, asks users to send in 10 receipts per month for any purc…*
       
-  - Google calls DOJ's antitrust lawsuit "deeply flawed" in GIF-laden blog response
+  - French TV networks team up to launch streaming service Salto
       <hr/>
       
-      - *Google was clearly anticipating today’s U.S. Department of Justice antitrust complaint filing – the company posted an extensive rebuttal of the lawsuit to its Keyword company blog. The post, penned by SVP of Global Affairs and Google Chief Legal Officer Kent …*
+      - *There’s a new streaming service in France called Salto. The companies behind the new service have been around for a while though. Salto is a joint initiative between TF1, France Télévisions and M6 — three major TV networks. Those companies already had their o…*
       
-  - Google Photos revives its prints subscription service, expands same-day print options
+  - Investors appear to shrug at antitrust lawsuit aimed at Google
       <hr/>
       
-      - *Google Photos is reviving its photo printing subscription service and introducing same-day prints. The company earlier this year had briefly tested a new program that used A.I. to suggest the month’s 10 best photos, which were then shipped to your home automa…*
+      - *Investors do not seem concerned that the Department of Justice filed an antitrust suit against Google earlier today. The suit, seen by some as a stunt near the election, is one of a multi-part push to change the face of the technology industry, which has seen…*
        
-  - Beam is building a web browser that gathers knowledge from your web activity
+  - Meadow launches a powerful mobile marketing tool for cannabis dispensaries
       <hr/>
        
-       - *Remember Netscape Navigator and Internet Explorer? Those applications from the 1990s used emphatic metaphors in their names to talk about a simple task — browsing the web. Today, nobody would say that Google Chrome is a web explorer. Browsing the web has beco…*
+       - *Meadow was once called the Amazon of weed. Now it’s trying to be the Salesforce of weed, too. Meadow, the maker of a popular point of sale system for cannabis dispensaries, is today launching new tools for its clients. Called the Meadow Platform, it includes …*
       
 
 
