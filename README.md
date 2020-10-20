@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 
-~ Simon Peyton Jones
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I characterize functional programming as a radical and elegant attack on the who
 
 </pre>
 **Daily News**
-  - Vectary, a design platform for 3D and AR, raises $7.3M from EQT and Blueyard
+  - Soleadify secures seed funding for database what tracks 40M business using machine learning
      <hr/>
      
-      - *Vectary, a design platform for 3D and Augmented Reality (AR), has raised a $7.3 million round led by European fund EQT Ventures. Existing investor BlueYard (Berlin) also participated. Vectary makes high-quality 3D design more accessible for consumers, garneri…*
+      - *Usually, databases about companies have to be painstakingly updated by humans. Soleadify is a startup that uses machine learning to create profiles for businesses in any industry. The first of the company’s products is a business search engine that keeps over…*
      
-  - Perch raises $123.5M to grow its stable of D2C brands that sell on Amazon
+  - Handshake raises $80M more to build a more diversity-focused LinkedIn for college students
       <hr/>
       
-      - *While Amazon gradually builds out its own-branded line of products, third-party sellers continue to account for a significant part of the transaction volume and growth on its marketplace — by one estimate, accounting for $200 billion of the $335 billion in gr…*
+      - *College graduates this year (and perhaps in the near-term) have been looking for work in what is one of the most challenging job markets in a decade due to the coronavirus and its impacts on the economy and how people can interact with each other. Today, a st…*
       
-  - Tiliter bags $7.5M for its 'plug and play' cashierless checkout tech
+  - Austin-based Verifiable raises $3 million for its api toolkit to verify healthcare credentials
       <hr/>
       
-      - *Tiliter, an Australian startup that’s using computer vision to power cashierless checkout tech that replaces the need for barcodes on products, has closed a $7.5 million Series A round of funding led by Investec Emerging Companies. The 2017-founded company is…*
+      - *Before Nick Macario launched Verifiable, the Austin-based company that just raised $3 million for its api toolkit that verifies healthcare credentials, he ran a series of other businesses designed to offer public credentials for professionals. His first foray…*
       
-  - Math learning platform Knowledgehook raises £13.5M Series A to expand globally
+  - Splunk acquires Plumbr and Rigor to build out its observability platform
       <hr/>
       
-      - *Given the nature of the COVID-19 pandemic, millions of students have switched to online learning. So whereas EdTech used to be somewhat of an also-ran in the venture stakes, it has now become one fo the hottest spaces on the planet. It’s therefore of title su…*
+      - *Data platform Splunk today announced that it has acquired two startups, Plumbr and Rigor, to build out its new Observability Suite, which is also launching today. Plumbr is an application performance monitoring service, while Rigor focuses on digital experien…*
        
-  - Dublin's LearnUpon raises $56M for its online learning management system for enterprises
+  - Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge
       <hr/>
        
-       - *One big technology by-product of the Covid-19 pandemic has been a much stronger focus on online education solutions — providing the tools for students to continue learning when the public health situation is preventing them from going into physical classrooms…*
+       - *In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT, and more), different price points, and varying capabilitie…*
       
 
 
