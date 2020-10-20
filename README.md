@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 
 ~ Linus Torvalds
 <pre>
@@ -67,30 +67,30 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 
 </pre>
 **Daily News**
-  - Apple HomePod update brings Intercom and other new features
+  - Netflix to test free weekend-long access in India
      <hr/>
      
-      - *Apple HomePod owners, starting today, will be able to use the newly announced “Intercom” feature to send messages between their HomePod smart speakers. The feature, which arrives via a software update, brings this and several other new features to Apple’s sma…*
+      - *Netflix plans to give users in India access to its service at no charge for a weekend as part of a test to expand its reach in the country, a company executive said Tuesday. The American streaming giant, which reported slow users growth for the quarter that e…*
      
+  - Daily Crunch: DOJ files antitrust suit against Google
+      <hr/>
+      
+      - *Google faces a big antitrust suit, Amazon offers to pay customers for shopping data and we review the iPhone 12. This is your Daily Crunch for October 20, 2020. The big story: DOJ files antitrust suit against Google The suit accuses Google of “unlawfully main…*
+      
+  - Apple HomePod update brings Intercom and other new features
+      <hr/>
+      
+      - *Apple HomePod owners, starting today, will be able to use the newly announced “Intercom” feature to send messages between their HomePod smart speakers. The feature, which arrives via a software update, brings this and several other new features to Apple’s sma…*
+      
   - Now may be the best time to become a full-stack developer
       <hr/>
       
       - *You may not have full knowledge, skills and understanding of everything immediately but you'll position yourself at the forefront of the world’s software development needs right off the bat.*
-      
+       
   - Cloud Foundry coalesces around Kubernetes
       <hr/>
-      
-      - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
-      
-  - Synthetaic raises $3.5M to train AI with synthetic data
-      <hr/>
-      
-      - *Synthetaic is a startup workign to create data — specifically images — that can be used to train artificial intelligence. Founder and CEO Corey Jaskolski’s past experience includes work with both National Geographic (where he was recently named Explorer of th…*
        
-  - Snap shares explode after blowing past earnings expectations
-      <hr/>
-       
-       - *Snap shares were up nearly 20% in after-hours trading after the company showcased a massive earnings beat, besting analyst expectations on both revenue and earnings per share for Q3. The company was already hovering above an all-time-high, with Tuesday’s beat…*
+       - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
       
 
 
