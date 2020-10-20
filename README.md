@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 
-~ Harlan Mills
+~ Maurice Wilkes
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 
 </pre>
 **Daily News**
-  - Unusual Ventures' Sarah Leary and John Vrionis join Extra Crunch Live today at 2 p.m. ET/11 a.m. PT
+  - Robotic kitchen startup YPC raises a $1.8M seed round
      <hr/>
      
-      - *Today at 2 p.m. ET/11 a.m. PT, Unusual Ventures’ Sarah Leary and John Vrionis are joining us over at the Extra Crunch Live stage! The Unusual Ventures team has investments spanning the consumer and enterprise space, including Robinhood, AppDynamics, Mulesoft,…*
+      - *Montreal-based YPC Technologies today announced that it has raised a $1.8 million seed round. Led by Hike Ventures and Real Ventures, the funding includes participation from Toyota AI Ventures and Uphill Capital, among others, designed to help the company pil…*
      
-  - Pickle app puts on users, as millennials/Gen-Z latch onto location apps to fight Covid lockdowns
+  - As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio
       <hr/>
       
-      - *As the coming of winter combined with the coronavirus continues to put new restrictions on peoples’ movements, location-based apps are on the rise again. People are looking to find out who is close to them. Who is in their community. People are understandably…*
+      - *Even as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game’s early development team. Blizzard vets Tim Morten, the former pr…*
       
-  - The Polaris Slingshot R is a 3-wheel pocket rocket begging for electrification
+  - As startups accelerate in record Q3, Europe and Asia rack up huge VC results
       <hr/>
       
-      - *The Polaris Slingshot has always wowed. Three wheels, open cockpit, and a design reminiscent of the Batmobile. It draws a crowd and is a blast to drive. I spent several weeks in the reworked Polaris Slingshot. The company just unveiled a new version that is f…*
+      - *Venture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates. The two continents enjoyed more venture capital investment into their local startups than in some time, underscoring that strong VC results the United States saw in…*
       
-  - Instagram rolls out fan badges for live videos, expands IGTV ads test
+  - Leading a $15 million round, Prosus Ventures makes the challenger bank Klar its first bet in Mexico
       <hr/>
       
-      - *Instagram is today introducing a new way for creators to make money. The company is now rolling out badges in Instagram Live to an initial group of over 50,000 creators, who will be able to offer their fans the ability to purchase badges during their live vid…*
+      - *Klar, a new online bank based in Mexico City, has become the first big bet that Prosus Ventures (the firm formerly known as Naspers Ventures) is taking in Latin America outside of Brazil. Founded by Stefan Moller, a former consultant at Bain & Co. who advised…*
        
-  - Index nabs $2.6M seed to create BI dashboards without coding
+  - Sym raises $9M Series A for its security workflow platform
       <hr/>
        
-       - *Index founders, Xavier Pladevall and Eduardo Portet, have been friends since they were small children in the Dominican Republic. Both came to college in the U.S., and last year the two decided to launch a startup to help non-technical users build business int…*
+       - *Sym, a new platform that makes it easier for developers to integrate security and privacy workflows into their process, today announced that it has raised a $9 million Series A round led by Amplify Partners. Earlier this year, the company announced its $3 mil…*
       
 
 
