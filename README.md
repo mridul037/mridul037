@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
 
-~ Alan Turing
+~ Buckminster Fuller
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A computer would deserve to be called intelligent if it could deceive a human in
 
 </pre>
 **Daily News**
-  - Eat Just partners with Proterra to launch a new subsidiary in Asia
+  - Trilo lets merchants offer rewards to customers choosing bank-to-bank payments
      <hr/>
      
-      - *Eat Just, the plant-based food startup, is launching a new Asian subsidiary through a partnership with Proterra Investment Partners Asia. The agreement includes building Eat Just’s first factory in Asia, which will be based in Singapore. As part of the deal, …*
+      - *Open banking enables bank-to-bank payments, meaning that (in theory) merchants should be able to accept payments without having to hand over fees to Visa or Mastercard or other payment providers, such as Stripe. The challenge, however, isn’t just implementing…*
      
+  - Eat Just partners with Proterra to launch a new subsidiary in Asia
+      <hr/>
+      
+      - *Eat Just, the plant-based food startup, is launching a new Asian subsidiary through a partnership with Proterra Investment Partners Asia. The agreement includes building Eat Just’s first factory in Asia, which will be based in Singapore. As part of the deal, …*
+      
   - Intel agrees to sell its NAND business to SK Hynix for $9 billion
       <hr/>
       
@@ -81,16 +86,11 @@ A computer would deserve to be called intelligent if it could deceive a human in
       <hr/>
       
       - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
-      
+       
   - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
       <hr/>
-      
-      - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
        
-  - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
-      <hr/>
-       
-       - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
+       - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
       
 
 
