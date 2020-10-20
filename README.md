@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Donald Knuth
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We should forget about small efficiencies, say about 97% of the time: premature 
 
 </pre>
 **Daily News**
-  - Snap shares explode after blowing past earnings expectations
+  - Apple HomePod update brings Intercom and other new features
      <hr/>
      
-      - *Snap shares were up nearly 20% in after-hours trading after the company showcased a massive earnings beat, besting analyst expectations on both revenue and earnings per share for Q3. The company was already hovering above an all-time-high, with Tuesday’s beat…*
+      - *Apple HomePod owners, starting today, will be able to use the newly announced “Intercom” feature to send messages between their HomePod smart speakers. The feature, which arrives via a software update, brings this and several other new features to Apple’s sma…*
      
-  - Here's why Netflix shares are off after reporting earnings
+  - Now may be the best time to become a full-stack developer
       <hr/>
       
-      - *Shares of consumer video service Netflix are down sharply after the bell today, following the company’s Q3 earnings report. Why is Netflix suddenly worth about 5% less than before? A mixed earnings report, a disappointing new paying customer number, and sligh…*
+      - *You may not have full knowledge, skills and understanding of everything immediately but you'll position yourself at the forefront of the world’s software development needs right off the bat.*
       
-  - Netflix user growth slows as production ramps up again
+  - Cloud Foundry coalesces around Kubernetes
       <hr/>
       
-      - *After the COVID-19 pandemic drove impressive subscriber growth earlier this year, Netflix’s numbers have come back down to Earth. The streaming service added 15.77 million net new subscribers in the first quarter of the year, followed by 10.09 million in Q2. …*
+      - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
       
-  - Adobe brings its misinformation-fighting content attribution tool to the Photoshop beta
+  - Synthetaic raises $3.5M to train AI with synthetic data
       <hr/>
       
-      - *Adobe’s work on a chain of custody that could link online images back to their origins is inching closer to becoming a reality. The prototype, part of the Content Authenticity Initiative (CAI), will soon appear in the beta of Photoshop, Adobe’s ubiquitous ima…*
+      - *Synthetaic is a startup workign to create data — specifically images — that can be used to train artificial intelligence. Founder and CEO Corey Jaskolski’s past experience includes work with both National Geographic (where he was recently named Explorer of th…*
        
-  - How to 'watch' NASA's OSIRIS-REx snatch a sample from near-Earth asteroid Bennu
+  - Snap shares explode after blowing past earnings expectations
       <hr/>
        
-       - *NASA’s OSIRIS-REx probe is about to touch down on an asteroid for a smash-and-grab mission, and you can follow its progress live — kind of. The craft is scheduled to perform its collection operation this afternoon, and we’ll know within minutes if all went ac…*
+       - *Snap shares were up nearly 20% in after-hours trading after the company showcased a massive earnings beat, besting analyst expectations on both revenue and earnings per share for Q3. The company was already hovering above an all-time-high, with Tuesday’s beat…*
       
 
 
