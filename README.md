@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The entire history of software engineering is that of the rise in levels of abstraction.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Grady Booch
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The entire history of software engineering is that of the rise in levels of abst
 
 </pre>
 **Daily News**
-  - Genies updates its software development kit and partners with Gucci, Giphy
+  - Unusual Ventures' Sarah Leary and John Vrionis join Extra Crunch Live today at 2 p.m. ET/11 a.m. PT
      <hr/>
      
-      - *Genies, has updated its software development kit and added Giphy and Gucci as new partners to enable their users to create personalized Genie avatars. The company released the first version of its sdk in 2018 when it raised a $10 million to directly challenge…*
+      - *Today at 2 p.m. ET/11 a.m. PT, Unusual Ventures’ Sarah Leary and John Vrionis are joining us over at the Extra Crunch Live stage! The Unusual Ventures team has investments spanning the consumer and enterprise space, including Robinhood, AppDynamics, Mulesoft,…*
      
-  - Security testing firm NSS Labs ceases operations, citing coronavirus
+  - Pickle app puts on users, as millennials/Gen-Z latch onto location apps to fight Covid lockdowns
       <hr/>
       
-      - *The company shuttered on October 15.*
+      - *As the coming of winter combined with the coronavirus continues to put new restrictions on peoples’ movements, location-based apps are on the rise again. People are looking to find out who is close to them. Who is in their community. People are understandably…*
       
-  - Stotles secures funding for platform which brings transparency to government tenders, contracts
+  - The Polaris Slingshot R is a 3-wheel pocket rocket begging for electrification
       <hr/>
       
-      - *The public sector usually publishes its business opportunities in the form of ‘tenders,’ to increase transparency to the public. However, this data is scattered, and larger businesses have access to more information, giving them opportunities to grab contract…*
+      - *The Polaris Slingshot has always wowed. Three wheels, open cockpit, and a design reminiscent of the Batmobile. It draws a crowd and is a blast to drive. I spent several weeks in the reworked Polaris Slingshot. The company just unveiled a new version that is f…*
       
-  - Venn, a network hoping to be gaming's answer to MTV, raises $26 million
+  - Instagram rolls out fan badges for live videos, expands IGTV ads test
       <hr/>
       
-      - *VENN , the streaming network hoping to be gaming culture’s answer to MTV, has raised $26 million to bring its mix of video game-themed entertainment and streaming celebrity features to the masses. The financing came from previous investor Bitkraft, one of the…*
+      - *Instagram is today introducing a new way for creators to make money. The company is now rolling out badges in Instagram Live to an initial group of over 50,000 creators, who will be able to offer their fans the ability to purchase badges during their live vid…*
        
-  - Justice Department will reportedly file its antitrust lawsuit against Google today
+  - Index nabs $2.6M seed to create BI dashboards without coding
       <hr/>
        
-       - *The Justice Department is expected to file its long-awaited antitrust lawsuit against Google later today, according to a report from The Wall Street Journal. In the suit, the Justice Department is expected to argue that Google used anticompetitive practices t…*
+       - *Index founders, Xavier Pladevall and Eduardo Portet, have been friends since they were small children in the Dominican Republic. Both came to college in the U.S., and last year the two decided to launch a startup to help non-technical users build business int…*
       
 
 
