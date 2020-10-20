@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ L. Peter Deutsch
+~ Jan L. A. van de Snepscheut
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I would make a strong case that programming languages have not improved qualitat
 
 </pre>
 **Daily News**
-  - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
+  - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
      <hr/>
      
-      - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
+      - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
      
+  - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
+      <hr/>
+      
+      - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
+      
   - Lee Fixel burnishes his reputation, raising his second massive fund in 2020
       <hr/>
       
@@ -81,16 +86,11 @@ I would make a strong case that programming languages have not improved qualitat
       <hr/>
       
       - *TikTok has been cracking down on QAnon-related content, in line with similar moves by other major social media companies, including Facebook and YouTube, which focus on reducing the spread the baseless conspiracy theory across their respective platforms. Acco…*
-      
+       
   - Daily Crunch: Pakistan un-bans TikTok
       <hr/>
-      
-      - *TikTok returns to Pakistan, Apple launches a music-focused streaming station and SpaceX launches more Starlink satellites. This is your Daily Crunch for October 19, 2020. The big story: Pakistan un-bans TikTok The Pakistan Telecommunication Authority blocked …*
        
-  - Amazon Echo Dot with Clock review: A mostly aesthetic update
-      <hr/>
-       
-       - *It’s been a busy few weeks for smart speakers. Amazon kicked things off in late September with newer, rounder versions of both the Echo and Echo Dot. Less than a week later, Google updated the Home, after four years, with the rebranded Nest Audio. And then, l…*
+       - *TikTok returns to Pakistan, Apple launches a music-focused streaming station and SpaceX launches more Starlink satellites. This is your Daily Crunch for October 19, 2020. The big story: Pakistan un-bans TikTok The Pakistan Telecommunication Authority blocked …*
       
 
 
