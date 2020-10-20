@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 
-~ Fred Brooks
+~ Chris Sacca
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The management question, therefore, is not whether to build a pilot system and t
 
 </pre>
 **Daily News**
-  - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
+  - Intel agrees to sell its NAND business to SK Hynix for $9 billion
      <hr/>
      
-      - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
+      - *SK Hynix, one of the world’s largest chip makers, announced today it will pay $9 billion for Intel’s flash memory business. Intel said it will use proceeds from the deal to focus on artificial intelligence, 5G and edge computing. “For Intel, this transaction …*
      
+  - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
+      <hr/>
+      
+      - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
+      
   - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
       <hr/>
       
@@ -81,16 +86,11 @@ The management question, therefore, is not whether to build a pilot system and t
       <hr/>
       
       - *SAIF Partners has raised $400 million for a new fund and rebranded the 18-year-old influential venture capital firm as it looks to back more early-stage startups in the world’s second largest internet market. The new fund is SAIF Partners’ seventh for early-s…*
-      
+       
   - Lee Fixel burnishes his reputation, raising his second massive fund in 2020
       <hr/>
-      
-      - *On Friday, former Tiger Global Management investor Lee Fixel registered plans for the second fund of his new investment firm, Addition, just four months after closing the first. But investors who were shut out of that $1.3 billion debut fund and who might hav…*
        
-  - TikTok's QAnon ban has been 'buggy'
-      <hr/>
-       
-       - *TikTok has been cracking down on QAnon-related content, in line with similar moves by other major social media companies, including Facebook and YouTube, which focus on reducing the spread the baseless conspiracy theory across their respective platforms. Acco…*
+       - *On Friday, former Tiger Global Management investor Lee Fixel registered plans for the second fund of his new investment firm, Addition, just four months after closing the first. But investors who were shut out of that $1.3 billion debut fund and who might hav…*
       
 
 
