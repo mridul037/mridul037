@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 
-~ Ray Ozzie
+~ John Carmack
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Programming is the ultimate field for someone who likes to tinker.
 
 </pre>
 **Daily News**
-  - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
+  - Trump says 'nobody gets hacked' but forgot his hotel chain was hacked -- twice
      <hr/>
      
-      - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
+      - *Hackers don't need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.*
      
+  - ShopUp raises $22.5 million to digitize millions of mom-and-pop shops in Bangladesh
+      <hr/>
+      
+      - *A startup that is aiming to digitize millions of neighborhood stores in Bangladesh just raised the country’s largest Series A financing round. Dhaka-headquartered ShopUp said on Tuesday it has raised $22.5 million in a round co-led by Sequoia Capital India an…*
+      
   - SAIF Partners rebrands as Elevation Capital, secures $400 million for its new India fund
       <hr/>
       
@@ -81,16 +86,11 @@ Programming is the ultimate field for someone who likes to tinker.
       <hr/>
       
       - *On Friday, former Tiger Global Management investor Lee Fixel registered plans for the second fund of his new investment firm, Addition, just four months after closing the first. But investors who were shut out of that $1.3 billion debut fund and who might hav…*
-      
+       
   - TikTok's QAnon ban has been 'buggy'
       <hr/>
-      
-      - *TikTok has been cracking down on QAnon-related content, in line with similar moves by other major social media companies, including Facebook and YouTube, which focus on reducing the spread the baseless conspiracy theory across their respective platforms. Acco…*
        
-  - Daily Crunch: Pakistan un-bans TikTok
-      <hr/>
-       
-       - *TikTok returns to Pakistan, Apple launches a music-focused streaming station and SpaceX launches more Starlink satellites. This is your Daily Crunch for October 19, 2020. The big story: Pakistan un-bans TikTok The Pakistan Telecommunication Authority blocked …*
+       - *TikTok has been cracking down on QAnon-related content, in line with similar moves by other major social media companies, including Facebook and YouTube, which focus on reducing the spread the baseless conspiracy theory across their respective platforms. Acco…*
       
 
 
