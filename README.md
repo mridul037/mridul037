@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The button is working, only, it cannot be seen.
+The most important single aspect of software development is to be clear about what you are trying to build.
 
-~ Anonymous
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The button is working, only, it cannot be seen.
 
 </pre>
 **Daily News**
-  - Watch GM unveil the $80,000 GMC Hummer EV right here
+  - Political strategist turned tech investor Bradley Tusk on SPACs as a tool for VCs
      <hr/>
      
-      - *GM just took the wraps off the Hummer EV and it looks great. The vehicle is coming to dealers in 2022, with pre-orders starting in 2021. You can watch the unveiling here. The vehicle is detailed here. With 1,000 HP, 350 mile range, and autonomous drive modes,…*
+      - *Bradley Tusk has become known in recent years for being involved in what’s about to get hot, from his early days advising Uber, to writing one of the first checks to the insurance startup Lemonade, to pushing forward the idea that we should be using the smart…*
      
+  - Watch GM unveil the $80,000 GMC Hummer EV right here
+      <hr/>
+      
+      - *GM just took the wraps off the Hummer EV and it looks great. The vehicle is coming to dealers in 2022, with pre-orders starting in 2021. You can watch the unveiling here. The vehicle is detailed here. With 1,000 HP, 350 mile range, and autonomous drive modes,…*
+      
   - AOC aims to get out the vote by streaming Among Us with pokimane and HasanAbi
       <hr/>
       
@@ -81,16 +86,11 @@ The button is working, only, it cannot be seen.
       <hr/>
       
       - *GMC has a new all-electric version of its classic Hummer oversized SUV. This thing is a beast, as you might expect, with an advertised 350-mile range and a 3-second zero to 60 mph time. It’s a bit ridiculous to be honest, which is kind of what the Hummer has …*
-      
+       
   - GMC reveals the Hummer EV: 1,000 HP, 350 mile range, and 0-60 in "around 3 seconds"
       <hr/>
-      
-      - *General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). Yes, it sort of looks like the Tesla Cybertruck. Several key stats stick above the r…*
        
-  - After historic OSIRIS-REx asteroid sample collection, Lockheed Martin VP Lisa Callahan will join us at TC Sessions: Space
-      <hr/>
-       
-       - *This December 16 and 17, we’re hosting our very first TC Sessions: Space event. It’ll be a virtual, live-streamed two-day show, including conversations with some of the best and brightest in the space industry. We’re thrilled to be hosting Lisa Callahan, Vice…*
+       - *General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). Yes, it sort of looks like the Tesla Cybertruck. Several key stats stick above the r…*
       
 
 
