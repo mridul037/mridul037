@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Object-oriented design is the roman numerals of computing.
+It is easier to change the specification to fit the program than vice versa.
 
-~ Rob Pike
+~ Alan Perlis
 <pre>
 
 </pre>
