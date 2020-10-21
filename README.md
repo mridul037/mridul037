@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ Joe Armstrong (programmer)
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you start removing things, if you get to the point where if you were to remov
 
 </pre>
 **Daily News**
-  - This serial founder is taking on Carta with cap table management software she says is better for founders
+  - Datto trades modestly higher after pricing IPO at top of range
      <hr/>
      
-      - *Yin Wu has cofounded several companies since graduating from Stanford in 2011, including a computer vision company called Double Labs that sold to Microsoft, where she stayed on for a couple of years as a software engineer. In fact, it was only after that sal…*
+      - *After pricing at $27 per share, Datto’s stock rose during regular trading. By mid-afternoon the data and security software company was worth $28.10, up a hair over 4%. The company’s IPO comes on the back of a rapid-fire Q3 in which a host of technology compan…*
      
+  - Dear Sophie: What visa options exist for a grad co-founding a startup?
+      <hr/>
+      
+      - *What are the visa prospects for a graduate completing an advanced degree at a university in the United States who wants to co-found a startup after graduation? Can the new startup or my co-founders sponsor me for a visa?*
+      
+  - This serial founder is taking on Carta with cap table management software she says is better for founders
+      <hr/>
+      
+      - *Yin Wu has cofounded several companies since graduating from Stanford in 2011, including a computer vision company called Double Labs that sold to Microsoft, where she stayed on for a couple of years as a software engineer. In fact, it was only after that sal…*
+      
   - Founders don't need to be full-time to start raising venture capital
       <hr/>
       
       - *“More than 50% of our founders still are in their current jobs,” said John Vrionis, co-founder of seed-stage fund Unusual Ventures. The fund, which closed a $400 million investment vehicle in November 2019, has noticed that more and more startup employees are…*
-      
+       
   - Boston Dynamics’ Spot is getting an arm and self-charging dock next year
       <hr/>
-      
-      - *Boston Dynamics’ new CEO Rob Playter told TechCrunch that the company has now sold around 260 of its sophisticated Spot robot as of his appearance at Disrupt last month. While the company faced some questions about the commercial appeal of the $75,000 robot, …*
-      
-  - Rocket Lab's Peter Beck is coming to TC Sessions: Space 2020
-      <hr/>
-      
-      - *Over the last few years Rocket Lab has gone from its very first orbital launch to regular commercial missions, with the goal of being the most responsive launch provider on the planet. Founder and CEO Peter Beck will join us at our all virtual TC Sessions: Sp…*
        
-  - Prop 22 opponents say Yes on 22 should not be able to mail flyers as nonprofit
-      <hr/>
-       
-       - *Opponents of California’s Proposition 22, the measure that seeks to continue classifying rideshare drivers and delivery workers as independent contractors, filed a complaint this morning with the United States Postal Service. The No on 22 campaign alleges the…*
+       - *Boston Dynamics’ new CEO Rob Playter told TechCrunch that the company has now sold around 260 of its sophisticated Spot robot as of his appearance at Disrupt last month. While the company faced some questions about the commercial appeal of the $75,000 robot, …*
       
 
 
