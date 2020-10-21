@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Edsger W. Dijkstra
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Don't blame me for the fact that competent programming will be too difficult for
 
 </pre>
 **Daily News**
-  - EU parliament backs tighter rules on behavioural ads
+  - Road trippers can rejoice as RVShare raises over $100 million to grow its RV rental business
      <hr/>
      
-      - *The EU parliament has backed a call for tighter regulations on behavioral ads (aka microtargeting) in favor of less intrusive, contextual forms of advertising — urging Commission lawmakers to also assess further regulatory options, including looking at a phas…*
+      - *As continentally confined Americans look for domestic vacation options that won’t expose them to too much risk of infection from the pandemic that’s still raging across the country, the RV rental company RVshare has raised over $100 million to capitalize on i…*
      
+  - MindLabs raises £1.4 million for its new platform, a "Peloton for mental health"
+      <hr/>
+      
+      - *Ideally, mental wellness should be considered part of a healthy daily routine, like exercise. But even exercise is difficult to turn into a regular habit. Peloton addressed physical fitness by combining smart stationary bikes with live classes and community f…*
+      
+  - EU parliament backs tighter rules on behavioural ads
+      <hr/>
+      
+      - *The EU parliament has backed a call for tighter regulations on behavioral ads (aka microtargeting) in favor of less intrusive, contextual forms of advertising — urging Commission lawmakers to also assess further regulatory options, including looking at a phas…*
+      
   - Facebook is working on Neighborhoods, a Nextdoor clone based on local groups
       <hr/>
       
       - *Using social networks to connect with neighbors and local services has surged during the Covid-19 pandemic, and Facebook — with 2.7 billion users globally — is now looking at how it can tap into that in a more direct way. In the same week that it was reported…*
-      
+       
   - Study finds most big open-source startups outside Bay Area, many European, and avoiding VC
       <hr/>
-      
-      - *Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study. The “ROSS Index”, created by Runa Capital lists the fastest-growing open-sou…*
-      
-  - Watch the trailer for 'First Person,' a climate-focused series shot on Snapchat Spectacles
-      <hr/>
-      
-      - *Snapchat is about to launch “First Person,” the first of its original series to be shot on Snapchat Spectacles. The idea of filming a documentary using AR-centric eyewear might sound gimmicky, but “First Person” is tackling a weighty topic: climate change. Th…*
        
-  - Political strategist turned tech investor Bradley Tusk on SPACs as a tool for VCs
-      <hr/>
-       
-       - *Bradley Tusk has become known in recent years for being involved in what’s about to get hot, from his early days advising Uber, to writing one of the first checks to the insurance startup Lemonade, to pushing forward the idea that we should be using the smart…*
+       - *Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study. The “ROSS Index”, created by Runa Capital lists the fastest-growing open-sou…*
       
 
 
