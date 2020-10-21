@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 
-~ Linus Torvalds
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
