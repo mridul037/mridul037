@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One accurate measurement is worth more than a thousand expert opinions.
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 
-~ Grace Hopper
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One accurate measurement is worth more than a thousand expert opinions.
 
 </pre>
 **Daily News**
-  - Mine raises $9.5M to help people take control of their personal data
+  - Bob Iger goes from managing Mickey to directing a milk replacement startup as new Perfect Day boardmember
      <hr/>
      
-      - *TechCrunch readers probably know that privacy regulations like Europe’s GDPR and California’s CCPA give them additional rights around their personal data — like the ability to request that companies delete your data. But how many of you have actually exercise…*
+      - *Bob Iger, the chairman and former chief executive at Walt Disney is trading his mouse ears for milk substitutes as the new director of massively funded dairy replacement startup Perfect Day. Milk substitutes are a $1 trillion category and Perfect Day is angli…*
      
+  - Wrike launches new AI tools to keep your projects on track
+      <hr/>
+      
+      - *Project management service Wrike today announced a major update to its platform at its user conference that includes a lot of new AI smarts for keeping individual projects on track and on time, as well as new solutions for marketers and project management off…*
+      
+  - Lessons from Datto’s IPO pricing and revenue multiple
+      <hr/>
+      
+      - *Last night Datto priced its IPO at $27 per share, the top end of its range that TechCrunch covered last week. The data and security-focused software company had targeted a $24 to $27 per-share IPO price range, meaning that its final per-share value was at the…*
+      
+  - Mine raises $9.5M to help people take control of their personal data
+      <hr/>
+      
+      - *TechCrunch readers probably know that privacy regulations like Europe’s GDPR and California’s CCPA give them additional rights around their personal data — like the ability to request that companies delete your data. But how many of you have actually exercise…*
+       
   - Join Extra Crunch Live on October 27 for a conversation on early stage and storytelling success with GV's M.G. Siegler
       <hr/>
-      
-      - *If anyone knows early stage investing and startups, it’s M.G. Siegler. As a General Partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
-      
-  - Sam’s Club will deploy autonomous floor-scrubbing robots in all of its U.S. locations
-      <hr/>
-      
-      - *The past six months have seen a fairly aggressive acceleration in the option of robotics and automation as companies look for ways to augment (and, likely, replace in some instances) human workers. The appeal is certainly clear during massive pandemic-fueled …*
-      
-  - Amazon's Whole Foods now offers one-hour pickup to Prime members at all locations
-      <hr/>
-      
-      - *Amazon is now offering Prime members one-hour grocery pickup at all Whole Foods Market locations across the U.S., the company announced this morning. Prime members can use the Amazon app or website to place orders from the Whole Foods Market tab to shop, then…*
        
-  - Landing AI launches new visual inspection platform for manufacturers
-      <hr/>
-       
-       - *As companies manufacturer goods, human inspectors review them for defects. Think of a scratch on smartphone glass or a weakness in raw steel that could have an impact downstream when it gets turned into something else. Landing AI, the company started by forme…*
+       - *If anyone knows early stage investing and startups, it’s M.G. Siegler. As a General Partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
       
 
 
