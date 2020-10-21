@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As with most projects, the last two percent takes fifty percent of the time.
+Computer programs are the most complex things that humans make.
 
-~ John Warnock
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ As with most projects, the last two percent takes fifty percent of the time.
 
 </pre>
 **Daily News**
-  - Tesla wows on latest numbers
+  - Gillmor Gang: Something Goes Right
      <hr/>
      
-      - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
+      - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
      
+  - Tesla wows on latest numbers
+      <hr/>
+      
+      - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
+      
   - Quibi is dead
       <hr/>
       
@@ -81,16 +86,11 @@ As with most projects, the last two percent takes fifty percent of the time.
       <hr/>
       
       - *The Coalition for App Fairness (CAF), a newly-formed advocacy group pushing for increased regulation over app stores, has more than doubled in size with today’s announcement of 20 new partners — just one month after its launch. The organization, led by top ap…*
-      
+       
   - Datto trades modestly higher after pricing IPO at top of range
       <hr/>
-      
-      - *After pricing at $27 per share, Datto’s stock rose during regular trading. By mid-afternoon the data and security software company was worth $28.10, up a hair over 4%. The company’s IPO comes on the back of a rapid-fire Q3 in which a host of technology compan…*
        
-  - Dear Sophie: What visa options exist for a grad co-founding a startup?
-      <hr/>
-       
-       - *What are the visa prospects for a graduate completing an advanced degree at a university in the United States who wants to co-found a startup after graduation? Can the new startup or my co-founders sponsor me for a visa?*
+       - *After pricing at $27 per share, Datto’s stock rose during regular trading. By mid-afternoon the data and security software company was worth $28.10, up a hair over 4%. The company’s IPO comes on the back of a rapid-fire Q3 in which a host of technology compan…*
       
 
 
