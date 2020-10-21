@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+The button is working, only, it cannot be seen.
 
-~ Edsger W. Dijkstra
+~ Anonymous
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Testing can be a very effective way to show the presence of bugs, but it is hope
 
 </pre>
 **Daily News**
-  - Netflix to test free weekend-long access in India
+  - Watch GM unveil the $80,000 GMC Hummer EV right here
      <hr/>
      
-      - *Netflix plans to give users in India access to its service at no charge for a weekend as part of a test to expand its reach in the country, a company executive said Tuesday. The American streaming giant, which reported slow users growth for the quarter that e…*
+      - *GM just took the wraps off the Hummer EV and it looks great. The vehicle is coming to dealers in 2022, with pre-orders starting in 2021. You can watch the unveiling here. The vehicle is detailed here. With 1,000 HP, 350 mile range, and autonomous drive modes,…*
      
-  - Daily Crunch: DOJ files antitrust suit against Google
+  - AOC aims to get out the vote by streaming Among Us with pokimane and HasanAbi
       <hr/>
       
-      - *Google faces a big antitrust suit, Amazon offers to pay customers for shopping data and we review the iPhone 12. This is your Daily Crunch for October 20, 2020. The big story: DOJ files antitrust suit against Google The suit accuses Google of “unlawfully main…*
+      - *We are about seven months into a pandemic and just two weeks from a presidential election. At this point, surprises are a dime a dozen. So it should feel very 2020 that Rep. Alexandria Ocasio-Cortez is about to stream Among Us, the hit game of 2020, on Twitch…*
       
-  - Apple HomePod update brings Intercom and other new features
+  - Feast your eyes on the all-new, all-electric GMC Hummer EV
       <hr/>
       
-      - *Apple HomePod owners, starting today, will be able to use the newly announced “Intercom” feature to send messages between their HomePod smart speakers. The feature, which arrives via a software update, brings this and several other new features to Apple’s sma…*
+      - *GMC has a new all-electric version of its classic Hummer oversized SUV. This thing is a beast, as you might expect, with an advertised 350-mile range and a 3-second zero to 60 mph time. It’s a bit ridiculous to be honest, which is kind of what the Hummer has …*
       
-  - Now may be the best time to become a full-stack developer
+  - GMC reveals the Hummer EV: 1,000 HP, 350 mile range, and 0-60 in "around 3 seconds"
       <hr/>
       
-      - *You may not have full knowledge, skills and understanding of everything immediately but you'll position yourself at the forefront of the world’s software development needs right off the bat.*
+      - *General Motors today revealed the GMC Hummer EV, its first electric pickup. The vehicle has a 350 range, 1,000 HP, and up to 11,500 pound feet of torque (through fuzzy math). Yes, it sort of looks like the Tesla Cybertruck. Several key stats stick above the r…*
        
-  - Cloud Foundry coalesces around Kubernetes
+  - After historic OSIRIS-REx asteroid sample collection, Lockheed Martin VP Lisa Callahan will join us at TC Sessions: Space
       <hr/>
        
-       - *In a normal year, the Cloud Foundry project would be hosting its annual European Summit in Dublin this week. But this is 2020, so it’s a virtual event. This year, however, has been a bit of a transformative year for the open-source Platform-as-a-Service proje…*
+       - *This December 16 and 17, we’re hosting our very first TC Sessions: Space event. It’ll be a virtual, live-streamed two-day show, including conversations with some of the best and brightest in the space industry. We’re thrilled to be hosting Lisa Callahan, Vice…*
       
 
 
