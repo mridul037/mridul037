@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+One accurate measurement is worth more than a thousand expert opinions.
 
-~ Fred Brooks
+~ Grace Hopper
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 
 </pre>
 **Daily News**
-  - How Yext reinvented itself on its way to going public
+  - Mine raises $9.5M to help people take control of their personal data
      <hr/>
      
-      - *Last week, Yext CEO Howard Lerman dropped by Extra Crunch Live for a chat about his former startup, pivoting and becoming the CEO of a public company. Yext, which focuses on business information and enterprise search products, went public in 2017, making it o…*
+      - *TechCrunch readers probably know that privacy regulations like Europe’s GDPR and California’s CCPA give them additional rights around their personal data — like the ability to request that companies delete your data. But how many of you have actually exercise…*
      
-  - TikTok details how it's taking further action against hateful ideologies
+  - Join Extra Crunch Live on October 27 for a conversation on early stage and storytelling success with GV's M.G. Siegler
       <hr/>
       
-      - *TikTok said on Wednesday it’s strengthening its enforcement actions against hate speech and hateful ideologies to include “neighboring ideologies,” like white nationalism and others, as well as statements that emerge from those ideologies. In a blog post, Tik…*
+      - *If anyone knows early stage investing and startups, it’s M.G. Siegler. As a General Partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
       
-  - SoftBank's $100 million diversity and inclusion fund makes its first bet ... in health Vitable Health
+  - Sam’s Club will deploy autonomous floor-scrubbing robots in all of its U.S. locations
       <hr/>
       
-      - *SoftBank’s Opportunity Growth Fund has made the health insurance startup Vitable Health the first commitment from its $100 million fund dedicated to investing in startups founded by entrepreneurs of color. The Philadelphia-based company, which recently launch…*
+      - *The past six months have seen a fairly aggressive acceleration in the option of robotics and automation as companies look for ways to augment (and, likely, replace in some instances) human workers. The appeal is certainly clear during massive pandemic-fueled …*
       
-  - AOC's Among Us stream topped 435,000 concurrent viewers
+  - Amazon's Whole Foods now offers one-hour pickup to Prime members at all locations
       <hr/>
       
-      - *Last night, Rep. Alexandria Ocasio-Cortez went live on Twitch to stream Among Us with a handful of superstar streamers. The purpose of the stream, which drew a massive crowd, was to get out the vote as we head into the general election. At its peak, the strea…*
+      - *Amazon is now offering Prime members one-hour grocery pickup at all Whole Foods Market locations across the U.S., the company announced this morning. Prime members can use the Amazon app or website to place orders from the Whole Foods Market tab to shop, then…*
        
-  - Anyscale adds $40M to bring its Ray-based distributed computing tech to the enterprise masses
+  - Landing AI launches new visual inspection platform for manufacturers
       <hr/>
        
-       - *The world of distributed computing took on a new profile this year when Folding@home, a 20-year-old distributed computing project, found itself picking up thousands of new volunteers to help Covid-19 researchers generate more computing power to fold proteins …*
+       - *As companies manufacturer goods, human inspectors review them for defects. Think of a scratch on smartphone glass or a weakness in raw steel that could have an impact downstream when it gets turned into something else. Landing AI, the company started by forme…*
       
 
 
