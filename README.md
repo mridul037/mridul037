@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The Domain Name Server (DNS) is the Achilles heel of the Web.
+Fancy algorithms are slow when n is small, and n is usually small.
 
-~ Tim Berners-Lee
+~ Rob Pike
 <pre>
 
 </pre>
