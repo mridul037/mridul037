@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 
-~ Daniel T. Barry
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Ed Adams of IBM found that 80% of the reliability problems are caused by only 2%
 
 </pre>
 **Daily News**
-  - Bob Iger goes from managing Mickey to directing a milk replacement startup as new Perfect Day boardmember
+  - Boston Dynamics’ Spot is getting an arm and self-charging dock next year
      <hr/>
      
-      - *Bob Iger, the chairman and former chief executive at Walt Disney is trading his mouse ears for milk substitutes as the new director of massively funded dairy replacement startup Perfect Day. Milk substitutes are a $1 trillion category and Perfect Day is angli…*
+      - *Boston Dynamics’ new CEO Rob Playter told TechCrunch that the company has now sold around 260 of its sophisticated Spot robot as of his appearance at Disrupt last month. While the company faced some questions about the commercial appeal of the $75,000 robot, …*
      
-  - Wrike launches new AI tools to keep your projects on track
+  - Rocket Lab's Peter Beck is coming to TC Sessions: Space 2020
       <hr/>
       
-      - *Project management service Wrike today announced a major update to its platform at its user conference that includes a lot of new AI smarts for keeping individual projects on track and on time, as well as new solutions for marketers and project management off…*
+      - *Over the last few years Rocket Lab has gone from its very first orbital launch to regular commercial missions, with the goal of being the most responsive launch provider on the planet. Founder and CEO Peter Beck will join us at our all virtual TC Sessions: Sp…*
       
-  - Lessons from Datto’s IPO pricing and revenue multiple
+  - Prop 22 opponents say Yes on 22 should not be able to mail flyers as nonprofit
       <hr/>
       
-      - *Last night Datto priced its IPO at $27 per share, the top end of its range that TechCrunch covered last week. The data and security-focused software company had targeted a $24 to $27 per-share IPO price range, meaning that its final per-share value was at the…*
+      - *Opponents of California’s Proposition 22, the measure that seeks to continue classifying rideshare drivers and delivery workers as independent contractors, filed a complaint this morning with the United States Postal Service. The No on 22 campaign alleges the…*
       
-  - Mine raises $9.5M to help people take control of their personal data
+  - Kite adds support for 11 new languages to its AI code completion tool
       <hr/>
       
-      - *TechCrunch readers probably know that privacy regulations like Europe’s GDPR and California’s CCPA give them additional rights around their personal data — like the ability to request that companies delete your data. But how many of you have actually exercise…*
+      - *When Kite, the well-funded AI-driven code completion tool, launched in 2019, its technology looked very impressive, but it only supported Python at the time. Earlier this year, it also added JavaScript and today, it is launching support for 11 new languages a…*
        
-  - Join Extra Crunch Live on October 27 for a conversation on early stage and storytelling success with GV's M.G. Siegler
+  - Descript, Andrew Mason's platform to edit audio by editing text, now lets you edit video, too
       <hr/>
        
-       - *If anyone knows early stage investing and startups, it’s M.G. Siegler. As a General Partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
+       - *Descript, the latest startup from Groupon co-founder Andrew Mason, made a splash in the world of audio last year with a platform for easy audio editing based on how you edit written documents, adding features like an AI-based tool that uses a recording of you…*
       
 
 
