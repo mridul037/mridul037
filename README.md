@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you learn how to solve problems, you can go through life and do pretty well.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Gary Kildall
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you learn how to solve problems, you can go through life and do pretty well.
 
 </pre>
 **Daily News**
-  - Anyscale adds $40M to bring its Ray-based distributed computing tech to the enterprise masses
+  - How Yext reinvented itself on its way to going public
      <hr/>
      
-      - *The world of distributed computing took on a new profile this year when Folding@home, a 20-year-old distributed computing project, found itself picking up thousands of new volunteers to help Covid-19 researchers generate more computing power to fold proteins …*
+      - *Last week, Yext CEO Howard Lerman dropped by Extra Crunch Live for a chat about his former startup, pivoting and becoming the CEO of a public company. Yext, which focuses on business information and enterprise search products, went public in 2017, making it o…*
      
-  - PayPal to let you buy and sell cryptocurrencies in the US
+  - TikTok details how it's taking further action against hateful ideologies
       <hr/>
       
-      - *PayPal has partnered with cryptocurrency company Paxos to launch a new service. PayPal users in the U.S. will soon be able to buy, hold and sell cryptocurrencies. More countries are coming soon. PayPal plans to support Bitcoin, Ethereum, Bitcoin Cash and Lite…*
+      - *TikTok said on Wednesday it’s strengthening its enforcement actions against hate speech and hateful ideologies to include “neighboring ideologies,” like white nationalism and others, as well as statements that emerge from those ideologies. In a blog post, Tik…*
       
-  - Ford outs 4th-gen self-driving platform with better sensors, cleaning tech, and improved batteries
+  - SoftBank's $100 million diversity and inclusion fund makes its first bet ... in health Vitable Health
       <hr/>
       
-      - *Ford and Argo AI today released details about its fourth-generation self-driving test vehicle. Built on the 2020 Ford Escape Hybrid, the vehicle has everything needed to standup a self-driving service, the Detroit automaker said. It’s equipped with an improve…*
+      - *SoftBank’s Opportunity Growth Fund has made the health insurance startup Vitable Health the first commitment from its $100 million fund dedicated to investing in startups founded by entrepreneurs of color. The Philadelphia-based company, which recently launch…*
       
-  - Review: iPad Air, smooth criminal
+  - AOC's Among Us stream topped 435,000 concurrent viewers
       <hr/>
       
-      - *The 2020 iPad Air comes at an interesting time in Apple’s release cycle. The iPad Pro is still strong from a specs perspective but is now technically a half generation or so behind in CPU. The new pro models won’t arrive for (theoretical) months.  So what you…*
+      - *Last night, Rep. Alexandria Ocasio-Cortez went live on Twitch to stream Among Us with a handful of superstar streamers. The purpose of the stream, which drew a massive crowd, was to get out the vote as we head into the general election. At its peak, the strea…*
        
-  - Adobe's Project Sharp Shots uses AI to deblur your videos with one click
+  - Anyscale adds $40M to bring its Ray-based distributed computing tech to the enterprise masses
       <hr/>
        
-       - *Every year at its MAX user conference, Adobe shows off a number of research projects that may or may not end up in its Creative Cloud apps over time. One new project that I hope we’ll soon see in its video apps is Project Sharp Shots, which will make its debu…*
+       - *The world of distributed computing took on a new profile this year when Folding@home, a 20-year-old distributed computing project, found itself picking up thousands of new volunteers to help Covid-19 researchers generate more computing power to fold proteins …*
       
 
 
