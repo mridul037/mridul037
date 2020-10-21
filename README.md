@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+If you learn how to solve problems, you can go through life and do pretty well.
 
-~ Harlan Mills
+~ Gary Kildall
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming is similar to a game of golf. The point is not getting the ball in t
 
 </pre>
 **Daily News**
-  - Road trippers can rejoice as RVShare raises over $100 million to grow its RV rental business
+  - Anyscale adds $40M to bring its Ray-based distributed computing tech to the enterprise masses
      <hr/>
      
-      - *As continentally confined Americans look for domestic vacation options that won’t expose them to too much risk of infection from the pandemic that’s still raging across the country, the RV rental company RVshare has raised over $100 million to capitalize on i…*
+      - *The world of distributed computing took on a new profile this year when Folding@home, a 20-year-old distributed computing project, found itself picking up thousands of new volunteers to help Covid-19 researchers generate more computing power to fold proteins …*
      
-  - MindLabs raises £1.4 million for its new platform, a "Peloton for mental health"
+  - PayPal to let you buy and sell cryptocurrencies in the US
       <hr/>
       
-      - *Ideally, mental wellness should be considered part of a healthy daily routine, like exercise. But even exercise is difficult to turn into a regular habit. Peloton addressed physical fitness by combining smart stationary bikes with live classes and community f…*
+      - *PayPal has partnered with cryptocurrency company Paxos to launch a new service. PayPal users in the U.S. will soon be able to buy, hold and sell cryptocurrencies. More countries are coming soon. PayPal plans to support Bitcoin, Ethereum, Bitcoin Cash and Lite…*
       
-  - EU parliament backs tighter rules on behavioural ads
+  - Ford outs 4th-gen self-driving platform with better sensors, cleaning tech, and improved batteries
       <hr/>
       
-      - *The EU parliament has backed a call for tighter regulations on behavioral ads (aka microtargeting) in favor of less intrusive, contextual forms of advertising — urging Commission lawmakers to also assess further regulatory options, including looking at a phas…*
+      - *Ford and Argo AI today released details about its fourth-generation self-driving test vehicle. Built on the 2020 Ford Escape Hybrid, the vehicle has everything needed to standup a self-driving service, the Detroit automaker said. It’s equipped with an improve…*
       
-  - Facebook is working on Neighborhoods, a Nextdoor clone based on local groups
+  - Review: iPad Air, smooth criminal
       <hr/>
       
-      - *Using social networks to connect with neighbors and local services has surged during the Covid-19 pandemic, and Facebook — with 2.7 billion users globally — is now looking at how it can tap into that in a more direct way. In the same week that it was reported…*
+      - *The 2020 iPad Air comes at an interesting time in Apple’s release cycle. The iPad Pro is still strong from a specs perspective but is now technically a half generation or so behind in CPU. The new pro models won’t arrive for (theoretical) months.  So what you…*
        
-  - Study finds most big open-source startups outside Bay Area, many European, and avoiding VC
+  - Adobe's Project Sharp Shots uses AI to deblur your videos with one click
       <hr/>
        
-       - *Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study. The “ROSS Index”, created by Runa Capital lists the fastest-growing open-sou…*
+       - *Every year at its MAX user conference, Adobe shows off a number of research projects that may or may not end up in its Creative Cloud apps over time. One new project that I hope we’ll soon see in its video apps is Project Sharp Shots, which will make its debu…*
       
 
 
