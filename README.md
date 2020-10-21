@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 
-~ Alan Turing
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A computer would deserve to be called intelligent if it could deceive a human in
 
 </pre>
 **Daily News**
-  - Watch the trailer for 'First Person,' a climate-focused series shot on Snapchat Spectacles
+  - EU parliament backs tighter rules on behavioural ads
      <hr/>
      
-      - *Snapchat is about to launch “First Person,” the first of its original series to be shot on Snapchat Spectacles. The idea of filming a documentary using AR-centric eyewear might sound gimmicky, but “First Person” is tackling a weighty topic: climate change. Th…*
+      - *The EU parliament has backed a call for tighter regulations on behavioral ads (aka microtargeting) in favor of less intrusive, contextual forms of advertising — urging Commission lawmakers to also assess further regulatory options, including looking at a phas…*
      
+  - Facebook is working on Neighborhoods, a Nextdoor clone based on local groups
+      <hr/>
+      
+      - *Using social networks to connect with neighbors and local services has surged during the Covid-19 pandemic, and Facebook — with 2.7 billion users globally — is now looking at how it can tap into that in a more direct way. In the same week that it was reported…*
+      
+  - Study finds most big open-source startups outside Bay Area, many European, and avoiding VC
+      <hr/>
+      
+      - *Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study. The “ROSS Index”, created by Runa Capital lists the fastest-growing open-sou…*
+      
+  - Watch the trailer for 'First Person,' a climate-focused series shot on Snapchat Spectacles
+      <hr/>
+      
+      - *Snapchat is about to launch “First Person,” the first of its original series to be shot on Snapchat Spectacles. The idea of filming a documentary using AR-centric eyewear might sound gimmicky, but “First Person” is tackling a weighty topic: climate change. Th…*
+       
   - Political strategist turned tech investor Bradley Tusk on SPACs as a tool for VCs
       <hr/>
-      
-      - *Bradley Tusk has become known in recent years for being involved in what’s about to get hot, from his early days advising Uber, to writing one of the first checks to the insurance startup Lemonade, to pushing forward the idea that we should be using the smart…*
-      
-  - Watch GM unveil the $80,000 GMC Hummer EV right here
-      <hr/>
-      
-      - *GM just took the wraps off the Hummer EV and it looks great. The vehicle is coming to dealers in 2022, with pre-orders starting in 2021. You can watch the unveiling here. The vehicle is detailed here. With 1,000 HP, 350 mile range, and autonomous drive modes,…*
-      
-  - AOC aims to get out the vote by streaming Among Us with pokimane and HasanAbi
-      <hr/>
-      
-      - *We are about seven months into a pandemic and just two weeks from a presidential election. At this point, surprises are a dime a dozen. So it should feel very 2020 that Rep. Alexandria Ocasio-Cortez is about to stream Among Us, the hit game of 2020, on Twitch…*
        
-  - Feast your eyes on the all-new, all-electric GMC Hummer EV
-      <hr/>
-       
-       - *GMC has a new all-electric version of its classic Hummer oversized SUV. This thing is a beast, as you might expect, with an advertised 350-mile range and a 3-second zero to 60 mph time. It’s a bit ridiculous to be honest, which is kind of what the Hummer has …*
+       - *Bradley Tusk has become known in recent years for being involved in what’s about to get hot, from his early days advising Uber, to writing one of the first checks to the insurance startup Lemonade, to pushing forward the idea that we should be using the smart…*
       
 
 
