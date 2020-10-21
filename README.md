@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think there is a world market for maybe five
-computers.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Thomas J. Watson
+~ Ted Nelson
 <pre>
 
 </pre>
