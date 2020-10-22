@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Ellen Ullman
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We build our computer systems the way we build our cities: over time, without a 
 
 </pre>
 **Daily News**
-  - Smartphone shipments rebound to an all-time high in India
+  - E-bike subscription service Dance closes $17.7M Series A, led by HV Holtzbrinck Ventures
      <hr/>
      
-      - *Smartphone shipments reached an all-time high in India in the quarter that ended in September this year as the world’s second largest handset market remained fully open during the period after initial lockdowns due to the coronavirus, according to a new repor…*
+      - *Three months on since the former founders of SoundCloud launched their e-bike subscription service, Dance they are today announcing the close of a $17.7 million (€15 million) Series A funding round led by one of the larger European VCs, HV Holtzbrinck Venture…*
      
+  - Smartphone shipments rebound to an all-time high in India
+      <hr/>
+      
+      - *Smartphone shipments reached an all-time high in India in the quarter that ended in September this year as the world’s second largest handset market remained fully open during the period after initial lockdowns due to the coronavirus, according to a new repor…*
+      
   - Here integrates what3words' super simple address system into its in-car API
       <hr/>
       
@@ -81,16 +86,11 @@ We build our computer systems the way we build our cities: over time, without a 
       <hr/>
       
       - *The trial of Samsung leader Jay Y. Lee, who is accused of accounting fraud and stock price manipulating, held its first hearing today at the Seoul Central District Court. The Seoul Central District Court denied prosecutors’ arrest warrant request for Lee in J…*
-      
+       
   - Adyen alumni raise €2.6M seed to launch Silverflow, a 'cloud-native' card payments processor
       <hr/>
-      
-      - *Silverflow, a Dutch startup founded by Adyen alumni, is breaking cover and announcing seed funding. The pre-launch company has spent the last two years building what it describes as a “cloud-native” online card processor that directly connects to card network…*
        
-  - Facebook Dating launches in Europe after 9-month+ delay over privacy concerns
-      <hr/>
-       
-       - *Facebook’s dating bolt-on to its eponymous social networking service has finally launched in Europe, more than nine months after an earlier launch plan was derailed at the last minute over privacy concerns. From today, European Facebook users in Austria, Belg…*
+       - *Silverflow, a Dutch startup founded by Adyen alumni, is breaking cover and announcing seed funding. The pre-launch company has spent the last two years building what it describes as a “cloud-native” online card processor that directly connects to card network…*
       
 
 
