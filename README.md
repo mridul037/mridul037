@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
 
 ~ Fred Brooks
 <pre>
@@ -67,30 +67,30 @@ All repairs tend to destroy structure, to increase the entropy and disorder of a
 
 </pre>
 **Daily News**
-  - Here's why Intel's stock just dropped 10% after reporting earnings
+  - Extra Crunch Partner Perk: Get 6 months free of Zendesk Support and Sales CRM
      <hr/>
      
-      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
+      - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
      
+  - Daily Crunch: Facebook Dating comes to Europe
+      <hr/>
+      
+      - *Facebook’s dating feature expands after a regulatory delay, we review the new Amazon Echo and President Donald Trump has an on-the-nose Twitter password. This is your Daily Crunch for October 22, 2020. The big story: Facebook Dating comes to Europe Back in Fe…*
+      
+  - Here's why Intel's stock just dropped 10% after reporting earnings
+      <hr/>
+      
+      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
+      
   - Quibi’s shortform life
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
-      
+       
   - HBO Max hits 28.7M subscribers in Q3, but few are over-the-top
       <hr/>
-      
-      - *AT&T painted a rosy picture of HBO Max adoption during the company’s earnings report on Thursday. Despite not being available on Roku, one of the top streaming platforms in the U.S., AT&T said new HBO Max activations more than doubled from second-quarter leve…*
-      
-  - Uber drivers sue company alleging coercive Prop 22 advertising
-      <hr/>
-      
-      - *Uber is facing a class-action lawsuit over Proposition 22 that alleges the company is illegally coercing its drivers to support the ballot measure that seeks to keep workers classified as independent contractors. The suit was brought forth by two Uber drivers…*
        
-  - 3 reforms social media platforms should make in light of 'The Social Dilemma'
-      <hr/>
-       
-       - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
+       - *AT&T painted a rosy picture of HBO Max adoption during the company’s earnings report on Thursday. Despite not being available on Roku, one of the top streaming platforms in the U.S., AT&T said new HBO Max activations more than doubled from second-quarter leve…*
       
 
 
