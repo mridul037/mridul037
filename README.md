@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+Unix is simple. It just takes a genius to understand its simplicity.
 
-~ George Boole
+~ Dennis Ritchie
 <pre>
 
 </pre>
