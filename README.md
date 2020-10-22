@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ David Leinweber
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you give someone a program, you will frustrate them for a day; if you teach t
 
 </pre>
 **Daily News**
-  - President Trump's Twitter accessed by security expert who guessed password “maga2020!”
+  - Respect the hustle, not the stupidity
      <hr/>
      
-      - *A Dutch security researcher says he accessed President Trump’s @realDonaldTrump Twitter account last week by guessing his password: “maga2020!”. Victor Gevers, a security researcher at the GDI Foundation and chair of the Dutch Institute for Vulnerability Disc…*
+      - *Yes, the media f’ing gorged on the Quibi story yesterday. We did, they did, everyone did. And really, truly, how could anyone not? Nearly $2 billion came in (with $350 million heading back), a star-studded lineup of executives and production teams, an absolut…*
      
-  - RepTrak partners with Onclusive to combine reputation and PR data
+  - Spotify takes on radio with its own daily morning show
       <hr/>
       
-      - *RepTrak and Onclusive are announcing a partnership that Onclusive CEO Dan Beltramo said will combine corporate reputation tracking and PR analytics for the first time. RepTrak, founded in 2004, helps businesses measure their reputations (and their competitors…*
+      - *Spotify’s streaming music service is starting to resemble terrestrial radio with today’s launch of the company’s first daily morning show, “The Get Up.” Like other morning shows designed for commuters, the new program will be led by hosts and will combine new…*
       
-  - Psykhe secures Seed funding to match consumer personalities to fashion products
+  - Facebook's controversial Oversight Board starts reviewing content moderation cases
       <hr/>
       
-      - *In an overcrowded market of online fashion brands, consumers are spoilt for choice on what site to visit. They are generally forced to visit each brand one by one, manually filtering down to what they like. Most of the experience is not that great, and past p…*
+      - *Facebook’s external body of decision makers will start reviewing cases about what stays on the platform and what goes beginning today. The new system will elevate some of the platform’s content moderation decisions to a new group called the Facebook Oversight…*
       
-  - Google Maps launches a new developer solution for on-demand ride and delivery companies
+  - Customer experience and digital transformation concepts are merging during the pandemic
       <hr/>
       
-      - *The Google Maps Platform, the developer side of Google Maps, is launching a new service for on-demand rides and delivery companies today that ties together some of the platform’s existing capabilities with new features for finding nearby drivers and sharing t…*
+      - *Customer experience and digital transformation are two terms we’ve been hearing about for years, but have often remained nebulous in many organizations — something to aspire to perhaps, but not take completely seriously. Yet the pandemic has been a forcing ev…*
        
-  - TikTok rolls out a new notification system for content removals
+  - Render raises $4.5M for its DevOps platform
       <hr/>
        
-       - *TikTok says it has rolled out a new notification system to users worldwide that will offer more clarity around content removals. The system, which had been in testing for a few months ahead of its global release, informs a TikTok user when their video had bee…*
+       - *Render, the winner of our Disrupt SF 2019 Startup Battlefield, today announced that it has added another $4.5 million onto its existing seed funding round, bringing total investment into the company to $6.75 million. The round was led by General Catalyst, wit…*
       
 
 
