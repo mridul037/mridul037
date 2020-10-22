@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Machines as simple as thermostats can be said to have beliefs.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ John McCarthy (computer scientist)
+~ Donald Knuth
 <pre>
 
 </pre>
