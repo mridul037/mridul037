@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer Science is no more about computers than astronomy is about telescopes.
+When we don’t understand a process, we fall into magical thinking about results.
 
-~ Edsger W. Dijkstra
+~ Jef Raskin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer Science is no more about computers than astronomy is about telescopes.
 
 </pre>
 **Daily News**
-  - WoHo wants to make constructing buildings fast, flexible and green with reusable “components”
+  - Chinese live tutoring app Yuanfudao is now worth $15.5 billion
      <hr/>
      
-      - *Buildings are the bedrocks of civilization — places to live, places to work (well, normally, in a non-COVID-19 world) and places to play. Yet how we conceive buildings, architect them for their uses, and ultimately construct them on a site has changed remarka…*
+      - *Yuanfudao, a homework tutoring-app founded in 2012, has raised $2.2 billion from investors, surpassing Byju’s as the most valuable edtech company in the world. The Beijing-based company is now worth $15.5 billion dollars, almost double its valuation set in Ma…*
      
-  - E-bike subscription service Dance closes $17.7M Series A, led by HV Holtzbrinck Ventures
+  - Lyft will soon let riders pay for rides with Venmo
       <hr/>
       
-      - *Three months on since the former founders of SoundCloud launched their e-bike subscription service, Dance they are today announcing the close of a $17.7 million (€15 million) Series A funding round led by one of the larger European VCs, HV Holtzbrinck Venture…*
+      - *Lyft riders will soon have the option for paying and splitting fares using Venmo, the company said in a blog posting this morning. Venmo joins Lyft’s other payment methods of PayPal, credit cards, debit cards, Lyft Cash and more. To enable the payment method,…*
       
-  - Smartphone shipments rebound to an all-time high in India
+  - Freelancer banking startup Lili raises $15M
       <hr/>
       
-      - *Smartphone shipments reached an all-time high in India in the quarter that ended in September this year as the world’s second largest handset market remained fully open during the period after initial lockdowns due to the coronavirus, according to a new repor…*
+      - *It’s only been a few months since Lili announced its $10 million seed round, and it’s already raised more funding — namely, a $15 million Series A. The startup, founded by CEO Lilac Bar David and CTO Liran Zelkha, is creating a bank account and associated pro…*
       
-  - Here integrates what3words' super simple address system into its in-car API
+  - Amazon Echo review: Well-rounded sound
       <hr/>
       
-      - *Geocoding startup what3words — which chunks the world into 3mx3m squares, giving each a unique three-word label to simplify location sharing — has nabbed another in-vehicle integration, via a partnership with Here Technologies. The pair said today that OEMs u…*
+      - *Six years ago, Amazon essentially created a new consumer electronics category. Expectations weren’t particularly high when the first Echo device debuted in November of 2014. Amazon, after all, has never shied away from throwing a new device against the wall t…*
        
-  - Hearings begin in Samsung vice chairman Jay Y. Lee's accounting fraud trial
+  - Facebook adds hosting, shopping features, and pricing tiers to WhatsApp Business
       <hr/>
        
-       - *The trial of Samsung leader Jay Y. Lee, who is accused of accounting fraud and stock price manipulating, held its first hearing today at the Seoul Central District Court. The Seoul Central District Court denied prosecutors’ arrest warrant request for Lee in J…*
+       - *Facebook has been making a big play to be a go-to partner for small and medium businesses that use the internet to interface with the wider world, and its messaging platform WhatsApp, with some 50 million businesses and 175 million people messaging them (and …*
       
 
 
