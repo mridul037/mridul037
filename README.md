@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 
-~ Fred Brooks
+~ Ellen Ullman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The first false assumption that underlies the scheduling of systems programming 
 
 </pre>
 **Daily News**
-  - Hearings begin in Samsung vice chairman Jay Y. Lee's accounting fraud trial
+  - Smartphone shipments rebound to an all-time high in India
      <hr/>
      
-      - *The trial of Samsung leader Jay Y. Lee, who is accused of accounting fraud and stock price manipulating, held its first hearing today at the Seoul Central District Court. The Seoul Central District Court denied prosecutors’ arrest warrant request for Lee in J…*
+      - *Smartphone shipments reached an all-time high in India in the quarter that ended in September this year as the world’s second largest handset market remained fully open during the period after initial lockdowns due to the coronavirus, according to a new repor…*
      
+  - Here integrates what3words' super simple address system into its in-car API
+      <hr/>
+      
+      - *Geocoding startup what3words — which chunks the world into 3mx3m squares, giving each a unique three-word label to simplify location sharing — has nabbed another in-vehicle integration, via a partnership with Here Technologies. The pair said today that OEMs u…*
+      
+  - Hearings begin in Samsung vice chairman Jay Y. Lee's accounting fraud trial
+      <hr/>
+      
+      - *The trial of Samsung leader Jay Y. Lee, who is accused of accounting fraud and stock price manipulating, held its first hearing today at the Seoul Central District Court. The Seoul Central District Court denied prosecutors’ arrest warrant request for Lee in J…*
+      
   - Adyen alumni raise €2.6M seed to launch Silverflow, a 'cloud-native' card payments processor
       <hr/>
       
       - *Silverflow, a Dutch startup founded by Adyen alumni, is breaking cover and announcing seed funding. The pre-launch company has spent the last two years building what it describes as a “cloud-native” online card processor that directly connects to card network…*
-      
+       
   - Facebook Dating launches in Europe after 9-month+ delay over privacy concerns
       <hr/>
-      
-      - *Facebook’s dating bolt-on to its eponymous social networking service has finally launched in Europe, more than nine months after an earlier launch plan was derailed at the last minute over privacy concerns. From today, European Facebook users in Austria, Belg…*
-      
-  - Health insurance startup Alan lets you chat with a doctor
-      <hr/>
-      
-      - *French startup Alan is building health insurance products. And 100,000 people are now covered through Alan . I caught up with the company’s co-founder and CEO Jean-Charles Samuelian-Werve so that he could give us an update on the product. Alan has obtained it…*
        
-  - Acapela, from the founder of Dubsmash, hopes ‘asynchronous meetings' can end Zoom fatigue
-      <hr/>
-       
-       - *Acapela, a new startup co-founded by Dubsmash founder Roland Grenke, is breaking cover today in a bid to re-imagine online meetings for remote teams. Hoping to put an end to video meeting fatigue, the product is described as an “asynchronous meeting platform,…*
+       - *Facebook’s dating bolt-on to its eponymous social networking service has finally launched in Europe, more than nine months after an earlier launch plan was derailed at the last minute over privacy concerns. From today, European Facebook users in Austria, Belg…*
       
 
 
