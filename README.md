@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In man-machine symbiosis, it is man who must adjust: The machines can't.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 
-~ Alan Perlis
+~ David Leinweber
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In man-machine symbiosis, it is man who must adjust: The machines can't.
 
 </pre>
 **Daily News**
-  - Flair's Smart Vent system is a big improvement for anyone looking to improve their home HVAC
+  - President Trump's Twitter accessed by security expert who guessed password “maga2020!”
      <hr/>
      
-      - *Smart thermostats are fairly ubiquitous these days, but depending on which one you’re using, you could be getting a lot more from your home heating and cooling – with relatively simple DIY upgrades. The Flair Smart Vent system is one such upgrade, and though …*
+      - *A Dutch security researcher says he accessed President Trump’s @realDonaldTrump Twitter account last week by guessing his password: “maga2020!”. Victor Gevers, a security researcher at the GDI Foundation and chair of the Dutch Institute for Vulnerability Disc…*
      
-  - Instacart, in partnership with ALDI, will support SNAP EBT for online groceries
+  - RepTrak partners with Onclusive to combine reputation and PR data
       <hr/>
       
-      - *Instacart is making its grocery delivery and pickup services more accessible to lower-income customers by offering customers the ability to pay for groceries using their SNAP (Supplemental Nutrition Assistance Program) benefits. This is the first time Instaca…*
+      - *RepTrak and Onclusive are announcing a partnership that Onclusive CEO Dan Beltramo said will combine corporate reputation tracking and PR analytics for the first time. RepTrak, founded in 2004, helps businesses measure their reputations (and their competitors…*
       
-  - The smart speaker market is expected grow 21% next year
+  - Psykhe secures Seed funding to match consumer personalities to fashion products
       <hr/>
       
-      - *New numbers from Canalys point to a strong growth in smart speaker shipments in Mainland China this year. The market is on track to grow 2020, having gotten the COVID-19 pandemic mostly under control in recent months. The rest of the world — much of which con…*
+      - *In an overcrowded market of online fashion brands, consumers are spoilt for choice on what site to visit. They are generally forced to visit each brand one by one, manually filtering down to what they like. Most of the experience is not that great, and past p…*
       
-  - Woven adds to its calendar app's $20/mo premium plan
+  - Google Maps launches a new developer solution for on-demand ride and delivery companies
       <hr/>
       
-      - *Productivity software has had a huge couple of years, yet for all of the great note-taking apps that have launched, consumers haven’t gotten a lot of quality options for Google Calendar replacements. This week, Woven, a calendar startup founded by former Face…*
+      - *The Google Maps Platform, the developer side of Google Maps, is launching a new service for on-demand rides and delivery companies today that ties together some of the platform’s existing capabilities with new features for finding nearby drivers and sharing t…*
        
-  - Here.fm raises $2.9 million to reimagine video chat
+  - TikTok rolls out a new notification system for content removals
       <hr/>
        
-       - *Here.fm, a new web-based communication platform founded by Jesse Boyes and Seth Harris, has today announced the close of a $2.9 million seed round from FirstMark with participation by Y Combinator and a group of angel investors. Here is all about giving peopl…*
+       - *TikTok says it has rolled out a new notification system to users worldwide that will offer more clarity around content removals. The system, which had been in testing for a few months ahead of its global release, informs a TikTok user when their video had bee…*
       
 
 
