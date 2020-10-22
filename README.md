@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Unix is simple. It just takes a genius to understand its simplicity.
+You should name a variable using the same care with which you name a first-born child.
 
-~ Dennis Ritchie
+~ Jim Coplien
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Unix is simple. It just takes a genius to understand its simplicity.
 
 </pre>
 **Daily News**
-  - Tesla is a chain of startups, Elon Musk explains
+  - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
      <hr/>
      
-      - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
+      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
      
+  - Tesla is a chain of startups, Elon Musk explains
+      <hr/>
+      
+      - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
+      
   - Daily Crunch: Quibi is shutting down
       <hr/>
       
@@ -81,16 +86,11 @@ Unix is simple. It just takes a genius to understand its simplicity.
       <hr/>
       
       - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
-      
+       
   - Gillmor Gang: Something Goes Right
       <hr/>
-      
-      - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
        
-  - Tesla wows on latest numbers
-      <hr/>
-       
-       - *Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter. With the report that Tesla had already beaten Wall Street’s expectations for deliveries earlier thi…*
+       - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
       
 
 
