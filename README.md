@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
-~ Luciano Ramalho
+~ Richard Hamming
 <pre>
 
 </pre>
