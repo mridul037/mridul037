@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+Just because you've implemented something doesn't mean you understand it.
 
-~ Richard Hamming
+~ Brian Cantwell Smith
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In science if you know what you are doing you should not be doing it. In enginee
 
 </pre>
 **Daily News**
-  - Acapela, from the founder of Dubsmash, hopes ‘asynchronous meetings' can end Zoom fatigue
+  - Health insurance startup Alan lets you chat with a doctor
      <hr/>
      
-      - *Acapela, a new startup co-founded by Dubsmash founder Roland Grenke, is breaking cover today in a bid to re-imagine online meetings for remote teams. Hoping to put an end to video meeting fatigue, the product is described as an “asynchronous meeting platform,…*
+      - *French startup Alan is building health insurance products. And 100,000 people are now covered through Alan . I caught up with the company’s co-founder and CEO Jean-Charles Samuelian-Werve so that he could give us an update on the product. Alan has obtained it…*
      
+  - Acapela, from the founder of Dubsmash, hopes ‘asynchronous meetings' can end Zoom fatigue
+      <hr/>
+      
+      - *Acapela, a new startup co-founded by Dubsmash founder Roland Grenke, is breaking cover today in a bid to re-imagine online meetings for remote teams. Hoping to put an end to video meeting fatigue, the product is described as an “asynchronous meeting platform,…*
+      
   - 9 Zurich-area investors on Switzerland's 2020 startup outlook
       <hr/>
       
@@ -81,16 +86,11 @@ In science if you know what you are doing you should not be doing it. In enginee
       <hr/>
       
       - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
-      
+       
   - Tesla is a chain of startups, Elon Musk explains
       <hr/>
-      
-      - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
        
-  - Daily Crunch: Quibi is shutting down
-      <hr/>
-       
-       - *The end is in sight for Quibi, PayPal adds cryptocurrency support and Netflix tests a new promotional strategy. This is your Daily Crunch for October 21, 2020. The big story: Quibi is shutting down The much-hyped streaming video app led by Jeffrey Katzenberg …*
+       - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
       
 
 
