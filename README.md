@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 
-~ Ward Cunningham
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Putting a new feature into a program is important, but refactoring so new featur
 
 </pre>
 **Daily News**
-  - 9 Zurich-area investors on Switzerland's 2020 startup outlook
+  - Acapela, from the founder of Dubsmash, hopes ‘asynchronous meetings' can end Zoom fatigue
      <hr/>
      
-      - *European entrepreneurs who want to launch startups could do worse than Switzerland. In a report analyzing Europe’s general economic health, cost of doing business, business environment and labor force quality, analysts looked for highly educated populations, …*
+      - *Acapela, a new startup co-founded by Dubsmash founder Roland Grenke, is breaking cover today in a bid to re-imagine online meetings for remote teams. Hoping to put an end to video meeting fatigue, the product is described as an “asynchronous meeting platform,…*
      
+  - 9 Zurich-area investors on Switzerland's 2020 startup outlook
+      <hr/>
+      
+      - *European entrepreneurs who want to launch startups could do worse than Switzerland. In a report analyzing Europe’s general economic health, cost of doing business, business environment and labor force quality, analysts looked for highly educated populations, …*
+      
   - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
       <hr/>
       
@@ -81,16 +86,11 @@ Putting a new feature into a program is important, but refactoring so new featur
       <hr/>
       
       - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
-      
+       
   - Daily Crunch: Quibi is shutting down
       <hr/>
-      
-      - *The end is in sight for Quibi, PayPal adds cryptocurrency support and Netflix tests a new promotional strategy. This is your Daily Crunch for October 21, 2020. The big story: Quibi is shutting down The much-hyped streaming video app led by Jeffrey Katzenberg …*
        
-  - 4 quick bites and obituaries on Quibi (RIP 2020-2020)
-      <hr/>
-       
-       - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
+       - *The end is in sight for Quibi, PayPal adds cryptocurrency support and Netflix tests a new promotional strategy. This is your Daily Crunch for October 21, 2020. The big story: Quibi is shutting down The much-hyped streaming video app led by Jeffrey Katzenberg …*
       
 
 
