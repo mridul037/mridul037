@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 
-~ Wayne Ratliff
+~ Danny Hillis
 <pre>
 
 </pre>
