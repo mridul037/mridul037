@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+Machines as simple as thermostats can be said to have beliefs.
 
-~ Richard Hamming
+~ John McCarthy (computer scientist)
 <pre>
 
 </pre>
