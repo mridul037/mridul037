@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+Premature abstraction is as bad as premature optimization.
 
-~ Jim Coplien
+~ Luciano Ramalho
 <pre>
 
 </pre>
