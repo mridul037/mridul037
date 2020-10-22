@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Albert Einstein
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Any intelligent fool can make things bigger, more complex, and more violent. It 
 
 </pre>
 **Daily News**
-  - HBO Max hits 28.7M subscribers in Q3, but few are over-the-top
+  - Here's why Intel's stock just dropped 10% after reporting earnings
      <hr/>
      
-      - *AT&T painted a rosy picture of HBO Max adoption during the company’s earnings report on Thursday. Despite not being available on Roku, one of the top streaming platforms in the U.S., AT&T said new HBO Max activations more than doubled from second-quarter leve…*
+      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
      
+  - Quibi’s shortform life
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
+      
+  - HBO Max hits 28.7M subscribers in Q3, but few are over-the-top
+      <hr/>
+      
+      - *AT&T painted a rosy picture of HBO Max adoption during the company’s earnings report on Thursday. Despite not being available on Roku, one of the top streaming platforms in the U.S., AT&T said new HBO Max activations more than doubled from second-quarter leve…*
+      
   - Uber drivers sue company alleging coercive Prop 22 advertising
       <hr/>
       
       - *Uber is facing a class-action lawsuit over Proposition 22 that alleges the company is illegally coercing its drivers to support the ballot measure that seeks to keep workers classified as independent contractors. The suit was brought forth by two Uber drivers…*
-      
+       
   - 3 reforms social media platforms should make in light of 'The Social Dilemma'
       <hr/>
-      
-      - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
-      
-  - Netflix launches a virtual HBCU boot camp with Norfolk State to increase exposure to tech industry
-      <hr/>
-      
-      - *Netflix is going back to school. Working with Norfolk State University, the alma mater of one of the company’s senior software engineers, and the online education platform, 2U, Netflix is developing a virtual boot camp for students to gain exposure to the tec…*
        
-  - Announcing the Agenda for TC Sessions: Space 2020
-      <hr/>
-       
-       - *TC Sessions: Space is happening this December 16 and 17 – our first ever dedicated space event. This is a live, virtual two-day conference featuring the most important people in the space industry, across public, private and defense. We’re thrilled to be host…*
+       - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
       
 
 
