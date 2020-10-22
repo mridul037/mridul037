@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Donald Knuth
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Beware of bugs in the above code; I have only proved it correct, not tried it.
 
 </pre>
 **Daily News**
-  - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
+  - 9 Zurich-area investors on Switzerland's 2020 startup outlook
      <hr/>
      
-      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
+      - *European entrepreneurs who want to launch startups could do worse than Switzerland. In a report analyzing Europe’s general economic health, cost of doing business, business environment and labor force quality, analysts looked for highly educated populations, …*
      
+  - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
+      <hr/>
+      
+      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
+      
   - Tesla is a chain of startups, Elon Musk explains
       <hr/>
       
@@ -81,16 +86,11 @@ Beware of bugs in the above code; I have only proved it correct, not tried it.
       <hr/>
       
       - *The end is in sight for Quibi, PayPal adds cryptocurrency support and Netflix tests a new promotional strategy. This is your Daily Crunch for October 21, 2020. The big story: Quibi is shutting down The much-hyped streaming video app led by Jeffrey Katzenberg …*
-      
+       
   - 4 quick bites and obituaries on Quibi (RIP 2020-2020)
       <hr/>
-      
-      - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
        
-  - Gillmor Gang: Something Goes Right
-      <hr/>
-       
-       - *Here we sit in the valley of predespair, 2 weeks ahead of the election and God knows where we are in the pandemic. As my partner Tina says to me on this once glorious sunny day (the view formerly known as the Pacific Ocean has been replaced by the fog like a …*
+       - *In memory of the death of Quibi, here’s a quick sendoff from four of our writers who came together to discuss what we can learn from Quibi’s amazing, instantaneous, billions-of-dollars failure. Lucas Matney looks at what the potential was for Quibi and how it…*
       
 
 
