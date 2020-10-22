@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When we don’t understand a process, we fall into magical thinking about results.
+In man-machine symbiosis, it is man who must adjust: The machines can't.
 
-~ Jef Raskin
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When we don’t understand a process, we fall into magical thinking about result
 
 </pre>
 **Daily News**
-  - Chinese live tutoring app Yuanfudao is now worth $15.5 billion
+  - Flair's Smart Vent system is a big improvement for anyone looking to improve their home HVAC
      <hr/>
      
-      - *Yuanfudao, a homework tutoring-app founded in 2012, has raised $2.2 billion from investors, surpassing Byju’s as the most valuable edtech company in the world. The Beijing-based company is now worth $15.5 billion dollars, almost double its valuation set in Ma…*
+      - *Smart thermostats are fairly ubiquitous these days, but depending on which one you’re using, you could be getting a lot more from your home heating and cooling – with relatively simple DIY upgrades. The Flair Smart Vent system is one such upgrade, and though …*
      
-  - Lyft will soon let riders pay for rides with Venmo
+  - Instacart, in partnership with ALDI, will support SNAP EBT for online groceries
       <hr/>
       
-      - *Lyft riders will soon have the option for paying and splitting fares using Venmo, the company said in a blog posting this morning. Venmo joins Lyft’s other payment methods of PayPal, credit cards, debit cards, Lyft Cash and more. To enable the payment method,…*
+      - *Instacart is making its grocery delivery and pickup services more accessible to lower-income customers by offering customers the ability to pay for groceries using their SNAP (Supplemental Nutrition Assistance Program) benefits. This is the first time Instaca…*
       
-  - Freelancer banking startup Lili raises $15M
+  - The smart speaker market is expected grow 21% next year
       <hr/>
       
-      - *It’s only been a few months since Lili announced its $10 million seed round, and it’s already raised more funding — namely, a $15 million Series A. The startup, founded by CEO Lilac Bar David and CTO Liran Zelkha, is creating a bank account and associated pro…*
+      - *New numbers from Canalys point to a strong growth in smart speaker shipments in Mainland China this year. The market is on track to grow 2020, having gotten the COVID-19 pandemic mostly under control in recent months. The rest of the world — much of which con…*
       
-  - Amazon Echo review: Well-rounded sound
+  - Woven adds to its calendar app's $20/mo premium plan
       <hr/>
       
-      - *Six years ago, Amazon essentially created a new consumer electronics category. Expectations weren’t particularly high when the first Echo device debuted in November of 2014. Amazon, after all, has never shied away from throwing a new device against the wall t…*
+      - *Productivity software has had a huge couple of years, yet for all of the great note-taking apps that have launched, consumers haven’t gotten a lot of quality options for Google Calendar replacements. This week, Woven, a calendar startup founded by former Face…*
        
-  - Facebook adds hosting, shopping features, and pricing tiers to WhatsApp Business
+  - Here.fm raises $2.9 million to reimagine video chat
       <hr/>
        
-       - *Facebook has been making a big play to be a go-to partner for small and medium businesses that use the internet to interface with the wider world, and its messaging platform WhatsApp, with some 50 million businesses and 175 million people messaging them (and …*
+       - *Here.fm, a new web-based communication platform founded by Jesse Boyes and Seth Harris, has today announced the close of a $2.9 million seed round from FirstMark with participation by Y Combinator and a group of angel investors. Here is all about giving peopl…*
       
 
 
