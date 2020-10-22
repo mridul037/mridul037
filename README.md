@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Just because you've implemented something doesn't mean you understand it.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Brian Cantwell Smith
+~ Ryan Singer
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Just because you've implemented something doesn't mean you understand it.
 
 </pre>
 **Daily News**
-  - Health insurance startup Alan lets you chat with a doctor
+  - Facebook Dating launches in Europe after 9-month+ delay over privacy concerns
      <hr/>
      
-      - *French startup Alan is building health insurance products. And 100,000 people are now covered through Alan . I caught up with the company’s co-founder and CEO Jean-Charles Samuelian-Werve so that he could give us an update on the product. Alan has obtained it…*
+      - *Facebook’s dating bolt-on to its eponymous social networking service has finally launched in Europe, more than nine months after an earlier launch plan was derailed at the last minute over privacy concerns. From today, European Facebook users in Austria, Belg…*
      
+  - Health insurance startup Alan lets you chat with a doctor
+      <hr/>
+      
+      - *French startup Alan is building health insurance products. And 100,000 people are now covered through Alan . I caught up with the company’s co-founder and CEO Jean-Charles Samuelian-Werve so that he could give us an update on the product. Alan has obtained it…*
+      
   - Acapela, from the founder of Dubsmash, hopes ‘asynchronous meetings' can end Zoom fatigue
       <hr/>
       
@@ -81,16 +86,11 @@ Just because you've implemented something doesn't mean you understand it.
       <hr/>
       
       - *European entrepreneurs who want to launch startups could do worse than Switzerland. In a report analyzing Europe’s general economic health, cost of doing business, business environment and labor force quality, analysts looked for highly educated populations, …*
-      
+       
   - This former Tesla CIO just raised $150 million more to pull car dealers into the 21st century
       <hr/>
-      
-      - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
        
-  - Tesla is a chain of startups, Elon Musk explains
-      <hr/>
-       
-       - *Today during a call with investors and journalists, Tesla CEO Elon Musk was asked to expand a tweet from yesterday. In it, he stated: “Tesla should really be thought of as roughly a dozen technology startups, many of which have little to no correlation with t…*
+       - *“I have to choose my words carefully,” says Joe Castelino of Stevens Creek Volkswagen in San Jose, Ca., when asked about the software on which most car dealerships rely for inventory information, to manage marketing, to handle customer relationships and to ot…*
       
 
 
