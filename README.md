@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 
-~ Danny Hillis
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ With the right programming, a computer can become a theater, a musical instrumen
 
 </pre>
 **Daily News**
-  - 3 reforms social media platforms should make in light of 'The Social Dilemma'
+  - HBO Max hits 28.7M subscribers in Q3, but few are over-the-top
      <hr/>
      
-      - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
+      - *AT&T painted a rosy picture of HBO Max adoption during the company’s earnings report on Thursday. Despite not being available on Roku, one of the top streaming platforms in the U.S., AT&T said new HBO Max activations more than doubled from second-quarter leve…*
      
+  - Uber drivers sue company alleging coercive Prop 22 advertising
+      <hr/>
+      
+      - *Uber is facing a class-action lawsuit over Proposition 22 that alleges the company is illegally coercing its drivers to support the ballot measure that seeks to keep workers classified as independent contractors. The suit was brought forth by two Uber drivers…*
+      
+  - 3 reforms social media platforms should make in light of 'The Social Dilemma'
+      <hr/>
+      
+      - *The industry needs to change to create more engaged and genuine spaces for people to connect without preying on human psychology.*
+      
   - Netflix launches a virtual HBCU boot camp with Norfolk State to increase exposure to tech industry
       <hr/>
       
       - *Netflix is going back to school. Working with Norfolk State University, the alma mater of one of the company’s senior software engineers, and the online education platform, 2U, Netflix is developing a virtual boot camp for students to gain exposure to the tec…*
-      
+       
   - Announcing the Agenda for TC Sessions: Space 2020
       <hr/>
-      
-      - *TC Sessions: Space is happening this December 16 and 17 – our first ever dedicated space event. This is a live, virtual two-day conference featuring the most important people in the space industry, across public, private and defense. We’re thrilled to be host…*
-      
-  - Leverage public data to improve content marketing outcomes
-      <hr/>
-      
-      - *Those who see the opportunity in data-focused content will reap disproportionate benefits.*
        
-  - After release of Tesla's 'Full Self-Driving' beta, Elon Musk promises roughly $2,000 price hike
-      <hr/>
-       
-       - *In a tweet posted early Thursday morning, Tesla chief executive Elon Musk said that prices for the Full Self-Driving (“FSD”) upgrade to Tesla vehicles would increase by roughly $2,000. It’s potentially an indication that the company is realizing that it needs…*
+       - *TC Sessions: Space is happening this December 16 and 17 – our first ever dedicated space event. This is a live, virtual two-day conference featuring the most important people in the space industry, across public, private and defense. We’re thrilled to be host…*
       
 
 
