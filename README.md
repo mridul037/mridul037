@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 
-~ Donald Knuth
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Beware of bugs in the above code; I have only proved it correct, not tried it.
 
 </pre>
 **Daily News**
-  - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
+  - Calling Brussels VCs: Be featured in The Great TechCrunch Survey of European VC
      <hr/>
      
-      - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
      
+  - Here's how fast a few dozen startups grew in Q3 2020
+      <hr/>
+      
+      - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
+      
+  - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
+      <hr/>
+      
+      - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
+      
   - Huawei reports slowing growth as its operations "face significant challenges"
       <hr/>
       
       - *Huawei announced earnings results today showing that its growth has slowed significantly this year as the Chinese telecom equipment and smartphone giant said its “production and operations face significant challenges.” While Huawei did not specify trade restr…*
-      
+       
   - Nordic challenger bank Lunar raises €40M Series C, plans to enter the 'buy now, pay later' space
       <hr/>
-      
-      - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
-      
-  - France rebrands contact-tracing app in an effort to boost downloads
-      <hr/>
-      
-      - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
        
-  - India's Flipkart buys over $200 million stake in Aditya Birla Fashion and Retail
-      <hr/>
-       
-       - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
+       - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
       
 
 
