@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+Codes are a puzzle. A game, just like any other game.
 
-~ Ada Lovelace
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We may say most aptly that the Analytical Engine weaves algebraical patterns jus
 
 </pre>
 **Daily News**
-  - India's Flipkart buys over $200 million stake in Aditya Birla Fashion and Retail
+  - France rebrands contact-tracing app in an effort to boost downloads
      <hr/>
      
-      - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
+      - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
      
+  - India's Flipkart buys over $200 million stake in Aditya Birla Fashion and Retail
+      <hr/>
+      
+      - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
+      
   - Senate subpoenas could force Zuckerberg and Dorsey to testify on New York Post controversy
       <hr/>
       
@@ -81,16 +86,11 @@ We may say most aptly that the Analytical Engine weaves algebraical patterns jus
       <hr/>
       
       - *A pair of U.S. Representatives — one from each party — are proposing a law that would limit the President’s ability to shut down the internet at will. That may not strike you as an imminent threat, but federal police disappearing protestors into unmarked vans…*
-      
+       
   - Quibi says it will shut down in early December
       <hr/>
-      
-      - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
        
-  - Extra Crunch Partner Perk: Get 6 months free of Zendesk Support and Sales CRM
-      <hr/>
-       
-       - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
+       - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
       
 
 
