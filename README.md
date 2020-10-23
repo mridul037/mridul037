@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Talk is cheap. Show me the code.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Linus Torvalds
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Talk is cheap. Show me the code.
 
 </pre>
 **Daily News**
-  - Huawei reports slowing growth as its operations "face significant challenges"
+  - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
      <hr/>
      
-      - *Huawei announced earnings results today showing that its growth has slowed significantly this year as the Chinese telecom equipment and smartphone giant said its “production and operations face significant challenges.” While Huawei did not specify trade restr…*
+      - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
      
+  - Huawei reports slowing growth as its operations "face significant challenges"
+      <hr/>
+      
+      - *Huawei announced earnings results today showing that its growth has slowed significantly this year as the Chinese telecom equipment and smartphone giant said its “production and operations face significant challenges.” While Huawei did not specify trade restr…*
+      
   - Nordic challenger bank Lunar raises €40M Series C, plans to enter the 'buy now, pay later' space
       <hr/>
       
@@ -81,16 +86,11 @@ Talk is cheap. Show me the code.
       <hr/>
       
       - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
-      
+       
   - India's Flipkart buys over $200 million stake in Aditya Birla Fashion and Retail
       <hr/>
-      
-      - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
        
-  - Senate subpoenas could force Zuckerberg and Dorsey to testify on New York Post controversy
-      <hr/>
-       
-       - *The Senate Judiciary Committee voted in favor of issuing subpoenas for Facebook’s Mark Zuckerberg and Twitter’s Jack Dorsey Thursday, meaning that there might be two big tech CEO hearings on the horizon. Republicans in the committee declared their interest in…*
+       - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
       
 
 
