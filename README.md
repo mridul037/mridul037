@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ Elon Musk
+~ Jan L. A. van de Snepscheut
 <pre>
 
 </pre>
