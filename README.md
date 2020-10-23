@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In theory, there is no difference between theory and practice. But, in practice, there is.
+Code never lies, comments sometimes do.
 
-~ Jan L. A. van de Snepscheut
+~ Ron Jeffries
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ In theory, there is no difference between theory and practice. But, in practice,
 
 </pre>
 **Daily News**
-  - Calling Brussels VCs: Be featured in The Great TechCrunch Survey of European VC
+  - CA appeals court upholds ruling that Uber and Lyft must classify drivers as employees
      <hr/>
      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
+      - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
      
+  - Financial institutions can support COVID-19 crowdfunding campaigns
+      <hr/>
+      
+      - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
+      
+  - mmhmm, Phil Libin's new startup, acquires Memix to add enhanced filters to its video presentation toolkit
+      <hr/>
+      
+      - *Virtual meetings are a fundamental part of how we interact with each other these days, but even when (if!?) we find better ways to mitigate the effects of Covid-19, many think that they will be here to stay. That means there is an opportunity out there to imp…*
+      
+  - Calling Brussels VCs: Be featured in The Great TechCrunch Survey of European VC
+      <hr/>
+      
+      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
+       
   - Here's how fast a few dozen startups grew in Q3 2020
       <hr/>
-      
-      - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
-      
-  - Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations
-      <hr/>
-      
-      - *When it comes to apps, Android leads the pack with nearly 3 million apps in its official Google Play store. The sheer volume also means that sometimes iffy apps slip through the cracks. Researchers at the International Digital Accountability Council (IDAC), a…*
-      
-  - Huawei reports slowing growth as its operations "face significant challenges"
-      <hr/>
-      
-      - *Huawei announced earnings results today showing that its growth has slowed significantly this year as the Chinese telecom equipment and smartphone giant said its “production and operations face significant challenges.” While Huawei did not specify trade restr…*
        
-  - Nordic challenger bank Lunar raises €40M Series C, plans to enter the 'buy now, pay later' space
-      <hr/>
-       
-       - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
+       - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
       
 
 
