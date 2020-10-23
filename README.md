@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes it’s just easier to throw a system away, and start over.
+The best minds of my generation are thinking about how to make people click ads.
 
-~ Joseph Yoder (computer scientist)
+~ Jeff Hammerbacher
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Sometimes it’s just easier to throw a system away, and start over.
 
 </pre>
 **Daily News**
-  - The short, strange life of Quibi
+  - Deep Science: Alzheimer's screening, forest-mapping drones, machine learning in space, more
      <hr/>
      
-      - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
+      - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
      
+  - Boston startups expand region's venture capital footprint
+      <hr/>
+      
+      - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
+      
+  - The short, strange life of Quibi
+      <hr/>
+      
+      - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
+      
   - OnePlus’s 8T handset brings faster charging and a 120Hz display for $749
       <hr/>
       
       - *OnePlus continues its twice-yearly smartphone cycle with today’s arrival of the 8T. The latest device isn’t a huge upgrade over April’s OnePlus 8, but continues the company’s longstanding tradition of offering some of the most solid Android handsets at a reas…*
-      
+       
   - CA appeals court upholds ruling that Uber and Lyft must classify drivers as employees
       <hr/>
-      
-      - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
-      
-  - Financial institutions can support COVID-19 crowdfunding campaigns
-      <hr/>
-      
-      - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
        
-  - mmhmm, Phil Libin's new startup, acquires Memix to add enhanced filters to its video presentation toolkit
-      <hr/>
-       
-       - *Virtual meetings are a fundamental part of how we interact with each other these days, but even when (if!?) we find better ways to mitigate the effects of Covid-19, many think that they will be here to stay. That means there is an opportunity out there to imp…*
+       - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
       
 
 
