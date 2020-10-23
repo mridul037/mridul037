@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Codes are a puzzle. A game, just like any other game.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
-~ Alan Turing
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Codes are a puzzle. A game, just like any other game.
 
 </pre>
 **Daily News**
-  - France rebrands contact-tracing app in an effort to boost downloads
+  - Huawei reports slowing growth as its operations "face significant challenges"
      <hr/>
      
-      - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
+      - *Huawei announced earnings results today showing that its growth has slowed significantly this year as the Chinese telecom equipment and smartphone giant said its “production and operations face significant challenges.” While Huawei did not specify trade restr…*
      
+  - Nordic challenger bank Lunar raises €40M Series C, plans to enter the 'buy now, pay later' space
+      <hr/>
+      
+      - *Lunar, the Nordic challenger bank that started out life as a personal finance manager app (PFM) but acquired a full banking license in 2019, has raised €40 million in Series C funding from existing investors. The injection of capital follows a €20 million Ser…*
+      
+  - France rebrands contact-tracing app in an effort to boost downloads
+      <hr/>
+      
+      - *Don’t call it StopCovid anymore. France’s contact-tracing app has been updated and is now called TousAntiCovid, which means ‘everyone against Covid’. The French government is trying to pivot so that it’s no longer a contact-tracing app — or at least not just …*
+      
   - India's Flipkart buys over $200 million stake in Aditya Birla Fashion and Retail
       <hr/>
       
       - *Flipkart is acquiring a 7.8% stake in Aditya Birla Fashion as the Walmart-owned Indian e-commerce firm makes further push into the fashion category in one of the world’s largest retail markets. The e-commerce group will pay $203.8 million for its stake in Adi…*
-      
+       
   - Senate subpoenas could force Zuckerberg and Dorsey to testify on New York Post controversy
       <hr/>
-      
-      - *The Senate Judiciary Committee voted in favor of issuing subpoenas for Facebook’s Mark Zuckerberg and Twitter’s Jack Dorsey Thursday, meaning that there might be two big tech CEO hearings on the horizon. Republicans in the committee declared their interest in…*
-      
-  - Representatives propose bill limiting Presidential internet 'kill switch'
-      <hr/>
-      
-      - *A pair of U.S. Representatives — one from each party — are proposing a law that would limit the President’s ability to shut down the internet at will. That may not strike you as an imminent threat, but federal police disappearing protestors into unmarked vans…*
        
-  - Quibi says it will shut down in early December
-      <hr/>
-       
-       - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
+       - *The Senate Judiciary Committee voted in favor of issuing subpoenas for Facebook’s Mark Zuckerberg and Twitter’s Jack Dorsey Thursday, meaning that there might be two big tech CEO hearings on the horizon. Republicans in the committee declared their interest in…*
       
 
 
