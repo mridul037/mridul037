@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Code never lies, comments sometimes do.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Ron Jeffries
+~ Rick Osborne
 <pre>
 
 </pre>
