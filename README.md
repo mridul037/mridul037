@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
 
-~ Rick Osborne
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
 
 </pre>
 **Daily News**
-  - CA appeals court upholds ruling that Uber and Lyft must classify drivers as employees
+  - The short, strange life of Quibi
      <hr/>
      
-      - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
+      - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
      
+  - OnePlus’s 8T handset brings faster charging and a 120Hz display for $749
+      <hr/>
+      
+      - *OnePlus continues its twice-yearly smartphone cycle with today’s arrival of the 8T. The latest device isn’t a huge upgrade over April’s OnePlus 8, but continues the company’s longstanding tradition of offering some of the most solid Android handsets at a reas…*
+      
+  - CA appeals court upholds ruling that Uber and Lyft must classify drivers as employees
+      <hr/>
+      
+      - *Uber and Lyft must classify their drivers as employees, an appellate court ruled yesterday evening. However, the decision will be stayed for 30 days after the court issues the remittitur, which has not happened yet. That means depending on how ballot measure …*
+      
   - Financial institutions can support COVID-19 crowdfunding campaigns
       <hr/>
       
       - *Financial institutions must lend their vast expertise, knowledge, and resources to these worthy causes; after all, we are all in this together.*
-      
+       
   - mmhmm, Phil Libin's new startup, acquires Memix to add enhanced filters to its video presentation toolkit
       <hr/>
-      
-      - *Virtual meetings are a fundamental part of how we interact with each other these days, but even when (if!?) we find better ways to mitigate the effects of Covid-19, many think that they will be here to stay. That means there is an opportunity out there to imp…*
-      
-  - Calling Brussels VCs: Be featured in The Great TechCrunch Survey of European VC
-      <hr/>
-      
-      - *TechCrunch is embarking on a major new project to survey the venture capital investors of Europe, and their cities. Our <a href=”https://forms.gle/k4Ji2Ch7zdrn7o2p6”>survey of VCs in Brussels will capture how the city is faring, and what changes are being wro…*
        
-  - Here's how fast a few dozen startups grew in Q3 2020
-      <hr/>
-       
-       - *Earlier this week I asked startups to share their Q3 growth metrics and whether they were performing ahead of behind of their yearly goals. Lots of companies responded. More than I could have anticipated, frankly. Instead of merely giving me a few data points…*
+       - *Virtual meetings are a fundamental part of how we interact with each other these days, but even when (if!?) we find better ways to mitigate the effects of Covid-19, many think that they will be here to stay. That means there is an opportunity out there to imp…*
       
 
 
