@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Fred Brooks
+~ Friedrich Bauer
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Conceptual integrity is the most important consideration in system design. It is
 
 </pre>
 **Daily News**
-  - Extra Crunch Partner Perk: Get 6 months free of Zendesk Support and Sales CRM
+  - Senate subpoenas could force Zuckerberg and Dorsey to testify on New York Post controversy
      <hr/>
      
-      - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
+      - *The Senate Judiciary Committee voted in favor of issuing subpoenas for Facebook’s Mark Zuckerberg and Twitter’s Jack Dorsey Thursday, meaning that there might be two big tech CEO hearings on the horizon. Republicans in the committee declared their interest in…*
      
+  - Representatives propose bill limiting Presidential internet 'kill switch'
+      <hr/>
+      
+      - *A pair of U.S. Representatives — one from each party — are proposing a law that would limit the President’s ability to shut down the internet at will. That may not strike you as an imminent threat, but federal police disappearing protestors into unmarked vans…*
+      
+  - Quibi says it will shut down in early December
+      <hr/>
+      
+      - *Quibi is shutting down — we know that much for sure. But when? If you’re looking to blast through all 25 episodes of the Reno 911 revival series before Quibi calls its quits, how long do you actually have? While it seems even Quibi isn’t 100% certain yet, the…*
+      
+  - Extra Crunch Partner Perk: Get 6 months free of Zendesk Support and Sales CRM
+      <hr/>
+      
+      - *Annual Extra Crunch members can get six months of free access to Zendesk Support Suite and Sales CRM, Zendesk Explore and Zendesk Sunshine.*
+       
   - Daily Crunch: Facebook Dating comes to Europe
       <hr/>
-      
-      - *Facebook’s dating feature expands after a regulatory delay, we review the new Amazon Echo and President Donald Trump has an on-the-nose Twitter password. This is your Daily Crunch for October 22, 2020. The big story: Facebook Dating comes to Europe Back in Fe…*
-      
-  - Here's why Intel's stock just dropped 10% after reporting earnings
-      <hr/>
-      
-      - *The third-quarter earnings cycle is just getting underway, but we’ve already seen a few companies post numbers that investors did not like. Netflix missed on several metrics yesterday and was punished, and today Intel is joining the video streaming giant in s…*
-      
-  - Quibi’s shortform life
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. Myself, along with Danny and Natasha had a lot to get through, and more to say than expected. A big thanks to C…*
        
-  - HBO Max hits 28.7M subscribers in Q3, but few are over-the-top
-      <hr/>
-       
-       - *AT&T painted a rosy picture of HBO Max adoption during the company’s earnings report on Thursday. Despite not being available on Roku, one of the top streaming platforms in the U.S., AT&T said new HBO Max activations more than doubled from second-quarter leve…*
+       - *Facebook’s dating feature expands after a regulatory delay, we review the new Amazon Echo and President Donald Trump has an on-the-nose Twitter password. This is your Daily Crunch for October 22, 2020. The big story: Facebook Dating comes to Europe Back in Fe…*
       
 
 
