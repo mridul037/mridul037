@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Edsger W. Dijkstra
+~ Quarry worker's creed
 <pre>
 
 </pre>
