@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+I think one of the most valuable rules is avoid duplication.
 
-~ Danny Hillis
+~ Martin Fowler
 <pre>
 
 </pre>
