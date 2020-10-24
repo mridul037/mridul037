@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The real problem with throwaway code comes when it isn't thrown away.
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 
-~ Joseph Yoder (computer scientist)
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The real problem with throwaway code comes when it isn't thrown away.
 
 </pre>
 **Daily News**
-  - SpaceX launches 60 more satellites during 15th Starlink mission
+  - Was Quibi the good kind of startup failure?
      <hr/>
      
-      - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
+      - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
      
+  - SpaceX launches 60 more satellites during 15th Starlink mission
+      <hr/>
+      
+      - *SpaceX has launched another batch of 60 Starlink satellites, the primary ingredient for its forthcoming global broadband internet service. The launch took place at 11:31 AM EDT, with a liftoff from Cape Canaveral Air Force Station in Florida. This is the fift…*
+      
   - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
       <hr/>
       
@@ -81,16 +86,11 @@ The real problem with throwaway code comes when it isn't thrown away.
       <hr/>
       
       - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
-      
+       
   - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
       <hr/>
-      
-      - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
        
-  - The RIAA is coming for the YouTube downloaders
-      <hr/>
-       
-       - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
+       - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
       
 
 
