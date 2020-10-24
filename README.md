@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ Andy Hertzfeld
+~ John Locke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Then Apple went public toward the end of 1980. All of a sudden, all these people
 
 </pre>
 **Daily News**
-  - Yale may have just turned institutional investing on its head with a new diversity edict
+  - This Week in Apps: Quibi dies, Snapchat soars, Halide upgrades for iPhone 12
      <hr/>
      
-      - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - Yale may have just turned institutional investing on its head with a new diversity edict
+      <hr/>
+      
+      - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
+      
   - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
       <hr/>
       
@@ -81,16 +86,11 @@ Then Apple went public toward the end of 1980. All of a sudden, all these people
       <hr/>
       
       - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
-      
+       
   - Daily Crunch: Uber and Lyft defeated again in court
       <hr/>
-      
-      - *A California court weighs in as Prop. 22 looms, Google removes popular apps over data collection practices and the Senate subpoenas Jack Dorsey and Mark Zuckerberg. This is your Daily Crunch for October 23, 2020. The big story: Uber and Lyft defeated again in…*
        
-  - Deep Science: Alzheimer's screening, forest-mapping drones, machine learning in space, more
-      <hr/>
-       
-       - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
+       - *A California court weighs in as Prop. 22 looms, Google removes popular apps over data collection practices and the Senate subpoenas Jack Dorsey and Mark Zuckerberg. This is your Daily Crunch for October 23, 2020. The big story: Uber and Lyft defeated again in…*
       
 
 
