@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Martin Fowler
+~ Friedrich Bauer
 <pre>
 
 </pre>
