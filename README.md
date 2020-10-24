@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I think one of the most valuable rules is avoid duplication.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Martin Fowler
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I think one of the most valuable rules is avoid duplication.
 
 </pre>
 **Daily News**
-  - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
+  - Yale may have just turned institutional investing on its head with a new diversity edict
      <hr/>
      
-      - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
+      - *It could be the long-awaited turning point in the world of venture capital and beyond. Yale, whose $32 billion endowment has long been led since 1985 by the legendary investor David Swensen, just let its 70 money managers across a variety of asset classes kno…*
      
+  - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
+      <hr/>
+      
+      - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
+      
   - The RIAA is coming for the YouTube downloaders
       <hr/>
       
@@ -81,16 +86,11 @@ I think one of the most valuable rules is avoid duplication.
       <hr/>
       
       - *A California court weighs in as Prop. 22 looms, Google removes popular apps over data collection practices and the Senate subpoenas Jack Dorsey and Mark Zuckerberg. This is your Daily Crunch for October 23, 2020. The big story: Uber and Lyft defeated again in…*
-      
+       
   - Deep Science: Alzheimer's screening, forest-mapping drones, machine learning in space, more
       <hr/>
-      
-      - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
        
-  - Boston startups expand region's venture capital footprint
-      <hr/>
-       
-       - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
+       - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
       
 
 
