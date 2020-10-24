@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 
-~ Friedrich Bauer
+~ John Carmack
 <pre>
 
 </pre>
