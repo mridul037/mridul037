@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 
-~ Wayne Ratliff
+~ Charles Simonyi
 <pre>
 
 </pre>
