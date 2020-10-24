@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 
-~ Marijn Haverbeke
+~ Poul-Henning Kamp
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Size almost always involves complexity, and complexity confuses programmers. Con
 
 </pre>
 **Daily News**
-  - The RIAA is coming for the YouTube downloaders
+  - Facebook and Twitter CEOs to testify before Congress in November on how they handled the election
      <hr/>
      
-      - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
+      - *Shortly after voting to move forward with a pair of subpoenas, the Senate Judiciary Committee has reached an agreement that will see the CEOs of two major social platforms testify voluntarily in November. The hearing will be the second major congressional app…*
      
+  - The RIAA is coming for the YouTube downloaders
+      <hr/>
+      
+      - *In ye olden days of piracy, RIAA takedown notices were a common thing — I received a few myself. But that’s mostly fallen off as tracking pirates has gotten more difficult. But the RIAA can still issue nastygrams — to the creators of software that could poten…*
+      
   - Daily Crunch: Uber and Lyft defeated again in court
       <hr/>
       
@@ -81,16 +86,11 @@ Size almost always involves complexity, and complexity confuses programmers. Con
       <hr/>
       
       - *Research papers come out far too rapidly for anyone to read them all, especially in the field of machine learning, which now affects (and produces papers in) practically every industry and company. This column aims to collect the most relevant recent discover…*
-      
+       
   - Boston startups expand region's venture capital footprint
       <hr/>
-      
-      - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
        
-  - The short, strange life of Quibi
-      <hr/>
-       
-       - *“All that is left now is to offer a profound apology for disappointing you and, ultimately, for letting you down,” Jeffrey Katzenberg and Meg Whitman wrote, closing out an open letter posted to Medium. “We cannot thank you enough for being there with us, and …*
+       - *This year has shaken up venture capital, turning a hot early start to 2020 into a glacial period permeated with fear during the early days of COVID-19. That ice quickly melted as venture capitalists discovered that demand for software and other services that …*
       
 
 
