@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you have a procedure with 10 parameters, you probably missed some.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Alan Perlis
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
