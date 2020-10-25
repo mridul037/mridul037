@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If we’d asked the customers what they wanted, they would have said “faster horses”.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ Henry Ford
+~ Harlan Mills
 <pre>
 
 </pre>
