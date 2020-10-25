@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 
-~ Harlan Mills
+~ Tom DeMarco
 <pre>
 
 </pre>
