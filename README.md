@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+If we’d asked the customers what they wanted, they would have said “faster horses”.
 
-~ Daniel T. Barry
+~ Henry Ford
 <pre>
 
 </pre>
