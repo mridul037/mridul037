@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+Making things easy is hard.
 
-~ Alan Perlis
+~ Ted Nelson
 <pre>
 
 </pre>
