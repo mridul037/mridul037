@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 
-~ Harlan Mills
+~ Carl Friedrich Gauss
 <pre>
 
 </pre>
