@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Really good programs live forever.
+Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 
-~ Charles Simonyi
+~ Bill Gates
 <pre>
 
 </pre>
