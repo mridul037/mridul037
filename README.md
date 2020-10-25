@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Paul Graham (programmer)
+~ Harlan Mills
 <pre>
 
 </pre>
