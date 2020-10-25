@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 
-~ Luciano Ramalho
+~ Alan Perlis
 <pre>
 
 </pre>
