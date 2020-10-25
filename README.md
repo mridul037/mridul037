@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+When in doubt, use brute force.
 
-~ Daniel T. Barry
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Reliable computations are obtainable from buggy programs, which after all, are t
 
 </pre>
 **Daily News**
-  - Week in Review: Snapchat strikes back
+  - Original Content podcast: 'Lovecraft Country' is gloriously bonkers
      <hr/>
      
-      - *Hello hello, and welcome back to Week in Review. Last week, I wrote about the possibility of a pending social media detente, this week I’m talking about a rising threat to Facebook’s biz. If you’re reading this on the TechCrunch site, you can get this in your…*
+      - *As we tried to recap the first season of HBO’s “Lovecraft Country,” one thing became clear: The show is pretty nuts. The story begins by sending Atticus “Tic” Freeman (Jonathan Majors), his friend Leti Lewis (Jurnee Smolett) and his uncle George (Courtney B. …*
      
+  - Week in Review: Snapchat strikes back
+      <hr/>
+      
+      - *Hello hello, and welcome back to Week in Review. Last week, I wrote about the possibility of a pending social media detente, this week I’m talking about a rising threat to Facebook’s biz. If you’re reading this on the TechCrunch site, you can get this in your…*
+      
   - Samsung chairman dies at age 78
       <hr/>
       
@@ -81,16 +86,11 @@ Reliable computations are obtainable from buggy programs, which after all, are t
       <hr/>
       
       - *Welcome back to Human Capital! As many of you know, Human Capital is a weekly newsletter where I break down the latest in labor, as well as diversity and inclusion in tech. It’s officially available as a newsletter, so if you want this content when it comes i…*
-      
+       
   - Why you have to pay attention to the Indian startup scene
       <hr/>
-      
-      - *Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.*
        
-  - Was Quibi the good kind of startup failure?
-      <hr/>
-       
-       - *Startup failure is easy to hold up as a type of martyrdom for progress, especially if the founders are starting out scrappy in the first place and trying to save the world. What about Quibi?*
+       - *Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.*
       
 
 
