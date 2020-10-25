@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Making things easy is hard.
+Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 
-~ Ted Nelson
+~ Daniel T. Barry
 <pre>
 
 </pre>
