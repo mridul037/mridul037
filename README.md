@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 
-~ Tom DeMarco
+~ Simon Peyton Jones
 <pre>
 
 </pre>
