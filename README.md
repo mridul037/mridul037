@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ L. Peter Deutsch
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I would make a strong case that programming languages have not improved qualitat
 
 </pre>
 **Daily News**
-  - TravelPerk launches an API for COVID-19 restrictions
+  - Water quality and distribution monitoring software Ketos raises $18 million
      <hr/>
      
-      - *About a month after outting an open API platform for its customers to augment their apps, business trip SaaS startup TravelPerk has launched a standalone API product aimed at helping the wider travel industry provide up-to-date information on travel restricti…*
+      - *Water quality and logistics monitoring software Ketos has raised $15 million from a group of investors to take advantage of the growing demand for better water management tools and technologies. The potential for more stringent regulatory oversight of industr…*
      
+  - Facebook steps into cloud gaming -- and another feud with Apple
+      <hr/>
+      
+      - *Facebook will soon be the latest tech giant to enter the world of cloud gaming. Their approach is different than what Microsoft or Google has built but Facebook highlights a shared central challenge: dealing with Apple. Facebook is not building a console gami…*
+      
+  - UK's PrimaryBid raises $50M as its retail investing platform sees a Covid-19 surge of activity
+      <hr/>
+      
+      - *One of the biggest trends in the world of fintech in the last several years has been the emergence (and surging popularity) of startups building platforms that help more people take a more proactive role in the world of financial services. Today, one of the m…*
+      
+  - TravelPerk launches an API for COVID-19 restrictions
+      <hr/>
+      
+      - *About a month after outting an open API platform for its customers to augment their apps, business trip SaaS startup TravelPerk has launched a standalone API product aimed at helping the wider travel industry provide up-to-date information on travel restricti…*
+       
   - Epic's latest argument in its fight against Apple keeps antitrust issues front and center
       <hr/>
-      
-      - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
-      
-  - Esports pioneer Dino Ying talks to TechCrunch about the next phase of VSPN
-      <hr/>
-      
-      - *Founded in 2016 and headquartered in Shanghai, VSPN was one of the early pioneer in esports tournament organization and content creation out of Asia. It has since expanded into other businesses including offline venue operation. VSPN began hosting the first l…*
-      
-  - Tencent leads $100M Series B funding round into China-based esport provider VSPN
-      <hr/>
-      
-      - *Further confirmation that the esports market is booming amid the pandemic comes today with the news that esports ‘total solutions provider’ VSPN (Versus Programming Network) has raised what it describes as ‘close to’ $100 million in a Series B funding round, …*
        
-  - Cloud9 adds the MAJKL Valorant roster to create Cloud9 White as its first women's esports team
-      <hr/>
-       
-       - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
+       - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
       
 
 
