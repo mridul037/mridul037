@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
 
-~ Tim Berners-Lee
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I invented the Web just because I needed it, really, because it was so frustrati
 
 </pre>
 **Daily News**
-  - YouTube revamps its mobile app with new gestures, video chapter lists, and more
+  - NASA discovers water on the surface of the sunlit portion of the Moon
      <hr/>
      
-      - *YouTube today is rolling out a series of updates to its player page on mobile devices. The changes relocate some elements, add new features — like an expanded set of gesture-based navigation options — and update existing ones, like video chapters, among other…*
+      - *NASA has made a groundbreaking discovery – confirming the presence of water on the surface of Moon, in the area that is exposed to sunlight. Previously, we knew that water was present as water ice on the dark part of the Moon, and that’s part of the reason th…*
      
-  - Mario Kart Live: Home Circuit gets unofficial remote play on Surrogate.tv
+  - The No-Code Generation is arriving
       <hr/>
       
-      - *Readers of a certain age will no doubt remember some region variation of TV Powww. The syndicated program, which found viewers at home giving directions over the phone to an in-studio operating playing an Intellivision game. Mario Kart Live: Home Circuit revi…*
+      - *In the distant past, there was a proverbial “digital divide” that bifurcated workers into those who knew how to use computers and those who didn’t.[1] Young Gen Xers and their later millennial companions grew up with Power Macs and Wintel boxes, and that expe…*
       
-  - Pinterest's new widget brings photos from favorite boards to your iOS 14 homescreen
+  - This startup wants to fix the broken structure of internships
       <hr/>
       
-      - *As iPhone owners began customizing their iOS 14 homescreens with new widgets and custom icons, Pinterest iOS downloads and searches surged as the app became a top source for design ideas and inspiration. Today, Pinterest is more directly joining the homescree…*
+      - *Internships are an opportunity for students to experiment with new career paths and land a full-time offer ahead of graduation. For companies, the weeks-long programs help recruit and train job-ready hires. While the stakes are high, the coronavirus-spurred o…*
       
-  - SAP shares fall sharply after COVID-19 cuts revenue, profit forecast at software giant
+  - What would Databricks be worth in a 2021 IPO?
       <hr/>
       
-      - *SAP announced its Q3 earnings yesterday, with its aggregate results down across the board. And after missing earnings expectations, the company also revised its 2021 outlook down. The combined bad news spooked investors, crashing its shares by over 20% in pre…*
+      - *TechCrunch recently covered Databricks’ financial performance in 2020, contrasting its recent performance to some historical 2019 data that the company shared. The data-and-analysis focused unicorn grew its annual run rate 75% to $350 million, compared to its…*
        
-  - U.S. Space Force Lt. General John F. Thompson will join us at TC Sessions: Space in December
+  - YouTube revamps its mobile app with new gestures, video chapter lists, and more
       <hr/>
        
-       - *Our first-ever dedicated space event is coming up on December 16 and 17, and we’re thrilled to announce that Lieutenant General John F. Thompson of the U.S. Air Force will join us on our virtual stage at TC Sessions: Space. Thompson is the Commander, Space an…*
+       - *YouTube today is rolling out a series of updates to its player page on mobile devices. The changes relocate some elements, add new features — like an expanded set of gesture-based navigation options — and update existing ones, like video chapters, among other…*
       
 
 
