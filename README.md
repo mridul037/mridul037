@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer Science is no more about computers than astronomy is about telescopes.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Edsger W. Dijkstra
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Computer Science is no more about computers than astronomy is about telescopes.
 
 </pre>
 **Daily News**
-  - Epic's latest argument in its fight against Apple keeps antitrust issues front and center
+  - TravelPerk launches an API for COVID-19 restrictions
      <hr/>
      
-      - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
+      - *About a month after outting an open API platform for its customers to augment their apps, business trip SaaS startup TravelPerk has launched a standalone API product aimed at helping the wider travel industry provide up-to-date information on travel restricti…*
      
+  - Epic's latest argument in its fight against Apple keeps antitrust issues front and center
+      <hr/>
+      
+      - *Epic Games, the game engine developer and creator of the wildly popular Fortnite game, is keeping the focus squarely on antitrust issues in its lawsuit against Apple as pressures mount to rein in anti-competitive practices of the world’s largest tech companie…*
+      
   - Esports pioneer Dino Ying talks to TechCrunch about the next phase of VSPN
       <hr/>
       
@@ -81,16 +86,11 @@ Computer Science is no more about computers than astronomy is about telescopes.
       <hr/>
       
       - *Further confirmation that the esports market is booming amid the pandemic comes today with the news that esports ‘total solutions provider’ VSPN (Versus Programming Network) has raised what it describes as ‘close to’ $100 million in a Series B funding round, …*
-      
+       
   - Cloud9 adds the MAJKL Valorant roster to create Cloud9 White as its first women's esports team
       <hr/>
-      
-      - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
        
-  - The US now seems to be pinning all of its hopes on COVID-19 therapies and vaccines
-      <hr/>
-       
-       - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
+       - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
       
 
 
