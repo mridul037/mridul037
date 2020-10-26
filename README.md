@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+One of my most productive days was throwing away 1,000 lines of code.
 
-~ Brian Kernighan
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The most effective debugging tool is still careful thought, coupled with judicio
 
 </pre>
 **Daily News**
-  - Twitter starts showing all U.S. users election misinformation warnings
+  - Teaching robots through positive reinforcement
      <hr/>
      
-      - *Starting today, Twitter users in the U.S. will see two large notices at the top of their feeds that aim to “preemptively debunk” misinformation related to voting. The striking messages are designed to push back against the deluge of false claims about the 202…*
+      - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
      
+  - Dallas' ShearShare has a marketplace connecting stylists with available seats at salons and $2.3 million in funding
+      <hr/>
+      
+      - *Courtney Caldwell and her husband Tye have been building the Dallas-based startup ShearShare, which provides a marketplace service connecting stylists with open seats at hair salons since 2017. Since their launch the two co-founders have been committed to the…*
+      
+  - Twitter starts showing all U.S. users election misinformation warnings
+      <hr/>
+      
+      - *Starting today, Twitter users in the U.S. will see two large notices at the top of their feeds that aim to “preemptively debunk” misinformation related to voting. The striking messages are designed to push back against the deluge of false claims about the 202…*
+      
   - Max Q: NASA makes key discovery for future of deep space exploration
       <hr/>
       
       - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
-      
+       
   - Good and bad board members (and what to do about them)
       <hr/>
-      
-      - *Ryan Caldbeck, co-founder and former CEO of consumer-brands-focused crowdfunding site CircleUp, recently published an email he’d written to a former director on the board of the company. According to Caldbeck, he wrote the letter after CircleUp had bought out…*
-      
-  - Freshworks (re-)launches its CRM service
-      <hr/>
-      
-      - *Freshworks, the customer and employee engagement company that offers a range of products, from call center and customer support software to HR tools and marketing automation services, today announced the launch of its newest product: Freshworks CRM. The new s…*
        
-  - DataFleets keeps private data useful, and useful data private, with federated learning and $4.5M seed
-      <hr/>
-       
-       - *As you may already know, there’s a lot of data out there, and some of it could actually be pretty useful. But privacy and security considerations often put strict limitations on how it can be used or analyzed. DataFleets promises a new approach by which datab…*
+       - *Ryan Caldbeck, co-founder and former CEO of consumer-brands-focused crowdfunding site CircleUp, recently published an email he’d written to a former director on the board of the company. According to Caldbeck, he wrote the letter after CircleUp had bought out…*
       
 
 
