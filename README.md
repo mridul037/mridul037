@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 
-~ Ray Ozzie
+~ René Descartes
 <pre>
 
 </pre>
