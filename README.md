@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Michael Hawley
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ What I like about programming is that it really helps you think about how we com
 
 </pre>
 **Daily News**
-  - SAP shares fall sharply after COVID-19 cuts revenue, profit forecast at software giant
+  - YouTube revamps its mobile app with new gestures, video chapter lists, and more
      <hr/>
      
-      - *SAP announced its Q3 earnings yesterday, with its aggregate results down across the board. And after missing earnings expectations, the company also revised its 2021 outlook down. The combined bad news spooked investors, crashing its shares by over 20% in pre…*
+      - *YouTube today is rolling out a series of updates to its player page on mobile devices. The changes relocate some elements, add new features — like an expanded set of gesture-based navigation options — and update existing ones, like video chapters, among other…*
      
+  - Mario Kart Live: Home Circuit gets unofficial remote play on Surrogate.tv
+      <hr/>
+      
+      - *Readers of a certain age will no doubt remember some region variation of TV Powww. The syndicated program, which found viewers at home giving directions over the phone to an in-studio operating playing an Intellivision game. Mario Kart Live: Home Circuit revi…*
+      
+  - Pinterest's new widget brings photos from favorite boards to your iOS 14 homescreen
+      <hr/>
+      
+      - *As iPhone owners began customizing their iOS 14 homescreens with new widgets and custom icons, Pinterest iOS downloads and searches surged as the app became a top source for design ideas and inspiration. Today, Pinterest is more directly joining the homescree…*
+      
+  - SAP shares fall sharply after COVID-19 cuts revenue, profit forecast at software giant
+      <hr/>
+      
+      - *SAP announced its Q3 earnings yesterday, with its aggregate results down across the board. And after missing earnings expectations, the company also revised its 2021 outlook down. The combined bad news spooked investors, crashing its shares by over 20% in pre…*
+       
   - U.S. Space Force Lt. General John F. Thompson will join us at TC Sessions: Space in December
       <hr/>
-      
-      - *Our first-ever dedicated space event is coming up on December 16 and 17, and we’re thrilled to announce that Lieutenant General John F. Thompson of the U.S. Air Force will join us on our virtual stage at TC Sessions: Space. Thompson is the Commander, Space an…*
-      
-  - LA Rams, Fanatics and Postmates coordinate on an on-demand pop-up
-      <hr/>
-      
-      - *Postmates, now a division of Uber, is diving deeper into the world of on-demand retail and its partnership with the National Football League. The company, working alongside Fanatics and the Los Angeles Rams is launching a pop-up shop Monday for fans to buy ge…*
-      
-  - Ant Group could raise as much as $34.5B in IPO in what would be world's largest IPO
-      <hr/>
-      
-      - *The long-anticipated IPO of Alibaba-affiliated Chinese fintech giant Ant Group could raise tens of billions of dollars in a dual-listing on both the Shanghai and Hong Kong exchanges. Shares for the company formerly known as Ant Financial are expected to price…*
        
-  - Now a co-managing partner, Upfront's Kara Nortman is one of the first women promoted to a leadership role in VC
-      <hr/>
-       
-       - *Kara Nortman has always been dedicated to supporting women in technology and in startups. As one of the founders of the All Raise, the organization dedicated to supporting gender equity in venture capital and technology, a director for Times Up and as the co-…*
+       - *Our first-ever dedicated space event is coming up on December 16 and 17, and we’re thrilled to announce that Lieutenant General John F. Thompson of the U.S. Air Force will join us on our virtual stage at TC Sessions: Space. Thompson is the Commander, Space an…*
       
 
 
