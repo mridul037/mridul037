@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 
-~ Daniel T. Barry
+~ Tony Hoare
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 
 </pre>
 **Daily News**
-  - Fragomen, a law firm used by Google, confirms data breach
+  - Microsoft Office gets mouse and trackpad support for the iPad
      <hr/>
      
-      - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
+      - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
      
+  - Daily Crunch: Facebook launches cloud gaming service
+      <hr/>
+      
+      - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
+      
+  - Fragomen, a law firm used by Google, confirms data breach
+      <hr/>
+      
+      - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
+      
   - Teaching robots through positive reinforcement
       <hr/>
       
       - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
-      
+       
   - Dallas' ShearShare has a marketplace connecting stylists with available seats at salons and $2.3 million in funding
       <hr/>
-      
-      - *Courtney Caldwell and her husband Tye have been building the Dallas-based startup ShearShare, which provides a marketplace service connecting stylists with open seats at hair salons since 2017. Since their launch the two co-founders have been committed to the…*
-      
-  - Twitter starts showing all U.S. users election misinformation warnings
-      <hr/>
-      
-      - *Starting today, Twitter users in the U.S. will see two large notices at the top of their feeds that aim to “preemptively debunk” misinformation related to voting. The striking messages are designed to push back against the deluge of false claims about the 202…*
        
-  - Max Q: NASA makes key discovery for future of deep space exploration
-      <hr/>
-       
-       - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
+       - *Courtney Caldwell and her husband Tye have been building the Dallas-based startup ShearShare, which provides a marketplace service connecting stylists with open seats at hair salons since 2017. Since their launch the two co-founders have been committed to the…*
       
 
 
