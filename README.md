@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+Really good programs live forever.
 
-~ John Ousterhout
+~ Charles Simonyi
 <pre>
 
 </pre>
