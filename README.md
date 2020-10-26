@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 
-~ Tim Berners-Lee
+~ John Romero
 <pre>
 
 </pre>
