@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 
-~ Daniel T. Barry
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Thoroughly testing a program is impossible (requires unbounded number of test ca
 
 </pre>
 **Daily News**
-  - NASA discovers water on the surface of the sunlit portion of the Moon
+  - Mailman's new Gmail assistant aims to tame your inbox
      <hr/>
      
-      - *NASA has made a groundbreaking discovery – confirming the presence of water on the surface of Moon, in the area that is exposed to sunlight. Previously, we knew that water was present as water ice on the dark part of the Moon, and that’s part of the reason th…*
+      - *A new startup, Mailman, recently launched an email assistant that helps Gmail users to get better control over their inbox. Unlike many email startups, which require users to switch to a new platform or even adopt a new email address, Mailman works along with…*
      
+  - Hubilo raises $4.5 million, led by Lightspeed, to focus on virtual events
+      <hr/>
+      
+      - *Earlier this year, the founders of event analytics platform Hubilo pivoted to become a virtual events platform to survive the impact of COVID-19. Today, the startup announced it has raised a $4.5 million seed round, led by Lightspeed, and says it expects to e…*
+      
+  - NASA discovers water on the surface of the sunlit portion of the Moon
+      <hr/>
+      
+      - *NASA has made a groundbreaking discovery – confirming the presence of water on the surface of Moon, in the area that is exposed to sunlight. Previously, we knew that water was present as water ice on the dark part of the Moon, and that’s part of the reason th…*
+      
   - The No-Code Generation is arriving
       <hr/>
       
       - *In the distant past, there was a proverbial “digital divide” that bifurcated workers into those who knew how to use computers and those who didn’t.[1] Young Gen Xers and their later millennial companions grew up with Power Macs and Wintel boxes, and that expe…*
-      
+       
   - This startup wants to fix the broken structure of internships
       <hr/>
-      
-      - *Internships are an opportunity for students to experiment with new career paths and land a full-time offer ahead of graduation. For companies, the weeks-long programs help recruit and train job-ready hires. While the stakes are high, the coronavirus-spurred o…*
-      
-  - What would Databricks be worth in a 2021 IPO?
-      <hr/>
-      
-      - *TechCrunch recently covered Databricks’ financial performance in 2020, contrasting its recent performance to some historical 2019 data that the company shared. The data-and-analysis focused unicorn grew its annual run rate 75% to $350 million, compared to its…*
        
-  - YouTube revamps its mobile app with new gestures, video chapter lists, and more
-      <hr/>
-       
-       - *YouTube today is rolling out a series of updates to its player page on mobile devices. The changes relocate some elements, add new features — like an expanded set of gesture-based navigation options — and update existing ones, like video chapters, among other…*
+       - *Internships are an opportunity for students to experiment with new career paths and land a full-time offer ahead of graduation. For companies, the weeks-long programs help recruit and train job-ready hires. While the stakes are high, the coronavirus-spurred o…*
       
 
 
