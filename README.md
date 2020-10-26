@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best way to predict the future is to invent it.
+What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 
-~ Alan Kay
+~ Michael Hawley
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best way to predict the future is to invent it.
 
 </pre>
 **Daily News**
-  - Equity Monday: SAP's warning, and IPO updates for both Airbnb and Databricks
+  - SAP shares fall sharply after COVID-19 cuts revenue, profit forecast at software giant
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *SAP announced its Q3 earnings yesterday, with its aggregate results down across the board. And after missing earnings expectations, the company also revised its 2021 outlook down. The combined bad news spooked investors, crashing its shares by over 20% in pre…*
      
-  - Dropbox begins shift to high efficiency Western Digital Shingled Magnetic Recording disks
+  - U.S. Space Force Lt. General John F. Thompson will join us at TC Sessions: Space in December
       <hr/>
       
-      - *Last year, Dropbox talked about making a shift to Shingled Magnetic Recording or SMR disks for short because of the efficiency they can give a high volume storage platform like theirs. Today, Western Digital announced that Dropbox was one of the first compani…*
+      - *Our first-ever dedicated space event is coming up on December 16 and 17, and we’re thrilled to announce that Lieutenant General John F. Thompson of the U.S. Air Force will join us on our virtual stage at TC Sessions: Space. Thompson is the Commander, Space an…*
       
-  - Linktree raises $10.7M for its lightweight, link-centric user profiles
+  - LA Rams, Fanatics and Postmates coordinate on an on-demand pop-up
       <hr/>
       
-      - *Simple, link-centric user profiles might seem might not seem like a particularly ambitious idea, but it’s been big enough for Linktree. The Melbourne startup says that 8 million users — whether they’re celebrities like Selena Gomez and Dua Lipa or brands like…*
+      - *Postmates, now a division of Uber, is diving deeper into the world of on-demand retail and its partnership with the National Football League. The company, working alongside Fanatics and the Los Angeles Rams is launching a pop-up shop Monday for fans to buy ge…*
       
-  - Water quality and distribution monitoring software Ketos raises $18 million
+  - Ant Group could raise as much as $34.5B in IPO in what would be world's largest IPO
       <hr/>
       
-      - *Water quality and logistics monitoring software Ketos has raised $15 million from a group of investors to take advantage of the growing demand for better water management tools and technologies. The potential for more stringent regulatory oversight of industr…*
+      - *The long-anticipated IPO of Alibaba-affiliated Chinese fintech giant Ant Group could raise tens of billions of dollars in a dual-listing on both the Shanghai and Hong Kong exchanges. Shares for the company formerly known as Ant Financial are expected to price…*
        
-  - Facebook steps into cloud gaming -- and another feud with Apple
+  - Now a co-managing partner, Upfront's Kara Nortman is one of the first women promoted to a leadership role in VC
       <hr/>
        
-       - *Facebook will soon be the latest tech giant to enter the world of cloud gaming. Their approach is different than what Microsoft or Google has built but Facebook highlights a shared central challenge: dealing with Apple. Facebook is not building a console gami…*
+       - *Kara Nortman has always been dedicated to supporting women in technology and in startups. As one of the founders of the All Raise, the organization dedicated to supporting gender equity in venture capital and technology, a director for Times Up and as the co-…*
       
 
 
