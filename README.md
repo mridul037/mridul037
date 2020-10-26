@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 
-~ René Descartes
+~ Eric S. Raymond
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Thus it is observable that the buildings which a single architect has planned an
 
 </pre>
 **Daily News**
-  - Cloud9 adds the MAJKL Valorant roster to create Cloud9 White as its first women's esports team
+  - Esports pioneer Dino Ying talks to TechCrunch about the next phase of VSPN
      <hr/>
      
-      - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
+      - *Founded in 2016 and headquartered in Shanghai, VSPN was one of the early pioneer in esports tournament organization and content creation out of Asia. It has since expanded into other businesses including offline venue operation. VSPN began hosting the first l…*
      
+  - Tencent leads $100M Series B funding round into China-based esport provider VSPN
+      <hr/>
+      
+      - *Further confirmation that the esports market is booming amid the pandemic comes today with the news that esports ‘total solutions provider’ VSPN (Versus Programming Network) has raised what it describes as ‘close to’ $100 million in a Series B funding round, …*
+      
+  - Cloud9 adds the MAJKL Valorant roster to create Cloud9 White as its first women's esports team
+      <hr/>
+      
+      - *Cloud9 has brought on the all-women MAJKL Valorant squad to become its first women’s esports team. Moving forward the team of Alexis “alexis” Guarrasi, Annie “Annie” Roberts, Jasmine “Jazzyk1ns” Manankil, Katsumi, and Melanie “meL”Capone will co…*
+      
   - The US now seems to be pinning all of its hopes on COVID-19 therapies and vaccines
       <hr/>
       
       - *Almost eight months after the White House first announced it would move from containment to mitigation efforts to stop the spread of the COVID-19 epidemic, the Administration is now pinning its hopes on vaccines to inoculate the population and therapies to tr…*
-      
+       
   - Reliance says its $3.4 billion deal with Future Group 'fully enforceable under Indian law' despite Amazon winning an arbitration order
       <hr/>
-      
-      - *Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it intends to co…*
-      
-  - Original Content podcast: 'Lovecraft Country' is gloriously bonkers
-      <hr/>
-      
-      - *As we tried to recap the first season of HBO’s “Lovecraft Country,” one thing became clear: The show is pretty nuts. The story begins by sending Atticus “Tic” Freeman (Jonathan Majors), his friend Leti Lewis (Jurnee Smolett) and his uncle George (Courtney B. …*
        
-  - Week in Review: Snapchat strikes back
-      <hr/>
-       
-       - *Hello hello, and welcome back to Week in Review. Last week, I wrote about the possibility of a pending social media detente, this week I’m talking about a rising threat to Facebook’s biz. If you’re reading this on the TechCrunch site, you can get this in your…*
+       - *Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it intends to co…*
       
 
 
