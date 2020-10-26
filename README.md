@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Really good programs live forever.
+When in doubt, leave it out.
 
-~ Charles Simonyi
+~ Joshua Bloch
 <pre>
 
 </pre>
