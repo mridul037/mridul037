@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ George Boole
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ That language is an instrument of human reason, and not merely a medium for the 
 
 </pre>
 **Daily News**
-  - DataFleets keeps private data useful, and useful data private, with federated learning and $4.5M seed
+  - Twitter starts showing all U.S. users election misinformation warnings
      <hr/>
      
-      - *As you may already know, there’s a lot of data out there, and some of it could actually be pretty useful. But privacy and security considerations often put strict limitations on how it can be used or analyzed. DataFleets promises a new approach by which datab…*
+      - *Starting today, Twitter users in the U.S. will see two large notices at the top of their feeds that aim to “preemptively debunk” misinformation related to voting. The striking messages are designed to push back against the deluge of false claims about the 202…*
      
-  - Decrypted: How Twitter was hacked, GitHub DMCA backfires
+  - Max Q: NASA makes key discovery for future of deep space exploration
       <hr/>
       
-      - *This week's Decrypted looks at how Iran tried to undermine the election, and what happens when censorship backfires.*
+      - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
       
-  - Mailman's new Gmail assistant aims to tame your inbox
+  - Good and bad board members (and what to do about them)
       <hr/>
       
-      - *A new startup, Mailman, recently launched an email assistant that helps Gmail users to get better control over their inbox. Unlike many email startups, which require users to switch to a new platform or even adopt a new email address, Mailman works along with…*
+      - *Ryan Caldbeck, co-founder and former CEO of consumer-brands-focused crowdfunding site CircleUp, recently published an email he’d written to a former director on the board of the company. According to Caldbeck, he wrote the letter after CircleUp had bought out…*
       
-  - Hubilo raises $4.5 million, led by Lightspeed, to focus on virtual events
+  - Freshworks (re-)launches its CRM service
       <hr/>
       
-      - *Earlier this year, the founders of event analytics platform Hubilo pivoted to become a virtual events platform to survive the impact of COVID-19. Today, the startup announced it has raised a $4.5 million seed round, led by Lightspeed, and says it expects to e…*
+      - *Freshworks, the customer and employee engagement company that offers a range of products, from call center and customer support software to HR tools and marketing automation services, today announced the launch of its newest product: Freshworks CRM. The new s…*
        
-  - NASA discovers water on the surface of the sunlit portion of the Moon
+  - DataFleets keeps private data useful, and useful data private, with federated learning and $4.5M seed
       <hr/>
        
-       - *NASA has made a groundbreaking discovery – confirming the presence of water on the surface of Moon, in the area that is exposed to sunlight. Previously, we knew that water was present as water ice on the dark part of the Moon, and that’s part of the reason th…*
+       - *As you may already know, there’s a lot of data out there, and some of it could actually be pretty useful. But privacy and security considerations often put strict limitations on how it can be used or analyzed. DataFleets promises a new approach by which datab…*
       
 
 
