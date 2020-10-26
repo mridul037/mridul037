@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Ken Thompson
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One of my most productive days was throwing away 1,000 lines of code.
 
 </pre>
 **Daily News**
-  - Teaching robots through positive reinforcement
+  - Fragomen, a law firm used by Google, confirms data breach
      <hr/>
      
-      - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
+      - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
      
+  - Teaching robots through positive reinforcement
+      <hr/>
+      
+      - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
+      
   - Dallas' ShearShare has a marketplace connecting stylists with available seats at salons and $2.3 million in funding
       <hr/>
       
@@ -81,16 +86,11 @@ One of my most productive days was throwing away 1,000 lines of code.
       <hr/>
       
       - *Starting today, Twitter users in the U.S. will see two large notices at the top of their feeds that aim to “preemptively debunk” misinformation related to voting. The striking messages are designed to push back against the deluge of false claims about the 202…*
-      
+       
   - Max Q: NASA makes key discovery for future of deep space exploration
       <hr/>
-      
-      - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
        
-  - Good and bad board members (and what to do about them)
-      <hr/>
-       
-       - *Ryan Caldbeck, co-founder and former CEO of consumer-brands-focused crowdfunding site CircleUp, recently published an email he’d written to a former director on the board of the company. According to Caldbeck, he wrote the letter after CircleUp had bought out…*
+       - *Max Q is a weekly newsletter from TechCrunch all about space. Sign up here to receive it weekly on Sundays in your inbox. This past week, we unveiled the agenda for TC Sessions: Space for the first time. It’s our inaugural event focused on space startups and …*
       
 
 
