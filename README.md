@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Alan Perlis
+~ James Gleick
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The best book on programming for the layman is Alice in Wonderland, but that's b
 
 </pre>
 **Daily News**
-  - Gillmor Gang: Unsuppressed
+  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
      <hr/>
      
-      - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
+      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
      
+  - Gillmor Gang: Unsuppressed
+      <hr/>
+      
+      - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
+      
   - Microsoft Office gets mouse and trackpad support for the iPad
       <hr/>
       
@@ -81,16 +86,11 @@ The best book on programming for the layman is Alice in Wonderland, but that's b
       <hr/>
       
       - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
-      
+       
   - Fragomen, a law firm used by Google, confirms data breach
       <hr/>
-      
-      - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
        
-  - Teaching robots through positive reinforcement
-      <hr/>
-       
-       - *There likely isn’t a robotics teacher institute in the world actively pursuing robotic learning. The field, after all, holds the key to unlocking a lot of potential for the industry. One of the things that makes it so remarkable is the myriad different approa…*
+       - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
       
 
 
