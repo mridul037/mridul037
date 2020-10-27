@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+Really good programs live forever.
 
-~ David Gelernter
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Beauty is more important in computing than anywhere else in technology because s
 
 </pre>
 **Daily News**
-  - Launch next-level networking with CrunchMatch at our TC Sessions: Space event
+  - How to address inequality exposed by the COVID-19 pandemic
      <hr/>
      
-      - *TC Sessions: Space 2020, our first space technology event, launches December 16-17 and you won’t want to miss our virtual conference focused on this fast-emerging startup category. You’ll hear from the space industry’s top movers, shakers and decision makers …*
+      - *Having a substantial part of our fellow citizens outside the digital environment is a recipe for continued racial injustice, social conflict, economic deprivation and political division.*
      
+  - Google's EU Android choice screen isn't working say search rivals, calling for a joint process to devise a fair remedy
+      <hr/>
+      
+      - *Google search engine rivals have dialled up pressure on the European Commission over the tech giant’s ‘pay-to-play’ choice screen for Android users in Europe — arguing the Google-devised auction has failed to remedy antitrust issues identified by the European…*
+      
+  - Armenian email campaign asks SpaceX not to aid Turkish regime with satellite launch
+      <hr/>
+      
+      - *SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid — and the mass-email me…*
+      
+  - Launch next-level networking with CrunchMatch at our TC Sessions: Space event
+      <hr/>
+      
+      - *TC Sessions: Space 2020, our first space technology event, launches December 16-17 and you won’t want to miss our virtual conference focused on this fast-emerging startup category. You’ll hear from the space industry’s top movers, shakers and decision makers …*
+       
   - T-Mobile launches new TVision streaming bundles, pricing starts at $10 per month
       <hr/>
-      
-      - *T-Mobile is launching new skinny bundles of live TV and streaming services to compete with expensive cable subscriptions. The carrier has already been moving into the TV market with the acquisition of Layer3 and the subsequent launch of TVision Home last year…*
-      
-  - Microsoft stock flat despite better-than-expected earnings, strong Azure growth
-      <hr/>
-      
-      - *Today after the bell, Microsoft reported its calendar Q3 2020 earnings, the period of that time corresponds to its Q1 fiscal 2021 period. In the three months ending September 30, Microsoft had revenues of $37.2 billion and per-share profit of $1.82. Analysts …*
-      
-  - Reddit will allow employees to work from anywhere, going forward
-      <hr/>
-      
-      - *Spurred on by the seemingly endless COVID-19 pandemic — and no doubt inspired by similar moves from companies like Twitter — Reddit today announced plans to offer its staff the opportunity to work remotely, going forward. The company announced the move in a b…*
        
-  - How Jack Dorsey will defend Twitter in tomorrow's Senate hearing on Section 230
-      <hr/>
-       
-       - *Three of tech’s most prominent CEOs tomorrow will face the Senate Commerce Committee during a virtual hearing tomorrow and their opening statements are beginning to trickle out. The hearing, scheduled for 10 AM ET Wednesday, will see Twitter’s Jack Dorsey, Fa…*
+       - *T-Mobile is launching new skinny bundles of live TV and streaming services to compete with expensive cable subscriptions. The carrier has already been moving into the TV market with the acquisition of Layer3 and the subsequent launch of TVision Home last year…*
       
 
 
