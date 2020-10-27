@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 
 ~ Fred Brooks
 <pre>
@@ -67,11 +67,16 @@ Nine women can't make a baby in one month.
 
 </pre>
 **Daily News**
-  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
+  - Video creation and editing platform InVideo raises $15 million
      <hr/>
      
-      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
+      - *InVideo, a Mumbai-based startup that has built a video creation and editing platform, has raised $15 million as it looks to court more users and customers worldwide. The startup offers a freemium web-based editing tool that allows users to create videos for a…*
      
+  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
+      <hr/>
+      
+      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
+      
   - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
       <hr/>
       
@@ -81,16 +86,11 @@ Nine women can't make a baby in one month.
       <hr/>
       
       - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
-      
+       
   - Microsoft Office gets mouse and trackpad support for the iPad
       <hr/>
-      
-      - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
        
-  - Daily Crunch: Facebook launches cloud gaming service
-      <hr/>
-       
-       - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
+       - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
       
 
 
