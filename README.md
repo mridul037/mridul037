@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Really good programs live forever.
+It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 
-~ Charles Simonyi
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Really good programs live forever.
 
 </pre>
 **Daily News**
-  - How to address inequality exposed by the COVID-19 pandemic
+  - Daily Crunch: Zoom adds end-to-end encryption to free calls
      <hr/>
      
-      - *Having a substantial part of our fellow citizens outside the digital environment is a recipe for continued racial injustice, social conflict, economic deprivation and political division.*
+      - *Zoom adds a much-requested feature (but with a catch), TikTok partners with Shopify and Jack Dorsey lays out his argument for tomorrow’s Senate hearing. This is your Daily Crunch for October 27, 2020. The big story: Zoom adds end-to-end encryption to free cal…*
      
+  - Mophie introduces a modular wireless charging module
+      <hr/>
+      
+      - *Here’s a clever addition for Mophie, one of the longstanding battery case makers, which is now a part of the same smartphone accessory conglomerate as Zagg, Braven, iFrogz and InvisibleShield. The Juice Pack Connect is a modular take on the category, with a b…*
+      
+  - How to address inequality exposed by the COVID-19 pandemic
+      <hr/>
+      
+      - *Having a substantial part of our fellow citizens outside the digital environment is a recipe for continued racial injustice, social conflict, economic deprivation and political division.*
+      
   - Google's EU Android choice screen isn't working say search rivals, calling for a joint process to devise a fair remedy
       <hr/>
       
       - *Google search engine rivals have dialled up pressure on the European Commission over the tech giant’s ‘pay-to-play’ choice screen for Android users in Europe — arguing the Google-devised auction has failed to remedy antitrust issues identified by the European…*
-      
+       
   - Armenian email campaign asks SpaceX not to aid Turkish regime with satellite launch
       <hr/>
-      
-      - *SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid — and the mass-email me…*
-      
-  - Launch next-level networking with CrunchMatch at our TC Sessions: Space event
-      <hr/>
-      
-      - *TC Sessions: Space 2020, our first space technology event, launches December 16-17 and you won’t want to miss our virtual conference focused on this fast-emerging startup category. You’ll hear from the space industry’s top movers, shakers and decision makers …*
        
-  - T-Mobile launches new TVision streaming bundles, pricing starts at $10 per month
-      <hr/>
-       
-       - *T-Mobile is launching new skinny bundles of live TV and streaming services to compete with expensive cable subscriptions. The carrier has already been moving into the TV market with the acquisition of Layer3 and the subsequent launch of TVision Home last year…*
+       - *SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid — and the mass-email me…*
       
 
 
