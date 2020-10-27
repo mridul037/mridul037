@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+What I cannot build, I do not understand.
 
-~ Sean Parent
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
 
 </pre>
 **Daily News**
-  - How Jack Dorsey will defend Twitter in tomorrow's Senate hearing on Section 230
+  - Reddit will allow employees to work from anywhere, going forward
      <hr/>
      
-      - *Three of tech’s most prominent CEOs tomorrow will face the Senate Commerce Committee during a virtual hearing tomorrow and their opening statements are beginning to trickle out. The hearing, scheduled for 10 AM ET Wednesday, will see Twitter’s Jack Dorsey, Fa…*
+      - *Spurred on by the seemingly endless COVID-19 pandemic — and no doubt inspired by similar moves from companies like Twitter — Reddit today announced plans to offer its staff the opportunity to work remotely, going forward. The company announced the move in a b…*
      
+  - How Jack Dorsey will defend Twitter in tomorrow's Senate hearing on Section 230
+      <hr/>
+      
+      - *Three of tech’s most prominent CEOs tomorrow will face the Senate Commerce Committee during a virtual hearing tomorrow and their opening statements are beginning to trickle out. The hearing, scheduled for 10 AM ET Wednesday, will see Twitter’s Jack Dorsey, Fa…*
+      
   - Instagram extends time limits on live streams to 4 hours, will soon support archiving
       <hr/>
       
@@ -81,16 +86,11 @@ Good code is short, simple, and symmetrical - the challenge is figuring out how 
       <hr/>
       
       - *Seasonality is critical for the media. End-of-year wrap-ups, best books for the summer, things to do this weekend — they’re all methods to note not only the passage of time, but also to begin to set the tone for what is about to come. Everyone covered the end…*
-      
+       
   - 5 startup theses that will transform the 2020s
       <hr/>
-      
-      - *I wrote a call to action for the tech community to dive deeper into the future of innovation this coming decade. Where are some of the hot spots going to come from though? Below, I have assembled a very loose set of five clusters broadly categorized into “wel…*
        
-  - Stark raises $1.5M for a toolkit that helps developers and others create more inclusive design
-      <hr/>
-       
-       - *Diversity and inclusion are slowly, slowly moving away from being an afterthought (or worse, a no-thought) in the tech world. And to underscore the new attention the area is getting — in every aspect of the concept — today a startup that’s building tools to h…*
+       - *I wrote a call to action for the tech community to dive deeper into the future of innovation this coming decade. Where are some of the hot spots going to come from though? Below, I have assembled a very loose set of five clusters broadly categorized into “wel…*
       
 
 
