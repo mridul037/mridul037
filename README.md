@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+Nine women can't make a baby in one month.
 
-~ Rob Pike
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Fancy algorithms are slow when n is small, and n is usually small.
 
 </pre>
 **Daily News**
-  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
+  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
      <hr/>
      
-      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
+      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
      
+  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
+      <hr/>
+      
+      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
+      
   - Gillmor Gang: Unsuppressed
       <hr/>
       
@@ -81,16 +86,11 @@ Fancy algorithms are slow when n is small, and n is usually small.
       <hr/>
       
       - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
-      
+       
   - Daily Crunch: Facebook launches cloud gaming service
       <hr/>
-      
-      - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
        
-  - Fragomen, a law firm used by Google, confirms data breach
-      <hr/>
-       
-       - *The firm provides employment verification screening services to determine if employees are eligible and authorized to work in the U.S.*
+       - *Facebook gets into cloud gaming while continuing its public dispute with Apple, Ant Group prepares for a massive IPO and Pinterest embraces iOS widgets. This is your Daily Crunch for October 26, 2020. The big story: Facebook launches cloud gaming service Face…*
       
 
 
