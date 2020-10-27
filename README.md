@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+A good programmer is someone who looks both ways before crossing a one-way street.
 
-~ Ivan Sutherland
+~ Doug Linder
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 
 </pre>
 **Daily News**
-  - Deep tech VC fund The Engine raises $230M for its second fund from MIT and new backer Harvard
+  - Join Extra Crunch Live today to talk about managing portfolios during a pandemic and good storytelling with GV's M.G. Siegler
      <hr/>
      
-      - *Deep tech. Hard tech. Or, as The Engine dubs it, Tough Tech. Venture investing today is essentially identical to what happens on Wall Street, focused on data rooms, spreadsheets, SaaS churn models and cohort analysis. Yet, the history of venture capital firms…*
+      - *If anyone knows early-stage investing and startups, it’s M.G. Siegler. As a general partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
      
-  - Boom raises $7M Series A in bid to become the 'Amazon for commercial photography'
+  - TCL announces a $400 5G handset
       <hr/>
       
-      - *Milan-headquartered scale-up Boom, which offers a two-sided tech platform to let companies book and manage commercial photo shoots, has raised $7 million in Series A funding. The round is led by Italy’s United Ventures, with the participation from Wellness Ho…*
+      - *What’s most remarkable about the push for 5G is how quickly the prices came down on handsets sporting the next-gen wireless technology. The push toward affordable 5G devices is clearly as much an indicator as the current state of the smartphone space as anyth…*
       
-  - Daimler Trucks partners with Waymo to build self-driving semi trucks
+  - 10 favorite startups from Techstars' October 2020 class
       <hr/>
       
-      - *Two automotive giants are teaming up to bring self-driving semi-trucks to market. Under this deal, Waymo and Daimler Trucks are partnering to build an autonomous version of the Freightliner Cascadia truck. This is Waymo’s first deal in the freight business. T…*
+      - *A few weeks back, The Exchange dug through a number of Techstars demo days and parsed a few dozen startups to find a few favorites. Today, we’re back for more of the same, albeit with a different set of accelerators’ results to examine. As a reminder, the las…*
       
-  - Course Hero buys Symbolab in a rare edtech acquisition
+  - Google confirms post-Election Day political ad ban, partners with AP on election results
       <hr/>
       
-      - *Months after its $80 million Series B fundraise, Course Hero has acquired Symbolab, an artificial intelligence-powered calculator that helps students answer and understand complex math questions. The price of the deal was undisclosed. The 9-person Symbolab te…*
+      - *Google today announced several updates related to how it’s helping direct people to the polls, provide election results, and help people access real-time election news across its platforms and services, like Search, Assistant and YouTube. The company said it …*
        
-  - Spying a pivot to ghost kitchens, Softbank's second Vision Fund pours $120 million into Ordermark
+  - Lightyear scores $3.7M seed to digitize networking infrastructure procurement
       <hr/>
        
-       - *“We’re building a decentralized ghost kitchen,” is a sentence that could launch a thousand investor calls, and Alex Canter, the chief executive officer behind Ordermark, knows it. The 29 year-old CEO has, indeed, built a decentralized ghost kitchen — and mana…*
+       - *Lightyear, a New York City startup that wants to make it easier for large companies to procure networking infrastructure like internet and SD-WAN, announced a $3.7 million seed round today. While it was at it, the company announced that it was emerging from s…*
       
 
 
