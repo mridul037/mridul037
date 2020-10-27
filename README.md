@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 
-~ Henry Petroski
+~ Sean Parent
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The most amazing achievement of the computer software industry is its continuing
 
 </pre>
 **Daily News**
-  - Stark raises $1.5M for a toolkit that helps developers and others create more inclusive design
+  - How Jack Dorsey will defend Twitter in tomorrow's Senate hearing on Section 230
      <hr/>
      
-      - *Diversity and inclusion are slowly, slowly moving away from being an afterthought (or worse, a no-thought) in the tech world. And to underscore the new attention the area is getting — in every aspect of the concept — today a startup that’s building tools to h…*
+      - *Three of tech’s most prominent CEOs tomorrow will face the Senate Commerce Committee during a virtual hearing tomorrow and their opening statements are beginning to trickle out. The hearing, scheduled for 10 AM ET Wednesday, will see Twitter’s Jack Dorsey, Fa…*
      
-  - Wyze launches version 3 of its $20 security camera
+  - Instagram extends time limits on live streams to 4 hours, will soon support archiving
       <hr/>
       
-      - *Wyze first made a name for itself when it launched its $20 indoor security camera a few years ago. Since then, the company branched out into other smart home products, ranging from doorbells to scales. Today, it’s going back to its origins with the launch of …*
+      - *Instagram is adapting to the way creators have been using its service during the coronavirus pandemic. With individuals and businesses now limited from hosting in-person events — like concerts, classes, meetups, and more — users have turned to Instagram to li…*
       
-  - Next-gen skincare, silk without spiders and pollution for lunch: Meet the biotech startups pitching at IndieBio’s Demo Day
+  - Let’s move beyond 2020 and start thinking about the 2020s
       <hr/>
       
-      - *Biotech can often, and sometimes literally, fly over our heads. However, the pandemic has shown an increased need for investment and focus on solutions that work on human and planetary health. For IndieBio, a science and biotech accelerator run by VC firm SOS…*
+      - *Seasonality is critical for the media. End-of-year wrap-ups, best books for the summer, things to do this weekend — they’re all methods to note not only the passage of time, but also to begin to set the tone for what is about to come. Everyone covered the end…*
       
-  - Ubisoft’s subscription service comes to Stadia and Luna
+  - 5 startup theses that will transform the 2020s
       <hr/>
       
-      - *Ubisoft originally announced its subscription service back in June. Today, the company is rebranding the service from UPlay+ to Ubisoft+. The service is also on its way to Amazon’s Luna and Google’s Stadia. Ubisoft is betting on a multi-platform subscription,…*
+      - *I wrote a call to action for the tech community to dive deeper into the future of innovation this coming decade. Where are some of the hot spots going to come from though? Below, I have assembled a very loose set of five clusters broadly categorized into “wel…*
        
-  - Hands-on: Sony's DualSense PS5 controller could be a game changer
+  - Stark raises $1.5M for a toolkit that helps developers and others create more inclusive design
       <hr/>
        
-       - *After spending a few hours with the PlayStation 5 and its completely redesigned DualSense controller, I can say with confidence that the new haptics and audio features certainly work — and could become integral to the gaming experience. But only if — and it’s…*
+       - *Diversity and inclusion are slowly, slowly moving away from being an afterthought (or worse, a no-thought) in the tech world. And to underscore the new attention the area is getting — in every aspect of the concept — today a startup that’s building tools to h…*
       
 
 
