@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, leave it out.
+A computer shall not waste your time or require you to do more work than is strictly necessary.
 
-~ Joshua Bloch
+~ Jef Raskin
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ When in doubt, leave it out.
 
 </pre>
 **Daily News**
-  - Uber's 'robo-firing' of drivers targeted in latest European lawsuit
+  - SimilarWeb raises $120M for its AI-based market intelligence platform for sites and apps
      <hr/>
      
-      - *Uber is facing another legal challenge in Europe related to algorithmic decision making. The App Drivers & Couriers Union (ADCU) filed a case, yesterday, with a court in the Netherlands seeking to challenge the ride hailing company’s practice of ‘robo-firing’…*
+      - *Israeli startup SimilarWeb has made a name for itself with an AI-based platform that lets sites and apps track and understand traffic not just on their own sites, but those of its competitors. Now, it’s taking the next step in its growth. The startup has rais…*
      
-  - Deci raises $9.1M to optimize AI models with AI
+  - Impact America Fund closes $55M to invest in startups targeting the world’s overlooked
       <hr/>
       
-      - *Deci, a Tel Aviv-based startup that is building a new platform that uses AI to optimized AI models and get them ready for production, today announced that it has raised a $9.1 million seed round led by Emerge and Square Peg. The general idea here is to make i…*
+      - *The entire asset class of venture capital is built atop systemic racism. The numbers don’t lie: only 2% of partner-level VCs are Black, and 81% of venture capital firms don’t have a Black partner on board. The lack of diversity in check-writers doesn’t stay i…*
       
-  - Leading Edge Equipment has a technology to improve solar manufacturing and $7.6 million to go to market
+  - Lightspeed Venture Partners backs Theta Lake's video conferencing security tech with $12.7 million
       <hr/>
       
-      - *Only a few weeks after the successful public offering of Array Technologies proved that there’s a market for technologies aimed at improving efficiencies across the solar manufacturing and installation chain, Leading Edge Equipment has raised capital for its …*
+      - *Theta Lake, a provider of compliance and security tools for conferencing software like Cisco Webex, Microsoft Teams, RingCentral, Zoom and others, said it has raised $12.7 million in a new round of funding. Lightspeed Venture Partners led the round with commi…*
       
-  - Bogota's Tül raises $4 million to improve the supply chain for construction in Latin America
+  - AMD grabs Xilinx for $35 billion as chip industry consolidation continues
       <hr/>
       
-      - *With a new $4 million round, the Bogota-based supply chain logistics technology developer Tül is prepping to expand across the Latin American region. Founded by Enrique Villamarin Lafaurie and Juan Carlos Narváez, Tül’s technology connects construction manufa…*
+      - *The chip industry consolidation dance continued this morning as AMD has entered into an agreement to buy Xilinx for $35 billion, giving the company access to customers requiring chips with high performance workloads like artificial intelligence. AMD sees this…*
        
-  - NeoLight's jaundice treatment catches another $7 million to bring neonatal light therapy to the home
+  - Uber's 'robo-firing' of drivers targeted in latest European lawsuit
       <hr/>
        
-       - *NeoLight, a startup company that’s working to bring hospital-grade neonatal care technologies to the home, has raised $7 million more in financing. Dignity Health and Honor Health Systems came in to support the company along with previous investors like the P…*
+       - *Uber is facing another legal challenge in Europe related to algorithmic decision making. The App Drivers & Couriers Union (ADCU) filed a case, yesterday, with a court in the Netherlands seeking to challenge the ride hailing company’s practice of ‘robo-firing’…*
       
 
 
