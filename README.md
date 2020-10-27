@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 
-~ Richard Feynman
+~ David Gelernter
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ What I cannot build, I do not understand.
 
 </pre>
 **Daily News**
-  - Reddit will allow employees to work from anywhere, going forward
+  - Launch next-level networking with CrunchMatch at our TC Sessions: Space event
      <hr/>
      
-      - *Spurred on by the seemingly endless COVID-19 pandemic — and no doubt inspired by similar moves from companies like Twitter — Reddit today announced plans to offer its staff the opportunity to work remotely, going forward. The company announced the move in a b…*
+      - *TC Sessions: Space 2020, our first space technology event, launches December 16-17 and you won’t want to miss our virtual conference focused on this fast-emerging startup category. You’ll hear from the space industry’s top movers, shakers and decision makers …*
      
+  - T-Mobile launches new TVision streaming bundles, pricing starts at $10 per month
+      <hr/>
+      
+      - *T-Mobile is launching new skinny bundles of live TV and streaming services to compete with expensive cable subscriptions. The carrier has already been moving into the TV market with the acquisition of Layer3 and the subsequent launch of TVision Home last year…*
+      
+  - Microsoft stock flat despite better-than-expected earnings, strong Azure growth
+      <hr/>
+      
+      - *Today after the bell, Microsoft reported its calendar Q3 2020 earnings, the period of that time corresponds to its Q1 fiscal 2021 period. In the three months ending September 30, Microsoft had revenues of $37.2 billion and per-share profit of $1.82. Analysts …*
+      
+  - Reddit will allow employees to work from anywhere, going forward
+      <hr/>
+      
+      - *Spurred on by the seemingly endless COVID-19 pandemic — and no doubt inspired by similar moves from companies like Twitter — Reddit today announced plans to offer its staff the opportunity to work remotely, going forward. The company announced the move in a b…*
+       
   - How Jack Dorsey will defend Twitter in tomorrow's Senate hearing on Section 230
       <hr/>
-      
-      - *Three of tech’s most prominent CEOs tomorrow will face the Senate Commerce Committee during a virtual hearing tomorrow and their opening statements are beginning to trickle out. The hearing, scheduled for 10 AM ET Wednesday, will see Twitter’s Jack Dorsey, Fa…*
-      
-  - Instagram extends time limits on live streams to 4 hours, will soon support archiving
-      <hr/>
-      
-      - *Instagram is adapting to the way creators have been using its service during the coronavirus pandemic. With individuals and businesses now limited from hosting in-person events — like concerts, classes, meetups, and more — users have turned to Instagram to li…*
-      
-  - Let’s move beyond 2020 and start thinking about the 2020s
-      <hr/>
-      
-      - *Seasonality is critical for the media. End-of-year wrap-ups, best books for the summer, things to do this weekend — they’re all methods to note not only the passage of time, but also to begin to set the tone for what is about to come. Everyone covered the end…*
        
-  - 5 startup theses that will transform the 2020s
-      <hr/>
-       
-       - *I wrote a call to action for the tech community to dive deeper into the future of innovation this coming decade. Where are some of the hot spots going to come from though? Below, I have assembled a very loose set of five clusters broadly categorized into “wel…*
+       - *Three of tech’s most prominent CEOs tomorrow will face the Senate Commerce Committee during a virtual hearing tomorrow and their opening statements are beginning to trickle out. The hearing, scheduled for 10 AM ET Wednesday, will see Twitter’s Jack Dorsey, Fa…*
       
 
 
