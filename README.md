@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer shall not waste your time or require you to do more work than is strictly necessary.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Jef Raskin
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A computer shall not waste your time or require you to do more work than is stri
 
 </pre>
 **Daily News**
-  - SimilarWeb raises $120M for its AI-based market intelligence platform for sites and apps
+  - Deep tech VC fund The Engine raises $230M for its second fund from MIT and new backer Harvard
      <hr/>
      
-      - *Israeli startup SimilarWeb has made a name for itself with an AI-based platform that lets sites and apps track and understand traffic not just on their own sites, but those of its competitors. Now, it’s taking the next step in its growth. The startup has rais…*
+      - *Deep tech. Hard tech. Or, as The Engine dubs it, Tough Tech. Venture investing today is essentially identical to what happens on Wall Street, focused on data rooms, spreadsheets, SaaS churn models and cohort analysis. Yet, the history of venture capital firms…*
      
-  - Impact America Fund closes $55M to invest in startups targeting the world’s overlooked
+  - Boom raises $7M Series A in bid to become the 'Amazon for commercial photography'
       <hr/>
       
-      - *The entire asset class of venture capital is built atop systemic racism. The numbers don’t lie: only 2% of partner-level VCs are Black, and 81% of venture capital firms don’t have a Black partner on board. The lack of diversity in check-writers doesn’t stay i…*
+      - *Milan-headquartered scale-up Boom, which offers a two-sided tech platform to let companies book and manage commercial photo shoots, has raised $7 million in Series A funding. The round is led by Italy’s United Ventures, with the participation from Wellness Ho…*
       
-  - Lightspeed Venture Partners backs Theta Lake's video conferencing security tech with $12.7 million
+  - Daimler Trucks partners with Waymo to build self-driving semi trucks
       <hr/>
       
-      - *Theta Lake, a provider of compliance and security tools for conferencing software like Cisco Webex, Microsoft Teams, RingCentral, Zoom and others, said it has raised $12.7 million in a new round of funding. Lightspeed Venture Partners led the round with commi…*
+      - *Two automotive giants are teaming up to bring self-driving semi-trucks to market. Under this deal, Waymo and Daimler Trucks are partnering to build an autonomous version of the Freightliner Cascadia truck. This is Waymo’s first deal in the freight business. T…*
       
-  - AMD grabs Xilinx for $35 billion as chip industry consolidation continues
+  - Course Hero buys Symbolab in a rare edtech acquisition
       <hr/>
       
-      - *The chip industry consolidation dance continued this morning as AMD has entered into an agreement to buy Xilinx for $35 billion, giving the company access to customers requiring chips with high performance workloads like artificial intelligence. AMD sees this…*
+      - *Months after its $80 million Series B fundraise, Course Hero has acquired Symbolab, an artificial intelligence-powered calculator that helps students answer and understand complex math questions. The price of the deal was undisclosed. The 9-person Symbolab te…*
        
-  - Uber's 'robo-firing' of drivers targeted in latest European lawsuit
+  - Spying a pivot to ghost kitchens, Softbank's second Vision Fund pours $120 million into Ordermark
       <hr/>
        
-       - *Uber is facing another legal challenge in Europe related to algorithmic decision making. The App Drivers & Couriers Union (ADCU) filed a case, yesterday, with a court in the Netherlands seeking to challenge the ride hailing company’s practice of ‘robo-firing’…*
+       - *“We’re building a decentralized ghost kitchen,” is a sentence that could launch a thousand investor calls, and Alex Canter, the chief executive officer behind Ordermark, knows it. The 29 year-old CEO has, indeed, built a decentralized ghost kitchen — and mana…*
       
 
 
