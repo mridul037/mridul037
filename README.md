@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+Fancy algorithms are slow when n is small, and n is usually small.
 
-~ Jim Horning
+~ Rob Pike
 <pre>
 
 </pre>
