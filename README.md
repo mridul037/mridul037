@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A beautiful program is like a beautiful theorem: It does the job elegantly.
+When in doubt, leave it out.
 
-~ Butler Lampson
+~ Joshua Bloch
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A beautiful program is like a beautiful theorem: It does the job elegantly.
 
 </pre>
 **Daily News**
-  - Bogota's Tül raises $4 million to improve the supply chain for construction in Latin America
+  - Uber's 'robo-firing' of drivers targeted in latest European lawsuit
      <hr/>
      
-      - *With a new $4 million round, the Bogota-based supply chain logistics technology developer Tül is prepping to expand across the Latin American region. Founded by Enrique Villamarin Lafaurie and Juan Carlos Narváez, Tül’s technology connects construction manufa…*
+      - *Uber is facing another legal challenge in Europe related to algorithmic decision making. The App Drivers & Couriers Union (ADCU) filed a case, yesterday, with a court in the Netherlands seeking to challenge the ride hailing company’s practice of ‘robo-firing’…*
      
+  - Deci raises $9.1M to optimize AI models with AI
+      <hr/>
+      
+      - *Deci, a Tel Aviv-based startup that is building a new platform that uses AI to optimized AI models and get them ready for production, today announced that it has raised a $9.1 million seed round led by Emerge and Square Peg. The general idea here is to make i…*
+      
+  - Leading Edge Equipment has a technology to improve solar manufacturing and $7.6 million to go to market
+      <hr/>
+      
+      - *Only a few weeks after the successful public offering of Array Technologies proved that there’s a market for technologies aimed at improving efficiencies across the solar manufacturing and installation chain, Leading Edge Equipment has raised capital for its …*
+      
+  - Bogota's Tül raises $4 million to improve the supply chain for construction in Latin America
+      <hr/>
+      
+      - *With a new $4 million round, the Bogota-based supply chain logistics technology developer Tül is prepping to expand across the Latin American region. Founded by Enrique Villamarin Lafaurie and Juan Carlos Narváez, Tül’s technology connects construction manufa…*
+       
   - NeoLight's jaundice treatment catches another $7 million to bring neonatal light therapy to the home
       <hr/>
-      
-      - *NeoLight, a startup company that’s working to bring hospital-grade neonatal care technologies to the home, has raised $7 million more in financing. Dignity Health and Honor Health Systems came in to support the company along with previous investors like the P…*
-      
-  - India's FreshToHome raises $121 million to grow its meat and vegetable e-commerce platform
-      <hr/>
-      
-      - *FreshToHome, an Indian e-commerce startup that sells fresh vegetables, fish, chicken and other kinds of meat, has raised $121 million in a new financing round as the Bangalore-headquartered firm reports accelerated growth spurred by the coronavirus pandemic. …*
-      
-  - Face to Face, Tinder's opt-in video chat feature, is now rolling out globally
-      <hr/>
-      
-      - *Tinder, currently the world’s biggest biggest dating app for people to find matches and connect with them, is expanding another feature today to extend the time people spend in the app, and the communications they can have within it. Face to Face, an opt-in-o…*
        
-  - White Castle rolls out more robots from Miso Robotics to cook in its kitchens
-      <hr/>
-       
-       - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
+       - *NeoLight, a startup company that’s working to bring hospital-grade neonatal care technologies to the home, has raised $7 million more in financing. Dignity Health and Honor Health Systems came in to support the company along with previous investors like the P…*
       
 
 
