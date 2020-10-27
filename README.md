@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No code is faster than no code.
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 
-~ Kevlin Henney
+~ Alan Perlis
 <pre>
 
 </pre>
