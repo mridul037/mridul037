@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+The manager's function is not to make people work, but to make it possible for people to work.
 
-~ Fred Brooks
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If each part of the task must be separately coordinated with each other part, th
 
 </pre>
 **Daily News**
-  - Video creation and editing platform InVideo raises $15 million
+  - Face to Face, Tinder's opt-in video chat feature, is now rolling out globally
      <hr/>
      
-      - *InVideo, a Mumbai-based startup that has built a video creation and editing platform, has raised $15 million as it looks to court more users and customers worldwide. The startup offers a freemium web-based editing tool that allows users to create videos for a…*
+      - *Tinder, currently the world’s biggest biggest dating app for people to find matches and connect with them, is expanding another feature today to extend the time people spend in the app, and the communications they can have within it. Face to Face, an opt-in-o…*
      
+  - White Castle rolls out more robots from Miso Robotics to cook in its kitchens
+      <hr/>
+      
+      - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
+      
+  - Video creation and editing platform InVideo raises $15 million
+      <hr/>
+      
+      - *InVideo, a Mumbai-based startup that has built a video creation and editing platform, has raised $15 million as it looks to court more users and customers worldwide. The startup offers a freemium web-based editing tool that allows users to create videos for a…*
+      
   - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
       <hr/>
       
       - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
-      
+       
   - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
       <hr/>
-      
-      - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
-      
-  - Gillmor Gang: Unsuppressed
-      <hr/>
-      
-      - *Not just the future of civilization is up for grabs this November. In this age of mobile social computing, we’re figuring out how to vote, entertain, teach, learn, and commit to meaningful change. Thanks to the pandemic emergency, our plans for transforming o…*
        
-  - Microsoft Office gets mouse and trackpad support for the iPad
-      <hr/>
-       
-       - *As promised, Microsoft announced that it has added full trackpad and mouse support for the iPadOS version of Microsoft 360. That includes Word, Excel and PowerPoint, marking another important step in Apple’s longstanding push to blur the line between tablet a…*
+       - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
       
 
 
