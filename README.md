@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The manager's function is not to make people work, but to make it possible for people to work.
+A beautiful program is like a beautiful theorem: It does the job elegantly.
 
-~ Tom DeMarco
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The manager's function is not to make people work, but to make it possible for p
 
 </pre>
 **Daily News**
-  - Face to Face, Tinder's opt-in video chat feature, is now rolling out globally
+  - Bogota's Tül raises $4 million to improve the supply chain for construction in Latin America
      <hr/>
      
-      - *Tinder, currently the world’s biggest biggest dating app for people to find matches and connect with them, is expanding another feature today to extend the time people spend in the app, and the communications they can have within it. Face to Face, an opt-in-o…*
+      - *With a new $4 million round, the Bogota-based supply chain logistics technology developer Tül is prepping to expand across the Latin American region. Founded by Enrique Villamarin Lafaurie and Juan Carlos Narváez, Tül’s technology connects construction manufa…*
      
+  - NeoLight's jaundice treatment catches another $7 million to bring neonatal light therapy to the home
+      <hr/>
+      
+      - *NeoLight, a startup company that’s working to bring hospital-grade neonatal care technologies to the home, has raised $7 million more in financing. Dignity Health and Honor Health Systems came in to support the company along with previous investors like the P…*
+      
+  - India's FreshToHome raises $121 million to grow its meat and vegetable e-commerce platform
+      <hr/>
+      
+      - *FreshToHome, an Indian e-commerce startup that sells fresh vegetables, fish, chicken and other kinds of meat, has raised $121 million in a new financing round as the Bangalore-headquartered firm reports accelerated growth spurred by the coronavirus pandemic. …*
+      
+  - Face to Face, Tinder's opt-in video chat feature, is now rolling out globally
+      <hr/>
+      
+      - *Tinder, currently the world’s biggest biggest dating app for people to find matches and connect with them, is expanding another feature today to extend the time people spend in the app, and the communications they can have within it. Face to Face, an opt-in-o…*
+       
   - White Castle rolls out more robots from Miso Robotics to cook in its kitchens
       <hr/>
-      
-      - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
-      
-  - Video creation and editing platform InVideo raises $15 million
-      <hr/>
-      
-      - *InVideo, a Mumbai-based startup that has built a video creation and editing platform, has raised $15 million as it looks to court more users and customers worldwide. The startup offers a freemium web-based editing tool that allows users to create videos for a…*
-      
-  - Apeel gets more cash to fight food insecurity in emerging markets with its food-preserving tech
-      <hr/>
-      
-      - *In the first real test of the potentially transformative power of its food-preserving technology, the Santa Barbara, Calif.-based Apeel Sciences is bringing its innovative food treatment and supply chain management services to distribution centers in select m…*
        
-  - Facebook employee-turned-critic Tim Kendall traces "extractive business models" to VCs
-      <hr/>
-       
-       - *Last month, former Facebook and Pinterest executive Tim Kendall told Congress during a House hearing on the dangers of social media that Facebook made its products so addictive because its ad-driven business model relies on people paying attention to its prod…*
+       - *More robots are coming to White Castle. Expanding a partnership with Miso Robotics, around 10 new White Castle locations will be rolling out the Pasadena, Calif.-based company’s robotic fry cook. The move accelerates the adoption of Miso Robotics’ newly desig…*
       
 
 
