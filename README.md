@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 
-~ Edsger W. Dijkstra
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
 </pre>
 **Daily News**
-  - Rockset announces $40M Series B as data analytics solution gains momentum
+  - Next-gen skincare, silk without spiders and pollution for lunch: Meet the biotech startups pitching at IndieBio’s Demo Day
      <hr/>
      
-      - *Rockset, a cloud-native analytics company, announced a $40 million Series B investment today led by Sequoia with help from Greylock, the same two firms that financed its Series A. The startup has now raised a total of $61.5 million, according to the company. …*
+      - *Biotech can often, and sometimes literally, fly over our heads. However, the pandemic has shown an increased need for investment and focus on solutions that work on human and planetary health. For IndieBio, a science and biotech accelerator run by VC firm SOS…*
      
-  - Amazon adds device dashboard in bid to make Fire tablets a smart home control center
+  - Ubisoft’s subscription service comes to Stadia and Luna
       <hr/>
       
-      - *It’s been a busy few weeks for the smart home race. Amazon, Google and Apple have all announced new smart speakers aimed at — among other things — cementing their respective positions at the center of users’ connected households. Adding onto the introduction …*
+      - *Ubisoft originally announced its subscription service back in June. Today, the company is rebranding the service from UPlay+ to Ubisoft+. The service is also on its way to Amazon’s Luna and Google’s Stadia. Ubisoft is betting on a multi-platform subscription,…*
       
-  - Upstream aims to be the new home for your professional social life
+  - Hands-on: Sony's DualSense PS5 controller could be a game changer
       <hr/>
       
-      - *Last fall, social analytics startup SocialRank sold its product and business to Trufan, allowing the team to focus on something new: a professional social network. Today, they’re officially unveiling Upstream to the public. To be clear, CEO Alex Taub told me …*
+      - *After spending a few hours with the PlayStation 5 and its completely redesigned DualSense controller, I can say with confidence that the new haptics and audio features certainly work — and could become integral to the gaming experience. But only if — and it’s…*
       
-  - Panoply raises $10M for its cloud data platform
+  - SpaceX launches Starlink app and provides pricing and service info to early beta testers
       <hr/>
       
-      - *Panoply, a platform that makes it easier for businesses to set up a data warehouse and analyze that data with standard SQL queries, today announced that it has raised an additional $10 million in funding from Ibex Investors and C5 Capital. This brings the tot…*
+      - *SpaceX has debuted an official app for its Starlink satellite broadband internet service, for both iOS and Android devices. The Starlink app allows users to manage their connection – but to take part you’ll have to be part of the official beta program, and th…*
        
-  - Anima's latest update draws on the popularity of design and no-code tools
+  - Netflix is developing a live action 'Assassin's Creed' show
       <hr/>
        
-       - *Anima, the company that turns design prototypes into code, has today announced the launch of Anima 4.0, which will allow designers to create prototypes in Figma that are translated into components in React with the click of a button. The company was founded b…*
+       - *Netflix announced this morning that it’s partnering with Ubisoft to adapt the game publisher’s “Assassin’s Creed” franchise into a live action series. The franchise jumps around in history, telling the story of a secret society of assassins with “genetic memo…*
       
 
 
