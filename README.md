@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A good programmer is someone who looks both ways before crossing a one-way street.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Doug Linder
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A good programmer is someone who looks both ways before crossing a one-way stree
 
 </pre>
 **Daily News**
-  - Join Extra Crunch Live today to talk about managing portfolios during a pandemic and good storytelling with GV's M.G. Siegler
+  - Rockset announces $40M Series B as data analytics solution gains momentum
      <hr/>
      
-      - *If anyone knows early-stage investing and startups, it’s M.G. Siegler. As a general partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He’s also a TechCr…*
+      - *Rockset, a cloud-native analytics company, announced a $40 million Series B investment today led by Sequoia with help from Greylock, the same two firms that financed its Series A. The startup has now raised a total of $61.5 million, according to the company. …*
      
-  - TCL announces a $400 5G handset
+  - Amazon adds device dashboard in bid to make Fire tablets a smart home control center
       <hr/>
       
-      - *What’s most remarkable about the push for 5G is how quickly the prices came down on handsets sporting the next-gen wireless technology. The push toward affordable 5G devices is clearly as much an indicator as the current state of the smartphone space as anyth…*
+      - *It’s been a busy few weeks for the smart home race. Amazon, Google and Apple have all announced new smart speakers aimed at — among other things — cementing their respective positions at the center of users’ connected households. Adding onto the introduction …*
       
-  - 10 favorite startups from Techstars' October 2020 class
+  - Upstream aims to be the new home for your professional social life
       <hr/>
       
-      - *A few weeks back, The Exchange dug through a number of Techstars demo days and parsed a few dozen startups to find a few favorites. Today, we’re back for more of the same, albeit with a different set of accelerators’ results to examine. As a reminder, the las…*
+      - *Last fall, social analytics startup SocialRank sold its product and business to Trufan, allowing the team to focus on something new: a professional social network. Today, they’re officially unveiling Upstream to the public. To be clear, CEO Alex Taub told me …*
       
-  - Google confirms post-Election Day political ad ban, partners with AP on election results
+  - Panoply raises $10M for its cloud data platform
       <hr/>
       
-      - *Google today announced several updates related to how it’s helping direct people to the polls, provide election results, and help people access real-time election news across its platforms and services, like Search, Assistant and YouTube. The company said it …*
+      - *Panoply, a platform that makes it easier for businesses to set up a data warehouse and analyze that data with standard SQL queries, today announced that it has raised an additional $10 million in funding from Ibex Investors and C5 Capital. This brings the tot…*
        
-  - Lightyear scores $3.7M seed to digitize networking infrastructure procurement
+  - Anima's latest update draws on the popularity of design and no-code tools
       <hr/>
        
-       - *Lightyear, a New York City startup that wants to make it easier for large companies to procure networking infrastructure like internet and SD-WAN, announced a $3.7 million seed round today. While it was at it, the company announced that it was emerging from s…*
+       - *Anima, the company that turns design prototypes into code, has today announced the launch of Anima 4.0, which will allow designers to create prototypes in Figma that are translated into components in React with the click of a button. The company was founded b…*
       
 
 
