@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+An evolving system increases its complexity unless work is done to reduce it.
 
-~ Danny Hillis
+~ Manny Lehman (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computers are the most complex objects we human beings have ever created, but in
 
 </pre>
 **Daily News**
-  - Justice at Spotify demands better compensation and increased transparency for musicians
+  - Jackery's solar generator system helps you collect and store more than enough juice for off-grid essentials
      <hr/>
      
-      - *Musicians have taken issue with Spotify’s artist compensation for about as long as there’s been a Spotify. Making a living as a musician is difficult enough for the vast majority of those who are brave — or perhaps foolish — enough to attempt such things, but…*
+      - *Portable power is a very convenient thing to have on hand, as proven by the popularity of pocket power banks for providing backup energy for smartphones and tablets. Jackery’s lineup of battery backups offer an entirely different, much greater level of portab…*
      
-  - Apple's Jeff Bigham, disability rights lawyer Haben Girma, author Sara Hendren and more to join Sight Tech Global
+  - How is the Air Force looking to spend its $60 billion R&D budget?
       <hr/>
       
-      - *The other day we announced the first ten sessions for Sight Tech Global, a virtual event Dec. 2-3 that is convening the world’s top technologists to discuss how AI-based technologies are revolutionizing the future of accessibility. Today, we’re pleased to ann…*
+      - *Dr. Will Roper, the man in charge of the purse strings for the Air Force’s $60 billion research and development and acquisition budget, oversees some 550 programs for the Air Force. It’s a huge responsibility that has massive implications for the future of th…*
       
-  - Audible further expands into podcasts
+  - As venture capital rebounds, what's going on with venture debt?
       <hr/>
       
-      - *Audible, the Amazon-owned audiobook company, is further expanding into podcasts with the addition of approximately 100,000 of podcasts, totaling 5 million episodes to its service. The shows will be offered for free streaming to Audible members and non-subscri…*
+      - *The American venture capital world has staged an impressive comeback from the early months of the COVID-19 pandemic. For a moment, there was worry that startups would struggle to raise for quarters, leading to layoffs, slowed hiring and budget cuts. But as th…*
       
-  - Lotame unveils its new cookie-less tech for ad targeting
+  - Current and upcoming trends in Latin America's mobile growth
       <hr/>
       
-      - *Data management company Lotame is announcing a new way for publishers and marketers to track identity that it calls Panorama ID . For years, online advertisers have relied on cookies to track and target audiences, but they need new approaches as the major bro…*
+      - *Mobile companies that seize on the progress already taking place and learn from or integrate trends like digital wallets, QR codes, on-demand delivery and 5G will be poised for the biggest success in LATAM — and quite possibly, on a global stage.*
        
-  - Pulumi raises $37.5M Series B for its cloud engineering platform
+  - Coinbase to launch debit card in the US with rewards program
       <hr/>
        
-       - *Seattle-based Pulumi, one of the newer startups in the ”infrastructure-as-code” space, today announced that it has raised a $37.5 million Series B funding round led by NEA. Previous investors Madrona Venture Group and Tola Capital also participated in this ro…*
+       - *Cryptocurrency exchange Coinbase is launching a debit card in the U.S. this winter. Customers can join the waitlist and get the Coinbase Card whenever it is available. Coinbase already launched the Coinbase Card in the U.K. and Europe. The Coinbase Card is a …*
       
 
 
