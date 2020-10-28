@@ -23,10 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+Never trust a computer you can’t throw out a window.
 
-~ Bob Frankston
+~ Steve Wozniak
 <pre>
 
 </pre>
@@ -68,11 +67,16 @@ computer getting it right is pretty small.
 
 </pre>
 **Daily News**
-  - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
+  - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
      <hr/>
      
-      - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
+      - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
      
+  - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
+      <hr/>
+      
+      - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
+      
   - Joe Rogan, Alex Jones and Spotify's illusion of neutrality
       <hr/>
       
@@ -82,16 +86,11 @@ computer getting it right is pretty small.
       <hr/>
       
       - *AppFollow, an app management startup, has raised a $5 million Series A round led by Barcelona’s Nauta Capital, alongside existing investors Vendep Capital and RTP Global participating. The Helsinki-headquartered company says benefitted during the pandemic and…*
-      
+       
   - Outrider raises $65 million to bring its autonomous tech to distribution yards
       <hr/>
-      
-      - *Outrider, a startup aiming to bring its autonomous technology to the nerve center of the supply chain, has raised $65 million in funding just eight months after coming out of stealth. The Series B round was led by Koch Disruptive Technologies and brings its t…*
        
-  - Qualtrics CEO  Ryan Smith is buying majority stake in the Utah Jazz for $1.6B
-      <hr/>
-       
-       - *The Utah Jazz, an NBA basketball team based in Salt Lake City, announced today that Qualitrics CEO and co-founder Ryan Smith was buying a majority stake in the team along other properties. ESPN is reporting the deal is worth $1.6 billion. Smith can afford it.…*
+       - *Outrider, a startup aiming to bring its autonomous technology to the nerve center of the supply chain, has raised $65 million in funding just eight months after coming out of stealth. The Series B round was led by Koch Disruptive Technologies and brings its t…*
       
 
 
