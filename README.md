@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There's nothing more permanent than a temporary hack.
+People under pressure don’t work better; they just work faster.
 
-~ Kyle Simpson
+~ Tom DeMarco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There's nothing more permanent than a temporary hack.
 
 </pre>
 **Daily News**
-  - That dreadful VPN might finally be dead thanks to Twingate, a new startup built by Dropbox alums
+  - Tech stocks sell off sharply as market looks at COVID-19 numbers, whispers 'oh f***'
      <hr/>
      
-      - *VPNs, or virtual private networks, are a mainstay of corporate network security (and also consumers trying to stream Netflix while pretending to be from other countries). VPNs create an encrypted channel between your device (a laptop or a smartphone) and a co…*
+      - *The American stock market is struggling today, with tech stocks in particular taking extra stick. After European stocks tanked on the back of COVID-19 concerns, American stocks are following suit. Tech stocks in particular. As of the time of writing, the Dow …*
      
-  - The Flume 2 Smart Home Water Monitor is a smart, easy-to-use, and essential smart home device
+  - The DOJ investigating Visa's $5.3 billion bid for Plaid on antitrust grounds
       <hr/>
       
-      - *Many smart home gadgets focus on convenience or automation of typically manual tasks, but Flume’s smart water sensor provides a potentially much more vital service: The ability to track how much water you’re consuming, and alert you to potential leaks in you …*
+      - *It’s not just big tech that’s getting the antitrust treatment from the Department of Justice. Late Monday afternoon, the Department of Justice tipped its hand that it was investigating Visa’s proposed $5.3 billion acquisition of the venture-backed Plaid, whic…*
       
-  - DoubleVerify, a specialist in brand safety, ad fraud and ad quality, raises $350M
+  - Stripe Climate is a new tool to let Stripe customers purchase credits towards carbon removal efforts
       <hr/>
       
-      - *Ad-based platforms can face a lot of heat from advertisers when they can’t control how and where their ads run: just look back to the ad boycott against Facebook earlier this year (or earlier boycotts against YouTube and others) as examples of when it all goe…*
+      - *Last year, payments giant Stripe announced that it would donate $1 million of its own funds annually into companies that are building technology to remove carbon from our environment, with the recipients of that investment announced in May of this year. Now, …*
       
-  - Lunchbox raises $20M to help restaurants build their own ordering experiences
+  - 3 lessons from Root's IPO pricing
       <hr/>
       
-      - *With many restaurants forced to rely entirely on the delivery and takeout business during the pandemic, there’s been a lot of discussion about the industry can survive while paying hefty fees to delivery platforms like Uber Eats and Grubhub. Lunchbox, on the …*
+      - *No matter who wins the election, or how the transition goes -- if the markets stay rich, the IPOs can flow.*
        
-  - Should your SaaS startup embrace a bottom-up GTM strategy?
+  - Priori raises $6.3M to help large companies hire outside legal help
       <hr/>
        
-       - *If the past five years are any indication, product-led sales will increasingly become the dominant model for selling software.*
+       - *Priori Legal, a startup rethinking the way that large corporations hire outside counsel, has raised $6.3 million in Series A funding. Founded by CEO Basha Rubin and CPO Mirra Levitt (who met while classmates at Yale Law School), Priori launched as a legal mar…*
       
 
 
