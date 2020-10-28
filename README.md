@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 
-~ Michael Hawley
+~ Philip Greenspun
 <pre>
 
 </pre>
