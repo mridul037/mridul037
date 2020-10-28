@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People under pressure don’t work better; they just work faster.
+Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 
-~ Tom DeMarco
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ People under pressure don’t work better; they just work faster.
 
 </pre>
 **Daily News**
-  - Tech stocks sell off sharply as market looks at COVID-19 numbers, whispers 'oh f***'
+  - Justice at Spotify demands better compensation and increased transparency for musicians
      <hr/>
      
-      - *The American stock market is struggling today, with tech stocks in particular taking extra stick. After European stocks tanked on the back of COVID-19 concerns, American stocks are following suit. Tech stocks in particular. As of the time of writing, the Dow …*
+      - *Musicians have taken issue with Spotify’s artist compensation for about as long as there’s been a Spotify. Making a living as a musician is difficult enough for the vast majority of those who are brave — or perhaps foolish — enough to attempt such things, but…*
      
-  - The DOJ investigating Visa's $5.3 billion bid for Plaid on antitrust grounds
+  - Apple's Jeff Bigham, disability rights lawyer Haben Girma, author Sara Hendren and more to join Sight Tech Global
       <hr/>
       
-      - *It’s not just big tech that’s getting the antitrust treatment from the Department of Justice. Late Monday afternoon, the Department of Justice tipped its hand that it was investigating Visa’s proposed $5.3 billion acquisition of the venture-backed Plaid, whic…*
+      - *The other day we announced the first ten sessions for Sight Tech Global, a virtual event Dec. 2-3 that is convening the world’s top technologists to discuss how AI-based technologies are revolutionizing the future of accessibility. Today, we’re pleased to ann…*
       
-  - Stripe Climate is a new tool to let Stripe customers purchase credits towards carbon removal efforts
+  - Audible further expands into podcasts
       <hr/>
       
-      - *Last year, payments giant Stripe announced that it would donate $1 million of its own funds annually into companies that are building technology to remove carbon from our environment, with the recipients of that investment announced in May of this year. Now, …*
+      - *Audible, the Amazon-owned audiobook company, is further expanding into podcasts with the addition of approximately 100,000 of podcasts, totaling 5 million episodes to its service. The shows will be offered for free streaming to Audible members and non-subscri…*
       
-  - 3 lessons from Root's IPO pricing
+  - Lotame unveils its new cookie-less tech for ad targeting
       <hr/>
       
-      - *No matter who wins the election, or how the transition goes -- if the markets stay rich, the IPOs can flow.*
+      - *Data management company Lotame is announcing a new way for publishers and marketers to track identity that it calls Panorama ID . For years, online advertisers have relied on cookies to track and target audiences, but they need new approaches as the major bro…*
        
-  - Priori raises $6.3M to help large companies hire outside legal help
+  - Pulumi raises $37.5M Series B for its cloud engineering platform
       <hr/>
        
-       - *Priori Legal, a startup rethinking the way that large corporations hire outside counsel, has raised $6.3 million in Series A funding. Founded by CEO Basha Rubin and CPO Mirra Levitt (who met while classmates at Yale Law School), Priori launched as a legal mar…*
+       - *Seattle-based Pulumi, one of the newer startups in the ”infrastructure-as-code” space, today announced that it has raised a $37.5 million Series B funding round led by NEA. Previous investors Madrona Venture Group and Tola Capital also participated in this ro…*
       
 
 
