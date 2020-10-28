@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Alan Perlis
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It is better to have 100 functions operate on one data structure than to have 10
 
 </pre>
 **Daily News**
-  - Daily Crunch: Zoom adds end-to-end encryption to free calls
+  - Trump's campaign website hacked by cryptocurrency scammers
      <hr/>
      
-      - *Zoom adds a much-requested feature (but with a catch), TikTok partners with Shopify and Jack Dorsey lays out his argument for tomorrow’s Senate hearing. This is your Daily Crunch for October 27, 2020. The big story: Zoom adds end-to-end encryption to free cal…*
+      - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
      
+  - Via and Hyundai-Aptiv joint venture to offer shared robotaxi rides next year
+      <hr/>
+      
+      - *Motional, the Hyundai-Aptiv joint venture, and on-demand shuttle startup Via plan to launch a shared robotaxi service for the public in a U.S. city in the first half of 2021. The companies said the aim is to develop a “blueprint” for on-demand shared robotaxi…*
+      
+  - Daily Crunch: Zoom adds end-to-end encryption to free calls
+      <hr/>
+      
+      - *Zoom adds a much-requested feature (but with a catch), TikTok partners with Shopify and Jack Dorsey lays out his argument for tomorrow’s Senate hearing. This is your Daily Crunch for October 27, 2020. The big story: Zoom adds end-to-end encryption to free cal…*
+      
   - Mophie introduces a modular wireless charging module
       <hr/>
       
       - *Here’s a clever addition for Mophie, one of the longstanding battery case makers, which is now a part of the same smartphone accessory conglomerate as Zagg, Braven, iFrogz and InvisibleShield. The Juice Pack Connect is a modular take on the category, with a b…*
-      
+       
   - How to address inequality exposed by the COVID-19 pandemic
       <hr/>
-      
-      - *Having a substantial part of our fellow citizens outside the digital environment is a recipe for continued racial injustice, social conflict, economic deprivation and political division.*
-      
-  - Google's EU Android choice screen isn't working say search rivals, calling for a joint process to devise a fair remedy
-      <hr/>
-      
-      - *Google search engine rivals have dialled up pressure on the European Commission over the tech giant’s ‘pay-to-play’ choice screen for Android users in Europe — arguing the Google-devised auction has failed to remedy antitrust issues identified by the European…*
        
-  - Armenian email campaign asks SpaceX not to aid Turkish regime with satellite launch
-      <hr/>
-       
-       - *SpaceX staff and members of the media have been inundated this morning with emails ostensibly from concerned Armenians around the world, asking the company to cancel a launch contract with the Turkish government. The concerns are valid — and the mass-email me…*
+       - *Having a substantial part of our fellow citizens outside the digital environment is a recipe for continued racial injustice, social conflict, economic deprivation and political division.*
       
 
 
