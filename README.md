@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Never trust a computer you can’t throw out a window.
+There are few sources of energy so powerful as a procrastinating grad student.
 
-~ Steve Wozniak
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Never trust a computer you can’t throw out a window.
 
 </pre>
 **Daily News**
-  - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
+  - US online holiday sales to reach $189B this year, up 33% from 2019
      <hr/>
      
-      - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
+      - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
      
+  - True, the social networking app that promises to 'protect your privacy,' exposed private messages and user locations
+      <hr/>
+      
+      - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
+      
+  - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
+      <hr/>
+      
+      - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
+      
   - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
       <hr/>
       
       - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
-      
+       
   - Joe Rogan, Alex Jones and Spotify's illusion of neutrality
       <hr/>
-      
-      - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
-      
-  - App management startup AppFollow raises $5M Series A round led by Nauta Capital
-      <hr/>
-      
-      - *AppFollow, an app management startup, has raised a $5 million Series A round led by Barcelona’s Nauta Capital, alongside existing investors Vendep Capital and RTP Global participating. The Helsinki-headquartered company says benefitted during the pandemic and…*
        
-  - Outrider raises $65 million to bring its autonomous tech to distribution yards
-      <hr/>
-       
-       - *Outrider, a startup aiming to bring its autonomous technology to the nerve center of the supply chain, has raised $65 million in funding just eight months after coming out of stealth. The Series B round was led by Koch Disruptive Technologies and brings its t…*
+       - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
       
 
 
