@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ Richard Hamming
+~ Bob Frankston
 <pre>
 
 </pre>
@@ -67,30 +68,30 @@ Mathematicians stand on each others' shoulders and computer scientists stand on 
 
 </pre>
 **Daily News**
-  - Qualtrics CEO  Ryan Smith is buying majority stake in the Utah Jazz for $1.6B
+  - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
      <hr/>
      
-      - *The Utah Jazz, an NBA basketball team based in Salt Lake City, announced today that Qualitrics CEO and co-founder Ryan Smith was buying a majority stake in the team along other properties. ESPN is reporting the deal is worth $1.6 billion. Smith can afford it.…*
+      - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
      
-  - Apple eyes the TikTok generation with an updated version of Clips
+  - Joe Rogan, Alex Jones and Spotify's illusion of neutrality
       <hr/>
       
-      - *Apple is today rolling out an update to its video creation app, Clips, which brings much-needed support for vertical videos, allowing for sharing to TikTok and the “Stories” feature in other social apps. The addition is one of several arriving with the releas…*
+      - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
       
-  - Robust.AI raises a $15M Series A to improve problem solving for collaborative robots
+  - App management startup AppFollow raises $5M Series A round led by Nauta Capital
       <hr/>
       
-      - *Robust.AI today announced that it has raised a $15 million Series A, led by Jazz Venture Partners. Existing partners Playground Global, Liquid2, Fontinalis, Jaan Tallinn and Mark Leslie also participated in the round, which brings the Bay Area-based robotics …*
+      - *AppFollow, an app management startup, has raised a $5 million Series A round led by Barcelona’s Nauta Capital, alongside existing investors Vendep Capital and RTP Global participating. The Helsinki-headquartered company says benefitted during the pandemic and…*
       
-  - Microsoft announces its first Azure data center region in Taiwan
+  - Outrider raises $65 million to bring its autonomous tech to distribution yards
       <hr/>
       
-      - *After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia, where…*
+      - *Outrider, a startup aiming to bring its autonomous technology to the nerve center of the supply chain, has raised $65 million in funding just eight months after coming out of stealth. The Series B round was led by Koch Disruptive Technologies and brings its t…*
        
-  - Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI
+  - Qualtrics CEO  Ryan Smith is buying majority stake in the Utah Jazz for $1.6B
       <hr/>
        
-       - *Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications. We can see these development…*
+       - *The Utah Jazz, an NBA basketball team based in Salt Lake City, announced today that Qualitrics CEO and co-founder Ryan Smith was buying a majority stake in the team along other properties. ESPN is reporting the deal is worth $1.6 billion. Smith can afford it.…*
       
 
 
