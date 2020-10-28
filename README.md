@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+If you think your users are idiots, only idiots will use it.
 
-~ Richard Hamming
+~ Linus Torvalds
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Typing is no substitute for thinking.
 
 </pre>
 **Daily News**
-  - We need new business models to burst old media filter bubbles
+  - Rocket Lab successfully launches 10 Earth observation satellites in 15th commercial mission
      <hr/>
      
-      - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
+      - *New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering ten Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for l…*
      
+  - Daily Crunch: Apple seems pretty interested in search
+      <hr/>
+      
+      - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
+      
+  - We need new business models to burst old media filter bubbles
+      <hr/>
+      
+      - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
+      
   - Fiat Chrysler plans to bring an Ram electric pickup truck to market
       <hr/>
       
       - *Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker’s Ram brand will bring an electric pickup truck to market. The remarks, made in response to an analyst question during the company third-quarter earnings call, puts to rest rampant sp…*
-      
+       
   - US online holiday sales to reach $189B this year, up 33% from 2019
       <hr/>
-      
-      - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
-      
-  - True, the social networking app that promises to 'protect your privacy,' exposed private messages and user locations
-      <hr/>
-      
-      - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
        
-  - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
-      <hr/>
-       
-       - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
+       - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
       
 
 
