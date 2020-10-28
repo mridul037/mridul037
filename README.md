@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are few sources of energy so powerful as a procrastinating grad student.
+Typing is no substitute for thinking.
 
-~ Paul Graham (programmer)
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are few sources of energy so powerful as a procrastinating grad student.
 
 </pre>
 **Daily News**
-  - US online holiday sales to reach $189B this year, up 33% from 2019
+  - We need new business models to burst old media filter bubbles
      <hr/>
      
-      - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
+      - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
      
+  - Fiat Chrysler plans to bring an Ram electric pickup truck to market
+      <hr/>
+      
+      - *Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker’s Ram brand will bring an electric pickup truck to market. The remarks, made in response to an analyst question during the company third-quarter earnings call, puts to rest rampant sp…*
+      
+  - US online holiday sales to reach $189B this year, up 33% from 2019
+      <hr/>
+      
+      - *The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020…*
+      
   - True, the social networking app that promises to 'protect your privacy,' exposed private messages and user locations
       <hr/>
       
       - *Exclusive: The privacy-focused social app exposed private messages, posts, and users' location data.*
-      
+       
   - Dear Sophie: Any upgrade options for E-2 visa holders interested in changing jobs?
       <hr/>
-      
-      - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
-      
-  - Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop
-      <hr/>
-      
-      - *Encouraged by the spate of antitrust activity brewing in both the Justice Department and on Capitol Hill, Apple may be developing a search competitor to Google, according to a report in the Financial Times. That would be a move ripe with irony as the push for…*
        
-  - Joe Rogan, Alex Jones and Spotify's illusion of neutrality
-      <hr/>
-       
-       - *Social media platforms like Facebook and Twitter have taken a messy beating from critics unhappy with how they handle questionable content on their platform, with some complaining they don’t do enough to rein in misinformation, and others decrying censorship.…*
+       - *My employer, a company based in Slovakia, moved me to the U.S. to help establish our U.S. operations. What are my options if I want to look for other job opportunities here in the U.S. with a different company?*
       
 
 
