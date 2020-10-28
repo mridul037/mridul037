@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Richard Stallman
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Programming is programming. If you get good at programming, it doesn't matter wh
 
 </pre>
 **Daily News**
-  - Sidekick Health scores $20M for its gamified digital care platform
+  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
      <hr/>
      
-      - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
+      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
      
+  - Sidekick Health scores $20M for its gamified digital care platform
+      <hr/>
+      
+      - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
+      
   - Harley-Davidson is getting into the electric bicycle business
       <hr/>
       
@@ -81,16 +86,11 @@ Programming is programming. If you get good at programming, it doesn't matter wh
       <hr/>
       
       - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
-      
+       
   - Fab founder Jason Goldberg is back with Moxie, a new live-streaming fitness marketplace
       <hr/>
-      
-      - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
        
-  - Trump's campaign website hacked by cryptocurrency scammers
-      <hr/>
-       
-       - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
+       - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
       
 
 
