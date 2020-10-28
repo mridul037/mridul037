@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Maurice Wilkes
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It was on one of my journeys between the EDSAC room and the punching equipment t
 
 </pre>
 **Daily News**
-  - Fab founder Jason Goldberg is back with Moxie, a new live-streaming fitness marketplace
+  - Harley-Davidson is getting into the electric bicycle business
      <hr/>
      
-      - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
+      - *Harley-Davidson has spun out a new business dedicated to electric bicycles and plans to bring its first line of products to market in spring 2021. The new business called Serial 1 Cycle Company started as a project within the motorcycle manufacturer’s product…*
      
+  - Watch Facebook, Google, and Twitter's CEOs defend the law that made social media possible to Congress
+      <hr/>
+      
+      - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
+      
+  - Fab founder Jason Goldberg is back with Moxie, a new live-streaming fitness marketplace
+      <hr/>
+      
+      - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
+      
   - Trump's campaign website hacked by cryptocurrency scammers
       <hr/>
       
       - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
-      
+       
   - Via and Hyundai-Aptiv joint venture to offer shared robotaxi rides next year
       <hr/>
-      
-      - *Motional, the Hyundai-Aptiv joint venture, and on-demand shuttle startup Via plan to launch a shared robotaxi service for the public in a U.S. city in the first half of 2021. The companies said the aim is to develop a “blueprint” for on-demand shared robotaxi…*
-      
-  - Daily Crunch: Zoom adds end-to-end encryption to free calls
-      <hr/>
-      
-      - *Zoom adds a much-requested feature (but with a catch), TikTok partners with Shopify and Jack Dorsey lays out his argument for tomorrow’s Senate hearing. This is your Daily Crunch for October 27, 2020. The big story: Zoom adds end-to-end encryption to free cal…*
        
-  - Mophie introduces a modular wireless charging module
-      <hr/>
-       
-       - *Here’s a clever addition for Mophie, one of the longstanding battery case makers, which is now a part of the same smartphone accessory conglomerate as Zagg, Braven, iFrogz and InvisibleShield. The Juice Pack Connect is a modular take on the category, with a b…*
+       - *Motional, the Hyundai-Aptiv joint venture, and on-demand shuttle startup Via plan to launch a shared robotaxi service for the public in a U.S. city in the first half of 2021. The companies said the aim is to develop a “blueprint” for on-demand shared robotaxi…*
       
 
 
