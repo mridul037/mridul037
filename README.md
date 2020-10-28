@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+There's nothing more permanent than a temporary hack.
 
-~ Edsger W. Dijkstra
+~ Kyle Simpson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The computing scientist’s main challenge is not to get confused by the complex
 
 </pre>
 **Daily News**
-  - Scopely raises $340 million at a $3.3 billion valuation as gaming grabs investors' interest
+  - That dreadful VPN might finally be dead thanks to Twingate, a new startup built by Dropbox alums
      <hr/>
      
-      - *In a move to shore up institutional support in what’s likely to be it’s last fundraising as a private company, the Los Angeles-based mobile gaming behemoth Scopely has raised $340 million in its latest eye-popping round of funding. Acting as if there’s not st…*
+      - *VPNs, or virtual private networks, are a mainstay of corporate network security (and also consumers trying to stream Netflix while pretending to be from other countries). VPNs create an encrypted channel between your device (a laptop or a smartphone) and a co…*
      
-  - MachEye raises $4.6M for its business intelligence platform
+  - The Flume 2 Smart Home Water Monitor is a smart, easy-to-use, and essential smart home device
       <hr/>
       
-      - *We’ve seen our fair share of business intelligence (BI) platforms that aim to make data analysis accessible to everybody in a company. Most of them are still fairly complicated, no matter what their marketing copy says. MachEye, which is launching its AI-powe…*
+      - *Many smart home gadgets focus on convenience or automation of typically manual tasks, but Flume’s smart water sensor provides a potentially much more vital service: The ability to track how much water you’re consuming, and alert you to potential leaks in you …*
       
-  - Microsoft says Iranian hackers targeted 'high profile' conference attendees
+  - DoubleVerify, a specialist in brand safety, ad fraud and ad quality, raises $350M
       <hr/>
       
-      - *The group, known as APT 35, sent malicious emails to "high profile" targets.*
+      - *Ad-based platforms can face a lot of heat from advertisers when they can’t control how and where their ads run: just look back to the ad boycott against Facebook earlier this year (or earlier boycotts against YouTube and others) as examples of when it all goe…*
       
-  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
+  - Lunchbox raises $20M to help restaurants build their own ordering experiences
       <hr/>
       
-      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
+      - *With many restaurants forced to rely entirely on the delivery and takeout business during the pandemic, there’s been a lot of discussion about the industry can survive while paying hefty fees to delivery platforms like Uber Eats and Grubhub. Lunchbox, on the …*
        
-  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
+  - Should your SaaS startup embrace a bottom-up GTM strategy?
       <hr/>
        
-       - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
+       - *If the past five years are any indication, product-led sales will increasingly become the dominant model for selling software.*
       
 
 
