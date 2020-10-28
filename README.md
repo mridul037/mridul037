@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An evolving system increases its complexity unless work is done to reduce it.
+Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 
-~ Manny Lehman (computer scientist)
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ An evolving system increases its complexity unless work is done to reduce it.
 
 </pre>
 **Daily News**
-  - Jackery's solar generator system helps you collect and store more than enough juice for off-grid essentials
+  - Qualtrics CEO  Ryan Smith is buying majority stake in the Utah Jazz for $1.6B
      <hr/>
      
-      - *Portable power is a very convenient thing to have on hand, as proven by the popularity of pocket power banks for providing backup energy for smartphones and tablets. Jackery’s lineup of battery backups offer an entirely different, much greater level of portab…*
+      - *The Utah Jazz, an NBA basketball team based in Salt Lake City, announced today that Qualitrics CEO and co-founder Ryan Smith was buying a majority stake in the team along other properties. ESPN is reporting the deal is worth $1.6 billion. Smith can afford it.…*
      
-  - How is the Air Force looking to spend its $60 billion R&D budget?
+  - Apple eyes the TikTok generation with an updated version of Clips
       <hr/>
       
-      - *Dr. Will Roper, the man in charge of the purse strings for the Air Force’s $60 billion research and development and acquisition budget, oversees some 550 programs for the Air Force. It’s a huge responsibility that has massive implications for the future of th…*
+      - *Apple is today rolling out an update to its video creation app, Clips, which brings much-needed support for vertical videos, allowing for sharing to TikTok and the “Stories” feature in other social apps. The addition is one of several arriving with the releas…*
       
-  - As venture capital rebounds, what's going on with venture debt?
+  - Robust.AI raises a $15M Series A to improve problem solving for collaborative robots
       <hr/>
       
-      - *The American venture capital world has staged an impressive comeback from the early months of the COVID-19 pandemic. For a moment, there was worry that startups would struggle to raise for quarters, leading to layoffs, slowed hiring and budget cuts. But as th…*
+      - *Robust.AI today announced that it has raised a $15 million Series A, led by Jazz Venture Partners. Existing partners Playground Global, Liquid2, Fontinalis, Jaan Tallinn and Mark Leslie also participated in the round, which brings the Bay Area-based robotics …*
       
-  - Current and upcoming trends in Latin America's mobile growth
+  - Microsoft announces its first Azure data center region in Taiwan
       <hr/>
       
-      - *Mobile companies that seize on the progress already taking place and learn from or integrate trends like digital wallets, QR codes, on-demand delivery and 5G will be poised for the biggest success in LATAM — and quite possibly, on a global stage.*
+      - *After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia, where…*
        
-  - Coinbase to launch debit card in the US with rewards program
+  - Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI
       <hr/>
        
-       - *Cryptocurrency exchange Coinbase is launching a debit card in the U.S. this winter. Customers can join the waitlist and get the Coinbase Card whenever it is available. Coinbase already launched the Coinbase Card in the U.K. and Europe. The Coinbase Card is a …*
+       - *Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications. We can see these development…*
       
 
 
