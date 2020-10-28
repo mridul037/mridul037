@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-~ Ward Cunningham
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Putting a new feature into a program is important, but refactoring so new featur
 
 </pre>
 **Daily News**
-  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
+  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
      <hr/>
      
-      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
+      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
      
+  - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
+      <hr/>
+      
+      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
+      
   - Sidekick Health scores $20M for its gamified digital care platform
       <hr/>
       
@@ -81,16 +86,11 @@ Putting a new feature into a program is important, but refactoring so new featur
       <hr/>
       
       - *Harley-Davidson has spun out a new business dedicated to electric bicycles and plans to bring its first line of products to market in spring 2021. The new business called Serial 1 Cycle Company started as a project within the motorcycle manufacturer’s product…*
-      
+       
   - Watch Facebook, Google, and Twitter's CEOs defend the law that made social media possible to Congress
       <hr/>
-      
-      - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
        
-  - Fab founder Jason Goldberg is back with Moxie, a new live-streaming fitness marketplace
-      <hr/>
-       
-       - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
+       - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
       
 
 
