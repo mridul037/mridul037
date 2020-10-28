@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 
-~ Tony Hoare
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ There are two ways of constructing a software design: One way is to make it so s
 
 </pre>
 **Daily News**
-  - Harley-Davidson is getting into the electric bicycle business
+  - Sidekick Health scores $20M for its gamified digital care platform
      <hr/>
      
-      - *Harley-Davidson has spun out a new business dedicated to electric bicycles and plans to bring its first line of products to market in spring 2021. The new business called Serial 1 Cycle Company started as a project within the motorcycle manufacturer’s product…*
+      - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
      
+  - Harley-Davidson is getting into the electric bicycle business
+      <hr/>
+      
+      - *Harley-Davidson has spun out a new business dedicated to electric bicycles and plans to bring its first line of products to market in spring 2021. The new business called Serial 1 Cycle Company started as a project within the motorcycle manufacturer’s product…*
+      
   - Watch Facebook, Google, and Twitter's CEOs defend the law that made social media possible to Congress
       <hr/>
       
@@ -81,16 +86,11 @@ There are two ways of constructing a software design: One way is to make it so s
       <hr/>
       
       - *Amid a pandemic that has closed down fitness centers worldwide, a spate of companies has muscled their way into the booming at-home fitness market. In just the last two weeks, three-year Future, which promises at-home customers access to elite training, close…*
-      
+       
   - Trump's campaign website hacked by cryptocurrency scammers
       <hr/>
-      
-      - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
        
-  - Via and Hyundai-Aptiv joint venture to offer shared robotaxi rides next year
-      <hr/>
-       
-       - *Motional, the Hyundai-Aptiv joint venture, and on-demand shuttle startup Via plan to launch a shared robotaxi service for the public in a U.S. city in the first half of 2021. The companies said the aim is to develop a “blueprint” for on-demand shared robotaxi…*
+       - *President Trump’s campaign website was briefly and partially hacked Tuesday afternoon as unknown adversaries took over the “About” page and replaced it with what appeared to be a scam to collect cryptocurrency. There is no indication, despite the hackers’ cla…*
       
 
 
