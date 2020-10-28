@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 
-~ David Leinweber
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you give someone a program, you will frustrate them for a day; if you teach t
 
 </pre>
 **Daily News**
-  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
+  - Scopely raises $340 million at a $3.3 billion valuation as gaming grabs investors' interest
      <hr/>
      
-      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
+      - *In a move to shore up institutional support in what’s likely to be it’s last fundraising as a private company, the Los Angeles-based mobile gaming behemoth Scopely has raised $340 million in its latest eye-popping round of funding. Acting as if there’s not st…*
      
+  - MachEye raises $4.6M for its business intelligence platform
+      <hr/>
+      
+      - *We’ve seen our fair share of business intelligence (BI) platforms that aim to make data analysis accessible to everybody in a company. Most of them are still fairly complicated, no matter what their marketing copy says. MachEye, which is launching its AI-powe…*
+      
+  - Microsoft says Iranian hackers targeted 'high profile' conference attendees
+      <hr/>
+      
+      - *The group, known as APT 35, sent malicious emails to "high profile" targets.*
+      
+  - Hej! Amazon opens Amazon.se in Sweden to expand in Europe
+      <hr/>
+      
+      - *Amazon is the biggest online retailer in Europe, and today it took the next step in making that effort more localized. The company has launched a dedicated portal for Sweden at Amazon.se — giving Swedish shoppers, third-party merchants, and itself, a local UR…*
+       
   - Streetbees raises $39M in a Series B round as brands race to interrogate Pandemic-hit consumers
       <hr/>
-      
-      - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
-      
-  - Sidekick Health scores $20M for its gamified digital care platform
-      <hr/>
-      
-      - *Nordic digital therapeutics company, Sidekick Health, has closed a $20 million Series A led by pan-European VC Wellington Partners and healthcare focused VC Asabys Partners. Existing investors, Novator and Frumtak Ventures, also participated in the oversubscr…*
-      
-  - Harley-Davidson is getting into the electric bicycle business
-      <hr/>
-      
-      - *Harley-Davidson has spun out a new business dedicated to electric bicycles and plans to bring its first line of products to market in spring 2021. The new business called Serial 1 Cycle Company started as a project within the motorcycle manufacturer’s product…*
        
-  - Watch Facebook, Google, and Twitter's CEOs defend the law that made social media possible to Congress
-      <hr/>
-       
-       - *Facebook, Google, and Twitter's CEOs will appear before the Senate Commerce Committee Wednesday in a hearing on social media's key legal shield*
+       - *Streetbees started out as an app for consumers to snap pictures of supermarket shelf layouts and get paid. Consumer brands wanted to know if the supermarkets really had put them at eye level or not. Quickly, the startup realized it could interrogate consumers…*
       
 
 
