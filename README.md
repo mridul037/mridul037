@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is the ultimate field for someone who likes to tinker.
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 
-~ Ray Ozzie
+~ Ted Nelson
 <pre>
 
 </pre>
