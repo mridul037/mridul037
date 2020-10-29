@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
 
 ~ Fred Brooks
 <pre>
@@ -67,30 +67,30 @@ My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for comp
 
 </pre>
 **Daily News**
-  - Strong ad revenues boost Facebook past expectations as company cites ecommerce boom as tailwind
+  - PUBG Mobile to terminate access for users in India on October 30 following ban order
      <hr/>
      
-      - *Facebook reported its Q3 earnings today, including revenues of $21.5 billion, net income of $7.8 billion. The company earned $2.71 in per-share profit during the three month period. Analysts had expected Facebook, the social giant, to earn a much-smaller $1.9…*
+      - *PUBG Mobile, the sleeper hit mobile game, will terminate all service and access for users in India on October 30, two months after New Delhi banned the game in the world’s second largest internet market over cybersecurity concerns. India banned PUBG Mobile No…*
      
-  - Why Apple's Q4 earnings look different this year
+  - Apple One services subscription bundles start launching tomorrow
       <hr/>
       
-      - *On Thursday, Apple delivered a Q4 earnings beat but the stock slid anyway as wary investors saw worse than expected iPhone revenues. At the time of writing, stock was down around 5% in after-hours trading. It was a mild beat, with Apple posting $64.7 billion …*
+      - *Apple is launching its Apple One services bundle tomorrow, though the company’s workout service Fitness+ isn’t quite ready yet. On an earnings call, CEO Tim Cook revealed tomorrow’s rollout and called the service the “easiest way for users to enjoy Apple serv…*
       
-  - Amazon crushes Q3 expectations, but AWS growth slowed to 29%
+  - Netflix is raising prices on most of its plans in the US
       <hr/>
       
-      - *Amazon has continued to reap the rewards of a society increasingly dependent on ecommerce — a trend further fueled by the COVID-19 pandemic. The company crushed analyst expectations Thursday, reporting net income of $6.3 billion in the third quarter, or $12.3…*
+      - *Time for another Netflix price hike! About a year and a half after the last price increase, Netflix is bumping up the cost for most of its monthly plans in the US by one to two dollars. Here’s how the changes break down: The “Premium” plan (4k and 4 simultane…*
       
-  - Comcast says Peacock has nearly 22M sign-ups
+  - Twitter revenue rises 14%, but user growth fails to impress
       <hr/>
       
-      - *Comcast’s latest earnings report includes some official user numbers for Peacock, the new streaming service from Comcast-owned NBCUniversal. Specifically, Comcast says that Peacock has received nearly 22 million sign-ups since it launched in July, and that it…*
+      - *Twitter continued to see its traffic rise in the third quarter, thanks to that trifecta of returning sports, the presidential campaign and the COVID-19 pandemic. But there wasn’t quite enough growth to appease Wall Street.  Twitter beat out analyst expectatio…*
        
-  - Strong YouTube ad growth powers Alphabet to better-than-expected Q3
+  - Strong ad revenues boost Facebook past expectations as company cites ecommerce boom as tailwind
       <hr/>
        
-       - *Today after the bell, Alphabet announced its Q3 performance. The Google parent company generated revenues of $46.2 billion and per-share profit of $16.40 off the back of net income of $11.2 billion. Analysts had expected Alphabet to earn $11.21 per share, fro…*
+       - *Facebook reported its Q3 earnings today, including revenues of $21.5 billion, net income of $7.8 billion. The company earned $2.71 in per-share profit during the three month period. Analysts had expected Facebook, the social giant, to earn a much-smaller $1.9…*
       
 
 
