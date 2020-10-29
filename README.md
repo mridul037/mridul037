@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Humanity is acquiring all the right technology for all the wrong reasons.
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 
-~ Buckminster Fuller
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Humanity is acquiring all the right technology for all the wrong reasons.
 
 </pre>
 **Daily News**
-  - Nutrium app, which links dietitians and patients, raises $4.9M led by Indico Capital
+  - SiFive’s new PC is bringing open-source computing closer to reality
      <hr/>
      
-      - *Nutrium, a digital health startup which links dietitians and their patients via an app, has raised a €4.25 million Seed round led by Indico Capital Partners, alongside the the Social Innovation Fund in Portugal (SIF) and previous investors. It now offers prof…*
+      - *One of the most interesting projects to watch these days in tech is RISC-V. The non-profit organization and wider community is building an open-source and standardized instruction set architecture (ISA) that allows chip creators to design their own chips unen…*
      
-  - VCs poured capital into European startups in Q3, but early-stage dealmaking appeared to suffer
+  - Spotify CEO says company will 'further expand price increases'
       <hr/>
       
-      - *The global recovery in venture capital activity did not miss Europe, new data indicates. According to a PitchBook report, European venture capital activity rose in Q3 2020, putting the continent on pace to set a new yearly record for aggregate VC activity (as…*
+      - *Spotify is planning further price increases, according to comments made by co-founder and CEO Daniel Ek during the company’s third quarter earnings on Thursday. The streaming service had added 6 million subscribers in Q3 to achieve a total 144 million paying …*
       
-  - Supersonic aircraft startup Hermeus raises $16 million Series A
+  - Spotify hits 320 million monthly active users
       <hr/>
       
-      - *Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partners and including contributions from existing investors Khosl…*
+      - *In its latest quarterly financial report, Spotify announced that it had crossed 320 million active monthly users. That marks a 29% growth for the quarter, coming on the heels of what seems to be a rather successful launch into the Russian market. Of that numb…*
       
-  - More chip industry action as Marvell is acquiring Inphi for $10B
+  - Intel acquires SigOpt, a specialist in modeling optimization, to boost its AI business
       <hr/>
       
-      - *It’s been quite a time for chip industry consolidation, and today Marvell joined the acquisition parade when it announced it is acquiring Inphi in a combination of stock and cash valued at approximately $10 billion, according to the company. Marvell CEO Matt …*
+      - *Intel has been doubling down on building chips and related architecture for the next generation of computing, and today it announced an acquisition that will bolster its expertise and work specifically in one area of future technology: artificial intelligence…*
        
-  - Walmart's new test stores will experiment with AR, mobile, revamped checkout and more
+  - Nutrium app, which links dietitians and patients, raises $4.9M led by Indico Capital
       <hr/>
        
-       - *Walmart over the years has been working to turn its physical retail stores into online fulfillment centers, and now, with its latest set of test stores announced today, the retailer will try out ideas to make that transition more seamless. Walmart says it wil…*
+       - *Nutrium, a digital health startup which links dietitians and their patients via an app, has raised a €4.25 million Seed round led by Indico Capital Partners, alongside the the Social Innovation Fund in Portugal (SIF) and previous investors. It now offers prof…*
       
 
 
