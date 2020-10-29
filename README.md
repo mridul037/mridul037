@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 
-~ Luciano Ramalho
+~ Fred Brooks
 <pre>
 
 </pre>
