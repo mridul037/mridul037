@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ George Boole
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The design of the following treatise is to investigate the fundamental laws of t
 
 </pre>
 **Daily News**
-  - GetYourGuide closes $133M convertible note as travel startups continue to weather the Covid-19 storm
+  - The Level Bolt and Level Touch smart locks are a cut above the competition in design and usability
      <hr/>
      
-      - *On the heels of Germany announcing another lockdown to try to contain the rapid rise in Covid-19 cases in the country, one of the hottest startups in its capital city is announcing the closing of a large convertible note to help it keep moving forward. GetYou…*
+      - *Level is one of the newer players in the smart lock space, but with a design pedigree that includes a lot of former Apple employees, the company’s already attracting a lot of praise for its industrial design. I tested out both of its current offerings, the Le…*
      
-  - ByteDance launches its first gadget in a big education push
+  - Juganu begins selling its tunable lighting system for pathogen disinfection and deactivation in the US
       <hr/>
       
-      - *ByteDance on Thursday unveiled its first consumer hardware product, a smart light lamp with a display, that it says is part of its education technology portfolio as the Chinese internet giant continues to expand to categories beyond social video. The Dali sma…*
+      - *Juganu, the venture-backed Israeli company that makes lighting systems capable of emitting light at specified wavelengths, is now selling a product that it claims can disinfect surfaces and deactivate pathogens in an attempt to provide buildings with new safe…*
       
-  - Slingshot Aerospace raises $8 million to help it expand to new verticals beyond aerospace and defense
+  - Shopify stock is up in pre-market trading as earnings blow past estimates
       <hr/>
       
-      - *Austin and El Segundo-based Slingshot Aerospace was born out of a realization that while there is a massive amount of information collected by observation technology aboard satellites, airplanes, drones and beyond, the analytics and turnaround of said info in…*
+      - *Shopify stock jumped nearly 3% in pre-market trading today after announcing earnings that handily beat the estimates set by Wall Street. The Ottawa-based provider of e-commerce services for retailers reported earnings of $133.2 million, or $1.13 per-share, fo…*
       
-  - Trump hints at stopping "powerful" big tech in latest 'get out the vote' tweet
+  - Twitter's API access changes are chasing away third-party developers
       <hr/>
       
-      - *If there was any doubt that yesterday’s flogging of big tech CEOs by Senate republicans was anything other than an electioneering stunt, president Trump has thumped the point home by tweeting a video message to voters in which he bashes “big tech” as (maybe) …*
+      - *For a civil society with healthy online discourse, journalists, academics and human rights workers need tools to fact check the platform’s announcements and policies.*
        
-  - Upgrade adds rewards program to its credit card
+  - Sinch announces Conversation API to bring together multiple messaging tools
       <hr/>
        
-       - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
+       - *As communicating with customers across the world grows ever more challenging due to multiple channels, tools and networking providers, companies are looking for a way to simplify it all. Sinch, a company that makes communications APIs, announced a new tool th…*
       
 
 
