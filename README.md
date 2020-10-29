@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Donald Knuth
+~ James Gleick
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
 
 </pre>
 **Daily News**
-  - Two weeks left to score early bird savings at TC Sessions: Space 2020
+  - Commissary Club wants to help formerly incarcerated people find community
      <hr/>
      
-      - *NASA just made history by landing a spacecraft on an asteroid. If that kind of technical achievement carbonates your glass of Tang, join us on December 16-17 for TC Sessions: Space 2020, an event dedicated to early-stage space startups. We’ve launched early-b…*
+      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
      
+  - Two weeks left to score early bird savings at TC Sessions: Space 2020
+      <hr/>
+      
+      - *NASA just made history by landing a spacecraft on an asteroid. If that kind of technical achievement carbonates your glass of Tang, join us on December 16-17 for TC Sessions: Space 2020, an event dedicated to early-stage space startups. We’ve launched early-b…*
+      
   - Developer productivity tools startup Raycast raises $2.7M from Accel
       <hr/>
       
@@ -81,16 +86,11 @@ I make mistakes because I’m always operating at my limit. If I only stay in co
       <hr/>
       
       - *Despite e-commerce firms Amazon and Walmart and others pouring billions of dollars in India, offline retail still commands more than 95% of all sales in the world’s second largest internet market. The giants have acknowledged the strong hold neighborhood stor…*
-      
+       
   - Donut launches Watercooler, an easy way to socialize online with coworkers
       <hr/>
-      
-      - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
        
-  - One-click housing startup Atmos raises another $4M from Khosla, real estate strategics, and TikTok star Josh Richards
-      <hr/>
-       
-       - *Atmos wants to make designing a house as simple as a single click. Well, that vision is now getting a double click from VCs. The company, which we profiled back in July, announced today that it raised another $4 million, this time from Evan Moore at Khosla Ve…*
+       - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
       
 
 
