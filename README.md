@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+Humanity is acquiring all the right technology for all the wrong reasons.
 
-~ Joseph Yoder (computer scientist)
+~ Buckminster Fuller
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Managing a large project is a qualitatively different problem from managing a sm
 
 </pre>
 **Daily News**
-  - The Level Bolt and Level Touch smart locks are a cut above the competition in design and usability
+  - Nutrium app, which links dietitians and patients, raises $4.9M led by Indico Capital
      <hr/>
      
-      - *Level is one of the newer players in the smart lock space, but with a design pedigree that includes a lot of former Apple employees, the company’s already attracting a lot of praise for its industrial design. I tested out both of its current offerings, the Le…*
+      - *Nutrium, a digital health startup which links dietitians and their patients via an app, has raised a €4.25 million Seed round led by Indico Capital Partners, alongside the the Social Innovation Fund in Portugal (SIF) and previous investors. It now offers prof…*
      
-  - Juganu begins selling its tunable lighting system for pathogen disinfection and deactivation in the US
+  - VCs poured capital into European startups in Q3, but early-stage dealmaking appeared to suffer
       <hr/>
       
-      - *Juganu, the venture-backed Israeli company that makes lighting systems capable of emitting light at specified wavelengths, is now selling a product that it claims can disinfect surfaces and deactivate pathogens in an attempt to provide buildings with new safe…*
+      - *The global recovery in venture capital activity did not miss Europe, new data indicates. According to a PitchBook report, European venture capital activity rose in Q3 2020, putting the continent on pace to set a new yearly record for aggregate VC activity (as…*
       
-  - Shopify stock is up in pre-market trading as earnings blow past estimates
+  - Supersonic aircraft startup Hermeus raises $16 million Series A
       <hr/>
       
-      - *Shopify stock jumped nearly 3% in pre-market trading today after announcing earnings that handily beat the estimates set by Wall Street. The Ottawa-based provider of e-commerce services for retailers reported earnings of $133.2 million, or $1.13 per-share, fo…*
+      - *Hermeus, a company seeking to build a Mach 5 aircraft that would be capable of making the trip from New York to London in just 90 minutes has raised a $16 million Series A round, led by Canaan Partners and including contributions from existing investors Khosl…*
       
-  - Twitter's API access changes are chasing away third-party developers
+  - More chip industry action as Marvell is acquiring Inphi for $10B
       <hr/>
       
-      - *For a civil society with healthy online discourse, journalists, academics and human rights workers need tools to fact check the platform’s announcements and policies.*
+      - *It’s been quite a time for chip industry consolidation, and today Marvell joined the acquisition parade when it announced it is acquiring Inphi in a combination of stock and cash valued at approximately $10 billion, according to the company. Marvell CEO Matt …*
        
-  - Sinch announces Conversation API to bring together multiple messaging tools
+  - Walmart's new test stores will experiment with AR, mobile, revamped checkout and more
       <hr/>
        
-       - *As communicating with customers across the world grows ever more challenging due to multiple channels, tools and networking providers, companies are looking for a way to simplify it all. Sinch, a company that makes communications APIs, announced a new tool th…*
+       - *Walmart over the years has been working to turn its physical retail stores into online fulfillment centers, and now, with its latest set of test stores announced today, the retailer will try out ideas to make that transition more seamless. Walmart says it wil…*
       
 
 
