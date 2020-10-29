@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ James Gleick
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer programs are the most intricate, delicately balanced and finely interwo
 
 </pre>
 **Daily News**
-  - Commissary Club wants to help formerly incarcerated people find community
+  - In the 'buy now, pay later' wars, PayPal is primed for dominance
      <hr/>
      
-      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
+      - *Stephen Milbank Contributor Share on Twitter Stephen Milbank is the co-founder and Head of Global Strategic Partnerships at Button, a mobile commerce technology company that is powering a commerce-driven internet. The COVID-19 pandemic has already dramaticall…*
      
+  - Tech optimism...in this economy?
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. A few notes before we get into this. One, we have a bonus episode coming this Saturday focused on this week’s e…*
+      
+  - Commissary Club wants to help formerly incarcerated people find community
+      <hr/>
+      
+      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
+      
   - Two weeks left to score early bird savings at TC Sessions: Space 2020
       <hr/>
       
       - *NASA just made history by landing a spacecraft on an asteroid. If that kind of technical achievement carbonates your glass of Tang, join us on December 16-17 for TC Sessions: Space 2020, an event dedicated to early-stage space startups. We’ve launched early-b…*
-      
+       
   - Developer productivity tools startup Raycast raises $2.7M from Accel
       <hr/>
-      
-      - *Workplace SaaS tools for teams have seen rocket ship growth in the past several years, and that adoption has given rise to a host of software tools geared towards improving individual productivity. Many of the startups behind these tools see building a cult f…*
-      
-  - India's WareIQ raises $1.65M for its Amazon-like delivery platform for sellers
-      <hr/>
-      
-      - *Despite e-commerce firms Amazon and Walmart and others pouring billions of dollars in India, offline retail still commands more than 95% of all sales in the world’s second largest internet market. The giants have acknowledged the strong hold neighborhood stor…*
        
-  - Donut launches Watercooler, an easy way to socialize online with coworkers
-      <hr/>
-       
-       - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
+       - *Workplace SaaS tools for teams have seen rocket ship growth in the past several years, and that adoption has given rise to a host of software tools geared towards improving individual productivity. Many of the startups behind these tools see building a cult f…*
       
 
 
