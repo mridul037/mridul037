@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 
-~ Donald Knuth
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I’ll use dirty tricks for two reasons. One is, if it’s really going to give 
 
 </pre>
 **Daily News**
-  - In the 'buy now, pay later' wars, PayPal is primed for dominance
+  - Strong ad revenues boost Facebook past expectations as company cites ecommerce boom as tailwind
      <hr/>
      
-      - *Stephen Milbank Contributor Share on Twitter Stephen Milbank is the co-founder and Head of Global Strategic Partnerships at Button, a mobile commerce technology company that is powering a commerce-driven internet. The COVID-19 pandemic has already dramaticall…*
+      - *Facebook reported its Q3 earnings today, including revenues of $21.5 billion, net income of $7.8 billion. The company earned $2.71 in per-share profit during the three month period. Analysts had expected Facebook, the social giant, to earn a much-smaller $1.9…*
      
-  - Tech optimism...in this economy?
+  - Why Apple's Q4 earnings look different this year
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. A few notes before we get into this. One, we have a bonus episode coming this Saturday focused on this week’s e…*
+      - *On Thursday, Apple delivered a Q4 earnings beat but the stock slid anyway as wary investors saw worse than expected iPhone revenues. At the time of writing, stock was down around 5% in after-hours trading. It was a mild beat, with Apple posting $64.7 billion …*
       
-  - Commissary Club wants to help formerly incarcerated people find community
+  - Amazon crushes Q3 expectations, but AWS growth slowed to 29%
       <hr/>
       
-      - *Y Combinator-backed employment platform 70 Million Jobs is launching a new social network geared toward helping formerly incarcerated individuals connect with each other. While 70 Million Jobs focuses on helping people with criminal records find jobs, Commiss…*
+      - *Amazon has continued to reap the rewards of a society increasingly dependent on ecommerce — a trend further fueled by the COVID-19 pandemic. The company crushed analyst expectations Thursday, reporting net income of $6.3 billion in the third quarter, or $12.3…*
       
-  - Two weeks left to score early bird savings at TC Sessions: Space 2020
+  - Comcast says Peacock has nearly 22M sign-ups
       <hr/>
       
-      - *NASA just made history by landing a spacecraft on an asteroid. If that kind of technical achievement carbonates your glass of Tang, join us on December 16-17 for TC Sessions: Space 2020, an event dedicated to early-stage space startups. We’ve launched early-b…*
+      - *Comcast’s latest earnings report includes some official user numbers for Peacock, the new streaming service from Comcast-owned NBCUniversal. Specifically, Comcast says that Peacock has received nearly 22 million sign-ups since it launched in July, and that it…*
        
-  - Developer productivity tools startup Raycast raises $2.7M from Accel
+  - Strong YouTube ad growth powers Alphabet to better-than-expected Q3
       <hr/>
        
-       - *Workplace SaaS tools for teams have seen rocket ship growth in the past several years, and that adoption has given rise to a host of software tools geared towards improving individual productivity. Many of the startups behind these tools see building a cult f…*
+       - *Today after the bell, Alphabet announced its Q3 performance. The Google parent company generated revenues of $46.2 billion and per-share profit of $16.40 off the back of net income of $11.2 billion. Analysts had expected Alphabet to earn $11.21 per share, fro…*
       
 
 
