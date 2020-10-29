@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 
-~ Jeremy S. Anderson
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There are two major products that come out of Berkeley: LSD and UNIX. We don't b
 
 </pre>
 **Daily News**
-  - Donut launches Watercooler, an easy way to socialize online with coworkers
+  - Two weeks left to score early bird savings at TC Sessions: Space 2020
      <hr/>
      
-      - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
+      - *NASA just made history by landing a spacecraft on an asteroid. If that kind of technical achievement carbonates your glass of Tang, join us on December 16-17 for TC Sessions: Space 2020, an event dedicated to early-stage space startups. We’ve launched early-b…*
      
+  - Developer productivity tools startup Raycast raises $2.7M from Accel
+      <hr/>
+      
+      - *Workplace SaaS tools for teams have seen rocket ship growth in the past several years, and that adoption has given rise to a host of software tools geared towards improving individual productivity. Many of the startups behind these tools see building a cult f…*
+      
+  - India's WareIQ raises $1.65M for its Amazon-like delivery platform for sellers
+      <hr/>
+      
+      - *Despite e-commerce firms Amazon and Walmart and others pouring billions of dollars in India, offline retail still commands more than 95% of all sales in the world’s second largest internet market. The giants have acknowledged the strong hold neighborhood stor…*
+      
+  - Donut launches Watercooler, an easy way to socialize online with coworkers
+      <hr/>
+      
+      - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
+       
   - One-click housing startup Atmos raises another $4M from Khosla, real estate strategics, and TikTok star Josh Richards
       <hr/>
-      
-      - *Atmos wants to make designing a house as simple as a single click. Well, that vision is now getting a double click from VCs. The company, which we profiled back in July, announced today that it raised another $4 million, this time from Evan Moore at Khosla Ve…*
-      
-  - The Wanderlust Group raises $14.2M to double-down on getting folks outdoors
-      <hr/>
-      
-      - *The Wanderlust Group, a Rhode Island-based startup focused on building software for the boating world, announced that it has closed a $14.2 million Series B round of capital this week. The new funds were provided by Allen & Company, Drubner Equities and Aveni…*
-      
-  - Goodcover, the YC-backed insurance startup, raises $7.5 million in Series A
-      <hr/>
-      
-      - *YC-backed Goodcover, the insurtech startup that looks to pass unused premiums back to the policyholder, is today announcing the close of a $7.5 million Series A funding round. The funding was led by Goodwater Capital, with participation from Fuel Capital, Bro…*
        
-  - Meet the 11 startups graduating from the Entrepreneurs Roundtable Accelerator
-      <hr/>
-       
-       - *Disruption favors the small startup, and the pandemic has most certainly been disruptive. So it’s no surprise that accelerators and incubators are pumping out new startups who are ready to tackle the problems of 2020. One such accelerator is the Entrepreneurs…*
+       - *Atmos wants to make designing a house as simple as a single click. Well, that vision is now getting a double click from VCs. The company, which we profiled back in July, announced today that it raised another $4 million, this time from Evan Moore at Khosla Ve…*
       
 
 
