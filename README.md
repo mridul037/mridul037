@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+Premature abstraction is as bad as premature optimization.
 
-~ Marijn Haverbeke
+~ Luciano Ramalho
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming, it turns out, is hard. The fundamental rules are typically simple a
 
 </pre>
 **Daily News**
-  - LinkedIn's Career Explorer helps you identify new kinds of jobs based on the skills you have
+  - Trump hints at stopping "powerful" big tech in latest 'get out the vote' tweet
      <hr/>
      
-      - *One of the key side-effects of the Covid-19 pandemic has been how it has played out in the economy. There are currently 12.6 million people out of work in the U.S. alone, with estimates from the International Labour Organization noting that globally number so…*
+      - *If there was any doubt that yesterday’s flogging of big tech CEOs by Senate republicans was anything other than an electioneering stunt, president Trump has thumped the point home by tweeting a video message to voters in which he bashes “big tech” as (maybe) …*
      
+  - Upgrade adds rewards program to its credit card
+      <hr/>
+      
+      - *Fintech startup Upgrade has been quite successful with its two flagship products — a low-cost credit card and personal loans. The company is making its credit card more attractive by adding rewards. Upgrade Card consumers will earn 1.5% cash back on all purch…*
+      
+  - LinkedIn's Career Explorer helps you identify new kinds of jobs based on the skills you have
+      <hr/>
+      
+      - *One of the key side-effects of the Covid-19 pandemic has been how it has played out in the economy. There are currently 12.6 million people out of work in the U.S. alone, with estimates from the International Labour Organization noting that globally number so…*
+      
   - Marriott International announces partnership with Grab in six Southeast Asian countries
       <hr/>
       
       - *The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant’s dining businesse…*
-      
+       
   - Ford will reveal its all-electric Transit van in November
       <hr/>
-      
-      - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
-      
-  - Section 230 barely rates a mention in Senate's hasty pre-election flogging of tech CEOs
-      <hr/>
-      
-      - *Today’s Senate hearing on immensely important legal protections for online platforms quickly proved to be little more than an excuse for Senators to accuse the CEOs of Twitter, Facebook and Google of partisan interference with next week’s election. The actual…*
        
-  - Rocket Lab successfully launches 10 Earth observation satellites in 15th commercial mission
-      <hr/>
-       
-       - *New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering ten Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for l…*
+       - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
       
 
 
