@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 
-~ Ted Nelson
+~ L. Peter Deutsch
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Learning to program has no more to do with designing interactive software than l
 
 </pre>
 **Daily News**
-  - Ford will reveal its all-electric Transit van in November
+  - Marriott International announces partnership with Grab in six Southeast Asian countries
      <hr/>
      
-      - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
+      - *The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant’s dining businesse…*
      
+  - Ford will reveal its all-electric Transit van in November
+      <hr/>
+      
+      - *Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company’s global addressable ma…*
+      
   - Section 230 barely rates a mention in Senate's hasty pre-election flogging of tech CEOs
       <hr/>
       
@@ -81,16 +86,11 @@ Learning to program has no more to do with designing interactive software than l
       <hr/>
       
       - *New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering ten Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for l…*
-      
+       
   - Daily Crunch: Apple seems pretty interested in search
       <hr/>
-      
-      - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
        
-  - We need new business models to burst old media filter bubbles
-      <hr/>
-       
-       - *It’s time for us to think critically about how we can build business models that reunite information bubbles, so that people consistently get access to all sides of the story.*
+       - *Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in search Apple has a growing interest in s…*
       
 
 
