@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When in doubt, use brute force.
+Every time you improve process, work becomes harder.
 
-~ Ken Thompson
+~ Daniel T. Barry
 <pre>
 
 </pre>
