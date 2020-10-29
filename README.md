@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 
-~ Douglas Crockford
+~ Jeremy S. Anderson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Good architecture is necessary to give programs enough structure to be able to g
 
 </pre>
 **Daily News**
-  - SiFive’s new PC is bringing open-source computing closer to reality
+  - Donut launches Watercooler, an easy way to socialize online with coworkers
      <hr/>
      
-      - *One of the most interesting projects to watch these days in tech is RISC-V. The non-profit organization and wider community is building an open-source and standardized instruction set architecture (ISA) that allows chip creators to design their own chips unen…*
+      - *If you miss hanging out with your coworkers but don’t want to spend a single second more on Zoom, the latest product from Donut might be the answer. The startup is launching its new Watercooler product today while also announcing that it has raised $12 millio…*
      
-  - Spotify CEO says company will 'further expand price increases'
+  - One-click housing startup Atmos raises another $4M from Khosla, real estate strategics, and TikTok star Josh Richards
       <hr/>
       
-      - *Spotify is planning further price increases, according to comments made by co-founder and CEO Daniel Ek during the company’s third quarter earnings on Thursday. The streaming service had added 6 million subscribers in Q3 to achieve a total 144 million paying …*
+      - *Atmos wants to make designing a house as simple as a single click. Well, that vision is now getting a double click from VCs. The company, which we profiled back in July, announced today that it raised another $4 million, this time from Evan Moore at Khosla Ve…*
       
-  - Spotify hits 320 million monthly active users
+  - The Wanderlust Group raises $14.2M to double-down on getting folks outdoors
       <hr/>
       
-      - *In its latest quarterly financial report, Spotify announced that it had crossed 320 million active monthly users. That marks a 29% growth for the quarter, coming on the heels of what seems to be a rather successful launch into the Russian market. Of that numb…*
+      - *The Wanderlust Group, a Rhode Island-based startup focused on building software for the boating world, announced that it has closed a $14.2 million Series B round of capital this week. The new funds were provided by Allen & Company, Drubner Equities and Aveni…*
       
-  - Intel acquires SigOpt, a specialist in modeling optimization, to boost its AI business
+  - Goodcover, the YC-backed insurance startup, raises $7.5 million in Series A
       <hr/>
       
-      - *Intel has been doubling down on building chips and related architecture for the next generation of computing, and today it announced an acquisition that will bolster its expertise and work specifically in one area of future technology: artificial intelligence…*
+      - *YC-backed Goodcover, the insurtech startup that looks to pass unused premiums back to the policyholder, is today announcing the close of a $7.5 million Series A funding round. The funding was led by Goodwater Capital, with participation from Fuel Capital, Bro…*
        
-  - Nutrium app, which links dietitians and patients, raises $4.9M led by Indico Capital
+  - Meet the 11 startups graduating from the Entrepreneurs Roundtable Accelerator
       <hr/>
        
-       - *Nutrium, a digital health startup which links dietitians and their patients via an app, has raised a €4.25 million Seed round led by Indico Capital Partners, alongside the the Social Innovation Fund in Portugal (SIF) and previous investors. It now offers prof…*
+       - *Disruption favors the small startup, and the pandemic has most certainly been disruptive. So it’s no surprise that accelerators and incubators are pumping out new startups who are ready to tackle the problems of 2020. One such accelerator is the Entrepreneurs…*
       
 
 
