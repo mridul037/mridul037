@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+Computer Science is no more about computers than astronomy is about telescopes.
 
-~ L. Peter Deutsch
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
