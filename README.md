@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every time you improve process, work becomes harder.
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 
-~ Daniel T. Barry
+~ Marijn Haverbeke
 <pre>
 
 </pre>
