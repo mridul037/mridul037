@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only way to learn a new programming language is by writing programs in it.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ Dennis Ritchie
+~ Tim Berners-Lee
 <pre>
 
 </pre>
