@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+Premature abstraction is as bad as premature optimization.
 
-~ Mario Fusco
+~ Luciano Ramalho
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The code you write makes you a programmer. The code you delete makes you a good 
 
 </pre>
 **Daily News**
-  - Teampay adds $5M to its Series A at higher valuation after growing ARR 320% growth since the round
+  - Daimler invests in lidar company Luminar in push to bring autonomous trucks to highways
      <hr/>
      
-      - *What do you call the grey area between a Series A and a Series B? In 2020, when the money is taken on opportunistically, you call it a Series A-1 extension, according to Teampay. Even if the new capital was raised at a new, higher valuation. At least that’s w…*
+      - *Daimler’s trucks division has invested in lidar developer Luminar as part of a broader partnership to produce autonomous trucks capable of navigating highways without a human driver behind the wheel. The deal, which comes just days after Daimler and Waymo ann…*
      
+  - Uber Eats faces discrimination allegations over free delivery from Black-owned restaurants
+      <hr/>
+      
+      - *Uber says it has received more than 8,500 demands for arbitration as a result of it ditching delivery fees for some Black-owned restaurants via Uber Eats. Uber Eats made this change in June, following racial justice protests around the police killing of Georg…*
+      
+  - Teampay adds $5M to its Series A at higher valuation after growing ARR 320% growth since the round
+      <hr/>
+      
+      - *What do you call the grey area between a Series A and a Series B? In 2020, when the money is taken on opportunistically, you call it a Series A-1 extension, according to Teampay. Even if the new capital was raised at a new, higher valuation. At least that’s w…*
+      
   - Passion Capital backs UK fertility workplace benefits provider, Fertifa
       <hr/>
       
       - *UK-based Fertifa has bagged a £1 million (~$1.3M) seed to plug into a fertility-focused workplace benefits platform. Passion Capital is investing in the round, along with some unnamed strategic angel investors. The August 2019-founded startup sells bespoke re…*
-      
+       
   - Reliance Jio Platforms tops 400M subscribers, explores expanding services outside of India
       <hr/>
-      
-      - *Reliance Jio Platforms, the telecom venture run by India’s richest man (Mukesh Ambani), had 405.6 million subscribers in the quarter that ended in September, becoming the first operator outside of China to cross 400 million subscribers in a single country mar…*
-      
-  - Space investors will see into the future at TechCrunch Sessions: Space
-      <hr/>
-      
-      - *If the projections are to be believed, the amount of money swirling around the space industry is poised to grow considerably over the next decade. Consider that the aviation giant Boeing estimates that the aerospace market will reach $3 trillion in market siz…*
        
-  - Cloud infrastructure revenue grows 33% this quarter to almost $33B
-      <hr/>
-       
-       - *The cloud infrastructure market kept growing at a brisk pace last quarter, as the pandemic continued to push more companies to the cloud with offices shut down in much of the world. This week the big three — Amazon, Microsoft and Google — all reported their n…*
+       - *Reliance Jio Platforms, the telecom venture run by India’s richest man (Mukesh Ambani), had 405.6 million subscribers in the quarter that ended in September, becoming the first operator outside of China to cross 400 million subscribers in a single country mar…*
       
 
 
