@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+Simplicity does not precede complexity, but follows it.
 
-~ Tom DeMarco
+~ Alan Perlis
 <pre>
 
 </pre>
