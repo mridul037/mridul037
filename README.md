@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Steve Jobs
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ You can't just ask customers what they want and then try to give that to them. B
 
 </pre>
 **Daily News**
-  - Polestar recalls its newest EV for the second time this month
+  - Tesla has increased the price of its "Full Self-Driving" option to $10,000
      <hr/>
      
-      - *Polestar, the electric vehicle brand that was spun out of Volvo Car Group, has issued another recall for its newest electric vehicle. The company is voluntarily recalling nearly 4,600 vehicles over what has been described as a faulty inverters, Reuters report…*
+      - *Tesla has made good on founder and CEO Elon Musk’s promise to boost the price of its “Full Self-Driving” (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This…*
      
+  - Polestar recalls its newest EV for the second time this month
+      <hr/>
+      
+      - *Polestar, the electric vehicle brand that was spun out of Volvo Car Group, has issued another recall for its newest electric vehicle. The company is voluntarily recalling nearly 4,600 vehicles over what has been described as a faulty inverters, Reuters report…*
+      
   - Corsair acquires EpocCam, a webcam app for iPhone
       <hr/>
       
@@ -81,16 +86,11 @@ You can't just ask customers what they want and then try to give that to them. B
       <hr/>
       
       - *Google releases its latest earnings report, Spotify is getting ready to raise prices and Excel gets friendlier to custom data types. This is your Daily Crunch for October 29, 2020. The big story: Google had a good quarter Google’s parent company Alphabet rele…*
-      
+       
   - PUBG Mobile to terminate access for users in India on October 30 following ban order
       <hr/>
-      
-      - *PUBG Mobile, the sleeper hit mobile game, will terminate all service and access for users in India on October 30, two months after New Delhi banned the game in the world’s second largest internet market over cybersecurity concerns. India banned PUBG Mobile No…*
        
-  - Apple One services subscription bundles start launching tomorrow
-      <hr/>
-       
-       - *Apple is launching its Apple One services bundle tomorrow, though the company’s workout service Fitness+ isn’t quite ready yet. On an earnings call, CEO Tim Cook revealed tomorrow’s rollout and called the service the “easiest way for users to enjoy Apple serv…*
+       - *PUBG Mobile, the sleeper hit mobile game, will terminate all service and access for users in India on October 30, two months after New Delhi banned the game in the world’s second largest internet market over cybersecurity concerns. India banned PUBG Mobile No…*
       
 
 
