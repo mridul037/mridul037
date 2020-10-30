@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Fancy algorithms are slow when n is small, and n is usually small.
+Programming increases goes as a power of program size.
 
-~ Rob Pike
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Fancy algorithms are slow when n is small, and n is usually small.
 
 </pre>
 **Daily News**
-  - New GV partner Terri Burns has a simple investment thesis: Gen Z
+  - Facebook is limiting distribution of ‘save our children’ hashtag over QAnon ties
      <hr/>
      
-      - *In 2015, then-Twitter product manager Terri Burns penned a piece about staying optimistic despite the sexism and racism that exists expansively within tech. “America has broke my heart countless times, but I believe that technology can be a tool to mend some …*
+      - *Facebook today confirmed that it will be limiting the distribution of the hashtag “save our children.” Over the past several months, the phrase — and ones like it — have become associated with QAnon. These terms have served to provide a kind of innocuous cove…*
      
+  - New GV partner Terri Burns has a simple investment thesis: Gen Z
+      <hr/>
+      
+      - *In 2015, then-Twitter product manager Terri Burns penned a piece about staying optimistic despite the sexism and racism that exists expansively within tech. “America has broke my heart countless times, but I believe that technology can be a tool to mend some …*
+      
   - Teachers are leaving schools. Will they come to startups next?
       <hr/>
       
@@ -81,16 +86,11 @@ Fancy algorithms are slow when n is small, and n is usually small.
       <hr/>
       
       - *VC firm e.ventures is expanding its footprint in Europe with a new office in Paris as well as a new Paris-based partner. Jonathan Userovici, who previously worked for Idinvest Partners, is joining e.ventures as partner and head of Paris office. Originally fou…*
-      
+       
   - Daimler invests in lidar company Luminar in push to bring autonomous trucks to highways
       <hr/>
-      
-      - *Daimler’s trucks division has invested in lidar developer Luminar as part of a broader partnership to produce autonomous trucks capable of navigating highways without a human driver behind the wheel. The deal, which comes just days after Daimler and Waymo ann…*
        
-  - Uber Eats faces discrimination allegations over free delivery from Black-owned restaurants
-      <hr/>
-       
-       - *Uber says it has received more than 8,500 demands for arbitration as a result of it ditching delivery fees for some Black-owned restaurants via Uber Eats. Uber Eats made this change in June, following racial justice protests around the police killing of Georg…*
+       - *Daimler’s trucks division has invested in lidar developer Luminar as part of a broader partnership to produce autonomous trucks capable of navigating highways without a human driver behind the wheel. The deal, which comes just days after Daimler and Waymo ann…*
       
 
 
