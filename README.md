@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+Most errors are introduced during requirements specification!
 
-~ Seymour Cray
+~ Daniel T. Barry
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The trouble with programmers is that you can never tell what a programmer is doi
 
 </pre>
 **Daily News**
-  - Tesla has increased the price of its "Full Self-Driving" option to $10,000
+  - WhatsApp is now delivering roughly 100 billion messages a day
      <hr/>
      
-      - *Tesla has made good on founder and CEO Elon Musk’s promise to boost the price of its “Full Self-Driving” (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This…*
+      - *WhatsApp, the popular instant messaging app owned by Facebook, is now delivering roughly 100 billion messages a day, company’s chief executive Mark Zuckerberg said at the company’s quarterly earnings call Thursday. For some perspective, users exchanged 100 bi…*
      
+  - PORTL Hologram raises $3M to put a hologram machine in every home
+      <hr/>
+      
+      - *What does a hologram-obsessed entrepreneur do for a second act after setting up a virtual Ronald Reagan in the Reagan Memorial Library, or beaming Jimmy Kimmel all the way from Hollywood to the Country Music Awards in Nashville? If that entrepreneur is David …*
+      
+  - Tesla has increased the price of its "Full Self-Driving" option to $10,000
+      <hr/>
+      
+      - *Tesla has made good on founder and CEO Elon Musk’s promise to boost the price of its “Full Self-Driving” (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This…*
+      
   - Polestar recalls its newest EV for the second time this month
       <hr/>
       
       - *Polestar, the electric vehicle brand that was spun out of Volvo Car Group, has issued another recall for its newest electric vehicle. The company is voluntarily recalling nearly 4,600 vehicles over what has been described as a faulty inverters, Reuters report…*
-      
+       
   - Corsair acquires EpocCam, a webcam app for iPhone
       <hr/>
-      
-      - *Corsair Gaming today announced that it has acquired EpocCam, the software developer behind the iOS software of the same name. It’s easy to see why the gaming company would be interested in such an acquisition in 2020. The COVID-19 pandemic has lead to a world…*
-      
-  - Daily Crunch: Google had a good quarter
-      <hr/>
-      
-      - *Google releases its latest earnings report, Spotify is getting ready to raise prices and Excel gets friendlier to custom data types. This is your Daily Crunch for October 29, 2020. The big story: Google had a good quarter Google’s parent company Alphabet rele…*
        
-  - PUBG Mobile to terminate access for users in India on October 30 following ban order
-      <hr/>
-       
-       - *PUBG Mobile, the sleeper hit mobile game, will terminate all service and access for users in India on October 30, two months after New Delhi banned the game in the world’s second largest internet market over cybersecurity concerns. India banned PUBG Mobile No…*
+       - *Corsair Gaming today announced that it has acquired EpocCam, the software developer behind the iOS software of the same name. It’s easy to see why the gaming company would be interested in such an acquisition in 2020. The COVID-19 pandemic has lead to a world…*
       
 
 
