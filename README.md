@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 
-~ Michael Stal
+~ Tom DeMarco
 <pre>
 
 </pre>
