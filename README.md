@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Because we are uncertain about our scheduling estimates, we often lack the coura
 
 </pre>
 **Daily News**
-  - UK watchdog reduces Marriott data breach fine to $23.8M, down from $123M
+  - NowThis partners with Calm to offer a soothing Election Day livestream
      <hr/>
      
-      - *The UK’s ICO has reduced the size of a data breach penalty for hotel business Marriott — dropping it to £14.4 million (~$23.8M) in a final penalty notice down from the £99M ($123M) figure that the watchdog initially said it would levy in July 2019. The fine r…*
+      - *Mobile news organization NowThis is announcing a bit of counter-programming for next week’s presidential election — it’s partnering with meditation app Calm to create a livestream for anyone who needs relief from stress of Election Day news. Not that NowThis …*
      
+  - Smartphone shipments dip in China for Q3, led by Huawei decline
+      <hr/>
+      
+      - *China was the first major global smartphone markets to rebound from the early days of the COVID-19 pandemic. Stringent lockdown measures were able to help the country recover from the virus relatively quickly during the first wave, as sales started to return …*
+      
+  - Illinois is taking a data-driven approach to its mask-wearing ad campaign
+      <hr/>
+      
+      - *Here’s an example of ad targeting that’s actually good for public health: In a campaign encouraging people to wear masks, the Illinois state government has been focusing its digital ad dollars on the counties with highest COVID risk. To achieve this, the gove…*
+      
+  - UK watchdog reduces Marriott data breach fine to $23.8M, down from $123M
+      <hr/>
+      
+      - *The UK’s ICO has reduced the size of a data breach penalty for hotel business Marriott — dropping it to £14.4 million (~$23.8M) in a final penalty notice down from the £99M ($123M) figure that the watchdog initially said it would levy in July 2019. The fine r…*
+       
   - Under Armour to sell MyFitnessPal for $345 million, after acquiring it in 2015 for $475 million
       <hr/>
-      
-      - *Global fitness giant Under Armour announced this morning that it will be selling MyFitnessPal to investment firm Francisco Partners for $345 million, five and a half years after acquiring it for $475 million. The company also announced that it will be winding…*
-      
-  - AOL founder Steve Case, involved early in Section 230, says it's time to change it
-      <hr/>
-      
-      - *AOL founder Steve Case was there in Dulles, Virginia, just outside of Washington, D.C., when in 1996 the Communications Decency Act was passed as part of a major overhaul of U.S. telecommunications laws that President Bill Clinton signed into law. Soon after,…*
-      
-  - Amazon pegs COVID-19 costs at an estimated $4 billion next quarter
-      <hr/>
-      
-      - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
        
-  - WhatsApp is now delivering roughly 100 billion messages a day
-      <hr/>
-       
-       - *WhatsApp, the popular instant messaging app owned by Facebook, is now delivering roughly 100 billion messages a day, company’s chief executive Mark Zuckerberg said at the company’s quarterly earnings call Thursday. For some perspective, users exchanged 100 bi…*
+       - *Global fitness giant Under Armour announced this morning that it will be selling MyFitnessPal to investment firm Francisco Partners for $345 million, five and a half years after acquiring it for $475 million. The company also announced that it will be winding…*
       
 
 
