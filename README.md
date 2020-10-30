@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most errors are introduced during requirements specification!
+One man's constant is another man's variable.
 
-~ Daniel T. Barry
+~ Alan Perlis
 <pre>
 
 </pre>
