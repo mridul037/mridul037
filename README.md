@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+Whenever logical processes of thought are employed, there is an opportunity for the machine.
 
-~ Alan Kay
+~ Vannevar Bush
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I invented the term 'Object-Oriented', and I can tell you I did not have C++ in 
 
 </pre>
 **Daily News**
-  - Join Greylock’s Asheem Chandna on November 5 at noon PST/3 pm EST/8 pm GMT to discuss the future of enterprise and cybersecurity investing
+  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
      <hr/>
      
-      - *The world of enterprise software and cybersecurity has taken multiple body blows since COVID-19 demolished the in-person office, flinging employees across the world and forcing companies to adapt to an all-remote productivity model. The shift has required com…*
+      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
      
-  - The scooter battle for New York City is on
+  - Google reveals a new Windows zero-day bug it says is under active attack
       <hr/>
       
-      - *New York City, one of the most coveted shared micromobility markets in the industry, has released its request for interest in its electric scooter pilot, officially kicking off what promises to be a competitive battle among companies vying for a chance to ope…*
+      - *The bug affects at least Windows 7 and Windows 10.*
       
-  - Logistics and truck rental giant Ryder joins the businesses making the jump into venture capital in 2020
+  - Facebook hits pause on algorithmic recommendations for political and social issue groups
       <hr/>
       
-      - *While the launch of a $50 million venture capital fund by the shipping, logistics, and truck rental company Ryder System may have seemed like an odd strategic move, it’s actually the culmination of roughly three years of investment activity from the Florida-b…*
+      - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
       
-  - Nestlé acquires healthy meal startup Freshly for up to $1.5B
+  - Dear Sophie: Would a Trump win abolish the H-1B visa lottery?
       <hr/>
       
-      - *Nestlé USA just announced that it has acquired Freshly for $1.5 billion — $950 million plus potential earnouts of up to $550 million based on future growth. Founded in 2015, Freshly is a New York City-based startup that offers healthy meals delivered to your …*
+      - *Proposed changes to the H-1B lottery are expected to be published in the Federal Register next week and DHS will accept comments from the public on this proposal for 30 days after that.*
        
-  - Big tech's 'blackbox' algorithms face regulatory oversight under EU plan
+  - Join Greylock’s Asheem Chandna on November 5 at noon PST/3 pm EST/8 pm GMT to discuss the future of enterprise and cybersecurity investing
       <hr/>
        
-       - *Major Internet platforms will be required to open up their algorithms to regulatory oversight under proposals European lawmakers are set to introduce next month. In a speech today Commission EVP Margrethe Vestager suggested algorithmic accountability will be …*
+       - *The world of enterprise software and cybersecurity has taken multiple body blows since COVID-19 demolished the in-person office, flinging employees across the world and forcing companies to adapt to an all-remote productivity model. The shift has required com…*
       
 
 
