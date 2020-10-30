@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of my most productive days was throwing away 1,000 lines of code.
+The only way to learn a new programming language is by writing programs in it.
 
-~ Ken Thompson
+~ Dennis Ritchie
 <pre>
 
 </pre>
