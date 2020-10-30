@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Edsger W. Dijkstra
+~ Mario Fusco
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If you want more effective programmers, you will discover that they should not w
 
 </pre>
 **Daily News**
-  - NowThis partners with Calm to offer a soothing Election Day livestream
+  - Teampay adds $5M to its Series A at higher valuation after growing ARR 320% growth since the round
      <hr/>
      
-      - *Mobile news organization NowThis is announcing a bit of counter-programming for next week’s presidential election — it’s partnering with meditation app Calm to create a livestream for anyone who needs relief from stress of Election Day news. Not that NowThis …*
+      - *What do you call the grey area between a Series A and a Series B? In 2020, when the money is taken on opportunistically, you call it a Series A-1 extension, according to Teampay. Even if the new capital was raised at a new, higher valuation. At least that’s w…*
      
-  - Smartphone shipments dip in China for Q3, led by Huawei decline
+  - Passion Capital backs UK fertility workplace benefits provider, Fertifa
       <hr/>
       
-      - *China was the first major global smartphone markets to rebound from the early days of the COVID-19 pandemic. Stringent lockdown measures were able to help the country recover from the virus relatively quickly during the first wave, as sales started to return …*
+      - *UK-based Fertifa has bagged a £1 million (~$1.3M) seed to plug into a fertility-focused workplace benefits platform. Passion Capital is investing in the round, along with some unnamed strategic angel investors. The August 2019-founded startup sells bespoke re…*
       
-  - Illinois is taking a data-driven approach to its mask-wearing ad campaign
+  - Reliance Jio Platforms tops 400M subscribers, explores expanding services outside of India
       <hr/>
       
-      - *Here’s an example of ad targeting that’s actually good for public health: In a campaign encouraging people to wear masks, the Illinois state government has been focusing its digital ad dollars on the counties with highest COVID risk. To achieve this, the gove…*
+      - *Reliance Jio Platforms, the telecom venture run by India’s richest man (Mukesh Ambani), had 405.6 million subscribers in the quarter that ended in September, becoming the first operator outside of China to cross 400 million subscribers in a single country mar…*
       
-  - UK watchdog reduces Marriott data breach fine to $23.8M, down from $123M
+  - Space investors will see into the future at TechCrunch Sessions: Space
       <hr/>
       
-      - *The UK’s ICO has reduced the size of a data breach penalty for hotel business Marriott — dropping it to £14.4 million (~$23.8M) in a final penalty notice down from the £99M ($123M) figure that the watchdog initially said it would levy in July 2019. The fine r…*
+      - *If the projections are to be believed, the amount of money swirling around the space industry is poised to grow considerably over the next decade. Consider that the aviation giant Boeing estimates that the aerospace market will reach $3 trillion in market siz…*
        
-  - Under Armour to sell MyFitnessPal for $345 million, after acquiring it in 2015 for $475 million
+  - Cloud infrastructure revenue grows 33% this quarter to almost $33B
       <hr/>
        
-       - *Global fitness giant Under Armour announced this morning that it will be selling MyFitnessPal to investment firm Francisco Partners for $345 million, five and a half years after acquiring it for $475 million. The company also announced that it will be winding…*
+       - *The cloud infrastructure market kept growing at a brisk pace last quarter, as the pandemic continued to push more companies to the cloud with offices shut down in much of the world. This week the big three — Amazon, Microsoft and Google — all reported their n…*
       
 
 
