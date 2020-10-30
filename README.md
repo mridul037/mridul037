@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Whenever logical processes of thought are employed, there is an opportunity for the machine.
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 
-~ Vannevar Bush
+~ Wayne Ratliff
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Whenever logical processes of thought are employed, there is an opportunity for 
 
 </pre>
 **Daily News**
-  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
+  - Daily Crunch: Under Armour is selling MyFitnessPal
      <hr/>
      
-      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
+      - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
      
+  - iPhones can now tell blind users where and how far away people are
+      <hr/>
+      
+      - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
+      
+  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
+      <hr/>
+      
+      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
+      
   - Google reveals a new Windows zero-day bug it says is under active attack
       <hr/>
       
       - *The bug affects at least Windows 7 and Windows 10.*
-      
+       
   - Facebook hits pause on algorithmic recommendations for political and social issue groups
       <hr/>
-      
-      - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
-      
-  - Dear Sophie: Would a Trump win abolish the H-1B visa lottery?
-      <hr/>
-      
-      - *Proposed changes to the H-1B lottery are expected to be published in the Federal Register next week and DHS will accept comments from the public on this proposal for 30 days after that.*
        
-  - Join Greylock’s Asheem Chandna on November 5 at noon PST/3 pm EST/8 pm GMT to discuss the future of enterprise and cybersecurity investing
-      <hr/>
-       
-       - *The world of enterprise software and cybersecurity has taken multiple body blows since COVID-19 demolished the in-person office, flinging employees across the world and forcing companies to adapt to an all-remote productivity model. The shift has required com…*
+       - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
       
 
 
