@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One man's constant is another man's variable.
+One of my most productive days was throwing away 1,000 lines of code.
 
-~ Alan Perlis
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ One man's constant is another man's variable.
 
 </pre>
 **Daily News**
-  - WhatsApp is now delivering roughly 100 billion messages a day
+  - Amazon pegs COVID-19 costs at an estimated $4 billion next quarter
      <hr/>
      
-      - *WhatsApp, the popular instant messaging app owned by Facebook, is now delivering roughly 100 billion messages a day, company’s chief executive Mark Zuckerberg said at the company’s quarterly earnings call Thursday. For some perspective, users exchanged 100 bi…*
+      - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
      
+  - WhatsApp is now delivering roughly 100 billion messages a day
+      <hr/>
+      
+      - *WhatsApp, the popular instant messaging app owned by Facebook, is now delivering roughly 100 billion messages a day, company’s chief executive Mark Zuckerberg said at the company’s quarterly earnings call Thursday. For some perspective, users exchanged 100 bi…*
+      
   - PORTL Hologram raises $3M to put a hologram machine in every home
       <hr/>
       
@@ -81,16 +86,11 @@ One man's constant is another man's variable.
       <hr/>
       
       - *Tesla has made good on founder and CEO Elon Musk’s promise to boost the price of its “Full Self-Driving” (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This…*
-      
+       
   - Polestar recalls its newest EV for the second time this month
       <hr/>
-      
-      - *Polestar, the electric vehicle brand that was spun out of Volvo Car Group, has issued another recall for its newest electric vehicle. The company is voluntarily recalling nearly 4,600 vehicles over what has been described as a faulty inverters, Reuters report…*
        
-  - Corsair acquires EpocCam, a webcam app for iPhone
-      <hr/>
-       
-       - *Corsair Gaming today announced that it has acquired EpocCam, the software developer behind the iOS software of the same name. It’s easy to see why the gaming company would be interested in such an acquisition in 2020. The COVID-19 pandemic has lead to a world…*
+       - *Polestar, the electric vehicle brand that was spun out of Volvo Car Group, has issued another recall for its newest electric vehicle. The company is voluntarily recalling nearly 4,600 vehicles over what has been described as a faulty inverters, Reuters report…*
       
 
 
