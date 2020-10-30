@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 
-~ Ray Ozzie
+~ John Warnock
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Complexity kills. It sucks the life out of developers, it makes products difficu
 
 </pre>
 **Daily News**
-  - AOL founder Steve Case, involved early in Section 230, says it's time to change it
+  - UK watchdog reduces Marriott data breach fine to $23.8M, down from $123M
      <hr/>
      
-      - *AOL founder Steve Case was there in Dulles, Virginia, just outside of Washington, D.C., when in 1996 the Communications Decency Act was passed as part of a major overhaul of U.S. telecommunications laws that President Bill Clinton signed into law. Soon after,…*
+      - *The UK’s ICO has reduced the size of a data breach penalty for hotel business Marriott — dropping it to £14.4 million (~$23.8M) in a final penalty notice down from the £99M ($123M) figure that the watchdog initially said it would levy in July 2019. The fine r…*
      
+  - Under Armour to sell MyFitnessPal for $345 million, after acquiring it in 2015 for $475 million
+      <hr/>
+      
+      - *Global fitness giant Under Armour announced this morning that it will be selling MyFitnessPal to investment firm Francisco Partners for $345 million, five and a half years after acquiring it for $475 million. The company also announced that it will be winding…*
+      
+  - AOL founder Steve Case, involved early in Section 230, says it's time to change it
+      <hr/>
+      
+      - *AOL founder Steve Case was there in Dulles, Virginia, just outside of Washington, D.C., when in 1996 the Communications Decency Act was passed as part of a major overhaul of U.S. telecommunications laws that President Bill Clinton signed into law. Soon after,…*
+      
   - Amazon pegs COVID-19 costs at an estimated $4 billion next quarter
       <hr/>
       
       - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
-      
+       
   - WhatsApp is now delivering roughly 100 billion messages a day
       <hr/>
-      
-      - *WhatsApp, the popular instant messaging app owned by Facebook, is now delivering roughly 100 billion messages a day, company’s chief executive Mark Zuckerberg said at the company’s quarterly earnings call Thursday. For some perspective, users exchanged 100 bi…*
-      
-  - PORTL Hologram raises $3M to put a hologram machine in every home
-      <hr/>
-      
-      - *What does a hologram-obsessed entrepreneur do for a second act after setting up a virtual Ronald Reagan in the Reagan Memorial Library, or beaming Jimmy Kimmel all the way from Hollywood to the Country Music Awards in Nashville? If that entrepreneur is David …*
        
-  - Tesla has increased the price of its "Full Self-Driving" option to $10,000
-      <hr/>
-       
-       - *Tesla has made good on founder and CEO Elon Musk’s promise to boost the price of its “Full Self-Driving” (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This…*
+       - *WhatsApp, the popular instant messaging app owned by Facebook, is now delivering roughly 100 billion messages a day, company’s chief executive Mark Zuckerberg said at the company’s quarterly earnings call Thursday. For some perspective, users exchanged 100 bi…*
       
 
 
