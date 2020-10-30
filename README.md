@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 
-~ Ryan Singer
+~ Alan Kay
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ So much complexity in software comes from trying to make one thing do two things
 
 </pre>
 **Daily News**
-  - Logistics and truck rental giant Ryder joins the businesses making the jump into venture capital in 2020
+  - Join Greylock’s Asheem Chandna on November 5 at noon PST/3 pm EST/8 pm GMT to discuss the future of enterprise and cybersecurity investing
      <hr/>
      
-      - *While the launch of a $50 million venture capital fund by the shipping, logistics, and truck rental company Ryder System may have seemed like an odd strategic move, it’s actually the culmination of roughly three years of investment activity from the Florida-b…*
+      - *The world of enterprise software and cybersecurity has taken multiple body blows since COVID-19 demolished the in-person office, flinging employees across the world and forcing companies to adapt to an all-remote productivity model. The shift has required com…*
      
+  - The scooter battle for New York City is on
+      <hr/>
+      
+      - *New York City, one of the most coveted shared micromobility markets in the industry, has released its request for interest in its electric scooter pilot, officially kicking off what promises to be a competitive battle among companies vying for a chance to ope…*
+      
+  - Logistics and truck rental giant Ryder joins the businesses making the jump into venture capital in 2020
+      <hr/>
+      
+      - *While the launch of a $50 million venture capital fund by the shipping, logistics, and truck rental company Ryder System may have seemed like an odd strategic move, it’s actually the culmination of roughly three years of investment activity from the Florida-b…*
+      
   - Nestlé acquires healthy meal startup Freshly for up to $1.5B
       <hr/>
       
       - *Nestlé USA just announced that it has acquired Freshly for $1.5 billion — $950 million plus potential earnouts of up to $550 million based on future growth. Founded in 2015, Freshly is a New York City-based startup that offers healthy meals delivered to your …*
-      
+       
   - Big tech's 'blackbox' algorithms face regulatory oversight under EU plan
       <hr/>
-      
-      - *Major Internet platforms will be required to open up their algorithms to regulatory oversight under proposals European lawmakers are set to introduce next month. In a speech today Commission EVP Margrethe Vestager suggested algorithmic accountability will be …*
-      
-  - Facebook is limiting distribution of ‘save our children’ hashtag over QAnon ties
-      <hr/>
-      
-      - *Facebook today confirmed that it will be limiting the distribution of the hashtag “save our children.” Over the past several months, the phrase — and ones like it — have become associated with QAnon. These terms have served to provide a kind of innocuous cove…*
        
-  - New GV partner Terri Burns has a simple investment thesis: Gen Z
-      <hr/>
-       
-       - *In 2015, then-Twitter product manager Terri Burns penned a piece about staying optimistic despite the sexism and racism that exists expansively within tech. “America has broke my heart countless times, but I believe that technology can be a tool to mend some …*
+       - *Major Internet platforms will be required to open up their algorithms to regulatory oversight under proposals European lawmakers are set to introduce next month. In a speech today Commission EVP Margrethe Vestager suggested algorithmic accountability will be …*
       
 
 
