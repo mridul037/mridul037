@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ Danny Hillis
+~ Michael Stal
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The computer is not just an advanced calculator or camera or paintbrush; rather,
 
 </pre>
 **Daily News**
-  - Amazon pegs COVID-19 costs at an estimated $4 billion next quarter
+  - AOL founder Steve Case, involved early in Section 230, says it's time to change it
      <hr/>
      
-      - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
+      - *AOL founder Steve Case was there in Dulles, Virginia, just outside of Washington, D.C., when in 1996 the Communications Decency Act was passed as part of a major overhaul of U.S. telecommunications laws that President Bill Clinton signed into law. Soon after,…*
      
+  - Amazon pegs COVID-19 costs at an estimated $4 billion next quarter
+      <hr/>
+      
+      - *Amazon expects to incur $4 billion in COVID-related costs next quarter, an estimate that provides a bellwether for other businesses, large and small, trying to stay operational and control expenses amid the pandemic. The upshot: Amazon is planning for COVID t…*
+      
   - WhatsApp is now delivering roughly 100 billion messages a day
       <hr/>
       
@@ -81,16 +86,11 @@ The computer is not just an advanced calculator or camera or paintbrush; rather,
       <hr/>
       
       - *What does a hologram-obsessed entrepreneur do for a second act after setting up a virtual Ronald Reagan in the Reagan Memorial Library, or beaming Jimmy Kimmel all the way from Hollywood to the Country Music Awards in Nashville? If that entrepreneur is David …*
-      
+       
   - Tesla has increased the price of its "Full Self-Driving" option to $10,000
       <hr/>
-      
-      - *Tesla has made good on founder and CEO Elon Musk’s promise to boost the price of its “Full Self-Driving” (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This…*
        
-  - Polestar recalls its newest EV for the second time this month
-      <hr/>
-       
-       - *Polestar, the electric vehicle brand that was spun out of Volvo Car Group, has issued another recall for its newest electric vehicle. The company is voluntarily recalling nearly 4,600 vehicles over what has been described as a faulty inverters, Reuters report…*
+       - *Tesla has made good on founder and CEO Elon Musk’s promise to boost the price of its “Full Self-Driving” (FSD) software upgrade option, increasing it to $10,000 following the start of the staged rollout of a beta version of the software update last week. This…*
       
 
 
