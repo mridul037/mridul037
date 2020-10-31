@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 
-~ Linus Torvalds
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
