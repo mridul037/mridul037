@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+Nine women can't make a baby in one month.
 
-~ Ada Lovelace
+~ Fred Brooks
 <pre>
 
 </pre>
