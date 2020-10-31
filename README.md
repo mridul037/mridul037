@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Fred Brooks
+~ Donald Knuth
 <pre>
 
 </pre>
