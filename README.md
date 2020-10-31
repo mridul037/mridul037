@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+A program that produces incorrect results twice as fast is infinitely slower.
 
-~ Roy Fielding
+~ John Ousterhout
 <pre>
 
 </pre>
