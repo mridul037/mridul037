@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+It was a turning point in my programming career when I realized that I didn't have to win every argument.
 
-~ Fred Brooks
+~ Ward Cunningham
 <pre>
 
 </pre>
