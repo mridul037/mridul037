@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Premature abstraction is as bad as premature optimization.
+The cheapest, fastest, and most reliable components are those that aren’t there.
 
-~ Luciano Ramalho
+~ Gordon Bell
 <pre>
 
 </pre>
