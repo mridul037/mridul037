@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-With artificial intelligence we are summoning the demon.
+First, solve the problem. Then, write the code.
 
-~ Elon Musk
+~ John Johnson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ With artificial intelligence we are summoning the demon.
 
 </pre>
 **Daily News**
-  - This Week in Apps: Facebook Gaming skips iOS, TikTok goes shopping, Apple One bundles arrive
+  - MG Siegler talks portfolio management and fundraising 6 months into the COVID-19 pandemic
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
      
+  - The 2020s promise better tech solutions to humanity's biggest problems
+      <hr/>
+      
+      - *Let's think beyond Monday, for a minute, to the trends playing out in technology this coming decade. While humanity's problems have never been greater, our tools have never been better.*
+      
+  - This Week in Apps: Facebook Gaming skips iOS, TikTok goes shopping, Apple One bundles arrive
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - Equity shot: Boo! It's the Halloween earnings special!
       <hr/>
       
       - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As promised, the whole gang is back, this time to chew on the biggest, baddest, worstest, and most troubling ea…*
-      
+       
   - You can start a venture fund if you're not rich; here's how
       <hr/>
-      
-      - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
-      
-  - TikTok stars got a judge to block Trump's TikTok ban
-      <hr/>
-      
-      - *TikTok has won another battle in its fight against the Trump administration’s ban of its video-sharing app in the U.S. — or, more accurately in this case, the TikTok community won a battle. On Friday, a federal judge in Pennsylvania has issued an injunction t…*
        
-  - Cough-scrutinizing AI shows major promise as an early warning system for COVID-19
-      <hr/>
-       
-       - *Asymptomatic spread of COVID-19 is a huge contributor to the pandemic, but of course if there are no symptoms, how can anyone tell they should isolate or get a test? MIT research has found that hidden in the sound of coughs is a pattern that subtly, but relia…*
+       - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
       
 
 
