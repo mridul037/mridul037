@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Nine women can't make a baby in one month.
+The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
 
 ~ Fred Brooks
 <pre>
@@ -67,11 +67,16 @@ Nine women can't make a baby in one month.
 
 </pre>
 **Daily News**
-  - TikTok stars got a judge to block Trump's TikTok ban
+  - You can start a venture fund if you're not rich; here's how
      <hr/>
      
-      - *TikTok has won another battle in its fight against the Trump administration’s ban of its video-sharing app in the U.S. — or, more accurately in this case, the TikTok community won a battle. On Friday, a federal judge in Pennsylvania has issued an injunction t…*
+      - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
      
+  - TikTok stars got a judge to block Trump's TikTok ban
+      <hr/>
+      
+      - *TikTok has won another battle in its fight against the Trump administration’s ban of its video-sharing app in the U.S. — or, more accurately in this case, the TikTok community won a battle. On Friday, a federal judge in Pennsylvania has issued an injunction t…*
+      
   - Cough-scrutinizing AI shows major promise as an early warning system for COVID-19
       <hr/>
       
@@ -81,16 +86,11 @@ Nine women can't make a baby in one month.
       <hr/>
       
       - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
-      
+       
   - Daily Crunch: Under Armour is selling MyFitnessPal
       <hr/>
-      
-      - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
        
-  - iPhones can now tell blind users where and how far away people are
-      <hr/>
-       
-       - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
+       - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
       
 
 
