@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 
-~ John Ousterhout
+~ Kent Beck
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A program that produces incorrect results twice as fast is infinitely slower.
 
 </pre>
 **Daily News**
-  - Equity shot: Boo! It's the Halloween earnings special!
+  - This Week in Apps: Facebook Gaming skips iOS, TikTok goes shopping, Apple One bundles arrive
      <hr/>
      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As promised, the whole gang is back, this time to chew on the biggest, baddest, worstest, and most troubling ea…*
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
      
+  - Equity shot: Boo! It's the Halloween earnings special!
+      <hr/>
+      
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As promised, the whole gang is back, this time to chew on the biggest, baddest, worstest, and most troubling ea…*
+      
   - You can start a venture fund if you're not rich; here's how
       <hr/>
       
@@ -81,16 +86,11 @@ A program that produces incorrect results twice as fast is infinitely slower.
       <hr/>
       
       - *TikTok has won another battle in its fight against the Trump administration’s ban of its video-sharing app in the U.S. — or, more accurately in this case, the TikTok community won a battle. On Friday, a federal judge in Pennsylvania has issued an injunction t…*
-      
+       
   - Cough-scrutinizing AI shows major promise as an early warning system for COVID-19
       <hr/>
-      
-      - *Asymptomatic spread of COVID-19 is a huge contributor to the pandemic, but of course if there are no symptoms, how can anyone tell they should isolate or get a test? MIT research has found that hidden in the sound of coughs is a pattern that subtly, but relia…*
        
-  - Apple acknowledges AirPods Pro issues, will replace those that crackle and rattle
-      <hr/>
-       
-       - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
+       - *Asymptomatic spread of COVID-19 is a huge contributor to the pandemic, but of course if there are no symptoms, how can anyone tell they should isolate or get a test? MIT research has found that hidden in the sound of coughs is a pattern that subtly, but relia…*
       
 
 
