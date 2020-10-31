@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
-~ Donald Knuth
+~ Fred Brooks
 <pre>
 
 </pre>
