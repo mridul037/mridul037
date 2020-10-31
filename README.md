@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Randall E. Stross
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The best programmers are not marginally better than merely good ones. They are a
 
 </pre>
 **Daily News**
-  - Apple acknowledges AirPods Pro issues, will replace those that crackle and rattle
+  - TikTok stars got a judge to block Trump's TikTok ban
      <hr/>
      
-      - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
+      - *TikTok has won another battle in its fight against the Trump administration’s ban of its video-sharing app in the U.S. — or, more accurately in this case, the TikTok community won a battle. On Friday, a federal judge in Pennsylvania has issued an injunction t…*
      
+  - Cough-scrutinizing AI shows major promise as an early warning system for COVID-19
+      <hr/>
+      
+      - *Asymptomatic spread of COVID-19 is a huge contributor to the pandemic, but of course if there are no symptoms, how can anyone tell they should isolate or get a test? MIT research has found that hidden in the sound of coughs is a pattern that subtly, but relia…*
+      
+  - Apple acknowledges AirPods Pro issues, will replace those that crackle and rattle
+      <hr/>
+      
+      - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
+      
   - Daily Crunch: Under Armour is selling MyFitnessPal
       <hr/>
       
       - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
-      
+       
   - iPhones can now tell blind users where and how far away people are
       <hr/>
-      
-      - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
-      
-  - Q3 earnings find Apple and Google looking to the future for hardware rebounds
-      <hr/>
-      
-      - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
        
-  - Google reveals a new Windows zero-day bug it says is under active attack
-      <hr/>
-       
-       - *The bug affects at least Windows 7 and Windows 10.*
+       - *Apple has packed an interesting new accessibility feature into the latest beta of iOS: a system that detects the presence of and distance to people in the view of the iPhone’s camera, so blind users can social distance effectively, among many other things. Th…*
       
 
 
