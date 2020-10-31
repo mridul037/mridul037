@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 
-~ Paul Graham (programmer)
+~ Roy Fielding
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The best thing software can be is easy, but the way to do this is to get the def
 
 </pre>
 **Daily News**
-  - You can start a venture fund if you're not rich; here's how
+  - Equity shot: Boo! It's the Halloween earnings special!
      <hr/>
      
-      - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. As promised, the whole gang is back, this time to chew on the biggest, baddest, worstest, and most troubling ea…*
      
+  - You can start a venture fund if you're not rich; here's how
+      <hr/>
+      
+      - *For years — decades, even — there was little question about whether you could become a venture capitalist if you weren’t comfortable financially. You couldn’t. The people and institutions that invest in venture funds want to know that fund managers have their…*
+      
   - TikTok stars got a judge to block Trump's TikTok ban
       <hr/>
       
@@ -81,16 +86,11 @@ The best thing software can be is easy, but the way to do this is to get the def
       <hr/>
       
       - *Asymptomatic spread of COVID-19 is a huge contributor to the pandemic, but of course if there are no symptoms, how can anyone tell they should isolate or get a test? MIT research has found that hidden in the sound of coughs is a pattern that subtly, but relia…*
-      
+       
   - Apple acknowledges AirPods Pro issues, will replace those that crackle and rattle
       <hr/>
-      
-      - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
        
-  - Daily Crunch: Under Armour is selling MyFitnessPal
-      <hr/>
-       
-       - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
+       - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
       
 
 
