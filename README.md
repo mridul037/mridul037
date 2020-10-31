@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The next best thing to having good ideas is recognizing good ideas from your users.
+I think you should always bear in mind that entropy is not on your side.
 
-~ Eric S. Raymond
+~ Elon Musk
 <pre>
 
 </pre>
