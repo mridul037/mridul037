@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+Premature abstraction is as bad as premature optimization.
 
-~ Fred Brooks
+~ Luciano Ramalho
 <pre>
 
 </pre>
