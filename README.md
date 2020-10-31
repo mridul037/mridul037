@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 
-~ Wayne Ratliff
+~ Randall E. Stross
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If I had followed my heart instead of advice, dBASE would be much closer to perf
 
 </pre>
 **Daily News**
-  - Daily Crunch: Under Armour is selling MyFitnessPal
+  - Apple acknowledges AirPods Pro issues, will replace those that crackle and rattle
      <hr/>
      
-      - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
+      - *Are your AirPods Pro earbuds making weird noises? You’re not imagining it — and you’re not the only one. Just a few months after Apple started shipping AirPods Pro, some users started noticing that one or both of their earbuds were rattling or crackling. The …*
      
+  - Daily Crunch: Under Armour is selling MyFitnessPal
+      <hr/>
+      
+      - *Under Armour gives up on one of its big acquisitions, Uber Eats faces complaints over its free delivery policy for Black restaurants and Facebook takes another step to limit QAnon-related content. This is your Daily Crunch for October 30, 2020. The big story:…*
+      
   - iPhones can now tell blind users where and how far away people are
       <hr/>
       
@@ -81,16 +86,11 @@ If I had followed my heart instead of advice, dBASE would be much closer to perf
       <hr/>
       
       - *“5G is a once-in-a-decade kind of opportunity,” Tim Cook told the media during the Q&A portion of Apple’s Q3 earnings call. “And we could not be more excited to hit the market exactly when we did.” The truth of the matter is its timing was a mixed bag. Apple …*
-      
+       
   - Google reveals a new Windows zero-day bug it says is under active attack
       <hr/>
-      
-      - *The bug affects at least Windows 7 and Windows 10.*
        
-  - Facebook hits pause on algorithmic recommendations for political and social issue groups
-      <hr/>
-       
-       - *With just days to go before the U.S. election, Facebook quietly suspended one of its most worrisome features. During Wednesday’s Senate hearing Senator Ed Markey asked Facebook CEO Mark Zuckerberg about reports that his company has long known its group recomm…*
+       - *The bug affects at least Windows 7 and Windows 10.*
       
 
 
