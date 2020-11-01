@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Ada Lovelace
+~ Robert C. Martin
 <pre>
 
 </pre>
