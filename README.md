@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+A number of studies have shown testing not very effective at finding bugs.
 
-~ Martin Fowler
+~ Daniel T. Barry
 <pre>
 
 </pre>
