@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When we don’t understand a process, we fall into magical thinking about results.
+First do it, then do it right, then do it better.
 
-~ Jef Raskin
+~ Addy Osmani
 <pre>
 
 </pre>
