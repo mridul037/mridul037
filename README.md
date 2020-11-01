@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+Really care about the tools you use because they are what make you your best.
 
-~ Fred Brooks
+~ Addy Osmani
 <pre>
 
 </pre>
