@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 
-~ Wayne Ratliff
+~ Richard Hamming
 <pre>
 
 </pre>
