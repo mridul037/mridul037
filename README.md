@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I care not only what the code says but how it looks.
+Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 
-~ Peter Roizen
+~ James Gleick
 <pre>
 
 </pre>
