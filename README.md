@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 
-~ Seymour Cray
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The trouble with programmers is that you can never tell what a programmer is doi
 
 </pre>
 **Daily News**
-  - Is fintech's Series A market hot, or just overhyped?
+  - WeWork employees used an alarmingly insecure printer password
      <hr/>
      
-      - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
+      - *The password was so simple that a customer guessed it.*
      
+  - Is fintech's Series A market hot, or just overhyped?
+      <hr/>
+      
+      - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
+      
   - Original Content podcast: Bill Murray's charm can't hide the sadness of 'On the Rocks'
       <hr/>
       
@@ -81,16 +86,11 @@ The trouble with programmers is that you can never tell what a programmer is doi
       <hr/>
       
       - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
-      
+       
   - Is Wall Street losing its tech enthusiasm?
       <hr/>
-      
-      - *One way to consider how far public valuations rose for tech startups, especially those with a software core in 2020, is to ask yourself how often you heard about a down IPO this year.*
        
-  - MG Siegler talks portfolio management and fundraising 6 months into the COVID-19 pandemic
-      <hr/>
-       
-       - *This week, GV General Partner (and TechCrunch alum) MG Siegler joined us on Extra Crunch Live for a far-ranging chat about what it takes to foster a good relationship between investor and startup, how portfolio management and investing has changed as the COVI…*
+       - *One way to consider how far public valuations rose for tech startups, especially those with a software core in 2020, is to ask yourself how often you heard about a down IPO this year.*
       
 
 
