@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Douglas Crockford
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One of the things I’ve been pushing is code reading. I think that is the most 
 
 </pre>
 **Daily News**
-  - Pandemic's impact disproportionately reduced VC funding for female founders
+  - Relativity Space's Tim Ellis is coming to TC Sessions: Space 2020
      <hr/>
      
-      - *The last few quarters did not play out as as expected for venture capitalists or entrepreneurs; instead of a pandemic-fueled recession that cauterized the flow of private investment into startups, the economic shifts brought on by COVID-19 have given many com…*
+      - *Getting to space isn’t as difficult as it used to be, but that doesn’t mean it’s easy. Relativity Space aims to vastly simplify the incredibly complex machine that is a launch vehicle by 3D-printing it from tip to tail fins. Co-founder and CEO Tim Ellis will …*
      
+  - TVision raises $16M to measure viewer attention on connected TVs
+      <hr/>
+      
+      - *TVision is building what its team hopes will become the standard for measuring streaming viewership — and to accelerate those efforts, it’s raised $16 million in new funding. The New York City startup started out by measuring traditional TV viewing, using web…*
+      
+  - The Station: Waymo makes it safety case, AV partnerships abound and the rising cost of FSD
+      <hr/>
+      
+      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
+      
+  - Pandemic's impact disproportionately reduced VC funding for female founders
+      <hr/>
+      
+      - *The last few quarters did not play out as as expected for venture capitalists or entrepreneurs; instead of a pandemic-fueled recession that cauterized the flow of private investment into startups, the economic shifts brought on by COVID-19 have given many com…*
+       
   - Twilio wraps $3.2B purchase of Segment after warp speed courtship
       <hr/>
-      
-      - *It was barely a month ago we began hearing rumors that Twilio was interested in acquiring Segment. The $3.2 billion deal was officially announced three weeks ago, and this morning the communications API company announced that the deal had closed, astonishingl…*
-      
-  - Haystack News adds 16 live news channels ahead of Election Day
-      <hr/>
-      
-      - *Ad-supported streaming news platform Haystack News is announcing a significant expansion ahead of U.S. Election Day. The company this morning introduced sixteen 24/7 live streaming news channels, including ABC News Live, CBSN, Al Jazeera, Euronews, Newsmax, Y…*
-      
-  - Fortnite will be available for PlayStation 5 and Xbox Series X/S at launch
-      <hr/>
-      
-      - *As ever, launch title choices are likely to be a concern for gamers plunking down cash on a next-gen console. They can, however, take solace in the fact that the immensely popular battle royale title Fortnite will be available for both the PlayStation 5 and X…*
        
-  - MIT develops a battery-free method for navigating underwater that could transform ocean exploration
-      <hr/>
-       
-       - *MIT has developed a new navigation system designed for use underwater that could do for underwater wayfinding what GPS has done for travel on and above the surface. GPS doesn’t really penetrate underwater, because radio waves aren’t really water-friendly. It’…*
+       - *It was barely a month ago we began hearing rumors that Twilio was interested in acquiring Segment. The $3.2 billion deal was officially announced three weeks ago, and this morning the communications API company announced that the deal had closed, astonishingl…*
       
 
 
