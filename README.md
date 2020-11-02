@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
 
-~ Michael Stal
+~ Manuel Blum
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Sometimes there is a silver bullet for boosting software engineering productivit
 
 </pre>
 **Daily News**
-  - Tencent claims record 100M daily users on mobile game Honor of Kings
+  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
      <hr/>
      
-      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
+      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
      
+  - Tencent claims record 100M daily users on mobile game Honor of Kings
+      <hr/>
+      
+      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
+      
   - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
       <hr/>
       
@@ -81,16 +86,11 @@ Sometimes there is a silver bullet for boosting software engineering productivit
       <hr/>
       
       - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
-      
+       
   - WeWork employees used an alarmingly insecure printer password
       <hr/>
-      
-      - *The password was so simple that a customer guessed it.*
        
-  - Is fintech's Series A market hot, or just overhyped?
-      <hr/>
-       
-       - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
+       - *The password was so simple that a customer guessed it.*
       
 
 
