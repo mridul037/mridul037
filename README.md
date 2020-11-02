@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ David Gelernter
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Beauty is more important in computing than anywhere else in technology because s
 
 </pre>
 **Daily News**
-  - TikTok strikes new licensing agreement with Sony Music
+  - AWS launches its next-gen GPU instances
      <hr/>
      
-      - *TikTok announced this morning it has signed new licensing agreement with Sony Music Entertainment (SME) that will allow the short-form video app to continue to offer songs from Sony Music artists for use by creators on its platform. The agreement will also se…*
+      - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
      
+  - PayPal's earnings don't excite Wall Street, but bring good news for consumer fintech
+      <hr/>
+      
+      - *PayPal’s stock is down in after-hours trading after reporting third-quarter earnings that beat expectations. It’s not immediately clear why PayPal is losing ground, although it could stem from retail investor having higher expectations than what analysts esti…*
+      
+  - TikTok strikes new licensing agreement with Sony Music
+      <hr/>
+      
+      - *TikTok announced this morning it has signed new licensing agreement with Sony Music Entertainment (SME) that will allow the short-form video app to continue to offer songs from Sony Music artists for use by creators on its platform. The agreement will also se…*
+      
   - What social networks have learned since the 2016 election
       <hr/>
       
       - *On the eve on the 2020 U.S. election, tensions are running high. The good news? 2020 isn’t 2016. Social networks are way better prepared to handle a wide array of complex, dangerous or otherwise ambiguous Election Day scenarios. The bad news: 2020 is its own …*
-      
+       
   - Alphabet's X details Project Amber, a quest for a single biomarker for depression that fell short of its goal
       <hr/>
-      
-      - *Alphabet’s X (the Google-owner’s so-called ‘Moonshot Factory’) published a new blog post today about Project Amber, a project it’s been working on over the past three years – the results of which it’s now making available open source for the rest of the menta…*
-      
-  - NerdWallet acquires small business loan marketplace Fundera
-      <hr/>
-      
-      - *Financial guidance company NerdWallet announced at the end of last week that it has acquired Fundera. New York City-based Fundera was co-founded in 2013 by Jared Hecht, who previously co-founded GroupMe. It created a marketplace where small businesses could f…*
        
-  - Rocket Lab's next launch will deliver 30 satellites to orbit - and a 3D-printed gnome from Gabe Newell
-      <hr/>
-       
-       - *Rocket Lab’s next mission will put dozens of satellites into orbit using the launch company’s Kick Stage “space tug,” as well as a 3D-printed garden gnome from Valve Software’s Gabe Newell. The latter is a test of a new manufacturing technique, but also a phi…*
+       - *Alphabet’s X (the Google-owner’s so-called ‘Moonshot Factory’) published a new blog post today about Project Amber, a project it’s been working on over the past three years – the results of which it’s now making available open source for the rest of the menta…*
       
 
 
