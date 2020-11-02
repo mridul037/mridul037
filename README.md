@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+Cool URIs don't change.
 
-~ Bjarne Stroustrup
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Maybe "just one little global variable" isn't too unmanageable, but that style l
 
 </pre>
 **Daily News**
-  - Coupa Software snags Llamasoft for $1.5B to bring together spending and supply chain data
+  - Scaleway launches cloud instances that cost $2.10 per month
      <hr/>
      
-      - *Coupa Software, a publicly traded company that helps large corporations manage spending, announced that it was buying Llamasoft, an 18 year old Michigan company that helps large companies manage their supply chain. The deal was pegged at $1.5 billion. This ye…*
+      - *French cloud hosting company Scaleway originally started with very cheap cloud instances. Over the years, the company has expanded its offering and added more premium services, such as managed Kubernetes, object storage, block storage, managed databases, load…*
      
-  - Apple's next big event is November 10
+  - YC-backed nonprofit VotingWorks wants to rebuild trust in election systems through open source
       <hr/>
       
-      - *Apple just sent out invites for its latest — and last — big event of 2020. Set for 10AM PT on November 10, the “One More Thing” event will almost certainly focus on the long-awaited arrival of Apple silicon Macs. The big event will, naturally, be online-only …*
+      - *I know it will come as a shock to you as a reader of the news, but there is an election this week. Well, tomorrow actually. It’s the rare election where the logistics of the election itself seem to be increasingly dominating the discussion. Not since the Flor…*
       
-  - Lidar startup Aeva to go public via $2.1 billion SPAC merger
+  - Maze, a notorious ransomware group, says it's shutting down
       <hr/>
       
-      - *Aeva, a Mountain View, Calif.-based lidar company started by two former Apple engineers and backed by Porsche SE, is merging with special purpose acquisition company InterPrivate Acquisition Corp., with a post-deal market valuation of $2.1 billion. The deal w…*
+      - *But security researchers aren't celebrating just yet.*
       
-  - Bridgefy launches end-to-end encrypted messaging for the app used during protests and disasters
+  - Booming edtech M&A activity brings consolidation to a fragmented sector
       <hr/>
       
-      - *Offline-messaging app Bridgefy — which innovatively uses Bluetooth and Wi-fi — became known as the go-to app by thousands of protesters around the world to keep communications going even when oppressive regimes blocked or shut down the Internet. Recently, act…*
+      - *As the COVID-19 pandemic continues to force teachers, students and parents to adopt new technologies, edtech’s total addressable market has massively grown in the last several months. The shift has urged venture capitalists to pour money into the sector accor…*
        
-  - Relativity Space's Tim Ellis is coming to TC Sessions: Space 2020
+  - Spotify will now allow artists and labels promote tracks in your recommendations
       <hr/>
        
-       - *Getting to space isn’t as difficult as it used to be, but that doesn’t mean it’s easy. Relativity Space aims to vastly simplify the incredibly complex machine that is a launch vehicle by 3D-printing it from tip to tail fins. Co-founder and CEO Tim Ellis will …*
+       - *Spotify announced today it will begin to test a new service that gives artists more of a say in how their music is discovered on the Spotify platform. At launch, the service will allow artists and labels to identify music that’s a priority to them and Spotify…*
       
 
 
