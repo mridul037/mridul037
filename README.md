@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 
-~ John McCarthy (computer scientist)
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Program designers have a tendency to think of the users as idiots who need to be
 
 </pre>
 **Daily News**
-  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
+  - Walmart's PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions
      <hr/>
      
-      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
+      - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
      
+  - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
+      <hr/>
+      
+      - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
+      
+  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
+      <hr/>
+      
+      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
+      
   - Tencent claims record 100M daily users on mobile game Honor of Kings
       <hr/>
       
       - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
-      
+       
   - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
       <hr/>
-      
-      - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
-      
-  - GAIA Design has raised more capital to become the West Elm of Mexico
-      <hr/>
-      
-      - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
        
-  - WeWork employees used an alarmingly insecure printer password
-      <hr/>
-       
-       - *The password was so simple that a customer guessed it.*
+       - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
       
 
 
