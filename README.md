@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Ward Cunningham
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Shipping first time code is like going into debt. A little debt speeds developme
 
 </pre>
 **Daily News**
-  - Walmart's PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions
+  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
      <hr/>
      
-      - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
+      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
      
+  - Starling Bank founder Anne Boden says new book 'isn't a memoir'
+      <hr/>
+      
+      - *Penguin Business describes Starling Bank founder Anne Boden’s “Banking On It” as the “first-hand account of one woman’s quest to rebuild Britain’s broken banking system.” Written with the help of a ghost writer, Boden relates how she came up with the idea to …*
+      
+  - Walmart's PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions
+      <hr/>
+      
+      - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
+      
   - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
       <hr/>
       
       - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
-      
+       
   - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
       <hr/>
-      
-      - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
-      
-  - Tencent claims record 100M daily users on mobile game Honor of Kings
-      <hr/>
-      
-      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
        
-  - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
-      <hr/>
-       
-       - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
+       - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
       
 
 
