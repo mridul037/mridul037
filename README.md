@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ John Warnock
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
 
 </pre>
 **Daily News**
-  - GAIA Design has raised more capital to become the West Elm of Mexico
+  - Tencent claims record 100M daily users on mobile game Honor of Kings
      <hr/>
      
-      - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
+      - *At its five-year anniversary gala graced by celebrities, esports stars and orchestras, Tencent’s mobile game Honor of Kings said it has crossed 100 million daily active users. The title has not only broken user records but generated other unprecedented accomp…*
      
+  - Startup brands like the shoe company Thousand Fell are bringing circular economics to the fashion industry
+      <hr/>
+      
+      - *Thousand Fell, the environmentally conscious, direct-to-consumer shoe retailer which launched last November, has revealed the details of the recycling program that’s a core component of its pitch to consumers. The company, which has now sold enough shoes to s…*
+      
+  - GAIA Design has raised more capital to become the West Elm of Mexico
+      <hr/>
+      
+      - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
+      
   - WeWork employees used an alarmingly insecure printer password
       <hr/>
       
       - *The password was so simple that a customer guessed it.*
-      
+       
   - Is fintech's Series A market hot, or just overhyped?
       <hr/>
-      
-      - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
-      
-  - Original Content podcast: Bill Murray's charm can't hide the sadness of 'On the Rocks'
-      <hr/>
-      
-      - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
        
-  - Human Capital: Uber Eats hit with claims of 'reverse racism'
-      <hr/>
-       
-       - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
+       - *While we are encouraged by the progress the industry has made to return to “normal,” the market for Series A fintech remains challenging for the vast majority of startup founders.*
       
 
 
