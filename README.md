@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes it’s just easier to throw a system away, and start over.
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 
-~ Joseph Yoder (computer scientist)
+~ John Warnock
 <pre>
 
 </pre>
