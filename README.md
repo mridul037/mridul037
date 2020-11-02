@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Danny Hillis
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Anyone who has ever written a program knows that telling a computer what you wan
 
 </pre>
 **Daily News**
-  - Twitter explains how it will handle misleading tweets about the US election results
+  - Pandemic's impact disproportionately reduced VC funding for female founders
      <hr/>
      
-      - *Twitter recently updated its policies in advance of the U.S. elections to include specific rules that detailed how it would handle tweets making claims about election results before they were official. Today, the company offered more information about how it …*
+      - *The last few quarters did not play out as as expected for venture capitalists or entrepreneurs; instead of a pandemic-fueled recession that cauterized the flow of private investment into startups, the economic shifts brought on by COVID-19 have given many com…*
      
-  - Equity Monday: Edtech and insurtech stay red-hot
+  - Twilio wraps $3.2B purchase of Segment after warp speed courtship
       <hr/>
       
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest big news, chats about the coming week, digs into some recent fund…*
+      - *It was barely a month ago we began hearing rumors that Twilio was interested in acquiring Segment. The $3.2 billion deal was officially announced three weeks ago, and this morning the communications API company announced that the deal had closed, astonishingl…*
       
-  - UK report spotlights the huge investment gap facing diverse founders
+  - Haystack News adds 16 live news channels ahead of Election Day
       <hr/>
       
-      - *New research looking into how UK VC has been invested over the past decade according to race, gender and educational background makes for grim reading — with all-ethnic teams and female entrepreneurs receiving just a fraction of available funding vs all-white…*
+      - *Ad-supported streaming news platform Haystack News is announcing a significant expansion ahead of U.S. Election Day. The company this morning introduced sixteen 24/7 live streaming news channels, including ABC News Live, CBSN, Al Jazeera, Euronews, Newsmax, Y…*
       
-  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
+  - Fortnite will be available for PlayStation 5 and Xbox Series X/S at launch
       <hr/>
       
-      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
+      - *As ever, launch title choices are likely to be a concern for gamers plunking down cash on a next-gen console. They can, however, take solace in the fact that the immensely popular battle royale title Fortnite will be available for both the PlayStation 5 and X…*
        
-  - Starling Bank founder Anne Boden says new book 'isn't a memoir'
+  - MIT develops a battery-free method for navigating underwater that could transform ocean exploration
       <hr/>
        
-       - *Penguin Business describes Starling Bank founder Anne Boden’s “Banking On It” as the “first-hand account of one woman’s quest to rebuild Britain’s broken banking system.” Written with the help of a ghost writer, Boden relates how she came up with the idea to …*
+       - *MIT has developed a new navigation system designed for use underwater that could do for underwater wayfinding what GPS has done for travel on and above the surface. GPS doesn’t really penetrate underwater, because radio waves aren’t really water-friendly. It’…*
       
 
 
