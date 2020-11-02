@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Documentation is a love letter that you write to your future self.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Damian Conway
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Documentation is a love letter that you write to your future self.
 
 </pre>
 **Daily News**
-  - Rocket Lab's next launch will deliver 30 satellites to orbit - and a 3D-printed gnome from Gabe Newell
+  - Alphabet's X details Project Amber, a quest for a single biomarker for depression that fell short of its goal
      <hr/>
      
-      - *Rocket Lab’s next mission will put dozens of satellites into orbit using the launch company’s Kick Stage “space tug,” as well as a 3D-printed garden gnome from Valve Software’s Gabe Newell. The latter is a test of a new manufacturing technique, but also a phi…*
+      - *Alphabet’s X (the Google-owner’s so-called ‘Moonshot Factory’) published a new blog post today about Project Amber, a project it’s been working on over the past three years – the results of which it’s now making available open source for the rest of the menta…*
      
+  - NerdWallet acquires small business loan marketplace Fundera
+      <hr/>
+      
+      - *Financial guidance company NerdWallet announced at the end of last week that it has acquired Fundera. New York City-based Fundera was co-founded in 2013 by Jared Hecht, who previously co-founded GroupMe. It created a marketplace where small businesses could f…*
+      
+  - Rocket Lab's next launch will deliver 30 satellites to orbit - and a 3D-printed gnome from Gabe Newell
+      <hr/>
+      
+      - *Rocket Lab’s next mission will put dozens of satellites into orbit using the launch company’s Kick Stage “space tug,” as well as a 3D-printed garden gnome from Valve Software’s Gabe Newell. The latter is a test of a new manufacturing technique, but also a phi…*
+      
   - Scaleway launches cloud instances that cost $2.10 per month
       <hr/>
       
       - *French cloud hosting company Scaleway originally started with very cheap cloud instances. Over the years, the company has expanded its offering and added more premium services, such as managed Kubernetes, object storage, block storage, managed databases, load…*
-      
+       
   - YC-backed nonprofit VotingWorks wants to rebuild trust in election systems through open source
       <hr/>
-      
-      - *I know it will come as a shock to you as a reader of the news, but there is an election this week. Well, tomorrow actually. It’s the rare election where the logistics of the election itself seem to be increasingly dominating the discussion. Not since the Flor…*
-      
-  - Maze, a notorious ransomware group, says it's shutting down
-      <hr/>
-      
-      - *But security researchers aren't celebrating just yet.*
        
-  - Booming edtech M&A activity brings consolidation to a fragmented sector
-      <hr/>
-       
-       - *As the COVID-19 pandemic continues to force teachers, students and parents to adopt new technologies, edtech’s total addressable market has massively grown in the last several months. The shift has urged venture capitalists to pour money into the sector accor…*
+       - *I know it will come as a shock to you as a reader of the news, but there is an election this week. Well, tomorrow actually. It’s the rare election where the logistics of the election itself seem to be increasingly dominating the discussion. Not since the Flor…*
       
 
 
