@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 
-~ David Parnas
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I have found that the reason a lot of people are interested in artificial intell
 
 </pre>
 **Daily News**
-  - WeWork employees used an alarmingly insecure printer password
+  - GAIA Design has raised more capital to become the West Elm of Mexico
      <hr/>
      
-      - *The password was so simple that a customer guessed it.*
+      - *Designing higher end furniture for Mexico’s rising middle and upper-middle class consumers has netted the Mexico City-based GAIA $15 million in a new round of funding. The bridge round will take the company through to a much larger capital raise planned for 2…*
      
+  - WeWork employees used an alarmingly insecure printer password
+      <hr/>
+      
+      - *The password was so simple that a customer guessed it.*
+      
   - Is fintech's Series A market hot, or just overhyped?
       <hr/>
       
@@ -81,16 +86,11 @@ I have found that the reason a lot of people are interested in artificial intell
       <hr/>
       
       - *“On the Rocks,” a new film on Apple TV+, focuses on a troubled marriage between Laura (a writer played by Rashida Jones) and Dean (a startup executive played by Marlon Wayans). When Laura begins to suspect Dean of cheating on her, she turns to her father Feli…*
-      
+       
   - Human Capital: Uber Eats hit with claims of 'reverse racism'
       <hr/>
-      
-      - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
        
-  - Is Wall Street losing its tech enthusiasm?
-      <hr/>
-       
-       - *One way to consider how far public valuations rose for tech startups, especially those with a software core in 2020, is to ask yourself how often you heard about a down IPO this year.*
+       - *With less than one week left until the election, DoorDash made a late contribution of $3.75 million to try to ensure California’s gig worker ballot measure Prop 22 passes. Meanwhile, Coinbase is looking for a head of diversity and inclusion and Uber was hit w…*
       
 
 
