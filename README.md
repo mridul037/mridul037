@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Gottfried Wilhelm Leibniz
+~ Rick Osborne
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Instead of the progression of tens, I have for many years used the simplest prog
 
 </pre>
 **Daily News**
-  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
+  - UK report spotlights the huge investment gap facing diverse founders
      <hr/>
      
-      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
+      - *New research looking into how UK VC has been invested over the past decade according to race, gender and educational background makes for grim reading — with all-ethnic teams and female entrepreneurs receiving just a fraction of available funding vs all-white…*
      
+  - UK's Marshmallow raises $30M on a $310M valuation for more 'inclusive' car insurance
+      <hr/>
+      
+      - *When it comes to using algorithms and other formulae to determine what kinds of services you might offer to specific customers and at what price, the insurance industry is one of the oldest in the book. But that legacy position masks the fact that some of its…*
+      
   - Starling Bank founder Anne Boden says new book 'isn't a memoir'
       <hr/>
       
@@ -81,16 +86,11 @@ Instead of the progression of tens, I have for many years used the simplest prog
       <hr/>
       
       - *UPI, a payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most popular digital…*
-      
+       
   - Raspberry Pi Foundation announces the cute little Raspberry Pi 400
       <hr/>
-      
-      - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
        
-  - Warren gets $1.4 million to help local cloud infrastructure providers compete against the giants
-      <hr/>
-       
-       - *Started as a side project by its founders, Warren is now helping regional cloud infrastructure service providers compete against Amazon, Microsoft, IBM, Google and other tech giants. Based in Tallinn, Estonia, Warren’s self-service distributed cloud platform …*
+       - *This is the Atari 400 Raspberry Pi 400. The Raspberry Pi Foundation is launching a new product today — and it’s a brand new device. As you can see on the photo, the Raspberry Pi 400 is a computer integrated in a compact keyboard. And it is the easiest way to …*
       
 
 
