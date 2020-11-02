@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Fred Brooks
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Very good professional programmers are ten times as productive as poor ones, at 
 
 </pre>
 **Daily News**
-  - Relativity Space's Tim Ellis is coming to TC Sessions: Space 2020
+  - Coupa Software snags Llamasoft for $1.5B to bring together spending and supply chain data
      <hr/>
      
-      - *Getting to space isn’t as difficult as it used to be, but that doesn’t mean it’s easy. Relativity Space aims to vastly simplify the incredibly complex machine that is a launch vehicle by 3D-printing it from tip to tail fins. Co-founder and CEO Tim Ellis will …*
+      - *Coupa Software, a publicly traded company that helps large corporations manage spending, announced that it was buying Llamasoft, an 18 year old Michigan company that helps large companies manage their supply chain. The deal was pegged at $1.5 billion. This ye…*
      
-  - TVision raises $16M to measure viewer attention on connected TVs
+  - Apple's next big event is November 10
       <hr/>
       
-      - *TVision is building what its team hopes will become the standard for measuring streaming viewership — and to accelerate those efforts, it’s raised $16 million in new funding. The New York City startup started out by measuring traditional TV viewing, using web…*
+      - *Apple just sent out invites for its latest — and last — big event of 2020. Set for 10AM PT on November 10, the “One More Thing” event will almost certainly focus on the long-awaited arrival of Apple silicon Macs. The big event will, naturally, be online-only …*
       
-  - The Station: Waymo makes it safety case, AV partnerships abound and the rising cost of FSD
+  - Lidar startup Aeva to go public via $2.1 billion SPAC merger
       <hr/>
       
-      - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
+      - *Aeva, a Mountain View, Calif.-based lidar company started by two former Apple engineers and backed by Porsche SE, is merging with special purpose acquisition company InterPrivate Acquisition Corp., with a post-deal market valuation of $2.1 billion. The deal w…*
       
-  - Pandemic's impact disproportionately reduced VC funding for female founders
+  - Bridgefy launches end-to-end encrypted messaging for the app used during protests and disasters
       <hr/>
       
-      - *The last few quarters did not play out as as expected for venture capitalists or entrepreneurs; instead of a pandemic-fueled recession that cauterized the flow of private investment into startups, the economic shifts brought on by COVID-19 have given many com…*
+      - *Offline-messaging app Bridgefy — which innovatively uses Bluetooth and Wi-fi — became known as the go-to app by thousands of protesters around the world to keep communications going even when oppressive regimes blocked or shut down the Internet. Recently, act…*
        
-  - Twilio wraps $3.2B purchase of Segment after warp speed courtship
+  - Relativity Space's Tim Ellis is coming to TC Sessions: Space 2020
       <hr/>
        
-       - *It was barely a month ago we began hearing rumors that Twilio was interested in acquiring Segment. The $3.2 billion deal was officially announced three weeks ago, and this morning the communications API company announced that the deal had closed, astonishingl…*
+       - *Getting to space isn’t as difficult as it used to be, but that doesn’t mean it’s easy. Relativity Space aims to vastly simplify the incredibly complex machine that is a launch vehicle by 3D-printing it from tip to tail fins. Co-founder and CEO Tim Ellis will …*
       
 
 
