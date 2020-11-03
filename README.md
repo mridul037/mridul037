@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ George Boole
+~ Leslie Lamport
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Of the many forms of false culture, a premature converse with abstractions is pe
 
 </pre>
 **Daily News**
-  - Udacity raises $75M in debt, says its tech education business is profitable after enterprise pivot
+  - Got the right stuff? Exhibit and pitch at TC Sessions: Space 2020
      <hr/>
      
-      - *Online education tools continue to see a surge of interest boosted by major changes in work and learning practices in the midst of a global health pandemic. And today, one of the early pioneers of the medium is announcing some funding as it tips into profitab…*
+      - *Do you find expression “the sky’s the limit” well, limiting? Join a global community of brilliant visionaries, makers and investors on December 16-17 for TC Sessions: Space 2020, an online conference dedicated to moving beyond the confines of this world throu…*
      
+  - Udacity raises $75M in debt, says its tech education business is profitable after enterprise pivot
+      <hr/>
+      
+      - *Online education tools continue to see a surge of interest boosted by major changes in work and learning practices in the midst of a global health pandemic. And today, one of the early pioneers of the medium is announcing some funding as it tips into profitab…*
+      
   - 4 takeaways from fintech VC in Q3 2020
       <hr/>
       
@@ -81,16 +86,11 @@ Of the many forms of false culture, a premature converse with abstractions is pe
       <hr/>
       
       - *The Shanghai and Hong Kong stock exchanges announced postponing Ant Group’s colossal initial public offering, a day after Chinese regulators weighed a slew of new fintech rules and summoned Jack Ma and other top executives to a closed-door meeting. The rare t…*
-      
+       
   - Crypto wallet app ZenGo to launch debit card
       <hr/>
-      
-      - *ZenGo, a mobile app to manage your cryptocurrencies, is about to launch a Visa debit card in the U.S. This isn’t the first crypto-powered debit card — Coinbase announced a U.S. expansion for its debit card just last week. But ZenGo is a non-custodial wallet, …*
        
-  - VC Seth Bannon on how a Biden administration might best support climate startups
-      <hr/>
-       
-       - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
+       - *ZenGo, a mobile app to manage your cryptocurrencies, is about to launch a Visa debit card in the U.S. This isn’t the first crypto-powered debit card — Coinbase announced a U.S. expansion for its debit card just last week. But ZenGo is a non-custodial wallet, …*
       
 
 
