@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 
-~ Fred Brooks
+~ Andy Hunt (author)
 <pre>
 
 </pre>
