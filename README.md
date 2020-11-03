@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
+Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 
-~ John Carmack
+~ Ray Ozzie
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ If you want to set off and go develop some grand new thing, you don't need milli
 
 </pre>
 **Daily News**
-  - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
+  - Gillmor Gang: Shaken Not Stirred
      <hr/>
      
-      - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
+      - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
      
+  - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
+      <hr/>
+      
+      - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
+      
   - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
       <hr/>
       
@@ -81,16 +86,11 @@ If you want to set off and go develop some grand new thing, you don't need milli
       <hr/>
       
       - *Apple is closing out the year with another big event, Twitter details its plans to fight election-related misinformation and WeWork employees used an embarrassingly insecure printer password. This is your Daily Crunch for November 2, 2020. The big story: Appl…*
-      
+       
   - AWS launches its next-gen GPU instances
       <hr/>
-      
-      - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
        
-  - PayPal's earnings don't excite Wall Street, but bring good news for consumer fintech
-      <hr/>
-       
-       - *PayPal’s stock is down in after-hours trading after reporting third-quarter earnings that beat expectations. It’s not immediately clear why PayPal is losing ground, although it could stem from retail investor having higher expectations than what analysts esti…*
+       - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
       
 
 
