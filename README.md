@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What I cannot build, I do not understand.
+A computer shall not waste your time or require you to do more work than is strictly necessary.
 
-~ Richard Feynman
+~ Jef Raskin
 <pre>
 
 </pre>
