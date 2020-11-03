@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+What I cannot build, I do not understand.
 
-~ Ray Ozzie
+~ Richard Feynman
 <pre>
 
 </pre>
