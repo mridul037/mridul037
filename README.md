@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Really care about the tools you use because they are what make you your best.
+Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 
-~ Addy Osmani
+~ George Boole
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Really care about the tools you use because they are what make you your best.
 
 </pre>
 **Daily News**
-  - VC Seth Bannon on how a Biden administration might best support climate startups
+  - Udacity raises $75M in debt, says its tech education business is profitable after enterprise pivot
      <hr/>
      
-      - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
+      - *Online education tools continue to see a surge of interest boosted by major changes in work and learning practices in the midst of a global health pandemic. And today, one of the early pioneers of the medium is announcing some funding as it tips into profitab…*
      
-  - Twitter hides Trump tweet attacking Supreme Court's decision on Pennsylvania ballots
+  - 4 takeaways from fintech VC in Q3 2020
       <hr/>
       
-      - *In an election eve preview of what to expect in the coming days, President Trump pushed the limits on Twitter’s election-specific policies Monday night. In a tweet, Trump railed against the Supreme Court’s decision to allow Pennsylvania officials to count bal…*
+      - *Fintech has been a key startup story in recent quarters, with leading players in the genre raising titanic rounds at eye-popping valuations. Consider companies like Robinhood, and its epic capital run this year on the back of huge revenue growth, or Chime, wh…*
       
-  - REEF Technology raises $700M from SoftBank and others to remake parking lots
+  - China postpones Ant's colossal IPO after closed-door talk with Jack Ma
       <hr/>
       
-      - *It seems like SoftBank and the Mubadala Corp. aren’t finished taking big swings at the commercial real estate business in the U.S. Even after the collapse of WeWork, the investors are doubling down on a similar business model as part of a syndicate investing …*
+      - *The Shanghai and Hong Kong stock exchanges announced postponing Ant Group’s colossal initial public offering, a day after Chinese regulators weighed a slew of new fintech rules and summoned Jack Ma and other top executives to a closed-door meeting. The rare t…*
       
-  - Gillmor Gang: Shaken Not Stirred
+  - Crypto wallet app ZenGo to launch debit card
       <hr/>
       
-      - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
+      - *ZenGo, a mobile app to manage your cryptocurrencies, is about to launch a Visa debit card in the U.S. This isn’t the first crypto-powered debit card — Coinbase announced a U.S. expansion for its debit card just last week. But ZenGo is a non-custodial wallet, …*
        
-  - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
+  - VC Seth Bannon on how a Biden administration might best support climate startups
       <hr/>
        
-       - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
+       - *It’s too soon to know who will win the U.S. election tomorrow. Tomorrow may even be too soon to know who wins the election. But it’s always a good time to talk with investors about how they’re thinking about the future, and some can’t help but ponder the poss…*
       
 
 
