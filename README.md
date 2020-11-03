@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
 
-~ Alan Kay
+~ John Carmack
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Most software today is very much like an Egyptian pyramid with millions of brick
 
 </pre>
 **Daily News**
-  - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
+  - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
      <hr/>
      
-      - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
+      - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
      
+  - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
+      <hr/>
+      
+      - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
+      
   - Daily Crunch: Apple announces its next big event
       <hr/>
       
@@ -81,16 +86,11 @@ Most software today is very much like an Egyptian pyramid with millions of brick
       <hr/>
       
       - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
-      
+       
   - PayPal's earnings don't excite Wall Street, but bring good news for consumer fintech
       <hr/>
-      
-      - *PayPal’s stock is down in after-hours trading after reporting third-quarter earnings that beat expectations. It’s not immediately clear why PayPal is losing ground, although it could stem from retail investor having higher expectations than what analysts esti…*
        
-  - TikTok strikes new licensing agreement with Sony Music
-      <hr/>
-       
-       - *TikTok announced this morning it has signed new licensing agreement with Sony Music Entertainment (SME) that will allow the short-form video app to continue to offer songs from Sony Music artists for use by creators on its platform. The agreement will also se…*
+       - *PayPal’s stock is down in after-hours trading after reporting third-quarter earnings that beat expectations. It’s not immediately clear why PayPal is losing ground, although it could stem from retail investor having higher expectations than what analysts esti…*
       
 
 
