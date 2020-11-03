@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A computer shall not waste your time or require you to do more work than is strictly necessary.
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 
-~ Jef Raskin
+~ Joseph Yoder (computer scientist)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A computer shall not waste your time or require you to do more work than is stri
 
 </pre>
 **Daily News**
-  - Gillmor Gang: Shaken Not Stirred
+  - Twitter hides Trump tweet attacking Supreme Court's decision on Pennsylvania ballots
      <hr/>
      
-      - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
+      - *In an election eve preview of what to expect in the coming days, President Trump pushed the limits on Twitter’s election-specific policies Monday night. In a tweet, Trump railed against the Supreme Court’s decision to allow Pennsylvania officials to count bal…*
      
+  - REEF Technology raises $700M from SoftBank and others to remake parking lots
+      <hr/>
+      
+      - *It seems like SoftBank and the Mubadala Corp. aren’t finished taking big swings at the commercial real estate business in the U.S. Even after the collapse of WeWork, the investors are doubling down on a similar business model as part of a syndicate investing …*
+      
+  - Gillmor Gang: Shaken Not Stirred
+      <hr/>
+      
+      - *With one day to go to the election, our thoughts are with those who look forward to talking about something else. Difficult as it might be to imagine, there must be other things to work on. One thing that comes to mind is the impact of the virus on how we man…*
+      
   - Indonesian logistics platform Logisly raises $6 million Series A to digitize truck shipments
       <hr/>
       
       - *Indonesia’s logistics industry is very fragmented, with several large providers operating alongside thousands of smaller companies. This means shippers often have to work with a variety of carriers, driving up costs and making supply chains harder to manage. …*
-      
+       
   - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
       <hr/>
-      
-      - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
-      
-  - Daily Crunch: Apple announces its next big event
-      <hr/>
-      
-      - *Apple is closing out the year with another big event, Twitter details its plans to fight election-related misinformation and WeWork employees used an embarrassingly insecure printer password. This is your Daily Crunch for November 2, 2020. The big story: Appl…*
        
-  - AWS launches its next-gen GPU instances
-      <hr/>
-       
-       - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
+       - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
       
 
 
