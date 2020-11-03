@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 
-~ Edsger W. Dijkstra
+~ Robert L. Glass
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ As long as there were no machines, programming was no problem at all; when we ha
 
 </pre>
 **Daily News**
-  - PayPal details its digital wallet plans for 2021, including crypto, Honey integration and more
+  - Tech stocks rip higher on Election Day
      <hr/>
      
-      - *PayPal this week laid out its vision for the future of its digital wallet platform and its PayPal and Venmo apps. During its third-quarter earnings on Monday, the company said it plans to roll out substantial changes to its mobile apps over the next year to i…*
+      - *Tech stocks shot higher as American voters went to the polls, the gains coming far ahead of results that could indicate who will win the presidency. American stocks broadly rose, with the S&P 500 index rising just over 2% while the tech-heavy Nasdaq Composite…*
      
+  - Mov gives you a chance to win your favorite athlete's game day attire -- sweat, tears and all
+      <hr/>
+      
+      - *“If it smells, that’s how they’re going to receive it.” While that claim would likely make most D2C founders cringe, for founder Chris Alston, it’s part of the magic of his company, Mov. The upstart, based in Los Angeles, connects fans to the game-worn appare…*
+      
+  - PayPal details its digital wallet plans for 2021, including crypto, Honey integration and more
+      <hr/>
+      
+      - *PayPal this week laid out its vision for the future of its digital wallet platform and its PayPal and Venmo apps. During its third-quarter earnings on Monday, the company said it plans to roll out substantial changes to its mobile apps over the next year to i…*
+      
   - Got the right stuff? Exhibit and pitch at TC Sessions: Space 2020
       <hr/>
       
       - *Do you find expression “the sky’s the limit” well, limiting? Join a global community of brilliant visionaries, makers and investors on December 16-17 for TC Sessions: Space 2020, an online conference dedicated to moving beyond the confines of this world throu…*
-      
+       
   - Udacity raises $75M in debt, says its tech education business is profitable after enterprise pivot
       <hr/>
-      
-      - *Online education tools continue to see a surge of interest boosted by major changes in work and learning practices in the midst of a global health pandemic. And today, one of the early pioneers of the medium is announcing some funding as it tips into profitab…*
-      
-  - 4 takeaways from fintech VC in Q3 2020
-      <hr/>
-      
-      - *Fintech has been a key startup story in recent quarters, with leading players in the genre raising titanic rounds at eye-popping valuations. Consider companies like Robinhood, and its epic capital run this year on the back of huge revenue growth, or Chime, wh…*
        
-  - China postpones Ant's colossal IPO after closed-door talk with Jack Ma
-      <hr/>
-       
-       - *The Shanghai and Hong Kong stock exchanges announced postponing Ant Group’s colossal initial public offering, a day after Chinese regulators weighed a slew of new fintech rules and summoned Jack Ma and other top executives to a closed-door meeting. The rare t…*
+       - *Online education tools continue to see a surge of interest boosted by major changes in work and learning practices in the midst of a global health pandemic. And today, one of the early pioneers of the medium is announcing some funding as it tips into profitab…*
       
 
 
