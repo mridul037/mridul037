@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 
-~ Gottfried Wilhelm Leibniz
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ As numbers are reduced to the simplest principles, like 0 and 1, a wonderful ord
 
 </pre>
 **Daily News**
-  - AWS launches its next-gen GPU instances
+  - Walmart reportedly ends contract with inventory robotics startup Bossa Nova
      <hr/>
      
-      - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
+      - *Robotics and automation startups have seen a strong uptick in interest over the course of the pandemic. And it’s easy to see which companies have a newfound interest in automating their workforce amid a seemingly endless virus-driven shutdown. But Walmart, wh…*
      
+  - Daily Crunch: Apple announces its next big event
+      <hr/>
+      
+      - *Apple is closing out the year with another big event, Twitter details its plans to fight election-related misinformation and WeWork employees used an embarrassingly insecure printer password. This is your Daily Crunch for November 2, 2020. The big story: Appl…*
+      
+  - AWS launches its next-gen GPU instances
+      <hr/>
+      
+      - *AWS today announced the launch of its newest GPU-equipped instances. Dubbed P4, these new instances are launching a decade after AWS launched its first set of Cluster GPU instances. This new generation is powered by Intel Cascade Lake processors and eight of …*
+      
   - PayPal's earnings don't excite Wall Street, but bring good news for consumer fintech
       <hr/>
       
       - *PayPal’s stock is down in after-hours trading after reporting third-quarter earnings that beat expectations. It’s not immediately clear why PayPal is losing ground, although it could stem from retail investor having higher expectations than what analysts esti…*
-      
+       
   - TikTok strikes new licensing agreement with Sony Music
       <hr/>
-      
-      - *TikTok announced this morning it has signed new licensing agreement with Sony Music Entertainment (SME) that will allow the short-form video app to continue to offer songs from Sony Music artists for use by creators on its platform. The agreement will also se…*
-      
-  - What social networks have learned since the 2016 election
-      <hr/>
-      
-      - *On the eve on the 2020 U.S. election, tensions are running high. The good news? 2020 isn’t 2016. Social networks are way better prepared to handle a wide array of complex, dangerous or otherwise ambiguous Election Day scenarios. The bad news: 2020 is its own …*
        
-  - Alphabet's X details Project Amber, a quest for a single biomarker for depression that fell short of its goal
-      <hr/>
-       
-       - *Alphabet’s X (the Google-owner’s so-called ‘Moonshot Factory’) published a new blog post today about Project Amber, a project it’s been working on over the past three years – the results of which it’s now making available open source for the rest of the menta…*
+       - *TikTok announced this morning it has signed new licensing agreement with Sony Music Entertainment (SME) that will allow the short-form video app to continue to offer songs from Sony Music artists for use by creators on its platform. The agreement will also se…*
       
 
 
