@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 
-~ Steve Jobs
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ What a computer is to me is it's the most remarkable tool that we have ever come
 
 </pre>
 **Daily News**
-  - Hulu tests its social viewing feature, Watch Party, with election news live streams
+  - Pulled Ant Group IPO costs Alibaba nearly $60B in market cap
      <hr/>
      
-      - *Hulu is bringing its Watch Party social viewing feature to its live-streamed election news coverage, provided via its existing partnership with ABC News Live. The company announced today it will allow its on-demand customers to test Watch Party while watching…*
+      - *News today that Ant Group’s IPO is suddenly on hold in both Shanghai and Hong Kong caused a selloff of Alibaba shares. This afternoon, equity in sister-company Alibaba is off around 8% in the wake of the delayed offering, and news that Ant had run into regula…*
      
+  - Hulu tests its social viewing feature, Watch Party, with election news live streams
+      <hr/>
+      
+      - *Hulu is bringing its Watch Party social viewing feature to its live-streamed election news coverage, provided via its existing partnership with ABC News Live. The company announced today it will allow its on-demand customers to test Watch Party while watching…*
+      
   - How startups can shake up their first idea and still crush the market
       <hr/>
       
@@ -81,16 +86,11 @@ What a computer is to me is it's the most remarkable tool that we have ever come
       <hr/>
       
       - *NBC News has updated its iOS app with a new feature that brings election news, data and results directly to your iPhone or iPad home screen. With the app’s new “Decision 2020” iOS 14 widget, you can customize a series of widgets with information related to ea…*
-      
+       
   - Tech stocks rip higher on Election Day
       <hr/>
-      
-      - *Tech stocks shot higher as American voters went to the polls, the gains coming far ahead of results that could indicate who will win the presidency. American stocks broadly rose, with the S&P 500 index rising just over 2% while the tech-heavy Nasdaq Composite…*
        
-  - Mov gives you a chance to win your favorite athlete's game day attire -- sweat, tears and all
-      <hr/>
-       
-       - *“If it smells, that’s how they’re going to receive it.” While that claim would likely make most D2C founders cringe, for founder Chris Alston, it’s part of the magic of his company, Mov. The upstart, based in Los Angeles, connects fans to the game-worn appare…*
+       - *Tech stocks shot higher as American voters went to the polls, the gains coming far ahead of results that could indicate who will win the presidency. American stocks broadly rose, with the S&P 500 index rising just over 2% while the tech-heavy Nasdaq Composite…*
       
 
 
