@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 
-~ Marijn Haverbeke
+~ Terry Winograd
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Programming, it turns out, is hard. The fundamental rules are typically simple a
 
 </pre>
 **Daily News**
-  - Portland, Maine passes referendum banning facial surveillance
+  - Close US election results plunge social media into nightmare misinformation scenario
      <hr/>
      
-      - *As we’re currently shifting through all of the national and local votes from last night’s elections, here’s a small but important victory for privacy advocates out of Portland, Maine . Per the Bangor Daily News, the city passed “Referendum Question B,” design…*
+      - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
      
+  - Election Day was largely free from disruptive cyberattacks, as efforts shift to combating misinformation
+      <hr/>
+      
+      - *But Homeland Security's cybersecurity unit said "we're not out of the woods yet."*
+      
+  - Will new SEC equity crowdfunding rules encourage more founders to pass the hat?
+      <hr/>
+      
+      - *The flow of venture capital in 2020 has been surprisingly strong given the year’s general uncertainty, but while investors have showered plenty of dough on growth-stage companies, seed-stage startups are down 32% last quarter compared to the year before. Ther…*
+      
+  - Portland, Maine passes referendum banning facial surveillance
+      <hr/>
+      
+      - *As we’re currently shifting through all of the national and local votes from last night’s elections, here’s a small but important victory for privacy advocates out of Portland, Maine . Per the Bangor Daily News, the city passed “Referendum Question B,” design…*
+       
   - Cannabis legalization measures set to pass in 5 states
       <hr/>
-      
-      - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
-      
-  - Student discount passes available for TC Sessions: Space 2020
-      <hr/>
-      
-      - *Whether space is the final frontier remains to be seen, but it’s certainly the next one as far as we’re concerned. On December 16-17, we’re hosting TC Sessions: Space 2020, a two-day online conference and our first event focused squarely on space technology a…*
-      
-  - As tech stocks rally, bring on the IPOs
-      <hr/>
-      
-      - *During yesterday’s tense voting and this morning, shares of American-listed technology companies are shooting higher. The tech-heavy Nasdaq Composite is up around 3.35% this morning, more than double what the broad S&P 500 index is currently managing. SaaS an…*
        
-  - Nervous? Here, watch Philadelphia count votes on a live stream, that should help
-      <hr/>
-       
-       - *No matter whom you support for President, it’s a nerve-wracking morning as many states come down to mere tens of thousands of votes. And perhaps no state looms larger than Pennsylvania, where a larger number of votes are yet to be counted. But if you are curr…*
+       - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
       
 
 
