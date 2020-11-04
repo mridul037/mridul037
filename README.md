@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+Once the computers got control, we might never get it back.
 
-~ Ted Nelson
+~ Marvin Minsky
 <pre>
 
 </pre>
