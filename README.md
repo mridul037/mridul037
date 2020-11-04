@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Debugging time increases as a square of the program’s size.
+Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 
-~ Chris Wenham
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Debugging time increases as a square of the program’s size.
 
 </pre>
 **Daily News**
-  - Cannabis legalization measures set to pass in 5 states
+  - Portland, Maine passes referendum banning facial surveillance
      <hr/>
      
-      - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
+      - *As we’re currently shifting through all of the national and local votes from last night’s elections, here’s a small but important victory for privacy advocates out of Portland, Maine . Per the Bangor Daily News, the city passed “Referendum Question B,” design…*
      
+  - Cannabis legalization measures set to pass in 5 states
+      <hr/>
+      
+      - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
+      
   - Student discount passes available for TC Sessions: Space 2020
       <hr/>
       
@@ -81,16 +86,11 @@ Debugging time increases as a square of the program’s size.
       <hr/>
       
       - *During yesterday’s tense voting and this morning, shares of American-listed technology companies are shooting higher. The tech-heavy Nasdaq Composite is up around 3.35% this morning, more than double what the broad S&P 500 index is currently managing. SaaS an…*
-      
+       
   - Nervous? Here, watch Philadelphia count votes on a live stream, that should help
       <hr/>
-      
-      - *No matter whom you support for President, it’s a nerve-wracking morning as many states come down to mere tens of thousands of votes. And perhaps no state looms larger than Pennsylvania, where a larger number of votes are yet to be counted. But if you are curr…*
        
-  - Facebook and Instagram notifications warn U.S. users there's no winner yet in Presidential Election
-      <hr/>
-       
-       - *Facebook and Instagram are running notifications in their respective apps informing U.S. users that the winner of the 2020 U.S. Presidential Election has not yet been determined. In large pop-ups appearing at the top of the Facebook and Instagram News Feeds, …*
+       - *No matter whom you support for President, it’s a nerve-wracking morning as many states come down to mere tens of thousands of votes. And perhaps no state looms larger than Pennsylvania, where a larger number of votes are yet to be counted. But if you are curr…*
       
 
 
