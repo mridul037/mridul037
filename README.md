@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 
-~ Tom DeMarco
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The business of software building isn't really high-tech at all. It's most of al
 
 </pre>
 **Daily News**
-  - A QAnon supporter is headed to Congress
+  - Twitter restricts Trump's tweet raising fears that foes would 'steal' the election
      <hr/>
      
-      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
+      - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
      
+  - A QAnon supporter is headed to Congress
+      <hr/>
+      
+      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
+      
   - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
       <hr/>
       
@@ -81,16 +86,11 @@ The business of software building isn't really high-tech at all. It's most of al
       <hr/>
       
       - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
-      
+       
   - Insight Partners, Precursor Ventures join Hustle Fund in raising new fund money
       <hr/>
-      
-      - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
        
-  - 'Stay home' robocalls on Election Day prompt warnings, investigation
-      <hr/>
-       
-       - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
+       - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
       
 
 
