@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One man's constant is another man's variable.
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 
-~ Alan Perlis
+~ Ted Nelson
 <pre>
 
 </pre>
