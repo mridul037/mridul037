@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+Code never lies, comments sometimes do.
 
-~ Edsger W. Dijkstra
+~ Ron Jeffries
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Are you quite sure that all those bells and whistles, all those wonderful facili
 
 </pre>
 **Daily News**
-  - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
+  - A QAnon supporter is headed to Congress
      <hr/>
      
-      - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
+      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
      
+  - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
+      <hr/>
+      
+      - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
+      
   - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
       <hr/>
       
@@ -81,16 +86,11 @@ Are you quite sure that all those bells and whistles, all those wonderful facili
       <hr/>
       
       - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
-      
+       
   - 'Stay home' robocalls on Election Day prompt warnings, investigation
       <hr/>
-      
-      - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
        
-  - Daily Crunch: China postpones Ant Group IPO
-      <hr/>
-       
-       - *Yes, there’s a high-stakes presidential election underway, but tech news doesn’t stop completely: Chinese regulators pull the brakes on Ant Group’s IPO, Spotify adds standalone streaming support on Apple Watch and PayPal outlines its plans for 2021. This is y…*
+       - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
       
 
 
