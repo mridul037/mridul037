@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 
-~ Rick Osborne
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
 
 </pre>
 **Daily News**
-  - Waymo pauses operations in San Francisco, stays the course in Phoenix on Election Day
+  - Daily Crunch: China postpones Ant Group IPO
      <hr/>
      
-      - *Waymo has taken a dual approach to operations on Election Day. In San Francisco, where Waymo has been testing its autonomous vehicles, driving operations have been temporarily suspended Tuesday and Wednesday “out of an abundance of caution.” Its fleet of auto…*
+      - *Yes, there’s a high-stakes presidential election underway, but tech news doesn’t stop completely: Chinese regulators pull the brakes on Ant Group’s IPO, Spotify adds standalone streaming support on Apple Watch and PayPal outlines its plans for 2021. This is y…*
      
+  - Waymo pauses operations in San Francisco, stays the course in Phoenix on Election Day
+      <hr/>
+      
+      - *Waymo has taken a dual approach to operations on Election Day. In San Francisco, where Waymo has been testing its autonomous vehicles, driving operations have been temporarily suspended Tuesday and Wednesday “out of an abundance of caution.” Its fleet of auto…*
+      
   - Hustle Fund, a pre-seed firm, closes $30M for a new fund
       <hr/>
       
@@ -81,16 +86,11 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
       <hr/>
       
       - *Listen chief, it’s election day in the United States. You know that, I know that. Everyone knows that — and in the off-chance anyone wasn’t clued into the fact, the last few weeks have offered a non-stop barrage of reminders to vote. Today. Tuesday. November …*
-      
+       
   - Spotify adds standalone streaming support to its Apple Watch app
       <hr/>
-      
-      - *Spotify confirmed today it has begun to roll out support for standalone streaming on its Apple Watch app. The feature had been spotted in testing back in September, and arrives roughly two years after Spotify first debuted its dedicated Apple Watch app. With …*
        
-  - Gaming rules the entertainment industry, so why aren't investors showing up?
-      <hr/>
-       
-       - *As gaming’s popularity reaches epic heights, venture investors’ activity in the industry doesn’t seem to equate with the overall size of the games market. Spurred by an unreal year where traditional entertainment has been upended by the COVID-19 pandemic and …*
+       - *Spotify confirmed today it has begun to roll out support for standalone streaming on its Apple Watch app. The feature had been spotted in testing back in September, and arrives roughly two years after Spotify first debuted its dedicated Apple Watch app. With …*
       
 
 
