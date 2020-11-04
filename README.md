@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Low-level programming is good for the programmer’s soul.
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 
-~ John Carmack
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
