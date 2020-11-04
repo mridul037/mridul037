@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most important thing is to be able to think what you want, not to say what you want.
+A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 
-~ Paul Graham (programmer)
+~ Ivan Sutherland
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The most important thing is to be able to think what you want, not to say what y
 
 </pre>
 **Daily News**
-  - Zynga reports record revenue and strong user growth while still losing $122M
+  - B2B marketplaces will be the next billion-dollar e-commerce startups
      <hr/>
      
-      - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
+      - *Merritt Hummer Contributor Share on Twitter Merritt Hummer is a partner at Bain Capital Ventures, where she invests in the fintech, e-commerce and proptech sectors. Startups involved in B2B e-commerce such as Faire and Mirakl have burst out of the gates in 20…*
      
+  - Zynga reports record revenue and strong user growth while still losing $122M
+      <hr/>
+      
+      - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
+      
   - Learn how to score your first check with TMV’s Soraya Darabi on November 10
       <hr/>
       
@@ -81,16 +86,11 @@ The most important thing is to be able to think what you want, not to say what y
       <hr/>
       
       - *TikTok confirmed today it has taken down videos spreading election misinformation that had been posted to two high-profile Republican-supporting accounts, The Republican Hype House and The Republican Boys. The accounts, popular with young, conservative voters…*
-      
+       
   - Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data
       <hr/>
-      
-      - *A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own all of its data. The measure, listed on the ballot as Question…*
        
-  - Close US election results plunge social media into nightmare misinformation scenario
-      <hr/>
-       
-       - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
+       - *A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own all of its data. The measure, listed on the ballot as Question…*
       
 
 
