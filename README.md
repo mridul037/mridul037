@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 
 ~ Fred Brooks
 <pre>
@@ -67,11 +67,16 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
 
 </pre>
 **Daily News**
-  - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
+  - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
      <hr/>
      
-      - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
+      - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
      
+  - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
+      <hr/>
+      
+      - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
+      
   - Insight Partners, Precursor Ventures join Hustle Fund in raising new fund money
       <hr/>
       
@@ -81,16 +86,11 @@ Because of optimism, we usually expect the number of bugs to be smaller than it 
       <hr/>
       
       - *A scourge of robocalls that urges Americans to “stay safe and stay home” has gotten the attention of the FBI and the New York Attorney General over concerns of voter suppression. The brief message, which doesn’t specifically mention Election Day, has prompted…*
-      
+       
   - Daily Crunch: China postpones Ant Group IPO
       <hr/>
-      
-      - *Yes, there’s a high-stakes presidential election underway, but tech news doesn’t stop completely: Chinese regulators pull the brakes on Ant Group’s IPO, Spotify adds standalone streaming support on Apple Watch and PayPal outlines its plans for 2021. This is y…*
        
-  - Waymo pauses operations in San Francisco, stays the course in Phoenix on Election Day
-      <hr/>
-       
-       - *Waymo has taken a dual approach to operations on Election Day. In San Francisco, where Waymo has been testing its autonomous vehicles, driving operations have been temporarily suspended Tuesday and Wednesday “out of an abundance of caution.” Its fleet of auto…*
+       - *Yes, there’s a high-stakes presidential election underway, but tech news doesn’t stop completely: Chinese regulators pull the brakes on Ant Group’s IPO, Spotify adds standalone streaming support on Apple Watch and PayPal outlines its plans for 2021. This is y…*
       
 
 
