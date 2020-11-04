@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+The most important thing is to be able to think what you want, not to say what you want.
 
-~ Marijn Haverbeke
+~ Paul Graham (programmer)
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Size almost always involves complexity, and complexity confuses programmers. Con
 
 </pre>
 **Daily News**
-  - TikTok takes down election misinformation aimed at younger users
+  - Zynga reports record revenue and strong user growth while still losing $122M
      <hr/>
      
-      - *TikTok confirmed today it has taken down videos spreading election misinformation that had been posted to two high-profile Republican-supporting accounts, The Republican Hype House and The Republican Boys. The accounts, popular with young, conservative voters…*
+      - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
      
+  - Learn how to score your first check with TMV’s Soraya Darabi on November 10
+      <hr/>
+      
+      - *When it comes to financing a startup, the most important — and hardest — check to land is the very first one. The growth of accelerators, rolling funds, community funds, hungry angels and institutional investors has given founders more options than ever befor…*
+      
+  - TikTok takes down election misinformation aimed at younger users
+      <hr/>
+      
+      - *TikTok confirmed today it has taken down videos spreading election misinformation that had been posted to two high-profile Republican-supporting accounts, The Republican Hype House and The Republican Boys. The accounts, popular with young, conservative voters…*
+      
   - Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data
       <hr/>
       
       - *A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own all of its data. The measure, listed on the ballot as Question…*
-      
+       
   - Close US election results plunge social media into nightmare misinformation scenario
       <hr/>
-      
-      - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
-      
-  - Election Day was largely free from disruptive cyberattacks, as efforts shift to combating misinformation
-      <hr/>
-      
-      - *But Homeland Security's cybersecurity unit said "we're not out of the woods yet."*
        
-  - Will new SEC equity crowdfunding rules encourage more founders to pass the hat?
-      <hr/>
-       
-       - *The flow of venture capital in 2020 has been surprisingly strong given the year’s general uncertainty, but while investors have showered plenty of dough on growth-stage companies, seed-stage startups are down 32% last quarter compared to the year before. Ther…*
+       - *When Trump spoke early Tuesday morning, it became clear which long-dreaded election scenario an anxious nation was on the cusp of. “This is a fraud on the American public,” Trump said in remarks delivered from the White House, mixing his campaign with the pre…*
       
 
 
