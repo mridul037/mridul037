@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+Within C++, there is a much smaller and cleaner language struggling to get out.
 
-~ Marijn Haverbeke
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
