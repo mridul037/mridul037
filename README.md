@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 
-~ Tim Berners-Lee
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I invented the Web just because I needed it, really, because it was so frustrati
 
 </pre>
 **Daily News**
-  - Apple, Microsoft and other tech stocks roar as the Presidential election narrows to several states
+  - Aveine's Smart Wine Aerator is a huge upgrade for wine lovers – and could create some new ones, too
      <hr/>
      
-      - *On the back of sizable gains posted yesterday, tech stocks are once again rising sharply in pre-market trading today. Futures concerning the tech-heavy Nasdaq Composite index are indicating a 3.4% gain this morning, far above a 1.7% gain that the broader S&P …*
+      - *You might have very good reason to be on a wine kick right now – along with plenty of the rest of the country – so it’s perhaps timely to take a look at the Aveine Smart Aerator, a gadget from a French startup that offers variable, instant aeration and a conn…*
      
+  - Apple, Microsoft and other tech stocks roar as the Presidential election narrows to several states
+      <hr/>
+      
+      - *On the back of sizable gains posted yesterday, tech stocks are once again rising sharply in pre-market trading today. Futures concerning the tech-heavy Nasdaq Composite index are indicating a 3.4% gain this morning, far above a 1.7% gain that the broader S&P …*
+      
   - Shares of Uber, Lyft soar on expected passage of California gig-labor ballot measure
       <hr/>
       
@@ -81,16 +86,11 @@ I invented the Web just because I needed it, really, because it was so frustrati
       <hr/>
       
       - *Uber, Lyft, Instacart, DoorDash — the major backers of California’s Proposition 22 — are getting their way. The proposition, which will keep gig workers classified as independent contractors, is projected to pass. The Associated Press called the race with 67%…*
-      
+       
   - Twitter restricts Trump's tweet raising fears that foes would 'steal' the election
       <hr/>
-      
-      - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
        
-  - A QAnon supporter is headed to Congress
-      <hr/>
-       
-       - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
+       - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
       
 
 
