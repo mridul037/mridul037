@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Within C++, there is a much smaller and cleaner language struggling to get out.
+One man's constant is another man's variable.
 
-~ Bjarne Stroustrup
+~ Alan Perlis
 <pre>
 
 </pre>
