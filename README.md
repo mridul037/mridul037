@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Once the computers got control, we might never get it back.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Marvin Minsky
+~ Tim Berners-Lee
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Once the computers got control, we might never get it back.
 
 </pre>
 **Daily News**
-  - CA ballot measure that keeps gig workers as independent contractors is projected to pass
+  - Apple, Microsoft and other tech stocks roar as the Presidential election narrows to several states
      <hr/>
      
-      - *Uber, Lyft, Instacart, DoorDash — the major backers of California’s Proposition 22 — are getting their way. The proposition, which will keep gig workers classified as independent contractors, is projected to pass. The Associated Press called the race with 67%…*
+      - *On the back of sizable gains posted yesterday, tech stocks are once again rising sharply in pre-market trading today. Futures concerning the tech-heavy Nasdaq Composite index are indicating a 3.4% gain this morning, far above a 1.7% gain that the broader S&P …*
      
+  - Shares of Uber, Lyft soar on expected passage of California gig-labor ballot measure
+      <hr/>
+      
+      - *Shares of American ride-hailing giants Uber and Lyft are sharply higher in pre-market trading this morning on the expected passage of Proposition 22, a California ballot measure that allow tech-enabled, on-demand companies to continue classifying gig-workers …*
+      
+  - CA ballot measure that keeps gig workers as independent contractors is projected to pass
+      <hr/>
+      
+      - *Uber, Lyft, Instacart, DoorDash — the major backers of California’s Proposition 22 — are getting their way. The proposition, which will keep gig workers classified as independent contractors, is projected to pass. The Associated Press called the race with 67%…*
+      
   - Twitter restricts Trump's tweet raising fears that foes would 'steal' the election
       <hr/>
       
       - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
-      
+       
   - A QAnon supporter is headed to Congress
       <hr/>
-      
-      - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
-      
-  - Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning
-      <hr/>
-      
-      - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
        
-  - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
-      <hr/>
-       
-       - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
+       - *Marjorie Taylor Greene’s win in a Georgia House race means that QAnon is headed to Capitol Hill. Greene openly supports the complex, outlandish conspiracy theory, which posits that that President Trump is waging a secret war against a shadowy group of elites …*
       
 
 
