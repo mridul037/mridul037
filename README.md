@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 
-~ Danny Hillis
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It turns out that there is no algorithm for examining a program and determining 
 
 </pre>
 **Daily News**
-  - Twitter restricts Trump's tweet raising fears that foes would 'steal' the election
+  - CA ballot measure that keeps gig workers as independent contractors is projected to pass
      <hr/>
      
-      - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
+      - *Uber, Lyft, Instacart, DoorDash — the major backers of California’s Proposition 22 — are getting their way. The proposition, which will keep gig workers classified as independent contractors, is projected to pass. The Associated Press called the race with 67%…*
      
+  - Twitter restricts Trump's tweet raising fears that foes would 'steal' the election
+      <hr/>
+      
+      - *With key wins notched in a few states, Trump didn’t declare victory prematurely on election night as social media companies feared — but he did baselessly raise the specter of voter fraud. “We are up BIG, but they are trying to STEAL the Election,” Trump twee…*
+      
   - A QAnon supporter is headed to Congress
       <hr/>
       
@@ -81,16 +86,11 @@ It turns out that there is no algorithm for examining a program and determining 
       <hr/>
       
       - *Intel continues to snap up startups to build out its machine learning and AI operations. In the latest move, TechCrunch has learned that the chip giant has acquired Cnvrg.io, an Israeli company that has built and operates a platform for data scientists to bui…*
-      
+       
   - Report: U.S. visas granted to students from mainland China have plummeted 99% since April
       <hr/>
-      
-      - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
        
-  - Insight Partners, Precursor Ventures join Hustle Fund in raising new fund money
-      <hr/>
-       
-       - *Even as the country is in the final days of a polarizing election, the cogs of VC never stop turning. On this ever-so-quiet, non-election-news Tuesday, venture firms still managed to file paperwork with the SEC indicating newly raised funds. Precursor Venture…*
+       - *It’s no secret that the Trump administration has pursued a variety of avenues to keep foreigners out of the U.S., including through a recent overhaul of the H-1B visa program for high-skilled foreign workers that will require employers to pay H-1B workers hig…*
       
 
 
