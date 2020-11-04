@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One accurate measurement is worth more than a thousand expert opinions.
+Debugging time increases as a square of the program’s size.
 
-~ Grace Hopper
+~ Chris Wenham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ One accurate measurement is worth more than a thousand expert opinions.
 
 </pre>
 **Daily News**
-  - As tech stocks rally, bring on the IPOs
+  - Cannabis legalization measures set to pass in 5 states
      <hr/>
      
-      - *During yesterday’s tense voting and this morning, shares of American-listed technology companies are shooting higher. The tech-heavy Nasdaq Composite is up around 3.35% this morning, more than double what the broad S&P 500 index is currently managing. SaaS an…*
+      - *Cannabis legalization was on five state ballots yesterday and ran the table. All the measures passed, making cannabis legal, in some form, in five new states. Voters in Oregon, where cannabis is already legal, also approved a measure addressing street drugs a…*
      
+  - Student discount passes available for TC Sessions: Space 2020
+      <hr/>
+      
+      - *Whether space is the final frontier remains to be seen, but it’s certainly the next one as far as we’re concerned. On December 16-17, we’re hosting TC Sessions: Space 2020, a two-day online conference and our first event focused squarely on space technology a…*
+      
+  - As tech stocks rally, bring on the IPOs
+      <hr/>
+      
+      - *During yesterday’s tense voting and this morning, shares of American-listed technology companies are shooting higher. The tech-heavy Nasdaq Composite is up around 3.35% this morning, more than double what the broad S&P 500 index is currently managing. SaaS an…*
+      
   - Nervous? Here, watch Philadelphia count votes on a live stream, that should help
       <hr/>
       
       - *No matter whom you support for President, it’s a nerve-wracking morning as many states come down to mere tens of thousands of votes. And perhaps no state looms larger than Pennsylvania, where a larger number of votes are yet to be counted. But if you are curr…*
-      
+       
   - Facebook and Instagram notifications warn U.S. users there's no winner yet in Presidential Election
       <hr/>
-      
-      - *Facebook and Instagram are running notifications in their respective apps informing U.S. users that the winner of the 2020 U.S. Presidential Election has not yet been determined. In large pop-ups appearing at the top of the Facebook and Instagram News Feeds, …*
-      
-  - Aveine's Smart Wine Aerator is a huge upgrade for wine lovers – and could create some new ones, too
-      <hr/>
-      
-      - *You might have very good reason to be on a wine kick right now – along with plenty of the rest of the country – so it’s perhaps timely to take a look at the Aveine Smart Aerator, a gadget from a French startup that offers variable, instant aeration and a conn…*
        
-  - Apple, Microsoft and other tech stocks roar as the Presidential election narrows to several states
-      <hr/>
-       
-       - *On the back of sizable gains posted yesterday, tech stocks are once again rising sharply in pre-market trading today. Futures concerning the tech-heavy Nasdaq Composite index are indicating a 3.4% gain this morning, far above a 1.7% gain that the broader S&P …*
+       - *Facebook and Instagram are running notifications in their respective apps informing U.S. users that the winner of the 2020 U.S. Presidential Election has not yet been determined. In large pop-ups appearing at the top of the Facebook and Instagram News Feeds, …*
       
 
 
