@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 
-~ Elon Musk
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ There certainly will be job disruption. Because what's going to happen is robots
 
 </pre>
 **Daily News**
-  - WhatsApp receives approval to expand its payments service in India
+  - Sony’s PlayStation 5 won’t be available in-store at launch
      <hr/>
      
-      - *WhatsApp, which began testing its payments service in India with 1 million users in early 2018, can finally start to expand the feature to more users in the world’s second largest internet market. National Payments Corporation of India (NPCI), the body that o…*
+      - *A small wrinkle in the console wars. Sony took to Twitter today to note that the PlayStation 5 won’t be available for in-store purchases on launch day (November 12 or 19, depending on what part of the world you live in). Instead, users will only be able to bu…*
      
-  - Ayar raises $35M for optical interconnect tech to overcome computing bottlenecks in the CPU
+  - Just one week left for early bird passes to TC Sessions: Space 2020
       <hr/>
       
-      - *The race is on to build more efficient chip technology for faster and less power-intensive computing, and today an innovative startup that’s built one solution based on in-package optical interconnect (optical I/O) technology is announcing a round of growth f…*
+      - *It’s hard to imagine anything more thrilling than turning science fiction into science fact. If you’re forging new frontier technology — or ready to tackle the challenge — than join a growing, global community of startup visionaries at TC Sessions: Space 2020…*
       
-  - Google and Walmart face growth hurdles as India caps payments transactions
+  - DOJ files antitrust lawsuit challenging Visa's $5.3 billion acquisition of Plaid
       <hr/>
       
-      - *Google and Walmart have a new challenge ahead of them as they race to expand the reach of their payments apps in India: They won’t be permitted to grow beyond a limit. National Payments Corporation of India (NPCI), the body that operates the widely popular UP…*
+      - *The Department of Justice has filed an antitrust lawsuit challenging Visa’s proposed $5.3 billion acquisition of Plaid . News of the DOJ’s investigation first broke last month. “By acquiring Plaid, Visa would eliminate a nascent competitive threat that would …*
       
-  - 4 questions as Airbnb's IPO looms
+  - Alibaba passes IBM in cloud infrastructure market with over $2B in revenue
       <hr/>
       
-      - *Almost on command after we asked yesterday if a rash of technology IPOs were about to land, news broke that Airbnb plans to drop its S-1 filing early next week with a December roadshow. The document will be of intense interest for shareholders — as well as pu…*
+      - *When Alibaba entered the cloud infrastructure market in earnest in 2015 it had ambitious goals, and it has been growing steadily. Today, the Chinese ecommerce giant announced quarterly cloud revenue of $2.194 billion. With that number, it has passed IBM’s $1.…*
        
-  - TikTok tests a Learn tab to showcase education and how-to videos
+  - Calm's hilarious CNN ad campaign sent the meditation app flying up App Store charts
       <hr/>
        
-       - *How-to videos have been some of the most popular content on YouTube over the years, and now, to grow engagement and the pool of users that it appeals to, the upstart video app TikTok is getting in on the action, too. After launching a dedicated “Learn On TikT…*
+       - *Meditation app Calm’s brilliant and hilarious marketing campaign that saw it sponsoring CNN’s coverage of the 2020 U.S. Presidential Election results this week seems to have paid off for the business. The app, which today offers mindful meditations, peaceful …*
       
 
 
