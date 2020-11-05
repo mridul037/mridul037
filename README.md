@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 
-~ Seymour Cray
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The trouble with programmers is that you can never tell what a programmer is doi
 
 </pre>
 **Daily News**
-  - YouTube removes ads from, but won’t pull, ‘Trump Won’ video following backlash
+  - Dear Sophie: How will this election nail-biter affect immigration?
      <hr/>
      
-      - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
+      - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
      
+  - YouTube removes ads from, but won’t pull, ‘Trump Won’ video following backlash
+      <hr/>
+      
+      - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
+      
   - Daily Crunch: Social media confronts election misinformation
       <hr/>
       
@@ -81,16 +86,11 @@ The trouble with programmers is that you can never tell what a programmer is doi
       <hr/>
       
       - *There was some confusion when the Juice Pack Connect was announced last week. I admit I was a bit confused, too. It was, no doubt, the proximity to Apple’s iPhone 12 launch that lead many to (understandably) assume that the new take on Mophie’s case is based …*
-      
+       
   - B2B marketplaces will be the next billion-dollar e-commerce startups
       <hr/>
-      
-      - *Merritt Hummer Contributor Share on Twitter Merritt Hummer is a partner at Bain Capital Ventures, where she invests in the fintech, e-commerce and proptech sectors. Startups involved in B2B e-commerce such as Faire and Mirakl have burst out of the gates in 20…*
        
-  - Zynga reports record revenue and strong user growth while still losing $122M
-      <hr/>
-       
-       - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
+       - *Merritt Hummer Contributor Share on Twitter Merritt Hummer is a partner at Bain Capital Ventures, where she invests in the fintech, e-commerce and proptech sectors. Startups involved in B2B e-commerce such as Faire and Mirakl have burst out of the gates in 20…*
       
 
 
