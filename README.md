@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+Typing is no substitute for thinking.
 
-~ Richard Feynman
+~ Richard Hamming
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Computer science differs from physics in that it is not actually a science. It d
 
 </pre>
 **Daily News**
-  - Autonomous drone startup Skydio taps Tesla, Samsara veterans in enterprise push
+  - Rocket Lab will try to recover the booster of its Electron rocket for the first time on its next launch
      <hr/>
      
-      - *Autonomous drone company Skydio has hired three executives in product and engineering following its recent $100 million Series C funding round as part of the company’s strategy to expand beyond consumer applications and into the enterprise and public sector m…*
+      - *Rocket Lab is set to complete a crucial test for its rocket reusability program during its next mission, which is currently set to take place sometime in mid-November, with a launch widow that opens on November 16. This is a bit of a surprise, because the lau…*
      
-  - Apple releases iOS 14.2 with new emojis and accessibility feature that locates people with LiDAR
+  - Inside fintech startup Upstart's IPO filing
       <hr/>
       
-      - *Apple has released iOS 14.2 today. It includes multiple new features as well as some important bug fixes and security updates. Among other things, this release introduces over 100 new emojis. You’ll find a transgender flag, a smiling face with tear, pinched f…*
+      - *While the world awaits the Airbnb IPO filing that could come as early as next week, Upstart dropped its own S-1 filing. The fintech startup facilitates loans between consumers and partner banks, an operation that attracted around $144 million in capital prior…*
       
-  - Amazon launches its first Amazon Air regional hub in Europe
+  - Ushur raises $25M for its no-code platform to build customer communication flows
       <hr/>
       
-      - *Amazon has officially started operations at its first European Amazon Air hub, based out of the Leipzig/Halle Airport in Germany. The new facility spans 20,000 square meters (65,600 square feet) and will host two Amazon-branded Boeing 737-800 aircraft, brinin…*
+      - *No-code is the name of the game in enterprise software, and today a startup called Ushur that has built a platform for any business to create its own AI-based customer communication flows with no coding required is announcing some funding to help fuel its gro…*
       
-  - Mixtape podcast: Wellness in the time of the struggle
+  - Implementing a data-driven approach to guarantee fair, equitable and transparent employee pay
       <hr/>
       
-      - *We’re back with another episode of Mixtape. This week Marah Lidey, co-founder and co-CEO of Shine, joins us to discuss mental health, venture capital, portfolio diversity and connecting with other founders trying to make it all work. It’s easy to look at 2020…*
+      - *It takes deep analysis and lots of hard work to establish and maintain a fair pay model. Several factors are critical to pull it off successfully.*
        
-  - NASA wants new and innovative storytelling tech to document its Artemis Moon missions
+  - Delivery startup goPuff acquires BevMo for $350M
       <hr/>
        
-       - *NASA has issued a new request for proposals from partners that would be able to help it supplement its own storytelling in new and innovative ways, including potentially through use of robotic camera systems, high-resolution and 360-degree video capture, imme…*
+       - *GoPuff is making a big acquisition less than a month after it announced a $380 million round that valued the Philadelphia-headquartered delivery startup at $3.9 billion. Bloomberg’s Katie Roof reported today that goPuff was in talks to buy alcoholic beverage …*
       
 
 
