@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 
-~ Fred Brooks
+~ Ted Nelson
 <pre>
 
 </pre>
