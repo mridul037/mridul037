@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Typing is no substitute for thinking.
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 
-~ Richard Hamming
+~ Bjarne Stroustrup
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Typing is no substitute for thinking.
 
 </pre>
 **Daily News**
-  - Rocket Lab will try to recover the booster of its Electron rocket for the first time on its next launch
+  - Proctorio used DMCA to take down a student's critical tweets
      <hr/>
      
-      - *Rocket Lab is set to complete a crucial test for its rocket reusability program during its next mission, which is currently set to take place sometime in mid-November, with a launch widow that opens on November 16. This is a bit of a surprise, because the lau…*
+      - *"This is really a textbook example of fair use," said the EFF.*
      
-  - Inside fintech startup Upstart's IPO filing
+  - TikTok takes down some hashtags related to election misinformation, leaves others
       <hr/>
       
-      - *While the world awaits the Airbnb IPO filing that could come as early as next week, Upstart dropped its own S-1 filing. The fintech startup facilitates loans between consumers and partner banks, an operation that attracted around $144 million in capital prior…*
+      - *As social media platforms struggle to get U.S. election misinformation under control with varying degrees of success, TikTok has taken new actions to stop people from searching and browsing select hashtags associated with misinformation and conspiracies relat…*
       
-  - Ushur raises $25M for its no-code platform to build customer communication flows
+  - TikTok's parent company, ByteDance, is reportedly looking for $2B before its Hong Kong public offering
       <hr/>
       
-      - *No-code is the name of the game in enterprise software, and today a startup called Ushur that has built a platform for any business to create its own AI-based customer communication flows with no coding required is announcing some funding to help fuel its gro…*
+      - *ByteDance, the company behind the social media sensation TikTok, is in talks to raise another $2 billion before the initial public offering of a large chunk of its international businesses on the Hong Kong StockExchange, according to a Bloomberg report. The n…*
       
-  - Implementing a data-driven approach to guarantee fair, equitable and transparent employee pay
+  - Facebook blocks hashtags for #sharpiegate, #stopthesteal election conspiracies
       <hr/>
       
-      - *It takes deep analysis and lots of hard work to establish and maintain a fair pay model. Several factors are critical to pull it off successfully.*
+      - *Facebook today began to block select hashtags which were being used to share misinformation related to the 2020 U.S. presidential election. Now, searches for the hashtags #SharpieGate is being blocked on the social network. Another election conspiracy hashtag…*
        
-  - Delivery startup goPuff acquires BevMo for $350M
+  - Revolution Cooking's R180 Smart Toaster delivers smarter, faster toasting – for a price
       <hr/>
        
-       - *GoPuff is making a big acquisition less than a month after it announced a $380 million round that valued the Philadelphia-headquartered delivery startup at $3.9 billion. Bloomberg’s Katie Roof reported today that goPuff was in talks to buy alcoholic beverage …*
+       - *A lot of the past decade in smart home gadgets has been figuring out just how smart we actually want our appliances to be. In a lot of cases when it comes to cooking, the old ways are best, and smart features tend to just complicate things. The new Revolution…*
       
 
 
