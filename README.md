@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Tim Berners-Lee
+~ Butler Lampson
 <pre>
 
 </pre>
