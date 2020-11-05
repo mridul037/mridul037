@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Edsger W. Dijkstra
+~ Mario Fusco
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The computing scientist’s main challenge is not to get confused by the complex
 
 </pre>
 **Daily News**
-  - Dear Sophie: How will this election nail-biter affect immigration?
+  - DJI’s pint-sized Mavic Mini gets camera and connection upgrades
      <hr/>
      
-      - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
+      - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
      
+  - Dear Sophie: How will this election nail-biter affect immigration?
+      <hr/>
+      
+      - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
+      
   - YouTube removes ads from, but won’t pull, ‘Trump Won’ video following backlash
       <hr/>
       
@@ -81,16 +86,11 @@ The computing scientist’s main challenge is not to get confused by the complex
       <hr/>
       
       - *You may have heard that the United States had a presidential election yesterday, with plenty of implications for the tech world, particularly with social media as one of the battlegrounds in the fight over the results. Meanwhile, major tech-relevant ballot me…*
-      
+       
   - Hands-on with Mophie’s new modular smartphone battery case
       <hr/>
-      
-      - *There was some confusion when the Juice Pack Connect was announced last week. I admit I was a bit confused, too. It was, no doubt, the proximity to Apple’s iPhone 12 launch that lead many to (understandably) assume that the new take on Mophie’s case is based …*
        
-  - B2B marketplaces will be the next billion-dollar e-commerce startups
-      <hr/>
-       
-       - *Merritt Hummer Contributor Share on Twitter Merritt Hummer is a partner at Bain Capital Ventures, where she invests in the fintech, e-commerce and proptech sectors. Startups involved in B2B e-commerce such as Faire and Mirakl have burst out of the gates in 20…*
+       - *There was some confusion when the Juice Pack Connect was announced last week. I admit I was a bit confused, too. It was, no doubt, the proximity to Apple’s iPhone 12 launch that lead many to (understandably) assume that the new take on Mophie’s case is based …*
       
 
 
