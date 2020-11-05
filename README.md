@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 
-~ Michael Stal
+~ Richard Feynman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Sometimes there is a silver bullet for boosting software engineering productivit
 
 </pre>
 **Daily News**
-  - DOJ says it seized over $1 billion in bitcoin from the Silk Road drugs marketplace
+  - Autonomous drone startup Skydio taps Tesla, Samsara veterans in enterprise push
      <hr/>
      
-      - *More than 70,000 bitcoin generated from the Silk Road marketplace had sat dormant for seven years.*
+      - *Autonomous drone company Skydio has hired three executives in product and engineering following its recent $100 million Series C funding round as part of the company’s strategy to expand beyond consumer applications and into the enterprise and public sector m…*
      
-  - 3 tips for SaaS founders hoping to join the $1 million ARR club
+  - Apple releases iOS 14.2 with new emojis and accessibility feature that locates people with LiDAR
       <hr/>
       
-      - *Building a SaaS company from the ground up is never easy. In fact, it's generally a grueling, all-consuming process that strains every fiber in your being.*
+      - *Apple has released iOS 14.2 today. It includes multiple new features as well as some important bug fixes and security updates. Among other things, this release introduces over 100 new emojis. You’ll find a transgender flag, a smiling face with tear, pinched f…*
       
-  - Sony’s PlayStation 5 won’t be available in-store at launch
+  - Amazon launches its first Amazon Air regional hub in Europe
       <hr/>
       
-      - *A small wrinkle in the console wars. Sony took to Twitter today to note that the PlayStation 5 won’t be available for in-store purchases on launch day (November 12 or 19, depending on what part of the world you live in). Instead, users will only be able to bu…*
+      - *Amazon has officially started operations at its first European Amazon Air hub, based out of the Leipzig/Halle Airport in Germany. The new facility spans 20,000 square meters (65,600 square feet) and will host two Amazon-branded Boeing 737-800 aircraft, brinin…*
       
-  - Just one week left for early bird passes to TC Sessions: Space 2020
+  - Mixtape podcast: Wellness in the time of the struggle
       <hr/>
       
-      - *It’s hard to imagine anything more thrilling than turning science fiction into science fact. If you’re forging new frontier technology — or ready to tackle the challenge — than join a growing, global community of startup visionaries at TC Sessions: Space 2020…*
+      - *We’re back with another episode of Mixtape. This week Marah Lidey, co-founder and co-CEO of Shine, joins us to discuss mental health, venture capital, portfolio diversity and connecting with other founders trying to make it all work. It’s easy to look at 2020…*
        
-  - DOJ files antitrust lawsuit challenging Visa's $5.3 billion acquisition of Plaid
+  - NASA wants new and innovative storytelling tech to document its Artemis Moon missions
       <hr/>
        
-       - *The Department of Justice has filed an antitrust lawsuit challenging Visa’s proposed $5.3 billion acquisition of Plaid . News of the DOJ’s investigation first broke last month. “By acquiring Plaid, Visa would eliminate a nascent competitive threat that would …*
+       - *NASA has issued a new request for proposals from partners that would be able to help it supplement its own storytelling in new and innovative ways, including potentially through use of robotic camera systems, high-resolution and 360-degree video capture, imme…*
       
 
 
