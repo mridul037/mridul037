@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 
-~ Daniel T. Barry
+~ Danny Hillis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
 
 </pre>
 **Daily News**
-  - ByteDance to pump $170 million into e-book reader Zhangyue
+  - Vivid Money raises $17.6 million for its European challenger bank
      <hr/>
      
-      - *While short videos are what drive ByteDance’s revenues and give the Chinese startup international recognition, the firm is expanding into numerous new areas like other tech giants to fuel growth. It’s dabbled in enterprise software and online learning, and th…*
+      - *German fintech startup Vivid Money has raised a $17.6 million Series A funding round (€15 million). Ribbit Capital is leading the investment. Today’s funding round gives Vivid Money a valuation of $117 million (€100 million). Vivid Money is quite a young star…*
      
+  - ByteDance to pump $170 million into e-book reader Zhangyue
+      <hr/>
+      
+      - *While short videos are what drive ByteDance’s revenues and give the Chinese startup international recognition, the firm is expanding into numerous new areas like other tech giants to fuel growth. It’s dabbled in enterprise software and online learning, and th…*
+      
   - If elected, Biden commits to rejoin climate accord U.S. just abandoned
       <hr/>
       
@@ -81,16 +86,11 @@ Various studies indicate that the optimal team size is between 2 and 5, with 3 b
       <hr/>
       
       - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
-      
+       
   - Dear Sophie: How will this election nail-biter affect immigration?
       <hr/>
-      
-      - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
        
-  - YouTube removes ads from, but won’t pull, ‘Trump Won’ video following backlash
-      <hr/>
-       
-       - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
+       - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
       
 
 
