@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The Domain Name Server (DNS) is the Achilles heel of the Web.
+JavaScript is the world's most misunderstood programming language.
 
-~ Tim Berners-Lee
+~ Douglas Crockford
 <pre>
 
 </pre>
