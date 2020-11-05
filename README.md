@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Within C++, there is a much smaller and cleaner language struggling to get out.
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 
-~ Bjarne Stroustrup
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Within C++, there is a much smaller and cleaner language struggling to get out.
 
 </pre>
 **Daily News**
-  - Bentley is making the shift to an all-electric lineup
+  - Why Florida residents may soon be seeing jet-powered 'flying taxis'
      <hr/>
      
-      - *Bentley Motors, the ultra luxury automaker under VW Group, will only produce plug-in hybrid and all-electric cars starting in 2026 with an aim to drop all combustion engines in the next decade. The company said Thursday its entire lineup will be all-electric …*
+      - *Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her washing machine; and a horse needed to be pulled out of a septic…*
      
+  - Huge delivery demand fails to stop Uber's revenue from shrinking in Q3
+      <hr/>
+      
+      - *Despite surging delivery demand, Uber’s third-quarter ultimately failed to meet investor revenue expectations in the third quarter. Uber reported gross bookings of $14.7 billion, in the period, a decline of 10% compared to the year-ago quarter. That level of …*
+      
+  - Bentley is making the shift to an all-electric lineup
+      <hr/>
+      
+      - *Bentley Motors, the ultra luxury automaker under VW Group, will only produce plug-in hybrid and all-electric cars starting in 2026 with an aim to drop all combustion engines in the next decade. The company said Thursday its entire lineup will be all-electric …*
+      
   - Vimeo raises $150M, while IAC is 'contemplating' a spin-off
       <hr/>
       
       - *Vimeo has raised $150 million in new equity funding, announced in conjunction with the third quarter earnings of its parent company IAC. In a letter to shareholders, IAC CEO Joey Levin said the company has “begun contemplating spinning Vimeo off to our shareh…*
-      
+       
   - Facebook takes down "Stop the Steal 2020" group organizing around false claims of election chicanery
       <hr/>
-      
-      - *Facebook has taken down a group that had amassed over 300,000 members and was sharing misinformation and organizing around false allegations of impropriety during the 2020 elections. The group, called “Stop the Steal 2020” was organizing protests targeting th…*
-      
-  - Fortnite is actually a SaaS company
-      <hr/>
-      
-      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What a week from us here in the United States, where the election is still being tabulated and precisely zero p…*
        
-  - Proctorio used DMCA to take down a student's critical tweets
-      <hr/>
-       
-       - *"This is really a textbook example of fair use," said the EFF.*
+       - *Facebook has taken down a group that had amassed over 300,000 members and was sharing misinformation and organizing around false allegations of impropriety during the 2020 elections. The group, called “Stop the Steal 2020” was organizing protests targeting th…*
       
 
 
