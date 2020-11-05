@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Ivan Sutherland
+~ Seymour Cray
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A display connected to a digital computer gives us a chance to gain familiarity 
 
 </pre>
 **Daily News**
-  - B2B marketplaces will be the next billion-dollar e-commerce startups
+  - YouTube removes ads from, but won’t pull, ‘Trump Won’ video following backlash
      <hr/>
      
-      - *Merritt Hummer Contributor Share on Twitter Merritt Hummer is a partner at Bain Capital Ventures, where she invests in the fintech, e-commerce and proptech sectors. Startups involved in B2B e-commerce such as Faire and Mirakl have burst out of the gates in 20…*
+      - *This year’s presidential election has already proven to be a considerable test of the U.S. democratic system. It’s also been doing a fine job testing the systems behind leading social networks four years after a rather disinformation-ridden election. Twitter …*
      
+  - Daily Crunch: Social media confronts election misinformation
+      <hr/>
+      
+      - *You may have heard that the United States had a presidential election yesterday, with plenty of implications for the tech world, particularly with social media as one of the battlegrounds in the fight over the results. Meanwhile, major tech-relevant ballot me…*
+      
+  - Hands-on with Mophie’s new modular smartphone battery case
+      <hr/>
+      
+      - *There was some confusion when the Juice Pack Connect was announced last week. I admit I was a bit confused, too. It was, no doubt, the proximity to Apple’s iPhone 12 launch that lead many to (understandably) assume that the new take on Mophie’s case is based …*
+      
+  - B2B marketplaces will be the next billion-dollar e-commerce startups
+      <hr/>
+      
+      - *Merritt Hummer Contributor Share on Twitter Merritt Hummer is a partner at Bain Capital Ventures, where she invests in the fintech, e-commerce and proptech sectors. Startups involved in B2B e-commerce such as Faire and Mirakl have burst out of the gates in 20…*
+       
   - Zynga reports record revenue and strong user growth while still losing $122M
       <hr/>
-      
-      - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
-      
-  - Learn how to score your first check with TMV’s Soraya Darabi on November 10
-      <hr/>
-      
-      - *When it comes to financing a startup, the most important — and hardest — check to land is the very first one. The growth of accelerators, rolling funds, community funds, hungry angels and institutional investors has given founders more options than ever befor…*
-      
-  - TikTok takes down election misinformation aimed at younger users
-      <hr/>
-      
-      - *TikTok confirmed today it has taken down videos spreading election misinformation that had been posted to two high-profile Republican-supporting accounts, The Republican Hype House and The Republican Boys. The accounts, popular with young, conservative voters…*
        
-  - Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data
-      <hr/>
-       
-       - *A ballot measure passed by 75% of voters in Massachusetts has resolved a thorny question that could have widespread implications for the automotive industry: once a person buys a vehicle, they own all of its data. The measure, listed on the ballot as Question…*
+       - *Zynga’s revenue grew to a record $503 million (up 46% year-over-year) in the third quarter, with bookings of $628 million (up 59%), according to its latest earnings report. It also had its best mobile daily active user (31 million) and monthly active user (83…*
       
 
 
