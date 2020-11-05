@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 
-~ Fred Brooks
+~ Addy Osmani
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
 
 </pre>
 **Daily News**
-  - UK's ICO faces legal action after closing adtech complaint with nothing to show for it
+  - TikTok tests a Learn tab to showcase education and how-to videos
      <hr/>
      
-      - *The UK’s data watchdog is facing a legal challenge after it took the decision to quietly close a complaint against the adtech industry’s high velocity background trading of personal data. The legal challenge was reported earlier by Politico. The original comp…*
+      - *How-to videos have been some of the most popular content on YouTube over the years, and now, to grow engagement and the pool of users that it appeals to, the upstart video app TikTok is getting in on the action, too. After launching a dedicated “Learn On TikT…*
      
-  - Juggle secures $2.1M to expand its 'flexible work' SaaS marketplace for senior execs
+  - Nvidia reportedly bringing Fortnite back to iOS through its cloud gaming service
       <hr/>
       
-      - *As we’ve seen, some startups are pivoting to re-model themselves for the radically different world of the COVID-19 pandemic. But others literally turned out to have a business model which, although they could never have realized it at the time, might have bee…*
+      - *Nvidia is bringing Fortnite back to iPhones and iPads, according to a report from the BBC. The British news service is reporting that Nvidia has developed a version of its GeForce cloud gaming service that runs on Safari. The development means that Fortnite g…*
       
-  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
+  - Mobile testing platform Kobiton raises $14M, acquires competitor Mobile Labs
       <hr/>
       
-      - *SpaceX is set to launch the U.S. Space Force’s GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. This launch was all set to take off back at the beginning of October, but was scrubbed in the final seconds. Today’s launch window …*
+      - *Atlanta-based Kobiton, a mobile testing platform that allows developers and QA teams to test their apps on real devices, both on their own desks and through the company’s cloud-based service, today announced that it has acquired Mobile Labs, another Atlanta-b…*
       
-  - How growth investing grew so big so quickly
+  - Review: Microsoft's Xbox Series X is ahead of its time
       <hr/>
       
-      - *Despite being relatively new to market, this investment category has quickly become one of the most active. It has also become one of the most confusing.*
+      - *Arriving seven years after the Xbox One first launched, the new Microsoft Xbox Series X console lands in a different world and a very different Xbox ecosystem. Microsoft is embracing subscription bundling with its Game Pass service and cloud-streaming with xC…*
        
-  - Singapore-based digital business assistant Osome raises $3 million
+  - UK's ICO faces legal action after closing adtech complaint with nothing to show for it
       <hr/>
        
-       - *Osome, a Singapore-headquartered business assistant app that digitizes accounting and compliance tasks, has raised $3 million. An extension of Osome’s seed round, the new funding was led by XA Network and AltaIR Capital. The startup currently has about 4,500 …*
+       - *The UK’s data watchdog is facing a legal challenge after it took the decision to quietly close a complaint against the adtech industry’s high velocity background trading of personal data. The legal challenge was reported earlier by Politico. The original comp…*
       
 
 
