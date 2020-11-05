@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-JavaScript is the world's most misunderstood programming language.
+Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 
-~ Douglas Crockford
+~ Daniel T. Barry
 <pre>
 
 </pre>
