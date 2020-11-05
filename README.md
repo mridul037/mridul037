@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ Donald Knuth
+~ Michael Stal
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We have seen that computer programming is an art, because it applies accumulated
 
 </pre>
 **Daily News**
-  - Sony’s PlayStation 5 won’t be available in-store at launch
+  - DOJ says it seized over $1 billion in bitcoin from the Silk Road drugs marketplace
      <hr/>
      
-      - *A small wrinkle in the console wars. Sony took to Twitter today to note that the PlayStation 5 won’t be available for in-store purchases on launch day (November 12 or 19, depending on what part of the world you live in). Instead, users will only be able to bu…*
+      - *More than 70,000 bitcoin generated from the Silk Road marketplace had sat dormant for seven years.*
      
+  - 3 tips for SaaS founders hoping to join the $1 million ARR club
+      <hr/>
+      
+      - *Building a SaaS company from the ground up is never easy. In fact, it's generally a grueling, all-consuming process that strains every fiber in your being.*
+      
+  - Sony’s PlayStation 5 won’t be available in-store at launch
+      <hr/>
+      
+      - *A small wrinkle in the console wars. Sony took to Twitter today to note that the PlayStation 5 won’t be available for in-store purchases on launch day (November 12 or 19, depending on what part of the world you live in). Instead, users will only be able to bu…*
+      
   - Just one week left for early bird passes to TC Sessions: Space 2020
       <hr/>
       
       - *It’s hard to imagine anything more thrilling than turning science fiction into science fact. If you’re forging new frontier technology — or ready to tackle the challenge — than join a growing, global community of startup visionaries at TC Sessions: Space 2020…*
-      
+       
   - DOJ files antitrust lawsuit challenging Visa's $5.3 billion acquisition of Plaid
       <hr/>
-      
-      - *The Department of Justice has filed an antitrust lawsuit challenging Visa’s proposed $5.3 billion acquisition of Plaid . News of the DOJ’s investigation first broke last month. “By acquiring Plaid, Visa would eliminate a nascent competitive threat that would …*
-      
-  - Alibaba passes IBM in cloud infrastructure market with over $2B in revenue
-      <hr/>
-      
-      - *When Alibaba entered the cloud infrastructure market in earnest in 2015 it had ambitious goals, and it has been growing steadily. Today, the Chinese ecommerce giant announced quarterly cloud revenue of $2.194 billion. With that number, it has passed IBM’s $1.…*
        
-  - Calm's hilarious CNN ad campaign sent the meditation app flying up App Store charts
-      <hr/>
-       
-       - *Meditation app Calm’s brilliant and hilarious marketing campaign that saw it sponsoring CNN’s coverage of the 2020 U.S. Presidential Election results this week seems to have paid off for the business. The app, which today offers mindful meditations, peaceful …*
+       - *The Department of Justice has filed an antitrust lawsuit challenging Visa’s proposed $5.3 billion acquisition of Plaid . News of the DOJ’s investigation first broke last month. “By acquiring Plaid, Visa would eliminate a nascent competitive threat that would …*
       
 
 
