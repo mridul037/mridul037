@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every time you improve process, work becomes harder.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Daniel T. Barry
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Every time you improve process, work becomes harder.
 
 </pre>
 **Daily News**
-  - Vivid Money raises $17.6 million for its European challenger bank
+  - WhatsApp now lets you post ephemeral messages, which disappear after 7 days
      <hr/>
      
-      - *German fintech startup Vivid Money has raised a $17.6 million Series A funding round (€15 million). Ribbit Capital is leading the investment. Today’s funding round gives Vivid Money a valuation of $117 million (€100 million). Vivid Money is quite a young star…*
+      - *Facebook recently announced that WhatsApp passed the whopping milestone of 100 billion messages sent per day, but not everyone wants those chats to stick around forever. Now, Facebook’s wildly popular messaging app with 2 billion users is adding a feature to …*
      
+  - Vivid Money raises $17.6 million for its European challenger bank
+      <hr/>
+      
+      - *German fintech startup Vivid Money has raised a $17.6 million Series A funding round (€15 million). Ribbit Capital is leading the investment. Today’s funding round gives Vivid Money a valuation of $117 million (€100 million). Vivid Money is quite a young star…*
+      
   - ByteDance to pump $170 million into e-book reader Zhangyue
       <hr/>
       
@@ -81,16 +86,11 @@ Every time you improve process, work becomes harder.
       <hr/>
       
       - *On the same day that the U.S. officially withdrew from the global pact to reduce emissions that cause climate change, presidential contender Joe Biden committed that he would rejoin the Paris Agreement if elected. In a tweet late Wednesday, Biden wrote, “Toda…*
-      
+       
   - DJI’s pint-sized Mavic Mini gets camera and connection upgrades
       <hr/>
-      
-      - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
        
-  - Dear Sophie: How will this election nail-biter affect immigration?
-      <hr/>
-       
-       - *Whatever the election results, there will still be many ways for people to legally navigate the U.S. immigration process and access the opportunity and security of life here.*
+       - *We dug DJI’s Mavic Mini when the drone arrived last year. As Matt noted in his review, “It packs everything critical to be a quality drone. It has a good camera, good range and a good controller. It holds up well in the wind and is quick enough to be fun.” To…*
       
 
 
