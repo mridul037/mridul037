@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+Within C++, there is a much smaller and cleaner language struggling to get out.
 
 ~ Bjarne Stroustrup
 <pre>
@@ -67,30 +67,30 @@ An organisation that treats its programmers as morons will soon have programmers
 
 </pre>
 **Daily News**
-  - Proctorio used DMCA to take down a student's critical tweets
+  - Bentley is making the shift to an all-electric lineup
      <hr/>
      
-      - *"This is really a textbook example of fair use," said the EFF.*
+      - *Bentley Motors, the ultra luxury automaker under VW Group, will only produce plug-in hybrid and all-electric cars starting in 2026 with an aim to drop all combustion engines in the next decade. The company said Thursday its entire lineup will be all-electric …*
      
-  - TikTok takes down some hashtags related to election misinformation, leaves others
+  - Vimeo raises $150M, while IAC is 'contemplating' a spin-off
       <hr/>
       
-      - *As social media platforms struggle to get U.S. election misinformation under control with varying degrees of success, TikTok has taken new actions to stop people from searching and browsing select hashtags associated with misinformation and conspiracies relat…*
+      - *Vimeo has raised $150 million in new equity funding, announced in conjunction with the third quarter earnings of its parent company IAC. In a letter to shareholders, IAC CEO Joey Levin said the company has “begun contemplating spinning Vimeo off to our shareh…*
       
-  - TikTok's parent company, ByteDance, is reportedly looking for $2B before its Hong Kong public offering
+  - Facebook takes down "Stop the Steal 2020" group organizing around false claims of election chicanery
       <hr/>
       
-      - *ByteDance, the company behind the social media sensation TikTok, is in talks to raise another $2 billion before the initial public offering of a large chunk of its international businesses on the Hong Kong StockExchange, according to a Bloomberg report. The n…*
+      - *Facebook has taken down a group that had amassed over 300,000 members and was sharing misinformation and organizing around false allegations of impropriety during the 2020 elections. The group, called “Stop the Steal 2020” was organizing protests targeting th…*
       
-  - Facebook blocks hashtags for #sharpiegate, #stopthesteal election conspiracies
+  - Fortnite is actually a SaaS company
       <hr/>
       
-      - *Facebook today began to block select hashtags which were being used to share misinformation related to the 2020 U.S. presidential election. Now, searches for the hashtags #SharpieGate is being blocked on the social network. Another election conspiracy hashtag…*
+      - *Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast (now on Twitter!), where we unpack the numbers behind the headlines. What a week from us here in the United States, where the election is still being tabulated and precisely zero p…*
        
-  - Revolution Cooking's R180 Smart Toaster delivers smarter, faster toasting – for a price
+  - Proctorio used DMCA to take down a student's critical tweets
       <hr/>
        
-       - *A lot of the past decade in smart home gadgets has been figuring out just how smart we actually want our appliances to be. In a lot of cases when it comes to cooking, the old ways are best, and smart features tend to just complicate things. The new Revolution…*
+       - *"This is really a textbook example of fair use," said the EFF.*
       
 
 
