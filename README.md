@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ Addy Osmani
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Be humble, communicate clearly, and respect others. It costs nothing to be kind,
 
 </pre>
 **Daily News**
-  - TikTok tests a Learn tab to showcase education and how-to videos
+  - WhatsApp receives approval to expand its payments service in India
      <hr/>
      
-      - *How-to videos have been some of the most popular content on YouTube over the years, and now, to grow engagement and the pool of users that it appeals to, the upstart video app TikTok is getting in on the action, too. After launching a dedicated “Learn On TikT…*
+      - *WhatsApp, which began testing its payments service in India with 1 million users in early 2018, can finally start to expand the feature to more users in the world’s second largest internet market. National Payments Corporation of India (NPCI), the body that o…*
      
-  - Nvidia reportedly bringing Fortnite back to iOS through its cloud gaming service
+  - Ayar raises $35M for optical interconnect tech to overcome computing bottlenecks in the CPU
       <hr/>
       
-      - *Nvidia is bringing Fortnite back to iPhones and iPads, according to a report from the BBC. The British news service is reporting that Nvidia has developed a version of its GeForce cloud gaming service that runs on Safari. The development means that Fortnite g…*
+      - *The race is on to build more efficient chip technology for faster and less power-intensive computing, and today an innovative startup that’s built one solution based on in-package optical interconnect (optical I/O) technology is announcing a round of growth f…*
       
-  - Mobile testing platform Kobiton raises $14M, acquires competitor Mobile Labs
+  - Google and Walmart face growth hurdles as India caps payments transactions
       <hr/>
       
-      - *Atlanta-based Kobiton, a mobile testing platform that allows developers and QA teams to test their apps on real devices, both on their own desks and through the company’s cloud-based service, today announced that it has acquired Mobile Labs, another Atlanta-b…*
+      - *Google and Walmart have a new challenge ahead of them as they race to expand the reach of their payments apps in India: They won’t be permitted to grow beyond a limit. National Payments Corporation of India (NPCI), the body that operates the widely popular UP…*
       
-  - Review: Microsoft's Xbox Series X is ahead of its time
+  - 4 questions as Airbnb's IPO looms
       <hr/>
       
-      - *Arriving seven years after the Xbox One first launched, the new Microsoft Xbox Series X console lands in a different world and a very different Xbox ecosystem. Microsoft is embracing subscription bundling with its Game Pass service and cloud-streaming with xC…*
+      - *Almost on command after we asked yesterday if a rash of technology IPOs were about to land, news broke that Airbnb plans to drop its S-1 filing early next week with a December roadshow. The document will be of intense interest for shareholders — as well as pu…*
        
-  - UK's ICO faces legal action after closing adtech complaint with nothing to show for it
+  - TikTok tests a Learn tab to showcase education and how-to videos
       <hr/>
        
-       - *The UK’s data watchdog is facing a legal challenge after it took the decision to quietly close a complaint against the adtech industry’s high velocity background trading of personal data. The legal challenge was reported earlier by Politico. The original comp…*
+       - *How-to videos have been some of the most popular content on YouTube over the years, and now, to grow engagement and the pool of users that it appeals to, the upstart video app TikTok is getting in on the action, too. After launching a dedicated “Learn On TikT…*
       
 
 
