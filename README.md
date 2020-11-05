@@ -23,7 +23,7 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 
 ~ Fred Brooks
 <pre>
@@ -67,30 +67,30 @@ One must assume that there will be lots of bugs, and plan an orderly procedure f
 
 </pre>
 **Daily News**
-  - Singapore-based digital business assistant Osome raises $3 million
+  - UK's ICO faces legal action after closing adtech complaint with nothing to show for it
      <hr/>
      
-      - *Osome, a Singapore-headquartered business assistant app that digitizes accounting and compliance tasks, has raised $3 million. An extension of Osome’s seed round, the new funding was led by XA Network and AltaIR Capital. The startup currently has about 4,500 …*
+      - *The UK’s data watchdog is facing a legal challenge after it took the decision to quietly close a complaint against the adtech industry’s high velocity background trading of personal data. The legal challenge was reported earlier by Politico. The original comp…*
      
-  - Pivoting in the pandemic, Citysocializer relaunches as a ‘Get Your Guide for virtual events’
+  - Juggle secures $2.1M to expand its 'flexible work' SaaS marketplace for senior execs
       <hr/>
       
-      - *Citysocializer, previously a platform for promoting real-world socializing in cities, has relaunched, becoming something akin to a ‘Get Your Guide for virtual events’. Just as other startups have pivoted to ‘lean in’ to current circumstances, this startup has…*
+      - *As we’ve seen, some startups are pivoting to re-model themselves for the radically different world of the COVID-19 pandemic. But others literally turned out to have a business model which, although they could never have realized it at the time, might have bee…*
       
-  - Reliance Retail raises $1.3 billion from PIF
+  - Watch SpaceX launch a GPS satellite for the U.S. Space Force live
       <hr/>
       
-      - *The Public Investment Fund, which has this year invested $1.5 billion in Mukesh Ambani’s telecom venture Jio Platforms and more than half a billion dollars in his fiber-optic business, has returned to back yet another empire built by India’s richest man. The …*
+      - *SpaceX is set to launch the U.S. Space Force’s GPS III Space Vehicle 04 today from Cape Canaveral Air Force Station in Florida. This launch was all set to take off back at the beginning of October, but was scrubbed in the final seconds. Today’s launch window …*
       
-  - WhatsApp now lets you post ephemeral messages, which disappear after 7 days
+  - How growth investing grew so big so quickly
       <hr/>
       
-      - *Facebook recently announced that WhatsApp passed the whopping milestone of 100 billion messages sent per day, but not everyone wants those chats to stick around forever. Now, Facebook’s wildly popular messaging app with 2 billion users is adding a feature to …*
+      - *Despite being relatively new to market, this investment category has quickly become one of the most active. It has also become one of the most confusing.*
        
-  - Vivid Money raises $17.6 million for its European challenger bank
+  - Singapore-based digital business assistant Osome raises $3 million
       <hr/>
        
-       - *German fintech startup Vivid Money has raised a $17.6 million Series A funding round (€15 million). Ribbit Capital is leading the investment. Today’s funding round gives Vivid Money a valuation of $117 million (€100 million). Vivid Money is quite a young star…*
+       - *Osome, a Singapore-headquartered business assistant app that digitizes accounting and compliance tasks, has raised $3 million. An extension of Osome’s seed round, the new funding was led by XA Network and AltaIR Capital. The startup currently has about 4,500 …*
       
 
 
