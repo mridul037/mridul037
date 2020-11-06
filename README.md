@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is easier to change the specification to fit the program than vice versa.
+Imagination is more important than knowledge.
 
-~ Alan Perlis
+~ Albert Einstein
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It is easier to change the specification to fit the program than vice versa.
 
 </pre>
 **Daily News**
-  - SpaceX successfully launches GPS III space vehicle for the U.S. Space Force
+  - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
      <hr/>
      
-      - *Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . …*
+      - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
      
+  - Elon Musk's Tesla tequila will run you $250 a bottle
+      <hr/>
+      
+      - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
+      
+  - SpaceX successfully launches GPS III space vehicle for the U.S. Space Force
+      <hr/>
+      
+      - *Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . …*
+      
   - After Prop 22's passage, Uber is taking its lobbying effort global
       <hr/>
       
       - *Fresh off of its success on Election Day, Uber is signaling that it will continue to push laws similar to the Proposition 22 measure approved by California voters that will keep gig workers classified as independent contractors. The ride-hailing company’s amb…*
-      
+       
   - Daily Crunch: DOJ files suit to stop Plaid acquisition
       <hr/>
-      
-      - *The DOJ challenges Visa’s acquisition of a fintech startup, Apple releases the latest version of iOS and goPuff acquires an iconic alcohol retailer. This is your Daily Crunch for November 5, 2020. The big story: DOJ files suit to stop Plaid acquisition The De…*
-      
-  - A better look at Apple’s iPhone 12 Pro Max and iPhone Mini
-      <hr/>
-      
-      - *The various iterations of the new iPhone were announced 800 million years ago. Actually, wait, I just double checked — it was only about two or so weeks ago, but it turns out that time has no meaning anymore. Another cursory glance at my calendar tells me tha…*
        
-  - Why Florida residents may soon be seeing jet-powered 'flying taxis'
-      <hr/>
-       
-       - *Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her washing machine; and a horse needed to be pulled out of a septic…*
+       - *The DOJ challenges Visa’s acquisition of a fintech startup, Apple releases the latest version of iOS and goPuff acquires an iconic alcohol retailer. This is your Daily Crunch for November 5, 2020. The big story: DOJ files suit to stop Plaid acquisition The De…*
       
 
 
