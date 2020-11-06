@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+I think one of the most valuable rules is avoid duplication.
 
-~ Edsger W. Dijkstra
+~ Martin Fowler
 <pre>
 
 </pre>
