@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 
-~ John Locke
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The acts of the mind, wherein it exerts its power over simple ideas, are chiefly
 
 </pre>
 **Daily News**
-  - Netflix tests a programmed linear TV and movie channel in France
+  - Review: Sony's PlayStation 5 is here, but next-generation gaming is still on its way
      <hr/>
      
-      - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
+      - *The new generation of consoles is both a hard and an easy sell. With a big bump to specs and broad backwards compatibility, both the PlayStation 5 and Xbox Series X are certainly the consoles anyone should buy going forward. But with nearly no launch content …*
      
+  - Spain's All Iron Ventures closes €66.5M first fund
+      <hr/>
+      
+      - *Spain’s All Iron Ventures (AIV), an investor in b2c marketplaces and ecommerce plays, has closed its first fund with commitments totalling €66.5 million (~$79M) — which it touts as one of the largest first fund raises in the country.  Capital committed to the…*
+      
+  - Netflix tests a programmed linear TV and movie channel in France
+      <hr/>
+      
+      - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
+      
   - Challenger bank Starling is out raising a new £200M funding round
       <hr/>
       
       - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
-      
+       
   - Amazon to invest $2.8 billion to build its second data center region in India
       <hr/>
-      
-      - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
-      
-  - PUBG Mobile plots return to India following ban
-      <hr/>
-      
-      - *PUBG Mobile, the sleeper hit title that was banned in India two months ago over cybersecurity concerns, is plotting to make a return in the world’s second largest internet market, two sources familiar with the matter told TechCrunch. The South Korean firm has…*
        
-  - China's cash-burning video sector: how Kuaishou lost $1B in 6 months
-      <hr/>
-       
-       - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
+       - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
       
 
 
