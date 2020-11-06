@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 
-~ Tom DeMarco
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
