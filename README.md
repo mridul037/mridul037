@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 
-~ Edsger W. Dijkstra
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ It is practically impossible to teach good programming to students that have had
 
 </pre>
 **Daily News**
-  - Amazon to invest $2.8 billion to build its second data center region in India
+  - Challenger bank Starling is out raising a new £200M funding round
      <hr/>
      
-      - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
+      - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
      
+  - Amazon to invest $2.8 billion to build its second data center region in India
+      <hr/>
+      
+      - *Manish Singh Contributor Manish Singh covers India for TechCrunch. Prior to this, he wrote for VentureBeat, CNBC, The Outline, CNET, and Mashable. You can reach out to him at manishsingh at pm dot me More posts by this contributor PUBG Mobile plots return to …*
+      
   - PUBG Mobile plots return to India following ban
       <hr/>
       
@@ -81,16 +86,11 @@ It is practically impossible to teach good programming to students that have had
       <hr/>
       
       - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
-      
+       
   - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
       <hr/>
-      
-      - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
        
-  - Elon Musk's Tesla tequila will run you $250 a bottle
-      <hr/>
-       
-       - *Teslaquila, the Tesla -branded liquor, that co-starred in CEO Elon Musk’s controversial April Fool’s Day joke about the automaker filing for bankruptcy, has arrived. The automaker now lists Tesla Tequila (a bit different from the original Teslaquila branding)…*
+       - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
       
 
 
