@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 
-~ William Wulf
+~ Leslie Lamport
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ More computing sins are committed in the name of efficiency (without necessarily
 
 </pre>
 **Daily News**
-  - Software companies are reporting a pretty good third quarter
+  - Funded by Connect Ventures, Purple Dot plans to take on Klarna-style purchase debt
      <hr/>
      
-      - *What a difference a week makes. This time last week, in the wake of earnings from tech’s five largest American companies and early results from other software companies, it appeared that tech shares were in danger of losing their mojo. The Exchange explores s…*
+      - *In recent times startups have appeared offering credit at an e-commerce basket checkout so that a customer can buy a product without needing to pay right away. Klarna or Clearpay are the two most notable in this field. But what if you flipped the model around…*
      
+  - French startups can apply to the Next40 and French Tech 120
+      <hr/>
+      
+      - *Last year, the French government and the government-backed initiative La French Tech unveiled an index of French startups so that it would be easier to identify them. The 40 top-performing startups get the label Next40, and the top 120 startups are grouped in…*
+      
+  - Chinese autonomous vehicle startup Pony.ai hits $5.3 billion valuation
+      <hr/>
+      
+      - *Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan…*
+      
+  - Software companies are reporting a pretty good third quarter
+      <hr/>
+      
+      - *What a difference a week makes. This time last week, in the wake of earnings from tech’s five largest American companies and early results from other software companies, it appeared that tech shares were in danger of losing their mojo. The Exchange explores s…*
+       
   - Slintel grabs $4.2M seed to grow sales intelligence platform
       <hr/>
-      
-      - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
-      
-  - Review: Sony's PlayStation 5 is here, but next-generation gaming is still on its way
-      <hr/>
-      
-      - *The new generation of consoles is both a hard and an easy sell. With a big bump to specs and broad backwards compatibility, both the PlayStation 5 and Xbox Series X are certainly the consoles anyone should buy going forward. But with nearly no launch content …*
-      
-  - Spain's All Iron Ventures closes €66.5M first fund
-      <hr/>
-      
-      - *Spain’s All Iron Ventures (AIV), an investor in b2c marketplaces and ecommerce plays, has closed its first fund with commitments totalling €66.5 million (~$79M) — which it touts as one of the largest first fund raises in the country.  Capital committed to the…*
        
-  - Netflix tests a programmed linear TV and movie channel in France
-      <hr/>
-       
-       - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
+       - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
       
 
 
