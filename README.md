@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+It is easier to change the specification to fit the program than vice versa.
 
-~ Edsger W. Dijkstra
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Are you quite sure that all those bells and whistles, all those wonderful facili
 
 </pre>
 **Daily News**
-  - Why Florida residents may soon be seeing jet-powered 'flying taxis'
+  - SpaceX successfully launches GPS III space vehicle for the U.S. Space Force
      <hr/>
      
-      - *Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her washing machine; and a horse needed to be pulled out of a septic…*
+      - *Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . …*
      
-  - Huge delivery demand fails to stop Uber's revenue from shrinking in Q3
+  - After Prop 22's passage, Uber is taking its lobbying effort global
       <hr/>
       
-      - *Despite surging delivery demand, Uber’s third-quarter ultimately failed to meet investor revenue expectations in the third quarter. Uber reported gross bookings of $14.7 billion, in the period, a decline of 10% compared to the year-ago quarter. That level of …*
+      - *Fresh off of its success on Election Day, Uber is signaling that it will continue to push laws similar to the Proposition 22 measure approved by California voters that will keep gig workers classified as independent contractors. The ride-hailing company’s amb…*
       
-  - Bentley is making the shift to an all-electric lineup
+  - Daily Crunch: DOJ files suit to stop Plaid acquisition
       <hr/>
       
-      - *Bentley Motors, the ultra luxury automaker under VW Group, will only produce plug-in hybrid and all-electric cars starting in 2026 with an aim to drop all combustion engines in the next decade. The company said Thursday its entire lineup will be all-electric …*
+      - *The DOJ challenges Visa’s acquisition of a fintech startup, Apple releases the latest version of iOS and goPuff acquires an iconic alcohol retailer. This is your Daily Crunch for November 5, 2020. The big story: DOJ files suit to stop Plaid acquisition The De…*
       
-  - Vimeo raises $150M, while IAC is 'contemplating' a spin-off
+  - A better look at Apple’s iPhone 12 Pro Max and iPhone Mini
       <hr/>
       
-      - *Vimeo has raised $150 million in new equity funding, announced in conjunction with the third quarter earnings of its parent company IAC. In a letter to shareholders, IAC CEO Joey Levin said the company has “begun contemplating spinning Vimeo off to our shareh…*
+      - *The various iterations of the new iPhone were announced 800 million years ago. Actually, wait, I just double checked — it was only about two or so weeks ago, but it turns out that time has no meaning anymore. Another cursory glance at my calendar tells me tha…*
        
-  - Facebook takes down "Stop the Steal 2020" group organizing around false claims of election chicanery
+  - Why Florida residents may soon be seeing jet-powered 'flying taxis'
       <hr/>
        
-       - *Facebook has taken down a group that had amassed over 300,000 members and was sharing misinformation and organizing around false allegations of impropriety during the 2020 elections. The group, called “Stop the Steal 2020” was organizing protests targeting th…*
+       - *Florida is renowned for its strange news stories. In recent weeks alone, one resident reported an alligator in her garage that turned out to be a pool floatie; another discovered a python in her washing machine; and a horse needed to be pulled out of a septic…*
       
 
 
