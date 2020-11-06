@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 
-~ Edsger W. Dijkstra
+~ William Wulf
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The effective exploitation of his powers of abstraction must be regarded as one 
 
 </pre>
 **Daily News**
-  - Slintel grabs $4.2M seed to grow sales intelligence platform
+  - Software companies are reporting a pretty good third quarter
      <hr/>
      
-      - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
+      - *What a difference a week makes. This time last week, in the wake of earnings from tech’s five largest American companies and early results from other software companies, it appeared that tech shares were in danger of losing their mojo. The Exchange explores s…*
      
+  - Slintel grabs $4.2M seed to grow sales intelligence platform
+      <hr/>
+      
+      - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
+      
   - Review: Sony's PlayStation 5 is here, but next-generation gaming is still on its way
       <hr/>
       
@@ -81,16 +86,11 @@ The effective exploitation of his powers of abstraction must be regarded as one 
       <hr/>
       
       - *Spain’s All Iron Ventures (AIV), an investor in b2c marketplaces and ecommerce plays, has closed its first fund with commitments totalling €66.5 million (~$79M) — which it touts as one of the largest first fund raises in the country.  Capital committed to the…*
-      
+       
   - Netflix tests a programmed linear TV and movie channel in France
       <hr/>
-      
-      - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
        
-  - Challenger bank Starling is out raising a new £200M funding round
-      <hr/>
-       
-       - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
+       - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
       
 
 
