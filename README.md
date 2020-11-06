@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Leslie Lamport
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A distributed system is one in which the failure of a computer you didn’t even
 
 </pre>
 **Daily News**
-  - Funded by Connect Ventures, Purple Dot plans to take on Klarna-style purchase debt
+  - Provizio closes $6.2M seed round for its car safety platform using sensors and AI
      <hr/>
      
-      - *In recent times startups have appeared offering credit at an e-commerce basket checkout so that a customer can buy a product without needing to pay right away. Klarna or Clearpay are the two most notable in this field. But what if you flipped the model around…*
+      - *Provizio, a combination hardware and software startup with technology to improve car safety, has closed a seed investment round of $6.2million. Investors include Bobby Hambrick (the founder of Autonomous Stuff); the founders of Movidius; the European Innovati…*
      
+  - Europe urges ecommerce platforms to share data in fight against coronavirus scams
+      <hr/>
+      
+      - *European lawmakers are pressing major ecommerce and media platforms to share more data with each other as a tool to fight rogue traders who are targeting consumers with coronavirus scams. After the pandemic spread to the West Internet platforms were flooded w…*
+      
+  - Funded by Connect Ventures, Purple Dot plans to take on Klarna-style purchase debt
+      <hr/>
+      
+      - *In recent times startups have appeared offering credit at an e-commerce basket checkout so that a customer can buy a product without needing to pay right away. Klarna or Clearpay are the two most notable in this field. But what if you flipped the model around…*
+      
   - French startups can apply to the Next40 and French Tech 120
       <hr/>
       
       - *Last year, the French government and the government-backed initiative La French Tech unveiled an index of French startups so that it would be easier to identify them. The 40 top-performing startups get the label Next40, and the top 120 startups are grouped in…*
-      
+       
   - Chinese autonomous vehicle startup Pony.ai hits $5.3 billion valuation
       <hr/>
-      
-      - *Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan…*
-      
-  - Software companies are reporting a pretty good third quarter
-      <hr/>
-      
-      - *What a difference a week makes. This time last week, in the wake of earnings from tech’s five largest American companies and early results from other software companies, it appeared that tech shares were in danger of losing their mojo. The Exchange explores s…*
        
-  - Slintel grabs $4.2M seed to grow sales intelligence platform
-      <hr/>
-       
-       - *As the pandemic rages on, companies are looking for an edge when it comes to sales. Having the right data about the customers most likely to convert can be a huge boost right now. Slintel, an early stage startup building a sales intelligence tool, announced a…*
+       - *Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan…*
       
 
 
