@@ -23,9 +23,10 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+I think there is a world market for maybe five
+computers.
 
-~ Bill Gates
+~ Thomas J. Watson
 <pre>
 
 </pre>
@@ -67,11 +68,16 @@ Sometimes we do get taken by surprise. For example, when the Internet came along
 
 </pre>
 **Daily News**
-  - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
+  - China's cash-burning video sector: how Kuaishou lost $1B in 6 months
      <hr/>
      
-      - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
+      - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
      
+  - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
+      <hr/>
+      
+      - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
+      
   - Elon Musk's Tesla tequila will run you $250 a bottle
       <hr/>
       
@@ -81,16 +87,11 @@ Sometimes we do get taken by surprise. For example, when the Internet came along
       <hr/>
       
       - *Tesla has launched a GPS III satellite on behalf of customer the U.S. Space Force, the second GPS III generation satellite it has launched for the U.S. military this year. The first took off in June, and was the third overall GPS III put in orbit by SpaceX . …*
-      
+       
   - After Prop 22's passage, Uber is taking its lobbying effort global
       <hr/>
-      
-      - *Fresh off of its success on Election Day, Uber is signaling that it will continue to push laws similar to the Proposition 22 measure approved by California voters that will keep gig workers classified as independent contractors. The ride-hailing company’s amb…*
        
-  - Daily Crunch: DOJ files suit to stop Plaid acquisition
-      <hr/>
-       
-       - *The DOJ challenges Visa’s acquisition of a fintech startup, Apple releases the latest version of iOS and goPuff acquires an iconic alcohol retailer. This is your Daily Crunch for November 5, 2020. The big story: DOJ files suit to stop Plaid acquisition The De…*
+       - *Fresh off of its success on Election Day, Uber is signaling that it will continue to push laws similar to the Proposition 22 measure approved by California voters that will keep gig workers classified as independent contractors. The ride-hailing company’s amb…*
       
 
 
