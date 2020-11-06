@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 
-~ Richard Stallman
+~ Albert Einstein
 <pre>
 
 </pre>
