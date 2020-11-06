@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 
-~ Gottfried Wilhelm Leibniz
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Instead of the progression of tens, I have for many years used the simplest prog
 
 </pre>
 **Daily News**
-  - Provizio closes $6.2M seed round for its car safety platform using sensors and AI
+  - Startups making meat alternatives are gaining traction worldwide
      <hr/>
      
-      - *Provizio, a combination hardware and software startup with technology to improve car safety, has closed a seed investment round of $6.2million. Investors include Bobby Hambrick (the founder of Autonomous Stuff); the founders of Movidius; the European Innovati…*
+      - *Startups that produce lab-grown meat and meat substitutes are gaining traction and raising cash in global markets, mirroring a surge of support food tech companies are seeing in the United States. New partnerships with global chains like McDonald’s in Hong Ko…*
      
+  - Provizio closes $6.2M seed round for its car safety platform using sensors and AI
+      <hr/>
+      
+      - *Provizio, a combination hardware and software startup with technology to improve car safety, has closed a seed investment round of $6.2million. Investors include Bobby Hambrick (the founder of Autonomous Stuff); the founders of Movidius; the European Innovati…*
+      
   - Europe urges ecommerce platforms to share data in fight against coronavirus scams
       <hr/>
       
@@ -81,16 +86,11 @@ Instead of the progression of tens, I have for many years used the simplest prog
       <hr/>
       
       - *In recent times startups have appeared offering credit at an e-commerce basket checkout so that a customer can buy a product without needing to pay right away. Klarna or Clearpay are the two most notable in this field. But what if you flipped the model around…*
-      
+       
   - French startups can apply to the Next40 and French Tech 120
       <hr/>
-      
-      - *Last year, the French government and the government-backed initiative La French Tech unveiled an index of French startups so that it would be easier to identify them. The 40 top-performing startups get the label Next40, and the top 120 startups are grouped in…*
        
-  - Chinese autonomous vehicle startup Pony.ai hits $5.3 billion valuation
-      <hr/>
-       
-       - *Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan…*
+       - *Last year, the French government and the government-backed initiative La French Tech unveiled an index of French startups so that it would be easier to identify them. The 40 top-performing startups get the label Next40, and the top 120 startups are grouped in…*
       
 
 
