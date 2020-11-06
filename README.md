@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
-~ Elon Musk
+~ John Locke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ People are mistaken when they think that technology just automatically improves.
 
 </pre>
 **Daily News**
-  - Challenger bank Starling is out raising a new £200M funding round
+  - Netflix tests a programmed linear TV and movie channel in France
      <hr/>
      
-      - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
+      - *Netflix is testing out a programmed linear content channel, similar to what you get with standard broadcast and cable TV, for the first time (via Variety). The streaming company will still be streaming said channel – it’ll be accessed via Netflix’s browser-ba…*
      
+  - Challenger bank Starling is out raising a new £200M funding round
+      <hr/>
+      
+      - *Starling founder Anne Boden recently told TechCrunch that the U.K. challenger bank is on track to be profitable by Christmas, but this doesn’t mean it isn’t out raising additional capital already. According to well-placed sources, Starling has hired Rothschil…*
+      
   - Amazon to invest $2.8 billion to build its second data center region in India
       <hr/>
       
@@ -81,16 +86,11 @@ People are mistaken when they think that technology just automatically improves.
       <hr/>
       
       - *PUBG Mobile, the sleeper hit title that was banned in India two months ago over cybersecurity concerns, is plotting to make a return in the world’s second largest internet market, two sources familiar with the matter told TechCrunch. The South Korean firm has…*
-      
+       
   - China's cash-burning video sector: how Kuaishou lost $1B in 6 months
       <hr/>
-      
-      - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
        
-  - Steve Bannon's show pulled off Twitter and YouTube over calls for violence
-      <hr/>
-       
-       - *Former Presidential advisor and right-wing pundit Steve Bannon had his show suspended from Twitter and an episode removed by YouTube after calling for violence against FBI director Christopher Wray and the government’s leading pandemic expert, Dr. Anthony Fau…*
+       - *Rumors have been floating for months that ByteDance is going public with TikTok and Douyin separately. Just last night, Bloomberg reported that ByteDance is seeking a pre-IPO round of $2 billion at a staggering valuation of $180 billion. Before any of that ma…*
       
 
 
