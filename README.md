@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 
-~ Edsger W. Dijkstra
+~ Gottfried Wilhelm Leibniz
 <pre>
 
 </pre>
