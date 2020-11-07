@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When I invented the web, I didn't have to ask anyone's permission.
+A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 
-~ Tim Berners-Lee
+~ John Gall (author)
 <pre>
 
 </pre>
