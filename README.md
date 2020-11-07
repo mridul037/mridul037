@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The difference between theory and practice is that in theory, there is no difference between theory and practice.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Richard Moore (engineer)
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The difference between theory and practice is that in theory, there is no differ
 
 </pre>
 **Daily News**
-  - Joe Biden wins the 2020 US presidential election
+  - The gig economy, cannabis and car data are tech-election winners in 2020
      <hr/>
      
-      - *Following a tense week of vote tallying, Joe Biden won the state of Pennsylvania and vaulted ahead in the race to become the next president of the United States. Biden’s win in the critical state put him over the threshold of 270 electoral votes, cutting off …*
+      - *As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.*
      
+  - Joe Biden wins the 2020 US presidential election
+      <hr/>
+      
+      - *Following a tense week of vote tallying, Joe Biden won the state of Pennsylvania and vaulted ahead in the race to become the next president of the United States. Biden’s win in the critical state put him over the threshold of 270 electoral votes, cutting off …*
+      
   - This Week in Apps: Elections' impact on the app store, new app privacy requirements, iOS 14.2 arrives
       <hr/>
       
@@ -81,16 +86,11 @@ The difference between theory and practice is that in theory, there is no differ
       <hr/>
       
       - *A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he’s feeling optimistic right now, with …*
-      
+       
   - Extra Crunch roundup: B2B marketplaces, edtech M&A, breaking into the $1M ARR club
       <hr/>
-      
-      - *I’ve worked at TechCrunch for a little over a year, but this was one of the hardest weeks on the job so far. Like many people, I’ve been distracted in recent days. As I write this, I have one eye on my keyboard and another on a TV that sporadically broadcasts…*
        
-  - Daily Crunch: Netflix tests a linear video channel
-      <hr/>
-       
-       - *Netflix takes an old-fashioned approach for its latest feature, Amazon plans a new data center in India and we review the PlayStation 5. This is your Daily Crunch for November 6, 2020. The big story: Netflix tests a linear video channel Today in surprising pr…*
+       - *I’ve worked at TechCrunch for a little over a year, but this was one of the hardest weeks on the job so far. Like many people, I’ve been distracted in recent days. As I write this, I have one eye on my keyboard and another on a TV that sporadically broadcasts…*
       
 
 
