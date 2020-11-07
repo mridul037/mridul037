@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 
-~ Laurence J. Peter
+~ Danny Hillis
 <pre>
 
 </pre>
