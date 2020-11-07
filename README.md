@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 
-~ Edsger W. Dijkstra
+~ Ted Nelson
 <pre>
 
 </pre>
