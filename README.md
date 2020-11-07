@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+The difference between theory and practice is that in theory, there is no difference between theory and practice.
 
-~ Ward Cunningham
+~ Richard Moore (engineer)
 <pre>
 
 </pre>
