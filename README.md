@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 
-~ Fred Brooks
+~ Laurence J. Peter
 <pre>
 
 </pre>
