@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 
-~ Danny Hillis
+~ Elon Musk
 <pre>
 
 </pre>
