@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It's not so important what you work on, so long as you're not wasting your time.
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 
-~ Paul Graham (programmer)
+~ Alan Turing
 <pre>
 
 </pre>
