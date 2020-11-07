@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-You should name a variable using the same care with which you name a first-born child.
+A language that doesn't affect the way you think about programming, is not worth knowing.
 
-~ Jim Coplien
+~ Alan Perlis
 <pre>
 
 </pre>
