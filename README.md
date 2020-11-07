@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A program that produces incorrect results twice as fast is infinitely slower.
+You should name a variable using the same care with which you name a first-born child.
 
-~ John Ousterhout
+~ Jim Coplien
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A program that produces incorrect results twice as fast is infinitely slower.
 
 </pre>
 **Daily News**
-  - Extra Crunch roundup: B2B marketplaces, edtech M&A, breaking into the $1M ARR club
+  - VC and former politician Steve Westly is feeling electrified right now; here's why
      <hr/>
      
-      - *I’ve worked at TechCrunch for a little over a year, but this was one of the hardest weeks on the job so far. Like many people, I’ve been distracted in recent days. As I write this, I have one eye on my keyboard and another on a TV that sporadically broadcasts…*
+      - *A former controller and CFO of the state of California, Steve Westly is passionate about government. The onetime eBay exec and early Tesla board member has also been a proponent of clean energy for roughly 30 years, so he’s feeling optimistic right now, with …*
      
+  - Extra Crunch roundup: B2B marketplaces, edtech M&A, breaking into the $1M ARR club
+      <hr/>
+      
+      - *I’ve worked at TechCrunch for a little over a year, but this was one of the hardest weeks on the job so far. Like many people, I’ve been distracted in recent days. As I write this, I have one eye on my keyboard and another on a TV that sporadically broadcasts…*
+      
   - Daily Crunch: Netflix tests a linear video channel
       <hr/>
       
@@ -81,16 +86,11 @@ A program that produces incorrect results twice as fast is infinitely slower.
       <hr/>
       
       - *Startups that produce lab-grown meat and meat substitutes are gaining traction and raising cash in global markets, mirroring a surge of support food tech companies are seeing in the United States. New partnerships with global chains like McDonald’s in Hong Ko…*
-      
+       
   - Provizio closes $6.2M seed round for its car safety platform using sensors and AI
       <hr/>
-      
-      - *Provizio, a combination hardware and software startup with technology to improve car safety, has closed a seed investment round of $6.2million. Investors include Bobby Hambrick (the founder of Autonomous Stuff); the founders of Movidius; the European Innovati…*
        
-  - Europe urges ecommerce platforms to share data in fight against coronavirus scams
-      <hr/>
-       
-       - *European lawmakers are pressing major ecommerce and media platforms to share more data with each other as a tool to fight rogue traders who are targeting consumers with coronavirus scams. After the pandemic spread to the West Internet platforms were flooded w…*
+       - *Provizio, a combination hardware and software startup with technology to improve car safety, has closed a seed investment round of $6.2million. Investors include Bobby Hambrick (the founder of Autonomous Stuff); the founders of Movidius; the European Innovati…*
       
 
 
