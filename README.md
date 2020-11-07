@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-From an artistic standpoint, the best software comes from the realm of intuition.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Bob Carr
+~ Tim Berners-Lee
 <pre>
 
 </pre>
