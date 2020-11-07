@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Alan Turing
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A man provided with paper, pencil, and rubber, and subject to strict discipline,
 
 </pre>
 **Daily News**
-  - This Week in Apps: Elections' impact on the app store, new app privacy requirements, iOS 14.2 arrives
+  - Joe Biden wins the 2020 US presidential election
      <hr/>
      
-      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      - *Following a tense week of vote tallying, Joe Biden won the state of Pennsylvania and vaulted ahead in the race to become the next president of the United States. Biden’s win in the critical state put him over the threshold of 270 electoral votes, cutting off …*
      
+  - This Week in Apps: Elections' impact on the app store, new app privacy requirements, iOS 14.2 arrives
+      <hr/>
+      
+      - *Welcome back to This Week in Apps, the TechCrunch series that recaps the latest OS news, the applications they support and the money that flows through it all. The app industry is as hot as ever, with a record 204 billion downloads and $120 billion in consume…*
+      
   - VC and former politician Steve Westly is feeling electrified right now; here's why
       <hr/>
       
@@ -81,16 +86,11 @@ A man provided with paper, pencil, and rubber, and subject to strict discipline,
       <hr/>
       
       - *I’ve worked at TechCrunch for a little over a year, but this was one of the hardest weeks on the job so far. Like many people, I’ve been distracted in recent days. As I write this, I have one eye on my keyboard and another on a TV that sporadically broadcasts…*
-      
+       
   - Daily Crunch: Netflix tests a linear video channel
       <hr/>
-      
-      - *Netflix takes an old-fashioned approach for its latest feature, Amazon plans a new data center in India and we review the PlayStation 5. This is your Daily Crunch for November 6, 2020. The big story: Netflix tests a linear video channel Today in surprising pr…*
        
-  - Startups making meat alternatives are gaining traction worldwide
-      <hr/>
-       
-       - *Startups that produce lab-grown meat and meat substitutes are gaining traction and raising cash in global markets, mirroring a surge of support food tech companies are seeing in the United States. New partnerships with global chains like McDonald’s in Hong Ko…*
+       - *Netflix takes an old-fashioned approach for its latest feature, Amazon plans a new data center in India and we review the PlayStation 5. This is your Daily Crunch for November 6, 2020. The big story: Netflix tests a linear video channel Today in surprising pr…*
       
 
 
