@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+A program that produces incorrect results twice as fast is infinitely slower.
 
-~ Albert Einstein
+~ John Ousterhout
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ All of our exalted technological progress, civilization for that matter, is comp
 
 </pre>
 **Daily News**
-  - Startups making meat alternatives are gaining traction worldwide
+  - Extra Crunch roundup: B2B marketplaces, edtech M&A, breaking into the $1M ARR club
      <hr/>
      
-      - *Startups that produce lab-grown meat and meat substitutes are gaining traction and raising cash in global markets, mirroring a surge of support food tech companies are seeing in the United States. New partnerships with global chains like McDonald’s in Hong Ko…*
+      - *I’ve worked at TechCrunch for a little over a year, but this was one of the hardest weeks on the job so far. Like many people, I’ve been distracted in recent days. As I write this, I have one eye on my keyboard and another on a TV that sporadically broadcasts…*
      
+  - Daily Crunch: Netflix tests a linear video channel
+      <hr/>
+      
+      - *Netflix takes an old-fashioned approach for its latest feature, Amazon plans a new data center in India and we review the PlayStation 5. This is your Daily Crunch for November 6, 2020. The big story: Netflix tests a linear video channel Today in surprising pr…*
+      
+  - Startups making meat alternatives are gaining traction worldwide
+      <hr/>
+      
+      - *Startups that produce lab-grown meat and meat substitutes are gaining traction and raising cash in global markets, mirroring a surge of support food tech companies are seeing in the United States. New partnerships with global chains like McDonald’s in Hong Ko…*
+      
   - Provizio closes $6.2M seed round for its car safety platform using sensors and AI
       <hr/>
       
       - *Provizio, a combination hardware and software startup with technology to improve car safety, has closed a seed investment round of $6.2million. Investors include Bobby Hambrick (the founder of Autonomous Stuff); the founders of Movidius; the European Innovati…*
-      
+       
   - Europe urges ecommerce platforms to share data in fight against coronavirus scams
       <hr/>
-      
-      - *European lawmakers are pressing major ecommerce and media platforms to share more data with each other as a tool to fight rogue traders who are targeting consumers with coronavirus scams. After the pandemic spread to the West Internet platforms were flooded w…*
-      
-  - Funded by Connect Ventures, Purple Dot plans to take on Klarna-style purchase debt
-      <hr/>
-      
-      - *In recent times startups have appeared offering credit at an e-commerce basket checkout so that a customer can buy a product without needing to pay right away. Klarna or Clearpay are the two most notable in this field. But what if you flipped the model around…*
        
-  - French startups can apply to the Next40 and French Tech 120
-      <hr/>
-       
-       - *Last year, the French government and the government-backed initiative La French Tech unveiled an index of French startups so that it would be easier to identify them. The 40 top-performing startups get the label Next40, and the top 120 startups are grouped in…*
+       - *European lawmakers are pressing major ecommerce and media platforms to share more data with each other as a tool to fight rogue traders who are targeting consumers with coronavirus scams. After the pandemic spread to the West Internet platforms were flooded w…*
       
 
 
