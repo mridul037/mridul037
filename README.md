@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 
-~ Alan Perlis
+~ Fred Brooks
 <pre>
 
 </pre>
