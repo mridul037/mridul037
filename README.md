@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 
-~ Hal Abelson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
