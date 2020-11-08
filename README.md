@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A year spent in artificial intelligence is enough to make one believe in God.
+Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 
-~ Alan Perlis
+~ Pete Cordell
 <pre>
 
 </pre>
