@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If Microsoft ever does applications for Linux it means I've won.
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 
-~ Linus Torvalds
+~ Lawrence Flon
 <pre>
 
 </pre>
