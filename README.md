@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-That hardly ever happens is another way of saying 'it happens'.
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 
-~ Douglas Crockford
+~ Alan Turing
 <pre>
 
 </pre>
