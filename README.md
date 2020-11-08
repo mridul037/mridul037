@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 
-~ Buckminster Fuller
+~ Wayne Ratliff
 <pre>
 
 </pre>
