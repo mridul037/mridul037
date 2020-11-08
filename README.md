@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 
-~ Mario Fusco
+~ Chris Sacca
 <pre>
 
 </pre>
