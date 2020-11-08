@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Wayne Ratliff
+~ Mario Fusco
 <pre>
 
 </pre>
