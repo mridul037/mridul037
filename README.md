@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+If Microsoft ever does applications for Linux it means I've won.
 
-~ Alan Turing
+~ Linus Torvalds
 <pre>
 
 </pre>
