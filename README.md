@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 
-~ Chris Sacca
+~ Martin Fowler
 <pre>
 
 </pre>
