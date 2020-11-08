@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+A year spent in artificial intelligence is enough to make one believe in God.
 
-~ Donald Knuth
+~ Alan Perlis
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ By understanding a machine-oriented language, the programmer will tend to use a 
 
 </pre>
 **Daily News**
-  - What we've learned about working from home 7 months into the pandemic
+  - Original Content podcast: 'The Queen's Gambit' is the historical chess drama we need right now
      <hr/>
      
-      - *When large parts of the world were shutting down in March, we really didn’t know how we would move massive numbers of employees used to working in the office to work from home. In early March, I wrote a piece on how to prepare for such an eventuality, speakin…*
+      - *On paper, “The Queen’s Gambit” might not sound like a compelling drama: Based on a novel by Walter Tevis, the Netflix series tells the story of Beth Harmon as she rises through the world of competitive chess, eventually taking on the world champion from the S…*
      
+  - What we've learned about working from home 7 months into the pandemic
+      <hr/>
+      
+      - *When large parts of the world were shutting down in March, we really didn’t know how we would move massive numbers of employees used to working in the office to work from home. In early March, I wrote a piece on how to prepare for such an eventuality, speakin…*
+      
   - Human Capital: The gig economy in a post-Prop 22 world
       <hr/>
       
@@ -81,16 +86,11 @@ By understanding a machine-oriented language, the programmer will tend to use a 
       <hr/>
       
       - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Are you tired? I am. What a week. But, if you kept your eyes off American politics and instead focused on the s…*
-      
+       
   - The gig economy, cannabis and car data are tech-election winners in 2020
       <hr/>
-      
-      - *As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.*
        
-  - Joe Biden wins the 2020 US presidential election
-      <hr/>
-       
-       - *Following a tense week of vote tallying, Joe Biden won the state of Pennsylvania and vaulted ahead in the race to become the next president of the United States. Biden’s win in the critical state put him over the threshold of 270 electoral votes, cutting off …*
+       - *As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.*
       
 
 
