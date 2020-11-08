@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Any product that needs a manual to work is broken.
+When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
 
-~ Elon Musk
+~ Buckminster Fuller
 <pre>
 
 </pre>
