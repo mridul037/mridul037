@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 
-~ Gerald Weinberg
+~ Linus Torvalds
 <pre>
 
 </pre>
