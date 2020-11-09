@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First do it, then do it right, then do it better.
+An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 
-~ Addy Osmani
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First do it, then do it right, then do it better.
 
 </pre>
 **Daily News**
-  - Tim Berners Lee's startup Inrupt releases Solid privacy platform for enterprises
+  - Apple places supplier Pegatron on probation over labor conditions
      <hr/>
      
-      - *Inrupt, the startup from World Wide Web founder Tim Berners-Lee, announced an enterprise version of the Solid privacy platform today, which allows large organizations and governments to build applications that put users in control of their data. Berners-Lee h…*
+      - *Apple has suspended new business with supplier Pegatron after the Taiwan-based original equipment manufacturer misclassified student workers. Apple also said Pegatron broke its Code of Conduct for suppliers. In a statement provided to Bloomberg, Apple said, “…*
      
+  - Singapore-based sales productivity platform Nektar raises $2.15 million seed round
+      <hr/>
+      
+      - *Singapore-based Nektar.ai, a productivity platform for sales teams, has raised $2.15 million in seed funding. Founded earlier this year, Nektar has been working in stealth mode with five companies, and has plans for an early adopter release before a public la…*
+      
+  - Tim Berners Lee's startup Inrupt releases Solid privacy platform for enterprises
+      <hr/>
+      
+      - *Inrupt, the startup from World Wide Web founder Tim Berners-Lee, announced an enterprise version of the Solid privacy platform today, which allows large organizations and governments to build applications that put users in control of their data. Berners-Lee h…*
+      
   - Original Content podcast: 'The Queen's Gambit' is the historical chess drama we need right now
       <hr/>
       
       - *On paper, “The Queen’s Gambit” might not sound like a compelling drama: Based on a novel by Walter Tevis, the Netflix series tells the story of Beth Harmon as she rises through the world of competitive chess, eventually taking on the world champion from the S…*
-      
+       
   - What we've learned about working from home 7 months into the pandemic
       <hr/>
-      
-      - *When large parts of the world were shutting down in March, we really didn’t know how we would move massive numbers of employees used to working in the office to work from home. In early March, I wrote a piece on how to prepare for such an eventuality, speakin…*
-      
-  - Human Capital: The gig economy in a post-Prop 22 world
-      <hr/>
-      
-      - *Welcome back to Human Capital and congrats on making it through one of the hardest weeks of the longest year. Now that the Associated Press has called the election in favor of Joe Biden, it should be good news for DEI practitioners, who expressed some worry t…*
        
-  - Here comes the next IPO wave
-      <hr/>
-       
-       - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Are you tired? I am. What a week. But, if you kept your eyes off American politics and instead focused on the s…*
+       - *When large parts of the world were shutting down in March, we really didn’t know how we would move massive numbers of employees used to working in the office to work from home. In early March, I wrote a piece on how to prepare for such an eventuality, speakin…*
       
 
 
