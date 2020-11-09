@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+Controlling complexity is the essence of computer programming.
 
-~ Douglas Crockford
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Mathematics is important in programming, but it’s just one of a lot of things 
 
 </pre>
 **Daily News**
-  - India opens antitrust case against Google over its payments app
+  - Uzabase sells Quartz to the site's CEO and staff
      <hr/>
      
-      - *India’s antitrust watchdog has opened an investigation into Google for allegedly abusing the dominant position of its app store to promote its payments service in the world’s second largest internet market. In its Monday announcement (PDF) about opening an an…*
+      - *Quartz is going private, with co-founder and CEO Zach Seward buying the business news site from its current owner Uzabase. In his post announcing the deal, Seward described the move as a management buyout that will also see Editor in Chief Katherine Bell and …*
      
-  - Qumulo update adds NvME caching for more efficient use of flash storage
+  - McDonald's to launch a McPlant vegetarian option
       <hr/>
       
-      - *Qumulo, the Seattle-based data storage startup, announced a bunch of updates today including support for NvME caching, an approach that should enable customers to access faster flash storage at a lower price point. NvME flash storage development is evolving q…*
+      - *McDonalds is developing what it calls a plant-based platform called the McPlant that will debut in markets around the world early next year, according to a report in USA Today. In an investor meeting McDonald’s announced that it had worked to develop its McPl…*
       
-  - iPhone 12 mini Review: Tiny package, big bang
+  - Apple Music adds 10 new playlists aimed at Gen Z, including one with TikTok hits
       <hr/>
       
-      - *Reviewing the iPhone 12 mini and the iPhone 12 Pro Max at the same time has been an exercise in extremes. I noted in my earlier reviews of the iPhone 12 and iPhone 12 Pro that it was difficult to evaluate the middle of the lineup without having the extreme en…*
+      - *Apple Music is targeting Gen Z users in its battle with Spotify . On Friday, Apple launched ten new Apple Music playlists focused on the music interests of Gen Z users — including one playlist that features the latest tracks to go viral across social media ap…*
       
-  - Review: The iPhone 12 Pro Max is worth its handling fee
+  - Riverside.fm launches its video podcasting platform
       <hr/>
       
-      - *The iPhone 12 Pro Max is probably the easiest of all of the new iPhone 12 models to review. It’s huge and it has a really, really great camera. Probably one of the best cameras ever in a smartphone if not the best. For those of you coming from an iPhone “Max”…*
+      - *Riveside.fm is a new startup with an easy-to-use platform for recording professional-quality video podcasts. In fact, although the company only recently came out of stealth, it already has a number of high-profile customers including TechCrunch’s parent compa…*
        
-  - Moon exporation startup ispace opens new U.S. office and hires SpaceX to lead development of next lander
+  - Transportation on the ballot, Softbank parks its money in REEF and Tesla Tequila arrives
       <hr/>
        
-       - *Japanese startup ispace, which is developing lander technology to support exploration of the Moon, is opening an office in Denver, the company announced today. The Colorado location was chosen because of its access to local aerospace engineering talent, and t…*
+       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
       
 
 
