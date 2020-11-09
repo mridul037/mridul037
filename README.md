@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Codes are a puzzle. A game, just like any other game.
+Controlling complexity is the essence of computer programming.
 
-~ Alan Turing
+~ Brian Kernighan
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Codes are a puzzle. A game, just like any other game.
 
 </pre>
 **Daily News**
-  - Startup fundraising is the most tangible gender gap. How can we overcome it?
+  - NASA partners with SpaceX, Rocket Lab, Blue Origin and others for test flights and research
      <hr/>
      
-      - *Closing the gender gap in VC funding is no simple task, but it’s one that must be undertaken.*
+      - *NASA has announced 20 new partnerships with commercial space outfits, among them collaborations with SpaceX, Blue Origin, and Rocket Lab. While no money will change hands, NASA will dedicate millions in personnel and other support to these test launches and d…*
      
-  - Hyundai reportedly in talks to buy SoftBank-owned Boston Dynamics
+  - Adobe acquires marketing workflow startup Workfront for $1.5B
       <hr/>
       
-      - *Boston Dynamics could be set to change hands once again, according to a new report from Bloomberg that cited “people familiar with the matter.” The deal would make Korean automaker Hyundai the third company in seven years to own the robotics firm, following s…*
+      - *Adobe just announced that it is acquiring marketing workflow management startup Workfront for $1.5 billion. Bloomberg first reported the sale would be happening earlier today. Workfront was founded back in 2001, making it a bit long in tooth for a private com…*
       
-  - Beyond Meat shares rise on news that it collaborated with McDonald's on the McPlant options
+  - Indian logistics startup Xpressbees raises $110 million
       <hr/>
       
-      - *After tumbling earlier today, Beyond Meat shares are shooting upward on news that the company did indeed collaborate with McDonald’s on its new McPlant vegetarian menu. McDonald’s made waves this morning when it announced its new McPlant, and the company’s st…*
+      - *Xpressbees, an Indian logistics firm that works with several e-commerce firms in the country, said on Monday it has raised $110 million in a new financing round as online shopping booms in the world’s second largest internet market. The Pune-headquartered sta…*
       
-  - Decrypted: Grayshift raises $47M, Apple bugs under attack, video game maker hacked
+  - Bumble's new feature prevents bad actors from using 'unmatch' to hide from their victims
       <hr/>
       
-      - *The election is over, but not without a hitch or two. Some voters in Georgia and Ohio had to use paper ballots after hand sanitizer leaked into voting machines — an unexpected casualty of the pandemic. And a slew of robocalls across a number of swing states u…*
+      - *Dating app Bumble announced today it’s changing how its “unmatch” feature works in an effort to better prioritize user safety. The change will make it more difficult for a bad actor or harasser to use the app’s unmatch feature in order to avoid having their c…*
        
-  - The PlayStation 4 will be able to play PlayStation 5 games remotely
+  - Startup fundraising is the most tangible gender gap. How can we overcome it?
       <hr/>
        
-       - *Well, isn’t this a nice little surprise? This morning some PlayStation 4 owners are reporting the sudden and unexpected arrival of a new “PS5 Remote Play” app. While the app doesn’t do much yet (the PS5 isn’t out yet, after all), it seems meant to let you kee…*
+       - *Closing the gender gap in VC funding is no simple task, but it’s one that must be undertaken.*
       
 
 
