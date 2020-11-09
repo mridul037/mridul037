@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 
-~ Edsger W. Dijkstra
+~ Douglas Crockford
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The computing scientist’s main challenge is not to get confused by the complex
 
 </pre>
 **Daily News**
-  - Cellwize raises $32M to help carriers and their partners adopt and run 5G services
+  - India opens antitrust case against Google over its payments app
      <hr/>
      
-      - *As 5G slowly moves from being a theoretical to an active part of the coverage map for the mobile industry — if not for consumers themselves — companies that are helping carriers make the migration less painful and less costly are seeing a boost of attention. …*
+      - *India’s antitrust watchdog has opened an investigation into Google for allegedly abusing the dominant position of its app store to promote its payments service in the world’s second largest internet market. In its Monday announcement (PDF) about opening an an…*
      
-  - Positive vaccine news punishes pandemic-boosted companies like Zoom, Peloton, Etsy
+  - Qumulo update adds NvME caching for more efficient use of flash storage
       <hr/>
       
-      - *Stock markets worldwide are soaring on news that a vaccine candidate is 90% effective at preventing COVID-19, and could start coming to market in a matter of months. This is upending the stock market, sending futures shares shooting higher in pre-market tradi…*
+      - *Qumulo, the Seattle-based data storage startup, announced a bunch of updates today including support for NvME caching, an approach that should enable customers to access faster flash storage at a lower price point. NvME flash storage development is evolving q…*
       
-  - What's all this about Europe wanting crypto backdoors?
+  - iPhone 12 mini Review: Tiny package, big bang
       <hr/>
       
-      - *A press report emerged over the weekend claiming European lawmakers who are worried about terrorism are speeding towards a ban on end-to-end encryption. Spoiler: It’s a little more nuanced than that. Read on for our break down of what’s actually going on…  Is…*
+      - *Reviewing the iPhone 12 mini and the iPhone 12 Pro Max at the same time has been an exercise in extremes. I noted in my earlier reviews of the iPhone 12 and iPhone 12 Pro that it was difficult to evaluate the middle of the lineup without having the extreme en…*
       
-  - Pfizer's COVID-19 vaccine proves 90% effective in first results from Phase 3 clinical trial
+  - Review: The iPhone 12 Pro Max is worth its handling fee
       <hr/>
       
-      - *The COVID-19 vaccine being developed by Pfizer and its partner BioNTech has shown to be effective blocking vaccine in 90 percent of participants in its Phase 3 clinical trial, the companies announced on Monday. That’s based on data analyzed by an external, in…*
+      - *The iPhone 12 Pro Max is probably the easiest of all of the new iPhone 12 models to review. It’s huge and it has a really, really great camera. Probably one of the best cameras ever in a smartphone if not the best. For those of you coming from an iPhone “Max”…*
        
-  - Apple places supplier Pegatron on probation over labor conditions
+  - Moon exporation startup ispace opens new U.S. office and hires SpaceX to lead development of next lander
       <hr/>
        
-       - *Apple has suspended new business with supplier Pegatron after the Taiwan-based original equipment manufacturer misclassified student workers. Apple also said Pegatron broke its Code of Conduct for suppliers. In a statement provided to Bloomberg, Apple said, “…*
+       - *Japanese startup ispace, which is developing lander technology to support exploration of the Moon, is opening an office in Denver, the company announced today. The Colorado location was chosen because of its access to local aerospace engineering talent, and t…*
       
 
 
