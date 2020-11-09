@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We who cut mere stones must always be envisioning cathedrals.
+Documentation is a love letter that you write to your future self.
 
-~ Quarry worker's creed
+~ Damian Conway
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ We who cut mere stones must always be envisioning cathedrals.
 
 </pre>
 **Daily News**
-  - Original Content podcast: 'The Queen's Gambit' is the historical chess drama we need right now
+  - Tim Berners Lee's startup Inrupt releases Solid privacy platform for enterprises
      <hr/>
      
-      - *On paper, “The Queen’s Gambit” might not sound like a compelling drama: Based on a novel by Walter Tevis, the Netflix series tells the story of Beth Harmon as she rises through the world of competitive chess, eventually taking on the world champion from the S…*
+      - *Inrupt, the startup from World Wide Web founder Tim Berners-Lee, announced an enterprise version of the Solid privacy platform today, which allows large organizations and governments to build applications that put users in control of their data. Berners-Lee h…*
      
+  - Original Content podcast: 'The Queen's Gambit' is the historical chess drama we need right now
+      <hr/>
+      
+      - *On paper, “The Queen’s Gambit” might not sound like a compelling drama: Based on a novel by Walter Tevis, the Netflix series tells the story of Beth Harmon as she rises through the world of competitive chess, eventually taking on the world champion from the S…*
+      
   - What we've learned about working from home 7 months into the pandemic
       <hr/>
       
@@ -81,16 +86,11 @@ We who cut mere stones must always be envisioning cathedrals.
       <hr/>
       
       - *Welcome back to Human Capital and congrats on making it through one of the hardest weeks of the longest year. Now that the Associated Press has called the election in favor of Joe Biden, it should be good news for DEI practitioners, who expressed some worry t…*
-      
+       
   - Here comes the next IPO wave
       <hr/>
-      
-      - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Are you tired? I am. What a week. But, if you kept your eyes off American politics and instead focused on the s…*
        
-  - The gig economy, cannabis and car data are tech-election winners in 2020
-      <hr/>
-       
-       - *As the US settles in for some new form of national gridlock, state and local propositions are busy defining how technology businesses will be allowed to work (legally) in the US.*
+       - *This is The TechCrunch Exchange, a newsletter that goes out on Saturdays, based on the column of the same name. You can sign up for the email here. Are you tired? I am. What a week. But, if you kept your eyes off American politics and instead focused on the s…*
       
 
 
