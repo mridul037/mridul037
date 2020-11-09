@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+Codes are a puzzle. A game, just like any other game.
 
-~ Donald Knuth
+~ Alan Turing
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A programmer who subconsciously views himself as an artist will enjoy what he do
 
 </pre>
 **Daily News**
-  - Get fast money for your space startup at TC Sessions Space this December
+  - Startup fundraising is the most tangible gender gap. How can we overcome it?
      <hr/>
      
-      - *One of the most challenging aspects of running your space startup is access to capital. At TC Sessions Space (December 16 & 17), we’re bringing together some of the top space funding programs to help founders discover how they can tap into grant money to fuel…*
+      - *Closing the gender gap in VC funding is no simple task, but it’s one that must be undertaken.*
      
-  - Early bird savings ends this Friday for TC Sessions Space 2020
+  - Hyundai reportedly in talks to buy SoftBank-owned Boston Dynamics
       <hr/>
       
-      - *Could there be a tech sector more thrilling and daunting than space? We think not. If that’s your orbit, don’t miss TC Sessions: Space 2020 on December 16-17. It’s where you’ll find the industry’s greatest thinkers, makers, shakers and investors. More on that…*
+      - *Boston Dynamics could be set to change hands once again, according to a new report from Bloomberg that cited “people familiar with the matter.” The deal would make Korean automaker Hyundai the third company in seven years to own the robotics firm, following s…*
       
-  - MSCHF's Push Party raises an unconventional seed round at a $200 million valuation
+  - Beyond Meat shares rise on news that it collaborated with McDonald's on the McPlant options
       <hr/>
       
-      - *As part of its latest stunt, MSCHF, a venture-backed creative studio that’s smarter and more audacious than most, is poking a little fun at the venture industry itself and perhaps publications like TechCrunch too. The startup has spun out a rather simplistic …*
+      - *After tumbling earlier today, Beyond Meat shares are shooting upward on news that the company did indeed collaborate with McDonald’s on its new McPlant vegetarian menu. McDonald’s made waves this morning when it announced its new McPlant, and the company’s st…*
       
-  - YouTube copies Spotify's 'Daily Mixes' with its new 'My Mix' feature
+  - Decrypted: Grayshift raises $47M, Apple bugs under attack, video game maker hacked
       <hr/>
       
-      - *YouTube Music is taking another cue from Spotify with today’s launch of a set of personalized playlists that are essentially YouTube Music’s own take on Spotify’s “Daily Mixes.” Each of these new “My Mix” playlists will feature a different aspect of a user&…*
+      - *The election is over, but not without a hitch or two. Some voters in Georgia and Ohio had to use paper ballots after hand sanitizer leaked into voting machines — an unexpected casualty of the pandemic. And a slew of robocalls across a number of swing states u…*
        
-  - Spora Health launches primary care network for Black people and people of color
+  - The PlayStation 4 will be able to play PlayStation 5 games remotely
       <hr/>
        
-       - *A number of healthcare disparities exist for Black people in America, but they can oftentimes go unaddressed due to the lack of education and understanding among medical professionals. Spora Health, which launches today for patients in Virginia, Tennessee, Pe…*
+       - *Well, isn’t this a nice little surprise? This morning some PlayStation 4 owners are reporting the sudden and unexpected arrival of a new “PS5 Remote Play” app. While the app doesn’t do much yet (the PS5 isn’t out yet, after all), it seems meant to let you kee…*
       
 
 
