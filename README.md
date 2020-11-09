@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 
-~ Edsger W. Dijkstra
+~ Richard Stallman
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
 </pre>
 **Daily News**
-  - What happens to high-flying startups if the pandemic trade flips?
+  - Early bird savings ends this Friday for TC Sessions Space 2020
      <hr/>
      
-      - *So much can change in a day. This morning, news that a trial COVID-19 vaccine candidate had an effective rate of more than 90% shook the financial world. The Pfizer vaccine is reportedl;y so effective, the company “will have manufactured enough doses to immun…*
+      - *Could there be a tech sector more thrilling and daunting than space? We think not. If that’s your orbit, don’t miss TC Sessions: Space 2020 on December 16-17. It’s where you’ll find the industry’s greatest thinkers, makers, shakers and investors. More on that…*
      
-  - Zoom settles with FTC after making 'deceptive' security claims
+  - MSCHF's Push Party raises an unconventional seed round at a $200 million valuation
       <hr/>
       
-      - *The FTC said Zoom "engaged in a series of deceptive and unfair practices that undermined the security of its users."*
+      - *As part of its latest stunt, MSCHF, a venture-backed creative studio that’s smarter and more audacious than most, is poking a little fun at the venture industry itself and perhaps publications like TechCrunch too. The startup has spun out a rather simplistic …*
       
-  - Uzabase sells Quartz to the site's CEO and staff
+  - YouTube copies Spotify's 'Daily Mixes' with its new 'My Mix' feature
       <hr/>
       
-      - *Quartz is going private, with co-founder and CEO Zach Seward buying the business news site from its current owner Uzabase. In his post announcing the deal, Seward described the move as a management buyout that will also see Editor in Chief Katherine Bell and …*
+      - *YouTube Music is taking another cue from Spotify with today’s launch of a set of personalized playlists that are essentially YouTube Music’s own take on Spotify’s “Daily Mixes.” Each of these new “My Mix” playlists will feature a different aspect of a user&…*
       
-  - McDonald's to launch a McPlant vegetarian option
+  - Spora Health launches primary care network for Black people and people of color
       <hr/>
       
-      - *McDonalds is developing what it calls a plant-based platform called the McPlant that will debut in markets around the world early next year, according to a report in USA Today. In an investor meeting McDonald’s announced that it had worked to develop its McPl…*
+      - *A number of healthcare disparities exist for Black people in America, but they can oftentimes go unaddressed due to the lack of education and understanding among medical professionals. Spora Health, which launches today for patients in Virginia, Tennessee, Pe…*
        
-  - Apple Music adds 10 new playlists aimed at Gen Z, including one with TikTok hits
+  - Autonomous delivery startup Nuro hits $5 billion valuation on fresh funding of $500 million
       <hr/>
        
-       - *Apple Music is targeting Gen Z users in its battle with Spotify . On Friday, Apple launched ten new Apple Music playlists focused on the music interests of Gen Z users — including one playlist that features the latest tracks to go viral across social media ap…*
+       - *Nuro, the autonomous delivery startup founded by two former Google engineers, has raised $500 million, suggesting that investors still have an appetite for long-term pursuits such as robotics and automated vehicle technology. Nuro now has a post-money valuati…*
       
 
 
