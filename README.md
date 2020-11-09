@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is no reason anyone would want a computer in their home.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Ken Olsen
+~ Quarry worker's creed
 <pre>
 
 </pre>
