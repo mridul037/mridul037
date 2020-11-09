@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 
-~ Tom Cargill
+~ Fred Brooks
 <pre>
 
 </pre>
