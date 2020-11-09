@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Controlling complexity is the essence of computer programming.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Brian Kernighan
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Controlling complexity is the essence of computer programming.
 
 </pre>
 **Daily News**
-  - Uzabase sells Quartz to the site's CEO and staff
+  - What happens to high-flying startups if the pandemic trade flips?
      <hr/>
      
-      - *Quartz is going private, with co-founder and CEO Zach Seward buying the business news site from its current owner Uzabase. In his post announcing the deal, Seward described the move as a management buyout that will also see Editor in Chief Katherine Bell and …*
+      - *So much can change in a day. This morning, news that a trial COVID-19 vaccine candidate had an effective rate of more than 90% shook the financial world. The Pfizer vaccine is reportedl;y so effective, the company “will have manufactured enough doses to immun…*
      
+  - Zoom settles with FTC after making 'deceptive' security claims
+      <hr/>
+      
+      - *The FTC said Zoom "engaged in a series of deceptive and unfair practices that undermined the security of its users."*
+      
+  - Uzabase sells Quartz to the site's CEO and staff
+      <hr/>
+      
+      - *Quartz is going private, with co-founder and CEO Zach Seward buying the business news site from its current owner Uzabase. In his post announcing the deal, Seward described the move as a management buyout that will also see Editor in Chief Katherine Bell and …*
+      
   - McDonald's to launch a McPlant vegetarian option
       <hr/>
       
       - *McDonalds is developing what it calls a plant-based platform called the McPlant that will debut in markets around the world early next year, according to a report in USA Today. In an investor meeting McDonald’s announced that it had worked to develop its McPl…*
-      
+       
   - Apple Music adds 10 new playlists aimed at Gen Z, including one with TikTok hits
       <hr/>
-      
-      - *Apple Music is targeting Gen Z users in its battle with Spotify . On Friday, Apple launched ten new Apple Music playlists focused on the music interests of Gen Z users — including one playlist that features the latest tracks to go viral across social media ap…*
-      
-  - Riverside.fm launches its video podcasting platform
-      <hr/>
-      
-      - *Riveside.fm is a new startup with an easy-to-use platform for recording professional-quality video podcasts. In fact, although the company only recently came out of stealth, it already has a number of high-profile customers including TechCrunch’s parent compa…*
        
-  - Transportation on the ballot, Softbank parks its money in REEF and Tesla Tequila arrives
-      <hr/>
-       
-       - *The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Welcome back to The Station, a newsletter dedicated to all the present and future ways people and pa…*
+       - *Apple Music is targeting Gen Z users in its battle with Spotify . On Friday, Apple launched ten new Apple Music playlists focused on the music interests of Gen Z users — including one playlist that features the latest tracks to go viral across social media ap…*
       
 
 
