@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 
-~ Richard Stallman
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ I consider that the golden rule requires that if I like a program I must share i
 
 </pre>
 **Daily News**
-  - Early bird savings ends this Friday for TC Sessions Space 2020
+  - Get fast money for your space startup at TC Sessions Space this December
      <hr/>
      
-      - *Could there be a tech sector more thrilling and daunting than space? We think not. If that’s your orbit, don’t miss TC Sessions: Space 2020 on December 16-17. It’s where you’ll find the industry’s greatest thinkers, makers, shakers and investors. More on that…*
+      - *One of the most challenging aspects of running your space startup is access to capital. At TC Sessions Space (December 16 & 17), we’re bringing together some of the top space funding programs to help founders discover how they can tap into grant money to fuel…*
      
+  - Early bird savings ends this Friday for TC Sessions Space 2020
+      <hr/>
+      
+      - *Could there be a tech sector more thrilling and daunting than space? We think not. If that’s your orbit, don’t miss TC Sessions: Space 2020 on December 16-17. It’s where you’ll find the industry’s greatest thinkers, makers, shakers and investors. More on that…*
+      
   - MSCHF's Push Party raises an unconventional seed round at a $200 million valuation
       <hr/>
       
@@ -81,16 +86,11 @@ I consider that the golden rule requires that if I like a program I must share i
       <hr/>
       
       - *YouTube Music is taking another cue from Spotify with today’s launch of a set of personalized playlists that are essentially YouTube Music’s own take on Spotify’s “Daily Mixes.” Each of these new “My Mix” playlists will feature a different aspect of a user&…*
-      
+       
   - Spora Health launches primary care network for Black people and people of color
       <hr/>
-      
-      - *A number of healthcare disparities exist for Black people in America, but they can oftentimes go unaddressed due to the lack of education and understanding among medical professionals. Spora Health, which launches today for patients in Virginia, Tennessee, Pe…*
        
-  - Autonomous delivery startup Nuro hits $5 billion valuation on fresh funding of $500 million
-      <hr/>
-       
-       - *Nuro, the autonomous delivery startup founded by two former Google engineers, has raised $500 million, suggesting that investors still have an appetite for long-term pursuits such as robotics and automated vehicle technology. Nuro now has a post-money valuati…*
+       - *A number of healthcare disparities exist for Black people in America, but they can oftentimes go unaddressed due to the lack of education and understanding among medical professionals. Spora Health, which launches today for patients in Virginia, Tennessee, Pe…*
       
 
 
