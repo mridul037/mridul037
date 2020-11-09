@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes it’s just easier to throw a system away, and start over.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 
-~ Joseph Yoder (computer scientist)
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Sometimes it’s just easier to throw a system away, and start over.
 
 </pre>
 **Daily News**
-  - What's all this about Europe wanting crypto backdoors?
+  - Cellwize raises $32M to help carriers and their partners adopt and run 5G services
      <hr/>
      
-      - *A press report emerged over the weekend claiming European lawmakers who are worried about terrorism are speeding towards a ban on end-to-end encryption. Spoiler: It’s a little more nuanced than that. Read on for our break down of what’s actually going on…  Is…*
+      - *As 5G slowly moves from being a theoretical to an active part of the coverage map for the mobile industry — if not for consumers themselves — companies that are helping carriers make the migration less painful and less costly are seeing a boost of attention. …*
      
+  - Positive vaccine news punishes pandemic-boosted companies like Zoom, Peloton, Etsy
+      <hr/>
+      
+      - *Stock markets worldwide are soaring on news that a vaccine candidate is 90% effective at preventing COVID-19, and could start coming to market in a matter of months. This is upending the stock market, sending futures shares shooting higher in pre-market tradi…*
+      
+  - What's all this about Europe wanting crypto backdoors?
+      <hr/>
+      
+      - *A press report emerged over the weekend claiming European lawmakers who are worried about terrorism are speeding towards a ban on end-to-end encryption. Spoiler: It’s a little more nuanced than that. Read on for our break down of what’s actually going on…  Is…*
+      
   - Pfizer's COVID-19 vaccine proves 90% effective in first results from Phase 3 clinical trial
       <hr/>
       
       - *The COVID-19 vaccine being developed by Pfizer and its partner BioNTech has shown to be effective blocking vaccine in 90 percent of participants in its Phase 3 clinical trial, the companies announced on Monday. That’s based on data analyzed by an external, in…*
-      
+       
   - Apple places supplier Pegatron on probation over labor conditions
       <hr/>
-      
-      - *Apple has suspended new business with supplier Pegatron after the Taiwan-based original equipment manufacturer misclassified student workers. Apple also said Pegatron broke its Code of Conduct for suppliers. In a statement provided to Bloomberg, Apple said, “…*
-      
-  - Singapore-based sales productivity platform Nektar raises $2.15 million seed round
-      <hr/>
-      
-      - *Singapore-based Nektar.ai, a productivity platform for sales teams, has raised $2.15 million in seed funding. Founded earlier this year, Nektar has been working in stealth mode with five companies, and has plans for an early adopter release before a public la…*
        
-  - Tim Berners Lee's startup Inrupt releases Solid privacy platform for enterprises
-      <hr/>
-       
-       - *Inrupt, the startup from World Wide Web founder Tim Berners-Lee, announced an enterprise version of the Solid privacy platform today, which allows large organizations and governments to build applications that put users in control of their data. Berners-Lee h…*
+       - *Apple has suspended new business with supplier Pegatron after the Taiwan-based original equipment manufacturer misclassified student workers. Apple also said Pegatron broke its Code of Conduct for suppliers. In a statement provided to Bloomberg, Apple said, “…*
       
 
 
