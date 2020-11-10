@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+Less code equals less bugs.
 
-~ Wayne Ratliff
+~ Kevlin Henney
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ If I had followed my heart instead of advice, dBASE would be much closer to perf
 
 </pre>
 **Daily News**
-  - Europe lays out antitrust case against Amazon's use of big data
+  - Uber will now let users book rides 30 days in advance and pick a favorite driver
      <hr/>
      
-      - *The European Commission has laid out a first set of antitrust charges against Amazon focused on its dual role as a platform for other sellers but also a retailer itself on its own platform — and its cumulative use of third party merchant data to underpin Amaz…*
+      - *Uber is rolling out a new feature this week that will let users reserve rides up to 30 days in advance and pick their favorite driver for the trip as the ride-hailing company seeks out new ways to attract customers during the COVID-19 pandemic. The new option…*
      
-  - Hopin raises $125M for its online events platform on the back of surging growth
+  - Tailscale raises $12 million for its WireGuard-based corporate VPN
       <hr/>
       
-      - *This morning Hopin, a startup that provides online events software, announced that it has closed a $125 million Series B round of capital. The new funds come mere months after Hopin raised a $40 million Series A this summer. According to Hopin CEO Johnny Bouf…*
+      - *Tailscale has raised a $12 million funding round. Accel is leading the round with Heavybit and Uncork Capital also participating. The company is building a better corporate VPN by leveraging a modern protocol and focusing on ease of implementation. A VPN, or …*
       
-  - Alphabet's X partners with Econet Group to roll out Project Taara wireless light-beam broadband in Africa
+  - Nigeria's Kuda raises $10M to be the mobile-first challenger bank for Africa
       <hr/>
       
-      - *Alphabet’s X ‘Moonshot Factory’ subsidiary has a lot of cutting edge projects in development, so it’s always exciting when one of them gets ready for real-world deployment. On Tuesday, X announced that its ‘Project Taara’ high-speed optical wireless broadband…*
+      - *The African continent is currently one of the fastest-growing regions when it comes to mobile growth, and financial technology companies that are building services to meet that rapidly-expanding market are getting a lot of attention. In the latest development…*
       
-  - Renewable power represents almost 90% of total global power capacity added in 2020
+  - Live from Apple's 2020 Mac event featuring the first ever Apple Silicon Macs
       <hr/>
       
-      - *Bucking the slowdown in most of the power sector caused by responses to the COVID-19 pandemic, renewable energy actually grew in 2020, and will represent about 90% of the total power capacity added for the year, according to the International Energy Agency. A…*
+      - *Apple’s had a packed fall, and today is the day of its third big product reveal event this season. This one is going to be squarely focused on the first Macs with Apple Silicon, the company’s first in-house processors designed for its macOS computers. Apple a…*
        
-  - Patreon and Acast partner for patron-only podcast distribution
+  - Qualcomm Ventures invests in four 5G startups
       <hr/>
        
-       - *Patreon and Acast are teaming up to make it easier for podcasters to publish episodes that are only available to the patrons financially supporting them on Patreon. Most paywall solutions for podcasts are pretty clunky or limited. That’s why Acast launched te…*
+       - *Qualcomm Ventures, Qualcomm’s investment arm, today announced four new strategic investments in 5G-related startups. These companies are private mobile network specialist Celona, mobile network automation platform Cellwize, the edge computing platform Azion a…*
       
 
 
