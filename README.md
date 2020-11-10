@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ Manuel Blum
+~ Ted Nelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The only difference between a FA [finite automata] and a TM [Turing machine] is 
 
 </pre>
 **Daily News**
-  - Twitter may slow down users' ability to 'like' tweets containing misinformation
+  - Beyond Meat earnings miss big on declining food service and consumer demand
      <hr/>
      
-      - *Twitter is working to expand the use of its “misinformation” labels on misleading tweets. The company has developed a new feature, not yet live, that would pop up a “misleading information” label when a user tries to “Like” a tweet that’s been labeled as mi…*
+      - *Beyond Meat’s partnership with McDonald’s to develop the McPlant burger wasn’t enough to keep shares from collapsing after the company posted third-quarter earnings that fell far below analysts’ expectations. The big miss sent shares tumbling nearly 29% in af…*
      
-  - Uber has its highest close since IPO
+  - Gillmor Gang: Check, Please
       <hr/>
       
-      - *Uber shares surged 7.38% to close at $48.18 following news that a vaccine candidate is 90% effective at preventing COVID-19, and could start coming to market in a matter of months. The announcement by drugmakers Pfizer and BioNTech sparked widespread optimism…*
+      - *When we recorded this Gillmor Gang, it was Day Four post election, or midweek in counting the late incoming mail and other provisional ballots. We were largely convinced of the Biden victory, but that nagging doubt instilled in us by 2016 still pervaded the Z…*
       
-  - NASA partners with SpaceX, Rocket Lab, Blue Origin and others for test flights and research
+  - All Slingbox devices will stop working in two years
       <hr/>
       
-      - *NASA has announced 20 new partnerships with commercial space outfits, among them collaborations with SpaceX, Blue Origin, and Rocket Lab. While no money will change hands, NASA will dedicate millions in personnel and other support to these test launches and d…*
+      - *Back before just about every major TV network built a streaming app of their own, watching live TV on your smartphone was… tricky. One of the first relatively simple options was the Slingbox. You’d set it up between your cable box and your TV, plug it into yo…*
       
-  - Adobe acquires marketing workflow startup Workfront for $1.5B
+  - Daily Crunch: Reviewing the biggest and smallest new iPhones
       <hr/>
       
-      - *Adobe just announced that it is acquiring marketing workflow management startup Workfront for $1.5 billion. Bloomberg first reported the sale would be happening earlier today. Workfront was founded back in 2001, making it a bit long in tooth for a private com…*
+      - *We review the iPhone 12 Pro Max and the iPhone 12 mini, Zoom settles with the FTC and Pfizer announces promising results for its COVID-19 vaccine trial. This is your Daily Crunch for November 9, 2020. The big story: Reviewing the biggest and smallest new iPho…*
        
-  - Indian logistics startup Xpressbees raises $110 million
+  - Twitter may slow down users' ability to 'like' tweets containing misinformation
       <hr/>
        
-       - *Xpressbees, an Indian logistics firm that works with several e-commerce firms in the country, said on Monday it has raised $110 million in a new financing round as online shopping booms in the world’s second largest internet market. The Pune-headquartered sta…*
+       - *Twitter is working to expand the use of its “misinformation” labels on misleading tweets. The company has developed a new feature, not yet live, that would pop up a “misleading information” label when a user tries to “Like” a tweet that’s been labeled as mi…*
       
 
 
