@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-AI is a fundamental risk to the existence of human civilization.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
-~ Elon Musk
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ AI is a fundamental risk to the existence of human civilization.
 
 </pre>
 **Daily News**
-  - China proposes antitrust law ahead of Singles' Day shopping spree
+  - Renewable power represents almost 90% of total global power capacity added in 2020
      <hr/>
      
-      - *Debates over anti-competitive practices amongst China’s internet firms resurface every year in the lead up to Singles’ Day, a time when online retailers exhaust their resources and deploy sometimes sneaky tactics to attract vendors and shoppers. This year, ju…*
+      - *Bucking the slowdown in most of the power sector caused by responses to the COVID-19 pandemic, renewable energy actually grew in 2020, and will represent about 90% of the total power capacity added for the year, according to the International Energy Agency. A…*
      
+  - Patreon and Acast partner for patron-only podcast distribution
+      <hr/>
+      
+      - *Patreon and Acast are teaming up to make it easier for podcasters to publish episodes that are only available to the patrons financially supporting them on Patreon. Most paywall solutions for podcasts are pretty clunky or limited. That’s why Acast launched te…*
+      
+  - E-scooter startup Tier raises $250 million round led by SoftBank Vision Fund 2
+      <hr/>
+      
+      - *Berlin-based micro-mobility startup Tier has raised a significant Series C round of $250 million. SoftBank Vision Fund 2 is leading the round, which proves that the Vision Fund team is still focused on high-risk, high-potential bets. As a reminder, SoftBank h…*
+      
+  - China proposes antitrust law ahead of Singles' Day shopping spree
+      <hr/>
+      
+      - *Debates over anti-competitive practices amongst China’s internet firms resurface every year in the lead up to Singles’ Day, a time when online retailers exhaust their resources and deploy sometimes sneaky tactics to attract vendors and shoppers. This year, ju…*
+       
   - Watch Apple unveil the first ARM-based Mac live right here
       <hr/>
-      
-      - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
-      
-  - Mirror founder Brynn Putnam on life with Lululemon -- and whether or not she sold too soon
-      <hr/>
-      
-      - *Brynn Putnam has a lot to feel great about. A Harvard grad and former professional ballet dancer who opened the first of what have become three high-intensity fitness studios in New York, she then launched a second business in 2016 when — while pregnant with …*
-      
-  - Hong Kong insurtech startup Coherent gets $14 million Series A led by Cathay Innovation
-      <hr/>
-      
-      - *Based in Hong Kong, Coherent helps insurance providers go digital. With their services more relevant than ever during the COVID-19 pandemic, the startup announced it has raised $14 million in new funding. The Series A round, led by Cathay Innovation with part…*
        
-  - Despite global headwinds, Chinese hardware startups remain to take on the world
-      <hr/>
-       
-       - *Bill Zhang lowered himself into lunges on a squishy mat as he explained to me the benefits of the full-body training suit he was wearing. We were in his small, modest office in Xili, a university area in Shenzhen that’s also home to many hardware makers. The …*
+       - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
       
 
 
