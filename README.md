@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-In programming the hard part isn’t solving problems, but deciding what problems to solve.
+AI is a fundamental risk to the existence of human civilization.
 
-~ Paul Graham (programmer)
+~ Elon Musk
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ In programming the hard part isn’t solving problems, but deciding what problem
 
 </pre>
 **Daily News**
-  - Watch Apple unveil the first ARM-based Mac live right here
+  - China proposes antitrust law ahead of Singles' Day shopping spree
      <hr/>
      
-      - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
+      - *Debates over anti-competitive practices amongst China’s internet firms resurface every year in the lead up to Singles’ Day, a time when online retailers exhaust their resources and deploy sometimes sneaky tactics to attract vendors and shoppers. This year, ju…*
      
+  - Watch Apple unveil the first ARM-based Mac live right here
+      <hr/>
+      
+      - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
+      
   - Mirror founder Brynn Putnam on life with Lululemon -- and whether or not she sold too soon
       <hr/>
       
@@ -81,16 +86,11 @@ In programming the hard part isn’t solving problems, but deciding what problem
       <hr/>
       
       - *Based in Hong Kong, Coherent helps insurance providers go digital. With their services more relevant than ever during the COVID-19 pandemic, the startup announced it has raised $14 million in new funding. The Series A round, led by Cathay Innovation with part…*
-      
+       
   - Despite global headwinds, Chinese hardware startups remain to take on the world
       <hr/>
-      
-      - *Bill Zhang lowered himself into lunges on a squishy mat as he explained to me the benefits of the full-body training suit he was wearing. We were in his small, modest office in Xili, a university area in Shenzhen that’s also home to many hardware makers. The …*
        
-  - The race to be China's top fintech platform: Ant vs Tencent
-      <hr/>
-       
-       - *As Ant Group seizes the world’s attention with its record initial public offering, which was abruptly called off by Beijing, investors and analysts are revisiting Tencent’s fintech interests, recognized as Ant’s archrival in China. It’s somewhat complicated t…*
+       - *Bill Zhang lowered himself into lunges on a squishy mat as he explained to me the benefits of the full-body training suit he was wearing. We were in his small, modest office in Xili, a university area in Shenzhen that’s also home to many hardware makers. The …*
       
 
 
