@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 
-~ Grady Booch
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The amateur software engineer is always in search of magic, some sensational met
 
 </pre>
 **Daily News**
-  - Despite global headwinds, Chinese hardware startups remain to take on the world
+  - Hong Kong insurtech startup Coherent gets $14 million Series A led by Cathay Innovation
      <hr/>
      
-      - *Bill Zhang lowered himself into lunges on a squishy mat as he explained to me the benefits of the full-body training suit he was wearing. We were in his small, modest office in Xili, a university area in Shenzhen that’s also home to many hardware makers. The …*
+      - *Based in Hong Kong, Coherent helps insurance providers go digital. With their services more relevant than ever during the COVID-19 pandemic, the startup announced it has raised $14 million in new funding. The Series A round, led by Cathay Innovation with part…*
      
+  - Despite global headwinds, Chinese hardware startups remain to take on the world
+      <hr/>
+      
+      - *Bill Zhang lowered himself into lunges on a squishy mat as he explained to me the benefits of the full-body training suit he was wearing. We were in his small, modest office in Xili, a university area in Shenzhen that’s also home to many hardware makers. The …*
+      
   - The race to be China's top fintech platform: Ant vs Tencent
       <hr/>
       
@@ -81,16 +86,11 @@ The amateur software engineer is always in search of magic, some sensational met
       <hr/>
       
       - *Elon Musk’s tunneling and transportation startup The Boring Company is eyeing Austin for its next project based on several new job postings. The Boring Company, which last year landed a deal to construct and operate a “people mover” for the Las Vegas Conventi…*
-      
+       
   - Sony prepares to enter the drone game with Airpeak
       <hr/>
-      
-      - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
        
-  - Beyond Meat earnings miss big on declining food service and consumer demand
-      <hr/>
-       
-       - *Beyond Meat’s partnership with McDonald’s to develop the McPlant burger wasn’t enough to keep shares from collapsing after the company posted third-quarter earnings that fell far below analysts’ expectations. The big miss sent shares tumbling nearly 29% in af…*
+       - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
       
 
 
