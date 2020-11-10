@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 
-~ Rick Osborne
+~ Eric S. Raymond
 <pre>
 
 </pre>
