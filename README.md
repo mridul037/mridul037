@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+The most important part of writing a program is designing the data structures.
 
-~ Lawrence Flon
+~ Dan Bricklin
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ There is no programming language, no matter how structured, that will prevent pr
 
 </pre>
 **Daily News**
-  - Accelerators embrace change forced by pandemic
+  - IBM CEO Arvind Krishna wants to completely transform his organization
      <hr/>
      
-      - *Accelerators have become a major force in the startup world, but these teeming masses of potential have been forced, like every other industry, to adopt major changes with the pandemic. Surprisingly, however, they have not just rolled with the punches but see…*
+      - *When IBM announced it was spinning out its infrastructure services business last month, it was surely a sign that the company was going all in on hybrid cloud. Today in an interview with Jon Fortt at the CNBC Evolve summit, IBM CEO Arvind Krishna made it clea…*
      
+  - Accelerators embrace change forced by pandemic
+      <hr/>
+      
+      - *Accelerators have become a major force in the startup world, but these teeming masses of potential have been forced, like every other industry, to adopt major changes with the pandemic. Surprisingly, however, they have not just rolled with the punches but see…*
+      
   - Apple's new Mac lineup and chip work fail to excite investors
       <hr/>
       
@@ -81,16 +86,11 @@ There is no programming language, no matter how structured, that will prevent pr
       <hr/>
       
       - *Monday’s news that a COVID-19 vaccine candidate looks to be incredibly effective gave investors reasons to believe in a better future. Perhaps COVID-19 won’t be with us for years, investors appeared to think, but will instead become something that we can bend…*
-      
+       
   - Here's everything Apple announced at the "One More Thing" event today
       <hr/>
-      
-      - *Ready for more Apple news? Because it’s time for more Apple news. This morning the company hosted its third event in as many months, where they finally detailed how and why they’ll be shifting Macs to chips designed and built by Apple and showed off the first…*
        
-  - iOS apps can run on Apple's new Apple Silicon Macs
-      <hr/>
-       
-       - *Apple announced today its new Apple Silicon Macs would be capable of running a wider range of apps than before, even in the case where an iOS developer hasn’t released a Mac -compatible version of their mobile experience. The company said macOS Big Sur would …*
+       - *Ready for more Apple news? Because it’s time for more Apple news. This morning the company hosted its third event in as many months, where they finally detailed how and why they’ll be shifting Macs to chips designed and built by Apple and showed off the first…*
       
 
 
