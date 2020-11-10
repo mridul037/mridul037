@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Ken Thompson
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Documenting is very, very hard; it’s time-consuming. To do it right, you’ve 
 
 </pre>
 **Daily News**
-  - Sony prepares to enter the drone game with Airpeak
+  - Elon Musk's Boring Company is setting up operations in Austin
      <hr/>
      
-      - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
+      - *Elon Musk’s tunneling and transportation startup The Boring Company is eyeing Austin for its next project based on several new job postings. The Boring Company, which last year landed a deal to construct and operate a “people mover” for the Las Vegas Conventi…*
      
+  - Sony prepares to enter the drone game with Airpeak
+      <hr/>
+      
+      - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
+      
   - Beyond Meat earnings miss big on declining food service and consumer demand
       <hr/>
       
@@ -81,16 +86,11 @@ Documenting is very, very hard; it’s time-consuming. To do it right, you’ve 
       <hr/>
       
       - *When we recorded this Gillmor Gang, it was Day Four post election, or midweek in counting the late incoming mail and other provisional ballots. We were largely convinced of the Biden victory, but that nagging doubt instilled in us by 2016 still pervaded the Z…*
-      
+       
   - All Slingbox devices will stop working in two years
       <hr/>
-      
-      - *Back before just about every major TV network built a streaming app of their own, watching live TV on your smartphone was… tricky. One of the first relatively simple options was the Slingbox. You’d set it up between your cable box and your TV, plug it into yo…*
        
-  - Daily Crunch: Reviewing the biggest and smallest new iPhones
-      <hr/>
-       
-       - *We review the iPhone 12 Pro Max and the iPhone 12 mini, Zoom settles with the FTC and Pfizer announces promising results for its COVID-19 vaccine trial. This is your Daily Crunch for November 9, 2020. The big story: Reviewing the biggest and smallest new iPho…*
+       - *Back before just about every major TV network built a streaming app of their own, watching live TV on your smartphone was… tricky. One of the first relatively simple options was the Slingbox. You’d set it up between your cable box and your TV, plug it into yo…*
       
 
 
