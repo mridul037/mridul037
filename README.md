@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 
-~ Hal Abelson
+~ Fred Brooks
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The programs we use to conjure processes are like a sorcerer's spells. They are 
 
 </pre>
 **Daily News**
-  - Pioneers of in-space refueling and manufacturing join TC Sessions: Space 2020
+  - HBO releases a wellness-focused AR app to promote 'His Dark Materials'
      <hr/>
      
-      - *One of the problems with putting a satellite in orbit is that once you do, it’s pretty much out of your hands. If anything goes wrong, or it runs out of fuel, that’s all she wrote. Fortunately there are companies that aim to change this, and three leaders in …*
+      - *With the second season of “His Dark Materials” premiering on HBO on November 16, the network has partnered with creative studio Framestore to create a new iOS and Apple Watch app called His Dark Materials: My Daemon. The free app gives fans of the show (and t…*
      
-  - With $29M in funding, Isovalent launches its cloud-native networking and security platform
+  - Spearhead launches $100M fourth fund to transform founders into top-notch VC investors
       <hr/>
       
-      - *Isovalent, a startup that aims to bring networking into the cloud-native era, today announced that it has raised a $29 million Series A round led by Andreesen Horowitz and Google. In addition, the company today officially launched its Cilium platform (which w…*
+      - *Venture capital continues to get a founder makeover. Two years ago, I profiled Spearhead, a new program and fund created by Jeff Fagnan at Accomplice and Naval Ravikant, the co-founder of AngelList, to mentor leading founders into becoming the next-generation…*
       
-  - Waze CEO Noam Bardin to leave company in early 2021
+  - Twitter could face its first GDPR penalty within days
       <hr/>
       
-      - *Waze CEO Noam Bardin, who joined the company nearly 12 years ago and led it through its acquisition by Google to become a crowdsourced navigation app with millions of active users, is stepping down early next year. Bardin had planned to announce his departure…*
+      - *European data protection regulators have inched toward an enforcement decision for a Twitter breach that the company publicly disclosed in 2019, after a majority of EU data supervisors agreed to back a draft settlement submitted earlier by Ireland’s Data Prot…*
       
-  - Carbon Health raises $100 million with plans to expand pop-up clinics ahead of COVID-19 vaccination programs
+  - Treviranus, Butler and Fruchterman to speak  at Sight Tech Global
       <hr/>
       
-      - *Carbon Health has raised a $100 million Series C funding round, led by Dragoneer Investment Group and including participation from prior investors Brookfield Technology Partners, DCVC and Builders VC. This funding will be used to help the SF-based healthcare …*
+      - *Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps g…*
        
-  - Roblox to host its first virtual concert, featuring Lil Nas X
+  - New forecast pegs TikTok to top 1.2B monthly active users in 2021
       <hr/>
        
-       - *Roblox this morning announced a partnership with Columbia Records that will allow it to bring a virtual concert experience featuring Lil Nas X to its gaming platform. Notably, this will be Roblox’s first-ever virtual concert, and follows similar events that h…*
+       - *TikTok’s upward trajectory is expected to continue in 2021, according to a new forecast from mobile data and analytics firm App Annie, which estimates the short-form video app will surpass the 1 billion monthly active user mark next year. The expanded forecas…*
       
 
 
