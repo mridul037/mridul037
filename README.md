@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Less code equals less bugs.
+Deleted code is debugged code.
 
-~ Kevlin Henney
+~ Jeff Sickel
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Less code equals less bugs.
 
 </pre>
 **Daily News**
-  - Uber will now let users book rides 30 days in advance and pick a favorite driver
+  - Spotify buying podcast hosting and ad company Megaphone for $235M
      <hr/>
      
-      - *Uber is rolling out a new feature this week that will let users reserve rides up to 30 days in advance and pick their favorite driver for the trip as the ride-hailing company seeks out new ways to attract customers during the COVID-19 pandemic. The new option…*
+      - *Spotify has come under fire of late over questions around musician compensation, but when it comes to podcasting, it has money to burn. This morning, the streaming service confirmed its acquisition of Megaphone for a reported $235 million. Launched by The Sla…*
      
-  - Tailscale raises $12 million for its WireGuard-based corporate VPN
+  - Remote raises $35M to help orgs with global workforce payroll, benefits and more
       <hr/>
       
-      - *Tailscale has raised a $12 million funding round. Accel is leading the round with Heavybit and Uncork Capital also participating. The company is building a better corporate VPN by leveraging a modern protocol and focusing on ease of implementation. A VPN, or …*
+      - *Remote working has become the norm in many offices around the world this year, as organizations do what they can to help contain the rapid transmission of Covid-19 by reducing in-person interactions between workers. That’s also meant a renewed focus on how co…*
       
-  - Nigeria's Kuda raises $10M to be the mobile-first challenger bank for Africa
+  - Why I left edtech and got into gaming
       <hr/>
       
-      - *The African continent is currently one of the fastest-growing regions when it comes to mobile growth, and financial technology companies that are building services to meet that rapidly-expanding market are getting a lot of attention. In the latest development…*
+      - *While there were risks to gaming, the large and growing market size, resilient economic model and high engagement rates were compelling enough to look past them.*
       
-  - Live from Apple's 2020 Mac event featuring the first ever Apple Silicon Macs
+  - Walmart and Cruise partner to test autonomous grocery delivery in Arizona
       <hr/>
       
-      - *Apple’s had a packed fall, and today is the day of its third big product reveal event this season. This one is going to be squarely focused on the first Macs with Apple Silicon, the company’s first in-house processors designed for its macOS computers. Apple a…*
+      - *U.S. retailer Walmart and autonomous vehicle company Cruise are pairing up to test grocery delivery in Scottsdale, Arizona. Under the pilot program, customers will be able to place an order from their local Walmart store and have it delivered via one of Cruis…*
        
-  - Qualcomm Ventures invests in four 5G startups
+  - JumpCloud raises $75M Series E as cloud directory service thrives during pandemic
       <hr/>
        
-       - *Qualcomm Ventures, Qualcomm’s investment arm, today announced four new strategic investments in 5G-related startups. These companies are private mobile network specialist Celona, mobile network automation platform Cellwize, the edge computing platform Azion a…*
+       - *JumpCloud, the cloud directory service that debuted at TechCrunch Disrupt Battlefield in 2013, announced a $75 million Series E today. The round was led by BlackRock with participation from existing investor General Atlantic. The company wasn’t willing to dis…*
       
 
 
