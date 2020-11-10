@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
 
-~ Jamie Zawinski
+~ Hal Abelson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Professionalism has no place in art, and hacking is art. Software Engineering mi
 
 </pre>
 **Daily News**
-  - Carbon Health raises $100 million with plans to expand pop-up clinics ahead of COVID-19 vaccination programs
+  - Pioneers of in-space refueling and manufacturing join TC Sessions: Space 2020
      <hr/>
      
-      - *Carbon Health has raised a $100 million Series C funding round, led by Dragoneer Investment Group and including participation from prior investors Brookfield Technology Partners, DCVC and Builders VC. This funding will be used to help the SF-based healthcare …*
+      - *One of the problems with putting a satellite in orbit is that once you do, it’s pretty much out of your hands. If anything goes wrong, or it runs out of fuel, that’s all she wrote. Fortunately there are companies that aim to change this, and three leaders in …*
      
+  - With $29M in funding, Isovalent launches its cloud-native networking and security platform
+      <hr/>
+      
+      - *Isovalent, a startup that aims to bring networking into the cloud-native era, today announced that it has raised a $29 million Series A round led by Andreesen Horowitz and Google. In addition, the company today officially launched its Cilium platform (which w…*
+      
+  - Waze CEO Noam Bardin to leave company in early 2021
+      <hr/>
+      
+      - *Waze CEO Noam Bardin, who joined the company nearly 12 years ago and led it through its acquisition by Google to become a crowdsourced navigation app with millions of active users, is stepping down early next year. Bardin had planned to announce his departure…*
+      
+  - Carbon Health raises $100 million with plans to expand pop-up clinics ahead of COVID-19 vaccination programs
+      <hr/>
+      
+      - *Carbon Health has raised a $100 million Series C funding round, led by Dragoneer Investment Group and including participation from prior investors Brookfield Technology Partners, DCVC and Builders VC. This funding will be used to help the SF-based healthcare …*
+       
   - Roblox to host its first virtual concert, featuring Lil Nas X
       <hr/>
-      
-      - *Roblox this morning announced a partnership with Columbia Records that will allow it to bring a virtual concert experience featuring Lil Nas X to its gaming platform. Notably, this will be Roblox’s first-ever virtual concert, and follows similar events that h…*
-      
-  - Explo snags $2.3M seed to help build customer-facing BI dashboards
-      <hr/>
-      
-      - *Explo, a member of the Y Combinator Winter 2020 class, which is helping customers build customer-facing business intelligence dashboards, announced a $2.3 million seed round today. Investors included Amplo VC, Soma Capital and Y Combinator along with several …*
-      
-  - Hear from TMV's Soraya Darabi on how to land your first yes from an investor today at 11 a.m. PT, 2 p.m. ET
-      <hr/>
-      
-      - *Today at 11:00 a.m. PT/2:00 p.m. ET, we’re bringing venture capitalist Soraya Darabi of TMV to the Extra Crunch Live stage to talk about how to get that first “yes” as an early-stage company and which founder mistakes often lead her to say “no.” You’ll need t…*
        
-  - Spotify buying podcast hosting and ad company Megaphone for $235M
-      <hr/>
-       
-       - *Spotify has come under fire of late over questions around musician compensation, but when it comes to podcasting, it has money to burn. This morning, the streaming service confirmed its acquisition of Megaphone for a reported $235 million. Launched by The Sla…*
+       - *Roblox this morning announced a partnership with Columbia Records that will allow it to bring a virtual concert experience featuring Lil Nas X to its gaming platform. Notably, this will be Roblox’s first-ever virtual concert, and follows similar events that h…*
       
 
 
