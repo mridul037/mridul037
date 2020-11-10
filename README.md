@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 
-~ Donald Knuth
+~ Wayne Ratliff
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ We should forget about small efficiencies, say about 97% of the time: premature 
 
 </pre>
 **Daily News**
-  - Renewable power represents almost 90% of total global power capacity added in 2020
+  - Europe lays out antitrust case against Amazon's use of big data
      <hr/>
      
-      - *Bucking the slowdown in most of the power sector caused by responses to the COVID-19 pandemic, renewable energy actually grew in 2020, and will represent about 90% of the total power capacity added for the year, according to the International Energy Agency. A…*
+      - *The European Commission has laid out a first set of antitrust charges against Amazon focused on its dual role as a platform for other sellers but also a retailer itself on its own platform — and its cumulative use of third party merchant data to underpin Amaz…*
      
+  - Hopin raises $125M for its online events platform on the back of surging growth
+      <hr/>
+      
+      - *This morning Hopin, a startup that provides online events software, announced that it has closed a $125 million Series B round of capital. The new funds come mere months after Hopin raised a $40 million Series A this summer. According to Hopin CEO Johnny Bouf…*
+      
+  - Alphabet's X partners with Econet Group to roll out Project Taara wireless light-beam broadband in Africa
+      <hr/>
+      
+      - *Alphabet’s X ‘Moonshot Factory’ subsidiary has a lot of cutting edge projects in development, so it’s always exciting when one of them gets ready for real-world deployment. On Tuesday, X announced that its ‘Project Taara’ high-speed optical wireless broadband…*
+      
+  - Renewable power represents almost 90% of total global power capacity added in 2020
+      <hr/>
+      
+      - *Bucking the slowdown in most of the power sector caused by responses to the COVID-19 pandemic, renewable energy actually grew in 2020, and will represent about 90% of the total power capacity added for the year, according to the International Energy Agency. A…*
+       
   - Patreon and Acast partner for patron-only podcast distribution
       <hr/>
-      
-      - *Patreon and Acast are teaming up to make it easier for podcasters to publish episodes that are only available to the patrons financially supporting them on Patreon. Most paywall solutions for podcasts are pretty clunky or limited. That’s why Acast launched te…*
-      
-  - E-scooter startup Tier raises $250 million round led by SoftBank Vision Fund 2
-      <hr/>
-      
-      - *Berlin-based micro-mobility startup Tier has raised a significant Series C round of $250 million. SoftBank Vision Fund 2 is leading the round, which proves that the Vision Fund team is still focused on high-risk, high-potential bets. As a reminder, SoftBank h…*
-      
-  - China proposes antitrust law ahead of Singles' Day shopping spree
-      <hr/>
-      
-      - *Debates over anti-competitive practices amongst China’s internet firms resurface every year in the lead up to Singles’ Day, a time when online retailers exhaust their resources and deploy sometimes sneaky tactics to attract vendors and shoppers. This year, ju…*
        
-  - Watch Apple unveil the first ARM-based Mac live right here
-      <hr/>
-       
-       - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
+       - *Patreon and Acast are teaming up to make it easier for podcasters to publish episodes that are only available to the patrons financially supporting them on Patreon. Most paywall solutions for podcasts are pretty clunky or limited. That’s why Acast launched te…*
       
 
 
