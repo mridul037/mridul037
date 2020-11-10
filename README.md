@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 
-~ Fred Brooks
+~ Charles Simonyi
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ First, my wife, my colleagues, and my editors find me to err far more often in o
 
 </pre>
 **Daily News**
-  - HBO releases a wellness-focused AR app to promote 'His Dark Materials'
+  - Apple updates Mac Mini with Apple-designed M1 chip
      <hr/>
      
-      - *With the second season of “His Dark Materials” premiering on HBO on November 16, the network has partnered with creative studio Framestore to create a new iOS and Apple Watch app called His Dark Materials: My Daemon. The free app gives fans of the show (and t…*
+      - *In addition to the MacBook Air, Apple also introduced a new Mac Mini. It runs Apple’s first custom chipset specifically designed for Mac computers, the M1. It still features the same familiar design, but it now uses an Arm-based chip. “If you compare a Mac mi…*
      
-  - Spearhead launches $100M fourth fund to transform founders into top-notch VC investors
+  - Apple will release macOS Big Sur on November 12
       <hr/>
       
-      - *Venture capital continues to get a founder makeover. Two years ago, I profiled Spearhead, a new program and fund created by Jeff Fagnan at Accomplice and Naval Ravikant, the co-founder of AngelList, to mentor leading founders into becoming the next-generation…*
+      - *The new Mac software comes with a new and refreshed user interface, new features, and performance improvements.*
       
-  - Twitter could face its first GDPR penalty within days
+  - The 13-inch MacBook Pro gets Apple's new M1 chip, starting at $1,299
       <hr/>
       
-      - *European data protection regulators have inched toward an enforcement decision for a Twitter breach that the company publicly disclosed in 2019, after a majority of EU data supervisors agreed to back a draft settlement submitted earlier by Ireland’s Data Prot…*
+      - *And just like that, we’ve got three new devices sporting Apple’s new proprietary chips. Following its announcement of a new MacBook Air and Mac Mini, the company just upgraded another popular model. The 13-inch MacBook Pro will be one of the first three model…*
       
-  - Treviranus, Butler and Fruchterman to speak  at Sight Tech Global
+  - This is the new $999 MacBook Air, powered by Apple silicon
       <hr/>
       
-      - *Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps g…*
+      - *It’s official. The first MacBook to sport Apple’s own silicon is here. The perennial favorite thin and light is on the way, featuring the company’s new M1 chip — it’s first desktop CPU built in-house. The system looks to be largely identical to the last sever…*
        
-  - New forecast pegs TikTok to top 1.2B monthly active users in 2021
+  - Apple announces the M1, the first member of its Apple Silicon family
       <hr/>
        
-       - *TikTok’s upward trajectory is expected to continue in 2021, according to a new forecast from mobile data and analytics firm App Annie, which estimates the short-form video app will surpass the 1 billion monthly active user mark next year. The expanded forecas…*
+       - *As expected, Apple today announced its first Arm-based Mac and with that, it also announced its family of Arm-based Apple Silicon chips. When it first announced Apple Silicon, the company didn’t provide a lot of details, but in today’s presentation, we learne…*
       
 
 
