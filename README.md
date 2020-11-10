@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 
-~ Ted Nelson
+~ Ken Thompson
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ A user interface should be so simple that a beginner in an emergency can underst
 
 </pre>
 **Daily News**
-  - Beyond Meat earnings miss big on declining food service and consumer demand
+  - Sony prepares to enter the drone game with Airpeak
      <hr/>
      
-      - *Beyond Meat’s partnership with McDonald’s to develop the McPlant burger wasn’t enough to keep shares from collapsing after the company posted third-quarter earnings that fell far below analysts’ expectations. The big miss sent shares tumbling nearly 29% in af…*
+      - *Sony has announced that it is entering the drone market with a new brand called Airpeak, though the specifics of the drone itself are left something of a mystery. It plans to launch the project next spring. The barebones announcement says only that Sony has b…*
      
+  - Beyond Meat earnings miss big on declining food service and consumer demand
+      <hr/>
+      
+      - *Beyond Meat’s partnership with McDonald’s to develop the McPlant burger wasn’t enough to keep shares from collapsing after the company posted third-quarter earnings that fell far below analysts’ expectations. The big miss sent shares tumbling nearly 29% in af…*
+      
   - Gillmor Gang: Check, Please
       <hr/>
       
@@ -81,16 +86,11 @@ A user interface should be so simple that a beginner in an emergency can underst
       <hr/>
       
       - *Back before just about every major TV network built a streaming app of their own, watching live TV on your smartphone was… tricky. One of the first relatively simple options was the Slingbox. You’d set it up between your cable box and your TV, plug it into yo…*
-      
+       
   - Daily Crunch: Reviewing the biggest and smallest new iPhones
       <hr/>
-      
-      - *We review the iPhone 12 Pro Max and the iPhone 12 mini, Zoom settles with the FTC and Pfizer announces promising results for its COVID-19 vaccine trial. This is your Daily Crunch for November 9, 2020. The big story: Reviewing the biggest and smallest new iPho…*
        
-  - Twitter may slow down users' ability to 'like' tweets containing misinformation
-      <hr/>
-       
-       - *Twitter is working to expand the use of its “misinformation” labels on misleading tweets. The company has developed a new feature, not yet live, that would pop up a “misleading information” label when a user tries to “Like” a tweet that’s been labeled as mi…*
+       - *We review the iPhone 12 Pro Max and the iPhone 12 mini, Zoom settles with the FTC and Pfizer announces promising results for its COVID-19 vaccine trial. This is your Daily Crunch for November 9, 2020. The big story: Reviewing the biggest and smallest new iPho…*
       
 
 
