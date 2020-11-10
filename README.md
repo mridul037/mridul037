@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ Fred Brooks
+~ George Boole
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The complexity of software is an essential property, not an accidental one. Henc
 
 </pre>
 **Daily News**
-  - Mirror founder Brynn Putnam on life with Lululemon -- and whether or not she sold too soon
+  - Watch Apple unveil the first ARM-based Mac live right here
      <hr/>
      
-      - *Brynn Putnam has a lot to feel great about. A Harvard grad and former professional ballet dancer who opened the first of what have become three high-intensity fitness studios in New York, she then launched a second business in 2016 when — while pregnant with …*
+      - *Apple is organizing its third event in three months today. The company is holding a (virtual) keynote at 10 AM PT (1 PM in New York, 6 PM in London, 7 PM in Paris). And you’ll be able to watch the event right here as the company is streaming it live. Apple ha…*
      
+  - Mirror founder Brynn Putnam on life with Lululemon -- and whether or not she sold too soon
+      <hr/>
+      
+      - *Brynn Putnam has a lot to feel great about. A Harvard grad and former professional ballet dancer who opened the first of what have become three high-intensity fitness studios in New York, she then launched a second business in 2016 when — while pregnant with …*
+      
   - Hong Kong insurtech startup Coherent gets $14 million Series A led by Cathay Innovation
       <hr/>
       
@@ -81,16 +86,11 @@ The complexity of software is an essential property, not an accidental one. Henc
       <hr/>
       
       - *Bill Zhang lowered himself into lunges on a squishy mat as he explained to me the benefits of the full-body training suit he was wearing. We were in his small, modest office in Xili, a university area in Shenzhen that’s also home to many hardware makers. The …*
-      
+       
   - The race to be China's top fintech platform: Ant vs Tencent
       <hr/>
-      
-      - *As Ant Group seizes the world’s attention with its record initial public offering, which was abruptly called off by Beijing, investors and analysts are revisiting Tencent’s fintech interests, recognized as Ant’s archrival in China. It’s somewhat complicated t…*
        
-  - Elon Musk's Boring Company is setting up operations in Austin
-      <hr/>
-       
-       - *Elon Musk’s tunneling and transportation startup The Boring Company is eyeing Austin for its next project based on several new job postings. The Boring Company, which last year landed a deal to construct and operate a “people mover” for the Las Vegas Conventi…*
+       - *As Ant Group seizes the world’s attention with its record initial public offering, which was abruptly called off by Beijing, investors and analysts are revisiting Tencent’s fintech interests, recognized as Ant’s archrival in China. It’s somewhat complicated t…*
       
 
 
