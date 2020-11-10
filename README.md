@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 
-~ Charles Simonyi
+~ Lawrence Flon
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ I'll bet you that from ten feet away I can tell if a program is bad. I might not
 
 </pre>
 **Daily News**
-  - Apple updates Mac Mini with Apple-designed M1 chip
+  - Accelerators embrace change forced by pandemic
      <hr/>
      
-      - *In addition to the MacBook Air, Apple also introduced a new Mac Mini. It runs Apple’s first custom chipset specifically designed for Mac computers, the M1. It still features the same familiar design, but it now uses an Arm-based chip. “If you compare a Mac mi…*
+      - *Accelerators have become a major force in the startup world, but these teeming masses of potential have been forced, like every other industry, to adopt major changes with the pandemic. Surprisingly, however, they have not just rolled with the punches but see…*
      
-  - Apple will release macOS Big Sur on November 12
+  - Apple's new Mac lineup and chip work fail to excite investors
       <hr/>
       
-      - *The new Mac software comes with a new and refreshed user interface, new features, and performance improvements.*
+      - *Worth $1,985 billion at the close of the show, Apple’s Mac event could not find that last $15 billion in market cap that it needed to crest the $2,000 billion mark, a market cap value more commonly referred to as $2 trillion. Your watchful friends at TechCrun…*
       
-  - The 13-inch MacBook Pro gets Apple's new M1 chip, starting at $1,299
+  - 5 VCs discuss the future of SaaS and software after Pfizer's vaccine breakthrough
       <hr/>
       
-      - *And just like that, we’ve got three new devices sporting Apple’s new proprietary chips. Following its announcement of a new MacBook Air and Mac Mini, the company just upgraded another popular model. The 13-inch MacBook Pro will be one of the first three model…*
+      - *Monday’s news that a COVID-19 vaccine candidate looks to be incredibly effective gave investors reasons to believe in a better future. Perhaps COVID-19 won’t be with us for years, investors appeared to think, but will instead become something that we can bend…*
       
-  - This is the new $999 MacBook Air, powered by Apple silicon
+  - Here's everything Apple announced at the "One More Thing" event today
       <hr/>
       
-      - *It’s official. The first MacBook to sport Apple’s own silicon is here. The perennial favorite thin and light is on the way, featuring the company’s new M1 chip — it’s first desktop CPU built in-house. The system looks to be largely identical to the last sever…*
+      - *Ready for more Apple news? Because it’s time for more Apple news. This morning the company hosted its third event in as many months, where they finally detailed how and why they’ll be shifting Macs to chips designed and built by Apple and showed off the first…*
        
-  - Apple announces the M1, the first member of its Apple Silicon family
+  - iOS apps can run on Apple's new Apple Silicon Macs
       <hr/>
        
-       - *As expected, Apple today announced its first Arm-based Mac and with that, it also announced its family of Arm-based Apple Silicon chips. When it first announced Apple Silicon, the company didn’t provide a lot of details, but in today’s presentation, we learne…*
+       - *Apple announced today its new Apple Silicon Macs would be capable of running a wider range of apps than before, even in the case where an iOS developer hasn’t released a Mac -compatible version of their mobile experience. The company said macOS Big Sur would …*
       
 
 
