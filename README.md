@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-It’s all talk until the code runs.
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 
-~ Ward Cunningham
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ It’s all talk until the code runs.
 
 </pre>
 **Daily News**
-  - Snap acquired Voca.ai, which makes AI-based voice agents for call centers, for $120M
+  - Ring doorbells recalled over fire threat
      <hr/>
      
-      - *Snapchat is the quintessential consumer app: with an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in …*
+      - *Amazon-owned Ring devices have long been under scrutiny of privacy advocates. Now the brand is dealing with another issue entirely.*
      
+  - Join us for a live Q&A with Bessemer's Byron Deeter next Tuesday at 3 p.m ET, noon PT
+      <hr/>
+      
+      - *The Extra Crunch Live series rolls along with a big new installment next week as Jordan Crook and Alex Wilhelm will welcome Bessemer Venture Partners‘ Byron Deeter to the conversation. Deeter is an obvious addition to the collection of investors, founders and…*
+      
+  - Snap acquired Voca.ai, which makes AI-based voice agents for call centers, for $120M
+      <hr/>
+      
+      - *Snapchat is the quintessential consumer app: with an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in …*
+      
   - Former Dropbox CFO Ajay Vashee is joining the powerhouse venture firm IVP in January
       <hr/>
       
       - *Ajay Vashee — who spent the last eight years at Dropbox, rising from the head of finance to CFO over his tenure and helping to take the company public in 2018 — is joining the powerhouse venture firm IVP in January. it’s the realization of hopes established l…*
-      
+       
   - To own an AR future, Niantic wants to build a smarter map of the world
       <hr/>
-      
-      - *Niantic is continuing to bet heavily on the idea that it knows where consumer computing is headed, namely towards augmented reality. The game development startup behind Pokémon Go has some good company with companies like Apple, Facebook and Snap making simil…*
-      
-  - Dear Sophie: What does Biden's win mean for tech immigration?
-      <hr/>
-      
-      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
        
-  - Come June 1, 2021, all of your new photos will count against your free Google storage
-      <hr/>
-       
-       - *Come June of 2021, any new photo or video uploaded in high quality, which currently wouldn't count against your allocation, will count against those free 15 GB.*
+       - *Niantic is continuing to bet heavily on the idea that it knows where consumer computing is headed, namely towards augmented reality. The game development startup behind Pokémon Go has some good company with companies like Apple, Facebook and Snap making simil…*
       
 
 
