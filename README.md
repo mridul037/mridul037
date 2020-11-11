@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
 
-~ Edsger W. Dijkstra
+~ Butler Lampson
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The competent programmer is fully aware of the strictly limited size of his own 
 
 </pre>
 **Daily News**
-  - The Boox Poke 3 is my new favorite e-reader
+  - Josh.ai launches a 'nearly invisible' Amazon Echo competitor that's the size of a coin
      <hr/>
      
-      - *There are plenty of e-readers to choose from out there, but never enough for me. I’m always questing for the one that will make me forget that there are others available, and in the Onyx Boox Poke 3, I think I have found it — at least for now. The Chinese e-p…*
+      - *In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home, and Amazon found even more speak…*
      
+  - Daily Crunch: Apple unveils new Macs
+      <hr/>
+      
+      - *Apple announces “One More Thing” before the holiday season, Uber lets you reserve rides 30 days in advance and Spotify makes another podcast acquisition. This is your Daily Crunch for November 10, 2020. The big story: Apple unveils new Macs During an unusuall…*
+      
+  - Lyft sees ride revenues recover by nearly 50% in just three months
+      <hr/>
+      
+      - *Shares of Lyft are riding high, popping more than 7% in after-hours trading today after the American ride-hailing giant reported its Q3 earnings. Lyft, which competes with Uber for rideshare, reported revenues of $499.7 million in third-quarter, a 48% drop fr…*
+      
+  - The Boox Poke 3 is my new favorite e-reader
+      <hr/>
+      
+      - *There are plenty of e-readers to choose from out there, but never enough for me. I’m always questing for the one that will make me forget that there are others available, and in the Onyx Boox Poke 3, I think I have found it — at least for now. The Chinese e-p…*
+       
   - Macs with the M1 chip do not support eGPUs
       <hr/>
-      
-      - *Apple today announced its first self-developed processor for Mac hardware. Called the M1, the system on a chip (SoC) is based on an ARM architecture rather than an Intel-built platform. This is a massive switch, and as the dust settles from the announcement, …*
-      
-  - House Reps ask FCC to 'stop work on all partisan, controversial items' during transition
-      <hr/>
-      
-      - *Two U.S. Representatives who oversee the FCC have asked the agency to respect the results of the election by abandoning any “partisan, controversial items under consideration.” This likely includes the FCC’s effort to reinterpret Section 230, an important pro…*
-      
-  - Google adds COVID-related health and safety info to Google Travel
-      <hr/>
-      
-      - *Google today announced it’s adding more COVID-related health and safety information to its Google Travel booking service. Starting this week, when users search for hotels and vacation rental properties through Google Travel, they may see new information about…*
        
-  - IBM CEO Arvind Krishna wants to completely transform his organization
-      <hr/>
-       
-       - *When IBM announced it was spinning out its infrastructure services business last month, it was surely a sign that the company was going all in on hybrid cloud. Today in an interview with Jon Fortt at the CNBC Evolve summit, IBM CEO Arvind Krishna made it clea…*
+       - *Apple today announced its first self-developed processor for Mac hardware. Called the M1, the system on a chip (SoC) is based on an ARM architecture rather than an Intel-built platform. This is a massive switch, and as the dust settles from the announcement, …*
       
 
 
