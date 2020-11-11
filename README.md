@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+In my second year in graduate school, I took a computer course and that was like lightening striking.
 
-~ Ada Lovelace
+~ Ted Nelson
 <pre>
 
 </pre>
