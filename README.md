@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+JavaScript is the world's most misunderstood programming language.
 
-~ Butler Lampson
+~ Douglas Crockford
 <pre>
 
 </pre>
