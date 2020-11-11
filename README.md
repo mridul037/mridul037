@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+It’s all talk until the code runs.
 
-~ Edsger W. Dijkstra
+~ Ward Cunningham
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The competent programmer is fully aware of the strictly limited size of his own 
 
 </pre>
 **Daily News**
-  - Facebook extends its temporary ban on political ads for another month
+  - Snap acquired Voca.ai, which makes AI-based voice agents for call centers, for $120M
      <hr/>
      
-      - *The election is settled, but the nation is far from it. Before Election Day in the U.S., Facebook hit pause on all political and social issue ads. At the time, the company made it clear that the precautionary measure designed to turn off one potential faucet …*
+      - *Snapchat is the quintessential consumer app: with an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in …*
      
-  - Europe puts out advice on fixing international data transfers that's cold comfort for Facebook
+  - Former Dropbox CFO Ajay Vashee is joining the powerhouse venture firm IVP in January
       <hr/>
       
-      - *Following the landmark CJEU ‘Schrems II’ ruling in July, which invalidated the four-year-old EU-US Privacy Shield, European data protection regulators have today published 38-pages of guidance for businesses stuck trying to navigate the uncertainty around how…*
+      - *Ajay Vashee — who spent the last eight years at Dropbox, rising from the head of finance to CFO over his tenure and helping to take the company public in 2018 — is joining the powerhouse venture firm IVP in January. it’s the realization of hopes established l…*
       
-  - Amazon's new 'Care Hub' lets Alexa owners keep tabs on aging family members
+  - To own an AR future, Niantic wants to build a smarter map of the world
       <hr/>
       
-      - *Amazon today announced a set of new features aimed at making its Alexa devices more useful to aging adults. With the launch of “Care Hub,” an added option in the Alexa mobile app, family members can keep an eye on older parents and loved ones, with their perm…*
+      - *Niantic is continuing to bet heavily on the idea that it knows where consumer computing is headed, namely towards augmented reality. The game development startup behind Pokémon Go has some good company with companies like Apple, Facebook and Snap making simil…*
       
-  - Only 72 hours left until early-bird savings end for TC Sessions: Space 2020
+  - Dear Sophie: What does Biden's win mean for tech immigration?
       <hr/>
       
-      - *We’re just about a month away from TC Sessions: Space 2020, a two-day conference dedicated to bold visionaries with the passion, audacity and technical skills to chart a new course in space. Fun fact: a bold visionary likes a good deal as much as the next one…*
+      - *Sophie Alcorn Contributor Share on Twitter Sophie Alcorn is the founder of Alcorn Immigration Law in Silicon Valley and 2019 Global Law Experts Awards’ “Law Firm of the Year in California for Entrepreneur Immigration Services.” She connects people with the bu…*
        
-  - As edtech crowds up, Campuswire bets big on real-time learning
+  - Come June 1, 2021, all of your new photos will count against your free Google storage
       <hr/>
        
-       - *Campuswire was in a fortuitous spot when colleges and universities across the world shut down on short notice because of the threat of coronavirus. Founded by Tade Oyerinde in 2018, Campuswire is a virtual solution for any teacher who wants to digitize their …*
+       - *Come June of 2021, any new photo or video uploaded in high quality, which currently wouldn't count against your allocation, will count against those free 15 GB.*
       
 
 
