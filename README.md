@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ Donald Knuth
+~ Harlan Mills
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Email is a wonderful thing for people whose role in life is to be on top of thin
 
 </pre>
 **Daily News**
-  - Josh.ai launches a 'nearly invisible' Amazon Echo competitor that's the size of a coin
+  - Chan Zuckerberg Initiative faces racial discrimination allegations from former employee
      <hr/>
      
-      - *In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home, and Amazon found even more speak…*
+      - *Ray Holgado, a former employee of the Chan Zuckerberg Initiative, recently filed a racial discrimination complaint with the California Department of Fair Employment and Housing. Holgado, who is Black, worked at CZI from September 2018 through August 2020. “De…*
      
+  - Josh.ai launches a 'nearly invisible' Amazon Echo competitor that's the size of a coin
+      <hr/>
+      
+      - *In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home, and Amazon found even more speak…*
+      
   - Daily Crunch: Apple unveils new Macs
       <hr/>
       
@@ -81,16 +86,11 @@ Email is a wonderful thing for people whose role in life is to be on top of thin
       <hr/>
       
       - *Shares of Lyft are riding high, popping more than 7% in after-hours trading today after the American ride-hailing giant reported its Q3 earnings. Lyft, which competes with Uber for rideshare, reported revenues of $499.7 million in third-quarter, a 48% drop fr…*
-      
+       
   - The Boox Poke 3 is my new favorite e-reader
       <hr/>
-      
-      - *There are plenty of e-readers to choose from out there, but never enough for me. I’m always questing for the one that will make me forget that there are others available, and in the Onyx Boox Poke 3, I think I have found it — at least for now. The Chinese e-p…*
        
-  - Macs with the M1 chip do not support eGPUs
-      <hr/>
-       
-       - *Apple today announced its first self-developed processor for Mac hardware. Called the M1, the system on a chip (SoC) is based on an ARM architecture rather than an Intel-built platform. This is a massive switch, and as the dust settles from the announcement, …*
+       - *There are plenty of e-readers to choose from out there, but never enough for me. I’m always questing for the one that will make me forget that there are others available, and in the Onyx Boox Poke 3, I think I have found it — at least for now. The Chinese e-p…*
       
 
 
