@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 
-~ Ada Lovelace
+~ Stan Kelly-Bootle
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ The science of operations, as derived from mathematics more especially, is a sci
 
 </pre>
 **Daily News**
-  - India approves Google's $4.5 billion deal with Reliance's Jio Platforms
+  - Inside Silicon Valley's SPAC psychology
      <hr/>
      
-      - *India’s antitrust watchdog has approved Google’s proposed investment of $4.5 billion in the nation’s largest telecom platform Jio Platforms, it said in a tweet on Wednesday. Google announced in July that it would be investing $4.5 billion for a 7.73% stake in…*
+      - *A SPAC discussion is coming to your email inbox, Zoom or board meeting soon; are you prepared to lead this conversation?*
      
+  - Mozart Data lands $4M seed to provide out-of-the-box data stack
+      <hr/>
+      
+      - *Mozart Data founders Peter Fishman and Dan Silberman have been friends for over 20 years, working at various startups, and even launching a hot sauce company together along the way. As technologists, they saw companies building a data stack over and over. The…*
+      
+  - Data audit of UK political parties finds laundry list of failings
+      <hr/>
+      
+      - *In a finding that should surprise no one, an audit of how UK political parties are handling voter information has surfaced a damning lack of compliance with data protection rules across the political spectrum — with parties failing to come clean with voters a…*
+      
+  - India approves Google's $4.5 billion deal with Reliance's Jio Platforms
+      <hr/>
+      
+      - *India’s antitrust watchdog has approved Google’s proposed investment of $4.5 billion in the nation’s largest telecom platform Jio Platforms, it said in a tweet on Wednesday. Google announced in July that it would be investing $4.5 billion for a 7.73% stake in…*
+       
   - SpaceX's Falcon 9 rocket and Dragon capsule are now officially certified for human spaceflight by NASA
       <hr/>
-      
-      - *SpaceX and NASA have completed the multi-year certification program for the Falcon 9 and Dragon spacecraft launch system, the first ever human-rated commercial space system to be developed. The final stage in the certification process was the Demo-2 mission t…*
-      
-  - This startup is betting that you want to binge remote-work content
-      <hr/>
-      
-      - *As the coronavirus pandemic evolved into a genuine threat, offices closed to limit spread and people suddenly had to download Zoom and work from home. In the months since, many offices have remained closed. And with the number of coronavirus cases growing at …*
-      
-  - BMW announces the iX, its next-gen electric flagship
-      <hr/>
-      
-      - *At its (virtual) NextGen 2020 event, BMW today announced that the BMW iX, its new all-electric flagship previously known as the iNext, will launch at the end of 2021. Based on BMW’s fifth-generation eDrive technology, the iX will get a new look — and new kidn…*
        
-  - Molotov launches free ad-supported streaming service Mango
-      <hr/>
-       
-       - *French startup Molotov provides a TV streaming service in France that replaces the traditional set-top box. You can access live TV, subscribe to premium channels, watch content after they air and record content in the cloud. Today, the company is launching a …*
+       - *SpaceX and NASA have completed the multi-year certification program for the Falcon 9 and Dragon spacecraft launch system, the first ever human-rated commercial space system to be developed. The final stage in the certification process was the Demo-2 mission t…*
       
 
 
