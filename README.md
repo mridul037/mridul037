@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 
-~ Stan Kelly-Bootle
+~ Bill Gates
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ Should array indices start at 0 or 1? My compromise of 0.5 was rejected without,
 
 </pre>
 **Daily News**
-  - Inside Silicon Valley's SPAC psychology
+  - Fishtown Analytics raises $29.5M Series B for its data engineering platform
      <hr/>
      
-      - *A SPAC discussion is coming to your email inbox, Zoom or board meeting soon; are you prepared to lead this conversation?*
+      - *Fishtown Analytics, the Philadelphia-based company behind the dbt open-source data engineering tool, today announced that it has raised a $29.5 million Series B round led by Sequoia Captial, with participation from previous investors Andreessen Horowitz and A…*
      
-  - Mozart Data lands $4M seed to provide out-of-the-box data stack
+  - MTV partners with Unrd to create a mobile version of 'Ghosted: Love Gone Missing'
       <hr/>
       
-      - *Mozart Data founders Peter Fishman and Dan Silberman have been friends for over 20 years, working at various startups, and even launching a hot sauce company together along the way. As technologists, they saw companies building a data stack over and over. The…*
+      - *Mobile storytelling startup Unrd is making its first move into adapting existing intellectual property — specifically “Ghosted: Love Gone Missing,” an MTV reality series about ghosting (the dating practice, not anything supernatural). Until now, Unrd has crea…*
       
-  - Data audit of UK political parties finds laundry list of failings
+  - Roku rolls out AirPlay 2 and HomeKit support to 4K devices
       <hr/>
       
-      - *In a finding that should surprise no one, an audit of how UK political parties are handling voter information has surfaced a damning lack of compliance with data protection rules across the political spectrum — with parties failing to come clean with voters a…*
+      - *In September, Roku announced the next version of its TV operating system, Roku OS 9.4, would introduce support for Apple’s AirPlay 2 and HomeKit. This morning, the company says these features have now rolled out across a number of its 4K Roku devices, includi…*
       
-  - India approves Google's $4.5 billion deal with Reliance's Jio Platforms
+  - Greylock’s Asheem Chandna on 'shifting left' in cybersecurity and the future of enterprise startups
       <hr/>
       
-      - *India’s antitrust watchdog has approved Google’s proposed investment of $4.5 billion in the nation’s largest telecom platform Jio Platforms, it said in a tweet on Wednesday. Google announced in July that it would be investing $4.5 billion for a 7.73% stake in…*
+      - *Last week was a busy week, what with an election in Myanmar and all (well, and the United States, I guess). So perhaps you were glued to your TV or smartphone, and missed out on our conversation with Asheem Chandna, a long-time partner at Greylock who has inv…*
        
-  - SpaceX's Falcon 9 rocket and Dragon capsule are now officially certified for human spaceflight by NASA
+  - Boostrapped Clearfind wants to cut your software spend, for a small fee
       <hr/>
        
-       - *SpaceX and NASA have completed the multi-year certification program for the Falcon 9 and Dragon spacecraft launch system, the first ever human-rated commercial space system to be developed. The final stage in the certification process was the Demo-2 mission t…*
+       - *Software is eating the world, and that grub can be costly. As the market for enterprise tools and software continues to balloon, organizations are spending more and more on that software across an increasingly complicated and rapidly evolving landscape. That’…*
       
 
 
