@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 
-~ Charles Simonyi
+~ Ada Lovelace
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ What is programming? Some people call it a science, some people call it an art, 
 
 </pre>
 **Daily News**
-  - Molotov launches free ad-supported streaming service Mango
+  - India approves Google's $4.5 billion deal with Reliance's Jio Platforms
      <hr/>
      
-      - *French startup Molotov provides a TV streaming service in France that replaces the traditional set-top box. You can access live TV, subscribe to premium channels, watch content after they air and record content in the cloud. Today, the company is launching a …*
+      - *India’s antitrust watchdog has approved Google’s proposed investment of $4.5 billion in the nation’s largest telecom platform Jio Platforms, it said in a tweet on Wednesday. Google announced in July that it would be investing $4.5 billion for a 7.73% stake in…*
      
-  - SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation
+  - SpaceX's Falcon 9 rocket and Dragon capsule are now officially certified for human spaceflight by NASA
       <hr/>
       
-      - *This year, more than ever before because of the Covid-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done, and entertain themselves. That has created a huge bonanza for cybercriminals, but also c…*
+      - *SpaceX and NASA have completed the multi-year certification program for the Falcon 9 and Dragon spacecraft launch system, the first ever human-rated commercial space system to be developed. The final stage in the certification process was the Demo-2 mission t…*
       
-  - Seedcamp raises £78M for its fifth fund
+  - This startup is betting that you want to binge remote-work content
       <hr/>
       
-      - *European pre-seed and seed-stage VC Seedcamp has reached £78M in the first and final close of its fifth fund, ‘Seedcamp V’, its largest to date. The round was backed by investors including British Patient Capital, Legal & General, TIFF, LGT, Vintage IP, Isome…*
+      - *As the coronavirus pandemic evolved into a genuine threat, offices closed to limit spread and people suddenly had to download Zoom and work from home. In the months since, many offices have remained closed. And with the number of coronavirus cases growing at …*
       
-  - Carlos Gonzalez-Cadenas, angel investor and COO of GoCardless, is joining Index as partner
+  - BMW announces the iX, its next-gen electric flagship
       <hr/>
       
-      - *Index Ventures, the London and San Francisco-headquartered venture capital firm that primarily invests in Europe and the U.S., has recruited its latest investment partner. Carlos Gonzalez-Cadenas, who is currently the COO of London-based fintech GoCardless an…*
+      - *At its (virtual) NextGen 2020 event, BMW today announced that the BMW iX, its new all-electric flagship previously known as the iNext, will launch at the end of 2021. Based on BMW’s fifth-generation eDrive technology, the iX will get a new look — and new kidn…*
        
-  - India's broadcasting ministry secures power to regulate streaming services, online content
+  - Molotov launches free ad-supported streaming service Mango
       <hr/>
        
-       - *India’s Ministry of Information and Broadcasting, which oversees programs beamed on television and theatres in the country, will now also regulate policies for streaming platforms and digital news outlets in a move that is widely believed to kickstart an era …*
+       - *French startup Molotov provides a TV streaming service in France that replaces the traditional set-top box. You can access live TV, subscribe to premium channels, watch content after they air and record content in the cloud. Today, the company is launching a …*
       
 
 
