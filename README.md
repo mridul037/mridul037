@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 
-~ George Boole
+~ Edsger W. Dijkstra
 <pre>
 
 </pre>
@@ -67,30 +67,30 @@ No matter how correct a mathematical theorem may appear to be, one ought never t
 
 </pre>
 **Daily News**
-  - As edtech crowds up, Campuswire bets big on real-time learning
+  - Facebook extends its temporary ban on political ads for another month
      <hr/>
      
-      - *Campuswire was in a fortuitous spot when colleges and universities across the world shut down on short notice because of the threat of coronavirus. Founded by Tade Oyerinde in 2018, Campuswire is a virtual solution for any teacher who wants to digitize their …*
+      - *The election is settled, but the nation is far from it. Before Election Day in the U.S., Facebook hit pause on all political and social issue ads. At the time, the company made it clear that the precautionary measure designed to turn off one potential faucet …*
      
-  - TikTok test lets users fundraise for charity from their profile
+  - Europe puts out advice on fixing international data transfers that's cold comfort for Facebook
       <hr/>
       
-      - *TikTok is testing a new feature that allows users to raise funds for causes and charities they care about directly from their TikTok profiles. Those who are in the test group will find a new option when they click “Edit Profile” directing them to choose a non…*
+      - *Following the landmark CJEU ‘Schrems II’ ruling in July, which invalidated the four-year-old EU-US Privacy Shield, European data protection regulators have today published 38-pages of guidance for businesses stuck trying to navigate the uncertainty around how…*
       
-  - Square and PayPal earnings bring good (and bad) news for fintech startups
+  - Amazon's new 'Care Hub' lets Alexa owners keep tabs on aging family members
       <hr/>
       
-      - *Earnings season is racing past us, with the big ride-hailing companies’ numbers in, all of the Big Five having wrapped their reporting and lots of SaaS numbers in the market. But amidst all the noise, The Exchange has kept an eye on two companies in particula…*
+      - *Amazon today announced a set of new features aimed at making its Alexa devices more useful to aging adults. With the launch of “Care Hub,” an added option in the Alexa mobile app, family members can keep an eye on older parents and loved ones, with their perm…*
       
-  - Honda to mass-produce Level 3 autonomous cars by March
+  - Only 72 hours left until early-bird savings end for TC Sessions: Space 2020
       <hr/>
       
-      - *Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equip…*
+      - *We’re just about a month away from TC Sessions: Space 2020, a two-day conference dedicated to bold visionaries with the passion, audacity and technical skills to chart a new course in space. Fun fact: a bold visionary likes a good deal as much as the next one…*
        
-  - Fishtown Analytics raises $29.5M Series B for its data engineering platform
+  - As edtech crowds up, Campuswire bets big on real-time learning
       <hr/>
        
-       - *Fishtown Analytics, the Philadelphia-based company behind the dbt open-source data engineering tool, today announced that it has raised a $29.5 million Series B round led by Sequoia Captial, with participation from previous investors Andreessen Horowitz and A…*
+       - *Campuswire was in a fortuitous spot when colleges and universities across the world shut down on short notice because of the threat of coronavirus. Founded by Tade Oyerinde in 2018, Campuswire is a virtual solution for any teacher who wants to digitize their …*
       
 
 
