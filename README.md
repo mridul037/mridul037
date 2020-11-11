@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Marijn Haverbeke
+~ Donald Knuth
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ Flaws in computer programs are usually called bugs. It makes programmers feel go
 
 </pre>
 **Daily News**
-  - E-commerce startup Heroes raises $65M in equity and debt to become the Thrasio of Europe
+  - India's broadcasting ministry secures power to regulate streaming services, online content
      <hr/>
      
-      - *Heroes, a European e-commerce business operating a similar model to unicorn Thrasio in the U.S. — with a strategy of acquiring and scaling high performing Amazon businesses — has raised $65 million in funding round. The round — a mixture of equity financing a…*
+      - *India’s Ministry of Information and Broadcasting, which oversees programs beamed on television and theatres in the country, will now also regulate policies for streaming platforms and digital news outlets in a move that is widely believed to kickstart an era …*
      
+  - E-commerce startup Heroes raises $65M in equity and debt to become the Thrasio of Europe
+      <hr/>
+      
+      - *Heroes, a European e-commerce business operating a similar model to unicorn Thrasio in the U.S. — with a strategy of acquiring and scaling high performing Amazon businesses — has raised $65 million in funding round. The round — a mixture of equity financing a…*
+      
   - ByteDance asks federal appeals court to vacate U.S. order forcing it to sell TikTok
       <hr/>
       
@@ -81,16 +86,11 @@ Flaws in computer programs are usually called bugs. It makes programmers feel go
       <hr/>
       
       - *Ray Holgado, a former employee of the Chan Zuckerberg Initiative, recently filed a racial discrimination complaint with the California Department of Fair Employment and Housing. Holgado, who is Black, worked at CZI from September 2018 through August 2020. “De…*
-      
+       
   - Josh.ai launches a 'nearly invisible' Amazon Echo competitor that's the size of a coin
       <hr/>
-      
-      - *In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home, and Amazon found even more speak…*
        
-  - Daily Crunch: Apple unveils new Macs
-      <hr/>
-       
-       - *Apple announces “One More Thing” before the holiday season, Uber lets you reserve rides 30 days in advance and Spotify makes another podcast acquisition. This is your Daily Crunch for November 10, 2020. The big story: Apple unveils new Macs During an unusuall…*
+       - *In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home, and Amazon found even more speak…*
       
 
 
