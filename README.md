@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The hardest part of design is keeping features out.
+Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 
-~ Don Norman
+~ Michael Stal
 <pre>
 
 </pre>
