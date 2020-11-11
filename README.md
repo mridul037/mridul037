@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
 
-~ Donald Knuth
+~ Marijn Haverbeke
 <pre>
 
 </pre>
@@ -67,11 +67,16 @@ The more varieties of different kinds of notations are still useful — don’t 
 
 </pre>
 **Daily News**
-  - ByteDance asks federal appeals court to vacate U.S. order forcing it to sell TikTok
+  - E-commerce startup Heroes raises $65M in equity and debt to become the Thrasio of Europe
      <hr/>
      
-      - *In a new filing, TikTok’s parent company ByteDance asked the federal appeals court to vacate the United States government order forcing it to sell the app’s American operations. President Donald Trump issued an order in August requiring ByteDance to sell TikT…*
+      - *Heroes, a European e-commerce business operating a similar model to unicorn Thrasio in the U.S. — with a strategy of acquiring and scaling high performing Amazon businesses — has raised $65 million in funding round. The round — a mixture of equity financing a…*
      
+  - ByteDance asks federal appeals court to vacate U.S. order forcing it to sell TikTok
+      <hr/>
+      
+      - *In a new filing, TikTok’s parent company ByteDance asked the federal appeals court to vacate the United States government order forcing it to sell the app’s American operations. President Donald Trump issued an order in August requiring ByteDance to sell TikT…*
+      
   - Chan Zuckerberg Initiative faces racial discrimination allegations from former employee
       <hr/>
       
@@ -81,16 +86,11 @@ The more varieties of different kinds of notations are still useful — don’t 
       <hr/>
       
       - *In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home, and Amazon found even more speak…*
-      
+       
   - Daily Crunch: Apple unveils new Macs
       <hr/>
-      
-      - *Apple announces “One More Thing” before the holiday season, Uber lets you reserve rides 30 days in advance and Spotify makes another podcast acquisition. This is your Daily Crunch for November 10, 2020. The big story: Apple unveils new Macs During an unusuall…*
        
-  - Lyft sees ride revenues recover by nearly 50% in just three months
-      <hr/>
-       
-       - *Shares of Lyft are riding high, popping more than 7% in after-hours trading today after the American ride-hailing giant reported its Q3 earnings. Lyft, which competes with Uber for rideshare, reported revenues of $499.7 million in third-quarter, a 48% drop fr…*
+       - *Apple announces “One More Thing” before the holiday season, Uber lets you reserve rides 30 days in advance and Spotify makes another podcast acquisition. This is your Daily Crunch for November 10, 2020. The big story: Apple unveils new Macs During an unusuall…*
       
 
 
