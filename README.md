@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-JavaScript is the world's most misunderstood programming language.
+Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 
-~ Douglas Crockford
+~ Donald Knuth
 <pre>
 
 </pre>
