@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 
-~ Michael Stal
+~ Donald Knuth
 <pre>
 
 </pre>
