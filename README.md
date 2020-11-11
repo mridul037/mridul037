@@ -23,9 +23,9 @@ I have done some internship's onsite and remote. Beside's programming, I enjoy e
 
 **Quote of the hour:**
 
-I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 
-~ Richard Stallman
+~ Charles Simonyi
 <pre>
 
 </pre>
